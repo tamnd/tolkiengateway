@@ -17,7 +17,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Pel</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Pel_(disambiguation).md" title="Pel (disambiguation)">Pel (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Pel</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Pel_(disambiguation).md" title="Pel (disambiguation)">Pel (disambiguation)</a></b>.</div></div>
 
 <i><b>pêl</b></i> (số nhiều *peli*) là một danh từ [Noldorin](../N/Noldorin.md) có nghĩa là "cánh đồng có rào chắn".<sup id="cite_ref-etym_1-0" class="reference"><a href="#cite_note-etym-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

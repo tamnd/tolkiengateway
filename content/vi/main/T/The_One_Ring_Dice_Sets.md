@@ -43,21 +43,21 @@ Xúc xắc màu xương được phát hành đầu tiên, sau đó là bộ mà
 		<li class="gallerybox" style="width: 218.66666666667px">
 			<div class="thumb" style="width: 216.66666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_One_Ring_-_Dice_Set_Green_(Cubicle_7).jpg.md" title="Green"><img alt="Green" src="https://tolkiengateway.net/w/images/thumb/3/39/The_One_Ring_-_Dice_Set_Green_%28Cubicle_7%29.jpg/325px-The_One_Ring_-_Dice_Set_Green_%28Cubicle_7%29.jpg" decoding="async" loading="lazy" width="217" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/39/The_One_Ring_-_Dice_Set_Green_%28Cubicle_7%29.jpg/488px-The_One_Ring_-_Dice_Set_Green_%28Cubicle_7%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/39/The_One_Ring_-_Dice_Set_Green_%28Cubicle_7%29.jpg/650px-The_One_Ring_-_Dice_Set_Green_%28Cubicle_7%29.jpg 2x" data-file-width="700" data-file-height="388"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 197px"><div class="gallerytext">
-<p>Xanh lục
+<p>Green
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 202px">
 			<div class="thumb" style="width: 200px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_One_Ring_-_Dice_Set_Red_(Cubicle_7).jpg.md" title="Red and black"><img alt="Red and black" src="https://tolkiengateway.net/w/images/thumb/c/c3/The_One_Ring_-_Dice_Set_Red_%28Cubicle_7%29.jpg/300px-The_One_Ring_-_Dice_Set_Red_%28Cubicle_7%29.jpg" decoding="async" loading="lazy" width="200" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c3/The_One_Ring_-_Dice_Set_Red_%28Cubicle_7%29.jpg/450px-The_One_Ring_-_Dice_Set_Red_%28Cubicle_7%29.jpg 1.5x, https://tolkiengateway.net/w/images/c/c3/The_One_Ring_-_Dice_Set_Red_%28Cubicle_7%29.jpg 2x" data-file-width="500" data-file-height="300"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 180px"><div class="gallerytext">
-<p>Đỏ và đen
+<p>Red and black
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 162.66666666667px">
 			<div class="thumb" style="width: 160.66666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_One_Ring_-_Dice_Set_Blue_(Cubicle_7).jpg.md" title="Blue and white"><img alt="Blue and white" src="https://tolkiengateway.net/w/images/thumb/7/7a/The_One_Ring_-_Dice_Set_Blue_%28Cubicle_7%29.jpg/241px-The_One_Ring_-_Dice_Set_Blue_%28Cubicle_7%29.jpg" decoding="async" loading="lazy" width="161" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7a/The_One_Ring_-_Dice_Set_Blue_%28Cubicle_7%29.jpg/362px-The_One_Ring_-_Dice_Set_Blue_%28Cubicle_7%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7a/The_One_Ring_-_Dice_Set_Blue_%28Cubicle_7%29.jpg/483px-The_One_Ring_-_Dice_Set_Blue_%28Cubicle_7%29.jpg 2x" data-file-width="910" data-file-height="679"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 141px"><div class="gallerytext">
-<p>Màu xanh và trắng
+<p>Blue and white
 </p>
 			</div></div>
 		</li>
@@ -83,14 +83,14 @@ Bộ xúc xắc màu trắng hoặc đen được cung cấp, cả hai đều c�
 		<li class="gallerybox" style="width: 182px">
 			<div class="thumb" style="width: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_One_Ring_-_Dice_Set_White_(Free_League).jpg.md" title="White"><img alt="White" src="https://tolkiengateway.net/w/images/thumb/f/f4/The_One_Ring_-_Dice_Set_White_%28Free_League%29.jpg/270px-The_One_Ring_-_Dice_Set_White_%28Free_League%29.jpg" decoding="async" loading="lazy" width="180" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f4/The_One_Ring_-_Dice_Set_White_%28Free_League%29.jpg/405px-The_One_Ring_-_Dice_Set_White_%28Free_League%29.jpg 1.5x, https://tolkiengateway.net/w/images/f/f4/The_One_Ring_-_Dice_Set_White_%28Free_League%29.jpg 2x" data-file-width="500" data-file-height="500"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 160px"><div class="gallerytext">
-<p>Trắng
+<p>White
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 182px">
 			<div class="thumb" style="width: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_One_Ring_-_Dice_Set_Black_(Free_League).jpg.md" title="Black"><img alt="Black" src="https://tolkiengateway.net/w/images/thumb/3/31/The_One_Ring_-_Dice_Set_Black_%28Free_League%29.jpg/270px-The_One_Ring_-_Dice_Set_Black_%28Free_League%29.jpg" decoding="async" loading="lazy" width="180" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/31/The_One_Ring_-_Dice_Set_Black_%28Free_League%29.jpg/405px-The_One_Ring_-_Dice_Set_Black_%28Free_League%29.jpg 1.5x, https://tolkiengateway.net/w/images/3/31/The_One_Ring_-_Dice_Set_Black_%28Free_League%29.jpg 2x" data-file-width="500" data-file-height="500"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 160px"><div class="gallerytext">
-<p>Đen
+<p>Black
 </p>
 			</div></div>
 		</li>
@@ -102,7 +102,7 @@ Bộ xúc xắc màu trắng hoặc đen được cung cấp, cả hai đều c�
 		<li class="gallerybox" style="width: 135.33333333333px">
 			<div class="thumb" style="width: 133.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_One_Ring_-_Dice_Set_(Edge).webp.md" title="Edge&#39;s dice"><img alt="Edge&#39;s dice" src="https://tolkiengateway.net/w/images/thumb/b/bd/The_One_Ring_-_Dice_Set_%28Edge%29.webp/200px-The_One_Ring_-_Dice_Set_%28Edge%29.webp.png" decoding="async" loading="lazy" width="134" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bd/The_One_Ring_-_Dice_Set_%28Edge%29.webp/300px-The_One_Ring_-_Dice_Set_%28Edge%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/bd/The_One_Ring_-_Dice_Set_%28Edge%29.webp/400px-The_One_Ring_-_Dice_Set_%28Edge%29.webp.png 2x" data-file-width="456" data-file-height="616"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 114px"><div class="gallerytext">
-<p>Xúc xắc của Edge
+<p>Edge&#39;s dice
 </p>
 			</div></div>
 		</li>
@@ -121,7 +121,7 @@ Mytago, nhà phân phối ở Séc, có một cửa hàng trực tuyến liên q
 		<li class="gallerybox" style="width: 241.33333333333px">
 			<div class="thumb" style="width: 239.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_One_Ring_-_Dice_Set_Green_(Imago).jpeg.md" title="Green"><img alt="Green" src="https://tolkiengateway.net/w/images/thumb/8/80/The_One_Ring_-_Dice_Set_Green_%28Imago%29.jpeg/359px-The_One_Ring_-_Dice_Set_Green_%28Imago%29.jpeg" decoding="async" loading="lazy" width="240" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/80/The_One_Ring_-_Dice_Set_Green_%28Imago%29.jpeg/538px-The_One_Ring_-_Dice_Set_Green_%28Imago%29.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/8/80/The_One_Ring_-_Dice_Set_Green_%28Imago%29.jpeg/717px-The_One_Ring_-_Dice_Set_Green_%28Imago%29.jpeg 2x" data-file-width="915" data-file-height="689"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 220px"><div class="gallerytext">
-<p>Xanh lục
+<p>Green
 </p>
 			</div></div>
 		</li>

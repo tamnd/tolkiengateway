@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Cảnh phim mô tả ba nhân viên của một nụ cười nổi tiếng cùng nhau chia sẻ bữa tối giữa trưa. Từ trái sang phải, họ là Gaffer Greenthumb, Người làm vườn, và những người bạn của ông là Bếp trưởng và Quản gia trưởng, những người đã chiêu đãi bạn bè của mình những hành vi sai trái mới nhất của người chủ của họ, gây ra nhiều tiếng cười. Hiện trường nằm gần nhà kho vườn chính. *Tác phẩm nghệ thuật là © Kay Woollard và tài sản của Denis Bridoux*
+Cảnh phim mô tả ba nhân viên của một nụ cười nổi tiếng cùng nhau chia sẻ bữa tối giữa trưa. Từ trái sang phải, họ là Gaffer Greenthumb, Người làm vườn, và những người bạn của ông ta là Bếp trưởng và Quản gia trưởng, những người đã chiêu đãi bạn bè của mình những hành vi sai trái mới nhất của người chủ của họ, gây ra nhiều tiếng cười. Hiện trường nằm gần nhà kho vườn chính. *Tác phẩm nghệ thuật là © Kay Woollard và tài sản của Denis Bridoux*
 
 ## Giấy phép {#Licensing}
 

@@ -44,7 +44,7 @@ infobox:
     value: "Profile"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/I/Ian_McKellen.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dd/Ian_McKellen.jpg/320px-Ian_McKellen.jpg" decoding="async" loading="lazy" width="320" height="440" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/dd/Ian_McKellen.jpg/480px-Ian_McKellen.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/dd/Ian_McKellen.jpg/640px-Ian_McKellen.jpg 2x" data-file-width="745" data-file-height="1024"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ian McKellen</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh–mất</th><td class="tg-infobox-data">Born <a href="../_/25_May.md" title="25 May">25 May</a> <a href="../_/1939.md" title="1939">1939</a></td></tr><tr><th scope="row" class="tg-infobox-label">Do ... thủ vai</th><td class="tg-infobox-data"><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> trong:<br/><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a><br/><a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a><br/><i><a href="../T/The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Lord of the Rings: The Hunt for Gollum</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0005212/" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/I/Ian_McKellen.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dd/Ian_McKellen.jpg/320px-Ian_McKellen.jpg" decoding="async" loading="lazy" width="320" height="440" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/dd/Ian_McKellen.jpg/480px-Ian_McKellen.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/dd/Ian_McKellen.jpg/640px-Ian_McKellen.jpg 2x" data-file-width="745" data-file-height="1024"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ian McKellen</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data">Born <a href="../_/25_May.md" title="25 May">25 May</a> <a href="../_/1939.md" title="1939">1939</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> in:<br/><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a><br/><a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (film series)</a><br/><i><a href="../T/The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Lord of the Rings: The Hunt for Gollum</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0005212/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
 <b>Sir Ian Murray McKellen <a class="external text" href="https://en.wikipedia.org/wiki/Order_of_the_Companions_of_Honour" rel="noreferrer noopener" target="_blank">CH</a></b> [CBE](../O/Order_of_the_British_Empire.md) (sinh ngày 25 tháng 5 năm 1939) đã đóng vai [Gandalf](../G/Gandalf.md) trong [*The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit* loạt phim](<../T/The_Hobbit_(film_series).md>).
 
@@ -53,27 +53,27 @@ infobox:
 ## Trích dẫn {#Quotes}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Công việc cuối cùng của tôi trong thế kỷ 20 là X-Con Người và công việc đầu tiên của tôi trong thiên niên kỷ mới là The Lord of the Rings, vào vai hai người đàn ông quyền lực mang tính biểu tượng, Bậc thầy từ tính Magneto và phù thủy của J.R.R.Tolkien Gandalf. Tôi đã được giới thiệu với đông đảo người hâm mộ của cả hai tác phẩm qua Internet và bị hấp dẫn khi bước vào thế giới nhượng quyền thương mại và búp bê nhựa.
+<p>My final twentieth century job was X-Men and my first of the new millennium was The Lord of the Rings, playing two iconic men of power, Magneto the Master of Magnetism and J.R.R.Tolkien&#39;s wizard Gandalf. I was introduced to the multitudinous fans of both works via the Internet and was intrigued to enter the world of franchises and plastic dolls.
 </p>
-<p class="tg-quote-footer"><cite>Ian McKellen, tháng 8 năm 2000, trang web chính thức</cite></p>
+<p class="tg-quote-footer"><cite>Ian McKellen, August 2000, official website</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The Lord of the Rings là thần thoại. Đó là một câu chuyện cổ tích. Đó là một câu chuyện phiêu lưu. Nó chưa bao giờ xảy ra..ngoại trừ đâu đó trong trái tim chúng ta. Chưa hết, có Hobbiton không gian ba chiều và khói bốc ra từ những cái hố nơi họ sống dưới lòng đất. Và tôi đã tin.
+<p>The Lord of the Rings is a mythology. It is a fairy tale. It&#39;s an adventure story. It never happened..except somewhere in our hearts. And yet, there was Hobbiton in three dimensions and smoke coming out of the holes where they live underground. And I believed.
 </p>
 <p class="tg-quote-footer"><cite>Ian McKellen, lordoftherings.net</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tôi được khuyến khích bởi tính sân khấu trong các bài đọc của [Tolkien] -- đầy nhịp điệu, hài hước và miêu tả nhân vật. Nếu không có câu hỏi Gandalf giống như Tolkien nhưng tôi nghi ngờ là như vậy, là Frodo và Aragorn.
+<p>I am encouraged by the theatricality of [Tolkien&#39;s] readings -- full of rhythm and humour and characterisation. Without question Gandalf is like Tolkien but then so, I suspect, are Frodo and Aragorn.
 </p>
 <p class="tg-quote-footer"><cite>Ian McKellen</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p> “Ừ, đó là sự thật,” anh nói. 'Tôi đã nói chuyện với Guillermo trong chính căn phòng Peter Jackson đề nghị tôi đóng vai này và ông xác nhận rằng tôi sẽ đảm nhận vai diễn này. Rõ ràng đó không phải là phần mà bạn từ chối, tôi rất thích chơi Gandalf.'
+<p> &#39;Yes, it’s true,&#39; he said. &#39;I spoke to Guillermo in the very room that Peter Jackson offered me the part and he confirmed that I would be reprising the role. Obviously, it’s not a part that you turn down, I loved playing Gandalf.&#39;
 </p>
-<p class="tg-quote-footer"><cite>Ian McKellen về vai diễn Gandalf trong <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>.</cite></p>
+<p class="tg-quote-footer"><cite>Ian McKellen on portraying Gandalf in <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (film series)</a>.</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Giải thưởng {#Awards}

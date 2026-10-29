@@ -17,7 +17,7 @@ images:
   - "Select_Translations_from_Old_English_Poetry.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Select_Translations_from_Old_English_Poetry.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/48/Select_Translations_from_Old_English_Poetry.jpg/200px-Select_Translations_from_Old_English_Poetry.jpg" decoding="async" loading="lazy" width="200" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/48/Select_Translations_from_Old_English_Poetry.jpg 1.5x" data-file-width="250" data-file-height="400"/></a><figcaption>Bìa của <i>Select Translations from Old English Poetry</i>.</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Select_Translations_from_Old_English_Poetry.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/48/Select_Translations_from_Old_English_Poetry.jpg/200px-Select_Translations_from_Old_English_Poetry.jpg" decoding="async" loading="lazy" width="200" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/48/Select_Translations_from_Old_English_Poetry.jpg 1.5x" data-file-width="250" data-file-height="400"/></a><figcaption>The cover of <i>Select Translations from Old English Poetry</i>.</figcaption></figure>
 
 **Chọn bản dịch từ tiếng Anh cổ Thơ:** Tác phẩm văn học truyền cảm hứng cho Chúa tể những chiếc nhẫn của Tolkien
 

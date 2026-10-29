@@ -26,21 +26,21 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Deeping_Wall.jpg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Deeping_Wall&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Deeping_Wall&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Deeping_Wall.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b1/The_Lord_of_the_Rings_Online_-_Deeping_Wall.jpg/300px-The_Lord_of_the_Rings_Online_-_Deeping_Wall.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b1/The_Lord_of_the_Rings_Online_-_Deeping_Wall.jpg/450px-The_Lord_of_the_Rings_Online_-_Deeping_Wall.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b1/The_Lord_of_the_Rings_Online_-_Deeping_Wall.jpg/600px-The_Lord_of_the_Rings_Online_-_Deeping_Wall.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Deeping Wall in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Tường thành Deeping** là bức tường đá kiên cố, cao khoảng 20 feet và đủ dày để bốn người đàn ông có thể đi ngang nhau dọc theo đỉnh, bảo vệ nơi trú ẩn của [Rohirrim](../R/Rohirrim.md) tại [Helm's Deep](../H/Helm's_Deep.md). Nó nằm bên dưới lâu đài của [Hornburg](../H/Hornburg.md), được nối với nó bằng một dãy bậc thang.<sup id="cite_ref-Helm_1-0" class="reference"><a href="#cite_note-Helm-1">[1]</a></sup> Vào [Trận Hornburg](../B/Battle_of_the_Hornburg.md) (vào [ngày 3 tháng 3](../_/3_March.md), [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>), nó đã bị xuyên thủng lần duy nhất trong lịch sử bởi [Ngọn lửa Orthanc](../F/Fire_of_Orthanc.md) được sử dụng bởi đội quân bao vây của [Orc](../O/Orcs.md) và [Dunlending](Dunlendings.md), nhưng họ sớm bị đẩy lui và bị đánh bại.<sup id="cite_ref-Helm_1-1" class="reference"><a href="#cite_note-Helm-1">[1]</a></sup>
+**Bức tường sâu** là bức tường đá kiên cố, cao khoảng 20 feet và đủ dày để bốn người đàn ông có thể đi ngang nhau dọc theo đỉnh, bảo vệ nơi trú ẩn của [Rohirrim](../R/Rohirrim.md) tại [Helm's Deep](../H/Helm's_Deep.md). Nó nằm bên dưới lâu đài của [Hornburg](../H/Hornburg.md), được nối với nó bằng một dãy bậc thang.<sup id="cite_ref-Helm_1-0" class="reference"><a href="#cite_note-Helm-1">[1]</a></sup> Vào [Trận Hornburg](../B/Battle_of_the_Hornburg.md) (vào [ngày 3 tháng 3](../_/3_March.md), [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>), nó đã bị xuyên thủng lần duy nhất trong lịch sử bởi [Ngọn lửa Orthanc](../F/Fire_of_Orthanc.md) được sử dụng bởi đội quân bao vây của [Orc](../O/Orcs.md) và [Dunlending](Dunlendings.md), nhưng họ sớm bị đẩy lui và bị đánh bại.<sup id="cite_ref-Helm_1-1" class="reference"><a href="#cite_note-Helm-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Deeping-coomb là một trong năm chiến trường chính trong trò chơi đại diện cho <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Trận Hornburg</a>.</dd></dl>
+<dl><dd>The Deeping-coomb is one of the five major battlegrounds in the game&#39;s representation of the <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Battle of the Hornburg</a>.</dd></dl>
 
 <span></span>
 

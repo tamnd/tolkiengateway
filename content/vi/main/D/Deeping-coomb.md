@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Deeping-coomb"
 content_sha256: 9eb8402eafcbbfc3368250ed62af8d1755abdbb66acea092769ac4b9f7b75dfd
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Thung lũng sâu bên ngoài Helm's Deep"
+short_description: "Deep valley outside Helm's Deep"
 categories:
   - "Rohan"
   - "Valleys"
@@ -27,7 +27,7 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/62/The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg/250px-The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/62/The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg/375px-The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/62/The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg/500px-The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Deeping-coomb kết thúc tại <a href="../H/Helm&#39;s_Dike.md" title="Helm&#39;s Dike">Helm's Đê</a> ở <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/62/The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg/250px-The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/62/The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg/375px-The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/62/The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg/500px-The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Deeping-coomb ends at <a href="../H/Helm&#39;s_Dike.md" title="Helm&#39;s Dike">Helm&#39;s Dike</a> in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
 **Thung lũng sâu** là một thung lũng sâu ở phía bắc của [Dãy Núi Trắng](../W/White_Mountains.md) dẫn đến [Helm's Deep](../H/Helm's_Deep.md) và lâu đài của [Hornburg](../H/Hornburg.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -43,9 +43,9 @@ A *Coomb* là một "thung lũng sâu", xuất hiện thường xuyên trong cá
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Deeping-coomb là một trong năm chiến trường chính trong trò chơi đại diện cho <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Trận Hornburg</a>.</dd></dl>
+<dl><dd>The Deeping-coomb is one of the five major battlegrounds in the game&#39;s representation of the <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Battle of the Hornburg</a>.</dd></dl>
 
 ## Xem thêm {#See_also}
 

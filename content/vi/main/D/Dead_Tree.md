@@ -35,7 +35,7 @@ Khi được thay thế, nó được đưa ra khỏi triều đình nhưng đư
 
 <b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
-<dl><dd>Phim chiếu cảnh cây chết đứng trước sân. Cận cảnh cho thấy nó đang nở hoa trở lại trong <a href="../S/Siege_of_Gondor.md" title="Siege of Gondor">Cuộc vây hãm Gondor</a>, cụ thể là cảnh <a href="Denethor.md" title="Denethor">Denethor</a> chuẩn bị hỏa táng chính mình và <a href="../F/Faramir.md" title="Faramir">Faramir</a>. Trong lễ đăng quang của Aragorn, cây đã nở hoa hoàn toàn.</dd></dl>
+<dl><dd>The film shows the dead tree standing in the court. A close up reveals that it is flowering again during the <a href="../S/Siege_of_Gondor.md" title="Siege of Gondor">Siege of Gondor</a>, specifically the scene where <a href="Denethor.md" title="Denethor">Denethor</a> is preparing to cremate himself and <a href="../F/Faramir.md" title="Faramir">Faramir</a>. During the coronation of Aragorn, the tree is seen fully blossomed.</dd></dl>
 
 <span></span>
 

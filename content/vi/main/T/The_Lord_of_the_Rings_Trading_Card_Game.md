@@ -30,15 +30,15 @@ infobox:
     value: "2 or more"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Viết lại</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được viết lại để tuân thủ <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn</a>...<blockquote class="tg-quote noexcerpt">
-<p>Những người khôn ngoan sẽ ở lại đây và hy vọng xây dựng lại thị trấn của chúng ta...
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Rewrite</div></div><div class="ext-floatingui-content">This article or section needs to be rewritten to comply with Tolkien Gateway&#39;s <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standards</a>...<blockquote class="tg-quote noexcerpt">
+<p>The wise will stay here and hope to rebuild our town...
 </p>
-<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Chủ nhân Thị trấn Hồ</a></cite></p>
+<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Lord of the Rings</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Lord of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi thẻ bài sưu tầm</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Trading Card Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà thiết kế</th><td class="tg-infobox-data"><a href="../M/Mike_Reynolds.md" title="Mike Reynolds">Mike Reynolds</a>, Chuck Kallenbach II, Tom Lischke, and Joe Alread</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../D/Decipher.md" title="Decipher">Giải mã</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data"><a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người chơi</th><td class="tg-infobox-data">2 hoặc nhiều hơn</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Collectible card game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Trading Card Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data"><a href="../M/Mike_Reynolds.md" title="Mike Reynolds">Mike Reynolds</a>, Chuck Kallenbach II, Tom Lischke, and Joe Alread</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../D/Decipher.md" title="Decipher">Decipher</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Players</th><td class="tg-infobox-data">2 or more</td></tr></tbody></table>
 
 **The Lord of the Rings Trò chơi bài giao dịch** (còn được gọi là **LOTR TCG** hoặc đơn giản là **Decipher Cards**) là một trò chơi bài sưu tầm được sản xuất bởi [Decipher](../D/Decipher.md). Được phát hành vào tháng 11 năm [2001](../_/2001.md), phim dựa trên cả [cuốn sách](The_Lord_of_the_Rings.md) và [phim](<The_Lord_of_the_Rings_(film_series).md>). Decipher cũng có quyền đối với *[The Hobbit](The_Hobbit.md)* nhưng chưa phát hành bất kỳ thẻ nào dựa trên nó. Ngoài những hình ảnh lấy từ phim, [2004](../_/2004.md) [Weta Workshop](../W/Weta_Workshop.md) còn sản xuất tác phẩm nghệ thuật mô tả các nhân vật và vật phẩm trong tiểu thuyết không có trong phim để sử dụng trên thẻ.
 
@@ -52,9 +52,9 @@ Trong [2002](../_/2002.md), trò chơi đánh bài đã giành được Giải t
 
 Một cơ chế cải tiến có tên *twilight pool* được sử dụng làm cơ chế tính phí cho thẻ. Mỗi thẻ có một giá trị bằng số (có thể bằng 0). Khi người chơi Nhân dân Tự do chơi một lá bài, các mã thông báo sẽ được thêm vào nhóm chạng vạng bằng giá trị của lá bài đó. Tuy nhiên, người chơi Bóng Tối sẽ loại bỏ các mã thông báo chạng vạng bằng với giá trị chạng vạng của lá bài của họ để chơi bài của họ. Do đó, người chơi Fellowship the Free Peoples chơi càng nhiều quân bài mạnh thì mối đe dọa từ những người chơi Bóng Tối càng lớn.
 
-Trong suốt trò chơi, người chơi sẽ đóng vai *companions* (hoặc các nhân vật Người Tự do) để giúp bảo vệ người mang nhẫn. Khi đến lượt chơi với tư cách là người chơi Bóng Tối, ông có thể chơi *minions* (hoặc Bóng Tối nhân vật) để tấn công đồng đội của đối thủ. Người chơi của Nhân dân Tự do (người phòng thủ) có cơ hội lựa chọn đồng đội của mình sẽ chiến đấu trong các trận đấu tay đôi một chọi một, được gọi là *skirmishes*, với tay sai của đối thủ. Cái này được gọi là *assignment*. Vì người chơi Nhân dân Tự do muốn bảo vệ người mang nhẫn của mình, cách duy nhất mà người chơi Bóng Tối có thể tấn công người chơi Nhân dân Tự do là chơi nhiều tay sai hơn số người chơi Người chơi Nhân dân Tự do có bạn đồng hành, do đó cho phép người chơi Bóng Tối chỉ định thêm tay sai cho bất kỳ người bạn đồng hành nào ông chọn, bao gồm cả người mang nhẫn hoặc bằng cách sử dụng tay sai có văn bản trò chơi cho phép người chơi Bóng Tối gán chúng cho người mang nhẫn.
+Trong suốt trò chơi, người chơi sẽ đóng vai *companions* (hoặc các nhân vật Người Tự do) để giúp bảo vệ người mang nhẫn. Khi đến lượt chơi với tư cách là người chơi Bóng Tối, ông ta có thể chơi *minions* (hoặc Bóng Tối nhân vật) để tấn công đồng đội của đối thủ. Người chơi của Nhân dân Tự do (người phòng thủ) có cơ hội lựa chọn đồng đội của mình sẽ chiến đấu trong các trận đấu tay đôi một chọi một, được gọi là *skirmishes*, với tay sai của đối thủ. Cái này được gọi là *assignment*. Vì người chơi Nhân dân Tự do muốn bảo vệ người mang nhẫn của mình, cách duy nhất mà người chơi Bóng Tối có thể tấn công người chơi Nhân dân Tự do là chơi nhiều tay sai hơn số người chơi Người chơi Nhân dân Tự do có bạn đồng hành, do đó cho phép người chơi Bóng Tối chỉ định thêm tay sai cho bất kỳ người bạn đồng hành nào ông ta chọn, bao gồm cả người mang nhẫn hoặc bằng cách sử dụng tay sai có văn bản trò chơi cho phép người chơi Bóng Tối gán chúng cho người mang nhẫn.
 
-Tuy nhiên, Người Mang Nhẫn không chỉ phải đối mặt với tay sai trên hành trình tiêu diệt Chiếc nhẫn. Người Mang Nhẫn phải chống lại sự cám dỗ của Chiếc Nhẫn. Trong trò chơi đánh bài, khi người mang nhẫn không chịu nổi sự cám dỗ của Chiếc nhẫn, *burdens* sẽ được thêm vào. Mỗi người bạn đồng hành có một chỉ số kháng cự nhất định và bất cứ khi nào một gánh nặng được thêm vào, sức đề kháng của mỗi người bạn đồng hành sẽ giảm đi một. Khi sức đề kháng của người mang nhẫn bằng 0, ông sẽ bị sức mạnh của chiếc nhẫn làm hỏng và người chơi bị loại khỏi trò chơi.
+Tuy nhiên, Người Mang Nhẫn không chỉ phải đối mặt với tay sai trên hành trình tiêu diệt Chiếc nhẫn. Người Mang Nhẫn phải chống lại sự cám dỗ của Chiếc Nhẫn. Trong trò chơi đánh bài, khi người mang nhẫn không chịu nổi sự cám dỗ của Chiếc nhẫn, *burdens* sẽ được thêm vào. Mỗi người bạn đồng hành có một chỉ số kháng cự nhất định và bất cứ khi nào một gánh nặng được thêm vào, sức đề kháng của mỗi người bạn đồng hành sẽ giảm đi một. Khi sức đề kháng của người mang nhẫn bằng 0, ông ta sẽ bị sức mạnh của chiếc nhẫn làm hỏng và người chơi bị loại khỏi trò chơi.
 
 ## Chiến lược bộ bài {#Deck_strategies}
 
@@ -63,32 +63,32 @@ Khi trò chơi mở rộng, một số chiến lược bộ bài cơ bản đã 
 Đối với phe Dân tộc Tự do, các chiến lược phổ biến nhất là *troll*, *tank*, *choke*, *minion wounding* và *mass healing*.
 
 <dl><dt>Troll</dt>
-<dd>Bộ bài troll cố gắng troll đối thủ và họ sẽ thua ngay lập tức hoặc thắng ngay lập tức.</dd>
+<dd>Troll decks try to troll the opponent, and they either lose instantly, or win instantly.</dd>
 <dt>Tank</dt>
-<dd>Bộ bài xe tăng cố gắng chơi nhiều nhất có thể và xây dựng càng nhiều đồng đội để chiến đấu với phe đối thủ Bóng Tối bằng vũ lực.</dd>
+<dd>Tank decks try to play as much as possible and build up as many companions to combat the opponents Shadow side with force.</dd>
 <dt>Choke</dt>
-<dd>Bộ bài Choke, trái ngược với bộ bài xe tăng, cố gắng tạo ra ít bóng tối nhất có thể, từ chối tài nguyên của đối thủ để chơi tay sai của họ và làm tắc nghẽn bàn tay của họ bằng những lá bài Bóng Tối không thể chơi được, do đó cản trở việc thiết lập Hiệp hội của họ.</dd>
+<dd>Choke decks, the opposite of tank decks, try to put out as little twilight as possible, denying the opponent resources to play their minions, and clogging their hand with unplayable Shadow cards, thus hampering set up of their Fellowship.</dd>
 <dt>Archery/Minion Wounding</dt>
-<dd>Bộ bài gây thương tích cho lính cố gắng sử dụng "lửa bắn cung" và gây sát thương trực tiếp để tiêu diệt lính (Bóng Tối nhân vật) trước khi chúng có cơ hội tấn công.</dd>
+<dd>Minion wounding decks try to use &#34;archery fire&#34; and direct wounding to destroy the minions (Shadow characters) before they even have a chance to attack.</dd>
 <dt>Mass Healing</dt>
-<dd>Bộ bài chữa lành hàng loạt dựa vào các lá bài chữa lành vết thương cho bạn đồng hành, theo lý thuyết rằng nếu việc chữa lành vết thương của Người Tự do có thể nhanh hơn tốc độ chữa lành vết thương của người chơi Bóng Tối, thì Hiệp hội sẽ không thể thực hiện được. 'Nơi trú ẩn', một lá bài trong bộ <i>Black Rider</i> rất quan trọng đối với hầu hết các loại bộ bài này, vì nó cho phép người chơi xoay vòng phe Dân tộc Tự do của mình trong khi chữa lành vết thương cho những người bạn đồng hành của mình để thiết lập phe Bóng Tối.</dd></dl>
+<dd>Mass healing decks rely on cards that heal companions, under the theory that if the Free People&#39;s removal of wounds can out-pace the Shadow player&#39;s placement of wounds, the Fellowship will be unkillable. &#39;Refuge&#39;, a card from the set <i>Black Rider</i> is critical to most of these decktypes, as it allows the player to cycle his Free Peoples side while healing his or her companions in order to set up the Shadow side.</dd></dl>
 
 Về phía Bóng Tối, các chiến lược phổ biến nhất là *cringe*, *beat-down*, *swarm*, *bomb*, *archery/wounding* và *corruption*.
 
 <dl><dt>Cringe</dt>
-<dd>Bộ bài này là sự kết hợp của bộ bài <i>beat-down</i>, bộ bài <i>swarm</i>, bộ bài <i>bomb</i>, bộ bài <i>corruption</i> và bộ bài <i>archery/wounding</i>.</dd>
+<dd>This deck is a combination of the <i>beat-down</i> deck, <i>swarm</i> deck, <i>bomb</i> deck, <i>corruption</i> and <i>archery/wounding</i> deck.</dd>
 <dt>Beat-down</dt>
-<dd>Bộ bài hạ gục tập trung vào việc làm cho một hoặc hai tay sai trở nên rất mạnh mẽ, với mục đích giết từng người một; cuối cùng giết chết người mang nhẫn.</dd>
+<dd>Beat down decks focus on making one or two minions very powerful, with the intention of killing all of the companions one by one; eventually killing the ring-bearer.</dd>
 <dt>Swarm</dt>
-<dd>Bộ bài Swarm có chiến lược hạ gục ngược lại: mục tiêu của họ là chơi càng nhiều tay sai càng rẻ càng tốt. Mặc dù bản thân một bầy tay sai có thể không mạnh lắm, nhưng mỗi tay sai lại rất rẻ nên cho phép chơi nhiều con, dễ dàng áp đảo số lượng đồng đội và tự gán mình vào Người Mang Nhẫn.</dd>
+<dd>Swarm decks have an opposite strategy of a beat-down: their goal is to play as many minions as possible as cheaply as possible. While one swarm minion might not be very powerful by itself, each minion is very cheap which allows many to be played, easily outnumbering the companions and assigning themselves to the Ring-bearer.</dd>
 <dt>Bomb</dt>
-<dd>Bộ bài bom kết hợp các chiến lược của cả bộ bài đánh bại và bộ bài bầy đàn. Thay vì tập trung vào một hoặc hai tay sai mạnh mẽ, họ chơi nhiều tay sai có sức mạnh trung bình. Mục tiêu của sàn bom là tiêu diệt những người bạn đồng hành yếu hơn, sau đó tấn công người chơi Nhân dân Tự do.</dd>
+<dd>A bomb deck combines the strategies of both beat-down decks and swarm decks. Instead of focusing on one or two powerful minions, they play several minions of medium strength. The goal of a bomb deck is to destroy the weaker companions, and then swarm the Free Peoples player.</dd>
 <dt>Archery/Wounding</dt>
-<dd>Bộ bài bắn cung và gây thương tích phụ thuộc vào những người bạn đồng hành bị thương bên ngoài cuộc giao tranh đến mức họ chết vì vết thương. Một biến thể của chiến lược này tập trung vào việc làm bị thương người mang nhẫn và giết chết ông.</dd>
+<dd>Archery and wounding decks rely on wounding companions outside of the skirmish so much that they die from their wounds. A variation of this strategy focuses on wounding the ring-bearer and killing him.</dd>
 <dt>Corruption</dt>
-<dd>Bộ bài tham nhũng tập trung vào việc tạo thêm đủ gánh nặng để làm hư hỏng người mang nhẫn hoặc chơi bài đòi hỏi phải đáp ứng một số điều kiện nhất định để làm hư hỏng người mang nhẫn một cách hoàn toàn.</dd>
+<dd>Corruption decks focus on adding enough burdens to corrupt the ring-bearer, or playing cards that require certain conditions to be met to corrupt the ring-bearer outright.</dd>
 <dt>Mill</dt>
-<dd>Bộ bài Mill tập trung vào việc chơi các tay sai sẽ loại bỏ các lá bài từ tay đối thủ hoặc bộ bài rút của họ.</dd></dl>
+<dd>Mill decks focus on playing minions that will discard cards from either your opponent&#39;s hand or their draw deck.</dd></dl>
 
 ## Lịch sử {#History}
 
@@ -158,10 +158,10 @@ Mặc dù không được Decipher xử phạt hoặc phê duyệt, phần mềm
 ## Trò chơi có tổ chức {#Organized_Play}
 
 <table border="1" cellpadding="2">
-<caption>Cựu vô địch thế giới bao gồm:
+<caption>Former World Champions include:
 </caption>
 <tbody><tr>
-<th>Năm</th>
+<th>Year</th>
 <th>Champion</th>
 <th>Runner Up
 </th></tr>
@@ -210,10 +210,10 @@ Mặc dù không được Decipher xử phạt hoặc phê duyệt, phần mềm
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Card_game" title="wikipedia:Card game">Trò chơi bài</a> được cấp phép được đặt trong <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Card_game" title="wikipedia:Card game">Card Games</a> set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Collectible_card_game" title="wikipedia:Collectible card game">Trò chơi thẻ bài sưu tầm</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Collectible_card_game" title="wikipedia:Collectible card game">Collectible Card Games</a></b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle Earth CCG</a></b></i> (<a href="../_/1995.md" title="1995">1995</a>-<a href="../_/1998.md" title="1998">1998</a>) • <i><b><a class="mw-selflink selflink">Lord of the Rings TCG</a></b></i> (<a href="../_/2001.md" title="2001">2001</a>-<a href="../_/2007.md" title="2007">2007</a>)
@@ -225,19 +225,19 @@ Mặc dù không được Decipher xử phạt hoặc phê duyệt, phần mềm
 <td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">Tales of Middle Earth</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>) • <i><b><a href="../M/Magic%253A_The_Gathering_-_The_Hobbit.md" title="Magic: The Gathering - The Hobbit">The Hobbit</a></b></i> (<a href="../_/2026.md" title="2026">2026</a>)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Expandable_card_game" title="wikipedia:Expandable card game">Trò chơi thẻ bài Living Card Games</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Expandable_card_game" title="wikipedia:Expandable card game">Living Card Games</a></b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Card Game</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>-<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">Adventure Card Game</a></b></i> (<a href="../_/2022.md" title="2022">2022</a> kỹ thuật số)
+<td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Card Game</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>-<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">Adventure Card Game</a></b></i> (<a href="../_/2022.md" title="2022">2022</a> digital)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Loạt trò chơi ăn bài</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Trick-Taking Game Series</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_–_Trick-Taking_Game.md" title="The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game">Fellowship of the Ring</a></b></i> (<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_–_Trick-Taking_Game.md" title="The Lord of the Rings: The Two Towers – Trick-Taking Game">Two Towers</a></b></i> (<a href="../_/2026.md" title="2026">2026</a>)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Các trò chơi thẻ bài khác</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Other Card Games</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings_Tarot.md" title="The Lord of the Rings Tarot">Tarot</a></b></i> (<a href="../_/1997.md" title="1997">1997</a>) • <i><b><a href="The_Hobbit_Card_Game.md" title="The Hobbit Card Game">The Hobbit</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) • <i><b><a href="../W/War_of_the_Ring%253A_The_Card_Game.md" title="War of the Ring: The Card Game">War of the Ring</a></b></i> (<a href="../_/2022.md" title="2022">2022</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_Duel_for_Middle-earth.md" title="The Lord of the Rings: Duel for Middle-earth">Duel for Middle-earth</a></b></i> (<a href="../_/2024.md" title="2024">2024</a>)

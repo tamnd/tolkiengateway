@@ -19,7 +19,7 @@ Vào [14 tháng 6](../_/14_June.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J/
 ## Trích {#Excerpt}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Thưa ông Charlton<br/><br/>Cảm ơn ông rất nhiều vì lá thư tử tế của ông. Tôi rất vui vì những cuốn sách của tôi đã mang lại cho bạn niềm vui.<br/><br/>BÀI TUYỆT VỜI vẫn chưa hoàn thiện và tôi đã không xem nó trong một thời gian đáng kể. Vì vậy, tôi rất tiếc là không thể đoán trước được khi nào nó sẽ được đưa ra ánh sáng.<br/><br/>Trân trọng, <br/><br/>pp. JRR Tolkien<br/><br/>[tên viết tắt] MJH<sup id="cite_ref-Notion_1-1" class="reference"><a href="#cite_note-Notion-1">[1]</a></sup>
+<p>Dear Mr Charlton<br/><br/>Thank you very much for your kind letter. I am delighted that my books have given you pleasure.<br/><br/>THE SILMARILLION is far from complete and I have not looked at it for some considerable time. Therefore I regret that I cannot predict when it will see the light of day.<br/><br/>Yours sincerely, <br/><br/>pp. JRR Tolkien<br/><br/>[initials] MJH<sup id="cite_ref-Notion_1-1" class="reference"><a href="#cite_note-Notion-1">[1]</a></sup>
 </p>
 </blockquote>
 

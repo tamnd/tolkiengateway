@@ -19,12 +19,12 @@ langlinks:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>...có <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">ai đó</a> đang trốn <a href="../T/Tower_of_Cirith_Ungol.md" title="Tower of Cirith Ungol">ở đây</a> nguy hiểm hơn bất kỳ kẻ nổi loạn chết tiệt nào khác đã từng bước đi kể từ <a href="../E/Elder_Days.md" title="Elder Days">thời xa xưa tồi tệ</a>, kể từ Cuộc vây hãm vĩ đại.
+<p>...there&#39;s <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">someone</a> loose <a href="../T/Tower_of_Cirith_Ungol.md" title="Tower of Cirith Ungol">hereabouts</a> as is more dangerous than any other damned rebel that ever walked since the <a href="../E/Elder_Days.md" title="Elder Days">bad old times</a>, since the Great Siege.
 </p>
 <p class="tg-quote-footer"><cite>Gorbag</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Cuộc vây hãm** là một cuộc xung đột, được [Gorbag](Gorbag.md) nhớ lại trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) khi nói chuyện với [Shagrat](../S/Shagrat.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Rất có thể ông đang đề cập đến [Cuộc vây hãm Barad-dûr](../S/Siege_of_Barad-dûr.md) của [Liên minh Cuối cùng](../L/Last_Alliance.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> kéo dài từ [S.A.](../S/Second_Age.md) [3434](../S/Second_Age_3434.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> cho đến [3441](../S/Second_Age_3441.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+**Cuộc vây hãm** là một cuộc xung đột, được [Gorbag](Gorbag.md) nhớ lại trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) khi nói chuyện với [Shagrat](../S/Shagrat.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Rất có thể ông ta đang đề cập đến [Cuộc vây hãm Barad-dûr](../S/Siege_of_Barad-dûr.md) của [Liên minh Cuối cùng](../L/Last_Alliance.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> kéo dài từ [S.A.](../S/Second_Age.md) [3434](../S/Second_Age_3434.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> cho đến [3441](../S/Second_Age_3441.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

@@ -36,9 +36,9 @@ Khi những người hobbit choáng váng và kiệt sức cuối cùng cũng v�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Cầu thang thẳng rộng hơn nhiều so với mô tả trong sách và các bậc của nó được bảo quản tốt hơn nhiều. Sau sự sụp đổ của <a href="Sauron.md" title="Sauron">Sauron</a>, <a href="../R/Rangers_of_Ithilien.md" title="Rangers of Ithilien">Rangers của Ithilien</a> do <a href="../M/Mablung_(ranger_of_Ithilien).md" title="Mablung (ranger of Ithilien)">Mablung</a> chỉ huy đã thành lập trại "Echad Taerdim" trên đỉnh Cầu thang thẳng.</dd></dl>
+<dl><dd>The Straight Stair is much wider than described in the book, and its steps are far better preserved. After the downfall of <a href="Sauron.md" title="Sauron">Sauron</a>, the <a href="../R/Rangers_of_Ithilien.md" title="Rangers of Ithilien">Rangers of Ithilien</a> led by <a href="../M/Mablung_(ranger_of_Ithilien).md" title="Mablung (ranger of Ithilien)">Mablung</a> establish a camp &#34;Echad Taerdim&#34; at the top of the Straight Stair.</dd></dl>
 
 <span></span>
 

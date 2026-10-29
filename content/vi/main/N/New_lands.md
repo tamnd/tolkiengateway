@@ -15,7 +15,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
 **Những vùng đất và biển mới** được tạo ra bởi [Ilúvatar](../I/Ilúvatar.md) khi [thế giới](../A/Arda.md) được làm lại sau khi [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md) và [Aman](../A/Aman.md) bị loại bỏ. Chúng được hình thành sau khi Eru đẩy lùi [Đại Hải](../G/Great_Sea.md) phía tây và [Vùng đất trống](../E/Empty_Lands.md) phía đông [Trung Địa](../M/Middle-earth.md).

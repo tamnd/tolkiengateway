@@ -23,7 +23,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>tháng trong <a href="../B/Bree_Calendar.md" title="Bree Calendar">Bree Lịch</a></b>. Về những ngày lễ <a href="../S/Shire_Calendar.md" title="Shire Calendar">Lịch Shire</a>, xem <b><a href="Lithedays.md" title="Lithedays">Lễ Lithe</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the month in the <a href="../B/Bree_Calendar.md" title="Bree Calendar">Bree Calendar</a></b>. For the feast days of the <a href="../S/Shire_Calendar.md" title="Shire Calendar">Shire Calendar</a>, see <b><a href="Lithedays.md" title="Lithedays">Lithedays</a></b>.</div></div>
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin-left:0px; border-radius:var(--tg-border-radius-large); border:var(--tg-border-base);background-color:var(--tg-color-surface-2); margin-left:15px">
 <tbody><tr>

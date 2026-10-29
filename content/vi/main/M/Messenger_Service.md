@@ -27,7 +27,7 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Quick_Post.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Quick_Post.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_Online_-_Quick_Post.jpg/300px-The_Lord_of_the_Rings_Online_-_Quick_Post.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_Online_-_Quick_Post.jpg/450px-The_Lord_of_the_Rings_Online_-_Quick_Post.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_Online_-_Quick_Post.jpg/600px-The_Lord_of_the_Rings_Online_-_Quick_Post.jpg 2x" data-file-width="2560" data-file-height="1440"/></a><figcaption><a href="Michel_Delving.md" title="Michel Delving">Michel Delving</a> Bưu điện nhanh tại <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Quick_Post.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_Online_-_Quick_Post.jpg/300px-The_Lord_of_the_Rings_Online_-_Quick_Post.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_Online_-_Quick_Post.jpg/450px-The_Lord_of_the_Rings_Online_-_Quick_Post.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_Online_-_Quick_Post.jpg/600px-The_Lord_of_the_Rings_Online_-_Quick_Post.jpg 2x" data-file-width="2560" data-file-height="1440"/></a><figcaption><a href="Michel_Delving.md" title="Michel Delving">Michel Delving</a> Quick Post office in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
 **Dịch vụ nhắn tin** là hệ thống được sử dụng trong [ Shire](../T/The_Shire.md) để [cư dân](../S/Shire-hobbits.md) liên lạc với nhau. Bằng cách này, những lá thư và tin tức đã được chuyển giữa bốn [Farthings](../F/Farthings.md).
 
@@ -45,9 +45,9 @@ Trong những ngày trước [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Thuật ngữ "Đăng nhanh" được sử dụng riêng. Đây là dịch vụ chuyển thư của Shire và chịu trách nhiệm chuyển thư kịp thời và bí mật mà Hobbit viết cho nhau với số lượng lớn. Người chơi có thể tham gia Đăng nhanh và hỗ trợ họ thực hiện nhiều đợt giao hàng khác nhau giữa các thị trấn và làng của Shire.</dd></dl>
+<dl><dd>The term &#34;Quick Post&#34; is used exclusively. It is the Shire&#39;s mail delivery service and is responsible for the timely and confidential delivery of letters, which the Hobbits write to each other in great numbers. The players can join the Quick Post and assist them in various deliveries between the towns and villages of the Shire.</dd></dl>
 
 <span></span>
 

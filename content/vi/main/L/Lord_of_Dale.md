@@ -13,7 +13,7 @@ categories:
   - "Rulers in Middle-earth"
 ---
 
-**Chúa tể Dale** là tước hiệu do người cai trị của [Dale](../D/Dale.md) nắm giữ cho đến khi bị hủy diệt vào năm [T.A.](../T/Third_Age.md) [2770](../T/Third_Age_2770.md).<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> Chúa duy nhất được ghi nhận là người cuối cùng, [Girion](../G/Girion.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Hậu duệ của ông [Bard Tôi](../B/Bard.md) sau này đã sáng lập tước hiệu cha truyền con nối [Vua Dale](../K/King_of_Dale.md) vào năm [2944](../T/Third_Age_2944.md).<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
+**Chúa tể của Dale** là tước hiệu do người cai trị của [Dale](../D/Dale.md) nắm giữ cho đến khi bị hủy diệt vào năm [T.A.](../T/Third_Age.md) [2770](../T/Third_Age_2770.md).<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> Chúa duy nhất được ghi nhận là người cuối cùng, [Girion](../G/Girion.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Hậu duệ của ông [Bard Tôi](../B/Bard.md) sau này đã sáng lập tước hiệu cha truyền con nối [Vua của Dale](../K/King_of_Dale.md) vào năm [2944](../T/Third_Age_2944.md).<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 
 <span></span>
 

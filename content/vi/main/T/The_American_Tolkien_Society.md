@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "American Tolkien Society"
 ---
 
-Chuyển hướng đến [Hội Tolkien Hoa Kỳ](../A/American_Tolkien_Society.md).
+Chuyển hướng đến [Hiệp hội Tolkien Hoa Kỳ](../A/American_Tolkien_Society.md).

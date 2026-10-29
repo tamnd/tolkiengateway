@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Faramir](../../main/F/Faramir.md) và [Éowyn](../../main/_/Éowyn.md) như được miêu tả trong [The Return of the King (phim năm 1980)](<../../main/T/The_Return_of_the_King_(1980_film).md>).
+[Faramir](../../main/F/Faramir.md) và [Éowyn](../../main/_/Éowyn.md) như được miêu tả trong [The Return of the King (phim 1980)](<../../main/T/The_Return_of_the_King_(1980_film).md>).
 
 ## Giấy phép {#Licensing}
 

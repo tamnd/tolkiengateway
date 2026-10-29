@@ -27,26 +27,26 @@ infobox:
     value: "Following the Orcs"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1978_film)_-_Borimir&#39;s_Sacrifice.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b2/The_Lord_of_the_Rings_%281978_film%29_-_Borimir%27s_Sacrifice.jpg/320px-The_Lord_of_the_Rings_%281978_film%29_-_Borimir%27s_Sacrifice.jpg" decoding="async" loading="lazy" width="320" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b2/The_Lord_of_the_Rings_%281978_film%29_-_Borimir%27s_Sacrifice.jpg/480px-The_Lord_of_the_Rings_%281978_film%29_-_Borimir%27s_Sacrifice.jpg 1.5x, https://tolkiengateway.net/w/images/b/b2/The_Lord_of_the_Rings_%281978_film%29_-_Borimir%27s_Sacrifice.jpg 2x" data-file-width="512" data-file-height="288"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Cảnh trong <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Boromir&#39;s Sacrifice</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Cảnh</th><td class="tg-infobox-data">24</td></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">0:49 (xem bên dưới)</td></tr><tr><th scope="row" class="tg-infobox-label">Sự kiện</th><td class="tg-infobox-data">Death of <a href="Boromir.md" title="Boromir">Boromir</a>,<br/>Capture of <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> and <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Borimir%27s_Madness&amp;action=edit&amp;redlink=1" title="Borimir&#39;s Madness (page does not exist)">Borimir&#39;s Madness</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><i><a href="../F/Following_the_Orcs.md" title="Following the Orcs">Following the Orcs</a></i></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1978_film)_-_Borimir&#39;s_Sacrifice.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b2/The_Lord_of_the_Rings_%281978_film%29_-_Borimir%27s_Sacrifice.jpg/320px-The_Lord_of_the_Rings_%281978_film%29_-_Borimir%27s_Sacrifice.jpg" decoding="async" loading="lazy" width="320" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b2/The_Lord_of_the_Rings_%281978_film%29_-_Borimir%27s_Sacrifice.jpg/480px-The_Lord_of_the_Rings_%281978_film%29_-_Borimir%27s_Sacrifice.jpg 1.5x, https://tolkiengateway.net/w/images/b/b2/The_Lord_of_the_Rings_%281978_film%29_-_Borimir%27s_Sacrifice.jpg 2x" data-file-width="512" data-file-height="288"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Scene from <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Boromir&#39;s Sacrifice</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Scene</th><td class="tg-infobox-data">24</td></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">0:49 (see below)</td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data">Death of <a href="Boromir.md" title="Boromir">Boromir</a>,<br/>Capture of <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> and <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Borimir%27s_Madness&amp;action=edit&amp;redlink=1" title="Borimir&#39;s Madness (page does not exist)">Borimir&#39;s Madness</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><i><a href="../F/Following_the_Orcs.md" title="Following the Orcs">Following the Orcs</a></i></td></tr></tbody></table>
 
 <i><b>Sự hy sinh của Borimir</b></i> *(sic)* là cảnh thứ 24 của [bộ phim năm 1978 *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1978_film).md>)*.*
 
 ## Tóm tắt {#Synopsis}
 
-Sau khi cố gắng thuyết phục [Frodo](../F/Frodo_Baggins.md) mang [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) về [Minas Tirith](../M/Minas_Tirith.md), [Boromir](Boromir.md) quay trở lại phần còn lại của Hiệp hội. Sau khi [Aragorn](../A/Aragorn.md) hỏi ông Frodo ở đâu, Boromir thú nhận và nói với ông rằng Frodo đã đeo Chiếc nhẫn vào. [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) chạy đi tìm ông, với [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) theo sát phía sau. Sau vài lời giận dữ, Aragorn gửi Boromir đi theo những người còn lại, trong khi ông mang theo Sam.
+Sau khi cố gắng thuyết phục [Frodo](../F/Frodo_Baggins.md) mang [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) về [Minas Tirith](../M/Minas_Tirith.md), [Boromir](Boromir.md) quay trở lại phần còn lại của Hiệp hội. Sau khi [Aragorn](../A/Aragorn.md) hỏi ông ta Frodo ở đâu, Boromir thú nhận và nói với ông ta rằng Frodo đã đeo Chiếc nhẫn vào. [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) chạy đi tìm ông ta, với [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) theo sát phía sau. Sau vài lời giận dữ, Aragorn gửi Boromir đi theo những người còn lại, trong khi ông ta mang theo Sam.
 
-Sam cảm thấy khác hẳn. Vì đôi chân của ông không đủ dài để theo kịp Người, ông bắt đầu nghĩ Frodo có thể đã đi đâu. Suy đoán của ông - Frodo đã lên thuyền - là chính xác, và sau khi suýt chết đuối, ông bị kéo lên tàu bởi một Frodo vẫn vô hình. Khi hai Hobbit tiến sang bờ bên kia, họ bị theo dõi bởi [Gollum](../G/Gollum.md) trên nhật ký của ông.
+Sam cảm thấy khác hẳn. Vì đôi chân của ông không đủ dài để theo kịp Người, ông bắt đầu nghĩ Frodo có thể đã đi đâu. Suy đoán của ông - Frodo đã lên thuyền - là chính xác, và sau khi suýt chết đuối, ông bị kéo lên tàu bởi một Frodo vẫn vô hình. Khi hai Hobbit tiến sang bờ bên kia, họ bị theo dõi bởi [Gollum](../G/Gollum.md) trên nhật ký của ông ta.
 
-Đang tìm kiếm Frodo, Merry và Pippin bị bắt bởi Orc. Boromir đến để cứu họ, nhưng khi họ chạy trốn thì ông bị mũi tên xuyên qua. Ông cố gắng đứng vững bằng cách dựa vào một cái cây và rút những mũi tên ra. Tuy nhiên, trước khi ông có thể tấn công Orc, ông lại bị đánh. Trong nỗ lực cuối cùng, ông thổi [còi](../G/Great_Horn.md) của mình. Aragorn, Legolas và Gimli nghe thấy tiếng còi liền lao về phía có tiếng còi.
+Đang tìm kiếm Frodo, Merry và Pippin bị bắt bởi Orc. Boromir đến để cứu họ, nhưng khi họ chạy trốn thì ông ta bị mũi tên xuyên qua. Ông ta cố gắng đứng vững bằng cách dựa vào một cái cây và rút những mũi tên ra. Tuy nhiên, trước khi ông ta có thể tấn công Orc, ông ta lại bị đánh. Trong nỗ lực cuối cùng, ông ta thổi [còi](../G/Great_Horn.md) của mình. Aragorn, Legolas và Gimli nghe thấy tiếng còi liền lao về phía có tiếng còi.
 
-Khi Boromir thất thủ, Orc mang theo hai chiếc Hobbit và rời đi. Khi Aragorn đến, ông chỉ tìm thấy Boromir, người thú nhận đã cố lấy Chiếc nhẫn từ Frodo và ăn năn về hành động của mình. Legolas và Gimli đến nhưng Boromir đã chết.
+Khi Boromir thất thủ, Orc mang theo hai chiếc Hobbit và rời đi. Khi Aragorn đến, ông ta chỉ tìm thấy Boromir, người thú nhận đã cố lấy Chiếc nhẫn từ Frodo và ăn năn về hành động của mình. Legolas và Gimli đến nhưng Boromir đã chết.
 
 ## Truyền {#Cast}
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Vai trò</th>
-<th>Diễn viên
+<th>Role</th>
+<th>Actor
 </th></tr>
 <tr>
 <td><a href="Boromir.md" title="Boromir">Boromir</a></td>
@@ -58,11 +58,11 @@ Khi Boromir thất thủ, Orc mang theo hai chiếc Hobbit và rời đi. Khi Ar
 </td></tr>
 <tr>
 <td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a></td>
-<td><a href="../M/Michael_Scholes.md" title="Michael Scholes">Michael Scholes</a> (lồng tiếng), <a href="Billy_Barty.md" title="Billy Barty">Billy Barty</a>
+<td><a href="../M/Michael_Scholes.md" title="Michael Scholes">Michael Scholes</a> (voice), <a href="Billy_Barty.md" title="Billy Barty">Billy Barty</a>
 </td></tr>
 <tr>
 <td><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></td>
-<td><a href="../C/Christopher_Guard.md" title="Christopher Guard">Christopher Bảo vệ</a> (giọng nói), <a href="../S/Sharon_Baird.md" title="Sharon Baird">Sharon Baird</a>
+<td><a href="../C/Christopher_Guard.md" title="Christopher Guard">Christopher Guard</a> (voice), <a href="../S/Sharon_Baird.md" title="Sharon Baird">Sharon Baird</a>
 </td></tr>
 <tr>
 <td><a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a></td>
@@ -78,11 +78,11 @@ Khi Boromir thất thủ, Orc mang theo hai chiếc Hobbit và rời đi. Khi Ar
 </td></tr>
 <tr>
 <td><a href="../L/Legolas.md" title="Legolas">Legolas</a></td>
-<td>Không có lời thoại
+<td>No lines
 </td></tr>
 <tr>
 <td><a href="../G/Gimli.md" title="Gimli">Gimli</a></td>
-<td>Không có lời thoại
+<td>No lines
 </td></tr></tbody></table>
 
 ## Lỗi {#Errors}

@@ -55,9 +55,9 @@ infobox:
     value: "Profile"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Tolkien</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Tolkien_(disambiguation).md" title="Tolkien (disambiguation)">Tolkien (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Tolkien</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Tolkien_(disambiguation).md" title="Tolkien (disambiguation)">Tolkien (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_(film)_-_poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4c/Tolkien_%28film%29_-_poster.jpg/314px-Tolkien_%28film%29_-_poster.jpg" decoding="async" loading="lazy" width="314" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4c/Tolkien_%28film%29_-_poster.jpg/471px-Tolkien_%28film%29_-_poster.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4c/Tolkien_%28film%29_-_poster.jpg/629px-Tolkien_%28film%29_-_poster.jpg 2x" data-file-width="655" data-file-height="1000"/></a><figcaption>Áp phích</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a href="../D/Dome_Karukoski.md" title="Dome Karukoski">Dome Karukoski</a></td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data"><a href="../N/Nicholas_Hoult.md" title="Nicholas Hoult">Nicholas Hoult</a><br/><a href="../L/Lily_Collins.md" title="Lily Collins">Lily Collins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data">Lasse Frank</td></tr><tr><th scope="row" class="tg-infobox-label">Biên tập</th><td class="tg-infobox-data">Harri Ylönen</td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="Thomas_Newman.md" title="Thomas Newman">Thomas Newman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data">Chernin Entertainment</td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data"><a href="The_Walt_Disney_Company.md" title="The Walt Disney Company">Fox Searchlight Pictures</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/3_May.md" title="3 May">3 May</a> <a href="../_/2019.md" title="2019">2019</a> (UK)<br/><a href="../_/10_May.md" title="10 May">10 May</a> <a href="../_/2019.md" title="2019">2019</a> (USA)</td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">112 phút</td></tr><tr><th scope="row" class="tg-infobox-label">Quốc gia</th><td class="tg-infobox-data">USA</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr><tr><th scope="row" class="tg-infobox-label">Ngân sách</th><td class="tg-infobox-data">20 triệu USD</td></tr><tr><th scope="row" class="tg-infobox-label">Gross</th><td class="tg-infobox-data">9 triệu USD</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.foxsearchlight.com/tolkien/" rel="noreferrer noopener" target="_blank">Trang web chính thức</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt3361792" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_(film)_-_poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4c/Tolkien_%28film%29_-_poster.jpg/314px-Tolkien_%28film%29_-_poster.jpg" decoding="async" loading="lazy" width="314" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4c/Tolkien_%28film%29_-_poster.jpg/471px-Tolkien_%28film%29_-_poster.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4c/Tolkien_%28film%29_-_poster.jpg/629px-Tolkien_%28film%29_-_poster.jpg 2x" data-file-width="655" data-file-height="1000"/></a><figcaption>Poster</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data"><a href="../D/Dome_Karukoski.md" title="Dome Karukoski">Dome Karukoski</a></td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data"><a href="../N/Nicholas_Hoult.md" title="Nicholas Hoult">Nicholas Hoult</a><br/><a href="../L/Lily_Collins.md" title="Lily Collins">Lily Collins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data">Lasse Frank</td></tr><tr><th scope="row" class="tg-infobox-label">Editing</th><td class="tg-infobox-data">Harri Ylönen</td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="Thomas_Newman.md" title="Thomas Newman">Thomas Newman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Studio</th><td class="tg-infobox-data">Chernin Entertainment</td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data"><a href="The_Walt_Disney_Company.md" title="The Walt Disney Company">Fox Searchlight Pictures</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/3_May.md" title="3 May">3 May</a> <a href="../_/2019.md" title="2019">2019</a> (UK)<br/><a href="../_/10_May.md" title="10 May">10 May</a> <a href="../_/2019.md" title="2019">2019</a> (USA)</td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">112 minutes</td></tr><tr><th scope="row" class="tg-infobox-label">Country</th><td class="tg-infobox-data">USA</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Budget</th><td class="tg-infobox-data">$20 million</td></tr><tr><th scope="row" class="tg-infobox-label">Gross</th><td class="tg-infobox-data">$9 million</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.foxsearchlight.com/tolkien/" rel="noreferrer noopener" target="_blank">Official website</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt3361792" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
 <i><b>Tolkien</b></i> là một bộ phim chính kịch tiểu sử [2019](../_/2019.md) mô tả cuộc sống ban đầu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở [Birmingham](../B/Birmingham.md) và [King Edward's School](../K/King_Edward's_School.md), khi còn là sinh viên đại học tại [Oxford](../U/University_of_Oxford.md) và phục vụ trong [Đại chiến](../W/World_War_I.md). Do [Dome Karukoski](../D/Dome_Karukoski.md) đạo diễn và [David Gleeson](../D/David_Gleeson.md) và [Stephen Beresford](../S/Stephen_Beresford.md) viết kịch bản, phim có sự tham gia của [Nicholas Hoult](../N/Nicholas_Hoult.md) trong vai Tolkien, [Lily Collins](../L/Lily_Collins.md) trong vai [Edith Bratt](../E/Edith_Bratt.md), [Colm Meaney](../C/Colm_Meaney.md) trong vai [Cha Francis Morgan](../F/Francis_Morgan.md) và [Derek Jacobi](../D/Derek_Jacobi.md) là Giáo sư [Joseph Wright](../J/Joseph_Wright.md). Phim được Fox Searchlight Pictures phát hành tại Vương quốc Anh vào [3 tháng 5](../_/3_May.md) năm 2019 và tại Hoa Kỳ vào [10 tháng 5](../_/10_May.md) năm 2019. Phim nhận được nhiều đánh giá trái chiều từ các nhà phê bình và thu về 7 triệu USD trên toàn thế giới với kinh phí 20 triệu USD.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -69,8 +69,8 @@ Bắt đầu từ thời thơ ấu của Tolkien tại [Sarehole Mill](../S/Sare
 
 <table class="TGtable sortable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Diễn viên</th>
-<th>Vai trò
+<th>Actor</th>
+<th>Role
 </th></tr>
 <tr>
 <td><a href="../N/Nicholas_Hoult.md" title="Nicholas Hoult">Nicholas Hoult</a></td>
@@ -106,27 +106,27 @@ Bắt đầu từ thời thơ ấu của Tolkien tại [Sarehole Mill](../S/Sare
 </td></tr>
 <tr>
 <td>Harry Gilby</td>
-<td>trẻ J. R. R. Tolkien
+<td>young J. R. R. Tolkien
 </td></tr>
 <tr>
 <td>Mimi Keene</td>
-<td>trẻ Edith Bratt
+<td>young Edith Bratt
 </td></tr>
 <tr>
 <td>Adam Bregman</td>
-<td>Geoffrey Smith thời trẻ
+<td>young Geoffrey Smith
 </td></tr>
 <tr>
 <td>Albie Marber</td>
-<td>Robert Gilson thời trẻ
+<td>young Robert Gilson
 </td></tr>
 <tr>
 <td>Ty Tennant</td>
-<td>nhà thông thái Christopher trẻ tuổi
+<td>young Christopher Wiseman
 </td></tr>
 <tr>
 <td>Guillermo Bedward</td>
-<td>trẻ Hilary Tolkien
+<td>young Hilary Tolkien
 </td></tr>
 <tr>
 <td>Pam Ferris</td>
@@ -193,7 +193,7 @@ Một lời chỉ trích khác đối với bộ phim là sự thiếu vắng r�
 
 ## Thư viện {#Gallery}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="../../category/I/Images_from_Tolkien_(film).md" title="Category:Images from Tolkien (film)">Thể loại:Hình ảnh từ Tolkien (phim)</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../../category/I/Images_from_Tolkien_(film).md" title="Category:Images from Tolkien (film)">Category:Images from Tolkien (film)</a></div></div>
 
 ### Hình ảnh từ *Tolkien* {#Pictures_from_Tolkien}
 
@@ -201,7 +201,7 @@ Một lời chỉ trích khác đối với bộ phim là sự thiếu vắng r�
 		<li class="gallerybox" style="width: 335px">
 			<div class="thumb" style="width: 330px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tolkien_(film)_-_Nicholas_Hoult_as_J.R.R._Tolkien.jpg.md" title="J.R.R. Tolkien on his desk"><img alt="J.R.R. Tolkien on his desk" src="https://tolkiengateway.net/w/images/thumb/c/c1/Tolkien_%28film%29_-_Nicholas_Hoult_as_J.R.R._Tolkien.jpg/300px-Tolkien_%28film%29_-_Nicholas_Hoult_as_J.R.R._Tolkien.jpg" decoding="async" loading="lazy" width="300" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c1/Tolkien_%28film%29_-_Nicholas_Hoult_as_J.R.R._Tolkien.jpg/450px-Tolkien_%28film%29_-_Nicholas_Hoult_as_J.R.R._Tolkien.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c1/Tolkien_%28film%29_-_Nicholas_Hoult_as_J.R.R._Tolkien.jpg/600px-Tolkien_%28film%29_-_Nicholas_Hoult_as_J.R.R._Tolkien.jpg 2x" data-file-width="1200" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>J.R.R. Tolkien trên bàn làm việc của mình
+<p>J.R.R. Tolkien on his desk
 </p>
 			</div>
 		</li>

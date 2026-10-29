@@ -31,22 +31,22 @@ infobox:
     value: "29 July 2025"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
-<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
+<p>We have a long way to go, and there is time ahead for thought.
 </p>
 <p class="tg-quote-footer"><cite><a href="Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tales_of_the_Shire_A_The_Lord_of_the_Rings_Game-poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/45/Tales_of_the_Shire_A_The_Lord_of_the_Rings_Game-poster.jpg/320px-Tales_of_the_Shire_A_The_Lord_of_the_Rings_Game-poster.jpg" decoding="async" loading="lazy" width="320" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/45/Tales_of_the_Shire_A_The_Lord_of_the_Rings_Game-poster.jpg/480px-Tales_of_the_Shire_A_The_Lord_of_the_Rings_Game-poster.jpg 1.5x, https://tolkiengateway.net/w/images/4/45/Tales_of_the_Shire_A_The_Lord_of_the_Rings_Game-poster.jpg 2x" data-file-width="620" data-file-height="348"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi điện tử</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>Tales of the Shire</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà phát triển</th><td class="tg-infobox-data">Wētā Workshop</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Private Division</td></tr><tr><th scope="row" class="tg-infobox-label">Nền tảng</th><td class="tg-infobox-data">PC<br/>Nintendo Switch<br/>PlayStation 5<br/>Xbox Series X/S</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data"><a href="../_/29_July.md" title="29 July">29 July</a> <a href="../_/2025.md" title="2025">2025</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tales_of_the_Shire_A_The_Lord_of_the_Rings_Game-poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/45/Tales_of_the_Shire_A_The_Lord_of_the_Rings_Game-poster.jpg/320px-Tales_of_the_Shire_A_The_Lord_of_the_Rings_Game-poster.jpg" decoding="async" loading="lazy" width="320" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/45/Tales_of_the_Shire_A_The_Lord_of_the_Rings_Game-poster.jpg/480px-Tales_of_the_Shire_A_The_Lord_of_the_Rings_Game-poster.jpg 1.5x, https://tolkiengateway.net/w/images/4/45/Tales_of_the_Shire_A_The_Lord_of_the_Rings_Game-poster.jpg 2x" data-file-width="620" data-file-height="348"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>Tales of the Shire</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data">Wētā Workshop</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Private Division</td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">PC<br/>Nintendo Switch<br/>PlayStation 5<br/>Xbox Series X/S</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/29_July.md" title="29 July">29 July</a> <a href="../_/2025.md" title="2025">2025</a></td></tr></tbody></table>
 
 <i><b>Tales of the Shire: Trò chơi "The Lord of the Rings"</b></i>, còn được gọi là **Tales of the Shire**, là trò chơi điện tử năm 2025 được phát triển bởi [Wētā Workshop](../W/Wētā_Workshop.md) và được Private Division phát hành cho bảng điều khiển và PC.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thông cáo báo chí {#Press_Release}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Michael Worosz, Giám đốc chiến lược, Take-Two Interactive và Giám đốc bộ phận tư nhân cho biết: "The Lord of the Rings IP là nơi có rất nhiều câu chuyện đáng chú ý và không có thực thể nào được trang bị tốt hơn nhóm tại Wētā Workshop để tạo ra trải nghiệm chơi trò chơi Trung Địa đặc biệt, mới mẻ.
-</p><p>Amie Wolken, Trưởng phòng Tương tác tại Wētā Workshop cho biết: “Thật là một đặc ân khi tạo ra một trò chơi mới lấy bối cảnh Trung Địa, đặc biệt là một trò chơi rất khác so với những gì người hâm mộ đã chơi trước đây”. “Với tư cách là người hâm mộ, chúng tôi rất vui mừng khi game thủ khám phá Trung Địa theo cách mà họ chưa từng có trước đây và giới thiệu cho người hâm mộ mới về sự kỳ diệu của The Lord of the Rings.”
-</p><p>Tựa game này đang trong giai đoạn phát triển ban đầu và chưa có ngày phát hành được công bố. Trò chơi dự kiến ​​sẽ ra mắt trong Năm tài chính 2024 của Take-Two. Bộ phận Tư nhân và Wētā Workshop mong muốn được chia sẻ thêm thông tin chi tiết về trò chơi này trong tương lai.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<p>We are thrilled to partner with Wētā Workshop to publish a game set in such an extraordinary and celebrated universe,” said Michael Worosz, Chief Strategy Officer, Take-Two Interactive, and Head of Private Division. “The Lord of the Rings IP is home to so many remarkable stories, and no entity is better equipped than the team at Wētā Workshop to create a distinctive, new Middle-earth gaming experience.
+</p><p>“It’s a privilege to create a new game set in Middle-earth, especially one that’s so different from what fans have played previously,” said Amie Wolken, Head of Interactive at Wētā Workshop. “As fans ourselves, we’re excited for gamers to explore Middle-earth in a way they never have before, and introduce new fans to the magic of The Lord of the Rings.”
+</p><p>This title is in early development and does not yet have an announced release date. It is expected to launch during Take-Two’s Fiscal Year 2024. Private Division and Wētā Workshop look forward to sharing more details about this game in the future.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 </p>
 <p class="tg-quote-footer"><cite>15 August 2022</cite></p>
 </blockquote>
@@ -73,7 +73,7 @@ infobox:
 
 <table style="margin: 0 auto; width: 100%;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Trò chơi điện tử được cấp phép lấy bối cảnh ở <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed video games set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </th></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="center"> <a href="../M/Melbourne_House.md" title="Melbourne House">Melbourne House</a>:
@@ -106,7 +106,7 @@ infobox:
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>) · <i><b><a href="The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">War in the North</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>) · <i><b><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>-<a href="../_/2018.md" title="2018">2018</a>) · <i><b><a href="The_Hobbit%253A_Kingdoms_of_Middle-earth.md" title="The Hobbit: Kingdoms of Middle-earth">Kingdoms of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>)· <i><b><a href="The_Hobbit%253A_Armies_of_The_Third_Age.md" title="The Hobbit: Armies of The Third Age">Armies of The Third Age</a></b></i> (<a href="../_/2013.md" title="2013">2013</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Shadow of Mordor</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Shadow of War</a></b></i> (<a href="../_/2017.md" title="2017">2017</a>) · <i><b><a href="The_Lord_of_the_Rings%253A_Rise_to_War.md" title="The Lord of the Rings: Rise to War">Rise to War</a></b></i> (<a href="../_/2021.md" title="2021">2021</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center">Glu Games:
+<th style="background:var(--tg-color-surface-3);" align="center"> Glu Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Middle-Earth_Defense.md" title="The Lord of the Rings: Middle-Earth Defense">Middle-Earth Defense</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>)
 </td></tr>
@@ -116,7 +116,7 @@ infobox:
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: The Video Game</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) · <i><b><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center">Twin Sails Interactive:
+<th style="background:var(--tg-color-surface-3);" align="center"> Twin Sails Interactive:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">The Lord of the Rings: Adventure Card Game</a></b></i> (<a href="../_/2018.md" title="2018">2018</a>)
 </td></tr>
@@ -126,7 +126,7 @@ infobox:
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center">North Beach Games:
+<th style="background:var(--tg-color-surface-3);" align="center"> North Beach Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Return to Moria</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr></tbody></table>

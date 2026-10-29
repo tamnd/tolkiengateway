@@ -17,7 +17,7 @@ infobox:
     value: "2016"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">trò chơi nhập vai</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Adventures in Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../C/Cubicle_7_Entertainment.md" title="Cubicle 7 Entertainment">Cubicle 7</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data"><a href="../_/2016.md" title="2016">2016</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Roleplaying game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Adventures in Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../C/Cubicle_7_Entertainment.md" title="Cubicle 7 Entertainment">Cubicle 7</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="../_/2016.md" title="2016">2016</a></td></tr></tbody></table>
 
 <i><b>Adventures in Trung Địa</b></i> là một trò chơi nhập vai được phát hành lần đầu tiên bởi [Cubicle 7 Entertainment](../C/Cubicle_7_Entertainment.md) vào cuối năm 2016, điều chỉnh bộ quy tắc *[Dungeons and Dragons](../D/Dungeons_and_Dragons.md)* phiên bản thứ 5 thành [Trung Địa](../M/Middle-earth.md), lấy cảm hứng từ *[The One Ring](../T/The_One_Ring.md)* hiện có của nó.<sup id="cite_ref-Announce_1-0" class="reference"><a href="#cite_note-Announce-1">[1]</a></sup> Theo đó, nhiều phần bổ sung tương đương trực tiếp với sách nguồn *The One Ring* tương ứng của chúng.
 
@@ -62,7 +62,7 @@ Các quy tắc hành trình của *Adventures in Middle-earth*, cơ chế do nh�
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Role-playing_game" title="wikipedia:Role-playing game">Trò chơi nhập vai bằng bút và giấy</a> được cấp phép lấy bối cảnh ở <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Role-playing_game" title="wikipedia:Role-playing game">Pen-and-paper RPGs</a> set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="center"> <a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a>:

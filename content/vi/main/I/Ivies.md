@@ -18,7 +18,7 @@ categories:
 
 <b>1984-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i></b>
 
-<dl><dd><i><b>Poison Ivy</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Nelhaew</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Neldesangwa</i>), còn được gọi là <i>Rigána</i>, là một loại cây thường xuân được mô tả trong sách của trò chơi, mọc ở những khu rừng rụng lá. Lá nhờn của nó gây phát ban. <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
+<dl><dd><i><b>Poison Ivy</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Nelhaew</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Neldesangwa</i>), also called <i>Rigána</i>, was a type of ivy described in the game&#39;s books, which grew in deciduous forests. Its oily leaves caused rashes. <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
 <span></span>
 

@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Brierly, David"
 ---
 
-**David Brierly** ([1935](../_/1935.md) – [10 tháng 6](../_/10_June.md), [2008](../_/2008.md)) là một diễn viên người Anh. Ông được biết đến nhiều nhất với cái tên chú chó robot <a class="extiw" href="http://en.wikipedia.org/wiki/K-9_(Doctor_Who)" title="wikipedia:K-9 (Doctor Who)">K-9</a> trong nhiều hóa thân khác nhau của *Doctor Who*.
+**David Brierly** ([1935](../_/1935.md) – [10 tháng 6](../_/10_June.md), [2008](../_/2008.md)) là một diễn viên người Anh. Ông ta được biết đến nhiều nhất với cái tên chú chó robot <a class="extiw" href="http://en.wikipedia.org/wiki/K-9_(Doctor_Who)" title="wikipedia:K-9 (Doctor Who)">K-9</a> trong nhiều hóa thân khác nhau của *Doctor Who*.
 
 ## Vai trò {#Roles}
 

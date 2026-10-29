@@ -18,9 +18,9 @@ Trong thời gian [Berúthiel](../B/Berúthiel.md) làm [vợ](../Q/Queen_of_Gon
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Gỗ của cây này có thể được khai thác bởi những chuyên gia lâm nghiệp ở <a href="../L/Lone-lands.md" title="Lone-lands">Vùng đất đơn độc</a>, <a href="../N/North_Downs.md" title="North Downs">North Downs</a>, <a href="../E/Evendim.md" title="Evendim">Evendim</a> và <a href="../T/The_Yondershire.md" title="The Yondershire">Yondershire</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
+<dl><dd>Wood of this tree can be foraged by expert foresters in the <a href="../L/Lone-lands.md" title="Lone-lands">Lone-lands</a>, the <a href="../N/North_Downs.md" title="North Downs">North Downs</a>, <a href="../E/Evendim.md" title="Evendim">Evendim</a>, and <a href="../T/The_Yondershire.md" title="The Yondershire">the Yondershire</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
 <span></span>
 

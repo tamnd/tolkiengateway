@@ -20,7 +20,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
 nhật ký của **J.R.R. Tolkien** là những mục nhật ký [chưa được xuất bản](../../category/U/Unpublished_material.md) được viết bởi [J.R.R. Tolkien](J.R.R._Tolkien.md). Các bản thảo này là một phần của Tài liệu Tolkien tại [Thư viện Bodleian](../B/Bodleian_Library.md), một bộ sưu tập chỉ dành cho các nhà nghiên cứu làm việc dưới sự bảo trợ của [Di sản Tolkien](../T/Tolkien_Estate.md).<sup id="cite_ref-Interview_1-0" class="reference"><a href="#cite_note-Interview-1">[1]</a></sup>

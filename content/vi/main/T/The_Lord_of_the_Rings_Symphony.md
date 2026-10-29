@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>tác phẩm của Howard Shore</b>. Về tác phẩm của Johann de Meij, xem <b><a href="../S/Symphony_No._1,_%2522The_Lord_of_the_Rings%2522.md" title="Symphony No. 1, &#34;The Lord of the Rings&#34;">Bản giao hưởng số 1, "The Lord of the Rings"</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the work by Howard Shore</b>. For the work by Johann de Meij, see <b><a href="../S/Symphony_No._1,_%2522The_Lord_of_the_Rings%2522.md" title="Symphony No. 1, &#34;The Lord of the Rings&#34;">Symphony No. 1, &#34;The Lord of the Rings&#34;</a></b>.</div></div>
 
 Sau khi ra rạp [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>), [Howard Shore](../H/Howard_Shore.md) đã làm lại điểm phim của bộ ba phim thành một tác phẩm sáu chương có cấu trúc chặt chẽ hơn dành cho dàn nhạc và dàn hợp xướng, có tựa đề đại khái là **The Lord of the Rings Bản giao hưởng**.
 

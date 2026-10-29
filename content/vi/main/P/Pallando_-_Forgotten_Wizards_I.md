@@ -17,34 +17,34 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Không ai trong số những người còn sống <br/>
-Sẽ nắm giữ sức mạnh <br/>
-Sẽ biết được những bí mật sâu kín nhất <br/>
-Trong tâm trí anh <br/>
-Không ai trong số những người còn sống <br/>
-Sẽ phá tan kế hoạch của hắn <br/>
-Sẽ đi theo con đường cuối cùng của anh <br/>
-Vào bóng tối <br/>
+<p>None amongst the living <br/>
+Shall wield the power <br/>
+Shall know the deepest secrets <br/>
+Inside his mind <br/>
+None amongst the living <br/>
+Will foil his plans <br/>
+Will follow his final path <br/>
+Into the shadows <br/>
 <br/>
-Đi qua miền hoang dã phương Đông <br/>
-Không để ý đến năm đại <br/>
-Ông là người im lặng <br/>
-Người đến từ phương xa <br/>
+Gone by the Eastern wilds <br/>
+Unnoticed of the great five <br/>
+He was the silent one <br/>
+He who comes afar <br/>
 Istari, Ithryn Luin <br/>
-Yếu đuối nhất chính là trái tim anh <br/>
+Weakest was his heart <br/>
 <br/>
-Không có ai trong số người chết <br/>
-Mong họ được bình yên <br/>
-Sẽ nhận được tự do <br/>
-Sự thống trị của vô hồn <br/>
-Không có ai trong số người chết <br/>
-Sẽ từ chối lòng trung thành <br/>
-Sẽ nghi ngờ anh đi <br/>
-Hết, chết <br/>
+None amongst the dead <br/>
+Shall have their peace <br/>
+Shall get their freedom <br/>
+Dominance of soulless <br/>
+None amongst the dead <br/>
+Will deny allegiance <br/>
+Will doubt his away <br/>
+Over, decease <br/>
 <br/>
-Sức mạnh to lớn đi kèm với dây xích <br/>
-Nỗi sợ rơi hiện ra <br/>
-Đó có thể là lời nguyền vĩnh cửu <br/>
-Hãy cẩn thận nếu không đến lượt bạn
+Great power comes with chains <br/>
+Fear of falling looms <br/>
+It can be an eternal curse <br/>
+Beware or it&#39;s your turn
 </p>
 </div>

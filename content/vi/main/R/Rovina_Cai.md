@@ -26,7 +26,7 @@ infobox:
     value: "Artist"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Rovina Cai</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data">1988</td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nghệ sĩ</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Rovina Cai</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data">1988</td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
 **Rovina Cai** là một họa sĩ minh họa người Úc. Là một nghệ sĩ *[Magic: The Gathering](../M/Magic%253A_The_Gathering.md)*, bà đã sáng tạo nghệ thuật cho bản mở rộng *[The Hobbit](../M/Magic%253A_The_Gathering_-_The_Hobbit.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bà cũng đã minh họa cho *[The Lord of the Rings: The Card Game](../T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

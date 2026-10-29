@@ -42,10 +42,10 @@ Sống lại cuộc đấu tranh hoành tráng giữa thiện và ác trong Trun
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Card_game" title="wikipedia:Card game">Trò chơi bài</a> được cấp phép được đặt trong <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Card_game" title="wikipedia:Card game">Card Games</a> set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Collectible_card_game" title="wikipedia:Collectible card game">Trò chơi thẻ bài sưu tầm</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Collectible_card_game" title="wikipedia:Collectible card game">Collectible Card Games</a></b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle Earth CCG</a></b></i> (<a href="../_/1995.md" title="1995">1995</a>-<a href="../_/1998.md" title="1998">1998</a>) • <i><b><a href="The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">Lord of the Rings TCG</a></b></i> (<a href="../_/2001.md" title="2001">2001</a>-<a href="../_/2007.md" title="2007">2007</a>)
@@ -57,19 +57,19 @@ Sống lại cuộc đấu tranh hoành tráng giữa thiện và ác trong Trun
 <td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">Tales of Middle Earth</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>) • <i><b><a href="../M/Magic%253A_The_Gathering_-_The_Hobbit.md" title="Magic: The Gathering - The Hobbit">The Hobbit</a></b></i> (<a href="../_/2026.md" title="2026">2026</a>)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Expandable_card_game" title="wikipedia:Expandable card game">Trò chơi thẻ bài Living Card Games</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Expandable_card_game" title="wikipedia:Expandable card game">Living Card Games</a></b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Card Game</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>-<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">Adventure Card Game</a></b></i> (<a href="../_/2022.md" title="2022">2022</a> kỹ thuật số)
+<td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Card Game</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>-<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">Adventure Card Game</a></b></i> (<a href="../_/2022.md" title="2022">2022</a> digital)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Loạt trò chơi ăn bài</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Trick-Taking Game Series</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_–_Trick-Taking_Game.md" title="The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game">Fellowship of the Ring</a></b></i> (<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_–_Trick-Taking_Game.md" title="The Lord of the Rings: The Two Towers – Trick-Taking Game">Two Towers</a></b></i> (<a href="../_/2026.md" title="2026">2026</a>)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Các trò chơi thẻ bài khác</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Other Card Games</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings_Tarot.md" title="The Lord of the Rings Tarot">Tarot</a></b></i> (<a href="../_/1997.md" title="1997">1997</a>) • <i><b><a class="mw-selflink selflink">The Hobbit</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) • <i><b><a href="../W/War_of_the_Ring%253A_The_Card_Game.md" title="War of the Ring: The Card Game">War of the Ring</a></b></i> (<a href="../_/2022.md" title="2022">2022</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_Duel_for_Middle-earth.md" title="The Lord of the Rings: Duel for Middle-earth">Duel for Middle-earth</a></b></i> (<a href="../_/2024.md" title="2024">2024</a>)

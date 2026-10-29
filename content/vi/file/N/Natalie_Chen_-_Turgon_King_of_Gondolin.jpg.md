@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh [Turgon](../../main/T/Turgon.md), [Vua Gondolin](../../main/K/King_of_Gondolin.md), của Natalie Chen.
+Hình ảnh [Turgon](../../main/T/Turgon.md), [Vua của Gondolin](../../main/K/King_of_Gondolin.md), của Natalie Chen.
 
 ## Giấy phép {#Licensing}
 

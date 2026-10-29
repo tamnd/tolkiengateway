@@ -17,8 +17,8 @@ images:
   - "Tree_of_human_tongues_expanded.jpg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Rh%C3%BBnnic&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Rh%C3%BBnnic&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
@@ -29,12 +29,12 @@ images:
 
 ## Lịch sử {#History}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tree_of_human_tongues_expanded.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/39/Tree_of_human_tongues_expanded.jpg/300px-Tree_of_human_tongues_expanded.jpg" decoding="async" loading="lazy" width="300" height="146" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/39/Tree_of_human_tongues_expanded.jpg/450px-Tree_of_human_tongues_expanded.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/39/Tree_of_human_tongues_expanded.jpg/600px-Tree_of_human_tongues_expanded.jpg 2x" data-file-width="4371" data-file-height="2126"/></a><figcaption>Bản tóm tắt các ngôn ngữ con người đã được chứng thực của Tolkien</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tree_of_human_tongues_expanded.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/39/Tree_of_human_tongues_expanded.jpg/300px-Tree_of_human_tongues_expanded.jpg" decoding="async" loading="lazy" width="300" height="146" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/39/Tree_of_human_tongues_expanded.jpg/450px-Tree_of_human_tongues_expanded.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/39/Tree_of_human_tongues_expanded.jpg/600px-Tree_of_human_tongues_expanded.jpg 2x" data-file-width="4371" data-file-height="2126"/></a><figcaption>A summary of Tolkien’s attested human languages</figcaption></figure>
 
 Tolkien không bao giờ đề cập đến bất kỳ ngôn ngữ hoặc người "Rhûnic" nào mà sử dụng danh mục rộng hơn là "[Easterlings](../E/Easterlings.md)" và sự tồn tại của Easterling ngôn ngữ được xác nhận ngay cả khi những ngôn ngữ đó không được Tolkien bổ sung (ngoài một số tên như [Khamûl](../K/Khamûl.md)). Rhûnic, mặc dù được cho là dựa trên một trong các ngôn ngữ của Tolkien<sup id="cite_ref-merc_1-2" class="reference"><a href="#cite_note-merc-1">[1]</a></sup><sup id="cite_ref-fof_3-0" class="reference"><a href="#cite_note-fof-3">[3]</a></sup>, nhưng lại được phát triển cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*. Theo lời của nhà soạn nhạc bộ truyện [Bear McCreary](../B/Bear_McCreary.md)<sup id="cite_ref-merc_1-3" class="reference"><a href="#cite_note-merc-1">[1]</a></sup>:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Đối với loạt bài này, chúng tôi luôn cố gắng đảm bảo rằng âm nhạc do nghệ sĩ độc tấu hoặc dàn hợp xướng hát truyền tải được ý nghĩa trong văn bản phù hợp với nền văn hóa mà âm nhạc đó đại diện. Vậy nhạc của Rhûn sẽ được hát bằng ngôn ngữ nào? Rhûn là một lĩnh vực rộng lớn, hầu như chưa được khám phá trong các tác phẩm đã xuất bản của Tolkien, cố tình để lại sự mơ hồ. Các học giả Tolkien làm việc trong loạt bài của chúng tôi đã tìm hiểu các ghi chú chưa xuất bản của Tolkien và sử dụng chúng để xây dựng nền tảng của ngôn ngữ Rhûnic, một ngôn ngữ chưa từng được người hâm mộ nghe đến trước đây. Giúp mở rộng một trong những ngôn ngữ ít được biết đến của Tolkien thành một nền văn hóa âm nhạc sôi động là một vinh dự thực sự.
+<p>For this series, we always strive to ensure that music sung by soloists or choirs communicates meaning in text that is relevant to the culture the music represents. So, what language would the music of Rhûn be sung in? Rhûn is a large, mostly unexplored area in Tolkien’s published works, left intentionally vague. Tolkien scholars working on our series dug through Tolkien’s unpublished notes and used them to build the foundation of a Rhûnic language, one that has never been heard before by fans. Helping to expand one of Tolkien’s lesser-known languages into a vibrant musical culture was a true honor.
 </p>
 </blockquote><div class="tg-section-divider"></div></div>
 
@@ -48,29 +48,29 @@ Bảng sau đây chứa tất cả các từ Rhûnic đã biết và ý nghĩa c
 
 <table class="wikitable mw-collapsible" rules="all">
 <tbody><tr>
-<td style="background: var(--tg-color-surface-2);"><b>từ rhûnic</b>
+<td style="background: var(--tg-color-surface-2);"><b>Rhûnic word</b>
 </td>
-<td style="background: var(--tg-color-surface-2);"><b>(Các) ý nghĩa có thể có</b>
+<td style="background: var(--tg-color-surface-2);"><b>Possible meaning(s)</b>
 </td></tr>
 <tr>
 <td>aibesjar</td>
-<td>em gái của chúng tôi (? hoặc mang, hoặc xa; nếu “em gái của chúng tôi”, thì có thể jar có nghĩa là “của chúng tôi”)
+<td>our sister (? or carried, or far; if “our sister”, then possibly jar means “our”)
 </td></tr>
 <tr>
 <td>aišäd</td>
-<td>đền thờ (đền thờ linh thiêng?)
+<td>shrine (sacred shrine?)
 </td></tr>
 <tr>
 <td>anže</td>
-<td>ra (? hoặc mang theo)
+<td>forth (? or bring)
 </td></tr>
 <tr>
 <td>arkäd</td>
-<td>ngai vàng
+<td>throne
 </td></tr>
 <tr>
 <td>balan</td>
-<td>xa (? hoặc mang, hoặc em gái của chúng tôi)
+<td>far (? or carried, or our sister)
 </td></tr>
 <tr>
 <td>bil</td>
@@ -78,11 +78,11 @@ Bảng sau đây chứa tất cả các từ Rhûnic đã biết và ý nghĩa c
 </td></tr>
 <tr>
 <td>bauvailun</td>
-<td>không nhìn thấy (? hoặc mối đe dọa)
+<td>unseen (? or threat)
 </td></tr>
 <tr>
 <td>bódi</td>
-<td>thiêng liêng (? hoặc đánh bại)
+<td>sacred (? or beat)
 </td></tr>
 <tr>
 <td>če</td>
@@ -90,39 +90,39 @@ Bảng sau đây chứa tất cả các từ Rhûnic đã biết và ý nghĩa c
 </td></tr>
 <tr>
 <td>dunšig</td>
-<td>ma thuật (? hay ma thuật đen tối)
+<td>magic (? or dark magic)
 </td></tr>
 <tr>
 <td>dyúl</td>
-<td>bà (? hay bạn, hoặc một từ nào đó chỉ ra mệnh lệnh)
+<td>her (? or you, or some word indicating a command)
 </td></tr>
 <tr>
 <td>feč</td>
-<td>bạn
+<td>thou
 </td></tr>
 <tr>
 <td>feg</td>
-<td>thy/thine/your (trường hợp sở hữu cách của feč)
+<td>thy/thine/your (genitive case of feč)
 </td></tr>
 <tr>
 <td>fú</td>
-<td>dưới
+<td>under
 </td></tr>
 <tr>
 <td>gileg</td>
-<td>mang (? hoặc ra)
+<td>bring (? or forth)
 </td></tr>
 <tr>
-<td>đi</td>
+<td>go</td>
 <td>from
 </td></tr>
 <tr>
 <td>gorul</td>
-<td>tăng lên
+<td>rise
 </td></tr>
 <tr>
 <td>hez</td>
-<td>yêu cầu (?)
+<td>command (?)
 </td></tr>
 <tr>
 <td>i</td>
@@ -130,7 +130,7 @@ Bảng sau đây chứa tất cả các từ Rhûnic đã biết và ý nghĩa c
 </td></tr>
 <tr>
 <td>j&#39;</td>
-<td>? (tiền tố, có thể từ je “to” hoặc i “the”)
+<td>? (a prefix, possibly from je “to” or i “the”)
 </td></tr>
 <tr>
 <td>jai</td>
@@ -142,88 +142,88 @@ Bảng sau đây chứa tất cả các từ Rhûnic đã biết và ý nghĩa c
 </td></tr>
 <tr>
 <td>ligrám</td>
-<td>cánh (? hoặc cánh trắng, hoặc cánh trắng, hoặc đập)
+<td>wings (? or white, or white wings, or beat)
 </td></tr>
 <tr>
 <td>lihiš</td>
-<td>trắng (? hoặc cánh, hoặc cánh trắng, hoặc đập)
+<td>white (? or wings, or white wings, or beat)
 </td></tr>
 <tr>
 <td>lún</td>
-<td>tối tăm
+<td>dark
 </td></tr>
 <tr>
 <td>lurg</td>
-<td>mối đe dọa (? hoặc vô hình)
+<td>threat (? or unseen)
 </td></tr>
 <tr>
 <td>naþa</td>
-<td>người hầu
+<td>servant
 </td></tr>
 <tr>
 <td>nädo</td>
-<td>thịt (? hoặc cấp)
+<td>flesh (? or grant)
 </td></tr>
 <tr>
 <td>ní</td>
-<td>yêu cầu (?)
+<td>command (?)
 </td></tr>
 <tr>
 <td>niganvil<sup id="cite_ref-note_4-0" class="reference"><a href="#cite_note-note-4">[note 1]</a></sup></td>
-<td>? (có thể là danh từ hoặc cụm danh từ, có thể bao gồm hậu tố giới từ)
+<td>? (likely a noun or noun phrase, possibly including a prepositional suffix)
 </td></tr>
 <tr>
 <td>*nim</td>
-<td>từ gốc liên quan đến mặt trăng (? hoặc ánh sáng)
+<td>root word relating to moon (? or light)
 </td></tr>
 <tr>
 <td>nimžil</td>
-<td>ánh trăng
+<td>moonlight
 </td></tr>
 <tr>
 <td>pängul<sup id="cite_ref-note_4-1" class="reference"><a href="#cite_note-note-4">[note 1]</a></sup></td>
-<td>? (có thể là động từ ở dạng mệnh lệnh)
+<td>? (probably a verb in imperative form)
 </td></tr>
 <tr>
 <td>raib</td>
-<td>đường viền (dạng bình thường hoặc dạng rút gọn để sử dụng trong hợp chất)
+<td>border (either normal form or shortened form for use in a compound)
 </td></tr>
 <tr>
 <td>raibo</td>
-<td>đường viền (dạng bình thường hoặc cách viết tắt của danh từ được đánh dấu hoặc có thể chứa hậu tố giới từ -o, có nghĩa là “tại”)
+<td>border (either normal form, or a marked noun declension, or perhaps containing a prepositional suffix -o, meaning “at”)
 </td></tr>
 <tr>
 <td>*šig</td>
-<td>từ gốc liên quan đến phép thuật
+<td>root word relating to magic
 </td></tr>
 <tr>
 <td>šigór</td>
-<td>Istar, thuật sĩ, dường như được đặt ra liên quan đến danh từ <a href="../A/Adûnaic.md" title="Adûnaic">adûnaic</a> <i>zigûr</i> “thuật sĩ”
+<td>Istar, wizard, seemingly coined in relation to the <a href="../A/Adûnaic.md" title="Adûnaic">adûnaic</a> noun <i>zigûr</i> “wizard”
 </td></tr>
 <tr>
 <td>taugun</td>
-<td>mang (? hoặc xa, hoặc em gái của chúng tôi)
+<td>carried (? or far, or our sister)
 </td></tr>
 <tr>
 <td>þabul</td>
-<td>cấp (? hay thịt)
+<td>grant (? or flesh)
 </td></tr>
 <tr>
 <td>þur</td>
-<td>quyền lực, sức mạnh
+<td>power, might
 </td></tr>
 <tr>
 <td>*žil</td>
-<td>từ gốc liên quan đến ánh sáng (? hoặc mặt trăng)
+<td>root word relating to light (? or moon)
 </td></tr>
 <tr>
 <td>žilid</td>
-<td>sự lộng lẫy, có thể có quan hệ họ hàng xa với <a href="../N/Noldorin.md" title="Noldorin">noldorin</a> <i>silith</i> ?
+<td>splendor, maybe distantly related with <a href="../N/Noldorin.md" title="Noldorin">noldorin</a> <i>silith</i> ?
 </td></tr>
 </tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Vì nimžil có nghĩa là “ánh trăng” và žilid có nghĩa là “lộng lẫy”, có khả năng *žil là một từ gốc có nghĩa là “ánh sáng” hoặc một từ nào đó tương tự. Trong trường hợp đó, nim có nghĩa là “mặt trăng”. Ngoài ra, vì dunšig có nghĩa là “ma thuật” (hay “ma thuật đen tối”?), và šigór có nghĩa là “Istar”, hay “phù thủy”, nên có khả năng *šig là một từ gốc có nghĩa liên quan đến ma thuật.
+<p>Given that nimžil means “moonlight” and žilid means “splendor”, it is likely that *žil is a root word meaning “light”, or something similar. In which case, nim would mean “moon”. Also, given that dunšig means “magic” (or “dark magic”?), and šigór means “Istar”, or “wizard”, it is likely that *šig is a root word with a meaning related to magic.
 </p>
 <p class="tg-quote-footer"><cite><i><a class="external text" href="https://fellowshipoffans.com/news/rhunic-revealed/" rel="noreferrer noopener" target="_blank">Fellowship of Fans.com &#34;Rhûnic Revealed&#34;</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -238,7 +238,7 @@ Bảng sau đây chứa tất cả các từ Rhûnic đã biết và ý nghĩa c
 </td>
 <td style="background: var(--tg-color-surface-2);"><b><a class="external text" href="https://en.wikipedia.org/wiki/International_Phonetic_Alphabet/" rel="noreferrer noopener" target="_blank">IPA</a></b>
 </td>
-<td style="background: var(--tg-color-surface-2);"><b>Tiếng Anh tương đương (nếu có)</b>
+<td style="background: var(--tg-color-surface-2);"><b>English equivalent (if there is any)</b>
 </td></tr>
 <tr>
 <td>A</td>
@@ -273,7 +273,7 @@ Bảng sau đây chứa tất cả các từ Rhûnic đã biết và ý nghĩa c
 <tr>
 <td>O</td>
 <td>o</td>
-<td><b>A</b> trong t<i><b>a</b></i>lk nhưng ngắn hơn.
+<td>The <b>A</b> in t<i><b>a</b></i>lk but shorter.
 </td></tr>
 <tr>
 <td>Ó</td>
@@ -302,7 +302,7 @@ Bảng sau đây chứa tất cả các từ Rhûnic đã biết và ý nghĩa c
 </td></tr>
 <tr>
 <td>P</td>
-<td>tr.</td>
+<td>p</td>
 <td>The <b>P</b> in <i><b>p</b></i>ie.
 </td></tr>
 <tr>
@@ -328,7 +328,7 @@ Bảng sau đây chứa tất cả các từ Rhûnic đã biết và ý nghĩa c
 <tr>
 <td>N</td>
 <td>n</td>
-<td><b>N</b> trong <i><b>n</b></i>bao giờ hết.
+<td>The <b>N</b> in <i><b>n</b></i>ever.
 </td></tr>
 <tr>
 <td>D</td>
@@ -348,7 +348,7 @@ Bảng sau đây chứa tất cả các từ Rhûnic đã biết và ý nghĩa c
 <tr>
 <td>G</td>
 <td>ɡ</td>
-<td><b>G</b> trong cuộc đua <i><b>g</b></i>.
+<td>The <b>G</b> in <i><b>g</b></i>race.
 </td></tr>
 <tr>
 <td>H</td>
@@ -363,7 +363,7 @@ Bảng sau đây chứa tất cả các từ Rhûnic đã biết và ý nghĩa c
 <tr>
 <td>R</td>
 <td>r</td>
-<td><i><b>thrilled R</b></i>.
+<td>The <i><b>thrilled R</b></i>.
 </td></tr>
 <tr>
 <td>S</td>

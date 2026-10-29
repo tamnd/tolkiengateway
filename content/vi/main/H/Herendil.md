@@ -23,7 +23,7 @@ infobox:
     value: "Male"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../N/Númenóreans.md" title="Númenóreans">Númenórean</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Herendil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../N/Númenor.md" title="Númenor">Númenor</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Gia đình</span></th></tr><tr><th scope="row" class="tg-infobox-label">Cha mẹ</th><td class="tg-infobox-data"><a href="../E/Elendil.md" title="Elendil">Elendil</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nam</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../N/Númenóreans.md" title="Númenóreans">Númenórean</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Herendil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../N/Númenor.md" title="Númenor">Númenor</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../E/Elendil.md" title="Elendil">Elendil</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
 **Herendil** là con trai của [Elendil](../E/Elendil.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Lost Road](../T/The_Lost_Road.md)*.
 
@@ -31,7 +31,7 @@ infobox:
 
 Herendil là một thợ lặn táo bạo và ông rất tự hào về tài năng của mình. Sau một lần lặn như vậy, cha anh, [Elendil](../E/Elendil.md), nhận thấy rằng anh dường như đã trưởng thành vượt bậc và nói với Herendil rằng anh có tố chất của một người đàn ông tốt.<sup id="cite_ref-P1_1-0" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 
-Về điều này, Herendil quở trách cha mình, tin rằng nhận xét này là một sự nhạo báng, cho rằng Elendil đã biết rằng ông có chiều cao thấp hơn những người khác cùng tuổi và ông bị dày vò vì điều đó. Herendil đưa ra bằng chứng rằng ông chỉ cao ngang vai [Almáriel](../A/Almáriel.md).<sup id="cite_ref-P1_1-1" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
+Về điều này, Herendil quở trách cha mình, tin rằng nhận xét này là một sự nhạo báng, cho rằng Elendil đã biết rằng ông có chiều cao thấp hơn những người khác cùng tuổi và ông bị dày vò vì điều đó. Herendil đưa ra bằng chứng rằng ông ta chỉ cao ngang vai [Almáriel](../A/Almáriel.md).<sup id="cite_ref-P1_1-1" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 
 Herendil sau đó đã thông báo với cha mình rằng mặc dù hai người họ đều mang dòng máu của các vị vua, nhưng ngày trước những người bạn cùng lứa của anh đã gọi anh bằng những cái tên như "Terendul" và buộc tội anh là "nửaNoldo." Tuy nhiên, Herendil thừa nhận rằng ít nhất như vậy cũng tốt hơn việc “bị gọi là một nửa Gnome”.<sup id="cite_ref-P1_1-2" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 

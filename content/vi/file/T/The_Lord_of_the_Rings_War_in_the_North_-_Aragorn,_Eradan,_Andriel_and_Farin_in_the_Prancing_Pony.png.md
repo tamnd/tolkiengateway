@@ -30,7 +30,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Aragorn](../../main/A/Aragorn.md), [Eradan](<../../main/E/Eradan_(video_game_character).md>), [Andriel](../../main/A/Andriel.md) và [Farin](<../../main/F/Farin_(video_game_character).md>) trong [Prancing Pony](../../main/T/The_Prancing_Pony.md) trong [The Lord of the Rings: War in the North](../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md).
+[Aragorn](../../main/A/Aragorn.md), [Eradan](<../../main/E/Eradan_(video_game_character).md>), [Andriel](../../main/A/Andriel.md) và [Farin](<../../main/F/Farin_(video_game_character).md>) trong [the Prancing Pony](../../main/T/The_Prancing_Pony.md) trong [The Lord of the Rings: War in the North](../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md).
 
 ## Giấy phép {#Licensing}
 

@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Magali_Villeneuve"
 content_sha256: 5c219e2018097ee5210a2f1802f3469acb05052495c6fec7f4f5bb591bb73663
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Nghệ sĩ cho trò chơi bài"
+short_description: "Artist for card games"
 categories:
   - "Artists"
   - "French people"
@@ -24,7 +24,7 @@ infobox:
     value: "Artist"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Magali Villeneuve</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nghệ sĩ</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Magali Villeneuve</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
 **Magali Villeneuve** là một họa sĩ minh họa người Pháp. Với tư cách là một nghệ sĩ [Magic: The Gathering](Magic%253A_The_Gathering.md), cô đã sáng tạo nghệ thuật cho các bản mở rộng [Tales of Trung Địa](../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md) và [The Hobbit](Magic%253A_The_Gathering_-_The_Hobbit.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cô cũng đóng góp tác phẩm nghệ thuật cho nhiều bản mở rộng khác nhau của [The Lord of the Rings: The Card Game](../T/The_Lord_of_the_Rings%253A_The_Card_Game.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

@@ -23,7 +23,7 @@ images:
 
 Số lượng Bounders tại bất kỳ thời điểm nào cũng thay đổi tùy theo nhu cầu. Trong thời gian tới [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), số lượng họ đã tăng lên rất nhiều<sup id="cite_ref-shire_1-1" class="reference"><a href="#cite_note-shire-1">[1]</a></sup> và họ bận rộn khi có những người và sinh vật lạ tiếp cận biên giới.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Hobbit ở Shire không hề biết rằng đây là dấu hiệu đầu tiên cho thấy những rắc rối ở phía nam sẽ sớm lan đến biên giới của họ. [Ruffians](../R/Ruffians.md) và các điệp viên của [Isengard](../I/Isengard.md) và [Mordor](../M/Mordor.md) bắt đầu xâm nhập [Eriador](../E/Eriador.md).
+Hobbit của Shire không hề biết rằng đây là dấu hiệu đầu tiên cho thấy những rắc rối ở phía nam sẽ sớm lan đến biên giới của họ. [Ruffians](../R/Ruffians.md) và các điệp viên của [Isengard](../I/Isengard.md) và [Mordor](../M/Mordor.md) bắt đầu xâm nhập [Eriador](../E/Eriador.md).
 
 ## Từ nguyên {#Etymology}
 
@@ -35,11 +35,11 @@ Từ này có nghĩa là "những người canh giữ ranh giới".
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>Một Bounder cầm đèn lồng, do <a href="../I/Ian_Mune.md" title="Ian Mune">Ian Mune</a> thủ vai, đối đầu với <a href="../N/Nazgûl.md" title="Nazgûl">Kỵ Sĩ Đen</a> trong đêm. Ông gọi "Ai đến đó?". Nazgûl không làm chậm lại và chặt đầu Bounder bằng lưỡi kiếm của mình.</dd></dl>
+<dl><dd>A Bounder holding a lantern, played by <a href="../I/Ian_Mune.md" title="Ian Mune">Ian Mune</a>, confronts a <a href="../N/Nazgûl.md" title="Nazgûl">Black Rider</a> in the night. He calls out &#34;Who goes there?&#34;. The Nazgûl does not slow down and decapitates the Bounder with his blade.</dd></dl>
 
 <b>2003: <a class="mw-redirect" href="../P/Pán_prsteňov_(2001-2003_Slovak_radio_series).md" title="Pán prsteňov (2001-2003 Slovak radio series)"><i>Pán prsteňov</i> (Loạt đài tiếng Slovak 2001-2003)</a>:</b>
 
-<dl><dd>Giọng nói của một người giới thiệu không tên được cung cấp bởi Karol Čálik. Nhân vật ranh giới này xuất hiện trong tập cuối cùng của bộ truyện, trong phần cốt truyện phỏng theo Cuộc truy lùng Shire.</dd></dl>
+<dl><dd>The voice of an unnamed bounder is provided by Karol Čálik. This bounder character appears in the final episode of the series, in the part of the storyline that adapts the Scouring of the Shire.</dd></dl>
 
 <span></span>
 

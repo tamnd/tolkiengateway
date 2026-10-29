@@ -16,25 +16,25 @@ images:
   - "CdxIconReference.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
-<p>Ai đã nói với bạn và ai đã gửi cho bạn?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
+<p>Who told you, and who sent you?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tom ... biết bóng tối dưới những vì sao khi nó không hề sợ hãi – trước khi Chúa tể Bóng tối đến từ Bên ngoài.
+<p>Tom ... knew the dark under the stars when it was fearless – before the Dark Lord came from Outside.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Vì không có gì là xấu ngay từ đầu. Ngay cả Sauron cũng không phải vậy.
+<p>For nothing is evil in the beginning. Even Sauron was not so.
 </p>
 <p class="tg-quote-footer"><cite><a href="../E/Elrond.md" title="Elrond">Elrond</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Arda Unmarred** ([Val](../V/Valarin.md). <i><b>Aþāraphelūn Amanaišal</b></i>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Q](../Q/Quenya.md). <i><b>Arda Alahasta</b></i><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> hoặc <i><b>Arda Vanya</b></i><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>) là một khái niệm trong [Elvish](../E/Elves.md) tôn giáo và triết học. Nó đề cập đến [Arda](Arda.md) (thế giới) khi nó tồn tại ở trạng thái hoàn hảo sau khi được tạo ra, trái ngược với **[Arda Marred](Arda_Marred.md)**, thế giới thiếu sót như nó hiện đang tồn tại. Arda Unmarred là một thế giới chưa bị ô nhiễm bởi cái ác của [Morgoth](../M/Morgoth.md). Điều này phản ánh ý định ban đầu của người tạo ra [Eru Ilúvatar](../E/Eru_Ilúvatar.md) và những người hầu của ông [Ainur](Ainur.md).
+**Arda Unmarred** ([Val](../V/Valarin.md). <i><b>Aþāraphelūn Amanaišal</b></i>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Q](../Q/Quenya.md). <i><b>Arda Alahasta</b></i><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> hoặc <i><b>Arda Vanya</b></i><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>) là một khái niệm trong [Elvish](../E/Elves.md) tôn giáo và triết học. Nó đề cập đến [Arda](Arda.md) (thế giới) khi nó tồn tại ở trạng thái hoàn hảo sau khi được tạo ra, trái ngược với **[Arda Marred](Arda_Marred.md)**, thế giới thiếu sót như nó hiện đang tồn tại. Arda Unmarred là một thế giới chưa bị ô nhiễm bởi cái ác của [Morgoth](../M/Morgoth.md). Điều này phản ánh ý định ban đầu của người tạo ra [Eru Ilúvatar](../E/Eru_Ilúvatar.md) và những người hầu của ông ta [Ainur](Ainur.md).
 
 Người Tiên tộc than thở về sự sa đọa về tinh thần và thể xác của Arda. Họ sống với [hy vọng](../E/Estel.md) rằng một ngày nào đó thiệt hại này sẽ được khắc phục và thế giới sẽ bị thanh lọc khỏi mọi tội ác, khôi phục lại trạng thái thiên đường.
 

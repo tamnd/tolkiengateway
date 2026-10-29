@@ -20,39 +20,39 @@ categories:
 <p><b>Gaudeamus</b><br/>
 <br/>
 Gaudeamus igitur,<br/>
-trẻ vị thành niên!<br/>
+juvenes dum sumus!<br/>
 Post jucundam juventutem,<br/>
-Đăng bài lạm dụng tình dục<br/>
-Không có mùn habebit.<br/>
+Post molestam senectutem<br/>
+Nos habebit humus.<br/>
 <br/>
 Ubi sunt, qui ante nos<br/>
-Ở mundo fuere?<br/>
-Siêu quảng cáo scandal<br/>
+In mundo fuere?<br/>
+Scandite ad superos<br/>
 vadite ad inferos,<br/>
-Mứt Ubi? Fuere.<br/>
+Ubi jam? Fuere.<br/>
 <br/>
 Vita nostra brevis est,<br/>
 Brevi finietur.<br/>
-Venit mors vận tốc,<br/>
-kẻ tàn bạo,<br/>
+Venit mors velociter,<br/>
+raptat nos atrociter,<br/>
 nemini parcetur.<br/>
 <br/>
-Học viện Vivat,<br/>
-Những giáo sư năng nổ:<br/>
-vivat màng quodlibet,<br/>
+Vivat academia,<br/>
+Vivant professores:<br/>
+vivat membrum quodlibet,<br/>
 vivat membra quælibet<br/>
-semper sint ở flore!<br/>
+semper sint in flore!<br/>
 <br/>
-Những trinh nữ omnes sống động,<br/>
+Vivant omnes virgines,<br/>
 faciles, formosae!<br/>
-Vivant và mulieres<br/>
+Vivant et mulieres<br/>
 teneræ, amabiles,<br/>
-bbona; lao độngæ.<br/>
+bbona; laboriosæ.<br/>
 <br/>
 Pereat tristitia,<br/>
-các vết loét vĩnh viễn,<br/>
-Bệnh tiểu đường vĩnh viễn,<br/>
+pereant osores,<br/>
+Pereant diabolus,<br/>
 quivis antiburschius<br/>
-atque Irisores!
+atque irrisores!
 </p>
 </div>

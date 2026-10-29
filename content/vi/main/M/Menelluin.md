@@ -17,7 +17,7 @@ images:
   - "Måns_Björkman_-_Idril.gif"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Måns_Björkman_-_Idril.gif.md"><img src="https://tolkiengateway.net/w/images/e/e9/M%C3%A5ns_Bj%C3%B6rkman_-_Idril.gif" decoding="async" loading="lazy" width="101" height="101" class="mw-file-element" data-file-width="101" data-file-height="101"/></a><figcaption>Thiết bị của <a href="../I/Idril.md" title="Idril">Idril Celebrindal</a>, mô tả một menelluin</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Måns_Björkman_-_Idril.gif.md"><img src="https://tolkiengateway.net/w/images/e/e9/M%C3%A5ns_Bj%C3%B6rkman_-_Idril.gif" decoding="async" loading="lazy" width="101" height="101" class="mw-file-element" data-file-width="101" data-file-height="101"/></a><figcaption><a href="../I/Idril.md" title="Idril">Idril Celebrindal</a>&#39;s device, depicting a menelluin</figcaption></figure>
 
 **Menelluin** là tên [Elvish](../E/Elvish.md) của "hoa ngô".
 

@@ -28,7 +28,7 @@ Vậy thì còn lại gì? Hai.
 
 Đầu tiên là <u>các bài tiểu luận</u>, <u>các bài đánh giá</u>của Tolkien và các ấn phẩm ngắn khác chỉ có độ dài bằng một <u>bài viết</u>. Những cuốn này đã xuất hiện trên nhiều tạp chí định kỳ hoặc dưới dạng tập sách nhỏ, một số được tái bản sau đó, một số khác thì không.
 
-Thứ hai là những "văn bản phụ" của Tolkien xuất hiện trong những cuốn sách không phải của ông, cụ thể là <u>lời nói đầu</u>, <u>chú thích mở đầu</u>, v.v.
+Thứ hai là những "văn bản phụ" của Tolkien xuất hiện trong những cuốn sách không phải của ông ta, cụ thể là <u>lời nói đầu</u>, <u>chú thích mở đầu</u>, v.v.
 
 Chắc chắn là có rất nhiều phương tiện truyền thông khác có những đóng góp nhỏ hơn của Tolkien, chẳng hạn như <u>ghi chú</u> hoặc <u>trích dẫn</u>riêng lẻ. Nhưng trang này không theo đuổi đến mức đó vì cho rằng chúng quá nhỏ nhặt hoặc không phù hợp với mục đích chính nên không mang lại lợi nhuận.
 
@@ -146,11 +146,11 @@ Chắc chắn là có rất nhiều phương tiện truyền thông khác có nh
 
 ## Xem xét thêm {#Further_consideration}
 
-Để đưa ra một mô tả về “tất cả các sản phẩm” của J.R.R. Tolkien trong cuộc sống vật chất của ông, cần phải giải thích nhiều tầng lớp.
+Để đưa ra một mô tả về “tất cả các sản phẩm” của J.R.R. Tolkien trong cuộc sống vật chất của ông ta, cần phải giải thích nhiều tầng lớp.
 
-Đầu tiên là hình cầu trướcTolkien. Đây thực tế là toàn bộ thế giới vào thời điểm Tolkien chuẩn bị lấy đi cơ thể vật lý của ông. Nó chứa đựng tất cả những nội dung, thông tin và ảnh hưởng mà sau này ông sẽ tiếp thu và hình thành trong suy nghĩ của mình. Nó cũng bao gồm bản ngã tái sinh của chính Tolkien và tất cả những trải nghiệm trong quá khứ của ông.
+Đầu tiên là hình cầu trướcTolkien. Đây thực tế là toàn bộ thế giới vào thời điểm Tolkien chuẩn bị lấy đi cơ thể vật lý của ông. Nó chứa đựng tất cả những nội dung, thông tin và ảnh hưởng mà sau này ông ta sẽ tiếp thu và hình thành trong suy nghĩ của mình. Nó cũng bao gồm bản ngã tái sinh của chính Tolkien và tất cả những trải nghiệm trong quá khứ của ông ta.
 
-Tiếp theo là tất cả những suy nghĩ của Tolkien trong cuộc sống trần thế. Điều này hoàn toàn dựa trên lớp trước, cộng với tất cả những kinh nghiệm mà ông đã tích lũy được trong lần tái sinh này. Ở lớp này, chúng không ở bất kỳ dạng vật lý nào nhưng có thể được truy cập hoàn hảo trong hồ sơ Akashic.
+Tiếp theo là tất cả những suy nghĩ của Tolkien trong cuộc sống trần thế. Điều này hoàn toàn dựa trên lớp trước, cộng với tất cả những kinh nghiệm mà ông ta đã tích lũy được trong lần tái sinh này. Ở lớp này, chúng không ở bất kỳ dạng vật lý nào nhưng có thể được truy cập hoàn hảo trong hồ sơ Akashic.
 
 Tiếp theo là tất cả các tài liệu bằng văn bản của mình. Điều này bao gồm bất cứ điều gì ông đã từng viết ra hoặc vẽ trên bất kỳ bề mặt nào bằng bất kỳ công cụ viết nào. Có thể hiểu được, phần lớn trong số chúng đã bị mất hoặc bị phá hủy từ lâu. Tuy nhiên, chúng vẫn có sẵn trong hồ sơ.
 

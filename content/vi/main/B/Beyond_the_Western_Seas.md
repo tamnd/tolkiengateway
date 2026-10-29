@@ -22,7 +22,7 @@ infobox:
     value: "English"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Beyond_the_Western_Seas.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dc/Beyond_the_Western_Seas.jpg/320px-Beyond_the_Western_Seas.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/dc/Beyond_the_Western_Seas.jpg 1.5x" data-file-width="350" data-file-height="350"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Beyond the Western Seas</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">album phòng thu của <br/><a href="../T/The_Lonely_Mountain_Band.md" title="The Lonely Mountain Band">Ban nhạc Ngọn Núi Cô Đơn</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/22_September.md" title="22 September">September 22</a>, <a href="../_/2010.md" title="2010">2010</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Folk</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Beyond_the_Western_Seas.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dc/Beyond_the_Western_Seas.jpg/320px-Beyond_the_Western_Seas.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/dc/Beyond_the_Western_Seas.jpg 1.5x" data-file-width="350" data-file-height="350"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Beyond the Western Seas</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">studio album by <br/><a href="../T/The_Lonely_Mountain_Band.md" title="The Lonely Mountain Band">The Lonely Mountain Band</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/22_September.md" title="22 September">September 22</a>, <a href="../_/2010.md" title="2010">2010</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Folk</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr></tbody></table>
 
 <i><b>Vượt Biển Tây</b></i> là album đầu tiên của ban nhạc dân gian *[The Lonely Mountain Band](../T/The_Lonely_Mountain_Band.md)*. Album được phát hành vào [tháng Chín 22](../_/22_September.md), [2010](../_/2010.md). Ảnh bìa của CD được thực hiện bởi [Ted Nasmith](../T/Ted_Nasmith.md).
 
@@ -31,8 +31,8 @@ infobox:
 <table class="tracklist wikitable wikitable--stripe">
     <tbody><tr>
       <th class="tlheader" style="width: 20px; text-align: right;">#</th>
-      <th class="tlheader" style="width: 100%;">Danh hiệu</th>
-      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Chiều dài</th>
+      <th class="tlheader" style="width: 100%;">Title</th>
+      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Length</th>
     </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">1.</td>

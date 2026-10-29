@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Party_Field"
 content_sha256: 927bb59f654359468d2339b90e4e3e78a593f0a2989ef7e00da1323b4528f477
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Cánh đồng ở Hobbiton nơi tổ chức bữa tiệc của Bilbo"
+short_description: "Field in Hobbiton where Bilbo's party was held"
 categories:
   - "Fields, plains and deserts"
   - "The Shire"
@@ -38,17 +38,17 @@ images:
 
 Trong quá trình chuẩn bị cho bữa tiệc sinh nhật lần thứ 111 của [Bilbo](../B/Bilbo's_Farewell_Party.md), một lối vào đặc biệt đã được khoét vào ngân hàng, một cánh cổng lớn màu trắng và các bậc thang nối nó với đường, đồng thời một nhà bếp ngoài trời được lắp đặt ở góc phía bắc, có các đầu bếp từ nhiều nhà trọ và quán rượu lân cận phục vụ.
 
-Cánh đồng được bao phủ bởi lều và đình; bên dưới gian hàng lớn nhất là [Cây Hội Tiệc](Party_Tree.md), một cái cây được trang trí ở đầu bàn. Bilbo đã phát biểu lời chia tay bên dưới nó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Cánh đồng được bao phủ bởi lều và đình; bên dưới gian hàng lớn nhất là [Cây tiệc tùng](Party_Tree.md), một cái cây được trang trí ở đầu bàn. Bilbo đã phát biểu lời chia tay bên dưới nó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Sau khi [Sharkey](../S/Sharkey.md) và [Ruffians](../R/Ruffians.md) của ông phá hủy Cây Hội Tiệc,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Samwise Gamgee](../S/Samwise_Gamgee.md) đã trồng một cây [mallorn](../M/Mallorn.md) khi ông trở về từ [Quest of the Ring](../Q/Quest_of_the_Ring.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và nó nở hoa vào [6 tháng 4](../_/6_April.md) [T.A.](../T/Third_Age.md) [3020](../T/Third_Age_3020.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Sau đó, nó được sử dụng cho các ngày lễ và lễ kỷ niệm bởi [Hobbit](../H/Hobbits.md) của khu vực đó bao gồm cả ngày lễ mới được tổ chức vào ngày 6 tháng 4.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+Sau khi [Sharkey](../S/Sharkey.md) và [Ruffians](../R/Ruffians.md) của ông ta phá hủy Cây Đảng,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Samwise Gamgee](../S/Samwise_Gamgee.md) đã trồng một cây [mallorn](../M/Mallorn.md) khi ông ta trở về từ [Quest of the Ring](../Q/Quest_of_the_Ring.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và nó nở hoa vào [6 tháng 4](../_/6_April.md) [T.A.](../T/Third_Age.md) [3020](../T/Third_Age_3020.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Sau đó, nó được sử dụng cho các ngày lễ và lễ kỷ niệm bởi [Hobbit](../H/Hobbits.md) của khu vực đó bao gồm cả ngày lễ mới được tổ chức vào ngày 6 tháng 4.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Party_Field.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1f/The_Lord_of_the_Rings_Online_-_Party_Field.jpg/200px-The_Lord_of_the_Rings_Online_-_Party_Field.jpg" decoding="async" loading="lazy" width="200" height="113" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1f/The_Lord_of_the_Rings_Online_-_Party_Field.jpg/300px-The_Lord_of_the_Rings_Online_-_Party_Field.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1f/The_Lord_of_the_Rings_Online_-_Party_Field.jpg/400px-The_Lord_of_the_Rings_Online_-_Party_Field.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Party Field in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Party Field và Cây tiệc tùng nằm ngay phía nam từ Bag End. Đây là địa điểm hoạt động chính của các lễ hội theo mùa và lễ kỷ niệm khác nhau của trò chơi. Trong những sự kiện như vậy, nhiều trò chơi, điệu nhảy, thử thách uống rượu và cuộc thi giải đố đang diễn ra xung quanh Cây Tiệc tùng.</dd></dl>
+<dl><dd>The Party Field and the Party Tree lie directly south from Bag End. It is a major place of activity for the game&#39;s various seasonal festivals and anniversary celebrations. During such events various games, dances, drinking challenges and riddle contest are taking place around the Party Tree.</dd></dl>
 
 ## Ghi chú {#Notes}
 

@@ -23,7 +23,7 @@ categories:
 
 - [Imlad Morgul](../I/Imlad_Morgul.md)
 - [Minas Morgul](Minas_Morgul.md)
-- [Dao Morgul](Morgul-knife.md)
+- [Con dao Morgul](Morgul-knife.md)
 - [Vết thương Morgul](Morgul-wound.md)
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}

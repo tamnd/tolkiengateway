@@ -23,20 +23,20 @@ infobox:
     value: "Briny Notion, fish"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
 <table class="tg-infobox floatright">
-  <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Thơ của J.R.R. Tolkien</a></td></tr>
-  <tr><th colspan="2" class="tg-infobox-title"><span>"Tôi có một khái niệm rất Briny"</span></th></tr>
-  <tr><th colspan="2" class="tg-infobox-header"><span>Thông tin về bài thơ</span></th></tr>
-  <tr><th scope="row" class="tg-infobox-label">Viết</th><td class="tg-infobox-data">Around <a href="../_/1945.md" title="1945">1945</a></td></tr>
-  <tr><th scope="row" class="tg-infobox-label">Xuất bản</th><td class="tg-infobox-data"><i><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a></i></td></tr>
-  <tr><th scope="row" class="tg-infobox-label">Chủ đề</th><td class="tg-infobox-data"><a class="mw-redirect" href="../B/Briny_Notion.md" title="Briny Notion">Ý niệm về nước mặn</a>, <a href="../F/Fish.md" title="Fish">cá</a></td></tr>
+  <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Poems by J.R.R. Tolkien</a></td></tr>
+  <tr><th colspan="2" class="tg-infobox-title"><span>&#34;I&#39;ve got a very Briny Notion&#34;</span></th></tr>
+  <tr><th colspan="2" class="tg-infobox-header"><span>Poem Information</span></th></tr>
+  <tr><th scope="row" class="tg-infobox-label">Written</th><td class="tg-infobox-data">Around <a href="../_/1945.md" title="1945">1945</a></td></tr>
+  <tr><th scope="row" class="tg-infobox-label">Published</th><td class="tg-infobox-data"><i><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a></i></td></tr>
+  <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a class="mw-redirect" href="../B/Briny_Notion.md" title="Briny Notion">Briny Notion</a>, <a href="../F/Fish.md" title="Fish">fish</a></td></tr>
 </tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Nếu Arry Lowdham định lặn đến nơi những giấc mơ đến và tìm thấy con cá giống như Ramer, chúng ta sẽ phải nhìn xuống vực.
+<p>If Arry Lowdham is going to dive where the dreams go and find the same fish as Ramer, we shall have to look into the pool.
 </p>
 <p class="tg-quote-footer"><cite><a href="../R/Rupert_Dolbear.md" title="Rupert Dolbear">Rupert Dolbear</a> in <a class="new" href="https://tolkiengateway.net/w/index.php?title=Night_65&amp;action=edit&amp;redlink=1" title="Night 65 (page does not exist)">Night 65</a>.</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -48,18 +48,18 @@ infobox:
 Theo <a class="new" href="https://tolkiengateway.net/w/index.php?title=Night_65&amp;action=edit&amp;redlink=1" title="Night 65 (page does not exist)">Đêm 65</a><sup id="cite_ref-poem_1-1" class="reference"><a href="#cite_note-poem-1">[1]</a></sup> ở *[The Notion Club Papers](../T/The_Notion_Club_Papers.md)* được phát hiện bởi [Howard Green](../H/Howard_Green.md) vào <a class="new" href="https://tolkiengateway.net/w/index.php?title=Seventh_Age_2012&amp;action=edit&amp;redlink=1" title="Seventh Age 2012 (page does not exist)">2012</a>,<sup id="cite_ref-Foreword_2-0" class="reference"><a href="#cite_note-Foreword-2">[2]</a></sup> tất cả các thành viên chính của [Notion Club](../N/Notion_Club.md)<sup id="cite_ref-Foreword_2-1" class="reference"><a href="#cite_note-Foreword-2">[2]</a></sup> đã tham dự một cuộc họp được tổ chức tại phòng của [Philip Frankley](../P/Philip_Frankley.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/The_Queen%27s_College_(Oxford)" title="wikipedia:The Queen&#39;s College (Oxford)">Queen</a> vào [8 tháng 5](../_/8_May.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Seventh_Age_1987&amp;action=edit&amp;redlink=1" title="Seventh Age 1987 (page does not exist)">1987</a>. Sau khoảng một giờ đầu tiên của cuộc họp này, [Alwin Arundel Lowdham](../A/Alwin_Arundel_Lowdham.md) đã đến vào khoảng 9h30 tối, hát:<sup id="cite_ref-poem_1-2" class="reference"><a href="#cite_note-poem-1">[1]</a></sup>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Tôi có một khái niệm rất trong trẻo</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">Uống cho mình ngủ.<sup id="cite_ref-poem_1-3" class="reference"><a href="#cite_note-poem-1">[1]</a></sup></span>
+<p><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">I&#39;ve got a very Briny Notion</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">To drink myself to sleep.<sup id="cite_ref-poem_1-3" class="reference"><a href="#cite_note-poem-1">[1]</a></sup></span>
 </p>
 </div>
 
 Sau đó, Lowdham tỏ ra khá bồn chồn, không chịu ngồi xuống. Trong khoảng ba mươi phút tiếp theo, Lowdham thỉnh thoảng cố gắng tiếp tục bài hát của mình, hiếm khi tiến xa hơn hai dòng đầu tiên nói trên:<sup id="cite_ref-poem_1-4" class="reference"><a href="#cite_note-poem-1">[1]</a></sup>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Mang cho tôi cái bát, lọ thuốc thần của tôi!</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">Tối nay tôi sẽ lặn sâu.</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;">xuống! xuống! xuống!</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">Xuống nơi giấc mơ-<a href="../F/Fish.md" title="Fish">cá</a> đi.<sup id="cite_ref-poem_1-5" class="reference"><a href="#cite_note-poem-1">[1]</a></sup></span>
+<p><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Bring me my bowl, my magic potion!</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">Tonight I’m diving deep.</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;">down! down! down!</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">Down where the dream-<a href="../F/Fish.md" title="Fish">fish</a> go.<sup id="cite_ref-poem_1-5" class="reference"><a href="#cite_note-poem-1">[1]</a></sup></span>
 </p>
 </div>
 

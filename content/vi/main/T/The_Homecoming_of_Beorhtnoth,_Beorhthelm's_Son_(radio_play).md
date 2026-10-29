@@ -24,8 +24,8 @@ Vào [ngày 3 tháng 12](../_/3_December.md), [1954](../_/1954.md), [Chương tr
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Vai trò</th>
-<th>Diễn viên
+<th>Role</th>
+<th>Actor
 </th></tr>
 <tr>
 <td>Tidwald</td>
@@ -36,7 +36,7 @@ Vào [ngày 3 tháng 12](../_/3_December.md), [1954](../_/1954.md), [Chương tr
 <td><a href="../F/Frank_Duncan.md" title="Frank Duncan">Frank Duncan</a>
 </td></tr>
 <tr>
-<td>Không xác định</td>
+<td>Unspecified</td>
 <td><a href="../G/Gareth_Jones.md" title="Gareth Jones">Gareth Jones</a>
 </td></tr></tbody></table>
 

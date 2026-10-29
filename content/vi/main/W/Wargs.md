@@ -53,10 +53,10 @@ infobox:
     value: "Images of Wargs"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Wargs.jpg.md"><img src="https://tolkiengateway.net/w/images/b/bd/John_Howe_-_Wargs.jpg" decoding="async" loading="lazy" width="244" height="337" class="mw-file-element" data-file-width="244" data-file-height="337"/></a><figcaption>&#34;Wargs&#34; by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a class="mw-redirect" href="../R/Races.md" title="Races">Chủng tộc</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Warg</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">Wild Wolves</td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Anduin Vale, <a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trực thuộc</th><td class="tg-infobox-data"><a href="../S/Sauron.md" title="Sauron">Sauron</a>, <a href="../O/Orcs.md" title="Orcs">Orcs</a></td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Wargs.md" title="Category:Images of Wargs">Images of Wargs</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Wargs.jpg.md"><img src="https://tolkiengateway.net/w/images/b/bd/John_Howe_-_Wargs.jpg" decoding="async" loading="lazy" width="244" height="337" class="mw-file-element" data-file-width="244" data-file-height="337"/></a><figcaption>&#34;Wargs&#34; by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a class="mw-redirect" href="../R/Races.md" title="Races">Race</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Wargs</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Wild Wolves</td></tr><tr><th scope="row" class="tg-infobox-label">Locations</th><td class="tg-infobox-data">Anduin Vale, <a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../S/Sauron.md" title="Sauron">Sauron</a>, <a href="../O/Orcs.md" title="Orcs">Orcs</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Wargs.md" title="Category:Images of Wargs">Images of Wargs</a></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Vậy là tất cả các bạn vẫn ở đây! ... Chưa bị Warg hay yêu tinh hay gấu độc ác ăn thịt mà tôi thấy
+<p>So here you all are still! ... Not eaten up by Wargs or goblins or wicked bears yet I see
 </p>
 <p class="tg-quote-footer"><cite><a href="../B/Beorn.md" title="Beorn">Beorn</a> in <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../Q/Queer_Lodgings.md" title="Queer Lodgings">Queer Lodgings</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -65,7 +65,7 @@ infobox:
 
 ## Đặc điểm {#Characteristics}
 
-Warg là một giống sói [quỷ](../D/Demons.md) độc ác,<sup id="cite_ref-L297_3-1" class="reference"><a href="#cite_note-L297-3">[3]</a></sup><sup id="cite_ref-Gene_4-0" class="reference"><a href="#cite_note-Gene-4">[4]</a></sup> cho thấy rằng chúng là nơi sinh sống của các linh hồn ma quỷ. Nguồn gốc của giống chó này vẫn chưa được xác định - có lẽ chúng nằm trong số những sinh vật được [Morgoth](../M/Morgoth.md) nhân giống vào [Thời Cổ xưa](../E/Elder_Days.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Trong mọi trường hợp, [Gandalf](../G/Gandalf.md) đã liệt kê Warg trong số những người hầu của [Sauron](../S/Sauron.md) vào cuối [Kỷ Đệ Tam](../T/Third_Age.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Warg là một giống sói [quỷ](../D/Demons.md) độc ác,<sup id="cite_ref-L297_3-1" class="reference"><a href="#cite_note-L297-3">[3]</a></sup><sup id="cite_ref-Gene_4-0" class="reference"><a href="#cite_note-Gene-4">[4]</a></sup> cho thấy rằng chúng là nơi sinh sống của các linh hồn ma quỷ. Nguồn gốc của giống chó này vẫn chưa được xác định - có lẽ chúng nằm trong số những sinh vật được [Morgoth](../M/Morgoth.md) nhân giống vào [Ngày của Người cao tuổi](../E/Elder_Days.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Trong mọi trường hợp, [Gandalf](../G/Gandalf.md) đã liệt kê Warg trong số những người hầu của [Sauron](../S/Sauron.md) vào cuối [Kỷ Đệ Tam](../T/Third_Age.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 Warg đã được nhìn thấy trong [Rhovanion](../R/Rhovanion.md) và chúng thường được liên minh với [Orc của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md) và được sử dụng làm thú cưỡi. Warg đã thông minh và sử dụng một cái lưỡi, "[ngôn ngữ đáng sợ của Warg](Wolf-language.md)". Họ sợ lửa và không thể trèo cây.<sup id="cite_ref-H6_2-1" class="reference"><a href="#cite_note-H6-2">[2]</a></sup>
 
@@ -77,7 +77,7 @@ Trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), Warg xuất hi�
 
 Bọn Warg nghĩ rằng Người Lùn là đồng minh của Người Rừng nên đã bao vây trảng rừng và không cho chúng đi xuống. Gandalf sau đó sử dụng [ma thuật](../M/Magic.md) của mình để thắp sáng những quả thông và ném chúng vào Warg cho đến khi hắn đuổi chúng ra ngoài. Những con sói bốc cháy chạy vào rừng và đốt cháy ở một số nơi, vì trời đang là mùa hè, và ở sườn phía đông của dãy núi này đã có một thời gian ít mưa. Tuy nhiên, những người bảo vệ ở dưới gốc cây vẫn không biến mất. Cuối cùng Goblin xuất hiện và thắp sáng những cái cây mà Người Lùn đang ở cho đến khi [Đại Bàng](../E/Eagles.md) đến giải cứu họ.<sup id="cite_ref-H6_2-2" class="reference"><a href="#cite_note-H6-2">[2]</a></sup>
 
-Goblin và Warg nhất quyết đi tìm ban nhạc, vì Gandalf đã giết [Yêu tinh vĩ đại](../G/Great_Goblin.md) và cũng đốt mũi con sói trưởng. Họ đã đi xa tới tận nhà của [Beorn](../B/Beorn.md), nhưng ông đã bắt được một cặp và nhét đầu con yêu tinh ra ngoài cổng và đóng đinh bộ da warg vào một cái cây ngay bên ngoài<sup id="cite_ref-Queer_7-0" class="reference"><a href="#cite_note-Queer-7">[7]</a></sup>
+Goblin và Warg nhất quyết đi tìm ban nhạc, vì Gandalf đã giết [Yêu tinh vĩ đại](../G/Great_Goblin.md) và cũng đốt mũi con sói trưởng. Họ đã đi xa tới tận nhà của [Beorn](../B/Beorn.md), nhưng ông ta đã bắt được một cặp và nhét đầu con yêu tinh ra ngoài cổng và đóng đinh bộ da warg vào một cái cây ngay bên ngoài<sup id="cite_ref-Queer_7-0" class="reference"><a href="#cite_note-Queer-7">[7]</a></sup>
 
 Warg xuất hiện một lần nữa, được cưỡi bởi Goblin, tại [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md).<sup id="cite_ref-H17_1-1" class="reference"><a href="#cite_note-H17-1">[1]</a></sup> Sau đó, Warg đã biến mất khỏi rừng, nên những người đàn ông ra nước ngoài mà không hề sợ hãi.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
@@ -93,7 +93,7 @@ Trong danh sách tiếng Anh cổ tương đương với [Elvish](../E/Elvish.md
 
 ## Cảm hứng và ảnh hưởng {#Inspiration_and_influences}
 
-Trong tiếng Bắc Âu cổ thần thoại, chiến binh (*vargr*, từ đồng nghĩa với "sói", *ulfr*) đặc biệt là sói <a class="extiw" href="http://en.wikipedia.org/wiki/Fenrir" title="wikipedia:Fenrir">Fenrir</a> và các con trai của ông <a class="extiw" href="http://en.wikipedia.org/wiki/Skoll" title="wikipedia:Skoll">Skoll</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Hati" title="wikipedia:Hati">Hati</a>.
+Trong tiếng Bắc Âu cổ thần thoại, chiến binh (*vargr*, từ đồng nghĩa với "sói", *ulfr*) đặc biệt là sói <a class="extiw" href="http://en.wikipedia.org/wiki/Fenrir" title="wikipedia:Fenrir">Fenrir</a> và các con trai của ông ta <a class="extiw" href="http://en.wikipedia.org/wiki/Skoll" title="wikipedia:Skoll">Skoll</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Hati" title="wikipedia:Hati">Hati</a>.
 
 Tolkien đã đề cập trong một lá thư rằng tình tiết chiến tranh trong *[The Hobbit](../T/The_Hobbit.md)* "một phần bắt nguồn từ một cảnh" trong tiểu thuyết của <a class="extiw" href="http://en.wikipedia.org/wiki/Samuel_Rutherford_Crockett" title="wikipedia:Samuel Rutherford Crockett">S. R. Crockett</a> <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Black_Douglas&amp;action=edit&amp;redlink=1" title="The Black Douglas (page does not exist)">The Black Douglas</a></i>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 
@@ -107,7 +107,7 @@ Tolkien cũng lưu ý rằng [Gene Wolfe](../G/Gene_Wolfe.md), một trong nhữ
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_(1977_film)_-_Wargs.png.md" title="Wargs in The Hobbit (1977 film)"><img alt="Wargs in The Hobbit (1977 film)" src="https://tolkiengateway.net/w/images/thumb/7/7b/The_Hobbit_%281977_film%29_-_Wargs.png/200px-The_Hobbit_%281977_film%29_-_Wargs.png" decoding="async" loading="lazy" width="200" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7b/The_Hobbit_%281977_film%29_-_Wargs.png/300px-The_Hobbit_%281977_film%29_-_Wargs.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/7b/The_Hobbit_%281977_film%29_-_Wargs.png/400px-The_Hobbit_%281977_film%29_-_Wargs.png 2x" data-file-width="640" data-file-height="480"/></a></span></div>
 			<div class="gallerytext">
-<p>Warg trong <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>
+<p>Wargs in <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (1977 film)</a>
 </p>
 			</div>
 		</li>
@@ -149,21 +149,21 @@ Tolkien cũng lưu ý rằng [Gene Wolfe](../G/Gene_Wolfe.md), một trong nhữ
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_(video_game)_-_Warg.png.md" title="A Warg in The Lord of the Rings: The Fellowship of the Ring (video game)"><img alt="A Warg in The Lord of the Rings: The Fellowship of the Ring (video game)" src="https://tolkiengateway.net/w/images/thumb/9/9e/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Warg.png/214px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Warg.png" decoding="async" loading="lazy" width="214" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9e/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Warg.png/321px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Warg.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/9e/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Warg.png/428px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Warg.png 2x" data-file-width="627" data-file-height="440"/></a></span></div>
 			<div class="gallerytext">
-<p>Một Warg trong <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>
+<p>A Warg in <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (video game)</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Two_Towers_-_Warg.jpg.md" title="A Warg in The Lord of the Rings (film series)"><img alt="A Warg in The Lord of the Rings (film series)" src="https://tolkiengateway.net/w/images/thumb/2/21/The_Lord_of_the_Rings_-_The_Two_Towers_-_Warg.jpg/231px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Warg.jpg" decoding="async" loading="lazy" width="231" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/21/The_Lord_of_the_Rings_-_The_Two_Towers_-_Warg.jpg/347px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Warg.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/21/The_Lord_of_the_Rings_-_The_Two_Towers_-_Warg.jpg/462px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Warg.jpg 2x" data-file-width="511" data-file-height="332"/></a></span></div>
 			<div class="gallerytext">
-<p>Một Warg trong <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>
+<p>A Warg in <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_(2003)_-_Warg.jpg.md" title="A Warg in The Hobbit (2003 video game)"><img alt="A Warg in The Hobbit (2003 video game)" src="https://tolkiengateway.net/w/images/thumb/2/2c/The_Hobbit_%282003%29_-_Warg.jpg/250px-The_Hobbit_%282003%29_-_Warg.jpg" decoding="async" loading="lazy" width="250" height="104" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2c/The_Hobbit_%282003%29_-_Warg.jpg/375px-The_Hobbit_%282003%29_-_Warg.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2c/The_Hobbit_%282003%29_-_Warg.jpg/500px-The_Hobbit_%282003%29_-_Warg.jpg 2x" data-file-width="1270" data-file-height="526"/></a></span></div>
 			<div class="gallerytext">
-<p>Một Warg trong <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>
+<p>A Warg in <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (2003 video game)</a>
 </p>
 			</div>
 		</li>
@@ -177,7 +177,7 @@ Tolkien cũng lưu ý rằng [Gene Wolfe](../G/Gene_Wolfe.md), một trong nhữ
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey-_Gundabad_Wargs.jpg.md" title="Wargs in The Hobbit (film series)"><img alt="Wargs in The Hobbit (film series)" src="https://tolkiengateway.net/w/images/thumb/d/d5/The_Hobbit_-_An_Unexpected_Journey-_Gundabad_Wargs.jpg/250px-The_Hobbit_-_An_Unexpected_Journey-_Gundabad_Wargs.jpg" decoding="async" loading="lazy" width="250" height="104" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d5/The_Hobbit_-_An_Unexpected_Journey-_Gundabad_Wargs.jpg/375px-The_Hobbit_-_An_Unexpected_Journey-_Gundabad_Wargs.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d5/The_Hobbit_-_An_Unexpected_Journey-_Gundabad_Wargs.jpg/500px-The_Hobbit_-_An_Unexpected_Journey-_Gundabad_Wargs.jpg 2x" data-file-width="1920" data-file-height="800"/></a></span></div>
 			<div class="gallerytext">
-<p>Warg trong <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>
+<p>Wargs in <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (film series)</a>
 </p>
 			</div>
 		</li>
@@ -194,49 +194,49 @@ Tolkien cũng lưu ý rằng [Gene Wolfe](../G/Gene_Wolfe.md), một trong nhữ
 
 <b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>The Hobbit</i> (loạt phim phát thanh 1968)</a>:</b>
 
-<dl><dd>Warg có đoạn hội thoại được lồng tiếng hoàn toàn bằng tiếng Anh, mặc dù không rõ đó là <a href="Westron.md" title="Westron">Westron</a> hay ngôn ngữ riêng của họ được dịch vì lợi ích của khán giả.</dd></dl>
+<dl><dd>The Wargs are given fully-voiced dialogue in English, though it&#39;s unclear if it&#39;s meant to be <a href="Westron.md" title="Westron">Westron</a>, or their own language translated for the audience&#39;s sake.</dd></dl>
 
 ### Phim {#Films}
 
 <b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
-<dl><dd>Warg được coi là những con sói lớn được cưỡi bởi Goblin. Họ không có nỗi sợ lửa.</dd></dl>
+<dl><dd>Wargs are seen as large wolves ridden by Goblins. They do not have a fear of fire.</dd></dl>
 
 <b>2001-03: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>:</b>
 
-<dl><dd>Warg xuất hiện trong phim với tư cách là kỵ binh được Orc cưỡi và tấn công người của Rohan trên đường đến <a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a>; họ cũng được nhìn thấy trong suốt cuộc bao vây của <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> giữa các lực lượng Sauron, và một người được điều khiển bởi <a href="../G/Gothmog_(Lieutenant_of_Morgul).md" title="Gothmog (Lieutenant of Morgul)">Gothmog</a>. Thay vì được miêu tả chỉ là những con sói quỷ như Tolkien mô tả, Warg được hiển thị ở đây có kích thước tương đương với ngựa và có vẻ bề ngoài giống linh cẩu hơn là chó sói. Chúng có thân hình nặng nề, với hộp sọ rộng, hình hộp với đôi mắt nằm rất gần mõm và bờm dày trên cổ. Chúng có tứ chi khá mập mạp và đuôi ngắn.</dd></dl>
+<dl><dd>Wargs appear during the film as cavalry mounted by Orcs and attack Rohan&#39;s people en route to <a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a>; they are also seen throughout the siege of <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> among Sauron&#39;s forces, and one is ridden by <a href="../G/Gothmog_(Lieutenant_of_Morgul).md" title="Gothmog (Lieutenant of Morgul)">Gothmog</a>. Rather than being depicted as just demonic wolves as described by Tolkien, the Wargs shown here are comparable in size to horses and seem to superficially resemble hyenas more so than wolves. They are heavily built, with broad, boxy skulls with eyes placed very close to the snout, and thick manes on their necks. They have rather stout limbs and short tails.</dd></dl>
 
 <b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>:</b>
 
-<dl><dd>Các Warg trông giống sói hơn so với các <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> phim trước đó</a>; cơ thể của chúng nhìn chung mảnh mai hơn, với các chi dài hơn và hộp sọ mỏng hơn. Đáng chú ý là đôi mắt của chúng có đồng tử khe. Họ được đề cập là đến từ <a href="../G/Gundabad.md" title="Gundabad">Gundabad</a> và được cưỡi bởi <a href="../O/Orcs.md" title="Orcs">Orc</a> dưới quyền <a href="../A/Azog.md" title="Azog">Azog</a>, những người đi săn Thorin và bản thân Co. Azog cưỡi một con <a class="mw-redirect" href="Warg_Matriarch.md" title="Warg Matriarch">Warg tóc trắng</a> khổng lồ.</dd></dl>
+<dl><dd>The Wargs are visually more wolf-like than in the preceding <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> films</a>; their builds are overall more slender, with longer limbs and slimmer skulls. Their eyes notably have slit pupils. They are mentioned to be from <a href="../G/Gundabad.md" title="Gundabad">Gundabad</a> and are ridden by <a href="../O/Orcs.md" title="Orcs">Orcs</a> under <a href="../A/Azog.md" title="Azog">Azog</a> who hunt Thorin and Co. Azog himself rides an enormous <a class="mw-redirect" href="Warg_Matriarch.md" title="Warg Matriarch">white-haired Warg</a>.</dd></dl>
 
 ### Loạt phim {#Series}
 
 <b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
 
-<dl><dd>Một Warg tấn công <a href="../A/Arondir.md" title="Arondir">Arondir</a> và các thành viên khác của cuộc nổi dậy trong trại lao động Orc ở <i><a href="../A/Adar_(episode).md" title="Adar (episode)">Adar</a></i>. Warg được nhìn thấy trong cùng một trại, bị nhốt trong <i><a href="../T/The_Great_Wave.md" title="The Great Wave">The Great Wave</a></i></dd></dl>
+<dl><dd>A Warg is set upon <a href="../A/Arondir.md" title="Arondir">Arondir</a> and the other members of a rebellion in an Orc labour camp in <i><a href="../A/Adar_(episode).md" title="Adar (episode)">Adar</a></i>. Wargs are seen in the same camp, caged, in <i><a href="../T/The_Great_Wave.md" title="The Great Wave">The Great Wave</a></i></dd></dl>
 
 ### Trò chơi {#Games}
 
 <b>1982-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Được phân loại là Sinh vật Undead, Warg được cho là được lai tạo từ những con sói bị nguyền rủa, nơi sinh sống của một linh hồn tà ác, "<i>being artificially long-lived</i>", và đó là "<i>body dissipates when slain</i>" của chúng. Những Warg được mô tả là to lớn hơn, hung dữ hơn và thông minh hơn những con sói bình thường.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></dd></dl>
+<dl><dd>Classified as Undead Beings, the Wargs are said to be bred from cursed wolves, inhabited by an evil spirit, &#34;<i>being artificially long-lived</i>&#34;, and that their &#34;<i>body dissipates when slain</i>&#34;. The Wargs are described as being larger, fiercer, and more intelligent than normal wolves.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></dd></dl>
 
 <b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
-<dl><dd>Warg là Sinh vật nguy hiểm. Các phe phái khác nhau của Warg là <i>Wargs of the Forochel</i> và <i>Misty Mountain Wargs</i>, và các tay sai liên quan là <i>War-warg</i> và <i>The Warg-king</i>.</dd></dl>
+<dl><dd>Wargs are a Hazard Creature. Different factions of Wargs are the <i>Wargs of the Forochel</i> and the <i>Misty Mountain Wargs</i>, and related minions are the <i>War-warg</i> and <i>The Warg-king</i>.</dd></dl>
 
 <b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 
-<dl><dd>Warg cao hơn và đen hơn những con sói thông thường, nhưng do diễn biến của trò chơi nên ít gây ra mối đe dọa hơn; trong khi sói chỉ gặp phải khi <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> cầm gậy, thì chiến binh chỉ xuất hiện ở các cấp độ mà người chơi là <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> hoặc <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>.</dd></dl>
+<dl><dd>Wargs are taller and darker than regular wolves, but due to the progression in the game, pose less of a threat; whereas wolves are only encountered by a stick-wielding <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>, wargs appear only in levels in which the player is <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> or <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>.</dd></dl>
 
 <b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
 
-<dl><dd>Warg được miêu tả là những con sói lớn. Chúng chỉ xuất hiện trong các đoạn cắt cảnh và không thể chiến đấu được.</dd></dl>
+<dl><dd>Wargs are portrayed as large wolves. They only appear in cutscenes, and are non-fightable.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Warg, bao gồm Warg do <a href="../O/Orcs.md" title="Orcs">Orc và Goblin</a> cưỡi, là kẻ thù chung được tìm thấy trong suốt trò chơi. "Warg Stalker" là một trong những lớp Người chơi Quái vật có sẵn để chiến đấu giữa Người chơi và Người chơi Quái vật trong <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a>. Monster Player Warg dựa vào khả năng tàng hình để phục kích người chơi và một số Warg do máy tính điều khiển cũng thể hiện khả năng này.</dd></dl>
+<dl><dd>Wargs, including Wargs ridden by <a href="../O/Orcs.md" title="Orcs">Orcs and Goblins</a>, are a common enemy found throughout the game. &#34;Warg Stalkers&#34; are one of the Monster Player classes available for Player versus Monster Player combat in the <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a>. Monster Player Wargs rely on stealth to ambush players, and some computer-controlled Wargs also demonstrate this ability.</dd></dl>
 
 <dl><dd>They look and fight rather like <a href="Wolves.md" title="Wolves">Wolves</a>, and both are classified as Beasts, but Wargs are of a distinct type and appearance, being more monstrous than ordinary wolves. Their appearances vary, typically depending on region, and Warg Stalkers can acquire and choose from several such cosmetic appearances.</dd></dl>
 
@@ -292,15 +292,15 @@ Tolkien cũng lưu ý rằng [Gene Wolfe](../G/Gene_Wolfe.md), một trong nhữ
 
 <table style="margin:0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="Wolves.md" title="Wolves">Sói</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="Wolves.md" title="Wolves">Wolves</a></b>
 </td></tr>
 <tr>
-<th style="font-size: 90%;" align="right">Các cá nhân:
+<th style="font-size: 90%;" align="right">Individuals:
 </th>
-<td style="font-size: 90%;"><a href="../C/Carcharoth.md" title="Carcharoth">Carcharoth</a> · <a href="../D/Draugluin.md" title="Draugluin">Draugluin</a> · <a href="../C/Chief_wolf.md" title="Chief wolf">Sói trưởng</a> · <a href="../H/Hound_of_Sauron.md" title="Hound of Sauron">Chó săn Sauron</a> · (<a class="mw-redirect" href="Wolf-Sauron.md" title="Wolf-Sauron">Sói-Sauron</a>)
+<td style="font-size: 90%;"><a href="../C/Carcharoth.md" title="Carcharoth">Carcharoth</a> · <a href="../D/Draugluin.md" title="Draugluin">Draugluin</a> · <a href="../C/Chief_wolf.md" title="Chief wolf">Chief wolf</a> · <a href="../H/Hound_of_Sauron.md" title="Hound of Sauron">Hound of Sauron</a> · (<a class="mw-redirect" href="Wolf-Sauron.md" title="Wolf-Sauron">Wolf-Sauron</a>)
 </td></tr>
 <tr>
-<th style="font-size: 90%;" align="right">Chủng tộc:
+<th style="font-size: 90%;" align="right">Races:
 </th>
 <td style="font-size: 90%;"><a class="mw-selflink selflink">Wargs</a> · <a href="Werewolves.md" title="Werewolves">Werewolves</a> · <a href="White_Wolves.md" title="White Wolves">White Wolves</a>
 </td>

@@ -20,26 +20,26 @@ Hầu như tất cả tên của [Người Lùn](../D/Dwarves.md) của [Trung �
 <tbody><tr>
 <td align="center"><b>Original</b>
 </td>
-<td align="center"><b>Bản dịch ống thổi</b>
+<td align="center"><b>Bellows translation</b>
 </td></tr>
 <tr>
 <td><blockquote class="tg-quote noexcerpt">
 <div class="poem">
-<p>10. Þar var Móðsognir mæztr của orðinn<br/>
+<p>10. Þar var Móðsognir mæztr of orðinn<br/>
 dverga allra, en Durinn annarr;<br/>
 þeir mannlíkun mörg of gerðu<br/>
 dvergar í jörðu, sem Durinn sagði.<br/>
 <br/>
 11. Nýi, Niði, Norðri, Suðri,<br/>
-Áotri, Vestri, Alþjófr, Dvalinn,<br/>
-Nár được rồi Náinn Nípingr, Dáinn<br/>
+Austri, Vestri, Alþjófr, Dvalinn,<br/>
+Nár ok Náinn Nípingr, Dáinn<br/>
 Bívurr, Bávurr, Bömburr, Nóri,<br/>
 Ánn ok Ánarr, Óinn, Mjöðvitnir.<br/>
 <br/>
 12. Veggr ok Gandalfr, Vindalfr, Þorinn,<br/>
 Þrár ok Þráinn, Þekkr, Litr ok Vitr,<br/>
-Không sao đâu Nýráðr, nú hefi ek dverga,<br/>
-Reginn ok Ráðsviðr, rétt of Talða.<br/>
+Nýr ok Nýráðr, nú hefi ek dverga,<br/>
+Reginn ok Ráðsviðr, rétt of talða.<br/>
 <br/>
 13. Fíli, Kíli, Fundinn, Náli,<br/>
 Hefti, Víli, Hannar, Svíurr,<br/>
@@ -48,18 +48,18 @@ Frár, Hornbori, Frægr ok Lóni,<br/>
 Aurvangr, Jari, Eikinskjaldi.<br/>
 <br/>
 14. Mál er dverga í Dvalins liði<br/>
-ljóna kindum cho đến Lofars telja,<br/>
-þeir er bạchtu frár steini<br/>
-Aurvanga sjöt cho đến Jöruvella.<br/>
+ljóna kindum til Lofars telja,<br/>
+þeir er sóttu frá salar steini<br/>
+Aurvanga sjöt til Jöruvalla.<br/>
 <br/>
 15. Þar var Draupnir ok Dolgþrasir,<br/>
-Hár, Haugspori, Hlévangr, Gloinn,<br/>
+Hár, Haugspori, Hlévangr, Glóinn,<br/>
 Dóri, Óri Dúfr, Andvari<br/>
 Skirfir, Virfir, Skáfiðr, Ái.<br/>
 <br/>
 16. Alfr ok Yngvi, Eikinskjaldi,<br/>
-Fjalarr được Frosti, Finnr được Ginnarr;<br/>
-tôi muốn bạn làm điều đó,<br/>
+Fjalarr ok Frosti, Finnr ok Ginnarr;<br/>
+þat mun æ uppi meðan öld lifir,<br/>
 langniðja tal Lofars hafat.
 </p>
 </div>
@@ -67,42 +67,42 @@ langniðja tal Lofars hafat.
 </td>
 <td><blockquote class="tg-quote noexcerpt">
 <div class="poem">
-<p>10. Đã có Motsognir | người hùng mạnh nhất<br/>
-Trong số tất cả những người lùn, | và <a class="mw-redirect mw-disambig" href="../D/Durin.md" title="Durin">Durin</a> tiếp theo;<br/>
-Nhiều điểm giống nhau | của những người đàn ông họ đã tạo ra,<br/>
-Những chú lùn trên trái đất, | như Durin đã nói.<br/>
+<p>10. There was Motsognir | the mightiest made<br/>
+Of all the dwarfs, | and <a class="mw-redirect mw-disambig" href="../D/Durin.md" title="Durin">Durin</a> next;<br/>
+Many a likeness | of men they made,<br/>
+The dwarfs in the earth, | as Durin said.<br/>
 <br/>
-11. Nyi và Nithi, | Northri và Suthri,<br/>
-Áo và Vestri, | Althjof, <a href="../D/Dwalin.md" title="Dwalin">Dvalin</a>,<br/>
-<a href="../N/Nár.md" title="Nár">Nar</a> và <a class="mw-disambig" href="../N/Náin_(disambiguation).md" title="Náin (disambiguation)">Nain</a>, | Niping, <a class="mw-disambig" href="../D/Dáin_(disambiguation).md" title="Dáin (disambiguation)">Dain</a>,<br/>
+11. Nyi and Nithi, | Northri and Suthri,<br/>
+Austri and Vestri, | Althjof, <a href="../D/Dwalin.md" title="Dwalin">Dvalin</a>,<br/>
+<a href="../N/Nár.md" title="Nár">Nar</a> and <a class="mw-disambig" href="../N/Náin_(disambiguation).md" title="Náin (disambiguation)">Nain</a>, | Niping, <a class="mw-disambig" href="../D/Dáin_(disambiguation).md" title="Dáin (disambiguation)">Dain</a>,<br/>
 <a href="../B/Bifur.md" title="Bifur">Bifur</a>, <a href="../B/Bofur.md" title="Bofur">Bofur</a>, | <a href="../B/Bombur.md" title="Bombur">Bombur</a>, <a href="../N/Nori.md" title="Nori">Nori</a>,<br/>
-An và <a class="mw-redirect" href="../A/Anar_(Dwarf)~38480.md" title="Anar (Dwarf)">Onar</a>, | <a href="../_/Óin.md" title="Óin">Óin</a>, Mjothvitnir.<br/>
+An and <a class="mw-redirect" href="../A/Anar_(Dwarf)~38480.md" title="Anar (Dwarf)">Onar</a>, | <a href="../_/Óin.md" title="Óin">Óin</a>, Mjothvitnir.<br/>
 <br/>
-12. Vigg và <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> | Vindalf, <a href="../T/Thorin.md" title="Thorin">Thorin</a>,<br/>
-<a href="../T/Thrór.md" title="Thrór">Thror</a> và <a href="../T/Thráin.md" title="Thráin">Thrain</a> | Thekk, Lit và Vit,<br/>
-Nyr và Nyrath,-- | bây giờ tôi đã nói rồi--<br/>
-Regin và Rathsvith-- | danh sách ổn rồi.<br/>
+12. Vigg and <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> | Vindalf, <a href="../T/Thorin.md" title="Thorin">Thorin</a>,<br/>
+<a href="../T/Thrór.md" title="Thrór">Thror</a> and <a href="../T/Thráin.md" title="Thráin">Thrain</a> | Thekk, Lit and Vit,<br/>
+Nyr and Nyrath,-- | now have I told--<br/>
+Regin and Rathsvith-- | the list aright.<br/>
 <br/>
 13. <a href="../F/Fíli.md" title="Fíli">Fili</a>, <a href="../K/Kíli.md" title="Kíli">Kili</a>, | <a href="../F/Fundin.md" title="Fundin">Fundin</a>, <a href="../N/Náli.md" title="Náli">Nali</a>,<br/>
 Hepti, Vili, | <a href="../H/Hannar.md" title="Hannar">Hannar</a>, Sviur,<br/>
-(Thanh toán, Bruni, | Bildr và Buri,)<br/>
-<a class="mw-redirect" href="../F/Frar.md" title="Frar">Pháp</a>, Hornbori, | Fræg và <a class="mw-redirect" href="../L/Loni.md" title="Loni">Loni</a>,<br/>
+(Billing, Bruni, | Bildr and Buri,)<br/>
+<a class="mw-redirect" href="../F/Frar.md" title="Frar">Frar</a>, Hornbori, | Fræg and <a class="mw-redirect" href="../L/Loni.md" title="Loni">Loni</a>,<br/>
 Aurvang, Jari, | Eikinskjaldi.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 2]</a></sup><br/>
 <br/>
-14. Cuộc đua của những người lùn | trong đám đông của <a href="../D/Dwalin.md" title="Dwalin">Dvalin</a><br/>
-Xuống <a href="../L/Lofar.md" title="Lofar">Lofar</a> | tôi phải kể danh sách;<br/>
-Những tảng đá họ để lại, | và qua vùng đất ẩm<br/>
-Họ tìm kiếm một ngôi nhà | trên cánh đồng cát.<br/>
+14. The race of the dwarfs | in <a href="../D/Dwalin.md" title="Dwalin">Dvalin</a>&#39;s throng<br/>
+Down to <a href="../L/Lofar.md" title="Lofar">Lofar</a> | the list must I tell;<br/>
+The rocks they left, | and through wet lands<br/>
+They sought a home | in the fields of sand.<br/>
 <br/>
-15. Có Draupnir | và Dolgthrasir,<br/>
+15. There were Draupnir | and Dolgthrasir,<br/>
 Hor, Haugspori, | Hlevang, <a href="../G/Glóin.md" title="Glóin">Gloin</a>,<br/>
 <a href="../D/Dori.md" title="Dori">Dori</a>, <a href="../O/Ori.md" title="Ori">Ori</a>, | Duf, Andvari,<br/>
 Skirfir, Virfir, | Skafith, Ai.<br/>
 <br/>
-16. Alf và Yngvi, | Eikinskjaldi,<br/>
-Fjalar và Frosti, | Finn và Ginnar;<br/>
-Vậy là mãi mãi | liệu câu chuyện có được biết đến không,<br/>
-Danh sách tất cả | tổ tiên của <a href="../L/Lofar.md" title="Lofar">Lofar</a>.
+16. Alf and Yngvi, | Eikinskjaldi,<br/>
+Fjalar and Frosti, | Finn and Ginnar;<br/>
+So for all time | shall the tale be known,<br/>
+The list of all | the forbears of <a href="../L/Lofar.md" title="Lofar">Lofar</a>.
 </p>
 </div>
 </blockquote>

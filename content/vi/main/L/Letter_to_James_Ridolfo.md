@@ -26,7 +26,7 @@ Vào [12 tháng 4](../_/12_April.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J
 ## Bản ghi {#Transcript}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Trung sĩ Ridolfo thân mến,<br/>Cảm ơn rất nhiều vì bức thư tử tế của bạn. Tôi luôn vui mừng khi được nghe ý kiến ​​từ những người đã đọc và yêu thích sách của tôi. Tôi hy vọng họ sẽ tiếp tục mang đến cho bạn sự hài lòng.<br/>Lời chúc tốt đẹp nhất!<br/>J.R.R. Tolkien
+<p>Dear Sergeant Ridolfo,<br/>Thank you very much for your kind letter. I am always pleased to hear from people who have read and enjoyed my books. I hope they will continue to give you pleasure.<br/>Best wishes!<br/>J.R.R. Tolkien
 </p>
 </blockquote>
 

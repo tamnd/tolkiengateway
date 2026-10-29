@@ -17,40 +17,40 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Màu xám Pháp sư, <a class="mw-redirect" href="../M/Maia.md" title="Maia">Maia</a> <a class="mw-redirect" href="../O/Olórin.md" title="Olórin">Olórin</a><br/>
-Ai đã sinh ra ở <a href="Timeless_Halls.md" title="Timeless Halls">Căn phòng bất tận</a> <br/>
-Từ chặng đua đầu tiên <a href="../I/Ilúvatar.md" title="Ilúvatar">Ilúvatar</a> <br/>
-Tinh thần già hơn cả thế giới <br/>
+<p>The Grey Wizard, <a class="mw-redirect" href="../M/Maia.md" title="Maia">Maia</a> <a class="mw-redirect" href="../O/Olórin.md" title="Olórin">Olórin</a><br/>
+Who has born in <a href="Timeless_Halls.md" title="Timeless Halls">Timeless Halls</a> <br/>
+From the first race of <a href="../I/Ilúvatar.md" title="Ilúvatar">Ilúvatar</a> <br/>
+Spirit older than the world itself <br/>
 <br/>
-Người hầu khiêm tốn của <a href="../V/Valar.md" title="Valar">valar</a> <br/>
-Sống trong khu vườn <a href="../L/Lórien_(Valinor).md" title="Lórien (Valinor)">Lórien</a> <br/>
-Cao hơn đã hóa thành máu thịt <br/>
-Một trong Năm <a href="../W/Wizards.md" title="Wizards">Pháp sư</a> <br/>
-Đến giúp đỡ người dân <a href="../A/Arda.md" title="Arda">Arda</a> <br/>
-Để soi sáng sức mạnh của <a href="../S/Sauron.md" title="Sauron">Sauron</a> <br/>
+Humble servant of <a href="../V/Valar.md" title="Valar">valar</a> <br/>
+Lived in gardens of <a href="../L/Lórien_(Valinor).md" title="Lórien (Valinor)">Lórien</a> <br/>
+Higher being turned to flesh and blood <br/>
+One of the Five <a href="../W/Wizards.md" title="Wizards">Wizards</a> <br/>
+Came to help the people of <a href="../A/Arda.md" title="Arda">Arda</a> <br/>
+To raise light over <a href="../S/Sauron.md" title="Sauron">Sauron</a>&#39;s might <br/>
 <br/>
-Mithrandir, một trong những <br/> tháng Tám
-Màu xám Pháp sư vượt biển <br/>
-Được chọn để mang theo tri thức của mình <br/>
-Vì phàm nhân quá yếu đuối <br/>
-Hình dáng vĩ đại của tinh thần vĩnh cửu <br/>
-Ngàn năm tranh đấu vì hòa bình <br/>
-Con đường đánh bại bóng tối <br/>
-Tác phẩm của ông được ghi vào lịch sử <br/>
+Mithrandir, one of the august <br/>
+The Grey Wizard beyond the sea <br/>
+Chosen to carry his knowledge <br/>
+For the mortal world so weak <br/>
+Great shape of the spirit eternal <br/>
+Fought thousands of years for peace <br/>
+His way to defeat the darkness <br/>
+His work, written in history <br/>
 <br/>
-Gandalf thuật sĩ cũ <br/>
-Người hành hương từ <a href="../U/Undying_Lands.md" title="Undying Lands">Vùng Đất Bất Tử</a> <br/>
-Thật tuyệt vời những chuyến đi của ông trong Arda <br/>
-Hành trình chống lại mọi ác quỷ <br/>
-Cái chết của <a href="../S/Smaug.md" title="Smaug">Smaug</a> Rồng <br/>
-Đoàn Hộ Nhẫn <br/>
-Kẻ giết quỷ của <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Moria</a> <br/>
-Món quà đích thực từ điện thờ của các vị thần <br/>
+Gandalf the old wizard <br/>
+Pilgrim from <a href="../U/Undying_Lands.md" title="Undying Lands">Undying Lands</a> <br/>
+Great were his journeys in Arda <br/>
+Journeys against all evil <br/>
+Death of <a href="../S/Smaug.md" title="Smaug">Smaug</a> the Dragon <br/>
+Fellowship of the Ring <br/>
+Slayer of <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Moria&#39;s demon</a> <br/>
+True gift from the halls of gods <br/>
 <br/>
-Sau cuộc đấu tay đôi trong hang động của người lùn <br/>
-Màu xám Pháp sư lại trỗi dậy <br/>
-Với màu trắng rạng rỡ <br/>
-Bây giờ là lúc ông cưỡi ngựa <br/>
-Đến cánh đồng vinh quang cuối cùng
+After the duel in dwarven caves <br/>
+The Grey Wizard rose again <br/>
+In a colours of radiant white <br/>
+Now it&#39;s his time to ride <br/>
+To the final fields of glory
 </p>
 </div>

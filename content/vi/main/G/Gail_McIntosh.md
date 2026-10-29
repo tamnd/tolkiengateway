@@ -24,10 +24,10 @@ infobox:
     value: "Artist"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Gail B. McIntosh</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nghệ sĩ</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Gail B. McIntosh</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Gail McIntosh thực sự rất vui khi được làm việc cùng. Sau khi <a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">chúng tôi</a> quyết định nỗ lực nhiều hơn cho bìa sản phẩm của mình—và do đó hy vọng bán được nhiều sản phẩm hơn—Gail là một lựa chọn hiển nhiên; Studio của bà thực sự chỉ cách văn phòng đầu tiên của chúng tôi vài dãy nhà và bà đã tạo được tên tuổi cho mình ở khu vực Charlottesville.
+<p>Gail McIntosh was an absolute pleasure to work with. Once <a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">we</a> had decided to put a bigger effort into our product covers—and therefore hopefully sell more products—Gail was an obvious choice; her studio was literally only blocks away from our first office, and she had already made a name for herself in the Charlottesville area.
 </p>
 <p class="tg-quote-footer"><cite>Art Director <a class="new" href="https://tolkiengateway.net/w/index.php?title=Rick_Britton&amp;action=edit&amp;redlink=1" title="Rick Britton (page does not exist)">Rick Britton</a><sup id="cite_ref-blackgate_1-0" class="reference"><a href="#cite_note-blackgate-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -36,7 +36,7 @@ infobox:
 
 ## Sự nghiệp {#Career}
 
-Sau khi theo học tại Học viện Mỹ thuật Pennsylvania và tại [Ý](../I/Italy.md) *Accademia di Belle Arti di Firenze*, cô là người học việc của nhà điêu khắc <a class="extiw" href="http://en.wikipedia.org/wiki/Antonio_Berti_(sculptor)" title="wikipedia:Antonio Berti (sculptor)">Antonio Berti</a>. Khi trở về Hoa Kỳ, cuối cùng cô làm việc cho [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md).<sup id="cite_ref-blackgate_1-2" class="reference"><a href="#cite_note-blackgate-1">[1]</a></sup>
+Sau khi theo học tại Học viện Mỹ thuật Pennsylvania và tại [Ý](../I/Italy.md) *Accademia di Belle Arti di Firenze*, cô là người học việc của nhà điêu khắc <a class="extiw" href="http://en.wikipedia.org/wiki/Antonio_Berti_(sculptor)" title="wikipedia:Antonio Berti (sculptor)">Antonio Berti</a>. Khi trở về Hoa Kỳ, cuối cùng cô làm việc cho [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md).<sup id="cite_ref-blackgate_1-2" class="reference"><a href="#cite_note-blackgate-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -22,12 +22,12 @@ infobox:
 ---
 
 <table class="tg-infobox floatright">
-  <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Thơ của J.R.R. Tolkien</a></td></tr>
+  <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Poems by J.R.R. Tolkien</a></td></tr>
   <tr><th colspan="2" class="tg-infobox-title"><span><i>Domine defende nos contra hos Motores bos!</i></span></th></tr>
-  <tr><th colspan="2" class="tg-infobox-header"><span>Thông tin về bài thơ</span></th></tr>
-  <tr><th scope="row" class="tg-infobox-label">Viết</th><td class="tg-infobox-data">Giữa<a href="../_/1957.md" title="1957">1957</a> và đầu <a href="../_/1960.md" title="1960">1960</a><sup id="cite_ref-guidereview_1-0" class="reference"><a href="#cite_note-guidereview-1">[1]</a></sup></td></tr>
-  <tr><th scope="row" class="tg-infobox-label">Xuất bản</th><td class="tg-infobox-data"><i><a href="../T/The_Bovadium_Fragments%253A_together_with_The_Origin_of_Bovadium.md" title="The Bovadium Fragments: together with The Origin of Bovadium">Mảnh Bovadium: cùng với Nguồn gốc của Bovadium</a></i></td></tr>
-  <tr><th scope="row" class="tg-infobox-label">Chủ đề</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Jove" title="wikipedia:Jove">Jove</a>, <i><a class="mw-redirect" href="../M/Motores_Bi.md" title="Motores Bi">Motores Bi</a></i>, <i><a href="../T/The_End_of_Bovadium.md" title="The End of Bovadium">The End of Bovadium</a></i>, <i><a href="../V/Valedictory.md" title="Valedictory">Valedictory</a></i></td></tr>
+  <tr><th colspan="2" class="tg-infobox-header"><span>Poem Information</span></th></tr>
+  <tr><th scope="row" class="tg-infobox-label">Written</th><td class="tg-infobox-data">Between mid-<a href="../_/1957.md" title="1957">1957</a> and early <a href="../_/1960.md" title="1960">1960</a><sup id="cite_ref-guidereview_1-0" class="reference"><a href="#cite_note-guidereview-1">[1]</a></sup></td></tr>
+  <tr><th scope="row" class="tg-infobox-label">Published</th><td class="tg-infobox-data"><i><a href="../T/The_Bovadium_Fragments%253A_together_with_The_Origin_of_Bovadium.md" title="The Bovadium Fragments: together with The Origin of Bovadium">The Bovadium Fragments: together with The Origin of Bovadium</a></i></td></tr>
+  <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Jove" title="wikipedia:Jove">Jove</a>, <i><a class="mw-redirect" href="../M/Motores_Bi.md" title="Motores Bi">Motores Bi</a></i>, <i><a href="../T/The_End_of_Bovadium.md" title="The End of Bovadium">The End of Bovadium</a></i>, <i><a href="../V/Valedictory.md" title="Valedictory">Valedictory</a></i></td></tr>
 </tbody></table>
 
 <i><b>Domine defe nos contra hos Motores bos!</b></i> là tựa đề chung của một bài thơ "trong 31 câu đối bát âm"<sup id="cite_ref-Other_2-0" class="reference"><a href="#cite_note-Other-2">[2]</a></sup> và một văn bản [tiếng Latinh](../L/Latin.md) được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cho *[The End of Bovadium](../T/The_End_of_Bovadium.md)*<sup id="cite_ref-CGL_3-0" class="reference"><a href="#cite_note-CGL-3">[3]</a></sup>.<sup id="cite_ref-guidereview_1-1" class="reference"><a href="#cite_note-guidereview-1">[1]</a></sup>
@@ -35,15 +35,15 @@ infobox:
 ## Trích đoạn thơ {#Poem_excerpt}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Than ôi! lời cầu nguyện đó chưa bao giờ được lắng nghe:</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Có lẽ tai của Jove đã bị giật;</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">đối với Động cơ sinh sản và đông đúc;</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">gần xa đến Thị Trấn họ đã truyền phát,</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">săn con mồi bằng tiếng kêu chói tai</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">từ Iffley rẽ vào Đồi Hinksey.</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Mùi hôi thối trên gác chuông đã biến mất;</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">đá rung chuyển và tai bị rách</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">do tiếng ồn của bánh xe và tiếng động cơ.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></span>
+<p><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Alas! that prayer was never heard:</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Jove’s ears, maybe, were rendered surd;</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">for Motors prolific bred and teemed;</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">from near and far to Town they streamed,</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">hunting their prey with hooting shrill</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">from Iffley turn to Hinksey Hill.</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Their stink above the steeples went;</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">stones were shaken and ears were rent</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">by din of wheels and engine-blare.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></span>
 </p>
 </div>
 

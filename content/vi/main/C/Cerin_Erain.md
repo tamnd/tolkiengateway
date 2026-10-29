@@ -15,7 +15,7 @@ images:
   - "Cerin_Erain.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Cerin_Erain.png.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cb/Cerin_Erain.png/300px-Cerin_Erain.png" decoding="async" loading="lazy" width="300" height="275" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/cb/Cerin_Erain.png 1.5x" data-file-width="340" data-file-height="312"/></a><figcaption><small>Thiết bị huy hiệu của Cerin Erain</small></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Cerin_Erain.png.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cb/Cerin_Erain.png/300px-Cerin_Erain.png" decoding="async" loading="lazy" width="300" height="275" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/cb/Cerin_Erain.png 1.5x" data-file-width="340" data-file-height="312"/></a><figcaption><small>Heraldic device of Cerin Erain</small></figcaption></figure>
 
 **Cerin Erain**, một phần của [Forodrim](../F/Forodrim.md), nằm ở <a class="extiw" href="http://en.wikipedia.org/wiki/Uppsala" title="wikipedia:Uppsala">Uppsala</a>. Cerin Erain được thành lập vào tháng 11 [1997](../_/1997.md) và các hoạt động của nó được điều chỉnh theo luật Forodrim. Tính đến năm 2009, hiệp hội có 15 thành viên tích cực.
 

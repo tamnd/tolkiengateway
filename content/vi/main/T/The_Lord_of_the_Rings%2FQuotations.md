@@ -18,22 +18,22 @@ Những trang này là những trích dẫn từ ba tập tiêu chuẩn của cu
 ## Lời nói đầu cho lần xuất bản thứ hai (tháng 10 năm 1966) {#Foreword_to_the_Second_Edition_(October,_1966)}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Động cơ chính là mong muốn của người kể chuyện muốn thử sức mình với một câu chuyện thực sự dài có thể thu hút sự chú ý của độc giả, khiến họ thích thú, thích thú và đôi khi có thể kích thích họ hoặc khiến họ cảm động sâu sắc.
+<p>The prime motive was the desire of a tale-teller to try his hand at a really long story that would hold the attention of readers, amuse them, delight them, and at times maybe excite them or deeply move them.
 </p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Một số người đã đọc cuốn sách này, hoặc dù sao đi nữa, đã xem lại nó, thấy nó nhàm chán, vô lý hoặc đáng khinh; và tôi không có lý do gì để phàn nàn, vì tôi có quan điểm tương tự về tác phẩm của họ hoặc về thể loại văn bản mà họ rõ ràng thích hơn.
+<p>Some who have read the book, or at any rate have reviewed it, have found it boring, absurd, or contemptible; and I have no cause to complain, since I have similar opinions of their works, or of the kinds of writing that they evidently prefer.
 </p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Độc giả hay phê phán nhất, tôi, bây giờ phát hiện ra nhiều khiếm khuyết, nhỏ cũng như lớn, nhưng may mắn thay, không có nghĩa vụ phải xem lại cuốn sách hoặc viết lại, ông sẽ bỏ qua những điều này trong im lặng, ngoại trừ một điều đã được người khác lưu ý: cuốn sách quá ngắn.
+<p>The most critical reader of all, myself, now finds many defects, minor and major, but being fortunately under no obligation either to review the book or to write it again, he will pass over these in silence, except one that has been noted by others: the book is too short.
 </p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Tôi thực sự không thích câu chuyện ngụ ngôn trong mọi biểu hiện của nó, và luôn làm như vậy kể từ khi tôi lớn lên và đủ cảnh giác để phát hiện sự hiện diện của nó. Tôi thích lịch sử hơn, dù có thật hay giả, với khả năng ứng dụng đa dạng của nó vào suy nghĩ và trải nghiệm của độc giả. Tôi nghĩ rằng nhiều người nhầm lẫn giữa 'khả năng áp dụng' với 'ngụ ngôn'; nhưng một bên nằm trong quyền tự do của người đọc, còn bên kia nằm trong sự thống trị có mục đích của tác giả.
+<p>I cordially dislike allegory in all its manifestations, and always have done so since I grew old and wary enough to detect its presence. I much prefer history, true or feigned, with its varied applicability to the thought and experience of readers. I think that many confuse &#39;applicability&#39; with &#39;allegory&#39;; but the one resides in the freedom of the reader, and the other in the purposed domination of the author.
 </p>
 </blockquote>
 

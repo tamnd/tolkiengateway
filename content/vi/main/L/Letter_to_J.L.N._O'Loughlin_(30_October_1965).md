@@ -17,7 +17,7 @@ sort_keys:
 
 Vào [30 tháng 10](../_/30_October.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi J.L.N. O'Loughlin**.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-Marq_2-0" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
 
-- **Chủ đề:** Tolkien trả lời rằng ông đã đọc bài viết của O'Loughlin (có thể đưa vào *Odham's Dictionary of the English Language*, 1965). Ông không có thời gian để bình luận, ngoài việc thấy bài viết có vẻ hợp lý.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Chủ đề:** Tolkien trả lời rằng ông đã đọc bài viết của O'Loughlin (có thể đưa vào *Odham's Dictionary of the English Language*, 1965). Ông ta không có thời gian để bình luận, ngoài việc thấy bài viết có vẻ hợp lý.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 - **Xuất bản:** Mô tả về bức thư xuất hiện trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.
 
 ## Xem thêm {#See_also}

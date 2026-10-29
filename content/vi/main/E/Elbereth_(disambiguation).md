@@ -41,7 +41,7 @@ images:
 <td style="text-align:center"><b><a href="../../file/E/Elbereth.mp3.md" title="File:Elbereth.mp3">File:Elbereth.mp3</a></b></td>
 </tr>
 <tr>
-<td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
+<td style="font-size: small; padding-bottom: 3px; text-align:center;">By <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Media help</a>)</td>
 </tr>
 </tbody></table>
 </div>
@@ -62,7 +62,7 @@ images:
 
 ## Cộng đồng người hâm mộ {#Fandom}
 
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Elbereth_(journal)&amp;action=edit&amp;redlink=1" title="Elbereth (journal) (page does not exist)">Elbereth (tạp chí)</a></i>, tạp chí của Hội Tolkien Úc ​​ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Fellowship_of_Middle_Earth&amp;action=edit&amp;redlink=1" title="Fellowship of Middle Earth (page does not exist)">Hiệp hội Trung Địa</a></i>.
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Elbereth_(journal)&amp;action=edit&amp;redlink=1" title="Elbereth (journal) (page does not exist)">Elbereth (tạp chí)</a></i>, tạp chí của Hiệp hội Tolkien Úc ​​ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Fellowship_of_Middle_Earth&amp;action=edit&amp;redlink=1" title="Fellowship of Middle Earth (page does not exist)">Hiệp hội Trung Địa</a></i>.
 - [Một Elbereth Gilthoniel! 1, không. 2](../A/A_Elbereth_Gilthoniel!_1,_no._2.md), Số bản tin
 
 <span></span>
@@ -81,6 +81,6 @@ images:
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
 <p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>Trang định hướng này là danh sách các bài viết có cùng tiêu đề. Điều này phù hợp với <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Chính sách đặt tên</a> của <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>.</i>
-<span style="display:block;font-size: 85%;">Nếu <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Elbereth_(disambiguation)" title="Special:WhatLinksHere/:Elbereth (disambiguation)">liên kết nội bộ</a> giới thiệu bạn đến trang này, bạn có thể muốn thay đổi liên kết để trỏ trực tiếp đến bài viết dự định.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Elbereth_(disambiguation)" title="Special:WhatLinksHere/:Elbereth (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

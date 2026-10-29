@@ -24,7 +24,7 @@ infobox:
     value: "Howe Records"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Rarities_Archive.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/28/The_Rarities_Archive.jpg/320px-The_Rarities_Archive.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/28/The_Rarities_Archive.jpg/480px-The_Rarities_Archive.jpg 1.5x, https://tolkiengateway.net/w/images/2/28/The_Rarities_Archive.jpg 2x" data-file-width="561" data-file-height="561"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The Rarities Archive</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Soundtrack by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/September_28.md" title="September 28">September 28</a>, <a href="../_/2010.md" title="2010">2010</a></td></tr><tr><th scope="row" class="tg-infobox-label">Chiều dài</th><td class="tg-infobox-data">79:25</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr><tr><th scope="row" class="tg-infobox-label">Nhãn</th><td class="tg-infobox-data">Howe Records</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Rarities_Archive.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/28/The_Rarities_Archive.jpg/320px-The_Rarities_Archive.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/28/The_Rarities_Archive.jpg/480px-The_Rarities_Archive.jpg 1.5x, https://tolkiengateway.net/w/images/2/28/The_Rarities_Archive.jpg 2x" data-file-width="561" data-file-height="561"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The Rarities Archive</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Soundtrack by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/September_28.md" title="September 28">September 28</a>, <a href="../_/2010.md" title="2010">2010</a></td></tr><tr><th scope="row" class="tg-infobox-label">Length</th><td class="tg-infobox-data">79:25</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data">Howe Records</td></tr></tbody></table>
 
 <i><b>The Lord of the Rings: The Rarity Archive</b></i> là một album của [Howard Shore](../H/Howard_Shore.md) bao gồm các phiên bản mô phỏng, thay thế và chưa được phát hành trước đó của các bản nhạc từ bản nhạc *[The Lord of the Rings film series](<The_Lord_of_the_Rings_(film_series).md>)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Album được biên soạn và đi kèm với cuốn sách *[The Music of the Lord of the Rings Films](The_Music_of_the_Lord_of_the_Rings_Films.md)* của tác giả [Doug Adams](../D/Doug_Adams.md).
 
@@ -33,8 +33,8 @@ infobox:
 <table class="tracklist wikitable wikitable--stripe">
     <tbody><tr>
       <th class="tlheader" style="width: 20px; text-align: right;">#</th>
-      <th class="tlheader" style="width: 100%;">Danh hiệu</th>
-      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Chiều dài</th>
+      <th class="tlheader" style="width: 100%;">Title</th>
+      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Length</th>
     </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">1.</td>
@@ -143,12 +143,12 @@ infobox:
 </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">22.</td>
-  <td style="text-align: left;">"Trong cuộc trò chuyện (Phỏng vấn âm thanh Phần 1), bao gồm "Nguồn gốc và sự khởi đầu" (thay thế)"</td>
+  <td style="text-align: left;">&#34;In Conversation (Audio Interview Part 1), featuring &#34;Roots and Beginnings&#34; (alternate)&#34;  </td>
   <td style="padding-right: 10px; text-align: right;">5:05</td>
 </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">23.</td>
-  <td style="text-align: left;">"Đang hội thoại (Phỏng vấn âm thanh Phần 2), bao gồm "Bài hát củaFrodo" (thay thế), do Sir James Galway trình diễn."</td>
+  <td style="text-align: left;">&#34;In Conversation (Audio Interview Part 2), featuring &#34;Frodo&#39;s Song&#34; (alternate), played by Sir James Galway.&#34;  </td>
   <td style="padding-right: 10px; text-align: right;">4:27</td>
 </tr>
 <tr>

@@ -25,13 +25,13 @@ infobox:
     value: "Lórien"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
-<p>Ai đã nói với bạn và ai đã gửi cho bạn?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
+<p>Who told you, and who sent you?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Murmuran</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../A/Aman.md" title="Aman">Aman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Mô tả</th><td class="tg-infobox-data">ngôi nhà của <a href="../I/Irmo.md" title="Irmo">Lórien</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Nhân vật và lịch sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Cư dân</th><td class="tg-infobox-data"><a href="../I/Irmo.md" title="Irmo">Lórien</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Murmuran</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../A/Aman.md" title="Aman">Aman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Description</th><td class="tg-infobox-data">house of <a href="../I/Irmo.md" title="Irmo">Lórien</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../I/Irmo.md" title="Irmo">Lórien</a></td></tr></tbody></table>
 
 **Murmuran** là hội trường của [Lórien](../I/Irmo.md) ở [Valinor](../V/Valinor.md).<sup id="cite_ref-cov_1-0" class="reference"><a href="#cite_note-cov-1">[1]</a></sup>
 

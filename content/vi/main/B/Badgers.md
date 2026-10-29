@@ -17,7 +17,7 @@ images:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mark_Evans_-_Badgers.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/73/Mark_Evans_-_Badgers.jpg/300px-Mark_Evans_-_Badgers.jpg" decoding="async" loading="lazy" width="300" height="341" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/73/Mark_Evans_-_Badgers.jpg 1.5x" data-file-width="352" data-file-height="400"/></a><figcaption>Badgers in <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">LOTRRPG</a></i></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Chắc hẳn đã từng có một đám đông người lùn ở đây và mỗi người trong số họ đều bận rộn hơn cả những con lửng trong năm trăm năm để làm tất cả những điều này, và hầu hết đều ở trong đá cứng!
+<p>There must have been a mighty crowd of dwarves here at one time and every one of them busier than badgers for five hundred years to make all this, and most in hard rock too!
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a><sup id="cite_ref-FRII4_1-0" class="reference"><a href="#cite_note-FRII4-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -30,11 +30,11 @@ Một loại lửng bí ẩn dường như có tri giác, chỉ được kể tr
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Lửng (được đưa ra số liệu thống kê của trò chơi) là động vật ăn thịt thuộc hệ động vật Rhovanion. Chúng nhút nhát nhưng có thể nguy hiểm nếu bị dồn vào chân tường.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
+<dl><dd>Badgers (which are given game statistics) are carnivorous animals of the fauna of Rhovanion. They are timid but can be dangerous if cornered.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
 <b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
 
-<dl><dd>Bạn có thể tìm thấy Badgers (được cung cấp số liệu thống kê về trò chơi) trong Shire và xuyên suốt Eriador.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
+<dl><dd>Badgers (which are given game statistics) can be find in the Shire and throughout Eriador.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
 <span></span>
 

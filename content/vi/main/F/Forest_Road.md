@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Old Forest Road"
 ---
 
-Chuyển hướng đến [Đường Rừng Cổ](../O/Old_Forest_Road.md).
+Chuyển hướng đến [Khu Rừng Cổ Đường](../O/Old_Forest_Road.md).

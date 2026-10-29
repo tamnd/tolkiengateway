@@ -27,7 +27,7 @@ langlinks:
 
 **Cermië** (<a class="new" href="https://tolkiengateway.net/w/index.php?title=Cerveth&amp;action=edit&amp;redlink=1" title="Cerveth (page does not exist)">Cerveth</a> ở [Sindarin](../S/Sindarin.md)) là tháng thứ bảy trong năm trong [Vua's Reckoning](../K/King's_Reckoning.md) và [Stewards' Reckoning](../S/Stewards'_Reckoning.md) của [Gondor](../G/Gondor.md), sau [Loëndë](../L/Loëndë.md) và trước đó [Úrimë](../_/Úrimë.md). Trong [Tính toán mới](../N/New_Reckoning.md) đó là tháng thứ tư trong năm, ngay sau [Nárië](../N/Nárië.md).
 
-*Cermië* trong Sự Lịch Tính của các Vua và trong Sự tính toán của người quản lý phần lớn tương ứng với [Afterlithe](../A/Afterlithe.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [24 tháng 6](../_/24_June.md) đến [23 tháng 7](../_/23_July.md) hiện đại).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+*Cermië* trong Sự tính toán của các vị vua và trong Sự tính toán của người quản lý phần lớn tương ứng với [Afterlithe](../A/Afterlithe.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [24 tháng 6](../_/24_June.md) đến [23 tháng 7](../_/23_July.md) hiện đại).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

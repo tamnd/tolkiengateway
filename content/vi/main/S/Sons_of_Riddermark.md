@@ -17,46 +17,46 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Các chúa tể ngựa của Rohan <br/>
-Đồng minh của Gondor vùng đất bên dưới <br/>
-Cánh đồng xanh họ bảo vệ một cách danh dự <br/>
-Khủng bố phương Đông, hãy tránh xa! <br/>
-Bộ sạc tốt nhất Trung Địa <br/>
-Họ nâng và cưỡi <br/>
-Xem banner của Riddermark <br/>
-Nếu là kẻ thù, bạn nên chạy hoặc trốn <br/>
+<p>Horse lords the men of Rohan <br/>
+Allies of Gondor the land below <br/>
+Green fields they guard with honour <br/>
+Eastern terror, keep away! <br/>
+Finest chargers of Middle-earth <br/>
+They raise and ride <br/>
+See the banners of Riddermark <br/>
+If you&#39;re foe, you should run or hide <br/>
 <br/>
-Sông Anduin, Fangorn rừng <br/>
-Dãy Núi Sương mù và Sừng trắng <br/>
-Biên giới hùng mạnh bao quanh Vương quốc <br/>
-Vùng mạnh trấn thủ đất <br/>
+River Anduin, Fangorn forest <br/>
+Mountains of Mist and White Horn <br/>
+Mighty borders surround the Kingdom <br/>
+Strong regions to guard the land <br/>
 <br/>
-Edoras trái tim của Rohan <br/>
-Thủ đô của Riddermark <br/>
-Pháo đài xung quanh vương quốc <br/>
-Dunharrow và Helm&#39;s Deep <br/>
-Thành quá khó thôn tính <br/>
-Cả hai đều chiến thắng... <br/>
-Trận chiến trên Cánh đồng Pelennor <br/>
-Cuộc xâm lược Dunlending <br/>
+Edoras the heart of Rohan <br/>
+Capital of Riddermark <br/>
+Fortresses around the realm <br/>
+Dunharrow and Helm&#39;s Deep <br/>
+Citadels so hard to annex <br/>
+Victory in both of them... <br/>
+Battle of the Pelennor Fields <br/>
+Invasion of Dunlending <br/>
 <br/>
-Kỷ Đệ Tam của Mặt Trời <br/>
-Trận chiến Filed của Celebrant <br/>
-Chiến thắng của hoa lan đã đến rất gần <br/>
-Sau đó đạo quân thứ 3 tới <br/>
-Không có kẻ thù <br/>
-Có thể nào lấn át được vùng ánh sáng đó <br/>
-Đánh cắp số phận của họ trong những thời điểm tốt đẹp hơn <br/>
-Và dập tắt ngọn lửa trong mắt họ <br/>
+Third Age of the Sun <br/>
+The battle of Filed of Celebrant <br/>
+Orchish triumph was so near <br/>
+Then the third army arrived <br/>
+There&#39;s no enemy who <br/>
+Could ever oberwhelm those plains of light <br/>
+Steal their fate of better times <br/>
+And kill the fire in their eyes <br/>
 <br/>
-Kỵ sĩ tóc vàng <br/>
-Và Vua Eorl the Young <br/> của họ
-Chiến thắng của Eothed <br/>
-Cứu rỗi miền đất phương Nam <br/>
-Phần thưởng tuyệt vời mà họ đã đạt được <br/>
-Từ những người họ đã cứu <br/>
-Bày tỏ lòng biết ơn <br/>
-Trên cánh đồng phía bắc họ ở<br/>
+Golden-haired horsemen <br/>
+And their King Eorl the Young <br/>
+Victory by the Eothed <br/>
+Salvation to the southern lands <br/>
+Great reward they have gained <br/>
+From the people they have saved <br/>
+Expression of gratitude <br/>
+On northern fields they stay<br/>
 <br/>
 </p>
 </div>

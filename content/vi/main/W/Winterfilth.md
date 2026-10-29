@@ -47,13 +47,13 @@ langlinks:
 
 **Winterfilth** là tháng thứ 10 của [Lịch Shire](../S/Shire_Calendar.md), gần tương ứng với [22 tháng Chín](../_/22_September.md) đến [21 tháng 10](../_/21_October.md) hiện đại.
 
-Vào thời xa xưa, Winterfilth là tháng cuối cùng của năm Hobbit và mùa thu hoạch diễn ra trong thời gian đó. Tuy nhiên, sau khi Hobbit thông qua [Lịch Tính của Nhà Vua](../K/King's_Reckoning.md), Winterfilth đã trở thành tháng thứ mười.
+Vào thời xa xưa, Winterfilth là tháng cuối cùng của năm Hobbit và mùa thu hoạch diễn ra trong thời gian đó. Tuy nhiên, sau khi Hobbit thông qua [Vua Tính toán](../K/King's_Reckoning.md), Winterfilth đã trở thành tháng thứ mười.
 
 Tháng này được gọi là [Wintring](Wintring.md) ở [Bree](../B/Bree.md). Thật là một trò đùa trong Bree khi nói về "Winterfilth in the (lầy lội) Shire"<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Cái tên này ám chỉ việc hoàn thành một năm ("làm đầy") trước Mùa đông trong lịch cũ của họ (trước khi họ áp dụng [Lịch Tính của Nhà Vua](../K/King's_Reckoning.md)) khi năm mới của họ bắt đầu sau vụ thu hoạch.<sup id="cite_ref-cal_1-1" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
+Cái tên này ám chỉ việc hoàn thành một năm ("làm đầy") trước Mùa đông trong lịch cũ của họ (trước khi họ áp dụng [Vua Tính toán](../K/King's_Reckoning.md)) khi năm mới của họ bắt đầu sau vụ thu hoạch.<sup id="cite_ref-cal_1-1" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
 Cái tên này thực sự thể hiện sự [hiện đại hóa](../H/Hobbitish.md) của tên [tiếng Anh cổ](../O/Old_English.md) cho tháng 10, <i><a class="extiw" href="http://en.wiktionary.org/wiki/winterfylle%C3%BE" title="wiktionary:winterfylleþ">Winterfylleþ</a></i>, nghĩa là "Trăng đầy mùa đông" hoặc "Trăng tròn mùa đông".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

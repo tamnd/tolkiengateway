@@ -30,9 +30,9 @@ Firien đại diện cho [tiếng Anh cổ](../O/Old_English.md) *firgen*, "ng�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Firienfeld nằm trên đỉnh cao nguyên Dunharrow, nhưng tương đối ít tham gia vào nhiệm vụ vì người chơi không tham gia Muster của Rohan mà đang điều tra các hoạt động của <a href="../W/White_Mountains.md" title="White Mountains">Dãy Núi Trắng</a> lũ Orc trong khu vực.</dd></dl>
+<dl><dd>The Firienfeld sits atop the Dunharrow plateau, but has relatively little quest involvement as the player does not participate in the Muster of Rohan but rather is investigating activities of <a href="../W/White_Mountains.md" title="White Mountains">White Mountains</a> orcs in the area.</dd></dl>
 
 <span></span>
 

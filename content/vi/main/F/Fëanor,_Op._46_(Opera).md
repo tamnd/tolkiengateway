@@ -21,7 +21,7 @@ Phần này của *Epic Scenes* được sáng tác từ cuối năm 1982 đến
 
 Nó có tổng thời lượng 122 phút và được chấm điểm cho dàn nhạc đầy đủ, hợp xướng đầy đủ và giọng solo.
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Feanor_Cover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/300px-Feanor_Cover.png" decoding="async" loading="lazy" width="300" height="319" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/450px-Feanor_Cover.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/600px-Feanor_Cover.png 2x" data-file-width="1387" data-file-height="1477"/></a><figcaption>Tác phẩm nghệ thuật từ bản phát hành CD, được sử dụng với sự cho phép của Ted Nasmith.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Feanor_Cover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/300px-Feanor_Cover.png" decoding="async" loading="lazy" width="300" height="319" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/450px-Feanor_Cover.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/600px-Feanor_Cover.png 2x" data-file-width="1387" data-file-height="1477"/></a><figcaption>Artwork from the CD release, used by kind permission of Ted Nasmith.</figcaption></figure>
 
 ## Nhân vật {#Characters}
 
@@ -69,11 +69,11 @@ AMRAS (Bass), con trai của Fëanor
 
 **Ainulindalë  (Lời mở đầu)**
 
-Thế giới được tạo ra bởi Ilúvatar, Đấng duy nhất, từ sự hỗn loạn nguyên thủy.  Ông giới thiệu mười bốn Valar, những Quyền lực sẽ cai trị Arda nhân danh ông.  Elder Vua, vợ của ông là Elbereth, Mandos, Ulmo và Melkor nằm trong số đó.
+Thế giới được tạo ra bởi Ilúvatar, Đấng duy nhất, từ sự hỗn loạn nguyên thủy.  Ông ta giới thiệu mười bốn Valar, những Quyền lực sẽ cai trị Arda nhân danh ông ta.  Elder Vua, vợ của ông ta là Elbereth, Mandos, Ulmo và Melkor nằm trong số đó.
 
 <br> **Sự thức tỉnh (Cảnh một)**
 
-Vị Vua Cổ Xưa tuyên bố đã đến lúc Con đầu lòng Những Người Con của Ilúvatar, Tiên tộc, sẽ thức dậy sau giấc ngủ.  Elbereth tạo ra những ngôi sao mới để báo trước sự xuất hiện của chúng.  Tiên tộc xuất hiện bên Dòng nước thức tỉnh, ở cực đông của Trung Địa và nhìn lên các vì sao.
+Trưởng lão Vua tuyên bố đã đến lúc Con đầu lòng Những Người Con của Ilúvatar, Tiên tộc, sẽ thức dậy sau giấc ngủ.  Elbereth tạo ra những ngôi sao mới để báo trước sự xuất hiện của chúng.  Tiên tộc xuất hiện bên Dòng nước thức tỉnh, ở cực đông của Trung Địa và nhìn lên các vì sao.
 
 **Cảnh Kẻ Thù (Cảnh hai)**
 
@@ -81,27 +81,27 @@ Melkor Kẻ Thù đi xuống Tiên tộc và tìm cách làm hỏng chúng.  Va
 
 **Cảnh Silmaril (Cảnh ba)**
 
-Tại Tirion, thành phố chính của Tiên tộc ở Cõi Phúc lành, Finwë Vua của Tiên tộc và vợ Miriel có một con trai, Fëanor; nhưng linh hồn của Miriel đã bị tiêu hao trong quá trình sinh nở, và bà chuyển đến vương quốc của Mandos Thần Chết.  Finwë tái hôn và có thêm hai người con, Fingolfin và Finarfin, do đó là anh em cùng cha khác mẹ của Fëanor.  Fëanor tạo hình ba viên ngọc vĩ đại, Silmaril, từ ánh sáng hòa quyện của Hai Cây, và chúng được Valar thần thánh.
+Tại Tirion, thành phố chính của Tiên tộc ở Vương quốc Phước lành, Finwë Vua của Tiên tộc và vợ Miriel có một con trai, Fëanor; nhưng linh hồn của Miriel đã bị tiêu hao trong quá trình sinh nở, và bà chuyển đến vương quốc của Mandos Thần Chết.  Finwë tái hôn và có thêm hai người con, Fingolfin và Finarfin, do đó là anh em cùng cha khác mẹ của Fëanor.  Fëanor tạo hình ba viên ngọc vĩ đại, Silmaril, từ ánh sáng hòa quyện của Hai Cây, và chúng được Valar thần thánh.
 
 <br> **Sự trục xuất (Cảnh bốn)**
 
-Melkor thèm muốn Silmaril và gieo rắc sự bất hòa giữa Fëanor và những người anh em cùng cha khác mẹ của mình.  Fëanor rút kiếm ra khỏi Fingolfin trong một cuộc tranh luận trước cha mình Finwë, và bị trục xuất khỏi Tirion trong mười hai năm.  Melkor cảnh báo Fëanor rằng Silmaril không an toàn ở vùng đất của Valar, và Fëanor nhận ra mục đích của Melkor đã đẩy ông ra khỏi cửa.
+Melkor thèm muốn Silmaril và gieo rắc sự bất hòa giữa Fëanor và những người anh em cùng cha khác mẹ của mình.  Fëanor rút kiếm ra khỏi Fingolfin trong một cuộc tranh luận trước cha mình Finwë, và bị trục xuất khỏi Tirion trong mười hai năm.  Melkor cảnh báo Fëanor rằng Silmaril không an toàn ở vùng đất của Valar, và Fëanor nhận ra mục đích của Melkor đã đẩy ông ta ra khỏi cửa.
 
 <br> **Kẻ thù đen của thế giới (Cảnh năm)**
 
-Melkor tìm kiếm Ungoliant, Con nhện vĩ đại, và đề nghị với bà tất cả những gì bà mong muốn nếu bà giúp đỡ ông.  Fëanor và Fingolfin đã được hòa giải, và Fingolfin hứa sẽ theo Fëanor đến bất cứ nơi nào ông có thể lãnh đạo.  Nhưng Melkor và Ungoliant đã đến Cõi Phúc lành và phá hủy Hai Cây. Elbereth nói rằng với việc sử dụng Silmarils, bà có thể khôi phục ánh sáng cho Vương quốc, nhưng Fëanor phản ánh lời nói của Melkor từ chối giao nộp chúng.  Con trai của Fëanor, Maedhros vội vàng nói với Valar rằng Melkor đã đến thành trì của Fëanor và sau khi giết chết Vua Finwë, đã đánh cắp những viên Silmarils.  Fëanor nguyền rủa Melkor, đặt tên ông là Morgoth, Kẻ thù đen của thế giới, trong khi chính kẻ thù đã giành lấy phần thưởng của mình và vượt qua Băng hẹp đến Trung Địa để củng cố bản thân trong thành trì Angband của mình.
+Melkor tìm kiếm Ungoliant, Con nhện vĩ đại, và đề nghị với bà tất cả những gì bà mong muốn nếu bà giúp đỡ ông ta.  Fëanor và Fingolfin đã được hòa giải, và Fingolfin hứa sẽ theo Fëanor đến bất cứ nơi nào ông có thể lãnh đạo.  Nhưng Melkor và Ungoliant đã đến Cõi Phúc lành và phá hủy Hai Cây. Elbereth nói rằng với việc sử dụng Silmarils, bà có thể khôi phục ánh sáng cho Vương quốc, nhưng Fëanor phản ánh lời nói của Melkor từ chối giao nộp chúng.  Con trai của Fëanor, Maedhros vội vàng nói với Valar rằng Melkor đã đến thành trì của Fëanor và sau khi giết chết Vua Finwë, đã đánh cắp những viên Silmarils.  Fëanor nguyền rủa Melkor, đặt tên ông ta là Morgoth, Kẻ thù đen của thế giới, trong khi chính kẻ thù đã giành lấy phần thưởng của mình và vượt qua Băng hẹp đến Trung Địa để củng cố bản thân trong thành trì Angband của mình.
 
-<br> **Cuộc Di Tản của người Noldor (Cảnh sáu)**
+<br> **Chuyến bay của Noldor (Cảnh sáu)**
 
-Fëanor triệu tập Tiên tộc đi theo mình để truy đuổi Morgoth, tìm cách dùng vũ lực để thu hồi Silmaril.  Ông và các con trai của mình thề sẽ báo thù và sẽ tiêu diệt bất cứ ai tìm cách giữ Silmaril khỏi tay họ.  Elder Vua cảnh báo Fëanor rằng việc theo đuổi Morgoth của ông là vô ích, nhưng Fëanor vẫn không hề lay chuyển.
+Fëanor triệu tập Tiên tộc đi theo mình để truy đuổi Morgoth, tìm cách dùng vũ lực để thu hồi Silmaril.  Ông và các con trai của mình thề sẽ báo thù và sẽ tiêu diệt bất cứ ai tìm cách giữ Silmaril khỏi tay họ.  Elder Vua cảnh báo Fëanor rằng việc theo đuổi Morgoth của ông ta là vô ích, nhưng Fëanor vẫn không hề lay chuyển.
 
-<br> *Trong số Tiên tộc gặp Fëanor và đồng ý hỗ trợ ông bằng cách vượt qua Trung Địa cùng ông là phần lớn Noldor ở Valinor, một ngoại lệ đáng chú ý là người anh cùng cha khác mẹ của ông Finarfin, người chọn ở lại phía sau và không dính líu đến người anh em hiếu chiến của mình.*
+<br> *Trong số Tiên tộc gặp Fëanor và đồng ý hỗ trợ ông ta bằng cách vượt qua Trung Địa cùng ông ta là phần lớn Noldor ở Valinor, một ngoại lệ đáng chú ý là người anh cùng cha khác mẹ của ông ta Finarfin, người chọn ở lại phía sau và không dính líu đến người anh em hiếu chiến của mình.*
 
 <br> **Tàn sát họ hàng (Cảnh bảy)**
 
-Fëanor và Fingolfin tìm cách thuyết phục Olwë, Vua của Teleri Tiên tộc ở Valinor, cho họ mượn tàu để quay trở lại Trung Địa để theo đuổi Morgoth.  Olwë từ chối làm như vậy trái với mong muốn của Valar, và Fëanor dùng vũ lực chiếm giữ các con tàu để thách thức ông, giết chết nhiều Tiên tộc chống lại ông.  Fëanor, các con trai của ông và nhóm tín đồ đầu tiên của ông lên tàu để bắt đầu cuộc hành trình đến Trung Địa.  Chuyến đi vượt biển của họ đầy nguy hiểm khi một Ulmo báo thù gây ra một cơn bão và nhiều con tàu bị mất tích.
+Fëanor và Fingolfin tìm cách thuyết phục Olwë, Vua của Teleri Tiên tộc ở Valinor, cho họ mượn tàu để quay trở lại Trung Địa để theo đuổi Morgoth.  Olwë từ chối làm như vậy trái với mong muốn của Valar, và Fëanor dùng vũ lực chiếm giữ các con tàu để thách thức ông ta, giết chết nhiều Tiên tộc chống lại ông ta.  Fëanor, các con trai của ông và nhóm tín đồ đầu tiên của ông lên tàu để bắt đầu cuộc hành trình đến Trung Địa.  Chuyến đi vượt biển của họ đầy nguy hiểm khi một Ulmo báo thù gây ra một cơn bão và nhiều con tàu bị mất tích.
 
-<br> *Đi đầu trong vụ giết người thân này là Fëanor và các Con trai của ông.  Noldor người kia đến sau khi hành động được thực hiện và mặc dù kinh hoàng trước những hành động này, lời thề của họ với Fëanor có nghĩa là họ cũng bị ràng buộc với sự diệt vong của ông và không thể trở về nhà của mình.*
+<br> *Đi đầu trong vụ giết người thân này là Fëanor và các Con trai của ông ta.  Noldor người kia đến sau khi hành động được thực hiện và mặc dù kinh hoàng trước những hành động này, lời thề của họ với Fëanor có nghĩa là họ cũng bị ràng buộc với sự diệt vong của ông ta và không thể trở về nhà của mình.*
 
 <br> **Lời nguyền của Mandos  (Cảnh 8)**
 
@@ -109,13 +109,13 @@ Mandos xuất hiện trước vật chủ của Tiên tộc, tiêu diệt Fëano
 
 <br> **Đốt tàu (Cảnh 9)**
 
-Morgoth và Ungoliant cãi nhau về việc phân chia chiến lợi phẩm và Morgoth không chịu giao Silmaril cho cô; với sự trợ giúp của Balrog, linh hồn lửa, anh đã đuổi cô đi. Fëanor và các con trai của ông đáp xuống Trung Địa,  nhưng  Fëanor  từ chối  gửi   các con tàu  quay trở lại  để vận chuyển phần còn lại của Noldor băng qua Đại Dương; ông đã đốt cháy những con tàu.
+Morgoth và Ungoliant cãi nhau về việc phân chia chiến lợi phẩm và Morgoth không chịu giao Silmaril cho cô; với sự trợ giúp của Balrog, linh hồn lửa, anh đã đuổi cô đi. Fëanor và các con trai của ông đáp xuống Trung Địa,  nhưng  Fëanor  từ chối  gửi   các con tàu  quay trở lại  để vận chuyển phần còn lại của Noldor băng qua Đại Dương; ông ta đã đốt cháy những con tàu.
 
 <br> *Sự phản bội của Fëanor đối với phần còn lại của Noldor có nghĩa là những Tiên tộc bị lưu đày không còn lựa chọn nào khác ngoài việc băng qua Băng hẹp để đến Trung Địa, với nhiều tổn thất nhân mạng trên những con đường băng giá đầy nguy hiểm.  Các nhân vật nằm trong chu kỳ này bị ảnh hưởng trực tiếp là Fingolfin, Finrod, Orodreth, Galadriel, Turgon (người đã mất vợ trong chuyến vượt biển), Aredhel và Idril.*
 
 <br> **Cái chết của Fëanor (Phần kết)**
 
-Fëanor cố gắng chiến đấu theo cách của mình đến Angband để đối đầu với Morgoth, nhưng bị ông đánh bại trong trận chiến và bị thiêu rụi trong ngọn lửa.
+Fëanor cố gắng chiến đấu theo cách của mình đến Angband để đối đầu với Morgoth, nhưng bị ông ta đánh bại trong trận chiến và bị thiêu rụi trong ngọn lửa.
 
 ## Bản ghi {#Recordings}
 
@@ -133,7 +133,7 @@ Mandos, Kẻ thống trị cõi chết (Baritone): Julian Boyce
 
 Elbereth, Nữ hoàng ánh sáng (Giọng nữ cao): Emma Mary Llewellyn
 
-Vị Vua Cổ Xưa, Chúa tể của Valar (Bass): George Newton-Fitzgerald
+Trưởng lão Vua, Chúa tể của Valar (Bass): George Newton-Fitzgerald
 
 Maedhros, Con trai của Fëanor (Bass-Baritone): Stephen Wells
 

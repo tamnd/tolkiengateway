@@ -28,7 +28,7 @@ infobox:
     value: "Unknown"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../D/Dragons.md" title="Dragons">Rồng</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Lhamthanc</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">Iamthanc</td></tr><tr><th scope="row" class="tg-infobox-label">Xuất hiện</th><td class="tg-infobox-data">Không rõ</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../D/Dragons.md" title="Dragons">Dragon</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Lhamthanc</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Iamthanc</td></tr><tr><th scope="row" class="tg-infobox-label">Appeared</th><td class="tg-infobox-data">Unknown</td></tr></tbody></table>
 
 **Lhamthanc**, là tên của một [con rắn](../S/Serpents.md), loài mà hầu như không được biết đến ngoại trừ việc chúng có tên là rắn.<sup id="cite_ref-lhamthanc_1-0" class="reference"><a href="#cite_note-lhamthanc-1">[1]</a></sup> Có khả năng là trong trường hợp này, từ rắn thực sự có thể ám chỉ một trong những [rồng](../D/Dragons.md) của [Morgoth](../M/Morgoth.md) vì Tolkien thường mô tả rồng là sâu và rắn và Lhamthanc được đề cập bên cạnh [Gostir](../G/Gostir.md) ở *[The Etymologies](../T/The_Etymologies.md)*. Lhamthanc không được nhắc đến trong bất kỳ câu chuyện nào được biết đến.
 
@@ -44,7 +44,7 @@ Lhamthanc ban đầu được gọi là <i><b>Iamthanc</b></i>, một cái tên 
 
 ### *Middle-earth Role Playing* {#Middle-earth_Role_Playing}
 
-<dl><dd>Lhamthanc xuất hiện dưới hình dạng một <a href="../C/Cold-drakes.md" title="Cold-drakes">Cold-drake</a> màu xám và trắng khổng lồ sở hữu một chiếc lưỡi dài 9 feet trong <i>Creatures of Middle-earth</i> phần bổ sung của <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>. Lhamthanc được cho là em trai của <a href="../G/Gostir.md" title="Gostir">Gostir</a>.</dd></dl>
+<dl><dd>Lhamthanc appears as a huge gray and white <a href="../C/Cold-drakes.md" title="Cold-drakes">Cold-drake</a> who possessed a forked tongue that was nine-feet long in the <i>Creatures of Middle-earth</i> supplement of <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>. Lhamthanc was said to be the younger brother of <a href="../G/Gostir.md" title="Gostir">Gostir</a>.</dd></dl>
 
 <span></span>
 

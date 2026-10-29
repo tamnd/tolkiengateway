@@ -29,7 +29,7 @@ Vào [8 tháng 12](../_/8_December.md) [1966](../_/1966.md), [J.R.R. Tolkien](..
 ## Bản ghi {#Transcript}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Kính gửi ông Marsh,<br/><br/>Cảm ơn lá thư của ông. Tôi rất vui khi biết rằng bạn thích công việc của tôi. Tôi đang vô cùng bận rộn để hoàn thành cuốn sách tiếp theo của mình, <u>The Silmarillion</u>, và do đó tôi gửi kèm theo ba chữ ký để bạn dán vào cuốn sách của mình.<br/><br/>Với những lời chúc tốt đẹp nhất,<br/>Trân trọng<br/>J.R.R. Tolkien
+<p>Dear Mr Marsh,<br/><br/>Thank you for your letter. I am pleased to hear that you like my work. I am extremely busy trying to complete my next book, <u>The Silmarillion</u>, and I therefore enclose three autographs for you to stick into your books.<br/><br/>With best wishes,<br/>Yours sincerely<br/>J.R.R. Tolkien
 </p>
 </blockquote>
 

@@ -26,7 +26,7 @@ Bài thơ *[Goblin Feet](../G/Goblin_Feet.md)* nói về “những chiếc sừ
 
 Tác giả Philip và Carol Zaleski kể lại rằng:<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 1]</a></sup>
 
-> *Tolkien, để trả lời câu hỏi của một sinh viên về sự thật của rồng và các truyền thuyết khác, đã tuyên bố rằng đằng sau những câu chuyện như vậy luôn có điều gì đó có thật; sau đó ông thọc vào túi và lôi ra, cùng với một cuộn dây và những mảnh vụn khác, một chiếc giày nhỏ màu xanh lá cây, mỏng và mũi nhọn, làm bằng chất liệu da có cảm giác giống như da bò sát, và tuyên bố rằng, "mạnh mẽ và có vẻ chân thành", là giày của yêu tinh.*
+> *Tolkien, để trả lời câu hỏi của một sinh viên về sự thật của rồng và các truyền thuyết khác, đã tuyên bố rằng đằng sau những câu chuyện như vậy luôn có điều gì đó có thật; sau đó ông ta thọc vào túi và lôi ra, cùng với một cuộn dây và những mảnh vụn khác, một chiếc giày nhỏ màu xanh lá cây, mỏng và mũi nhọn, làm bằng chất liệu da có cảm giác giống như da bò sát, và tuyên bố rằng, "mạnh mẽ và có vẻ chân thành", là giày của yêu tinh.*
 
 ## Liên kết ngoài {#External_links}
 

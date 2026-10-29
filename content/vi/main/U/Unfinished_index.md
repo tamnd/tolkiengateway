@@ -22,7 +22,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
 **Chỉ mục chưa hoàn thiện** là một chỉ mục bảng thuật ngữ chưa hoàn chỉnh của các địa danh xuất hiện trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-RC1_1-0" class="reference"><a href="#cite_note-RC1-1">[1]</a></sup> [Christopher Tolkien](../C/Christopher_Tolkien.md) đã sử dụng chỉ mục này trong khi biên soạn các chỉ mục nhỏ hơn của riêng mình cho *[The Silmarillion](../T/The_Silmarillion.md)* và *[Unfinished Tales](Unfinished_Tales.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
@@ -34,9 +34,9 @@ Nhiều trích dẫn từ bản thảo đã được đưa vào *[The Lord of th
 Trong [Lời tựa cho ấn bản thứ hai](../T/The_Lord_of_the_Rings_Foreword.md) của *The Lord of the Rings*, Tolkien bày tỏ mong muốn sản xuất một "tập phụ kiện", có nhiều thông tin hơn, đặc biệt là về ngôn ngữ học. Tập này sẽ có "mục lục hoàn chỉnh, tận dụng tối đa tài liệu do bà [N. Smith](../N/Nancy_Smith.md) chuẩn bị".<sup id="cite_ref-RC2_4-0" class="reference"><a href="#cite_note-RC2-4">[3]</a></sup> Đề cập đến mục lục trong một bức thư nháp, Tolkien viết rằng:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Một danh mục tên sẽ được tạo ra, mà bằng cách diễn giải từ nguyên cũng sẽ cung cấp một lượng từ vựng Elvish khá lớn; tất nhiên đây là yêu cầu đầu tiên. Tôi đã làm việc đó trong nhiều tháng và lập chỉ mục cho hai tập đầu tiên. (đó là nguyên nhân chính dẫn đến sự chậm trễ của Tập iii) cho đến khi rõ ràng rằng quy mô và chi phí là rất lớn.
+<p>An index of names was to be produced, which by etymological interpreation would also provide quite a large Elvish vocabulary; this is of course a first requirement. I worked at it for months, and indexed the first two vols. (it was the chief cause of delay of Vol iii) until it became clear that size and cost were ruinous.
 </p>
-<p class="tg-quote-footer"><cite><a href="../L/Letter_187.md" title="Letter 187">Thư 187</a>, (không ghi ngày, viết tháng 4 <a href="../_/1956.md" title="1956">1956</a>)</cite></p>
+<p class="tg-quote-footer"><cite><a href="../L/Letter_187.md" title="Letter 187">Letter 187</a>, (undated, written April <a href="../_/1956.md" title="1956">1956</a>)</cite></p>
 </blockquote>
 
 Tolkien có thể đã bắt đầu chuẩn bị chỉ mục vào năm 1953, kéo dài ít nhất là đến năm 1954,<sup id="cite_ref-RC1_1-1" class="reference"><a href="#cite_note-RC1-1">[1]</a></sup> nhưng chỉ hoàn thành danh sách các tên "*places, natural features, and buildings*".<sup id="cite_ref-RC2_4-1" class="reference"><a href="#cite_note-RC2-4">[3]</a></sup> Chỉ mục chưa hoàn thiện đã được [Christopher Tolkien](../C/Christopher_Tolkien.md) sử dụng khi biên soạn nhiều chú giải xuất hiện trong các chỉ mục thành *[The Silmarillion](../T/The_Silmarillion.md)* và *[Unfinished Tales](Unfinished_Tales.md)*.<sup id="cite_ref-RC2_4-2" class="reference"><a href="#cite_note-RC2-4">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>

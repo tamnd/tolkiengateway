@@ -40,9 +40,9 @@ J.R.R. Tolkien đã sử dụng tên *Fenmarch* trong các bản thảo của m�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Ở biên giới Fenmarch là thị trấn Rohirrim cùng tên, được cai trị bởi Thane Sparhafoc, cha của <a href="../G/Guthláf.md" title="Guthláf">Guthláf</a>.</dd></dl>
+<dl><dd>On the border of the Fenmarch sits the Rohirrim town of the same name, ruled by Thane Sparhafoc, father of <a href="../G/Guthláf.md" title="Guthláf">Guthláf</a>.</dd></dl>
 
 <span></span>
 

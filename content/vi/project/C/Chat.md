@@ -24,7 +24,7 @@ Tolkien Gateway có **nền tảng trò chuyện** riêng, được lưu trữ t
 
 Nó hiện đang mở cửa cho các biên tập viên cũng như các thành viên của cộng đồng muốn đóng góp cho wiki, là nơi thảo luận mọi vấn đề liên quan đến wiki và nội dung của nó. Các trang thảo luận Wiki vẫn hữu ích cho những vấn đề đáng được đăng ký, nhưng nhiều cuộc thảo luận, cập nhật và đề xuất thường xuyên được đăng trên máy chủ Discord.
 
-**Xin vui lòng** lưu ý rằng trọng tâm chính của máy chủ là Tolkien Gateway wiki và việc bảo trì nó; trong khi cuộc trò chuyện liên quan đến Tolkien được chấp nhận trong các kênh thích hợp trên máy chủ, những *only* mong muốn có các cuộc thảo luận không liên quan đến wiki về Tolkien và các tác phẩm của ông nên tìm kiếm một diễn đàn thích hợp cho mục đích này.
+**Xin vui lòng** lưu ý rằng trọng tâm chính của máy chủ là Tolkien Gateway wiki và việc bảo trì nó; trong khi cuộc trò chuyện liên quan đến Tolkien được chấp nhận trong các kênh thích hợp trên máy chủ, những *only* mong muốn có các cuộc thảo luận không liên quan đến wiki về Tolkien và các tác phẩm của ông ta nên tìm kiếm một diễn đàn thích hợp cho mục đích này.
 
 Theo nguyên tắc chung, người dùng máy chủ Discord phải tuân theo [nguyên tắc hành vi](../P/Policy.md#Behavior_guidelines) giống như wiki:
 

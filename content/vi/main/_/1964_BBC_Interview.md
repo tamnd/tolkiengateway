@@ -22,7 +22,7 @@ J.R.R. Tolkien: Rất lâu trước khi tôi viết The Hobbit và rất lâu tr
 
 D. Gueroult: Vậy là anh đã có một loại kế hoạch nào đó có thể thực hiện được phải không?
 
-J.R.R. Tolkien: Vô số câu chuyện, vâng ... Tôi bị cuốn vào nó như chính Hobbit đã làm, như bạn biết The Hobbit ban đầu là về những người lùn này và ngay khi ông di chuyển ra thế giới, ông đã di chuyển và trượt vào đó.
+J.R.R. Tolkien: Vô số câu chuyện, vâng ... Tôi bị cuốn vào nó như chính Hobbit đã làm, như bạn biết The Hobbit ban đầu là về những người lùn này và ngay khi ông ta di chuyển ra thế giới, ông ta đã di chuyển và trượt vào đó.
 
 D. Gueroult: Vậy là các nhân vật và câu chuyện của bạn đã thực sự đóng vai trò quan trọng. \[im lặng\] tôi nói đã chịu trách nhiệm; Ý tôi không phải là bạn hoàn toàn bị họ mê hoặc hoặc bất cứ điều gì tương tự.
 
@@ -60,7 +60,7 @@ D. Gueroult: Bạn đến Anh lúc mấy tuổi?
 
 J.R.R. Tolkien: Hình như… lúc đó tôi khoảng ba tuổi rưỡi. Tất nhiên là khá sâu sắc, bởi vì một trong những điều khiến mọi người nói rằng họ không nhớ là, nó giống như liên tục chụp cùng một thứ trên cùng một tấm ảnh. Những thay đổi nhỏ chỉ đơn giản là làm mờ đi. Nhưng nếu trẻ bị đột ngột như vậy là có ý thức. Những gì nó cố gắng làm là gắn những ký ức mới vào cái cũ. Tôi có một bức tranh sống động hoàn toàn rõ ràng về một ngôi nhà mà bây giờ tôi biết thực chất là một tác phẩm mô phỏng tuyệt đẹp của chính ngôi nhà của tôi ở Bloemfontein và nhà của bà tôi ở Birmingham. Tôi vẫn còn nhớ lúc đi xuống con đường ở Birmingham và tự hỏi chuyện gì đã xảy ra với phòng trưng bày lớn, chuyện gì đã xảy ra với ban công. Do đó tôi nhớ rất rõ mọi chuyện, tôi có thể nhớ việc tắm ở Ấn Độ Dương khi tôi chưa tròn hai tuổi và tôi nhớ rất rõ ràng.
 
-D. Gueroult: Frodo chấp nhận gánh nặng của Chiếc nhẫn và ông là hiện thân của đức tính chịu đựng và kiên trì lâu dài và bằng hành động của mình, người ta gần như có thể nói theo nghĩa Phật giáo rằng ông "có được công đức". Trên thực tế, ông gần như trở thành một nhân vật của Chúa Kitô. Tại sao bạn lại chọn Halfling, một người Hobbit cho vai diễn này?
+D. Gueroult: Frodo chấp nhận gánh nặng của Chiếc nhẫn và ông ta là hiện thân của đức tính chịu đựng và kiên trì lâu dài và bằng hành động của mình, người ta gần như có thể nói theo nghĩa Phật giáo rằng ông ta "có được công đức". Trên thực tế, ông ta gần như trở thành một nhân vật của Chúa Kitô. Tại sao bạn lại chọn Halfling, một người Hobbit cho vai diễn này?
 
 J.R.R. Tolkien: Tôi không có. Tôi không lựa chọn nhiều, tôi viết The Hobbit bạn thấy đấy… tất cả những gì tôi cố gắng làm là tiếp tục từ điểm mà The Hobbit đã dừng lại. Tôi đã có người Hobbit trong tay rồi phải không?
 

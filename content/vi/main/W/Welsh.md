@@ -16,14 +16,14 @@ images:
   - "Material_icon_-_Construction.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
-<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
+<p>We have a long way to go, and there is time ahead for thought.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>tiếng Wales là của mảnh đất này, hòn đảo này, ngôn ngữ cao cấp của đàn ông nước Anh; và tiếng Wales thật đẹp.
+<p>Welsh is of this soil, this island, the senior language of the men of Britain; and Welsh is beautiful.
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-TW_1-0" class="reference"><a href="#cite_note-TW-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:189</sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -33,7 +33,7 @@ images:
 ## Sindarin {#Sindarin}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tên của những người và địa điểm trong câu chuyện này chủ yếu được sáng tác dựa trên những mẫu hình có chủ ý mô phỏng theo tiếng Wales (gần giống nhưng không giống nhau). Yếu tố này trong câu chuyện có lẽ đã mang lại nhiều niềm vui cho độc giả hơn bất cứ điều gì khác trong đó.
+<p>The names of persons and places in this story were mainly composed on patterns deliberately modelled on those of Welsh (closely similar but not identical). This element in the tale has given perhaps more pleasure to more readers than anything else in it.
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -62,7 +62,7 @@ Phác thảo cơ bản về các đột biến tiếng Wales được đưa ra �
 </th>
 <th>Soft
 </th>
-<th>Âm mũi
+<th>Nasal
 </th>
 <th>Aspirate
 </th></tr>
@@ -158,7 +158,7 @@ Các đột biến của Sindarin chưa được hiểu đầy đủ. Dưới đ
 </th>
 <th>Soft
 </th>
-<th>Âm mũi
+<th>Nasal
 </th>
 <th>Stop
 </th>
@@ -234,13 +234,13 @@ Các đột biến của Sindarin chưa được hiểu đầy đủ. Dưới đ
 <tr>
 <th>g /g/
 </th>
-<td>(đã xóa)
+<td>(deleted)
 </td>
 <td>ng /ŋ/
 </td>
 <td>
 </td>
-<td>(đã xóa)
+<td>(deleted)
 </td>
 <td>
 </td></tr>

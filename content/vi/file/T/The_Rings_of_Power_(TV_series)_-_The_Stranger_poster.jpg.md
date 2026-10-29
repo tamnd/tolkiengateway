@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh chính thức của [Stranger](../../main/T/The_Stranger.md) từ loạt phim [Amazon](../../main/A/Amazon_Studios.md) của *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
+Hình ảnh chính thức của [the Stranger](../../main/T/The_Stranger.md) từ loạt phim [Amazon](../../main/A/Amazon_Studios.md) của *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 ## Giấy phép {#Licensing}
 

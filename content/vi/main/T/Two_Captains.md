@@ -15,24 +15,24 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Two_Captains&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Two_Captains&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Hai vị Thủ lĩnh** là danh hiệu được áp dụng cho cả [Beleg](../B/Beleg.md) và [Túrin](Túrin.md), trong thời gian họ thành lập vùng đất [Dor-Cúarthol](../D/Dor-Cúarthol.md) để kháng chiến [Morgoth](../M/Morgoth.md) ở [Angband](../A/Angband.md).<sup id="cite_ref-Captains_1-0" class="reference"><a href="#cite_note-Captains-1">[1]</a></sup>
+**Hai thuyền trưởng** là danh hiệu được áp dụng cho cả [Beleg](../B/Beleg.md) và [Túrin](Túrin.md), trong thời gian họ thành lập vùng đất [Dor-Cúarthol](../D/Dor-Cúarthol.md) để kháng chiến [Morgoth](../M/Morgoth.md) ở [Angband](../A/Angband.md).<sup id="cite_ref-Captains_1-0" class="reference"><a href="#cite_note-Captains-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
 Hai Đội trưởng là hai người bảo vệ [Dor-Cúarthol](../D/Dor-Cúarthol.md) và là thủ lĩnh của [Đại đội Cũ](../G/Gaurwaith.md). Danh hiệu này lần đầu tiên được trao cho cả [Beleg](../B/Beleg.md) và [Túrin](Túrin.md) bởi [Tiên tộc](../E/Elves.md) và [Con Người](../M/Men.md) không có thủ lĩnh, những người sau khi nhận thấy mình bị thất bại trong các trận chiến và thất bại đã đến [Dor-Cúarthol](../D/Dor-Cúarthol.md) tìm kiếm Cung và Helm được cho là đã ngã xuống trong nhiều trận chiến trong [Dimbar](../D/Dimbar.md).<sup id="cite_ref-Captains_1-1" class="reference"><a href="#cite_note-Captains-1">[1]</a></sup>
 
-Sau khi lực lượng đi theo của Hai Đội trưởng đã trở thành một lực lượng lớn, tin đồn đã lan tới [Nargothrond](../N/Nargothrond.md) về sự thành công của họ trong việc cản trở và chống lại lực lượng của Angband. Đến mức chính [Vua của Nargothrond](../K/King_of_Nargothrond.md), [Orodreth](../O/Orodreth.md), đã cử sứ giả đến Hai vị Thủ lĩnh, đề nghị trợ giúp bất kỳ vấn đề nào mà họ cần ngoài vũ khí. Tuy nhiên, bất chấp điều này, ông không chỉ cấm Hai vị Thủ lĩnh đặt chân đến Nargothrond mà còn buộc họ không được lái xe [Orc](../O/Orcs.md) để làm như vậy.<sup id="cite_ref-Captains_1-2" class="reference"><a href="#cite_note-Captains-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
+Sau khi lực lượng đi theo của Hai Đội trưởng đã trở thành một lực lượng lớn, tin đồn đã lan tới [Nargothrond](../N/Nargothrond.md) về sự thành công của họ trong việc cản trở và chống lại lực lượng của Angband. Đến mức chính [Vua của Nargothrond](../K/King_of_Nargothrond.md), [Orodreth](../O/Orodreth.md), đã cử sứ giả đến Hai Thuyền trưởng, đề nghị trợ giúp bất kỳ vấn đề nào mà họ cần ngoài vũ khí. Tuy nhiên, bất chấp điều này, ông ta không chỉ cấm Hai Thuyền trưởng đặt chân đến Nargothrond mà còn buộc họ không được lái xe [Orc](../O/Orcs.md) để làm như vậy.<sup id="cite_ref-Captains_1-2" class="reference"><a href="#cite_note-Captains-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Tuy nhiên, rất có khả năng Orodreth cuối cùng có lẽ đã hủy bỏ tuyên bố này, vì có khả năng ông sẽ không bao giờ cho phép Túrin được nhận vào Nargothrond, chứ đừng nói đến việc cho phép ông trở thành ủy viên hội đồng trưởng của mình, nếu không.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Tuy nhiên, rất có khả năng Orodreth cuối cùng có lẽ đã hủy bỏ tuyên bố này, vì có khả năng ông ta sẽ không bao giờ cho phép Túrin được nhận vào Nargothrond, chứ đừng nói đến việc cho phép ông ta trở thành ủy viên hội đồng trưởng của mình, nếu không.</span>
 </li>
 </ol></div></span>
 

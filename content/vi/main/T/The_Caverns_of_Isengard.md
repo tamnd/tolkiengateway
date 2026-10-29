@@ -31,7 +31,7 @@ infobox:
     value: "Give Up the Halfling"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9f/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg/320px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9f/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg/480px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9f/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg/640px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg 2x" data-file-width="2400" data-file-height="2400"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Những hang động ở Isengard</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings">The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/London_Philharmonic_Orchestra" title="wikipedia:London Philharmonic Orchestra">London Philharmonic Orchestra</a>, Edward Ross</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">4:54</td></tr><tr><th scope="row" class="tg-infobox-label">Số thứ tự bản nhạc</th><td class="tg-infobox-data">Disc 2 Track 2</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../W/Weathertop_(soundtrack).md" title="Weathertop (soundtrack)">Weathertop</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="../G/Give_Up_the_Halfling.md" title="Give Up the Halfling">Give Up the Halfling</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/21D6cTpVlaM7VU6Rb0put7"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9f/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg/320px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9f/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg/480px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9f/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg/640px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg 2x" data-file-width="2400" data-file-height="2400"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Caverns of Isengard</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings">The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/London_Philharmonic_Orchestra" title="wikipedia:London Philharmonic Orchestra">London Philharmonic Orchestra</a>, Edward Ross</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">4:54</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">Disc 2 Track 2</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="../W/Weathertop_(soundtrack).md" title="Weathertop (soundtrack)">Weathertop</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="../G/Give_Up_the_Halfling.md" title="Give Up the Halfling">Give Up the Halfling</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/21D6cTpVlaM7VU6Rb0put7"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
@@ -57,7 +57,7 @@ infobox:
 </td></tr>
 <tr>
 <td>[02:04]</td>
-<td>đàn ông</td>
+<td>men</td>
 <td>I
 </td></tr>
 <tr>
@@ -68,7 +68,7 @@ infobox:
 <tr>
 <td>[02:10]</td>
 <td></td>
-<td>đàn ông
+<td>men
 </td></tr>
 <tr>
 <td>[02:11]</td>
@@ -88,7 +88,7 @@ infobox:
 <tr>
 <td>[02:19]</td>
 <td>su</td>
-<td>Chắc chắn...
+<td>sure...
 </td></tr>
 <tr>
 <td>[02:22]</td>

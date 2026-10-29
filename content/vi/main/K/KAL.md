@@ -15,8 +15,8 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=KAL&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=KAL&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
@@ -41,6 +41,6 @@ images:
 <td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>The <a href="../S/Sundocarme.md" title="Sundocarme">Sundocarme</a> &#34;Shine&#34; Group</b>
 </td></tr>
 <tr>
-<td style="font-size: 90%;"> <b><a class="mw-selflink selflink">GAL/KAL</a></b> ("tỏa sáng") · <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=GIL&amp;action=edit&amp;redlink=1" title="GIL (page does not exist)">GIL</a></b> ("tỏa sáng") · <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=RIL&amp;action=edit&amp;redlink=1" title="RIL (page does not exist)">RIL</a></b> ("long lanh") · <b><a href="../S/SIL~59984.md" title="SIL">SIL/THIL</a></b> ("bạc sáng bóng") · <b><a href="KUL.md" title="KUL">GUL/KUL</a></b> ("vàng sáng hoặc đỏ")
+<td style="font-size: 90%;"> <b><a class="mw-selflink selflink">GAL/KAL</a></b> (&#34;shine&#34;) · <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=GIL&amp;action=edit&amp;redlink=1" title="GIL (page does not exist)">GIL</a></b> (&#34;shine&#34;) · <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=RIL&amp;action=edit&amp;redlink=1" title="RIL (page does not exist)">RIL</a></b> (&#34;glitter&#34;) · <b><a href="../S/SIL~59984.md" title="SIL">SIL/THIL</a></b> (&#34;shine silver&#34;) · <b><a href="KUL.md" title="KUL">GUL/KUL</a></b> (&#34;shine gold or red&#34;)
 </td></tr>
 </tbody></table>

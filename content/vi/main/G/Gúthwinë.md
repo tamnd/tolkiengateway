@@ -32,7 +32,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Kamila_Szutenberg_-_Gúthwinë.jpeg.md"><img src="https://tolkiengateway.net/w/images/d/dc/Kamila_Szutenberg_-_G%C3%BAthwin%C3%AB.jpeg" decoding="async" loading="lazy" width="236" height="199" class="mw-file-element" data-file-width="236" data-file-height="199"/></a><figcaption>&#34;Gúthwinë&#34; by <a href="../../category/I/Images_by_Kamila_Tzutenberg.md" title="Category:Images by Kamila Tzutenberg">Kamila Tzutenberg</a></figcaption></figure>
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(film_series)_-_Gúthwinë.jpg.md"><img src="https://tolkiengateway.net/w/images/e/eb/The_Lord_of_the_Rings_%28film_series%29_-_G%C3%BAthwin%C3%AB.jpg" decoding="async" loading="lazy" width="172" height="275" class="mw-file-element" data-file-width="172" data-file-height="275"/></a><figcaption><i>Gúthwinë</i> từ <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> loạt phim</a></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(film_series)_-_Gúthwinë.jpg.md"><img src="https://tolkiengateway.net/w/images/e/eb/The_Lord_of_the_Rings_%28film_series%29_-_G%C3%BAthwin%C3%AB.jpg" decoding="async" loading="lazy" width="172" height="275" class="mw-file-element" data-file-width="172" data-file-height="275"/></a><figcaption><i>Gúthwinë</i> from <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> film series</a></figcaption></figure>
 
 **Gúthwinë** là thanh kiếm của [Éomer](../_/Éomer.md).<sup id="cite_ref-Sortie_1-0" class="reference"><a href="#cite_note-Sortie-1">[1]</a></sup><sup id="cite_ref-Guthwine_2-0" class="reference"><a href="#cite_note-Guthwine-2">[2]</a></sup>
 
@@ -40,9 +40,9 @@ images:
 
 Vào ngày 29 tháng 2 [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Éomer đã giao chiến và giết chết thủ lĩnh Uruk [Uglúk](../U/Uglúk.md) trong một cuộc đấu kiếm, có lẽ là đang sử dụng Gúthwinë<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>.
 
-Khi [Gandalf](Gandalf.md) và đồng bọn đến [Meduseld](../M/Meduseld.md) vào ngày 2 tháng 3, Éomer đã bị [Théoden](../T/Théoden.md) giam giữ theo lời khuyên của [Gríma](Gríma.md). Được Théoden ra lệnh giải phóng Éomer, [Háma](../H/Háma.md) trả lại thanh kiếm của Éomer cho Éomer theo yêu cầu của Éomer. Éomer quỳ xuống trước Théoden và đưa kiếm cho ông. Theo gợi ý của Gandalf, Théoden cầm lấy thanh kiếm và vung nó, và những người chứng kiến ​​dường như sức mạnh và sự rắn chắc đó đã trở lại với cánh tay của ông.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Khi [Gandalf](Gandalf.md) và đồng bọn đến [Meduseld](../M/Meduseld.md) vào ngày 2 tháng 3, Éomer đã bị [Théoden](../T/Théoden.md) giam giữ theo lời khuyên của [Gríma](Gríma.md). Được Théoden ra lệnh giải phóng Éomer, [Háma](../H/Háma.md) trả lại thanh kiếm của Éomer cho Éomer theo yêu cầu của Éomer. Éomer quỳ xuống trước Théoden và đưa kiếm cho ông ta. Theo gợi ý của Gandalf, Théoden cầm lấy thanh kiếm và vung nó, và những người chứng kiến ​​dường như sức mạnh và sự rắn chắc đó đã trở lại với cánh tay của ông ta.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Éomer chở Gúthwinë tại [Trận Hornburg](../B/Battle_of_the_Hornburg.md). Khi cùng [Aragorn](../A/Aragorn.md) xuất kích chống lại nhóm đang đập phá cổng [Hornburg](../H/Hornburg.md), ông đã rút kiếm<sup id="cite_ref-Sortie_1-1" class="reference"><a href="#cite_note-Sortie-1">[1]</a></sup> và hô vang xung trận "Gúthwinë vì Dấu ấn!"<sup id="cite_ref-Guthwine_2-1" class="reference"><a href="#cite_note-Guthwine-2">[2]</a></sup>. Đây là nơi duy nhất trong văn bản xuất hiện tên của thanh kiếm.
+Éomer chở Gúthwinë tại [Trận Hornburg](../B/Battle_of_the_Hornburg.md). Khi cùng [Aragorn](../A/Aragorn.md) xuất kích chống lại nhóm đang đập phá cổng [Hornburg](../H/Hornburg.md), ông ta đã rút kiếm<sup id="cite_ref-Sortie_1-1" class="reference"><a href="#cite_note-Sortie-1">[1]</a></sup> và hô vang xung trận "Gúthwinë vì Dấu ấn!"<sup id="cite_ref-Guthwine_2-1" class="reference"><a href="#cite_note-Guthwine-2">[2]</a></sup>. Đây là nơi duy nhất trong văn bản xuất hiện tên của thanh kiếm.
 
 Tại [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), khi nhìn thấy Cờ hiệu của [Elendil](../E/Elendil.md) xuất hiện trên con tàu dẫn đầu đang tiếp cận <a class="mw-redirect mw-disambig" href="../H/Harlond.md" title="Harlond">Harlond</a>, Éomer đã ném thanh kiếm của mình lên không trung và hát khi bắt được nó.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Có thể cho rằng thanh kiếm đó là Gúthwinë.
 
@@ -77,12 +77,12 @@ Tên *Gúthwinë* là [tiếng Anh cổ](../O/Old_English.md),<sup id="cite_ref-
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Vũ khí</a> trong <a href="../L/Legendarium.md" title="Legendarium">huyền thoại</a> của <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Weapons</a> in <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a>&#39;s <a href="../L/Legendarium.md" title="Legendarium">legendarium</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"> <a href="../../category/A/Arrows.md" title="Category:Arrows">Arrows</a>:
 </th>
-<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Mũi tên đen</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Mũi tên đỏ</a>
+<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Black arrow</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Red Arrow</a>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/A/Axes.md" title="Category:Axes">Axes</a>:

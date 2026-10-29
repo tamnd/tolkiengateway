@@ -45,7 +45,7 @@ Haradaic là ngôn ngữ được sử dụng bởi Haradrim, [Corsairs](../C/Co
 
 ## Labba {#Labba}
 
-Labba là ngôn ngữ được sử dụng bởi [Lossoth](Lossoth.md), mặc dù <a class="new" href="https://tolkiengateway.net/w/index.php?title=Umli&amp;action=edit&amp;redlink=1" title="Umli (page does not exist)">Umli</a> cũng có một số kiến ​​thức về nó.<sup id="cite_ref-rulebook_2-3" class="reference"><a href="#cite_note-rulebook-2">[2]</a></sup> Nó chịu ảnh hưởng của Lossidilrin, ngôn ngữ của Tiên tộc Tuyết.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 1]</a></sup> thay vì có liên quan đến các ngôn ngữ Mannish khác.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
+Labba là ngôn ngữ được sử dụng bởi [Lossoth](Lossoth.md), mặc dù <a class="new" href="https://tolkiengateway.net/w/index.php?title=Umli&amp;action=edit&amp;redlink=1" title="Umli (page does not exist)">Umli</a> cũng có một số kiến ​​thức về nó.<sup id="cite_ref-rulebook_2-3" class="reference"><a href="#cite_note-rulebook-2">[2]</a></sup> Nó chịu ảnh hưởng của Lossidilrin, ngôn ngữ của Snow-Tiên tộc.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 1]</a></sup> thay vì có liên quan đến các ngôn ngữ Mannish khác.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
 ## Logathig {#Logathig}
 

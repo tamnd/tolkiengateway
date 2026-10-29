@@ -20,14 +20,14 @@ images:
 
 **Công ty Walt Disney**, còn được gọi đơn giản là **Disney**, là một tập đoàn truyền thông và giải trí của Mỹ, được thành lập vào năm 1923 bởi hai anh em Walter Elias Disney và Roy Oliver Disney.
 
-<h2><span id="Tolkien.27s_thoughts"></span><span class="mw-headline" id="Tolkien&#39;s_thoughts">suy nghĩ của Tolkien</span></h2>
+<h2><span id="Tolkien.27s_thoughts"></span><span class="mw-headline" id="Tolkien&#39;s_thoughts">Tolkien&#39;s thoughts</span></h2>
 
 Đối với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), các sản phẩm của công ty Disney là một ví dụ đặc biệt nổi bật về kiểu dáng xấu.
 
 <br> Một lời phê bình đáng chú ý đối với Walt Disney đã được Tolkien đưa ra trong một lá thư [1964](../_/1964.md) gửi cho một người hâm mộ:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Tôi nhận ra tài năng của [Walt Disney], nhưng đối với tôi dường như nó luôn bị hư hỏng một cách vô vọng. Mặc dù trong hầu hết các 'bức tranh' chụp từ xưởng vẽ của ông đều có những đoạn đáng ngưỡng mộ hoặc quyến rũ, nhưng tác động của tất cả chúng đối với tôi thật kinh tởm. Một số khiến tôi buồn nôn
+<p>I recognize [Walt Disney&#39;s] talent, but it has always seemed to me hopelessly corrupted. Though in most of the &#39;pictures&#39; proceeding from his studios there are admirable or charming passages, the effect of all of them to me is disgusting. Some have given me nausea
 </p>
 <p class="tg-quote-footer"><cite><a href="../L/Letter_to_Miss_J.L._Curry.md" title="Letter to Miss J.L. Curry">Letter to Miss J.L. Curry</a>, of 15 July 1964]]</cite></p>
 </blockquote>
@@ -35,7 +35,7 @@ images:
 Trong [1946](../_/1946.md), ông đã từ chối đề xuất minh họa của [Horus Engels](../H/Horus_Engels.md) cho ấn bản tiếng Đức của *Hobbit* với tên *"too Disnified"*,
 
 <blockquote class="tg-quote noexcerpt">
-<p>Bilbo với cái mũi chảy nước dãi, và Gandalf là một hình tượng vui nhộn thô tục chứ không phải là kẻ lang thang Odinic mà tôi nghĩ đến.
+<p>Bilbo with a dribbling nose, and Gandalf as a figure of vulgar fun rather than the Odinic wanderer that I think of.
 </p>
 <p class="tg-quote-footer"><cite><a href="../L/Letter_107.md" title="Letter 107">Letter 107</a></cite></p>
 </blockquote>
@@ -43,12 +43,12 @@ Trong [1946](../_/1946.md), ông đã từ chối đề xuất minh họa của 
 Hơn nữa, trong suốt cuộc đời Tolkien ông luôn có mối quan tâm sâu sắc và quan điểm mạnh mẽ về việc chuyển thể [huyền thoại](../L/Legendarium.md) của mình. khi một số nhà sản xuất bắt đầu quan tâm đến việc chuyển thể phim từ các tác phẩm của Tolkien(ông đã bán bản quyền phim, sân khấu và hàng hóa của *[The Hobbit](The_Hobbit.md)* và *[The Lord of the Rings](The_Lord_of_the_Rings.md)* cho United Artists vào năm 1968), ông đã cấm Disney tham gia:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Có lẽ nên […] để người Mỹ làm những gì có vẻ tốt đối với họ - miễn là có thể […] phủ quyết bất cứ điều gì từ hoặc bị ảnh hưởng bởi các hãng phim Disney (đối với tất cả những tác phẩm của họ mà tôi thực lòng ghê tởm).
+<p>It might be advisable [...] to let the Americans do what seems good to them — as long as it was possible [...] to veto anything from or influenced by the Disney studios (for all whose works I have a heartfelt loathing).
 </p>
 <p class="tg-quote-footer"><cite><a href="../L/Letter_13.md" title="Letter 13">Letter 13</a></cite></p>
 </blockquote>
 
-Trong [một lá thư khác](../L/Letter_to_Jane_Dixon.md), Tolkien viết trong [1965](../_/1965.md) rằng cả ông và các nhà xuất bản của ông ([George Allen and Unwin](../A/Allen_and_Unwin.md)) đều không có ý định cấp phép cho Walt Disney làm phim dựa trên sách của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong [một lá thư khác](../L/Letter_to_Jane_Dixon.md), Tolkien viết trong [1965](../_/1965.md) rằng cả ông và các nhà xuất bản của ông ([George Allen và Unwin](../A/Allen_and_Unwin.md)) đều không có ý định cấp phép cho Walt Disney làm phim dựa trên sách của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Tolkien sản phẩm liên quan đến Disney {#Tolkien-related_Disney_products}
 

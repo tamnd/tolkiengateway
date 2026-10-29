@@ -47,7 +47,7 @@ Ngoài ra, cô còn viết và đồng tác giả nhiều bài báo và tiểu l
 
 - Vũ khí có tên riêng trong tác phẩm của Tolkien.
 - Người khổng lồ của Tolkien là loại sinh vật gì?
-- Saruman có rèn được Nhẫn Quyền Năng không?
+- Saruman có rèn được Chiếc nhẫn quyền lực không?
 - Chuyện gì đã xảy ra với Celebrían?
 - Balrog chưa bao giờ có cánh.
 - Christopher Tolkien, tác giả The Silmarillion.

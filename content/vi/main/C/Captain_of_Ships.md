@@ -20,7 +20,7 @@ langlinks:
 
 **Thuyền trưởng** là tước hiệu [Gondor](../G/Gondor.md) được giữ bởi [Castamir](Castamir.md), cháu trai của [Calimehtar](<Calimehtar_(son_of_Calmacil).md>), em trai của vua [Rómendacil II](../R/Rómendacil_II.md).<sup id="cite_ref-Eldacar_1-0" class="reference"><a href="#cite_note-Eldacar-1">[1]</a></sup>
 
-Castamir là Thuyền trưởng của các con tàu trong [Kin-xung đột](../K/Kin-strife~3650.md). Vị trí của ông cho phép ông tìm được những người ủng hộ từ các thiên đường [Umbar](../U/Umbar.md), [Pelargir](../P/Pelargir.md) và vùng đất ven biển Gondor, đồng thời lật đổ Vua <a class="mw-redirect mw-disambig" href="../E/Eldacar.md" title="Eldacar">Eldacar</a>chính nghĩa.<sup id="cite_ref-Eldacar_1-1" class="reference"><a href="#cite_note-Eldacar-1">[1]</a></sup>
+Castamir là Thuyền trưởng của các con tàu trong [Kin-xung đột](../K/Kin-strife~3650.md). Vị trí của ông ta cho phép ông ta tìm được những người ủng hộ từ các thiên đường [Umbar](../U/Umbar.md), [Pelargir](../P/Pelargir.md) và vùng đất ven biển Gondor, đồng thời lật đổ Vua <a class="mw-redirect mw-disambig" href="../E/Eldacar.md" title="Eldacar">Eldacar</a>chính nghĩa.<sup id="cite_ref-Eldacar_1-1" class="reference"><a href="#cite_note-Eldacar-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

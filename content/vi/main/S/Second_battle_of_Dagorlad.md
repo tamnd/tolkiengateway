@@ -20,18 +20,18 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
 Trận **thứ hai của Dagorlad** là trận chiến ở [Kỷ Đệ Tam](../T/Third_Age.md). Vua [Calimehtar](<../C/Calimehtar_(King_of_Gondor).md>) của [Gondor](../G/Gondor.md) đã đánh bại đội quân [Easterling](../E/Easterlings.md) trên [Dagorlad](../D/Dagorlad.md), địa điểm diễn ra [trận chiến huyền thoại](../B/Battle_of_Dagorlad.md) nơi Sauron bị đánh tan tác.
 
 ## Mở đầu {#Prelude}
 
-Một Easterling người được gọi là [Wainriders](../W/Wainriders.md) bắt đầu tấn công Gondor. [người Gondor](../G/Gondorians.md) và [Người phương Bắc](../N/Northmen.md) chống lại họ đã bị đánh bại trong [Trận chiến Đồng Bằng](../B/Battle_of_the_Plains.md) ([T.A.](../T/Third_Age.md) [1856](../T/Third_Age_1856.md)). Hầu hết các vùng đất Người phương Bắc đều bị Wainriders chiếm đóng và làm nô lệ, tuy nhiên một số khác đã trốn thoát và một số theo [Marhwini](../M/Marhwini.md) đến [Thung lũng Anduin](../V/Vales_of_Anduin.md).
+Một Easterling người được gọi là [Wainriders](../W/Wainriders.md) bắt đầu tấn công Gondor. [người Gondor](../G/Gondorians.md) và [Người phương Bắc](../N/Northmen.md) chống lại họ đã bị đánh bại trong [Trận chiến vùng đồng bằng](../B/Battle_of_the_Plains.md) ([T.A.](../T/Third_Age.md) [1856](../T/Third_Age_1856.md)). Hầu hết các vùng đất Người phương Bắc đều bị Wainriders chiếm đóng và làm nô lệ, tuy nhiên một số khác đã trốn thoát và một số theo [Marhwini](../M/Marhwini.md) đến [Thung lũng Anduin](../V/Vales_of_Anduin.md).
 
 Nhiều năm sau, Wainriders lên kế hoạch đột kích [Calenardhon](../C/Calenardhon.md) khắp [Undeeps](../U/Undeeps.md). Lãnh chúa Marhwini đã gửi tin nhắn tới Vua Calimehtar cảnh báo ông về điều này, đồng thời thông báo cho ông rằng những người nô lệ Người phương Bắc cũng đang chuẩn bị một cuộc nổi dậy nếu Wainriders tham gia vào chiến tranh.
 
-Nhanh nhất có thể trong [T.A.](../T/Third_Age.md) [1899](../T/Third_Age_1899.md) Calimehtar dẫn đầu một đội quân về phía bắc từ [Ithilien](../I/Ithilien.md). Ông cũng bí mật cử kỵ binh qua Undeeps.
+Nhanh nhất có thể trong [T.A.](../T/Third_Age.md) [1899](../T/Third_Age_1899.md) Calimehtar dẫn đầu một đội quân về phía bắc từ [Ithilien](../I/Ithilien.md). Ông ta cũng bí mật cử kỵ binh qua Undeeps.
 
 ## Trận chiến {#The_Battle}
 

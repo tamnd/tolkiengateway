@@ -18,9 +18,9 @@ categories:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Brus-kuluz taurzur bûrzu tiil-ob <br/>
-Im đi, im đi, im đi, im đi <br/>
+Hush-ob dhurum agh ufum dhurum <br/>
 Tor Vautu brus-troguz <br/>
-Urgai-u gukh dump agh tiimor <br/>
+Urgai-u gukh dûmp agh tiimor <br/>
 <br/>
 Talaan-u rûk-ir tor urûk <br/>
 Nauru-ir agh kragoru nûrsu grishûrz <br/>
@@ -29,7 +29,7 @@ Mordor-ob bot-tuk <br/>
 <br/>
 Ghaash agh akûl û Nazgûl skoiz <br/>
 Mirdautas vras! <br/>
-Karn ghaamp agh không <br/>
+Karn ghaamp agh nût <br/>
 Shaut Manwû quiinubat gukh
 </p>
 </div>
@@ -37,19 +37,19 @@ Shaut Manwû quiinubat gukh
 **Bản dịch tiếng Anh:**
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Bóng tối là giấc mơ của tôi bấy lâu nay <br/>
-Của sự nghi ngờ thầm kín và nỗi sợ hãi thầm kín <br/>
-Một ngàn năm đã trôi qua <br/>
-Để dập tắt sự diệt vong và khủng bố <br/>
+<p>Dark have been my dreams of late <br/>
+Of secret doubt and secret fear <br/>
+A thousand years have passed away <br/>
+To lay down doom and terror <br/>
 <br/>
-Tiến về phía bắc, một ngàn orc <br/>
-Trên những con sói với những chiếc răng nanh đẫm máu khổng lồ <br/>
-Họ gánh chịu giông bão và sức mạnh <br/>
-Của Mordor trên khắp thế giới <br/>
+To north ride on, a thousand orcs <br/>
+On wolves with giant bloody fangs <br/>
+They take the storm and power <br/>
+Of Mordor through the world <br/>
 <br/>
-Lửa và Băng, <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> bay <br/>
-Đó là một ngày tốt để giết! <br/>
-(Sơn) màu đỏ là Đất và trời <br/>
-Kể cả <a href="Manwë.md" title="Manwë">Manwë</a> cũng sẽ cúi đầu<br/>
+Fire and Ice, the <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> fly <br/>
+It is a good day to kill! <br/>
+(Painted) red is Earth and sky <br/>
+Even <a href="Manwë.md" title="Manwë">Manwë</a> will bow down<br/>
 </p>
 </div>

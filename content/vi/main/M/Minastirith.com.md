@@ -14,7 +14,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Minas Tirith</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Minas_Tirith_(disambiguation).md" title="Minas Tirith (disambiguation)">Minas Tirith (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Minas Tirith</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Minas_Tirith_(disambiguation).md" title="Minas Tirith (disambiguation)">Minas Tirith (disambiguation)</a></b>.</div></div>
 
 **MinasTirith.com** được thành lập vào [21 tháng 5](May_21.md), [2000](../_/2000.md) bởi White Gold Wielder ("WGW") và hoạt động cho đến tận đầu [2021](../_/2021.md) khi nó ngoại tuyến mà không rõ lý do, khiến nó trở thành một trong những cộng đồng trực tuyến [Tolkien](../J/J.R.R._Tolkien.md) hoạt động lâu nhất. Diễn đàn được biết đến với các cuộc thảo luận học thuật và cộng đồng chặt chẽ.
 

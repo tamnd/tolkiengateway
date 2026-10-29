@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Lúthien đến Đại sảnh Mandos để cầu xin Vala của Doom cho cuộc sống của tình yêu của cô, Beren. Bản quyền Paula DiSante 2023.
+Lúthien đến Sảnh của Mandos để cầu xin Vala của Doom cho cuộc sống của tình yêu của cô, Beren. Bản quyền Paula DiSante 2023.
 
 ## Giấy phép {#Licensing}
 

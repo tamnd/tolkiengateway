@@ -34,7 +34,7 @@ Trong bản thảo đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_
 
 <b>2014: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i>:</b>
 
-<dl><dd><a href="../T/Tosser_Grubb.md" title="Tosser Grubb">Tosser Grubb</a> thay mặt công ty dẫn đầu cuộc đấu giá.</dd></dl>
+<dl><dd><a href="../T/Tosser_Grubb.md" title="Tosser Grubb">Tosser Grubb</a> leads the auction on behalf of the firm.</dd></dl>
 
 <span></span>
 

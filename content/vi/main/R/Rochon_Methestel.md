@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/Rochon_Methestel"
 ---
 
-<i><b>Rochon Methestel</b></i> là tên của một bài hát được viết về [Borondir Udalraph](../B/Borondir.md), người được Quản gia [Cirion](../C/Cirion.md) cử đi tìm kiếm sự trợ giúp của [Éothéod](../_/Éothéod.md). Ông quay trở lại cùng quân [Eorl](../E/Eorl.md), nhưng không sống sót sau [Trận chiến trên Cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md).<sup id="cite_ref-Rochon_1-0" class="reference"><a href="#cite_note-Rochon-1">[1]</a></sup>
+<i><b>Rochon Methestel</b></i> là tên của một bài hát được viết về [Borondir Udalraph](../B/Borondir.md), người được Quản gia [Cirion](../C/Cirion.md) cử đi tìm kiếm sự trợ giúp của [Éothéod](../_/Éothéod.md). Ông ta quay trở lại cùng quân [Eorl](../E/Eorl.md), nhưng không sống sót sau [Trận chiến trên Cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md).<sup id="cite_ref-Rochon_1-0" class="reference"><a href="#cite_note-Rochon-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

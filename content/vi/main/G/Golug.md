@@ -23,7 +23,7 @@ langlinks:
 
 <b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>:</b>
 
-<dl><dd>Golug được sử dụng trong <a href="../O/Orkish.md" title="Orkish">Gundabad tiếng orkish</a>. Giống như trong sách, nó có nghĩa là "Tiên", nhưng không giống như trong sách, dạng nữ (golgi) và số nhiều (golgai) cũng tồn tại.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó cũng được sử dụng trong <a href="../B/Black_Speech.md" title="Black Speech">Hắc Ngữ</a>.</dd></dl>
+<dl><dd>Golug is used in <a href="../O/Orkish.md" title="Orkish">Gundabad orkish</a>. Much like in the books, it means &#34;elf&#34;, but unlike in the books, a female form (golgi) and a plural (golgai) also exist.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> It is also used in <a href="../B/Black_Speech.md" title="Black Speech">Black Speech</a>.</dd></dl>
 
 <span></span>
 

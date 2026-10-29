@@ -65,7 +65,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Silmarillion_1982-del.png.md" title="1977 hardcover 1982 reissued"><img alt="1977 hardcover 1982 reissued" src="https://tolkiengateway.net/w/images/thumb/a/a3/The_Silmarillion_1982-del.png/79px-The_Silmarillion_1982-del.png" decoding="async" loading="lazy" width="79" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a3/The_Silmarillion_1982-del.png/119px-The_Silmarillion_1982-del.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a3/The_Silmarillion_1982-del.png/158px-The_Silmarillion_1982-del.png 2x" data-file-width="317" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Bìa cứng 1977 tái bản 1982
+<p>1977 hardcover 1982 reissued
 </p>
 			</div>
 		</li>
@@ -86,7 +86,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Silmarillion_1987-pb.png.md" title="1983 paperback 7th impression"><img alt="1983 paperback 7th impression" src="https://tolkiengateway.net/w/images/thumb/7/75/The_Silmarillion_1987-pb.png/81px-The_Silmarillion_1987-pb.png" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/75/The_Silmarillion_1987-pb.png/122px-The_Silmarillion_1987-pb.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/75/The_Silmarillion_1987-pb.png/163px-The_Silmarillion_1987-pb.png 2x" data-file-width="326" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Ấn tượng thứ 7 bìa mềm năm 1983
+<p>1983 paperback 7th impression
 </p>
 			</div>
 		</li>
@@ -111,7 +111,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Silmarillion_1994-pb.png.md" title="1994 paperback"><img alt="1994 paperback" src="https://tolkiengateway.net/w/images/thumb/5/59/The_Silmarillion_1994-pb.png/76px-The_Silmarillion_1994-pb.png" decoding="async" loading="lazy" width="76" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/59/The_Silmarillion_1994-pb.png/115px-The_Silmarillion_1994-pb.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/59/The_Silmarillion_1994-pb.png/153px-The_Silmarillion_1994-pb.png 2x" data-file-width="306" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Bản bìa mềm năm 1994
+<p>1994 paperback
 </p>
 			</div>
 		</li>
@@ -125,7 +125,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Silmarillion_1998-del.png.md" title="1998 hardcover deluxe edition"><img alt="1998 hardcover deluxe edition" src="https://tolkiengateway.net/w/images/thumb/1/1b/The_Silmarillion_1998-del.png/84px-The_Silmarillion_1998-del.png" decoding="async" loading="lazy" width="84" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1b/The_Silmarillion_1998-del.png/126px-The_Silmarillion_1998-del.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/1b/The_Silmarillion_1998-del.png/168px-The_Silmarillion_1998-del.png 2x" data-file-width="336" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Phiên bản bìa cứng cao cấp năm 1998
+<p>1998 hardcover deluxe edition
 </p>
 			</div>
 		</li>
@@ -153,21 +153,21 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Silmarillion_1999-collectors.png.md" title="1999 paperback 5th impression"><img alt="1999 paperback 5th impression" src="https://tolkiengateway.net/w/images/thumb/e/e8/The_Silmarillion_1999-collectors.png/77px-The_Silmarillion_1999-collectors.png" decoding="async" loading="lazy" width="77" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e8/The_Silmarillion_1999-collectors.png/116px-The_Silmarillion_1999-collectors.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/e8/The_Silmarillion_1999-collectors.png/155px-The_Silmarillion_1999-collectors.png 2x" data-file-width="310" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Ấn tượng thứ 5 bìa mềm năm 1999
+<p>1999 paperback 5th impression
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Silmarillion_1999-6.png.md" title="1999 paperback 6th impression"><img alt="1999 paperback 6th impression" src="https://tolkiengateway.net/w/images/thumb/4/4d/The_Silmarillion_1999-6.png/76px-The_Silmarillion_1999-6.png" decoding="async" loading="lazy" width="76" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4d/The_Silmarillion_1999-6.png/114px-The_Silmarillion_1999-6.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/4d/The_Silmarillion_1999-6.png/152px-The_Silmarillion_1999-6.png 2x" data-file-width="304" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Ấn tượng thứ 6 bìa mềm năm 1999
+<p>1999 paperback 6th impression
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Silmarillion_1999-34.png.md" title="1999 paperback 33rd impression"><img alt="1999 paperback 33rd impression" src="https://tolkiengateway.net/w/images/thumb/3/3d/The_Silmarillion_1999-34.png/77px-The_Silmarillion_1999-34.png" decoding="async" loading="lazy" width="77" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3d/The_Silmarillion_1999-34.png/115px-The_Silmarillion_1999-34.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/3d/The_Silmarillion_1999-34.png/153px-The_Silmarillion_1999-34.png 2x" data-file-width="307" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Ấn tượng thứ 33 bìa mềm năm 1999
+<p>1999 paperback 33rd impression
 </p>
 			</div>
 		</li>
@@ -197,7 +197,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Silmarillion_2002-del.png.md" title="2002 hardcover deluxe edition"><img alt="2002 hardcover deluxe edition" src="https://tolkiengateway.net/w/images/thumb/6/64/The_Silmarillion_2002-del.png/77px-The_Silmarillion_2002-del.png" decoding="async" loading="lazy" width="77" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/64/The_Silmarillion_2002-del.png/116px-The_Silmarillion_2002-del.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/64/The_Silmarillion_2002-del.png/155px-The_Silmarillion_2002-del.png 2x" data-file-width="310" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Phiên bản bìa cứng cao cấp năm 2002
+<p>2002 hardcover deluxe edition
 </p>
 			</div>
 		</li>
@@ -218,7 +218,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Silmarillion_2007.png.md" title="2007 hardcover deluxe edition"><img alt="2007 hardcover deluxe edition" src="https://tolkiengateway.net/w/images/thumb/4/44/The_Silmarillion_2007.png/86px-The_Silmarillion_2007.png" decoding="async" loading="lazy" width="86" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/44/The_Silmarillion_2007.png/130px-The_Silmarillion_2007.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/44/The_Silmarillion_2007.png/172px-The_Silmarillion_2007.png 2x" data-file-width="500" data-file-height="724"/></a></span></div>
 			<div class="gallerytext">
-<p>Phiên bản bìa cứng cao cấp năm 2007
+<p>2007 hardcover deluxe edition
 </p>
 			</div>
 		</li>
@@ -265,49 +265,49 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Silmarillion_2021_del.jpeg.md" title="2021 hardcover deluxe edition"><img alt="2021 hardcover deluxe edition" src="https://tolkiengateway.net/w/images/thumb/c/c4/The_Silmarillion_2021_del.jpeg/125px-The_Silmarillion_2021_del.jpeg" decoding="async" loading="lazy" width="125" height="122" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c4/The_Silmarillion_2021_del.jpeg/188px-The_Silmarillion_2021_del.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c4/The_Silmarillion_2021_del.jpeg/250px-The_Silmarillion_2021_del.jpeg 2x" data-file-width="1500" data-file-height="1461"/></a></span></div>
 			<div class="gallerytext">
-<p>Phiên bản bìa cứng cao cấp năm 2021
+<p>2021 hardcover deluxe edition
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Silmarillion_2022_hb.jpeg.md" title="2022 hardcover illust. by author"><img alt="2022 hardcover illust. by author" src="https://tolkiengateway.net/w/images/thumb/b/bd/The_Silmarillion_2022_hb.jpeg/81px-The_Silmarillion_2022_hb.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bd/The_Silmarillion_2022_hb.jpeg/122px-The_Silmarillion_2022_hb.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/b/bd/The_Silmarillion_2022_hb.jpeg/162px-The_Silmarillion_2022_hb.jpeg 2x" data-file-width="1500" data-file-height="2309"/></a></span></div>
 			<div class="gallerytext">
-<p>Minh họa bìa cứng năm 2022. theo tác giả
+<p>2022 hardcover illust. by author
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Silmarillion_2022_del.jpeg.md" title="2022 hardcover illust. by author deluxe edition"><img alt="2022 hardcover illust. by author deluxe edition" src="https://tolkiengateway.net/w/images/thumb/4/47/The_Silmarillion_2022_del.jpeg/125px-The_Silmarillion_2022_del.jpeg" decoding="async" loading="lazy" width="125" height="122" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/47/The_Silmarillion_2022_del.jpeg/188px-The_Silmarillion_2022_del.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/4/47/The_Silmarillion_2022_del.jpeg/250px-The_Silmarillion_2022_del.jpeg 2x" data-file-width="1500" data-file-height="1461"/></a></span></div>
 			<div class="gallerytext">
-<p>Minh họa bìa cứng năm 2022. của tác giả phiên bản cao cấp
+<p>2022 hardcover illust. by author deluxe edition
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Silmarillion_2023.jpeg.md" title="2023 hardcover"><img alt="2023 hardcover" src="https://tolkiengateway.net/w/images/thumb/c/c5/The_Silmarillion_2023.jpeg/125px-The_Silmarillion_2023.jpeg" decoding="async" loading="lazy" width="125" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c5/The_Silmarillion_2023.jpeg/188px-The_Silmarillion_2023.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c5/The_Silmarillion_2023.jpeg/250px-The_Silmarillion_2023.jpeg 2x" data-file-width="1080" data-file-height="1080"/></a></span></div>
 			<div class="gallerytext">
-<p>Bản bìa cứng năm 2023
+<p>2023 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Silmarillion_2024_hb.jpg.md" title="2024 hardcover collector&#39;s edition"><img alt="2024 hardcover collector&#39;s edition" src="https://tolkiengateway.net/w/images/thumb/f/fa/The_Silmarillion_2024_hb.jpg/79px-The_Silmarillion_2024_hb.jpg" decoding="async" loading="lazy" width="79" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fa/The_Silmarillion_2024_hb.jpg/118px-The_Silmarillion_2024_hb.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fa/The_Silmarillion_2024_hb.jpg/157px-The_Silmarillion_2024_hb.jpg 2x" data-file-width="945" data-file-height="1500"/></a></span></div>
 			<div class="gallerytext">
-<p>Phiên bản sưu tập bìa cứng năm 2024
+<p>2024 hardcover collector&#39;s edition
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Silmarillion_2024_hb-2.jpg.md" title="2024 paperback"><img alt="2024 paperback" src="https://tolkiengateway.net/w/images/thumb/b/b1/The_Silmarillion_2024_hb-2.jpg/81px-The_Silmarillion_2024_hb-2.jpg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b1/The_Silmarillion_2024_hb-2.jpg/122px-The_Silmarillion_2024_hb-2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b1/The_Silmarillion_2024_hb-2.jpg/163px-The_Silmarillion_2024_hb-2.jpg 2x" data-file-width="1500" data-file-height="2300"/></a></span></div>
 			<div class="gallerytext">
-<p>Bản bìa mềm năm 2024
+<p>2024 paperback
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Silmarillion_2025_large.jpg.md" title="2025 paperback large print"><img alt="2025 paperback large print" src="https://tolkiengateway.net/w/images/thumb/1/12/The_Silmarillion_2025_large.jpg/81px-The_Silmarillion_2025_large.jpg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/12/The_Silmarillion_2025_large.jpg/123px-The_Silmarillion_2025_large.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/12/The_Silmarillion_2025_large.jpg/163px-The_Silmarillion_2025_large.jpg 2x" data-file-width="979" data-file-height="1500"/></a></span></div>
 			<div class="gallerytext">
-<p>2025 bìa mềm in khổ lớn
+<p>2025 paperback large print
 </p>
 			</div>
 		</li>
@@ -330,14 +330,14 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Silmarillion_Read_by_Martin_Shaw.jpg.md" title="2002 audiobook"><img alt="2002 audiobook" src="https://tolkiengateway.net/w/images/thumb/7/71/The_Silmarillion_Read_by_Martin_Shaw.jpg/125px-The_Silmarillion_Read_by_Martin_Shaw.jpg" decoding="async" loading="lazy" width="125" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/71/The_Silmarillion_Read_by_Martin_Shaw.jpg/188px-The_Silmarillion_Read_by_Martin_Shaw.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/71/The_Silmarillion_Read_by_Martin_Shaw.jpg/250px-The_Silmarillion_Read_by_Martin_Shaw.jpg 2x" data-file-width="1200" data-file-height="1200"/></a></span></div>
 			<div class="gallerytext">
-<p>sách nói năm 2002
+<p>2002 audiobook
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Silmarillion_Read_by_Andy_Serkis.jpg.md" title="2023 audiobook"><img alt="2023 audiobook" src="https://tolkiengateway.net/w/images/thumb/c/cc/The_Silmarillion_Read_by_Andy_Serkis.jpg/125px-The_Silmarillion_Read_by_Andy_Serkis.jpg" decoding="async" loading="lazy" width="125" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cc/The_Silmarillion_Read_by_Andy_Serkis.jpg/188px-The_Silmarillion_Read_by_Andy_Serkis.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/cc/The_Silmarillion_Read_by_Andy_Serkis.jpg/250px-The_Silmarillion_Read_by_Andy_Serkis.jpg 2x" data-file-width="1200" data-file-height="1200"/></a></span></div>
 			<div class="gallerytext">
-<p>sách nói 2023
+<p>2023 audiobook
 </p>
 			</div>
 		</li>

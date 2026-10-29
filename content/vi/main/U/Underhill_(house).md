@@ -17,7 +17,7 @@ images:
   - "Lord_of_the_Rings_Online_-_Tom_Bombadil's_House.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Underhill</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Underhill_(disambiguation).md" title="Underhill (disambiguation)">Underhill (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Underhill</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Underhill_(disambiguation).md" title="Underhill (disambiguation)">Underhill (disambiguation)</a></b>.</div></div>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_Tom_Bombadil&#39;s_Cottage.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/75/Alan_Lee_-_Tom_Bombadil%27s_Cottage.jpg/200px-Alan_Lee_-_Tom_Bombadil%27s_Cottage.jpg" decoding="async" loading="lazy" width="200" height="321" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/75/Alan_Lee_-_Tom_Bombadil%27s_Cottage.jpg/300px-Alan_Lee_-_Tom_Bombadil%27s_Cottage.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/75/Alan_Lee_-_Tom_Bombadil%27s_Cottage.jpg/400px-Alan_Lee_-_Tom_Bombadil%27s_Cottage.jpg 2x" data-file-width="996" data-file-height="1600"/></a><figcaption><i>Tom Bombadil&#39;s Cottage</i> by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 
@@ -43,7 +43,7 @@ Ngôi nhà của Tom Bombadil không có tên trong *The Lord of the Rings*. Tê
 
 - <b>2007: <i><a class="mw-redirect" href="../L/Lord_of_the_Rings_Online.md" title="Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
 
-<dl><dd>Nhà của Tom Bombadil là một ngôi nhà hình tròn nằm khuất ở phía đông của Khu Rừng Cổ.</dd></dl>
+<dl><dd>The House of Tom Bombadil is a round house hidden in the east of the Old Forest.</dd></dl>
 
 <span></span>
 

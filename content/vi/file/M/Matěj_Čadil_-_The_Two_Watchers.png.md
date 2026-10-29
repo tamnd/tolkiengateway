@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Chi tiết tác phẩm [Ánh sáng hy vọng](Matěj_Čadil_-_The_Light_of_Hope.jpg.md) của [Matěj Čadil](../../main/M/Matěj_Čadil.md), mô tả [Hai Kẻ Canh Gác](../../main/T/Two_Watchers.md)
+Chi tiết tác phẩm [Ánh sáng hy vọng](Matěj_Čadil_-_The_Light_of_Hope.jpg.md) của [Matěj Čadil](../../main/M/Matěj_Čadil.md), mô tả [Hai người canh gác](../../main/T/Two_Watchers.md)
 
 ## Giấy phép {#Licensing}
 

@@ -33,7 +33,7 @@ infobox:
     value: "Male"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../N/Noldor.md" title="Noldor">Noldo</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Enerdhil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Chức vụ</th><td class="tg-infobox-data">Jewel-smith</td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../G/Gondolin.md" title="Gondolin">Gondolin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trực thuộc</th><td class="tg-infobox-data"><a href="../N/Noldor.md" title="Noldor">Noldor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nổi tiếng vì</th><td class="tg-infobox-data">Làm bản gốc <a href="Elfstone.md" title="Elfstone">Elessar</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nam</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../N/Noldor.md" title="Noldor">Noldo</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Enerdhil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">Jewel-smith</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../G/Gondolin.md" title="Gondolin">Gondolin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../N/Noldor.md" title="Noldor">Noldor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Notable for</th><td class="tg-infobox-data">Making of the original <a href="Elfstone.md" title="Elfstone">Elessar</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
 **Enerdhil** là một thợ kim hoàn [Noldorin](../N/Noldor.md) huyền thoại của [Gondolin](../G/Gondolin.md), người chịu trách nhiệm tạo ra [Elessar](Elfstone.md) nguyên bản.
 
@@ -53,7 +53,7 @@ Tuy nhiên, theo một truyền thuyết khác, Elessar ban đầu vẫn ở bê
 
 Trong ghi chú cuối cùng, Enerdhil đã được thay thế hoàn toàn, với cả Elessar thứ nhất và thứ hai đều được thực hiện bởi Celebrimbor.<sup id="cite_ref-Elessar_1-3" class="reference"><a href="#cite_note-Elessar-1">[1]</a></sup>
 
-Việc có thể có hai Elessars khiến Enerdhil phù hợp với thần thoại, vì cái đầu tiên có thể do ông tạo ra và [cái thứ hai](Elfstone.md) bởi Celebrimbor, tuy nhiên ngay cả điều này cũng chưa được giải quyết rõ ràng.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Việc có thể có hai Elessars khiến Enerdhil phù hợp với thần thoại, vì cái đầu tiên có thể do ông ta tạo ra và [cái thứ hai](Elfstone.md) bởi Celebrimbor, tuy nhiên ngay cả điều này cũng chưa được giải quyết rõ ràng.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 ## Xem thêm {#See_also}
 

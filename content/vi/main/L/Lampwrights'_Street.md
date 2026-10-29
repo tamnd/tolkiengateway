@@ -22,7 +22,7 @@ hidden_categories:
 
 <b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
-<dl><dd>Một trong những con phố trong bộ Minas Tirith được đặt tên là Phố Thợ đèn. Nó có hình một chiếc đèn trong khung, và theo <a href="../G/Grant_Major.md" title="Grant Major">Grant Major</a> thì nó là nơi ở của những người thợ kim loại của thành phố.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
+<dl><dd>One of the streets in the Minas Tirith set was christened the Lampwrights&#39; Street. It had a sign of a lamp in framework, and according to <a href="../G/Grant_Major.md" title="Grant Major">Grant Major</a> it housed the metalworkers of the city.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 
 <span></span>
 

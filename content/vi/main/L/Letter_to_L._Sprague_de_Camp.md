@@ -22,7 +22,7 @@ Vào [30 tháng 8](../_/30_August.md) [1964](../_/1964.md), [J.R.R. Tolkien](../
 ## Trích {#Excerpt}
 
 <blockquote class="tg-quote noexcerpt">
-<p>tất cả các mục có vẻ kém về mặt danh pháp phụ (nhưng đối với tôi không phải là không quan trọng). Tốt nhất khi có tính sáng tạo, kém tốt nhất khi mang tính văn học hoặc cổ xưa
+<p>all the items seem poor in the subsidiary (but to me not unimportant) matters of nomenclature. Best when inventive, least good when literary or archaic
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup></cite></p>
 </blockquote>

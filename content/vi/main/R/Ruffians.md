@@ -27,7 +27,7 @@ images:
 
 ## Lịch sử {#History}
 
-Vào cuối thu hoặc đầu đông năm [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), [rất nhiều](../S/Southerners.md) Con Người, phần lớn là bọn lưu manh, đã đến Shire bằng những chiếc xe ngựa lớn từ phía Nam. Những kẻ lưu manh trong số họ đang làm việc cho [Saruman](../S/Saruman.md), và chính vì ông và sở thích thu mua [cỏ ống](../P/Pipe-weed.md) cho mình mà họ đã đi về phía bắc. Một số người rời đi để chở cần sa và các hàng hóa khác từ Shire trở về phía nam đến [Isengard](../I/Isengard.md), trong khi những người khác ở lại và giúp [Lotho](../L/Lotho_Sackville-Baggins.md) tiếp quản Shire. Chẳng mấy chốc, nhiều Con Người hơn đã xuất hiện. Họ chặt [cây,](../T/Trees.md) xây nhà kho và nhà cho mình trên khắp Shire và ra lệnh cho người Hobbit đi khắp nơi, lấy những gì họ muốn và đàn áp mọi bất đồng chính kiến.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào cuối thu hoặc đầu đông năm [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), [rất nhiều](../S/Southerners.md) Con Người, phần lớn là bọn lưu manh, đã đến Shire bằng những chiếc xe ngựa lớn từ phía Nam. Những kẻ lưu manh trong số họ đang làm việc cho [Saruman](../S/Saruman.md), và chính vì ông ta và sở thích thu mua [cỏ ống](../P/Pipe-weed.md) cho mình mà họ đã đi về phía bắc. Một số người rời đi để chở cần sa và các hàng hóa khác từ Shire trở về phía nam đến [Isengard](../I/Isengard.md), trong khi những người khác ở lại và giúp [Lotho](../L/Lotho_Sackville-Baggins.md) tiếp quản Shire. Chẳng mấy chốc, nhiều Con Người hơn đã xuất hiện. Họ chặt [cây,](../T/Trees.md) xây nhà kho và nhà cho mình trên khắp Shire và ra lệnh cho người Hobbit đi khắp nơi, lấy những gì họ muốn và đàn áp mọi bất đồng chính kiến.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Cùng lúc đó, một số Con Người đã đến [Bree](../B/Bree.md) lên [Greenway](../G/Greenway.md) từ phía nam. Trong khi một số người trong số họ là người tị nạn, nhiều người trong số họ là người xấu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trước khi kết thúc [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), [Bree-landers](../B/Bree-landers.md) đã trục xuất những người mới đến khỏi Bree, nhưng vào đầu [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), sau một trận tuyết rơi dày đặc, những Con Người này đã tấn công Bree với sự giúp đỡ của [Harry Goatleaf](../H/Harry_Goatleaf.md) và [Bill Ferny](../B/Bill_Ferny.md), ai có thể đã để họ vào. Kết quả là [bộ](../S/Set-to_in_Bree.md), năm người đổ bộ Bree đã bị giết, nhưng những kẻ côn đồ cuối cùng đã bị đánh bại.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Một số người trong số họ rút lui vào khu rừng bên ngoài [Archet](../A/Archet.md), nơi họ sống như những tên cướp,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> trong khi một số khác, như Bill Ferny, tham gia cùng Con Người của Sharkey trong Shire.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
@@ -43,15 +43,15 @@ Một trong những thủ lĩnh của bọn côn đồ đã bị giết<sup id="
 
 <b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
-<dl><dd><a href="../J/John_Bott.md" title="John Bott">John Bott</a> miêu tả một trong những Ruffians Con Người của Tù trưởng.</dd></dl>
+<dl><dd><a href="../J/John_Bott.md" title="John Bott">John Bott</a> portrays one of the Ruffians of the Chief&#39;s Men.</dd></dl>
 
 <b>2003: <a class="mw-redirect" href="../P/Pán_prsteňov_(2001-2003_Slovak_radio_series).md" title="Pán prsteňov (2001-2003 Slovak radio series)"><i>Pán prsteňov</i> (Loạt đài tiếng Slovak 2001-2003)</a>:</b>
 
-<dl><dd>Giọng của hai Ruffians Con Người của Tộc trưởng được cung cấp bởi Martin Vitek và Ivan Laca.</dd></dl>
+<dl><dd>The voices of two Ruffians of the Chief&#39;s Men are provided by Martin Vitek and Ivan Laca.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Ruffians của Con Người của Sharkey có thể được tìm thấy ở các khu vực trên khắp trung tâm <a href="../E/Eriador.md" title="Eriador">Eriador</a>, bao gồm <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a> và <a class="mw-redirect" href="../S/Shire.md" title="Shire">Shire</a>. Chúng được phân loại là "Brigands", một loại kẻ thù phổ biến được tìm thấy trên Trung Địa.</dd></dl>
+<dl><dd>The Ruffians of Sharkey&#39;s Men can be found in regions throughout central <a href="../E/Eriador.md" title="Eriador">Eriador</a>, including <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a> and the <a class="mw-redirect" href="../S/Shire.md" title="Shire">Shire</a>. They are classified as &#34;Brigands&#34;, a common type of enemy found across Middle-earth.</dd></dl>
 
 <span></span>
 

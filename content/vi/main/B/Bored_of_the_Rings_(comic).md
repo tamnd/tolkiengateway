@@ -29,9 +29,9 @@ infobox:
     value: "7"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Cái tên <b>Chán những chiếc nhẫn</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Bored_of_the_Rings_(disambiguation).md" title="Bored of the Rings (disambiguation)">Chán những chiếc nhẫn (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Bored of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Bored_of_the_Rings_(disambiguation).md" title="Bored of the Rings (disambiguation)">Bored of the Rings (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mad428.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6d/Mad428.png/320px-Mad428.png" decoding="async" loading="lazy" width="320" height="416" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/6d/Mad428.png 1.5x" data-file-width="422" data-file-height="549"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Chán ngấy những chiếc Nhẫn</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Desmond_Devlin&amp;action=edit&amp;redlink=1" title="Desmond Devlin (page does not exist)">Desmond Devlin</a> (nhà văn) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hermann_Mejia&amp;action=edit&amp;redlink=1" title="Hermann Mejia (page does not exist)">Hermann Mejia</a> (nghệ thuật)</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Mad Magazine</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/2002.md" title="2002">2002</a>-<a href="../_/2004.md" title="2004">2004</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa mềm</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">7</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mad428.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6d/Mad428.png/320px-Mad428.png" decoding="async" loading="lazy" width="320" height="416" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/6d/Mad428.png 1.5x" data-file-width="422" data-file-height="549"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Bored of the Rings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Desmond_Devlin&amp;action=edit&amp;redlink=1" title="Desmond Devlin (page does not exist)">Desmond Devlin</a> (writer) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hermann_Mejia&amp;action=edit&amp;redlink=1" title="Hermann Mejia (page does not exist)">Hermann Mejia</a> (art)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Mad Magazine</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2002.md" title="2002">2002</a>-<a href="../_/2004.md" title="2004">2004</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">7</td></tr></tbody></table>
 
 Sau khi phát hành [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>), <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mad_(magazine)" title="wikipedia:Mad (magazine)">Mad</a></i> đã công bố nội dung giả mạo chúng với tựa đề <i><b>Bored of the Rings</b></i>.
 
@@ -50,7 +50,7 @@ Tên vị trí và tên đã thay đổi, theo thứ tự bảng chữ cái.
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
 <th><i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i></th>
-<th><i>Chán ngấy những chiếc Nhẫn</i>
+<th><i>Bored of the Rings</i>
 </th></tr>
 <tr>
 <td>Aragorn, Strider, Longshanks, Elfstone, Telecontar</td>
@@ -93,7 +93,7 @@ Tên vị trí và tên đã thay đổi, theo thứ tự bảng chữ cái.
 <td>Hans Blix
 </td></tr>
 <tr>
-<td>Hobbit</td>
+<td>Hobbits</td>
 <td>Slobbits
 </td></tr>
 <tr>

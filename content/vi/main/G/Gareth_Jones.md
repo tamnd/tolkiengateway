@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Jones, Gareth"
 ---
 
-**Gareth Jones** ([6 tháng 6](../_/6_June.md), [1925](../_/1925.md) - [30 tháng 11](../_/30_November.md), [1958](../_/1958.md)) là một diễn viên người Anh, chủ yếu được biết đến với tác phẩm phát thanh. Mặc dù huyền thoại phổ biến kể rằng ông đã chết trong phòng ghi hình trong cảnh chết thực sự của nhân vật, nhưng ông thực sự đã bị ngừng tim khi trang điểm giữa các cảnh quay.
+**Gareth Jones** ([6 tháng 6](../_/6_June.md), [1925](../_/1925.md) - [30 tháng 11](../_/30_November.md), [1958](../_/1958.md)) là một diễn viên người Anh, chủ yếu được biết đến với tác phẩm phát thanh. Mặc dù huyền thoại phổ biến kể rằng ông ta đã chết trong phòng ghi hình trong cảnh chết thực sự của nhân vật, nhưng ông ta thực sự đã bị ngừng tim khi trang điểm giữa các cảnh quay.
 
 ## Vai trò {#Roles}
 

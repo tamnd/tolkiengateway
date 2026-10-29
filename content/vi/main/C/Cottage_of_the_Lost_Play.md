@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cottage of Lost Play"
 ---
 
-Chuyển hướng tới [Ngôi nhà Trò chơi Thất lạc](Cottage_of_Lost_Play.md).
+Chuyển hướng tới [Ngôi nhà của Lost Play](Cottage_of_Lost_Play.md).

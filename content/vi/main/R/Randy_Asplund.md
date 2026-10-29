@@ -24,9 +24,9 @@ infobox:
     value: "Artist"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Randy Craig Asplund</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nghệ sĩ</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Randy Craig Asplund</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
-**Randy Asplund**, còn được gọi là **Randy Asplund-Faith** trước khi ly hôn, là một nghệ sĩ người Mỹ được biết đến với tác phẩm [Magic: The Gathering](../M/Magic%253A_The_Gathering.md). Vào những năm 1990, ông được [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền tạo tác phẩm nghệ thuật thiệp cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup> Cuối cùng, ông đã tạo ra 13 hình minh họa, trong đó có 10 bức đã được sử dụng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Randy Asplund**, còn được gọi là **Randy Asplund-Faith** trước khi ly hôn, là một nghệ sĩ người Mỹ được biết đến với tác phẩm [Magic: The Gathering](../M/Magic%253A_The_Gathering.md). Vào những năm 1990, ông được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền tạo tác phẩm nghệ thuật thiệp cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup> Cuối cùng, ông đã tạo ra 13 hình minh họa, trong đó có 10 bức đã được sử dụng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Kể từ [2003](../_/2003.md), Asplund đã chuyển trọng tâm của mình sang lĩnh vực chiếu sáng thời Trung cổ.<sup id="cite_ref-CCGA_1-1" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup>
 

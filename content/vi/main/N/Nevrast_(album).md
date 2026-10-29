@@ -18,7 +18,7 @@ infobox:
     value: "39:00"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Nevrast</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Album by <a href="../A/Ainulindale_(band).md" title="Ainulindale (band)"> Ainulindale</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/2014.md" title="2014">2014</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">tân dân gian/môi trường xung quanh đen tối</td></tr><tr><th scope="row" class="tg-infobox-label">Chiều dài</th><td class="tg-infobox-data">39:00</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Nevrast</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Album by <a href="../A/Ainulindale_(band).md" title="Ainulindale (band)"> Ainulindale</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2014.md" title="2014">2014</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">dark neo-folk/ambient</td></tr><tr><th scope="row" class="tg-infobox-label">Length</th><td class="tg-infobox-data">39:00</td></tr></tbody></table>
 
 <i><b>Nevrast</b></i> là album thứ hai của ban nhạc folk metal Pháp *[Ainulindale](<../A/Ainulindale_(band).md>)*, phát hành năm 2014.
 
@@ -28,9 +28,9 @@ infobox:
 <tbody><tr>
 <th style="background:var(--tg-color-surface-5);">Track Number
 </th>
-<th style="background:var(--tg-color-surface-5);">Tên
+<th style="background:var(--tg-color-surface-5);">Name
 </th>
-<th style="background:var(--tg-color-surface-5);">Chiều dài
+<th style="background:var(--tg-color-surface-5);">Length
 </th></tr>
 <tr>
 <td>1

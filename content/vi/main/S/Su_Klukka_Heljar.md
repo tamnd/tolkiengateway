@@ -20,12 +20,12 @@ categories:
 <p><b>Su Klukka Heljar</b><br/>
 <br/>
 Su klukka heljar hryngur-ryngur-ryng<br/>
-       Bạn sẽ cảm thấy thoải mái hơn;<br/>
+       Fyr þjer en ekki mjer;<br/>
 Fyr mj er engillinn syngur-ryngur-ryng,<br/>
        Hann heitir goðu mjer.<br/>
-O Dauði, hvar þinn Stingur-ringur-ring,<br/>
-       Ôi ông Gröf, có phải vậy không?<br/>
+O Dauði, hvar þinn stingur-ringur-ring,<br/>
+       O Gröf, er sigur hjer?<br/>
 Su klukka heljar hryngur-ryngur-fyng —<br/>
-       Bạn sẽ cảm thấy mệt mỏi.
+       Fyr þjer en ekki mjer.
 </p>
 </div>

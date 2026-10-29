@@ -24,12 +24,12 @@ Vào ngày [19 tháng Chín](../_/19_September.md) [1962](../_/1962.md), [J.R.R.
 ## Trích đoạn {#Excerpts}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Tôi thích <i>hobitos</i> hơn vì nó giúp mắt nhìn có liên hệ nhiều hơn với từ gốc. Tôi không bận tâm nhiều đến việc <i>h</i> bị 'câm'; Tôi chắc chắn rằng nhiều <a href="../H/Hobbits.md" title="Hobbits">hobbit</a> bỏ rơi <i>h</i>như hầu hết những người dân nông thôn ở Anh.
+<p>I prefer <i>hobitos</i> since it preserves to the eye more relationship to the original word. I do not much mind the <i>h</i> being &#39;mute&#39;; I am sure many <a href="../H/Hobbits.md" title="Hobbits">hobbits</a> drop their <i>h</i>s like most rural folk in England.
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-RG_2-1" class="reference"><a href="#cite_note-RG-2">[2]</a></sup></cite></p>
 </blockquote>
 
-Theo lời của [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md), Tolkien cũng viết rằng ông "đã đưa sai tài liệu tham khảo trong *The Hobbit* vì ông đã sử dụng phiên bản cũ hơn".<sup id="cite_ref-G_1-3" class="reference"><a href="#cite_note-G-1">[1]</a></sup>
+Theo lời của [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md), Tolkien cũng viết rằng ông ta "đã đưa sai tài liệu tham khảo trong *The Hobbit* vì ông ta đã sử dụng phiên bản cũ hơn".<sup id="cite_ref-G_1-3" class="reference"><a href="#cite_note-G-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -16,7 +16,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Hai tòa tháp</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Two_Towers_(disambiguation).md" title="Two Towers (disambiguation)">Hai tòa tháp (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Two Towers</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Two_Towers_(disambiguation).md" title="Two Towers (disambiguation)">Two Towers (disambiguation)</a></b>.</div></div>
 
 <i><b>The Two Towers: The Purist Edit</b></i> là [2003](../_/2003.md) bản chỉnh sửa dành cho người hâm mộ của bộ phim *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. Khi bộ phim gốc được ra rạp, một số người hâm mộ cuồng nhiệt của cuốn tiểu thuyết *Lord of the Rings* đã chỉ trích hoặc thậm chí không thích những thay đổi trong câu chuyện của Tolkien, thúc đẩy ai đó tạo ra một "bản chỉnh sửa thuần túy".
 
@@ -42,7 +42,7 @@ Những thay đổi lớn (trong số khoảng 30):
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>phim của người hâm mộ liên quan đến <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>-related fan films</b>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2003</b>
@@ -57,7 +57,7 @@ Những thay đổi lớn (trong số khoảng 30):
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2005</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../A/Almost_There_And_Back_Again.md" title="Almost There And Back Again">Gần đến nơi rồi lại trở về</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../A/Almost_There_And_Back_Again.md" title="Almost There And Back Again">Almost There And Back Again</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2007</b>
@@ -72,7 +72,7 @@ Những thay đổi lớn (trong số khoảng 30):
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2011</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Đôi cánh trên Arda: Kỷ Đệ Nhất</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Wings Over Arda: The First Age</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2013</b>
@@ -82,7 +82,7 @@ Những thay đổi lớn (trong số khoảng 30):
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2014</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Con đường của Tolkien</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Tolkien&#39;s Road</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2015</b>
@@ -97,7 +97,7 @@ Những thay đổi lớn (trong số khoảng 30):
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2017</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">Cuộc vây hãm Angband</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">The Siege of Angband</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2018</b>
@@ -112,12 +112,12 @@ Những thay đổi lớn (trong số khoảng 30):
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2020</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../H/Horn_of_Gondor_(fan_film).md" title="Horn of Gondor (fan film)">Tù và Gondor</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../H/Horn_of_Gondor_(fan_film).md" title="Horn of Gondor (fan film)">Horn of Gondor</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2022</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Các trận chiến tại khúc cạn Isen</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Battles of the Fords of Isen</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2024</b>
@@ -127,10 +127,10 @@ Những thay đổi lớn (trong số khoảng 30):
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2025</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="The_Beacons.md" title="The Beacons">Các đài hiệu</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="The_Beacons.md" title="The Beacons">The Beacons</a></i>
 </td></tr>
 <tr>
-<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Không rõ</b>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Unknown</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="The_Legend_of_Gurthang.md" title="The Legend of Gurthang">Truyền thuyết về Gurthang</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="The_Legend_of_Gurthang.md" title="The Legend of Gurthang">The Legend of Gurthang</a></i>
 </td></tr></tbody></table>

@@ -20,9 +20,9 @@ images:
 
 ## Luật cũ {#The_old_law}
 
-Luật cũ là tục lệ được kế thừa chứ không phải là luật thành văn. Phong tục là Vua sẽ giao lại Vương trượng cho con trai cả của mình khi ông quá già để cai trị. Nếu Vua không có con trai, ông sẽ truyền lại Vương trượng cho người họ hàng nam gần nhất của mình *of male descent* từ [Elros Tar-Minyatur](../E/Elros_Tar-Minyatur.md).<sup id="cite_ref-Further_1-0" class="reference"><a href="#cite_note-Further-1">[1]</a></sup>
+Luật cũ là tục lệ được kế thừa chứ không phải là luật thành văn. Phong tục là Vua sẽ giao lại Vương trượng cho con trai cả của mình khi ông ta quá già để cai trị. Nếu Vua không có con trai, ông ta sẽ truyền lại Vương trượng cho người họ hàng nam gần nhất của mình *of male descent* từ [Elros Tar-Minyatur](../E/Elros_Tar-Minyatur.md).<sup id="cite_ref-Further_1-0" class="reference"><a href="#cite_note-Further-1">[1]</a></sup>
 
-Phong tục này tương tự như phong tục của [Những Kẻ Lưu Đày Noldorin](../N/Noldor.md) của Trung Địa, những người mà [Vương quyền tối cao](../H/High_King_of_the_Noldor.md) được kế thừa theo cách tương tự và là những người mà tổ tiên của [Dúnedain](../D/Dúnedain.md) có mối quan hệ thân thiết.
+Phong tục này tương tự như phong tục của [Noldorin Những người lưu vong](../N/Noldor.md) của Trung Địa, những người mà [Vương quyền tối cao](../H/High_King_of_the_Noldor.md) được kế thừa theo cách tương tự và là những người mà tổ tiên của [Dúnedain](../D/Dúnedain.md) có mối quan hệ thân thiết.
 
 Theo luật cũ, theo thông lệ, Vua sẽ tuyên bố người kế vị là "Người thừa kế củaVua" khi người sau tròn một trăm tuổi.<sup id="cite_ref-wife_2-0" class="reference"><a href="#cite_note-wife-2">[2]</a></sup>
 
@@ -38,9 +38,9 @@ Tar-Aldarion, vị vua thứ sáu, có [mối quan hệ rắc rối](../A/Aldari
 - Nếu Vua không có con trai thì con gái lớn của ông sẽ được trao quyền thừa kế nhưng có quyền từ chối.
 - Nếu con gái lớn của Vua từ chối, người họ hàng nam gần nhất của Vua— dù là nam hay nữ — sẽ trở thành Người thừa kế của Vua.
 - Nếu con gái lớn của Vua trở thành Người thừa kế của Vua, bà sẽ phải từ chức nếu không kết hôn quá một thời gian nhất định.
-- Bất kỳ Người thừa kế tiềm năng nào của Vua kết hôn ngoài Dòng dõi Elros sẽ trở thành không đủ điều kiện cho Quyền thừa kế. ("Người ta nói rằng sắc lệnh này nảy sinh trực tiếp từ cuộc hôn nhân thảm khốc của Aldarion."<sup id="cite_ref-Further_1-2" class="reference"><a href="#cite_note-Further-1">[1]</a></sup>)
+- Bất kỳ Người thừa kế tiềm năng nào của Vua kết hôn ngoài Dòng Elros sẽ trở thành không đủ điều kiện cho Quyền thừa kế. ("Người ta nói rằng sắc lệnh này nảy sinh trực tiếp từ cuộc hôn nhân thảm khốc của Aldarion."<sup id="cite_ref-Further_1-2" class="reference"><a href="#cite_note-Further-1">[1]</a></sup>)
 
-Con trai không thể từ chối Quyền thừa kế, nhưng ông có thể từ chức ngay lập tức Vương trượng khi nhận được nó, [Tar-Vardamir](../T/Tar-Vardamir.md), con trai của [Elros Tar-Minyatur](../E/Elros_Tar-Minyatur.md) và là vị vua thứ hai trên danh nghĩa cũng vậy.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Con trai không thể từ chối Quyền thừa kế, nhưng ông ta có thể từ chức ngay lập tức Vương trượng khi nhận được nó, [Tar-Vardamir](../T/Tar-Vardamir.md), con trai của [Elros Tar-Minyatur](../E/Elros_Tar-Minyatur.md) và là vị vua thứ hai trên danh nghĩa cũng vậy.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Trong nhiều năm, Ancalimë từ chối từ chối quyền thừa kế hoặc kết hôn, trước sự kinh ngạc của cha cô. Mặc dù trình tự các sự kiện không rõ ràng, Ancalimë cuối cùng đã kết hôn với [Hallacar](../H/Hallacar.md) và Tar-Aldarion đã hủy bỏ các quy định của luật mới rằng Người thừa kế của Vua là nữ phải kết hôn và rằng bất kỳ Người thừa kế nào của Vua đều phải kết hôn trong Dòng dõi Elros.<sup id="cite_ref-Further_1-3" class="reference"><a href="#cite_note-Further-1">[1]</a></sup> Tuy nhiên, ý tưởng rằng Người thừa kế của Vua phải kết hôn với Dòng dõi Elros vẫn tồn tại và đã trở thành một "phong tục kiêu hãnh" trong hoàng gia và "một dấu hiệu cho thấy sự trưởng thành của Bóng Tối."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
@@ -59,12 +59,12 @@ Sau [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md), người N�
 Trong [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md), Vua [Ondoher](../O/Ondoher.md) trong số Gondor đã thiệt mạng cùng các con trai và chỉ còn lại con gái [Fíriel](../F/Fíriel.md) của ông sống sót. Chồng cô [Arvedui](../A/Arvedui.md), người thừa kế ngai vàng của [Arthedain](../A/Arthedain.md), đã viết hai lá thư cho Gondor để yêu cầu giành lấy vương miện của nó. Một phần khiếu nại của ông dựa trên luật Númenórean:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Vào Númenor xưa, vương trượng được truyền cho con cả của nhà vua, dù là nam hay nữ. Đúng là luật pháp đã không được tuân thủ ở những vùng đất lưu vong từng gặp rắc rối bởi chiến tranh; nhưng đó là luật lệ của dân tộc chúng tôi mà bây giờ chúng tôi đề cập đến, vì các con trai của Ondoher đều chết không con.
+<p>In Númenor of old the sceptre descended to the eldest child of the king, whether man or woman. It is true that the law has not been observed in the lands of exile ever troubled by war; but such was the law of our people, to which we now refer, seeing that the sons of Ondoher died childless.
 </p>
-<p class="tg-quote-footer"><cite>từ lá thư thứ hai của Arvedui gửi đến Hội đồng Gondor</cite></p>
+<p class="tg-quote-footer"><cite>from Arvedui&#39;s second letter to the Council of Gondor</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Gondor không trả lời lá thư thứ hai của Arvedui. Với việc Người quản lý [Pelendur](../P/Pelendur.md) và Hội đồng Gondor đã từ chối yêu cầu của Arvedui, [Eärnil II](../E/Eärnil_II.md) đã đưa ra yêu cầu của mình. Eärnil là Đội trưởng Quân đoàn miền Nam của Gondor và vừa giành được chiến thắng vang dội trước quân [Wainriders](../W/Wainriders.md). Hơn nữa, ông còn là hậu duệ thế hệ thứ tư của Vua [Telumehtar Umbardacil](../T/Telumehtar_Umbardacil.md) thuộc dòng dõi nam. Vương miện đã được trao cho ông với sự chấp thuận của tất cả Dúnedain Gondor. Bản thân Eärnil dường như coi việc gia nhập của mình là hoàn toàn hợp pháp, vì ông đã gửi lời tới Arvedui rằng ông đã "nhận được vương miện của Gondor, theo luật pháp và nhu cầu của vương quốc miền Nam."<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Gondor không trả lời lá thư thứ hai của Arvedui. Với việc Người quản lý [Pelendur](../P/Pelendur.md) và Hội đồng Gondor đã từ chối yêu cầu của Arvedui, [Eärnil II](../E/Eärnil_II.md) đã đưa ra yêu cầu của mình. Eärnil là Đội trưởng Quân đoàn miền Nam của Gondor và vừa giành được chiến thắng vang dội trước quân [Wainriders](../W/Wainriders.md). Hơn nữa, ông ta còn là hậu duệ thế hệ thứ tư của Vua [Telumehtar Umbardacil](../T/Telumehtar_Umbardacil.md) thuộc dòng dõi nam. Vương miện đã được trao cho ông ta với sự chấp thuận của tất cả Dúnedain Gondor. Bản thân Eärnil dường như coi việc gia nhập của mình là hoàn toàn hợp pháp, vì ông ta đã gửi lời tới Arvedui rằng ông ta đã "nhận được vương miện của Gondor, theo luật pháp và nhu cầu của vương quốc miền Nam."<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 Vương quyền của cả Gondor và Arnor cuối cùng được truyền cho hậu duệ của Arvedui và Fíriel, Vua [Elessar](../A/Aragorn.md).
 

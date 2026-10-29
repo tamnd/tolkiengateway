@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/18._marraskuuta"
 ---
 
-<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=18_November/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Thêm sự kiện được tuyển chọn</a></div><div class="tg-section-divider"><span><a href="../N/November.md" title="November">November</a></span></div>
+<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=18_November/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Add curated event</a></div><div class="tg-section-divider"><span><a href="../N/November.md" title="November">November</a></span></div>
 <div class="template-month__grid">
 <div class="template-month__day"><a href="1_November.md" title="1 November">1</a></div>
 <div class="template-month__day"><a href="2_November.md" title="2 November">2</a></div>
@@ -55,14 +55,14 @@ langlinks:
 <div class="template-month__day"><a href="28_November.md" title="28 November">28</a></div>
 <div class="template-month__day"><a href="29_November.md" title="29 November">29</a></div>
 <div class="template-month__day"><a href="30_November.md" title="30 November">30</a></div>
-</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Tháng 1</a></div><div class="tg-button"><a href="../F/February.md" title="February">Tháng 2</a></div><div class="tg-button"><a href="../M/March.md" title="March">Tháng 3</a></div><div class="tg-button"><a href="../A/April.md" title="April">Tháng 4</a></div><div class="tg-button"><a href="../M/May.md" title="May">Tháng 5</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Tháng 7</a></div><div class="tg-button"><a href="../A/August.md" title="August">Tháng 8</a></div><div class="tg-button"><a href="../S/September.md" title="September">Tháng 9</a></div><div class="tg-button"><a href="../O/October.md" title="October">Tháng 10</a></div><div class="tg-button"><a href="../N/November.md" title="November">Tháng 11</a></div><div class="tg-button"><a href="../D/December.md" title="December">Tháng 12</a></div></div>
+</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
 Sự kiện xảy ra vào ngày 18 tháng 11
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1916](1916.md)** - [Trận Somme](../B/Battle_of_the_Somme.md) kết thúc. Không bên nào thắng. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) chính thức bị Tiểu đoàn của mình xử tử như một nạn nhân.
+- **[1916](1916.md)** - [Trận chiến Somme](../B/Battle_of_the_Somme.md) kết thúc. Không bên nào thắng. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) chính thức bị Tiểu đoàn của mình xử tử như một nạn nhân.
 - **[1941](1941.md)** - Diễn viên [David Hemmings](../D/David_Hemmings.md) ra đời.
 - **[1976](1976.md)** - Diễn viên lồng tiếng [Dominic Armato](../D/Dominic_Armato.md) ra đời.
 - **[1980](1980.md)** - *[Unfinished Tales](../U/Unfinished_Tales.md)* được xuất bản tại Hoa Kỳ.
@@ -73,6 +73,6 @@ Sự kiện xảy ra vào ngày 18 tháng 11
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md) và [Voronwë](../V/Voronwë.md) đi ngược lên [Sông Cạn](../D/Dry_River.md) và tiếp cận [Gondolin](../G/Gondolin.md).
+    - [Tuor](../T/Tuor.md) và [Voronwë](../V/Voronwë.md) đi ngược lên [Sông khô](../D/Dry_River.md) và tiếp cận [Gondolin](../G/Gondolin.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

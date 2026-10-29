@@ -17,7 +17,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Christopher_Tolkien_-_Map_of_Beleriand.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Christopher_Tolkien_-_Map_of_Beleriand.jpeg/250px-Christopher_Tolkien_-_Map_of_Beleriand.jpeg" decoding="async" loading="lazy" width="250" height="187" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Christopher_Tolkien_-_Map_of_Beleriand.jpeg/375px-Christopher_Tolkien_-_Map_of_Beleriand.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Christopher_Tolkien_-_Map_of_Beleriand.jpeg/500px-Christopher_Tolkien_-_Map_of_Beleriand.jpeg 2x" data-file-width="2836" data-file-height="2121"/></a><figcaption>Map of Beleriand</figcaption></figure>
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_maps_of_the_Silmarillion_-_Airyyn.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f9/The_maps_of_the_Silmarillion_-_Airyyn.png/250px-The_maps_of_the_Silmarillion_-_Airyyn.png" decoding="async" loading="lazy" width="250" height="298" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f9/The_maps_of_the_Silmarillion_-_Airyyn.png/375px-The_maps_of_the_Silmarillion_-_Airyyn.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f9/The_maps_of_the_Silmarillion_-_Airyyn.png/500px-The_maps_of_the_Silmarillion_-_Airyyn.png 2x" data-file-width="2544" data-file-height="3033"/></a><figcaption>Đồ họa thông tin hiển thị toàn bộ lịch sử xuất bản của <i>Silmarillion</i> bản đồ (bởi <a href="https://tolkiengateway.net/wiki/User:Airyn" title="User:Airyn">Airyn</a>).</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_maps_of_the_Silmarillion_-_Airyyn.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f9/The_maps_of_the_Silmarillion_-_Airyyn.png/250px-The_maps_of_the_Silmarillion_-_Airyyn.png" decoding="async" loading="lazy" width="250" height="298" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f9/The_maps_of_the_Silmarillion_-_Airyyn.png/375px-The_maps_of_the_Silmarillion_-_Airyyn.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f9/The_maps_of_the_Silmarillion_-_Airyyn.png/500px-The_maps_of_the_Silmarillion_-_Airyyn.png 2x" data-file-width="2544" data-file-height="3033"/></a><figcaption>Infographic showing the whole publishing history of the <i>Silmarillion</i> maps (by <a href="https://tolkiengateway.net/wiki/User:Airyn" title="User:Airyn">Airyn</a>).</figcaption></figure>
 
 **Bản đồ Beleriand và các vùng đất phía Bắc**, xuất hiện trong *[The Silmarillion](../T/The_Silmarillion.md)*, mô tả vùng [Beleriand](../B/Beleriand.md).
 
@@ -46,7 +46,7 @@ Christopher Tolkien thừa nhận rằng bản đồ này có các nguồn riên
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Bản đồ <a href="../A/Arda.md" title="Arda">Arda</a> được tạo bởi hoặc cho <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Maps of <a href="../A/Arda.md" title="Arda">Arda</a> made by or for <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>:
@@ -59,7 +59,7 @@ Christopher Tolkien thừa nhận rằng bản đồ này có các nguồn riên
 <td style="font-size: 90%;"> <a href="../A/A_Part_of_the_Shire.md" title="A Part of the Shire">A Part of the Shire</a> · <a href="../G/General_Map_of_Middle-earth.md" title="General Map of Middle-earth">General Map of Middle-earth</a> · <a href="Map_of_Rohan,_Gondor,_and_Mordor.md" title="Map of Rohan, Gondor, and Mordor">Map of Rohan, Gondor, and Mordor</a> · <a href="../T/The_West_of_Middle-earth_at_the_End_of_the_Third_Age.md" title="The West of Middle-earth at the End of the Third Age">The West of Middle-earth at the End of the Third Age</a>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">Khác:
+<th style="background:var(--tg-color-surface-3);" align="right">Other:
 </th>
 <td style="font-size: 90%;"> <a class="mw-selflink selflink">Map of Beleriand and the Lands to the North</a> · <a href="../N/Númenórë_(map).md" title="Númenórë (map)">Númenórë‎</a>
 </td></tr>
@@ -69,8 +69,8 @@ Christopher Tolkien thừa nhận rằng bản đồ này có các nguồn riên
 <td style="font-size: 90%;"> <a href="../A/A_Map_of_Middle-earth.md" title="A Map of Middle-earth">A Map of Middle-earth</a> · <a href="../T/There_and_Back_Again_(map).md" title="There and Back Again (map)">There and Back Again</a>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">Các bản đồ thời kỳ đầu:
+<th style="background:var(--tg-color-surface-3);" align="right">Early maps:
 </th>
-<td style="font-size: 90%;"> <a href="../T/The_earliest_map.md" title="The earliest map">Bản đồ sớm nhất‎</a> · <a href="../I/I_Vene_Kemen.md" title="I Vene Kemen"><i>I Vene Kemen</i></a> · <a href="../T/The_First_&#39;Silmarillion&#39;_Map_(map).md" title="The First &#39;Silmarillion&#39; Map (map)">Bản đồ 'Silmarillion' đầu tiên</a> · <a href="../A/Ambarkanta_maps.md" title="Ambarkanta maps"><i>Ambarkanta</i> bản đồ</a> · <a href="../T/The_Second_&#39;Silmarillion&#39;_Map.md" title="The Second &#39;Silmarillion&#39; Map">Bản đồ Kỷ Đệ Nhị 'Silmarillion'</a> · <a href="../T/The_First_Map_of_The_Lord_of_the_Rings.md" title="The First Map of The Lord of the Rings">Bản đồ đầu tiên của 'The Lord of the Rings'</a> · <a href="../T/The_1943_Map_of_The_Lord_of_the_Rings.md" title="The 1943 Map of The Lord of the Rings">Bản đồ năm 1943 của 'The Lord of the Rings'</a> · <a href="../T/The_Second_Map_of_The_Lord_of_the_Rings.md" title="The Second Map of The Lord of the Rings">Bản đồ Kỷ Đệ Nhị của 'The Lord of the Rings'</a> · <a href="../T/The_Third_Map_of_The_Lord_of_the_Rings.md" title="The Third Map of The Lord of the Rings">Bản đồ Kỷ Đệ Tam của 'The Lord of the Rings'</a>
+<td style="font-size: 90%;"> <a href="../T/The_earliest_map.md" title="The earliest map">The earliest map‎</a> · <a href="../I/I_Vene_Kemen.md" title="I Vene Kemen"><i>I Vene Kemen</i></a> · <a href="../T/The_First_&#39;Silmarillion&#39;_Map_(map).md" title="The First &#39;Silmarillion&#39; Map (map)">The First &#39;Silmarillion&#39; Map</a> · <a href="../A/Ambarkanta_maps.md" title="Ambarkanta maps"><i>Ambarkanta</i> maps</a> · <a href="../T/The_Second_&#39;Silmarillion&#39;_Map.md" title="The Second &#39;Silmarillion&#39; Map">The Second &#39;Silmarillion&#39; Map</a> · <a href="../T/The_First_Map_of_The_Lord_of_the_Rings.md" title="The First Map of The Lord of the Rings">The First Map of &#39;The Lord of the Rings&#39;</a> · <a href="../T/The_1943_Map_of_The_Lord_of_the_Rings.md" title="The 1943 Map of The Lord of the Rings">The 1943 Map of &#39;The Lord of the Rings&#39;</a> · <a href="../T/The_Second_Map_of_The_Lord_of_the_Rings.md" title="The Second Map of The Lord of the Rings">The Second Map of &#39;The Lord of the Rings&#39;</a> · <a href="../T/The_Third_Map_of_The_Lord_of_the_Rings.md" title="The Third Map of The Lord of the Rings">The Third Map of &#39;The Lord of the Rings&#39;</a>
 </td></tr>
 </tbody></table>

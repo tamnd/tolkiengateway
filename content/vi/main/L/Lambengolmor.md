@@ -30,7 +30,7 @@ images:
   - "Ryszard_Derdziński_-_Feanor.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>các Tiên Loremasters</b>. Để biết danh sách gửi thư về <a href="Languages.md" title="Languages">ngôn ngữ</a> của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, hãy xem <b><a href="Lambengolmor_(mailing_list).md" title="Lambengolmor (mailing list)">Lambengolmor (danh sách gửi thư)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the Elven Loremasters</b>. For the mailing list about <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="Languages.md" title="Languages">languages</a>, see <b><a href="Lambengolmor_(mailing_list).md" title="Lambengolmor (mailing list)">Lambengolmor (mailing list)</a></b>.</div></div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Ryszard_Derdziński_-_Feanor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ef/Ryszard_Derdzi%C5%84ski_-_Feanor.jpg/300px-Ryszard_Derdzi%C5%84ski_-_Feanor.jpg" decoding="async" loading="lazy" width="300" height="467" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ef/Ryszard_Derdzi%C5%84ski_-_Feanor.jpg/450px-Ryszard_Derdzi%C5%84ski_-_Feanor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ef/Ryszard_Derdzi%C5%84ski_-_Feanor.jpg/600px-Ryszard_Derdzi%C5%84ski_-_Feanor.jpg 2x" data-file-width="658" data-file-height="1024"/></a><figcaption><i>Fëanor</i> by <a href="../R/Ryszard_Derdziński.md" title="Ryszard Derdziński">Ryszard Derdziński</a></figcaption></figure>
 
@@ -48,13 +48,13 @@ Những người truyền thuyết không phải là một hội riêng biệt h
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Bậc thầy truyền thuyết là một lớp có thể chơi được trong MMORPG của Turbine dành cho các chủng tộc Con Người và Tiên tộc. Các bậc thầy truyền thuyết trong bản chuyển thể này đóng vai trò hỗ trợ, sử dụng phép thuật để cải thiện hiệu suất của đồng minh.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
+<dl><dd>Lore-masters are a playable class in Turbine&#39;s MMORPG for the races of Men and Elves. Lore-masters in this adaptation play a support role, casting spells to improve the performance of their allies.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
 <b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></i>:</b>
 
-<dl><dd><a href="../A/Andriel.md" title="Andriel">Andriel</a> là bậc thầy truyền thuyết của Imladris.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
+<dl><dd><a href="../A/Andriel.md" title="Andriel">Andriel</a> is a Lore-master of Imladris.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 
 <span></span>
 

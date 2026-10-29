@@ -16,8 +16,8 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Castellans_of_Dol_Guldur&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Castellans_of_Dol_Guldur&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
@@ -28,4 +28,4 @@ images:
 
 ## Mô tả {#Description}
 
-Kẻ Vô Danh và không có ý chí riêng, người Castellan của Dol Guldur chỉ là một phần trong ác tâm không ngủ của tòa tháp bị nguyền rủa đó. Vô hình, ngoại trừ bộ giáp trói họ, họ rình rập những con đường xung quanh Dol Guldur, giết chết những ai họ tìm thấy. Mỗi người rơi vào sự phục vụ của Sauron theo một cách khác nhau; một số tìm cách học hỏi từ ông như một người học việc học từ một bậc thầy, và những người khác là tàn tích vĩnh cửu của một người đã chết trong đau đớn trong ngục tối của Sauron. Dù họ đã phục vụ Chúa tể Bóng tối thế nào đi nữa, giờ đây tất cả họ đều bị ràng buộc bởi lời nguyền của hắn và tuyệt đối phục vụ hắn.
+Kẻ Vô Danh và không có ý chí riêng, người Castellan của Dol Guldur chỉ là một phần trong ác tâm không ngủ của tòa tháp bị nguyền rủa đó. Vô hình, ngoại trừ bộ giáp trói họ, họ rình rập những con đường xung quanh Dol Guldur, giết chết những ai họ tìm thấy. Mỗi người rơi vào sự phục vụ của Sauron theo một cách khác nhau; một số tìm cách học hỏi từ ông ta như một người học việc học từ một bậc thầy, và những người khác là tàn tích vĩnh cửu của một người đã chết trong đau đớn trong ngục tối của Sauron. Dù họ đã phục vụ Chúa tể Bóng tối thế nào đi nữa, giờ đây tất cả họ đều bị ràng buộc bởi lời nguyền của hắn và tuyệt đối phục vụ hắn.

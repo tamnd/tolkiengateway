@@ -31,7 +31,7 @@ infobox:
     value: "The Legend of the Master-Ring"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Summoning_Minas_Morgul.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e1/Summoning_Minas_Morgul.jpg/320px-Summoning_Minas_Morgul.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e1/Summoning_Minas_Morgul.jpg/480px-Summoning_Minas_Morgul.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e1/Summoning_Minas_Morgul.jpg/640px-Summoning_Minas_Morgul.jpg 2x" data-file-width="1200" data-file-height="1200"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Through the Forest of Dol Guldur</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../M/Minas_Morgul_(album).md" title="Minas Morgul (album)">Minas Morgul</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Triệu hồi</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data">Triệu hồi</td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data">Triệu hồi</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">4:47</td></tr><tr><th scope="row" class="tg-infobox-label">Số thứ tự bản nhạc</th><td class="tg-infobox-data">9</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../D/Dagor_Bragollach_(song).md" title="Dagor Bragollach (song)">Dagor Bragollach</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="The_Legend_of_the_Master-Ring.md" title="The Legend of the Master-Ring">The Legend of the Master-Ring</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/2OPl09YcP3GnLc7dth5ANF"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Summoning_Minas_Morgul.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e1/Summoning_Minas_Morgul.jpg/320px-Summoning_Minas_Morgul.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e1/Summoning_Minas_Morgul.jpg/480px-Summoning_Minas_Morgul.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e1/Summoning_Minas_Morgul.jpg/640px-Summoning_Minas_Morgul.jpg 2x" data-file-width="1200" data-file-height="1200"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Through the Forest of Dol Guldur</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../M/Minas_Morgul_(album).md" title="Minas Morgul (album)">Minas Morgul</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Summoning</a></td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data">Summoning</td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data">Summoning</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">4:47</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">9</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="../D/Dagor_Bragollach_(song).md" title="Dagor Bragollach (song)">Dagor Bragollach</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="The_Legend_of_the_Master-Ring.md" title="The Legend of the Master-Ring">The Legend of the Master-Ring</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/2OPl09YcP3GnLc7dth5ANF"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
@@ -40,27 +40,27 @@ infobox:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Con đường mù sương xuyên rừng xưa <br/>
-được cất giữ trong im lặng và rune sẽ giữ <br/>
-những bí mật của Dol Guldur <br/>
+<p>A misty path through woods long past <br/>
+enshrined in silence and runes will keep <br/>
+the secrets of Dol Guldur <br/>
 <br/>
-Xa xa trên núi sương lạnh <br/>
-đôi mắt long lanh của chúng ta đang tìm kiếm một dấu hiệu <br/>
-và xuống những ngục tối sâu nhất <br/>
-và tới hang ổ cũ bị lãng quên <br/>
+Far away and over the cold fog mountains <br/>
+our gleaming eyes are searching for a sign <br/>
+and down to the deepest dungeons <br/>
+and to the old forgotten lair <br/>
 <br/>
-Chúng ta phải rời đi ngay bây giờ, trước khi một ngày mới bắt đầu <br/>
-đi tìm vàng nhạt <br/>
-từng thuộc về khu rừng <br/>
+We must leave now, before a new day breaks <br/>
+to search for the pale gold <br/>
+that once belonged to the forest <br/>
 <br/>
-Bởi tiếng búa nện <br/>
-nghe như tiếng chuông của Tiên tộc <br/>
-trong tai chúng ta... <br/>
-chúng tôi vẫn đang tìm kiếm dưới lòng đất <br/>
-nơi những bí mật đen tối của chúng ta ngủ yên <br/>
+By the sounds of pounding hammers <br/>
+that sound like bells of the elves <br/>
+in our ears... <br/>
+we are still searching in the underground <br/>
+where our dark secrets sleep <br/>
 <br/>
-Xa xa trên núi sương lạnh <br/>
-chúng ta phải rời đi ngay bây giờ, trước khi một ngày mới bắt đầu <br/>
-vĩnh viễn...
+Far away over the cold fog mountains <br/>
+we have to leave now, before a new day breaks <br/>
+eternally...
 </p>
 </div>

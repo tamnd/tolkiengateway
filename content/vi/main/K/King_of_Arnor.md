@@ -35,7 +35,7 @@ Sau Vua <a class="mw-redirect mw-disambig" href="../E/Eärendur.md" title="Eäre
 
 Đến [T.A.](../T/Third_Age.md) [1349](../T/Third_Age_1349.md), Nhà Isildur đã ngừng hoạt động ở Cardolan và Rhudaur. [Argeleb I](../A/Argeleb_I.md) của Arthedain một lần nữa tuyên bố danh hiệu **Vua của Arnor**.<sup id="cite_ref-North_4-1" class="reference"><a href="#cite_note-North-4">[4]</a></sup> Tuy nhiên, phần lớn lãnh thổ từng thuộc về Arnor đã rơi khỏi tay ông, và Argeleb cùng con cháu của ông được coi là vua của Arthedain trong danh sách của [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md).<sup id="cite_ref-North_4-2" class="reference"><a href="#cite_note-North-4">[4]</a></sup>
 
-Sau cái chết của vị vua cuối cùng của Arthedain, [Arvedui](../A/Arvedui.md), Vương quốc phương Bắc không còn nữa. Dòng dõi Vua tiếp tục ở [Thủ lĩnh Dúnedain](../C/Chieftains_of_the_Dúnedain.md), cai trị [Tuần Du Nhân phương Bắc](../R/Rangers_of_the_North.md).<sup id="cite_ref-app_1-1" class="reference"><a href="#cite_note-app-1">[1]</a></sup>
+Sau cái chết của vị vua cuối cùng của Arthedain, [Arvedui](../A/Arvedui.md), Vương quốc phương Bắc không còn nữa. Dòng dõi Vua tiếp tục ở [Thủ lĩnh Dúnedain](../C/Chieftains_of_the_Dúnedain.md), cai trị [Biệt đội miền Bắc](../R/Rangers_of_the_North.md).<sup id="cite_ref-app_1-1" class="reference"><a href="#cite_note-app-1">[1]</a></sup>
 
 Dù các vị vua của Arnor đã lụi tàn nhưng một số người dân vẫn giữ niềm tin mờ nhạt rằng các vị vua sẽ trở lại. Những người này bao gồm [Hobbit](../H/Hobbits.md), những người sẽ giữ lại câu nói "cho đến khi nhà vua quay lại" và cũng gán một số quy tắc và luật lệ của họ cho nhà vua. Ký ức về các vị vua phương bắc cũng sẽ không bị lãng quên ở Gondor, nơi mà dòng dõi các vị vua đã thất bại hoàn toàn.
 
@@ -56,15 +56,15 @@ Có một đồ tạo tác nữa được các Vua xứ Arnor sử dụng: [Elen
 <table class="wikitable mw-collapsible">
 <tbody><tr style="background: var(--tg-color-surface-2);">
 <th><b>#</b></th>
-<th><b>Tên</b></th>
-<th><b>Triều đại</b></th>
-<th><b>Ghi chú</b>
+<th><b>Name</b></th>
+<th><b>Reign</b></th>
+<th><b>Notes</b>
 </th></tr>
 <tr>
 <td>1.</td>
-<td><a href="../E/Elendil.md" title="Elendil">Elendil</a>, con trai của <a href="../A/Amandil.md" title="Amandil">Amandil</a></td>
+<td><a href="../E/Elendil.md" title="Elendil">Elendil</a>, son of <a href="../A/Amandil.md" title="Amandil">Amandil</a></td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_3320.md" title="Second Age 3320">3320</a> – <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_3441.md" title="Second Age 3441">3441</a></td>
-<td>Thành lập vương quốc
+<td>Founded the realm
 </td></tr>
 <tr>
 <td>2.</td>
@@ -76,7 +76,7 @@ Có một đồ tạo tác nữa được các Vua xứ Arnor sử dụng: [Elen
 <td>3.</td>
 <td><a href="../V/Valandil_(King_of_Arnor).md" title="Valandil (King of Arnor)">Valandil</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2.md" title="Third Age 2">2</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_249.md" title="Third Age 249">249</a></td>
-<td>Vua độc lập đầu tiên của Arnor
+<td>First independent King of Arnor
 </td></tr>
 <tr>
 <td>4.</td>
@@ -106,7 +106,7 @@ Có một đồ tạo tác nữa được các Vua xứ Arnor sử dụng: [Elen
 <td>8.</td>
 <td><a href="../V/Valandur.md" title="Valandur">Valandur</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_602.md" title="Third Age 602">602</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_652.md" title="Third Age 652">652</a>†</td>
-<td>Nguyên nhân chết sớm không được ghi nhận
+<td>Cause of premature death not recorded
 </td></tr>
 <tr>
 <td>9.</td>
@@ -118,19 +118,19 @@ Có một đồ tạo tác nữa được các Vua xứ Arnor sử dụng: [Elen
 <td>10.</td>
 <td><a href="../E/Eärendur_(King_of_Arnor).md" title="Eärendur (King of Arnor)">Eärendur</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_777.md" title="Third Age 777">777</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_861.md" title="Third Age 861">861</a></td>
-<td>Vua cuối cùng của Arnor trước khi đất nước bị chia cắt
+<td>last King of Arnor before the nation split
 </td></tr>
 <tr>
 <td>11.</td>
 <td><a href="../A/Aragorn.md" title="Aragorn">Elessar</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a> – <a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a> <a href="../F/Fourth_Age_120.md" title="Fourth Age 120">120</a></td>
-<td>Đại Vương đầu tiên của <a href="../R/Reunited_Kingdom.md" title="Reunited Kingdom">Vương quốc Thống nhất</a>
+<td>first High King of the <a href="../R/Reunited_Kingdom.md" title="Reunited Kingdom">Reunited Kingdom</a>
 </td></tr>
 <tr>
 <td>12.</td>
 <td><a href="../E/Eldarion.md" title="Eldarion">Eldarion</a></td>
 <td><a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a> <a href="../F/Fourth_Age_120.md" title="Fourth Age 120">120</a> – c. <a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a> <a href="../F/Fourth_Age_220.md" title="Fourth Age 220">220</a></td>
-<td>Vị vua cuối cùng có tên xuất hiện trong <a class="mw-redirect" href="../R/Red_Book.md" title="Red Book">Sách Đỏ</a>.
+<td>Last king whose name appears in the <a class="mw-redirect" href="../R/Red_Book.md" title="Red Book">Red Book</a>.
 </td></tr></tbody></table>
 
 <span></span>

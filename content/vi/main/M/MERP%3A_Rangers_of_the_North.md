@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rangers of the North (book)"
 ---
 
-Chuyển hướng đến [Tuần Du Nhân phương Bắc (sách)](<../R/Rangers_of_the_North_(book).md>).
+Chuyển hướng đến [Biệt đội miền Bắc (sách)](<../R/Rangers_of_the_North_(book).md>).

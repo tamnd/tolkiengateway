@@ -20,7 +20,7 @@ infobox:
     value: "Dealer's catalogue"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Paul C. Richards Autographs Catalogue 229</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Templeton, Massachusetts: Paul C. Richards Autographs</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/1988.md" title="1988">1988</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Danh mục đại lý</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Paul C. Richards Autographs Catalogue 229</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Templeton, Massachusetts: Paul C. Richards Autographs</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1988.md" title="1988">1988</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Dealer&#39;s catalogue</td></tr></tbody></table>
 
 <i><b>Paul C. Richards Danh mục chữ ký 229</b></i> là danh mục của đại lý. Mục 309 là [một bức thư của J.R.R. Tolkien gửi J.L.N. O'Loughlin](<../L/Letter_to_J.L.N._O'Loughlin_(30_October_1965).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 

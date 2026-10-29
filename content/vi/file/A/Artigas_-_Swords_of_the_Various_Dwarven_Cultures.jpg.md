@@ -26,7 +26,7 @@ file:
 
 ## Mô tả {#Description}
 
-"Vũ khí của các nền văn hóa Người Lùn khác nhau", của Artigas.
+"Vũ khí của các nền văn hóa Người lùn khác nhau", của Artigas.
 
 Ghi chú của tác giả về nguồn cảm hứng trong thế giới thực cho những thanh kiếm của Bảy Nhà:<br> "I - **[Râu dài](../../main/L/Longbeards.md)**, nền văn hóa tương tự như người Anglo-Saxons <br> II - **[Stonefoots](../../main/S/Stonefoots.md)**, nền văn hóa tương tự như người Canaan cổ đại <br> III a - Phương Bắc **[Râu Lửa](../../main/F/Firebeards.md)**, văn hóa tương tự như Người Celt ở Anh <br> III b - Miền Nam **[Râu Lửa](../../main/F/Firebeards.md)**, văn hóa tương tự như Người Celt Lục địa <br> IV - **[Broadbeams](../../main/B/Broadbeams.md)**, văn hóa tương tự như các bộ lạc Germanic <br> V a - **[Ironfists](../../main/I/Ironfists.md)** “Sverð” của giới quý tộc. Tương tự như văn hóa của người Bắc Âu cổ đại. Được làm bằng thép thiên thạch (Star Iron). <br> V b - **[Ironfists](../../main/I/Ironfists.md)** 'Langseax' của thường dân <br> VI a - Northern **[Stiffbeards](../../main/S/Stiffbeards.md)**, tương tự văn hóa đến người Inuit. Tay cầm được chạm khắc từ ngà voi ma mút <br> VI b - Miền Nam **[Stiffbeards](../../main/S/Stiffbeards.md)**, văn hóa tương tự như người Mông Cổ và các dân tộc Himalaya <br> VII - **[Blacklocks](../../main/B/Blacklocks.md)**, văn hóa tương tự như người Akkadian, Sumer, Assyrian và Babylon"
 

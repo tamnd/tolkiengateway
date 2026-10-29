@@ -12,4 +12,4 @@ categories:
   - "People"
 ---
 
-Các thành viên của [Gia đình Tolkien](../../main/T/Tolkien_Family.md) có liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
+Các thành viên của [Tolkien Gia đình](../../main/T/Tolkien_Family.md) có liên quan đến [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

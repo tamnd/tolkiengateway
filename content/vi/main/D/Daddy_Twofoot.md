@@ -38,10 +38,10 @@ infobox:
     value: "Images of Daddy Twofoot"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_Daddy_Twofoot.jpg.md"><img src="https://tolkiengateway.net/w/images/c/c7/Miriam_Ellis_-_Daddy_Twofoot.jpg" decoding="async" loading="lazy" width="310" height="286" class="mw-file-element" data-file-width="310" data-file-height="286"/></a><figcaption>Daddy Twofoot - Detail by <a href="../M/Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Daddy Twofoot</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../B/Bagshot_Row.md" title="Bagshot Row">Bagshot Row</a>, <a href="../H/Hobbiton.md" title="Hobbiton">Hobbiton</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nam</td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Daddy_Twofoot.md" title="Category:Images of Daddy Twofoot">Images of Daddy Twofoot</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_Daddy_Twofoot.jpg.md"><img src="https://tolkiengateway.net/w/images/c/c7/Miriam_Ellis_-_Daddy_Twofoot.jpg" decoding="async" loading="lazy" width="310" height="286" class="mw-file-element" data-file-width="310" data-file-height="286"/></a><figcaption>Daddy Twofoot - Detail by <a href="../M/Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Daddy Twofoot</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Bagshot_Row.md" title="Bagshot Row">Bagshot Row</a>, <a href="../H/Hobbiton.md" title="Hobbiton">Hobbiton</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Daddy_Twofoot.md" title="Category:Images of Daddy Twofoot">Images of Daddy Twofoot</a></td></tr></tbody></table>
 
 <center><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Đó là một nơi tối tăm tồi tệ, nếu một nửa số câu chuyện là sự thật.
+<p>That&#39;s a dark bad place, if half the tales be true.
 </p>
 <p class="tg-quote-footer"><cite>Daddy Twofoot on the <a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a><sup id="cite_ref-ALEP_1-0" class="reference"><a href="#cite_note-ALEP-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
@@ -50,7 +50,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Daddy Twofoot sống trong một cái hố ở [Bagshot Row](../B/Bagshot_Row.md) ở [Hobbiton](../H/Hobbiton.md), ngay cạnh [Hamfast Gamgee](../G/Gaffer_Gamgee.md) và gia đình ông. Ông là khách thường xuyên của [Ivy Bush Inn](../I/Ivy_Bush.md), nơi ông có mặt vào một buổi tối đặc biệt ở [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md), khi Hamfast Gamgee chiêu đãi những khách hàng quen của mình bằng kiến ​​thức về [Bag End](../B/Bag_End.md) và "[Mad Baggins](../B/Bilbo_Baggins.md)". Trong cuộc trò chuyện, bố tán thành thái độ khinh thường của [Old Noakes](../O/Old_Noakes.md) đối với [Người vùng Bucklander](../B/Bucklanders.md), coi họ là những người xa lạ kỳ dị.<sup id="cite_ref-ALEP_1-1" class="reference"><a href="#cite_note-ALEP-1">[1]</a></sup>
+Daddy Twofoot sống trong một cái hố ở [Bagshot Row](../B/Bagshot_Row.md) ở [Hobbiton](../H/Hobbiton.md), ngay cạnh [Hamfast Gamgee](../G/Gaffer_Gamgee.md) và gia đình ông ta. Ông là khách thường xuyên của [Ivy Bush Inn](../I/Ivy_Bush.md), nơi ông có mặt vào một buổi tối đặc biệt ở [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md), khi Hamfast Gamgee chiêu đãi những khách hàng quen của mình bằng kiến ​​thức về [Bag End](../B/Bag_End.md) và "[Mad Baggins](../B/Bilbo_Baggins.md)". Trong cuộc trò chuyện, bố tán thành thái độ khinh thường của [Old Noakes](../O/Old_Noakes.md) đối với [Người vùng Bucklander](../B/Bucklanders.md), coi họ là những người xa lạ kỳ dị.<sup id="cite_ref-ALEP_1-1" class="reference"><a href="#cite_note-ALEP-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -60,7 +60,7 @@ Daddy Twofoot sống trong một cái hố ở [Bagshot Row](../B/Bagshot_Row.md
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_(video_game)_-_Daddy_Twofoot.png.md" title="Daddy Twofoot in The Lord of the Rings: The Fellowship of the Ring (video game)"><img alt="Daddy Twofoot in The Lord of the Rings: The Fellowship of the Ring (video game)" src="https://tolkiengateway.net/w/images/thumb/2/24/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Daddy_Twofoot.png/192px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Daddy_Twofoot.png" decoding="async" loading="lazy" width="192" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/24/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Daddy_Twofoot.png/287px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Daddy_Twofoot.png 1.5x, https://tolkiengateway.net/w/images/2/24/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_%28video_game%29_-_Daddy_Twofoot.png 2x" data-file-width="333" data-file-height="261"/></a></span></div>
 			<div class="gallerytext">
-<p>Daddy Twofoot trong <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>
+<p>Daddy Twofoot in <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (video game)</a>
 </p>
 			</div>
 		</li>
@@ -82,23 +82,23 @@ Daddy Twofoot sống trong một cái hố ở [Bagshot Row](../B/Bagshot_Row.md
 
 <b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
-<dl><dd>Daddy Twofoot được lồng tiếng bởi <a href="../L/Leonard_Fenton.md" title="Leonard Fenton">Leonard Fenton</a>. Ông có mặt tại Ivy Bush trước bữa tiệc sinh nhật của <a href="../B/Bilbo&#39;s_Farewell_Party.md" title="Bilbo&#39;s Farewell Party">Bilbo</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
+<dl><dd>Daddy Twofoot is voiced by <a href="../L/Leonard_Fenton.md" title="Leonard Fenton">Leonard Fenton</a>. He is present in the Ivy Bush before <a href="../B/Bilbo&#39;s_Farewell_Party.md" title="Bilbo&#39;s Farewell Party">Bilbo&#39;s Birthday Party</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 
 <b>1992: <a href="Der_Herr_der_Ringe_(1992_German_radio_series).md" title="Der Herr der Ringe (1992 German radio series)"><i>Der Herr der Ringe</i> (loạt phim phát thanh Đức năm 1992)</a>:</b>
 
-<dl><dd>Daddy Twofoot do Hans Edgar Stecher thủ vai.</dd></dl>
+<dl><dd>Daddy Twofoot is played by Hans Edgar Stecher.</dd></dl>
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>Vị trí của Daddy Twofoot tại cuộc trò chuyện (được chuyển đến <a class="mw-redirect" href="../G/Green_Dragon~72852.md" title="Green Dragon">Màu xanh lá cây Rồng</a>) đã được <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> đảm nhận.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Một <a class="mw-redirect" href="Decipher_Card.md" title="Decipher Card">Thẻ giải mã</a> của Daddy Twofoot xác định ông là một trong những Hobbit được thấy trong cảnh trước, <i><a href="../C/Concerning_Hobbits_(scene).md" title="Concerning Hobbits (scene)">Concerning Hobbits</a></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
+<dl><dd>Daddy Twofoot&#39;s place at the conversation (which is moved to the <a class="mw-redirect" href="../G/Green_Dragon~72852.md" title="Green Dragon">Green Dragon</a>) is taken over by <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> A <a class="mw-redirect" href="Decipher_Card.md" title="Decipher Card">Decipher Card</a> of Daddy Twofoot identifies him as one of the Hobbits seen in the preceding scene, <i><a href="../C/Concerning_Hobbits_(scene).md" title="Concerning Hobbits (scene)">Concerning Hobbits</a></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
 <b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 
-<dl><dd>Daddy Twofoot sống ở Số Hai, <a href="../B/Bagshot_Row.md" title="Bagshot Row">Bagshot Row</a> và có thể được nhìn thấy đang ngồi bên ngoài Green Rồng. Không có diễn viên nào được chỉ định cho phần này.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
+<dl><dd>Daddy Twofoot lives at Number Two, <a href="../B/Bagshot_Row.md" title="Bagshot Row">Bagshot Row</a>, and can be seen sitting outside the Green Dragon. No actor is specified for the part.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Được tìm thấy tại nơi ở của ông không xa <a href="../B/Bag_End.md" title="Bag End">Bag End</a>, Daddy Twofoot không đóng vai trò gì trong câu chuyện và chỉ cung cấp một vài dòng trong nhiệm vụ lễ hội theo mùa.</dd></dl>
+<dl><dd>Found at his residence not far from <a href="../B/Bag_End.md" title="Bag End">Bag End</a>, Daddy Twofoot plays no role in the story and only provides a few lines during a seasonal festival quest.</dd></dl>
 
 <span></span>
 

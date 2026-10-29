@@ -37,7 +37,7 @@ infobox:
     value: "14+"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp/320px-The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.png" decoding="async" loading="lazy" width="320" height="371" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7d/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp/480px-The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/7d/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp/640px-The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.png 2x" data-file-width="776" data-file-height="900"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi thẻ sống</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The Card Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà thiết kế</th><td class="tg-infobox-data">Nate French</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../F/Fantasy_Flight_Games.md" title="Fantasy Flight Games">Fantasy Flight Games</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data"><a href="../_/20_April.md" title="20 April">20 April</a> <a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người chơi</th><td class="tg-infobox-data">1 - 4</td></tr><tr><th scope="row" class="tg-infobox-label">Kỷ nguyên</th><td class="tg-infobox-data">14+</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp/320px-The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.png" decoding="async" loading="lazy" width="320" height="371" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7d/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp/480px-The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/7d/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp/640px-The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.png 2x" data-file-width="776" data-file-height="900"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Living card game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The Card Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data">Nate French</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../F/Fantasy_Flight_Games.md" title="Fantasy Flight Games">Fantasy Flight Games</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="../_/20_April.md" title="20 April">20 April</a> <a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Players</th><td class="tg-infobox-data">1 - 4</td></tr><tr><th scope="row" class="tg-infobox-label">Ages</th><td class="tg-infobox-data">14+</td></tr></tbody></table>
 
 <i><b>The Lord of the Rings: Trò chơi bài</b></i> là một trò chơi dựa trên thẻ bài được phát hành bởi [Fantasy Flight Games](../F/Fantasy_Flight_Games.md). Trò chơi lấy bối cảnh trong khoảng thời gian mười bảy năm giữa sinh nhật lần thứ 111 của Bilbo và ngày Frodo khởi hành từ Bag End. *The Lord of the Rings: Trò chơi bài* được công bố lần đầu tiên vào [3 tháng 8](../_/3_August.md) [2010](../_/2010.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và được phát hành vào [20 tháng 4](../_/20_April.md) [2011](../_/2011.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -66,7 +66,7 @@ Sau khi xây dựng các bộ bài, người chơi chọn kịch bản nhiệm v
 
 Trò chơi sau đó được chơi theo các vòng bao gồm bảy giai đoạn, một số giai đoạn có các bước khác nhau.
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lotr-lcg-layout-final.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ad/Lotr-lcg-layout-final.png/300px-Lotr-lcg-layout-final.png" decoding="async" loading="lazy" width="300" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ad/Lotr-lcg-layout-final.png/450px-Lotr-lcg-layout-final.png 1.5x, https://tolkiengateway.net/w/images/a/ad/Lotr-lcg-layout-final.png 2x" data-file-width="480" data-file-height="225"/></a><figcaption>khu vui chơi mẫu từ trang web chính thức</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lotr-lcg-layout-final.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ad/Lotr-lcg-layout-final.png/300px-Lotr-lcg-layout-final.png" decoding="async" loading="lazy" width="300" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ad/Lotr-lcg-layout-final.png/450px-Lotr-lcg-layout-final.png 1.5x, https://tolkiengateway.net/w/images/a/ad/Lotr-lcg-layout-final.png 2x" data-file-width="480" data-file-height="225"/></a><figcaption>sample play area from official site</figcaption></figure>
 
 1. Giai đoạn tài nguyên - người chơi rút một thẻ và mỗi anh hùng nhận được một tài nguyên
 2. Giai đoạn lập kế hoạch - bắt đầu với người chơi đầu tiên, mỗi người chơi có thể chơi Sự kiện, Phụ kiện đính kèm hoặc Đồng minh từ tay mình
@@ -103,7 +103,7 @@ Hai phần đầu đề cập đến các sự kiện của The Hobbit. Sau đó
 
 #### Đã đóng gói lại {#Repackaged}
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LotR_LCG_FotR_Saga_Expansion.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9a/LotR_LCG_FotR_Saga_Expansion.png/200px-LotR_LCG_FotR_Saga_Expansion.png" decoding="async" loading="lazy" width="200" height="290" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9a/LotR_LCG_FotR_Saga_Expansion.png/300px-LotR_LCG_FotR_Saga_Expansion.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/9a/LotR_LCG_FotR_Saga_Expansion.png/400px-LotR_LCG_FotR_Saga_Expansion.png 2x" data-file-width="483" data-file-height="700"/></a><figcaption>Bản mở rộng Saga Đoàn Hộ Nhẫn được đóng gói lại</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LotR_LCG_FotR_Saga_Expansion.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9a/LotR_LCG_FotR_Saga_Expansion.png/200px-LotR_LCG_FotR_Saga_Expansion.png" decoding="async" loading="lazy" width="200" height="290" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9a/LotR_LCG_FotR_Saga_Expansion.png/300px-LotR_LCG_FotR_Saga_Expansion.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/9a/LotR_LCG_FotR_Saga_Expansion.png/400px-LotR_LCG_FotR_Saga_Expansion.png 2x" data-file-width="483" data-file-height="700"/></a><figcaption>The repackaged Fellowship of the Ring Saga Expansion</figcaption></figure>
 
 Là một phần trong quá trình làm mới thương hiệu và Cốt lõi Sửa đổi năm 2022, Fantasy Flight đã đóng gói lại và in lại sáu nội dung của Bản mở rộng Saga cho Chúa tể những chiếc nhẫn thành ba Bản mở rộng Saga mới, mỗi bản được hợp nhất thành một sản phẩm mới phù hợp với nội dung của tập tiểu thuyết đó.
 
@@ -122,19 +122,19 @@ Kể từ khi trò chơi được phát hành vào năm 2011 đến năm 2020, c
 <th>Cycle Name</th>
 <th>First Released</th>
 <th>Deluxe Box</th>
-<th>Mô tả
+<th>Description
 </th></tr>
 <tr>
 <td><b>Shadows of <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a></b></td>
 <td>Apr - Nov 2011</td>
 <td>Core Box</td>
-<td>Điều này tiếp tục câu chuyện từ Core Set, đưa người chơi đến <a href="../C/Carrock.md" title="Carrock">Carrock</a>, săn tìm <a href="../G/Gollum.md" title="Gollum">Gollum</a>, thăm <a href="../R/Rhosgobel.md" title="Rhosgobel">Rhosgobel</a>, <a href="../E/Emyn_Muil.md" title="Emyn Muil">Emyn Muil</a> và <a href="The_Dead_Marshes.md" title="The Dead Marshes">The Đầm lầy Chết</a>.
+<td>This continued the story from the Core Set, taking the players to the <a href="../C/Carrock.md" title="Carrock">Carrock</a>, hunting for <a href="../G/Gollum.md" title="Gollum">Gollum</a>, visiting <a href="../R/Rhosgobel.md" title="Rhosgobel">Rhosgobel</a>, <a href="../E/Emyn_Muil.md" title="Emyn Muil">Emyn Muil</a> and <a href="The_Dead_Marshes.md" title="The Dead Marshes">The Dead Marshes</a>.
 </td></tr>
 <tr>
 <td><b>Dwarrowdelf</b></td>
 <td>Jan - Aug 2012</td>
 <td><i><a class="mw-redirect" href="../K/Khazad-dum.md" title="Khazad-dum">Khazad-dum</a></i><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></td>
-<td>Chu kỳ này có <a href="../M/Moria.md" title="Moria">Moria</a>, <a href="../R/Redhorn_Gate.md" title="Redhorn Gate">Cổng Redhorn</a>, <a href="../W/Watcher_in_the_Water.md" title="Watcher in the Water">Người canh gác dưới nước</a> và hành trình đến <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>
+<td>This cycle featured <a href="../M/Moria.md" title="Moria">Moria</a>, the <a href="../R/Redhorn_Gate.md" title="Redhorn Gate">Redhorn Gate</a>, The <a href="../W/Watcher_in_the_Water.md" title="Watcher in the Water">Watcher in the Water</a> and a journey to <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>
 </td></tr>
 <tr>
 <td><b>Against the Shadow</b></td>
@@ -146,42 +146,42 @@ Kể từ khi trò chơi được phát hành vào năm 2011 đến năm 2020, c
 <td><b>The Ring-maker</b></td>
 <td>Feb - Dec 2014</td>
 <td><i>The Voice of <a href="../I/Isengard.md" title="Isengard">Isengard</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></i></td>
-<td>Những cuộc phiêu lưu nổi bật trong và xung quanh tòa tháp <a href="../O/Orthanc.md" title="Orthanc">Orthanc</a> của <a href="../S/Saruman.md" title="Saruman">Saruman</a>.
+<td>Featured adventures in and around <a href="../S/Saruman.md" title="Saruman">Saruman</a>&#39;s tower of <a href="../O/Orthanc.md" title="Orthanc">Orthanc</a>.
 </td></tr>
 <tr>
 <td><b>Angmar Awakened</b></td>
 <td>Apr - Dec 2015</td>
 <td><i>The Lost Realm<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></i></td>
-<td>Nổi bật <a href="../M/Mount_Gram.md" title="Mount Gram">Mount Gram</a> và <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a> trong số những thứ khác.
+<td>Featured <a href="../M/Mount_Gram.md" title="Mount Gram">Mount Gram</a>, and the <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a> among others.
 </td></tr>
 <tr>
 <td><b>Dream-chaser</b></td>
 <td>Feb - Oct 2016</td>
 <td><i><a class="mw-redirect" href="The_Grey_Havens.md" title="The Grey Havens">The Grey Havens</a><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></i></td>
-<td>Đưa các nhà thám hiểm vào cuộc hành trình xuyên đại dương trên con tàu <i>Dream-chaser</i>.
+<td>Took adventurers on an oceanic journey aboard the ship <i>Dream-chaser</i>.
 </td></tr>
 <tr>
 <td><b>Haradrim</b></td>
 <td>Nov 2016 - Feb 2018</td>
 <td><i>The Sands of <a href="../H/Harad.md" title="Harad">Harad</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></i></td>
-<td>Đúng như tên gọi, nó đã khám phá vùng đất phía nam bí ẩn trước đây của Trung Địa.
+<td>As the name implies it explored the previously mysterious southern lands of Middle-earth.
 </td></tr>
 <tr>
 <td><b>Ered Mithrin</b></td>
 <td>Jul 2018 - Jun 2019</td>
 <td><i>The Wilds of <a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></i></td>
-<td>Đã khám phá vùng <a class="mw-redirect" href="../E/Ered_Mithrin.md" title="Ered Mithrin">Ered Mithrin</a>, bao gồm <a class="mw-redirect" href="../M/Mount_Gundabad.md" title="Mount Gundabad">Mount Gundabad</a>.
+<td>Explored the <a class="mw-redirect" href="../E/Ered_Mithrin.md" title="Ered Mithrin">Ered Mithrin</a> region, including <a class="mw-redirect" href="../M/Mount_Gundabad.md" title="Mount Gundabad">Mount Gundabad</a>.
 </td></tr>
 <tr>
 <td><b>Vengeance of Mordor</b></td>
 <td>Aug 2019 - Oct 2020</td>
 <td><i>A Shadow in the East<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></i></td>
-<td>Cuối cùng đã đưa người chơi vào cuộc phiêu lưu ở vùng đất bóng tối <a href="../M/Mordor.md" title="Mordor">Mordor</a>.
+<td>Finally brought players to adventure in the shadowed lands of <a href="../M/Mordor.md" title="Mordor">Mordor</a>.
 </td></tr></tbody></table>
 
 #### Đã đóng gói lại {#Repackaged_2}
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LotR_LCG_Ered_Mithrin_Products.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6e/LotR_LCG_Ered_Mithrin_Products.png/300px-LotR_LCG_Ered_Mithrin_Products.png" decoding="async" loading="lazy" width="300" height="214" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6e/LotR_LCG_Ered_Mithrin_Products.png/450px-LotR_LCG_Ered_Mithrin_Products.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/6e/LotR_LCG_Ered_Mithrin_Products.png/600px-LotR_LCG_Ered_Mithrin_Products.png 2x" data-file-width="700" data-file-height="500"/></a><figcaption>Chu trình Ered Mithrin được đóng gói lại, cả sản phẩm Mở rộng "Anh hùng" và "Chiến dịch"</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LotR_LCG_Ered_Mithrin_Products.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6e/LotR_LCG_Ered_Mithrin_Products.png/300px-LotR_LCG_Ered_Mithrin_Products.png" decoding="async" loading="lazy" width="300" height="214" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6e/LotR_LCG_Ered_Mithrin_Products.png/450px-LotR_LCG_Ered_Mithrin_Products.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/6e/LotR_LCG_Ered_Mithrin_Products.png/600px-LotR_LCG_Ered_Mithrin_Products.png 2x" data-file-width="700" data-file-height="500"/></a><figcaption>The Repackaged Ered Mithrin Cycle, both the &#34;Hero&#34; and &#34;Campaign&#34; Expansion products</figcaption></figure>
 
 Là một phần của quá trình làm mới sản phẩm vào năm 2022, Fantasy Flight đã công bố và sau đó phát hành lại một tập hợp con các chu kỳ Bản mở rộng Deluxe của họ, đóng gói lại và in lại tất cả nội dung từ chu kỳ này thành một bản mở rộng "Anh hùng" và "Chiến dịch" riêng biệt, hợp nhất tất cả nội dung từ các Bản mở rộng Deluxe trước đó và các Gói Phiêu lưu tiếp theo. Người ta tuyên bố rằng không phải tất cả nội dung trước đó sẽ được đóng gói lại theo cách này và những sản phẩm mới này đại diện cho "Những cú đánh hay nhất" trong lịch sử hơn 10 năm của trò chơi.
 
@@ -195,34 +195,34 @@ Theo định kỳ, dưới dạng các bản phát hành đặc biệt cho sự 
 
 <table class="wikitable" style="padding: 2px;">
 <tbody><tr style="background:var(--tg-color-surface-3)">
-<th style="width:200px">Tên</th>
-<th>Năm</th>
-<th>Mô tả
+<th style="width:200px">Name</th>
+<th>Year</th>
+<th>Description
 </th></tr>
 <tr>
 <td><i>The Massing at Osgiliath</i></td>
 <td>2011</td>
-<td>Trong kịch bản này, bạn đang bảo vệ thành phố <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a> khỏi một đám Orc khổng lồ đang cố gắng chiếm thành phố. Nhiệm vụ liên quan đến số lượng lớn kẻ thù và các hiệu ứng thay đổi tùy thuộc vào việc bạn đang ở bên bờ sông <a href="../A/Anduin.md" title="Anduin">Anduin</a> nào.
+<td>In this scenario you are defending the city of <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a> from a massive horde of orcs an Easterlings attempting to take the city. The quest involves high numbers of enemies and effects that change depending on which side of the river <a href="../A/Anduin.md" title="Anduin">Anduin</a> you are on.
 </td></tr>
 <tr>
 <td><i>The Battle of Lake-town</i></td>
 <td>2012</td>
-<td>Được coi là nhiệm vụ khó khăn nhất hiện nay trong trò chơi, kịch bản này tái hiện trận chiến chống lại <a href="../S/Smaug.md" title="Smaug">Smaug</a> tại <a class="mw-redirect" href="../E/Esgaroth.md" title="Esgaroth">Esgaroth</a>. Người chơi tìm cách bảo vệ thành phố và giữ cho nó không bị cháy.
+<td>Largely considered the most difficult quest currently in the game, this scenario recreates the battle against <a href="../S/Smaug.md" title="Smaug">Smaug</a> at <a class="mw-redirect" href="../E/Esgaroth.md" title="Esgaroth">Esgaroth</a>. The players seek to defend the city and keep it from burning.
 </td></tr>
 <tr>
 <td><i>The Stone of Erech</i></td>
 <td>2013</td>
-<td>Kịch bản này chứng kiến ​​một <a href="../D/Derufin.md" title="Derufin">Derufin</a> trẻ tuổi chạy đi điều tra <a href="../S/Stone_of_Erech.md" title="Stone of Erech">Tảng đá Erech</a> và các anh hùng phải đi cứu ông, đồng thời chạm trán với Đội quân của người chết trên đường đi. Nhiệm vụ có từ khóa "quang phổ", thay đổi cách người chơi tấn công kẻ thù, cũng như cơ chế thời gian, qua đó màn đêm trở nên sâu hơn và các chiến binh ngày càng mạnh mẽ hơn.
+<td>This scenario sees a young <a href="../D/Derufin.md" title="Derufin">Derufin</a> running off to investigate the <a href="../S/Stone_of_Erech.md" title="Stone of Erech">Stone of Erech</a> and the heroes must go and save him, encountering the Army of the Dead along the way. The quest features the &#34;spectral&#34; keyword, which changes how the players attack enemies, as well as a time mechanic, through which the night deepens and the wights grow more powerful.
 </td></tr>
 <tr>
-<td><i>Khu Rừng Cổ</i></td>
+<td><i>The Old Forest</i></td>
 <td>2014</td>
-<td>Được phát hành tại GenCon 2014, kịch bản này khác với các nhiệm vụ thông thường vì đây không phải là một nhiệm vụ độc lập (rất khó) mà là một phần bổ sung cho Chế độ Chiến dịch. Hộp Kỵ sĩ Đen không bao gồm Khu Rừng Cổ hoặc <a href="../B/Barrow-downs.md" title="Barrow-downs">Barrow-downs</a> và bộ bài này, cùng với bộ bài thứ hai được phát hành như một phần của Sự kiện Học bổng năm 2014, sẽ bao gồm các chương đó của cuốn sách.
+<td>Released at GenCon 2014, this scenario departs from the usual quests because it is not a (very difficult) standalone quest, but an addition to Campaign Mode. The Black Riders box did not include the Old Forest or the <a href="../B/Barrow-downs.md" title="Barrow-downs">Barrow-downs</a> and this deck, along with a second released as part of the 2014 Fellowship Event, will cover those chapters of the book.
 </td></tr>
 <tr>
 <td><i>Fog on the Barrow-downs</i><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></td>
 <td>2014</td>
-<td>Ban đầu được phát hành như một tính năng của Sự kiện Học bổng 2014, nhiệm vụ này sẽ lấp đầy một khoảng trống khác trong bản mở rộng Kỵ sĩ Đen. Nó cho phép người chơi diễn lại các sự kiện của chương trùng tên trong cuốn sách. Người chơi phải đối mặt với lũ xác sống và bị mắc kẹt ở những địa điểm có rào chắn.
+<td>Originally released as the feature of the Fellowship Event 2014, this quest fills in another gap in the Black Riders expansion. It allows players to reenact the events of the namesake chapter from the book. Players face wights and get trapped in barrow locations.
 </td></tr>
 <tr>
 <td><i>The Ruins of Belegost</i><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></td>
@@ -233,7 +233,7 @@ Theo định kỳ, dưới dạng các bản phát hành đặc biệt cho sự 
 <td><i>Murder at the Prancing Pony</i><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></td>
 <td>2015</td>
 <td>
-<p>Ban đầu được phát hành như một tính năng của Sự kiện Học bổng 2015, nhiệm vụ này liên quan đến việc giải quyết một bí ẩn giết người khi <a href="../B/Barliman_Butterbur.md" title="Barliman Butterbur">Barliman Butterbur</a> tìm thấy một xác chết tại <a class="mw-redirect" href="../P/Prancing_Pony.md" title="Prancing Pony">Prancing Pony</a>. 
+<p>Originally released as the feature of the Fellowship Event 2015, this quest involves solving a murder mystery when <a href="../B/Barliman_Butterbur.md" title="Barliman Butterbur">Barliman Butterbur</a> finds a dead body at the <a class="mw-redirect" href="../P/Prancing_Pony.md" title="Prancing Pony">Prancing Pony</a>. 
 </p>
 </td></tr>
 <tr>
@@ -266,7 +266,7 @@ Theo định kỳ, dưới dạng các bản phát hành đặc biệt cho sự 
 <tr>
 <td><i>The Dark of Mirkwood</i> <sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></td>
 <td>2022</td>
-<td>Chứa hai cuộc phiêu lưu, <i>The Oath</i> và <i>The Caves of Nibin-dûm</i>, cả hai trước đây chỉ có trong Phiên bản giới hạn của Hộp lõi. Kịch bản độc lập duy nhất sẽ được cung cấp sau khi đóng gói lại và đổi thương hiệu vào năm 2022.
+<td>Contains two adventures, <i>The Oath</i> and <i>The Caves of Nibin-dûm</i>, both previously only available in the Limited Edition of the Core Box. The only standalone scenario to be made available after the re-packaging and re-branding in 2022.
 </td></tr></tbody></table>
 
 Fantasy Flight trước đây cũng cung cấp **Nightmare Decks**, nội dung in theo yêu cầu cho các tình huống cụ thể sẽ thay thế hoặc bổ sung các thẻ phiêu lưu hiện có bằng những thẻ nguy hiểm hơn để cung cấp cho người chơi thêm một lớp thử thách nếu muốn.
@@ -288,7 +288,7 @@ Bộ lõi bao gồm 216 lá bài có thể được sử dụng để tập hợ
 
 ## Di sản {#Legacy}
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings-_The_Card_Game.png.md"><img src="https://tolkiengateway.net/w/images/4/43/The_Lord_of_the_Rings-_The_Card_Game.png" decoding="async" loading="lazy" width="275" height="274" class="mw-file-element" data-file-width="275" data-file-height="274"/></a><figcaption>Nghệ thuật hộp cốt lõi gốc trước năm 2022</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings-_The_Card_Game.png.md"><img src="https://tolkiengateway.net/w/images/4/43/The_Lord_of_the_Rings-_The_Card_Game.png" decoding="async" loading="lazy" width="275" height="274" class="mw-file-element" data-file-width="275" data-file-height="274"/></a><figcaption>Original Core Box Art prior to 2022</figcaption></figure>
 
 Sau khi sửa đổi Bộ cốt lõi vào năm 2022 và sau đó phát hành các sản phẩm được đóng gói lại cho đến năm 2024, Fantasy Flight đã cho biết rằng trò chơi hiện đã "hoàn thành". Do đó, sẽ không có nội dung mới nào được tạo ra nhưng họ có ý định tiếp tục in Core Box, Starter Decks và các sản phẩm đóng gói lại trong tương lai gần.
 
@@ -370,10 +370,10 @@ Sau khi sửa đổi Bộ cốt lõi vào năm 2022 và sau đó phát hành cá
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Card_game" title="wikipedia:Card game">Trò chơi bài</a> được cấp phép được đặt trong <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Card_game" title="wikipedia:Card game">Card Games</a> set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Collectible_card_game" title="wikipedia:Collectible card game">Trò chơi thẻ bài sưu tầm</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Collectible_card_game" title="wikipedia:Collectible card game">Collectible Card Games</a></b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle Earth CCG</a></b></i> (<a href="../_/1995.md" title="1995">1995</a>-<a href="../_/1998.md" title="1998">1998</a>) • <i><b><a href="The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">Lord of the Rings TCG</a></b></i> (<a href="../_/2001.md" title="2001">2001</a>-<a href="../_/2007.md" title="2007">2007</a>)
@@ -385,19 +385,19 @@ Sau khi sửa đổi Bộ cốt lõi vào năm 2022 và sau đó phát hành cá
 <td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">Tales of Middle Earth</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>) • <i><b><a href="../M/Magic%253A_The_Gathering_-_The_Hobbit.md" title="Magic: The Gathering - The Hobbit">The Hobbit</a></b></i> (<a href="../_/2026.md" title="2026">2026</a>)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Expandable_card_game" title="wikipedia:Expandable card game">Trò chơi thẻ bài Living Card Games</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Expandable_card_game" title="wikipedia:Expandable card game">Living Card Games</a></b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a class="mw-selflink selflink">The Card Game</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>-<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">Adventure Card Game</a></b></i> (<a href="../_/2022.md" title="2022">2022</a> kỹ thuật số)
+<td align="center" style="font-size: 90%;">  <i><b><a class="mw-selflink selflink">The Card Game</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>-<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">Adventure Card Game</a></b></i> (<a href="../_/2022.md" title="2022">2022</a> digital)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Loạt trò chơi ăn bài</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Trick-Taking Game Series</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_–_Trick-Taking_Game.md" title="The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game">Fellowship of the Ring</a></b></i> (<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_–_Trick-Taking_Game.md" title="The Lord of the Rings: The Two Towers – Trick-Taking Game">Two Towers</a></b></i> (<a href="../_/2026.md" title="2026">2026</a>)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Các trò chơi thẻ bài khác</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Other Card Games</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings_Tarot.md" title="The Lord of the Rings Tarot">Tarot</a></b></i> (<a href="../_/1997.md" title="1997">1997</a>) • <i><b><a href="The_Hobbit_Card_Game.md" title="The Hobbit Card Game">The Hobbit</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) • <i><b><a href="../W/War_of_the_Ring%253A_The_Card_Game.md" title="War of the Ring: The Card Game">War of the Ring</a></b></i> (<a href="../_/2022.md" title="2022">2022</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_Duel_for_Middle-earth.md" title="The Lord of the Rings: Duel for Middle-earth">Duel for Middle-earth</a></b></i> (<a href="../_/2024.md" title="2024">2024</a>)

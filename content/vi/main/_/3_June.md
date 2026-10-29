@@ -26,7 +26,7 @@ images:
   - "TG-logo.gif"
 ---
 
-<div class="template-month floatright"><div class="tg-card tg-event-card" style=""><div class="tg-card-image"><div class="tg-card-background"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c1/TG-logo.gif" decoding="async" loading="lazy" width="400" height="535" class="mw-file-element" data-file-width="160" data-file-height="214"/></span></span></div><div class="tg-card-label"><span><span class="tg-event-card-year">2005</span><span class="tg-event-card-month">JUN</span><span class="tg-event-card-day">3</span></span></div><div class="tg-card-content"><div class="tg-card-title">Tolkien Gateway mở dưới dạng wiki</div><div class="tg-card-caption">Trên Trái Đất</div></div><div class="tg-card-link"><a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a></div></div></div><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=3_June/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Chỉnh sửa sự kiện được tuyển chọn</a></div><div class="tg-section-divider"><span><a href="../J/June.md" title="June">June</a></span></div>
+<div class="template-month floatright"><div class="tg-card tg-event-card" style=""><div class="tg-card-image"><div class="tg-card-background"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c1/TG-logo.gif" decoding="async" loading="lazy" width="400" height="535" class="mw-file-element" data-file-width="160" data-file-height="214"/></span></span></div><div class="tg-card-label"><span><span class="tg-event-card-year">2005</span><span class="tg-event-card-month">JUN</span><span class="tg-event-card-day">3</span></span></div><div class="tg-card-content"><div class="tg-card-title">Tolkien Gateway opens as a wiki</div><div class="tg-card-caption">On Earth</div></div><div class="tg-card-link"><a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a></div></div></div><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=3_June/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Edit curated event</a></div><div class="tg-section-divider"><span><a href="../J/June.md" title="June">June</a></span></div>
 <div class="template-month__grid">
 <div class="template-month__day"><a href="1_June.md" title="1 June">1</a></div>
 <div class="template-month__day"><a href="2_June.md" title="2 June">2</a></div>
@@ -58,7 +58,7 @@ images:
 <div class="template-month__day"><a href="28_June.md" title="28 June">28</a></div>
 <div class="template-month__day"><a href="29_June.md" title="29 June">29</a></div>
 <div class="template-month__day"><a href="30_June.md" title="30 June">30</a></div>
-</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Tháng 1</a></div><div class="tg-button"><a href="../F/February.md" title="February">Tháng 2</a></div><div class="tg-button"><a href="../M/March.md" title="March">Tháng 3</a></div><div class="tg-button"><a href="../A/April.md" title="April">Tháng 4</a></div><div class="tg-button"><a href="../M/May.md" title="May">Tháng 5</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Tháng 7</a></div><div class="tg-button"><a href="../A/August.md" title="August">Tháng 8</a></div><div class="tg-button"><a href="../S/September.md" title="September">Tháng 9</a></div><div class="tg-button"><a href="../O/October.md" title="October">Tháng 10</a></div><div class="tg-button"><a href="../N/November.md" title="November">Tháng 11</a></div><div class="tg-button"><a href="../D/December.md" title="December">Tháng 12</a></div></div>
+</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
 Sự kiện xảy ra vào ngày 3 tháng 6
@@ -69,11 +69,11 @@ Sự kiện xảy ra vào ngày 3 tháng 6
 - **[1930](1930.md)** - Tác giả [Marion Zimmer Bradley](../M/Marion_Zimmer_Bradley.md) ra đời.
 - **[1945](1945.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 101](../L/Letter_101.md).
 - **[1947](1947.md)** - Diễn viên lồng tiếng [Matthew Locricchio](../M/Matthew_Locricchio.md) ra đời.
-- **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được [Đại học Oxford](../U/University_of_Oxford.md) trao tặng Bằng Tiến sĩ Danh dự về Văn chương.
+- **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được [Đại học Oxford](../U/University_of_Oxford.md) trao tặng bằng Tiến sĩ Văn học danh dự.
 - **[1998](1998.md)** - Nhà sản xuất [William Lawrence Snyder](../W/William_Lawrence_Snyder.md) qua đời.
 - **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Atlanta" title="wikipedia:Atlanta">Atlanta</a> Nhà hát Giao hưởng, <a class="extiw" href="http://en.wikipedia.org/wiki/Georgia_(U.S._state)" title="wikipedia:Georgia (U.S. state)">Georgia</a>.
 - **[2005](2005.md)** - [Tolkien Gateway](../T/Tolkien_Gateway.md) mở dưới dạng wiki.
 
 ## Trong Arda {#In_Arda}
 
-<dl><dd><i>Không có sự kiện nào được biết đến vào ngày này.</i></dd></dl>
+<dl><dd><i>There are no known events on this day.</i></dd></dl>

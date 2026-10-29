@@ -15,19 +15,19 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a></b></div></div>
 
 **Eorlingas** hoặc **Eorlings**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là tên mà [Rohirrim](../R/Rohirrim.md) đôi khi được sử dụng cho chính họ, với tư cách là những người theo dõi và là hậu duệ của [Vua](../K/Kings_of_Rohan.md) đầu tiên của họ, [Eorl](Eorl.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>.
 
-Từ này được sử dụng trong lời kêu gọi vũ trang được hô vang bởi Vua [Théoden](../T/Théoden.md) khi [Gandalf](../G/Gandalf.md) đã chữa lành vết thương cho ông:<sup id="cite_ref-:0_4-0" class="reference"><a href="#cite_note-:0-4">[4]</a></sup>
+Từ này được sử dụng trong lời kêu gọi vũ trang được hô vang bởi Vua [Théoden](../T/Théoden.md) khi [Gandalf](../G/Gandalf.md) đã chữa lành vết thương cho ông ta:<sup id="cite_ref-:0_4-0" class="reference"><a href="#cite_note-:0-4">[4]</a></sup>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Hãy trỗi dậy ngay bây giờ, hãy trỗi dậy, Các kỵ sĩ của Théoden!<br/>Hãy thức tỉnh, trời đã tối ở phía đông.<br/>Hãy buộc ngựa và thổi còi!<br/>Tiến lên Eorlingas!
+<p>Arise now, arise, Riders of Théoden!<br/>Dire deeds awake, dark it is eastward.<br/>Let horse be bridled, horn be sounded!<br/>Forth Eorlingas!
 </p>
 <p class="tg-quote-footer"><cite>King Théoden</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Nó cũng được sử dụng bởi những người có vũ trang đứng gần đó sau khi chữa lành,<sup id="cite_ref-:0_4-1" class="reference"><a href="#cite_note-:0-4">[4]</a></sup> bởi [Háma](../H/Háma.md) khi ông đề nghị [Éowyn](../_/Éowyn.md) làm nhiếp chính của [Rohan](../R/Rohan.md) trong thời gian Vua Théoden<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>vắng mặt, bởi Théoden và các kỵ sĩ của ông,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> và bởi Théoden để tập hợp người Rohirrim trong [Trận chiến của Hornburg](../B/Battle_of_the_Hornburg.md)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>và [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>.
+Nó cũng được sử dụng bởi những người có vũ trang đứng gần đó sau khi chữa lành,<sup id="cite_ref-:0_4-1" class="reference"><a href="#cite_note-:0-4">[4]</a></sup> bởi [Háma](../H/Háma.md) khi ông ta đề nghị [Éowyn](../_/Éowyn.md) làm nhiếp chính của [Rohan](../R/Rohan.md) trong thời gian Vua Théoden<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>vắng mặt, bởi Théoden và các kỵ sĩ của ông ta,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> và bởi Théoden để tập hợp người Rohirrim trong [Trận chiến của Hornburg](../B/Battle_of_the_Hornburg.md)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>và [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>.
 
 ## Từ nguyên {#Etymology}
 

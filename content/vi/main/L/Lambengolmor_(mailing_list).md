@@ -20,7 +20,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>danh sách gửi thư về <a href="Languages.md" title="Languages">ngôn ngữ</a></b> của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>. Đối với Tiên Loremasters, hãy xem <b><a href="Lambengolmor.md" title="Lambengolmor">Lambengolmor</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the mailing list about <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="Languages.md" title="Languages">languages</a></b>. For the the Elven Loremasters, see <b><a href="Lambengolmor.md" title="Lambengolmor">Lambengolmor</a></b>.</div></div>
 
 **Lambengolmor** là danh sách gửi thư dành cho nghiên cứu học thuật và thảo luận về các ngôn ngữ được phát minh ra của Tolkien, được đưa ra bởi [Carl F. Hostetter](../C/Carl_F._Hostetter.md) của [E.L.F.](../E/Elvish_Linguistic_Fellowship.md) vào [29 tháng 5](../_/29_May.md) [2002](../_/2002.md).
 

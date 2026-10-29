@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Người Lùn Nhỏ](../../main/P/Petty-dwarves.md): [Mîm](../../main/M/Mîm.md), [Ibun](../../main/I/Ibun.md) và [Khîm](../../main/K/Khîm.md).
+[Người lùn Nhỏ](../../main/P/Petty-dwarves.md): [Mîm](../../main/M/Mîm.md), [Ibun](../../main/I/Ibun.md) và [Khîm](../../main/K/Khîm.md).
 
 ## Giấy phép {#Licensing}
 

@@ -29,48 +29,48 @@ images:
   - "Peter_Bird_-_Middle-earth.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Later_Ages&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Later_Ages&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Viết lại</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được viết lại để tuân thủ <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn</a>...<blockquote class="tg-quote noexcerpt">
-<p>Những người khôn ngoan sẽ ở lại đây và hy vọng xây dựng lại thị trấn của chúng ta...
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Rewrite</div></div><div class="ext-floatingui-content">This article or section needs to be rewritten to comply with Tolkien Gateway&#39;s <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standards</a>...<blockquote class="tg-quote noexcerpt">
+<p>The wise will stay here and hope to rebuild our town...
 </p>
-<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Chủ nhân Thị trấn Hồ</a></cite></p>
+<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a></cite></p>
 </blockquote></div></div>
 
 <table align="right" cellpadding="6" cellspacing="0" class="tginfobox floatright">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">Lịch sử Arda</a>
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">History of Arda</a>
 </th></tr>
 <tr>
-<td colspan="3"><b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Âm nhạc của các Ainur</a></b>
+<td colspan="3"><b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Music of the Ainur</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../T/Timeline.md" title="Timeline">Dòng thời gian Arda</a></b>
-</td></tr>
-<tr>
-<td style="padding-top: 0em; padding-bottom: 0em;">
-</td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../D/Days_before_days.md" title="Days before days">Những ngày trước thời đại</a>
+<td colspan="3"><b><a href="../T/Timeline.md" title="Timeline">Timeline of Arda</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Thời đại Cây Hai Ngọn</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../D/Days_before_days.md" title="Days before days">Days before days</a>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Những năm Mặt Trời</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Years of the Trees</a>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Các Kỷ nguyên của Những Người Con của Ilúvatar</a></b>
+<td style="padding-top: 0em; padding-bottom: 0em;">
+</td>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Years of the Sun</a>
+</td></tr>
+<tr>
+<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Ages of the Children of Ilúvatar</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
@@ -95,20 +95,20 @@ images:
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a class="mw-selflink selflink">Sau Kỷ nguyên</a> <small>(tính đến thời điểm hiện tại)</small>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a class="mw-selflink selflink">Later Ages</a> <small>(up to present day)</small>
 </td></tr>
 <tr>
 <td colspan="3"><b><a href="../D/Dagor_Dagorath.md" title="Dagor Dagorath">Dagor Dagorath</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Âm nhạc thứ hai của các Ainur</a></b>
+<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Second Music of the Ainur</a></b>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">Xem thêm: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Truyền thuyết phiên bản Round World</a></b>
+<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">See also: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Round World version of the legendarium</a></b>
 </td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Bởi không phải chúng ta mà những người đến sau sẽ làm nên huyền thoại cho thời đại chúng ta.
+<p>For not we but those who come after will make the legends of our time.
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> in <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_Riders_of_Rohan.md" title="The Riders of Rohan">The Riders of Rohan</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -118,7 +118,7 @@ Bài viết này liên quan đến **sau Kỷ nguyên**, được định nghĩa
 Theo một trong những dự thảo của *[Appendices](../A/Appendices.md)*, người ta nói về Kỷ Đệ Tứ:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Về <a href="../E/Eldarion.md" title="Eldarion">Eldarion</a> con trai của <a href="../A/Aragorn.md" title="Aragorn">Elessar</a>, người ta đã tiên đoán rằng ông sẽ cai trị một <a href="../R/Reunited_Kingdom.md" title="Reunited Kingdom">vương quốc</a> vĩ đại, và <b>rằng nó sẽ tồn tại đến hàng trăm thế hệ <a href="../M/Men.md" title="Men">Con Người</a> sau ông, đó là cho đến khi một thời đại mới lại mang đến những điều mới mẻ</b>; và từ ông sẽ trở thành vị vua của nhiều cõi trong những ngày dài sau đó.
+<p>Of <a href="../E/Eldarion.md" title="Eldarion">Eldarion</a> son of <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> it was foretold that he should rule a great <a href="../R/Reunited_Kingdom.md" title="Reunited Kingdom">realm</a>, and <b>that it should endure for a hundred generations of <a href="../M/Men.md" title="Men">Men</a> after him, that is until a new age brought in again new things</b>; and from him should come the kings of many realms in long days after.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;<a href="../T/The_Tale_of_Years_of_the_Third_Age.md" title="The Tale of Years of the Third Age">The Tale of Years of the Third Age</a>&#34;<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote>
@@ -137,7 +137,7 @@ Tuy nhiên, cuối cùng ông kết luận rằng Kỷ nguyên đã "tăng tốc
 
 Trong văn bản [1960](../_/1960.md) có tên <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Awaking_of_the_Quendi&amp;action=edit&amp;redlink=1" title="The Awaking of the Quendi (page does not exist)">Sự thức tỉnh của Quendi</a></i>, Tolkien gọi rõ ràng năm 1960 sau Công nguyên (năm mà ông viết văn bản) là năm 1960 của **Kỷ nguyên thứ bảy**.
 
-Trong văn bản đó Tolkien kết nối sự khởi đầu của Kỷ Đệ Thất (tức là [Se.A.](../S/Seventh_Age.md) [1](../S/Seventh_Age_1.md)) với [sự nhập thể](../O/Old_Hope.md) của [Ilúvatar](../I/Ilúvatar.md) (nghĩa là sự ra đời của <a class="extiw" href="http://en.wikipedia.org/wiki/Jesus" title="wikipedia:Jesus">Chúa Giê-su Christ</a> vào <a class="extiw" href="http://en.wikipedia.org/wiki/AD_1" title="wikipedia:AD 1">1 SCN</a> theo thế giới thực <i><a class="extiw" href="http://en.wikipedia.org/wiki/Anno_Domini" title="wikipedia:Anno Domini">Anno Domini</a></i> tính toán của [Giáo hội Công giáo](../C/Christianity.md)).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
+Trong văn bản đó Tolkien kết nối sự khởi đầu của Thời đại thứ bảy (tức là [Se.A.](../S/Seventh_Age.md) [1](../S/Seventh_Age_1.md)) với [sự nhập thể](../O/Old_Hope.md) của [Ilúvatar](../I/Ilúvatar.md) (nghĩa là sự ra đời của <a class="extiw" href="http://en.wikipedia.org/wiki/Jesus" title="wikipedia:Jesus">Chúa Giê-su Christ</a> vào <a class="extiw" href="http://en.wikipedia.org/wiki/AD_1" title="wikipedia:AD 1">1 SCN</a> theo thế giới thực <i><a class="extiw" href="http://en.wikipedia.org/wiki/Anno_Domini" title="wikipedia:Anno Domini">Anno Domini</a></i> tính toán của [Giáo hội Công giáo](../C/Christianity.md)).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
 
 Tolkien cũng tiếp tục nói rằng khoảng cách thời gian giữa năm 1960 của Kỷ thứ bảy (tức là năm 1960 sau Công nguyên) và [Năm Mặt Trời](../Y/Years_of_the_Sun.md) [310](../F/First_Age_310.md) của [Kỷ Đệ Nhất](../F/First_Age.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 2]</a></sup> là 16.000 năm.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[3]</a></sup>
 
@@ -154,15 +154,15 @@ Do đó, thời lượng trung bình của Kỷ Đệ Tứ đến Kỷ nguyên T
 Vào [ngày 26 tháng 11](../N/November_26.md) [1964](../_/1964.md) Tolkien đã được phỏng vấn bởi [BBC](../B/BBC.md), và trong phần thân mật hơn của cuộc phỏng vấn với [Denys Gueroult](../D/Denys_Gueroult.md)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[5]</a></sup>, ông đã thẳng thắn đề cập rằng các sự kiện của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* xảy ra vào khoảng 7-8.000 năm trước hiện tại (lúc đó là năm 1964), phần nào nhất quán với bài luận *The Awakening of the Quendi*:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Tôi nghĩ, cuối cùng thì các mặt trăng và mặt trời cũng đã hoạt động giống như thực tế chúng ở khu vực này của thế giới vào năm 1942. Họ phải có thứ gì đó mà họ... Ý tôi là... Tôi không thể... Tôi không đủ giỏi về toán học hay thiên văn học để tìm ra nơi họ có thể <b>bảy nghìn, tám nghìn năm trước</b>. Nhưng miễn là chúng tương ứng với một số cấu hình thực tế thì tôi nghĩ nó đủ tốt. Tất nhiên, mặt trăng khó xử lý hơn nhiều so với mặt trời, nhưng nhìn chung, tôi không nghĩ mặt trăng tròn hay mọc sai vị trí...
+<p>The moons, I think, finally the moons and the suns have worked out according to what they were in this part of the world in 1942 actually. They must have something where they... I mean one... I couldn’t... I’m not good enough mathematician or astronomer to work out where they might have been <b>seven thousand, eight thousand years ago</b>. But as long as they correspond to some real configuration I thought it was good enough. Moons are much more tricky to deal with than suns of course, but in the whole, I don’t think the moon is full or rises in the wrong place...
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../_/1964_BBC_Interview.md" title="1964 BBC Interview">1964 BBC Interview</a></i>, <i>24:42 to 25:05 video mark</i><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[6]</a></sup></cite></p>
 </blockquote>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Later_Ages&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Later_Ages&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
@@ -171,17 +171,17 @@ Sau này trong cuộc đời mình, Tolkien đã viết về khả năng rằng 
 
 ## Cảm hứng {#Inspiration}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Peter_Bird_-_Middle-earth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9d/Peter_Bird_-_Middle-earth.jpg/300px-Peter_Bird_-_Middle-earth.jpg" decoding="async" loading="lazy" width="300" height="301" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9d/Peter_Bird_-_Middle-earth.jpg/450px-Peter_Bird_-_Middle-earth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9d/Peter_Bird_-_Middle-earth.jpg/600px-Peter_Bird_-_Middle-earth.jpg 2x" data-file-width="1013" data-file-height="1015"/></a><figcaption>Bản đồ địa vật lý tổng hợp Trung Địa và châu Âu hiện đại của Peter Bird.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Peter_Bird_-_Middle-earth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9d/Peter_Bird_-_Middle-earth.jpg/300px-Peter_Bird_-_Middle-earth.jpg" decoding="async" loading="lazy" width="300" height="301" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9d/Peter_Bird_-_Middle-earth.jpg/450px-Peter_Bird_-_Middle-earth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9d/Peter_Bird_-_Middle-earth.jpg/600px-Peter_Bird_-_Middle-earth.jpg 2x" data-file-width="1013" data-file-height="1015"/></a><figcaption>Composite geophysical map of Middle-earth and modern Europe by Peter Bird.</figcaption></figure>
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Later_Ages&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Later_Ages&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b><a href="../_/1995.md" title="1995">1995</a>: <i><a href="../D/Dragon_Magazine.md" title="Dragon Magazine">Tạp chí Dragon</a></i>:</b> Tạp chí phiên bản tiếng Pháp có bài viết về "Kỷ nguyên thứ năm" của Trung Địa; bản đồ được minh họa bởi [Olivier Frot](../O/Olivier_Frot.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[8]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[note 3]</a></sup>
+<b><a href="../_/1995.md" title="1995">1995</a>: <i><a href="../D/Dragon_Magazine.md" title="Dragon Magazine">Rồng Tạp chí</a></i>:</b> Tạp chí phiên bản tiếng Pháp có bài viết về "Kỷ nguyên thứ năm" của Trung Địa; bản đồ được minh họa bởi [Olivier Frot](../O/Olivier_Frot.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[8]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[note 3]</a></sup>
 
 <b><a href="../_/2000.md" title="2000">2000</a>: <i><a href="../T/Tolkien%253A_The_Illustrated_Encyclopedia.md" title="Tolkien: The Illustrated Encyclopedia">Tolkien: The Illustrated Encyclopedia</a></i>:</b> [David Day](../D/David_Day.md) hiển thị một số tiến hóa theo trình tự thời gian của [Arda](../A/Arda.md), từ "Thời đại của những ngọn đèn" đến Kỷ Đệ Tam, trong khi ở phần sau Kỷ nguyên các hình minh họa cho thấy Trung Địa đã thay đổi về mặt địa chất như thế nào để giống với Châu Âu hiện đại, trong khi và một lục địa giống châu Mỹ hình thành ở phía tây [Belegaer](../B/Belegaer.md).
 

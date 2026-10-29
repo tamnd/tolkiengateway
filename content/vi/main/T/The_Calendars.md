@@ -20,22 +20,22 @@ sort_keys:
 </th></tr>
 <tr>
 <td>
-<ol><li><a href="The_Prologue.md" title="The Prologue">Lời mở đầu</a></li>
-<li><a href="The_Appendix_on_Languages.md" title="The Appendix on Languages">Phụ lục về ngôn ngữ</a></li>
-<li><a href="The_Family_Trees.md" title="The Family Trees">Phả hệ</a></li>
-<li><a class="mw-selflink selflink">Các bộ lịch</a></li>
-<li><a href="The_History_of_the_Akallabêth.md" title="The History of the Akallabêth">Lịch sử Akallabêth</a></li>
+<ol><li><a href="The_Prologue.md" title="The Prologue">The Prologue</a></li>
+<li><a href="The_Appendix_on_Languages.md" title="The Appendix on Languages">The Appendix on Languages</a></li>
+<li><a href="The_Family_Trees.md" title="The Family Trees">The Family Trees</a></li>
+<li><a class="mw-selflink selflink">The Calendars</a></li>
+<li><a href="The_History_of_the_Akallabêth.md" title="The History of the Akallabêth">The History of the Akallabêth</a></li>
 <li><a href="The_Tale_of_Years_of_the_Second_Age.md" title="The Tale of Years of the Second Age">The Tale of Years of the Second Age</a></li>
-<li><a href="The_Heirs_of_Elendil.md" title="The Heirs of Elendil">Những người thừa kế Elendil</a></li>
+<li><a href="The_Heirs_of_Elendil.md" title="The Heirs of Elendil">The Heirs of Elendil</a></li>
 <li><a href="The_Tale_of_Years_of_the_Third_Age.md" title="The Tale of Years of the Third Age">The Tale of Years of the Third Age</a></li>
-<li><a href="The_Making_of_Appendix_A.md" title="The Making of Appendix A">Quá trình biên soạn Appendix A</a></li>
+<li><a href="The_Making_of_Appendix_A.md" title="The Making of Appendix A">The Making of Appendix A</a></li>
 <li><a href="../O/Of_Dwarves_and_Men.md" title="Of Dwarves and Men">Of Dwarves and Men</a></li>
 <li><a href="The_Shibboleth_of_Fëanor.md" title="The Shibboleth of Fëanor">The Shibboleth of Fëanor</a></li>
 <li><a href="The_Problem_of_Ros.md" title="The Problem of Ros">The Problem of <i>Ros</i></a></li>
-<li><a href="../L/Last_Writings.md" title="Last Writings">Những tác phẩm cuối đời</a></li>
+<li><a href="../L/Last_Writings.md" title="Last Writings">Last Writings</a></li>
 <li><a href="../D/Dangweth_Pengoloð.md" title="Dangweth Pengoloð">Dangweth Pengoloð</a></li>
-<li><a href="../O/Of_Lembas.md" title="Of Lembas">Về Lembas</a></li>
-<li><a href="The_New_Shadow.md" title="The New Shadow">Bóng Tối Mới</a></li>
+<li><a href="../O/Of_Lembas.md" title="Of Lembas">Of Lembas</a></li>
+<li><a href="The_New_Shadow.md" title="The New Shadow">The New Shadow</a></li>
 <li><a href="Tal-Elmar_(chapter).md" title="Tal-Elmar (chapter)">Tal-Elmar</a></li></ol>
 </td></tr></tbody></table>
 
@@ -47,7 +47,7 @@ Văn bản trước đó, D1, có lịch Eldarin không liên quan đến lịch
 
 Trong D2, hệ thống Eldarin đã được thay đổi nhưng vẫn không khớp với các chi tiết của Phụ lục D. The Númenórean hệ thống có những thay đổi lớn hơn khi chuyển sang D2, nhưng lại khác với Phụ lục D.<sup id="cite_ref-Calendars_1-2" class="reference"><a href="#cite_note-Calendars-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:131</sup> D2 đã thấy việc bổ sung hệ thống sửa đổi theo [Người quản lý](../S/Stewards.md) không được Hobbit áp dụng. D2 không đề cập đến lịch mới được giới thiệu sau sự sụp đổ của [Barad-dûr](../B/Barad-dûr.md) trong khi D1 có ghi chú ngắn gọn về ảnh hưởng đó.<sup id="cite_ref-Calendars_1-3" class="reference"><a href="#cite_note-Calendars-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:132</sup>
 
-Lịch được [Gondor](../G/Gondor.md) sử dụng trong [Kỷ Đệ Tứ](../F/Fourth_Age.md) được mô tả tiếp theo, một lần nữa không phải ở dạng cuối cùng được xuất bản trong Phụ lục D. Since đầu năm đã có sự thay đổi đáng kể trong hệ thống mới, [Tolkien](../J/J.R.R._Tolkien.md) đã tạo một bảng thể hiện rõ ràng sự tương ứng về ngày tháng giữa hệ thống mới, [Lịch Shire](../S/Shire_Reckoning.md) và Tính toán của Người quản lý.<sup id="cite_ref-Calendars_1-4" class="reference"><a href="#cite_note-Calendars-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:134</sup>
+Lịch được [Gondor](../G/Gondor.md) sử dụng trong [Kỷ Đệ Tứ](../F/Fourth_Age.md) được mô tả tiếp theo, một lần nữa không phải ở dạng cuối cùng được xuất bản trong Phụ lục D. Since đầu năm đã có sự thay đổi đáng kể trong hệ thống mới, [Tolkien](../J/J.R.R._Tolkien.md) đã tạo một bảng thể hiện rõ ràng sự tương ứng về ngày tháng giữa hệ thống mới, [Shire Tính toán](../S/Shire_Reckoning.md) và Tính toán của Người quản lý.<sup id="cite_ref-Calendars_1-4" class="reference"><a href="#cite_note-Calendars-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:134</sup>
 
 Christopher sau đó tuyên bố rằng "cấu trúc cân bằng trang nhã" của D2 đã bị loại bỏ và thay thế bằng văn bản của Phụ lục D.<sup id="cite_ref-Calendars_1-5" class="reference"><a href="#cite_note-Calendars-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:135</sup> Ông không tìm thấy thêm văn bản nào sau D2 trước bản đánh máy của Phụ lục D, mà ông mô tả là "thô sơ và được sửa đổi nhiều". Anh tin rằng cha anh vẫn đang trong quá trình phát triển Lịch khi nhu cầu gửi văn bản trở nên cấp bách, và nếu Tolkien hoàn thành được ý tưởng của mình thì Phụ lục D sẽ "khác biệt rõ rệt".<sup id="cite_ref-Calendars_1-6" class="reference"><a href="#cite_note-Calendars-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:136</sup>
 

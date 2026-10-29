@@ -42,16 +42,16 @@ infobox:
     value: "Partings"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_Great_Wave&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_Great_Wave&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Great_Wave.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f1/The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Great_Wave.jpg/320px-The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Great_Wave.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f1/The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Great_Wave.jpg/480px-The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Great_Wave.jpg 1.5x, https://tolkiengateway.net/w/images/f/f1/The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Great_Wave.jpg 2x" data-file-width="500" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Tập phim</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Great Wave</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a href="../W/Wayne_Che_Yip.md" title="Wayne Che Yip">Wayne Che Yip</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Stephany_Folsom&amp;action=edit&amp;redlink=1" title="Stephany Folsom (page does not exist)">Stephany Folsom</a><br/><a class="mw-redirect" href="../J/J.D._Payne.md" title="J.D. Payne">J.D. Payne</a><br/><a href="../P/Patrick_McKay.md" title="Patrick McKay">Patrick McKay</a></td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a><br/>Main Title by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data"><a class="mw-redirect" href="../A/Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/16_September.md" title="16 September">16 September</a> <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">71 phút</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt11609038" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Điều hướng</span></th></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><i><a href="../A/Adar_(episode).md" title="Adar (episode)">Adar</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><i><a href="../P/Partings.md" title="Partings">Partings</a></i></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Great_Wave.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f1/The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Great_Wave.jpg/320px-The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Great_Wave.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f1/The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Great_Wave.jpg/480px-The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Great_Wave.jpg 1.5x, https://tolkiengateway.net/w/images/f/f1/The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Great_Wave.jpg 2x" data-file-width="500" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Episode</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Great Wave</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data"><a href="../W/Wayne_Che_Yip.md" title="Wayne Che Yip">Wayne Che Yip</a></td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Stephany_Folsom&amp;action=edit&amp;redlink=1" title="Stephany Folsom (page does not exist)">Stephany Folsom</a><br/><a class="mw-redirect" href="../J/J.D._Payne.md" title="J.D. Payne">J.D. Payne</a><br/><a href="../P/Patrick_McKay.md" title="Patrick McKay">Patrick McKay</a></td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a><br/>Main Title by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Studio</th><td class="tg-infobox-data"><a class="mw-redirect" href="../A/Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/16_September.md" title="16 September">16 September</a> <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">71 minutes</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt11609038" rel="noreferrer noopener" target="_blank">Profile</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Navigation</span></th></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><i><a href="../A/Adar_(episode).md" title="Adar (episode)">Adar</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><i><a href="../P/Partings.md" title="Partings">Partings</a></i></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p><a href="Tar-Míriel.md" title="Tar-Míriel">Đức tin của Nữ hoàng Nhiếp chính Míriel</a> đã bị thử thách; <a href="../I/Isildur.md" title="Isildur">Isildur</a> thấy mình đang ở ngã tư đường; <a href="../E/Elrond.md" title="Elrond">Elrond</a> khám phá ra một <a href="../M/Mithril.md" title="Mithril">bí mật</a>; <a href="../A/Arondir.md" title="Arondir">Arondir</a> nhận được tối hậu thư; <a href="Theo.md" title="Theo">Theo</a> không vâng lời <a href="../B/Bronwyn.md" title="Bronwyn">Bronwyn</a>.
+<p><a href="Tar-Míriel.md" title="Tar-Míriel">Queen Regent Míriel&#39;s</a> faith is tested; <a href="../I/Isildur.md" title="Isildur">Isildur</a> finds himself at a crossroads; <a href="../E/Elrond.md" title="Elrond">Elrond</a> uncovers a <a href="../M/Mithril.md" title="Mithril">secret</a>; <a href="../A/Arondir.md" title="Arondir">Arondir</a> is given an ultimatum; <a href="Theo.md" title="Theo">Theo</a> disobeys <a href="../B/Bronwyn.md" title="Bronwyn">Bronwyn</a>.
 </p>
 <p class="tg-quote-footer"><cite>Official Synopsis, <a class="mw-redirect" href="../A/Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -64,17 +64,17 @@ infobox:
 
 [Hoàng hậu nhiếp chính Míriel](Tar-Míriel.md) đang tiến hành nghi thức <a class="new" href="https://tolkiengateway.net/w/index.php?title=Blessing_of_the_Children&amp;action=edit&amp;redlink=1" title="Blessing of the Children (page does not exist)">Phúc lành cho trẻ em</a> thì đột nhiên, mặt đất bắt đầu rung chuyển. Míriel nhìn ra ngoài thì thấy nước tràn vào, xô đổ các bức tường thành trong khi một cơn sóng lớn tràn qua [Armenelos](../A/Armenelos.md). Khi nước tràn vào cung điện, Míriel đột nhiên tỉnh dậy sau [giấc mơ](../A/Atlantis-haunting.md) và được chào đón bởi [Edda](../E/Edda.md), người hỏi cô sẽ tham gia công việc gì vào ngày hôm đó.
 
-Tại quảng trường thành phố, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tamar_(The_Rings_of_Power)&amp;action=edit&amp;redlink=1" title="Tamar (The Rings of Power) (page does not exist)">Tamar</a> nói chuyện với một nhóm người về giao dịch của Míriel với [Galadriel](../G/Galadriel.md), truyền bá thông tin sai lệch rằng Tiên tộc sẽ tiếp quản tất cả các bang hội của Númenor. [Pharazôn](../A/Ar-Pharazôn.md), khi được con trai mình, [Kemen](../K/Kemen.md) biết, đã tự mình đi phát biểu trước đám đông. Ông nói với [Con Người](../M/Men.md) rằng sợ Tiên là không xứng đáng với Númenor, đảm bảo với họ rằng ông sẽ giữ Númenor vương quốc của loài người. Sau bài phát biểu, Kemen giới thiệu mình với [Eärien](../E/Eärien.md), sau đó mời cô đi ăn tối.
+Tại quảng trường thành phố, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tamar_(The_Rings_of_Power)&amp;action=edit&amp;redlink=1" title="Tamar (The Rings of Power) (page does not exist)">Tamar</a> nói chuyện với một nhóm người về giao dịch của Míriel với [Galadriel](../G/Galadriel.md), truyền bá thông tin sai lệch rằng Tiên tộc sẽ tiếp quản tất cả các bang hội của Númenor. [Pharazôn](../A/Ar-Pharazôn.md), khi được con trai mình, [Kemen](../K/Kemen.md) biết, đã tự mình đi phát biểu trước đám đông. Ông ta nói với [Con Người](../M/Men.md) rằng sợ Tiên là không xứng đáng với Númenor, đảm bảo với họ rằng ông ta sẽ giữ Númenor vương quốc của loài người. Sau bài phát biểu, Kemen giới thiệu mình với [Eärien](../E/Eärien.md), sau đó mời cô đi ăn tối.
 
-[Galadriel](../G/Galadriel.md) cố gắng thuyết phục một Míriel hoài nghi rằng [Halbrand](../H/Halbrand.md) là vị vua bị lưu đày của Southlands và rằng Númenor sẽ giúp ông đánh bại [Sauron](../S/Sauron.md) ở [Trung Địa](../M/Middle-earth.md). Khi Míriel từ chối bà, Galadriel hung hăng yêu cầu được gặp cha của Míriel, [Tar-Palantir](Tar-Palantir.md), sau đó bà bị tống vào tù trong phòng giam cùng với Halbrand. Trong khi đó, khi đang trải qua cuộc thử nghiệm trên biển, [Isildur](../I/Isildur.md) bị phân tâm bởi hình ảnh của [Phương Tây](../A/Andustar.md), khiến bản thân, [Valandil](<../V/Valandil_(The_Rings_of_Power).md>)và [Ontamo](../O/Ontamo.md) thất bại trong cuộc thử thách và bị trục xuất khỏi [Biển Đội cận vệ](../G/Guild_of_Venturers.md).
+[Galadriel](../G/Galadriel.md) cố gắng thuyết phục một Míriel hoài nghi rằng [Halbrand](../H/Halbrand.md) là vị vua bị lưu đày của Southlands và rằng Númenor sẽ giúp ông ta đánh bại [Sauron](../S/Sauron.md) ở [Trung Địa](../M/Middle-earth.md). Khi Míriel từ chối bà, Galadriel hung hăng yêu cầu được gặp cha của Míriel, [Tar-Palantir](Tar-Palantir.md), sau đó bà bị tống vào tù trong phòng giam cùng với Halbrand. Trong khi đó, khi đang trải qua cuộc thử nghiệm trên biển, [Isildur](../I/Isildur.md) bị phân tâm bởi hình ảnh của [Phương Tây](../A/Andustar.md), khiến bản thân, [Valandil](<../V/Valandil_(The_Rings_of_Power).md>)và [Ontamo](../O/Ontamo.md) thất bại trong cuộc thử thách và bị trục xuất khỏi [Biển Đội cận vệ](../G/Guild_of_Venturers.md).
 
-Nói chuyện với Halbrand, Galadriel nhận ra rằng cô đã kích động sự tức giận và sợ hãi của Míriel bằng cách yêu cầu được nói chuyện với nhà vua. Pharazôn đến cùng với một người bảo vệ để hộ tống cô lên một con tàu quay trở lại Trung Địa, nhưng cô đã áp đảo được những người lính và trốn thoát đến Tháp của <a class="new" href="https://tolkiengateway.net/w/index.php?title=King%27s_house&amp;action=edit&amp;redlink=1" title="King&#39;s house (page does not exist)">Vua</a>, nơi cô đối đầu với Míriel gần giường của Tar-Palantir. Để trả lời câu hỏi của Galadriel, Míriel thông báo với cô rằng một cuộc nổi loạn đã xảy ra khi Tar-Palantir công bố kế hoạch nối lại quan hệ với Tiên tộc, và cô được chọn để cai trị thay ông. Sau đó, bà cho thấy Galadriel một *[palantír](../P/Palantíri.md)* trong đó có thể thấy hình ảnh Númenor bị choáng ngợp bởi một làn sóng lớn. Míriel nói rằng bà sợ rằng việc làm theo lời khuyên của Galadriel sẽ kích động cơn thịnh nộ của [Valar](../V/Valar.md) và dẫn đến sự hủy diệt của Númenor.
+Nói chuyện với Halbrand, Galadriel nhận ra rằng cô đã kích động sự tức giận và sợ hãi của Míriel bằng cách yêu cầu được nói chuyện với nhà vua. Pharazôn đến cùng với một người bảo vệ để hộ tống cô lên một con tàu quay trở lại Trung Địa, nhưng cô đã áp đảo được những người lính và trốn thoát đến Tháp của <a class="new" href="https://tolkiengateway.net/w/index.php?title=King%27s_house&amp;action=edit&amp;redlink=1" title="King&#39;s house (page does not exist)">Vua</a>, nơi cô đối đầu với Míriel gần giường của Tar-Palantir. Để trả lời câu hỏi của Galadriel, Míriel thông báo với cô rằng một cuộc nổi loạn đã xảy ra khi Tar-Palantir công bố kế hoạch nối lại quan hệ với Tiên tộc, và cô được chọn để cai trị thay ông ta. Sau đó, bà cho thấy Galadriel một *[palantír](../P/Palantíri.md)* trong đó có thể thấy hình ảnh Númenor bị choáng ngợp bởi một làn sóng lớn. Míriel nói rằng bà sợ rằng việc làm theo lời khuyên của Galadriel sẽ kích động cơn thịnh nộ của [Valar](../V/Valar.md) và dẫn đến sự hủy diệt của Númenor.
 
 Sáng hôm sau, người Númenor theo dõi Galadriel bước lên một chiếc thuyền ở bến cảng chèo ra một con tàu. Trở lại cung điện, Míriel nhìn thấy những cánh hoa [Cây Trắng](<../N/Nimloth_(tree).md>) rơi xuống, báo hiệu từ Valar. Míriel sau đó thông báo rằng cô dự định đi đến Trung Địa cùng với Galadriel để hỗ trợ người dân Southlands chống lại Sauron. [Elendil](../E/Elendil.md) yêu cầu tình nguyện viên cho lực lượng viễn chinh và nhận được sự hưởng ứng nhiệt tình, bắt đầu từ Isildur, Valandil và Ontamo.
 
 ### Miền Nam {#The_Southlands}
 
-[Arondir](../A/Arondir.md) được đưa đến gặp [Adar](../A/Adar.md) bí ẩn, người được chứng minh là một Tiên bị tra tấn và bị cắt xẻo và hiện là thủ lĩnh của loài Orc. Adar nói rằng Arondir tin vào nhiều lời nói dối, một số lời nói dối sâu sắc đến mức ngay cả đá và rễ cây cũng tin chúng và việc xóa bỏ chúng sẽ cần đến một thế giới mới. Ông gửi Arondir đến những người đang trốn trong tháp canh với một tin nhắn.
+[Arondir](../A/Arondir.md) được đưa đến gặp [Adar](../A/Adar.md) bí ẩn, người được chứng minh là một Tiên bị tra tấn và bị cắt xẻo và hiện là thủ lĩnh của loài Orc. Adar nói rằng Arondir tin vào nhiều lời nói dối, một số lời nói dối sâu sắc đến mức ngay cả đá và rễ cây cũng tin chúng và việc xóa bỏ chúng sẽ cần đến một thế giới mới. Ông ta gửi Arondir đến những người đang trốn trong tháp canh với một tin nhắn.
 
 Trong khi đó con người dựng trại ở tháp canh yêu tinh cũ. Theo và Rowan cố gắng đột kích vào căn hầm và quán rượu của Waldreg nhưng bị lũ Orc tấn công. Rowan bỏ rơi Theo, người đang trốn trong giếng. Vào ban đêm, anh cố gắng trốn thoát trong khi lũ Orc truy lùng anh và Arondir đã giải cứu anh.
 
@@ -82,20 +82,20 @@ Trở lại tòa tháp, Waldreg nói với Theo rằng chuôi kiếm là sức m
 
 ### Eregion và Khazad-dûm {#Eregion_and_Khazad-dûm}
 
-Trong Eregion, Celebrimbor và Elrond xoay quanh các vấn đề. Elrond quay trở lại Khazad-dûm nơi Disa cố gắng ngăn cản ông, nhưng Elrond tình cờ nghe được cuộc nói chuyện của cô với Durin về nơi ông sẽ ở và đi xuống khu mỏ cũ. Ở đó, anh phát hiện ra mạch mithril mỏng trong đá, nhưng Durin đã đối mặt với anh. Durin yêu cầu lời thề giữ bí mật. Khi nhận được nó, ông sẽ trưng bày loại quặng mới này cho Elrond và tặng ông một mảnh vỡ nhỏ. Đột nhiên mỏ phía dưới sụp đổ cùng với bốn người lùn bên trong. Disa hát theo cách vang vọng xuyên qua những tảng đá và cho phép họ giải thoát những người lùn bị mắc kẹt nhưng nhà vua đã đóng cửa hoàn toàn việc khai thác mỏ, dẫn đến mối quan hệ cha con hoàn toàn bất hòa. Câu chuyện của Elrond về chính cha anh đã thuyết phục họ hòa giải và Durin đi đến Lindon cùng với Elrond, thừa nhận rằng anh tin rằng có nhiều điều đang diễn ra hơn những gì đã được nói.
+Trong Eregion, Celebrimbor và Elrond xoay quanh các vấn đề. Elrond quay trở lại Khazad-dûm nơi Disa cố gắng ngăn cản ông ta, nhưng Elrond tình cờ nghe được cuộc nói chuyện của cô với Durin về nơi ông ta sẽ ở và đi xuống khu mỏ cũ. Ở đó, anh phát hiện ra mạch mithril mỏng trong đá, nhưng Durin đã đối mặt với anh. Durin yêu cầu lời thề giữ bí mật. Khi nhận được nó, ông ta sẽ trưng bày loại quặng mới này cho Elrond và tặng ông ta một mảnh vỡ nhỏ. Đột nhiên mỏ phía dưới sụp đổ cùng với bốn người lùn bên trong. Disa hát theo cách vang vọng xuyên qua những tảng đá và cho phép họ giải thoát những người lùn bị mắc kẹt nhưng nhà vua đã đóng cửa hoàn toàn việc khai thác mỏ, dẫn đến mối quan hệ cha con hoàn toàn bất hòa. Câu chuyện của Elrond về chính cha anh đã thuyết phục họ hòa giải và Durin đi đến Lindon cùng với Elrond, thừa nhận rằng anh tin rằng có nhiều điều đang diễn ra hơn những gì đã được nói.
 
 ## Truyền {#Cast}
 
-<dl><dd><i>In order of appearance</i> (trong phần ghi công của tập)</dd></dl>
+<dl><dd><i>In order of appearance</i> (in episode credits)</dd></dl>
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Diễn viên</th>
-<th>Vai trò
+<th>Actor</th>
+<th>Role
 </th></tr>
 <tr>
 <td><a href="../C/Cynthia_Addai-Robinson.md" title="Cynthia Addai-Robinson">Cynthia Addai-Robinson</a></td>
-<td><a href="Tar-Míriel.md" title="Tar-Míriel">Nhiếp chính vương hậu Míriel</a>
+<td><a href="Tar-Míriel.md" title="Tar-Míriel">Queen Regent Míriel</a>
 </td></tr>
 <tr>
 <td><a href="../E/Ema_Horvath.md" title="Ema Horvath">Ema Horvath</a></td>
@@ -115,7 +115,7 @@ Trong Eregion, Celebrimbor và Elrond xoay quanh các vấn đề. Elrond quay t
 </td></tr>
 <tr>
 <td><a href="../L/Lloyd_Owen.md" title="Lloyd Owen">Lloyd Owen</a></td>
-<td><a href="../E/Elendil.md" title="Elendil">Thuyền trưởng Elendil</a>
+<td><a href="../E/Elendil.md" title="Elendil">Captain Elendil</a>
 </td></tr>
 <tr>
 <td><a href="../C/Charlie_Vickers.md" title="Charlie Vickers">Charlie Vickers</a></td>
@@ -167,15 +167,15 @@ Trong Eregion, Celebrimbor và Elrond xoay quanh các vấn đề. Elrond quay t
 </td></tr>
 <tr>
 <td><a href="../C/Charles_Edwards.md" title="Charles Edwards">Charles Edwards</a></td>
-<td><a href="../C/Celebrimbor.md" title="Celebrimbor">Lãnh chúa Celebrimbor</a>
+<td><a href="../C/Celebrimbor.md" title="Celebrimbor">Lord Celebrimbor</a>
 </td></tr>
 <tr>
 <td><a href="../S/Sophia_Nomvete.md" title="Sophia Nomvete">Sophia Nomvete</a></td>
-<td><a href="../D/Disa.md" title="Disa">Công chúa Disa</a>
+<td><a href="../D/Disa.md" title="Disa">Princess Disa</a>
 </td></tr>
 <tr>
 <td><a href="../O/Owain_Arthur.md" title="Owain Arthur">Owain Arthur</a></td>
-<td><a href="../D/Durin_IV.md" title="Durin IV">Thân vương Durin IV</a>
+<td><a href="../D/Durin_IV.md" title="Durin IV">Prince Durin IV</a>
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ken_Blackburn&amp;action=edit&amp;redlink=1" title="Ken Blackburn (page does not exist)">Ken Blackburn</a></td>
@@ -183,7 +183,7 @@ Trong Eregion, Celebrimbor và Elrond xoay quanh các vấn đề. Elrond quay t
 </td></tr>
 <tr>
 <td><a href="../P/Peter_Mullan.md" title="Peter Mullan">Peter Mullan</a></td>
-<td><a href="../D/Durin_III.md" title="Durin III">Vua Durin III</a>
+<td><a href="../D/Durin_III.md" title="Durin III">King Durin III</a>
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Laura_Medes&amp;action=edit&amp;redlink=1" title="Laura Medes (page does not exist)">Laura Medes</a></td>
@@ -242,19 +242,19 @@ Trong Eregion, Celebrimbor và Elrond xoay quanh các vấn đề. Elrond quay t
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Diễn viên</th>
-<th>Vai trò
+<th>Actor</th>
+<th>Role
 </th></tr>
 <tr>
-<td>Diễn viên vô danh</td>
+<td>Unknown actor</td>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Alinel&amp;action=edit&amp;redlink=1" title="Alinel (page does not exist)">Alinel</a>
 </td></tr>
 <tr>
-<td>Diễn viên vô danh</td>
+<td>Unknown actor</td>
 <td><a href="../G/Gamli.md" title="Gamli">Gamli</a>
 </td></tr>
 <tr>
-<td>Diễn viên vô danh</td>
+<td>Unknown actor</td>
 <td><a href="../G/Gerda.md" title="Gerda">Gerda</a>
 </td></tr>
 <tr>
@@ -278,10 +278,10 @@ Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amaz
 - Cảnh 32 - "Các huy hiệu trên [áo dài của Pharazôn](../A/Ar-Pharazôn.md) là biểu tượng của nhiều Bang hội của [Númenor](../N/Númenor.md) - mỗi Bang hội có một huy hiệu để đại diện cho mình và mỗi Bang hội chuyên về một [nghề cụ thể](../G/Guild_of_Venturers.md) hoặc [trách nhiệm công dân](../G/Guild_of_Weaponsmiths.md)."
 - Cảnh 36 - "Những [Palantíri](../P/Palantíri.md) được tạo ra bởi [Noldor](../N/Noldor.md) trong [Valinor](../V/Valinor.md), thậm chí có lẽ bởi chính [Fëanor](../F/Fëanor.md). Những vật thể có sức mạnh đáng kinh ngạc, toàn bộ những gì người ta có thể nhìn thấy bên trong chúng chỉ là suy đoán, nhưng chắc chắn chúng có thể nhìn xuyên qua biển cả nước và thời gian để nhận thức những thứ xa xôi và những ngày xa xôi. (Quyển III, Chương 11)."
 - Cảnh 38 - "Ngôn ngữ mà [Orc](../O/Orcs.md) sử dụng là [Hắc Ngữ](../B/Black_Speech.md), một cái lưỡi được sử dụng không yêu thích ngôn từ, chứa đầy những lời nguyền rủa và lạm dụng. Nó được tạo ra để sử dụng cho những kẻ hầu của cái ác. ([Phụ lục F](../A/Appendix_F.md))"
-- Cảnh 41 - "[Phụ nữ Người Lùn](../D/Dwarf-women.md) hiếm khi bước ra nước ngoài từ vương quốc của mình, làm nảy sinh niềm tin ngu ngốc về họ ở những người bên ngoài. ([Appendix A](../A/Appendix_A.md))"
+- Cảnh 41 - "[Người Lùn-phụ nữ](../D/Dwarf-women.md) hiếm khi bước ra nước ngoài từ vương quốc của mình, làm nảy sinh niềm tin ngu ngốc về họ ở những người bên ngoài. ([Appendix A](../A/Appendix_A.md))"
 - Cảnh 42 - "<a class="mw-redirect mw-disambig" href="../D/Durin.md" title="Durin">Durin</a> là tên của người lớn tuổi nhất trong [Bảy người cha](../F/Fathers_of_the_Dwarves.md) của [Người Lùn](../D/Dwarves.md), và là tổ tiên của tất cả các vị vua của [Longbeards](../L/Longbeards.md). [Durin I](../D/Durin_I.md) được biết đến với cái tên Durin Bất Tử, vì ông đã sống trong một thời gian dài như vậy, một khoảng thời gian dài hơn nhiều so với bình thường [người lùn](../D/Dwarves.md) ([Appendix A](../A/Appendix_A.md))"
 - Cảnh 44 - "[Con Người](../M/Men.md) luôn được xếp hạng trong số những tay sai của Thế lực Hắc ám. Vì kiêu ngạo, họ tỏ ra dễ tham nhũng - hoặc thống trị. (Quyển II, Chương 2)."
-- Cảnh 47 - " [Vua của Númenor](Tar-Palantir.md) được nhiều người coi là một trong những [Người trung thành](../F/Faithful.md), những người chống lại sự lôi kéo thống trị của vương quốc khỏi cội nguồn của nó và liên kết với [Eldar](../E/Eldar.md) và [Valar](../V/Valar.md). Ông đã cố gắng đưa vương quốc của mình trở lại con đường yêu tinh ban đầu, nhưng làm như vậy đã tạo ra xung đột và cuộc nổi loạn giữa [những người](../K/King's_Men.md) mà ông cai trị ([Appendix A](../A/Appendix_A.md))"
+- Cảnh 47 - " [Vua của Númenor](Tar-Palantir.md) được nhiều người coi là một trong những [Người trung thành](../F/Faithful.md), những người chống lại sự lôi kéo thống trị của vương quốc khỏi cội nguồn của nó và liên kết với [Eldar](../E/Eldar.md) và [Valar](../V/Valar.md). Ông ta đã cố gắng đưa vương quốc của mình trở lại con đường yêu tinh ban đầu, nhưng làm như vậy đã tạo ra xung đột và cuộc nổi loạn giữa [những người](../K/King's_Men.md) mà ông cai trị ([Appendix A](../A/Appendix_A.md))"
 
 ## Sản xuất {#Production}
 
@@ -303,20 +303,20 @@ Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amaz
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i> tập
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i> episodes
 </th></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ nhất
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season One
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/A_Shadow_of_the_Past.md" title="A Shadow of the Past">1. A Shadow of the Past</a> <b>·</b> <a href="../A/Adrift.md" title="Adrift">2. Adrift</a> <b>·</b> <a href="../A/Adar_(episode).md" title="Adar (episode)">3. Adar</a> <b>·</b> <a class="mw-selflink selflink">4. The Great Wave</a> <b>·</b> <a href="../P/Partings.md" title="Partings">5. Partings</a> <b>·</b> <a href="../U/Udûn_(episode).md" title="Udûn (episode)">6. Udûn</a> <b>·</b> <a href="The_Eye.md" title="The Eye">7. The Eye</a> <b>·</b> <a href="../A/Alloyed.md" title="Alloyed">8. Alloyed</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ hai
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season Two
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../E/Elven_Kings_Under_the_Sky.md" title="Elven Kings Under the Sky">9. Tiên Những vị vua dưới bầu trời</a> <b>·</b> <a href="../W/Where_the_Stars_are_Strange.md" title="Where the Stars are Strange">10. Nơi những vì sao kỳ lạ</a> <b>·</b> <a href="The_Eagle_and_the_Sceptre.md" title="The Eagle and the Sceptre">11. Đại bàng và vương trượng</a> <b>·</b> <a href="../E/Eldest_(episode).md" title="Eldest (episode)">12. Anh cả</a> <b>·</b> <a href="../H/Halls_of_Stone.md" title="Halls of Stone">13. Sảnh Đá</a> <b>·</b> <a href="../W/Where_Is_He%253F.md" title="Where Is He?">14. Ông ở đâu?</a> <b>·</b> <a href="../D/Doomed_to_Die.md" title="Doomed to Die">15. Định mệnh phải chết</a> <b>·</b> <a href="../S/Shadow_and_Flame_(episode).md" title="Shadow and Flame (episode)">16. Bóng Tối và Ngọn lửa</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../E/Elven_Kings_Under_the_Sky.md" title="Elven Kings Under the Sky">9. Elven Kings Under the Sky</a> <b>·</b> <a href="../W/Where_the_Stars_are_Strange.md" title="Where the Stars are Strange">10. Where the Stars are Strange</a> <b>·</b> <a href="The_Eagle_and_the_Sceptre.md" title="The Eagle and the Sceptre">11. The Eagle and the Sceptre</a> <b>·</b> <a href="../E/Eldest_(episode).md" title="Eldest (episode)">12. Eldest</a> <b>·</b> <a href="../H/Halls_of_Stone.md" title="Halls of Stone">13. Halls of Stone</a> <b>·</b> <a href="../W/Where_Is_He%253F.md" title="Where Is He?">14. Where Is He?</a> <b>·</b> <a href="../D/Doomed_to_Die.md" title="Doomed to Die">15. Doomed to Die</a> <b>·</b> <a href="../S/Shadow_and_Flame_(episode).md" title="Shadow and Flame (episode)">16. Shadow and Flame</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ ba
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season Three
 </th>
 <td style="font-size: 90%; padding-left: 4px;">TBD <b>·</b>
 </td></tr></tbody></table>

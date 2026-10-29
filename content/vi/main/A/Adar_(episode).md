@@ -39,18 +39,18 @@ infobox:
     value: "The Great Wave"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
-<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
+<p>We have a long way to go, and there is time ahead for thought.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Adar</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Adar_(disambiguation).md" title="Adar (disambiguation)">Adar (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Adar</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Adar_(disambiguation).md" title="Adar (disambiguation)">Adar (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/61/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg/320px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/61/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg/480px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg 1.5x, https://tolkiengateway.net/w/images/6/61/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg 2x" data-file-width="500" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Tập phim</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Adar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a href="../W/Wayne_Che_Yip.md" title="Wayne Che Yip">Wayne Che Yip</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Jason_Cahill&amp;action=edit&amp;redlink=1" title="Jason Cahill (page does not exist)">Jason Cahill</a><br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Justin_Doble&amp;action=edit&amp;redlink=1" title="Justin Doble (page does not exist)">Justin Doble</a></td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a><br/>Main Title by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data"><a class="mw-redirect" href="Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/9_September.md" title="9 September">9 September</a> <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">69 phút</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt11609034" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Điều hướng</span></th></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><i><a href="Adrift.md" title="Adrift">Adrift</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><i><a href="../T/The_Great_Wave.md" title="The Great Wave">The Great Wave</a></i></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/61/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg/320px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/61/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg/480px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg 1.5x, https://tolkiengateway.net/w/images/6/61/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg 2x" data-file-width="500" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Episode</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Adar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data"><a href="../W/Wayne_Che_Yip.md" title="Wayne Che Yip">Wayne Che Yip</a></td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Jason_Cahill&amp;action=edit&amp;redlink=1" title="Jason Cahill (page does not exist)">Jason Cahill</a><br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Justin_Doble&amp;action=edit&amp;redlink=1" title="Justin Doble (page does not exist)">Justin Doble</a></td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a><br/>Main Title by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Studio</th><td class="tg-infobox-data"><a class="mw-redirect" href="Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/9_September.md" title="9 September">9 September</a> <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">69 minutes</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt11609034" rel="noreferrer noopener" target="_blank">Profile</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Navigation</span></th></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><i><a href="Adrift.md" title="Adrift">Adrift</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><i><a href="../T/The_Great_Wave.md" title="The Great Wave">The Great Wave</a></i></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p><a href="Arondir.md" title="Arondir">Arondir</a> thấy mình bị giam cầm; <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> và <a href="../H/Halbrand.md" title="Halbrand">Halbrand</a> khám phá một <a href="../N/Númenor.md" title="Númenor">vương quốc</a> huyền thoại; <a href="../E/Elendil.md" title="Elendil">Elendil</a> được giao nhiệm vụ mới; <a href="../N/Nori.md" title="Nori">Nori</a> phải đối mặt với hậu quả.
+<p><a href="Arondir.md" title="Arondir">Arondir</a> finds himself a captive; <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> and <a href="../H/Halbrand.md" title="Halbrand">Halbrand</a> explore a legendary <a href="../N/Númenor.md" title="Númenor">kingdom</a>; <a href="../E/Elendil.md" title="Elendil">Elendil</a> is given a new assignment; <a href="../N/Nori.md" title="Nori">Nori</a> faces the consequences.
 </p>
 <p class="tg-quote-footer"><cite>Official Synopsis, <a class="mw-redirect" href="Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -61,34 +61,34 @@ infobox:
 
 ### Miền Nam {#The_Southlands}
 
-[Arondir](Arondir.md) thấy mình bị đưa đến một trại nô lệ [Orc](../O/Orc.md) trong chiến hào đâu đó ở [Southlands](../M/Mordor.md), nơi nhiều người khác và Tiên tộc, bao gồm cả Médhor và Revion, đã được đưa đến sau khi bị bắt. Sau khi Revion tranh luận với những người quản lý nhiệm vụ Lurka và Vrath về một cái cây mà Orc muốn đốn hạ, một thủ lĩnh của trại, Magrot, đưa ra Tiên tộc nước trước khi đột ngột giết Médhor trong một trò đùa vì ông tình cờ là người cuối cùng uống nước.
+[Arondir](Arondir.md) thấy mình bị đưa đến một trại nô lệ [Orc](../O/Orc.md) trong chiến hào đâu đó ở [Southlands](../M/Mordor.md), nơi nhiều người khác và Tiên tộc, bao gồm cả Médhor và Revion, đã được đưa đến sau khi bị bắt. Sau khi Revion tranh luận với những người quản lý nhiệm vụ Lurka và Vrath về một cái cây mà Orc muốn đốn hạ, một thủ lĩnh của trại, Magrot, đưa ra Tiên tộc nước trước khi đột ngột giết Médhor trong một trò đùa vì ông ta tình cờ là người cuối cùng uống nước.
 
 Ở cuối tập phim, Arondir, Revion và một số người khác cố gắng nổi dậy trong chiến hào, dùng dây xích của họ trói những người quản lý nhiệm vụ. Arondir cứu Revion khỏi một con chiến binh đang rình rập họ và dùng rễ cây đâm vào cổ Magrot, nhưng Revion bị bắn chết sau một thời gian ngắn trèo ra khỏi trại. Nỗ lực của họ bị dập tắt, và trong khi Arondir bị ghim xuống đất, Lurka bảo một Orc khác triệu hồi Adar. Trước phần ghi công, Adar bước ra Orc cúi chào ông và hô vang tên ông, trong khi khuôn mặt của ông được nhìn thấy mờ ảo.
 
 ### Númenor {#Númenor}
 
-[Galadriel](../G/Galadriel.md) và [Halbrand](../H/Halbrand.md) thấy mình đang ở trên con tàu do [Elendil](../E/Elendil.md) làm thuyền trưởng, hướng tới [Númenor](../N/Númenor.md). Họ đi ngược dòng sông [Siril](../S/Siril.md) và đến thủ đô [Armenelos](Armenelos.md). Tại cung điện cao của thành phố, họ gặp [Nữ hoàng nhiếp chính Míriel](../T/Tar-Míriel.md) và cố vấn trưởng của bà [Thủ tướng Pharazôn](Ar-Pharazôn.md), giữa một đại đội gồm [người Númenor](../N/Númenóreans.md) khác, có lẽ là [Hội đồng Vương trượng](../C/Council_of_the_Sceptre.md). Galadriel và Halbrand tự giới thiệu, và Míriel từ chối cho phép cả hai - đặc biệt là [Tiên](../E/Elves.md) - quay lại [Trung Địa](../M/Middle-earth.md) theo yêu cầu của Galadriel.
+[Galadriel](../G/Galadriel.md) và [Halbrand](../H/Halbrand.md) thấy mình đang ở trên con tàu do [Elendil](../E/Elendil.md) làm thuyền trưởng, hướng tới [Númenor](../N/Númenor.md). Họ đi ngược dòng sông [Siril](../S/Siril.md) và đến thủ đô [Armenelos](Armenelos.md). Tại cung điện cao của thành phố, họ gặp [Nữ hoàng nhiếp chính Míriel](../T/Tar-Míriel.md) và cố vấn trưởng của bà [Thủ tướng Pharazôn](Ar-Pharazôn.md), giữa một đại đội gồm [người Númenor](../N/Númenóreans.md) khác, có lẽ là [Hội đồng của Vương trượng](../C/Council_of_the_Sceptre.md). Galadriel và Halbrand tự giới thiệu, và Míriel từ chối cho phép cả hai - đặc biệt là [Tiên](../E/Elves.md) - quay lại [Trung Địa](../M/Middle-earth.md) theo yêu cầu của Galadriel.
 
-Elendil miễn cưỡng để Galadriel trốn thoát Númenor khi cô nói với anh rằng cô định làm như vậy, nhưng cả hai đã thiết lập tình bạn. Ông đưa cô đến [Hall of Lore](../H/Hall_of_Lore.md) của vương quốc, nơi Galadriel phát hiện ra rằng biểu tượng của Sauron mà cô đã nhìn thấy thực chất là một bản đồ nhìn nghiêng, trừu tượng của Southlands, mà Sauron có ý định biến thành một vương quốc mới, cam kết. Vương quốc này sẽ nằm ở Southlands.
+Elendil miễn cưỡng để Galadriel trốn thoát Númenor khi cô nói với anh rằng cô định làm như vậy, nhưng cả hai đã thiết lập tình bạn. Ông ta đưa cô đến [Hall of Lore](../H/Hall_of_Lore.md) của vương quốc, nơi Galadriel phát hiện ra rằng biểu tượng của Sauron mà cô đã nhìn thấy thực chất là một bản đồ nhìn nghiêng, trừu tượng của Southlands, mà Sauron có ý định biến thành một vương quốc mới, cam kết. Vương quốc này sẽ nằm ở Southlands.
 
 Người ta nhìn thấy một [Isildur](../I/Isildur.md) con trai của Elendil trẻ tuổi trên một con tàu trên biển gần hòn đảo, đang huấn luyện thành thiếu sinh quân hải quân cùng với những người bạn Valandil và Ontamo và những người khác để gia nhập [Biển Đội cận vệ](../G/Guild_of_Venturers.md). Trong chuyến hành trình hiện tại của họ, con trai của Thuyền trưởng, [Imrahil](<../I/Imrahil_(The_Rings_of_Power).md>), được cứu khỏi bị thổi bay xuống biển.
 
-Sau một thời gian ngắn cố gắng nhưng không thể học nghề ở lò rèn, Halbrand cố gắng đánh cắp huy hiệu bang hội từ một người đàn ông tên là Tamar. Khi Tamar và ba người đàn ông khác đối đầu với ông để giành lại huy hiệu, Halbrand đã đánh bại tất cả trong một cuộc chiến trên đường phố và sau đó bị bắt. Sau đó, tại nhà tù, Galadriel cố gắng thuyết phục Halbrand một lần nữa đi cùng cô đến Trung Địa để chuộc lại huyết thống của họ, vì Sauron sự chịu đựng là lỗi của Tiên tộc người đã chiến đấu chống lại Morgoth và của [tổ tiên](../U/Ulfang.md) của Halbrand là đồng minh của Morgoth.
+Sau một thời gian ngắn cố gắng nhưng không thể học nghề ở lò rèn, Halbrand cố gắng đánh cắp huy hiệu bang hội từ một người đàn ông tên là Tamar. Khi Tamar và ba người đàn ông khác đối đầu với ông ta để giành lại huy hiệu, Halbrand đã đánh bại tất cả trong một cuộc chiến trên đường phố và sau đó bị bắt. Sau đó, tại nhà tù, Galadriel cố gắng thuyết phục Halbrand một lần nữa đi cùng cô đến Trung Địa để chuộc lại huyết thống của họ, vì Sauron sự chịu đựng là lỗi của Tiên tộc người đã chiến đấu chống lại Morgoth và của [tổ tiên](../U/Ulfang.md) của Halbrand là đồng minh của Morgoth.
 
 ### Cái Harfoots {#The_Harfoots}
 
 Buổi tối trước chuyến di cư tiếp theo của [Harfoots](../H/Harfoots.md), từ [Norfield Glen](../N/Norfield_Glen.md) đến một vườn cây ăn quả tên là [Grove](../G/Grove.md), [Người lạ](../T/The_Stranger.md) vô tình lộ diện trước họ khi họ đang tụ tập để tưởng nhớ những người đã khuất. Bị sốc trước điều này và tức giận vì [Nori](../E/Elanor_Brandyfoot.md) giữ bí mật, Harfoots bàn bạc phải làm gì. Nori lên tiếng phản đối luật pháp của họ liên quan đến người lạ và thế giới bên ngoài. Vì tuổi trẻ của mình, [Sadoc Burrows](../S/Sadoc_Burrows.md) đã tha thứ cho những việc làm của cô.
 
-Ở phía sau đoàn lữ hành vào ngày hôm sau, khởi hành từ khu rừng, [Largo](../L/Largo_Brandyfoot.md) và [Marigold Brandyfoot](../M/Marigold_Brandyfoot.md) cuối cùng đã để Người lạ đi cùng họ sau khi ông giúp gia đình bằng chiếc xe ngựa của họ.
+Ở phía sau đoàn lữ hành vào ngày hôm sau, khởi hành từ khu rừng, [Largo](../L/Largo_Brandyfoot.md) và [Marigold Brandyfoot](../M/Marigold_Brandyfoot.md) cuối cùng đã để Người lạ đi cùng họ sau khi ông ta giúp gia đình bằng chiếc xe ngựa của họ.
 
 ## Truyền {#Cast}
 
-<dl><dd><i>In order of appearance</i> (trong phần ghi công của tập)</dd></dl>
+<dl><dd><i>In order of appearance</i> (in episode credits)</dd></dl>
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Diễn viên</th>
-<th>Vai trò
+<th>Actor</th>
+<th>Role
 </th></tr>
 <tr>
 <td><a href="../I/Ismael_Cruz_Córdova.md" title="Ismael Cruz Córdova">Ismael Cruz Córdova</a></td>
@@ -112,11 +112,11 @@ Buổi tối trước chuyến di cư tiếp theo của [Harfoots](../H/Harfoots
 </td></tr>
 <tr>
 <td><a href="../L/Lloyd_Owen.md" title="Lloyd Owen">Lloyd Owen</a></td>
-<td><a href="../E/Elendil.md" title="Elendil">Thuyền trưởng Elendil</a>
+<td><a href="../E/Elendil.md" title="Elendil">Captain Elendil</a>
 </td></tr>
 <tr>
 <td><a href="../C/Cynthia_Addai-Robinson.md" title="Cynthia Addai-Robinson">Cynthia Addai-Robinson</a></td>
-<td><a href="../T/Tar-Míriel.md" title="Tar-Míriel">Nhiếp chính vương hậu Míriel</a>
+<td><a href="../T/Tar-Míriel.md" title="Tar-Míriel">Queen Regent Míriel</a>
 </td></tr>
 <tr>
 <td><a href="../T/Trystan_Gravelle.md" title="Trystan Gravelle">Trystan Gravelle</a></td>
@@ -164,7 +164,7 @@ Buổi tối trước chuyến di cư tiếp theo của [Harfoots](../H/Harfoots
 </td></tr>
 <tr>
 <td><a href="../D/Daniel_Weyman.md" title="Daniel Weyman">Daniel Weyman</a></td>
-<td><a href="../T/The_Stranger.md" title="The Stranger">Kẻ lạ mặt</a>
+<td><a href="../T/The_Stranger.md" title="The Stranger">The Stranger</a>
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Thusitha_Jayasundera&amp;action=edit&amp;redlink=1" title="Thusitha Jayasundera (page does not exist)">Thusitha Jayasundera</a></td>
@@ -235,24 +235,24 @@ Buổi tối trước chuyến di cư tiếp theo của [Harfoots](../H/Harfoots
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Diễn viên</th>
-<th>Vai trò
+<th>Actor</th>
+<th>Role
 </th></tr>
 <tr>
 <td>Amand Weaver</td>
 <td><a href="../M/Men.md" title="Men">Imprisoned Farmer</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </td></tr>
 <tr>
-<td>Diễn viên vô danh</td>
+<td>Unknown actor</td>
 <td><a href="../I/Imrahil_(The_Rings_of_Power).md" title="Imrahil (The Rings of Power)">Imrahil</a>
 </td></tr>
 <tr>
-<td>Con ngựa không rõ</td>
+<td>Unknown horse</td>
 <td><a href="../B/Berek~63586.md" title="Berek">Berek</a>
 </td></tr>
 <tr>
 <td>Ken Blackburn</td>
-<td><a href="../T/Tar-Palantir.md" title="Tar-Palantir">Tar-Palantir</a> (Ngoài camera, nhưng trong cảnh)
+<td><a href="../T/Tar-Palantir.md" title="Tar-Palantir">Tar-Palantir</a> (Off-camera, but in-scene)
 </td></tr></tbody></table>
 
 ## Đố vui {#Trivia}
@@ -261,7 +261,7 @@ Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amaz
 
 - Cảnh 2 - "Hầu hết các chi tiết và chi tiết được nêu ở đây đều bắt nguồn từ '[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)', phần mở đầu có tựa đề '[Liên quan đến Hobbit](../C/Concerning_Hobbits.md)' và [Phụ lục](Appendices.md), [A](Appendix_A.md) đến [F](Appendix_F.md), nơi người du hành dũng cảm có thể hành trình khám phá những chân trời xa hơn nữa."
 - Cảnh 6 - "Từng là nô lệ của Thế lực Bóng tối, [lũ orc](../O/Orcs.md) được biết đến là bắt cả đồng loại của mình làm nô lệ và thường bắt kẻ thù bị chinh phục phải lao động khổ sai dưới bàn tay tàn ác của chúng. (Quyển VI, Chương 2)"
-- Cảnh 14 - "Bến cảng trung tâm của thủ đô [Númenor](../N/Númenor.md) được bao bọc bởi bức tượng của [Earendil](../E/Earendil.md) Mariner, [bán yêu tinh](../H/Half-elven.md) vị cứu tinh của [Trung Địa](../M/Middle-earth.md) trong [Thời Cổ xưa](../E/Elder_Days.md) và là tổ tiên của dòng dõi hoàng gia của vương quốc loài người này. (Appendix A)"
+- Cảnh 14 - "Bến cảng trung tâm của thủ đô [Númenor](../N/Númenor.md) được bao bọc bởi bức tượng của [Earendil](../E/Earendil.md) Mariner, [bán yêu tinh](../H/Half-elven.md) vị cứu tinh của [Trung Địa](../M/Middle-earth.md) trong [Ngày của Người cao tuổi](../E/Elder_Days.md) và là tổ tiên của dòng dõi hoàng gia của vương quốc loài người này. (Appendix A)"
 - Cảnh 17 - "Tổ tiên của [người Númenor](../N/Númenóreans.md) được gọi là [Edain](../E/Edain.md) - những người đàn ông và phụ nữ đầu tiên đi về phía tây vào [Trung Địa](../M/Middle-earth.md). Họ là đồng minh của [Tiên tộc](../E/Elves.md) trong cuộc chiến [Kỷ Đệ Nhất](../F/First_Age.md) chống lại [Morgoth](../M/Morgoth.md). ([Appendix A](Appendix_A.md))"
 - Cảnh 20 - "[người Númenor](../N/Númenóreans.md) là những thủy thủ nổi tiếng và là chúa tể của nhiều con tàu trên hòn đảo của họ, còn được gọi là [Elenna](../E/Elenna.md). nhưng họ bị <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">tây</a> cấm đi thuyền ra khỏi tầm nhìn của bờ biển của họ, bởi [Lệnh cấm của Valar](../B/Ban_of_the_Valar.md), để ngăn họ tự tìm kiếm [Vùng Đất Bất Tử](../U/Undying_Lands.md). ([Phụ lục F](Appendix_F.md); [Appendix A](Appendix_A.md))"
 - Cảnh 23 - "Dấu hiệu của những điều xấu xa đã đến trong [Great Bóng Tối](../G/Great_Darkness.md) là chúng không thể tuân theo [Mặt Trời](../S/Sun.md). Một số [orc](../O/Orcs.md) có thể chịu đựng ánh sáng của nó tốt hơn những con khác, nhưng tất cả chúng đều ghét điều đó và hiếm khi chúng hành trình ngoài trời trong khi Mặt Trời tỏa sáng. (Quyển III, Chương 4)"
@@ -271,7 +271,7 @@ Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amaz
 - Cảnh 35 - "[Halflings](../H/Halflings.md) vui vẻ tham gia các bữa tiệc và Lễ hội Thu hoạch là một truyền thống nhằm giúp [Harfoots](../H/Harfoots.md) chuẩn bị cho cuộc di cư gian khổ phía trước."
 - Cảnh 38 - "[Harfoots](../H/Harfoots.md) sử dụng hệ thống "chữ" tượng hình sử dụng các ký hiệu để truyền tải ý nghĩa có thể giúp ghi chú các nhịp điệu và bảng biểu tự nhiên quan trọng giúp họ chuẩn bị tốt hơn cho việc di cư trong tương lai."
 - Cảnh 39 - "Thế giới rộng lớn luôn vây quanh [Harfoots](../H/Harfoots.md). Họ dễ bị tổn thương và không thể vượt qua nhiều mối nguy hiểm tồn tại đối với một sinh vật có kích thước nhỏ như họ."
-- Cảnh 40 - "[Sadoc Burrows](../S/Sadoc_Burrows.md) là Người tìm đường của [Harfoot](../H/Harfoot.md) và dẫn đầu đoàn lữ hành. Ông sử dụng cuốn sách Star-book độc đáo của mình, được truyền qua nhiều thế hệ, để hướng dẫn [Harfoots](../H/Harfoots.md) đi đúng lộ trình từ thiên đường theo mùa này đến thiên đường tiếp theo."
+- Cảnh 40 - "[Sadoc Burrows](../S/Sadoc_Burrows.md) là Người tìm đường của [Harfoot](../H/Harfoot.md) và dẫn đầu đoàn lữ hành. Ông ta sử dụng cuốn sách Star-book độc đáo của mình, được truyền qua nhiều thế hệ, để hướng dẫn [Harfoots](../H/Harfoots.md) đi đúng lộ trình từ thiên đường theo mùa này đến thiên đường tiếp theo."
 - Cảnh 44 - "Tình yêu [người Númenor](../N/Númenóreans.md) của [Biển](../S/Sea.md) mở rộng đến tất cả các yếu tố trong nền văn hóa của họ. Bức tượng ở trung tâm căn phòng này là sự nhân cách hóa của chính Biển - vì đây ban đầu không phải là một ngục tối mà được tái sử dụng như một nơi nào đó trong quá khứ."
 - Cảnh 46 - "Mọi thứ mà [Harfoots](../H/Harfoots.md) sở hữu, họ tạo ra hoặc tìm thấy rồi mang theo bên trong xe đẩy - tài sản quý giá nhất của họ."
 - Cảnh 48 - "[Warg](../W/Wargs.md) giống với [sói](../W/Wolves.md) và có liên kết chặt chẽ với [orc](../O/Orcs.md) và Bóng Tối mà chúng phục vụ. (Quyển II, Chương 4)."
@@ -280,7 +280,7 @@ Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amaz
 
 ## Những sai lệch so với nguyên liệu nguồn {#Deviations_from_Source_Material}
 
-Con tàu xuất hiện ở cuối Tập 2 được chứng minh là do Elendil làm thuyền trưởng. Như trong Tập trước, rất khó có khả năng con người sẽ có mặt ở phần Biển Phân Chia nơi Elendil tìm thấy Galadriel và Halbrand trên bè. [người Númenor](../N/Númenóreans.md) (chủng tộc mà ông thuộc về) đặc biệt bị cấm đi thuyền quá xa Phương Tây từ nhà của họ đến mức họ không thể nhìn thấy bờ. Lệnh cấm này được gọi là [Lệnh cấm của Valar](../B/Ban_of_the_Valar.md), mà Elendil có thể đã vi phạm.
+Con tàu xuất hiện ở cuối Tập 2 được chứng minh là do Elendil làm thuyền trưởng. Như trong Tập trước, rất khó có khả năng con người sẽ có mặt ở phần Biển Sundering nơi Elendil tìm thấy Galadriel và Halbrand trên bè. [người Númenor](../N/Númenóreans.md) (chủng tộc mà ông ta thuộc về) đặc biệt bị cấm đi thuyền quá xa Phương Tây từ nhà của họ đến mức họ không thể nhìn thấy bờ. Lệnh cấm này được gọi là [Lệnh cấm của Valar](../B/Ban_of_the_Valar.md), mà Elendil có thể đã vi phạm.
 
 Những sai lệch khác so với tài liệu nguồn liên quan đến Númenor bao gồm:
 
@@ -318,20 +318,20 @@ Không chắc rằng Durin III và Durin IV thực sự là cha con như trong p
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i> tập
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i> episodes
 </th></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ nhất
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season One
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="A_Shadow_of_the_Past.md" title="A Shadow of the Past">1. A Shadow of the Past</a> <b>·</b> <a href="Adrift.md" title="Adrift">2. Adrift</a> <b>·</b> <a class="mw-selflink selflink">3. Adar</a> <b>·</b> <a href="../T/The_Great_Wave.md" title="The Great Wave">4. The Great Wave</a> <b>·</b> <a href="../P/Partings.md" title="Partings">5. Partings</a> <b>·</b> <a href="../U/Udûn_(episode).md" title="Udûn (episode)">6. Udûn</a> <b>·</b> <a href="../T/The_Eye.md" title="The Eye">7. The Eye</a> <b>·</b> <a href="Alloyed.md" title="Alloyed">8. Alloyed</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ hai
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season Two
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../E/Elven_Kings_Under_the_Sky.md" title="Elven Kings Under the Sky">9. Tiên Những vị vua dưới bầu trời</a> <b>·</b> <a href="../W/Where_the_Stars_are_Strange.md" title="Where the Stars are Strange">10. Nơi những vì sao kỳ lạ</a> <b>·</b> <a href="../T/The_Eagle_and_the_Sceptre.md" title="The Eagle and the Sceptre">11. Đại bàng và vương trượng</a> <b>·</b> <a href="../E/Eldest_(episode).md" title="Eldest (episode)">12. Anh cả</a> <b>·</b> <a href="../H/Halls_of_Stone.md" title="Halls of Stone">13. Sảnh Đá</a> <b>·</b> <a href="../W/Where_Is_He%253F.md" title="Where Is He?">14. Ông ở đâu?</a> <b>·</b> <a href="../D/Doomed_to_Die.md" title="Doomed to Die">15. Định mệnh phải chết</a> <b>·</b> <a href="../S/Shadow_and_Flame_(episode).md" title="Shadow and Flame (episode)">16. Bóng Tối và Ngọn lửa</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../E/Elven_Kings_Under_the_Sky.md" title="Elven Kings Under the Sky">9. Elven Kings Under the Sky</a> <b>·</b> <a href="../W/Where_the_Stars_are_Strange.md" title="Where the Stars are Strange">10. Where the Stars are Strange</a> <b>·</b> <a href="../T/The_Eagle_and_the_Sceptre.md" title="The Eagle and the Sceptre">11. The Eagle and the Sceptre</a> <b>·</b> <a href="../E/Eldest_(episode).md" title="Eldest (episode)">12. Eldest</a> <b>·</b> <a href="../H/Halls_of_Stone.md" title="Halls of Stone">13. Halls of Stone</a> <b>·</b> <a href="../W/Where_Is_He%253F.md" title="Where Is He?">14. Where Is He?</a> <b>·</b> <a href="../D/Doomed_to_Die.md" title="Doomed to Die">15. Doomed to Die</a> <b>·</b> <a href="../S/Shadow_and_Flame_(episode).md" title="Shadow and Flame (episode)">16. Shadow and Flame</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ ba
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season Three
 </th>
 <td style="font-size: 90%; padding-left: 4px;">TBD <b>·</b>
 </td></tr></tbody></table>

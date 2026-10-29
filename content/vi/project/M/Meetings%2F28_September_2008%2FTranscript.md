@@ -82,7 +82,7 @@ sort_keys:
 &lt;Ederchil&gt;	yes?<br/>
 &lt;Hyarion&gt;	I don&#39;t think, at least in the US, we would put a period after that.<br/>
 &lt;Ederchil&gt;	well, that&#39;s settled then...<br/>
-&lt;KingAragorn&gt;	I would but microsoft word makes its own mind up<br/>
+&lt;KingAragorn&gt;	I would  but microsoft word makes its own mind up<br/>
 &lt;Mith&gt;	Us Brits need to stick to together!<br/>
 &lt;Ederchil&gt;	Me Dutchy will stick with the Brits...<br/>
 &lt;Mith&gt;	I say as we live in the country of origin of English would should have the moral high-grown on punctuation<br/>

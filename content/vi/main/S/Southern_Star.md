@@ -33,9 +33,9 @@ Trong bản nháp thứ hai (trong số bảy) bản nháp của [Lời mở đ�
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/I/Item-Southern_Star_Pipe-weed.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/22/Item-Southern_Star_Pipe-weed.jpg/300px-Item-Southern_Star_Pipe-weed.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/22/Item-Southern_Star_Pipe-weed.jpg 1.5x" data-file-width="400" data-file-height="400"/></a><figcaption></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Khói từ Southern Star Pipe-weed có dạng hai vòng khói xuyên qua nhau khi chúng bay ra khỏi đường ống.</dd></dl>
+<dl><dd>The smoke from Southern Star Pipe-weed takes the form of two smoke rings that pass through each other as they float out from the pipe.</dd></dl>
 
 <span></span>
 

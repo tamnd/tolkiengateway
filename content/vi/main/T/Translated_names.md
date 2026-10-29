@@ -26,7 +26,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -41,7 +41,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="../A/Ages_of_the_Children_of_Ilúvatar.md" title="Ages of the Children of Ilúvatar">Tuổi</a>
+<td><a class="mw-redirect" href="../A/Ages_of_the_Children_of_Ilúvatar.md" title="Ages of the Children of Ilúvatar">Age</a>
 </td>
 <td>Era
 </td>
@@ -75,7 +75,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -100,7 +100,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 </td>
 <td>Bolsón Cerrado
 </td>
-<td>Cực đoan do Saco
+<td>Extremidade do Saco
 </td>
 <td>Repunpää
 </td></tr>
@@ -122,7 +122,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 <tr bgcolor="#F5F5F5">
 <td><a href="../B/Barliman_Butterbur.md" title="Barliman Butterbur">Barliman Butterbur</a>
 </td>
-<td>Gersteman Boterbast/Boterbloem (phiên bản sửa đổi)
+<td>Gersteman Boterbast/Boterbloem (revised edition)
 </td>
 <td>Gerstenmann Butterblume
 </td>
@@ -135,7 +135,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 <td>Viljami Voivalvatti
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="../B/Battle_of_Five_Armies.md" title="Battle of Five Armies">Trận chiến Năm Đạo quân</a>
+<td><a href="../B/Battle_of_Five_Armies.md" title="Battle of Five Armies">Battle of Five Armies</a>
 </td>
 <td>Slag van Vijf Legers
 </td>
@@ -184,7 +184,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 </td>
 <td>Pakkebaal Bos
 </td>
-<td>Schiefertonwald/Bindwehwald (phiên bản sửa đổi)
+<td>Schiefertonwald/Bindwehwald (revised edition)
 </td>
 <td>Forêt de Bindbole
 </td>
@@ -199,7 +199,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 </td>
 <td>Brandeburcht
 </td>
-<td>Brandyschloss/Brandygut hoặc Gut Brandy (phiên bản sửa đổi)
+<td>Brandyschloss/Brandygut or Gut Brandy (revised edition)
 </td>
 <td>Château-Brande
 </td>
@@ -244,7 +244,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 </td>
 <td>Brugkamp
 </td>
-<td>Brückengau/Brückenfelde (phiên bản sửa đổi)
+<td>Brückengau/Brückenfelde (revised edition)
 </td>
 <td>Les Champs du Pont
 </td>
@@ -319,7 +319,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -349,7 +349,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 <td>Pönkeli
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="../C/Cold-drake.md" title="Cold-drake">Drake lạnh lùng</a>
+<td><a class="mw-redirect" href="../C/Cold-drake.md" title="Cold-drake">cold-drake</a>
 </td>
 <td>koud-draak
 </td>
@@ -383,7 +383,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -432,7 +432,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 </td>
 <td>Dullingen
 </td>
-<td>Nachtschatten/Dwollingen (phiên bản sửa đổi)
+<td>Nachtschatten/Dwollingen (revised edition)
 </td>
 <td>
 </td>
@@ -447,7 +447,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -462,7 +462,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="../E/Eagles.md" title="Eagles">Đại Bàng</a>
+<td><a class="mw-redirect" href="../E/Eagles.md" title="Eagles">Eagles</a>
 </td>
 <td>Adelaars
 </td>
@@ -526,7 +526,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -571,7 +571,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 <td>Neljännys
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Đoàn Hộ Nhẫn</a>
+<td><a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Fellowship of the Ring</a>
 </td>
 <td>Reisgenootschap van de Ring
 </td>
@@ -579,9 +579,9 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 </td>
 <td>Communauté de l&#39;anneau
 </td>
-<td>Cộng đồng Anillo
+<td>Comunidad del Anillo
 </td>
-<td>Cộng đồng với Anel
+<td>Comunhão do Anel
 </td>
 <td>Sormuksen Saattue
 </td></tr>
@@ -590,7 +590,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 </td>
 <td>Puitenlee
 </td>
-<td>Froschmoorstetten/Froschmoorstätten (phiên bản sửa đổi)
+<td>Froschmoorstetten/Froschmoorstätten (revised edition)
 </td>
 <td>Lagrenouillère
 </td>
@@ -605,7 +605,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -645,16 +645,16 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 </td>
 <td>Las Puertas del Sirion
 </td>
-<td>Các cổng làm Sirion
+<td>Portões do Sirion
 </td>
 <td>Sirionin Portit
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="../G/Girdley_Island.md" title="Girdley Island">Đảo Girdley</a>
+<td><a href="../G/Girdley_Island.md" title="Girdley Island">Girdley Island</a>
 </td>
 <td>Ringeleiland
 </td>
-<td>Gürtelinsel/Insel Gürtenau (phiên bản sửa đổi)
+<td>Gürtelinsel/Insel Gürtenau (revised edition)
 </td>
 <td>Île de Girdley
 </td>
@@ -686,7 +686,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 </td>
 <td>Schwertelfelder
 </td>
-<td>Champs aux Iris/Champs d'Iris
+<td>Champs aux Iris/Champs d&#39;Iris
 </td>
 <td>Campos Gladios
 </td>
@@ -755,7 +755,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 <td>Harmaavirta
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="../G/Grey_Mountains.md" title="Grey Mountains">Dãy Núi Xám</a>
+<td><a href="../G/Grey_Mountains.md" title="Grey Mountains">Grey Mountains</a>
 </td>
 <td>Grijze bergen
 </td>
@@ -774,7 +774,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -853,7 +853,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -887,7 +887,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -951,7 +951,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -1006,7 +1006,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 </td>
 <td>hombres del Oeste
 </td>
-<td>Homens làm Oeste
+<td>Homens do Oeste
 </td>
 <td>Lännen edain
 </td></tr>
@@ -1041,7 +1041,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 <td>Järin Möyremä
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a>
+<td><a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>
 </td>
 <td>Midden-aarde
 </td>
@@ -1071,7 +1071,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 <td>Synkmetsä
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="../M/Misty_Mountains.md" title="Misty Mountains">Dãy Núi Sương Mù</a>
+<td><a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a>
 </td>
 <td>Nevelbergen
 </td>
@@ -1086,7 +1086,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 <td>Sumuvuoret
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="../M/Mount_Doom.md" title="Mount Doom">Núi Diệt Vong</a>
+<td><a href="../M/Mount_Doom.md" title="Mount Doom">Mount Doom</a>
 </td>
 <td>Doemberg
 </td>
@@ -1105,7 +1105,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -1139,7 +1139,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 </td>
 <td>Geenhuijzen
 </td>
-<td>Ohnbüttel/Neuhausen (phiên bản sửa đổi)
+<td>Ohnbüttel/Neuhausen (revised edition)
 </td>
 <td>
 </td>
@@ -1154,7 +1154,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -1169,7 +1169,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="../O/Old_Forest.md" title="Old Forest">Khu Rừng Cổ</a>
+<td><a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a>
 </td>
 <td>Oude Woud
 </td>
@@ -1218,7 +1218,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -1237,7 +1237,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 </td>
 <td>Vinkop
 </td>
-<td>Felsmulde/Finkenschlupf (phiên bản sửa đổi)
+<td>Felsmulde/Finkenschlupf (revised edition)
 </td>
 <td>
 </td>
@@ -1254,7 +1254,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 </td>
 <td>Pfeifenkraut
 </td>
-<td>Herbe à tẩu
+<td>Herbe à pipe
 </td>
 <td>Hierba para pipa
 </td>
@@ -1282,7 +1282,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -1331,7 +1331,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -1425,7 +1425,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -1560,17 +1560,17 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 <td>Hopeajuopa
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="../S/Smials.md" title="Smials">Hang hốc</a>
+<td><a href="../S/Smials.md" title="Smials">Smials</a>
 </td>
 <td>Smielen
 </td>
-<td>Hang hốc
+<td>Smials
 </td>
-<td>Hang hốc
+<td>Smials
 </td>
-<td>Hang hốc
+<td>Smials
 </td>
-<td>Hang hốc
+<td>Smials
 </td>
 <td>Smialit
 </td></tr>
@@ -1654,7 +1654,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -1686,7 +1686,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 <tr bgcolor="#F5F5F5">
 <td><a href="The_Prancing_Pony.md" title="The Prancing Pony">The Prancing Pony</a>
 </td>
-<td>Ngựa con steigerende
+<td>De steigerende pony
 </td>
 <td>Zum tänzelnden Pony
 </td>
@@ -1819,7 +1819,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 <td>Puuparta
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="Two_Lamps.md" title="Two Lamps">Hai Ngọn Đèn</a>
+<td><a href="Two_Lamps.md" title="Two Lamps">Two Lamps</a>
 </td>
 <td>Twee Lampen
 </td>
@@ -1834,7 +1834,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 <td>Kaksi Lamppua
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="Two_Trees_of_Valinor.md" title="Two Trees of Valinor">Hai Cây của Valinor</a>
+<td><a href="Two_Trees_of_Valinor.md" title="Two Trees of Valinor">Two Trees of Valinor</a>
 </td>
 <td>Twee Bomen van Valinor
 </td>
@@ -1853,7 +1853,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -1868,7 +1868,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="../U/Undying_Lands.md" title="Undying Lands">Vùng Đất Bất Tử</a>
+<td><a href="../U/Undying_Lands.md" title="Undying Lands">Undying Lands</a>
 </td>
 <td>Onsterfelijke Landen
 </td>
@@ -1887,7 +1887,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -2071,7 +2071,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
 <tbody><tr bgcolor="#C6E2FF">
-<th width="16%">Tiếng Anh
+<th width="16%">English
 </th>
 <th width="16%">Dutch
 </th>
@@ -2090,7 +2090,7 @@ Bạn có nghĩ rằng một ngôn ngữ nhất định cần phải được đ
 </td>
 <td>Joel
 </td>
-<td>Tháng 7
+<td>Jul
 </td>
 <td>
 </td>

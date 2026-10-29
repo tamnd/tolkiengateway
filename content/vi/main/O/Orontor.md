@@ -21,13 +21,13 @@ infobox:
     value: "Male"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../N/Númenóreans.md" title="Númenóreans">Númenórean</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Orontor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../N/Númenor.md" title="Númenor">Númenor</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Gia đình</span></th></tr><tr><th scope="row" class="tg-infobox-label">Con cái</th><td class="tg-infobox-data"><a href="../F/Fíriel_(The_Lost_Road).md" title="Fíriel (The Lost Road)">Fíriel</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nam</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../N/Númenóreans.md" title="Númenóreans">Númenórean</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Orontor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../N/Númenor.md" title="Númenor">Númenor</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../F/Fíriel_(The_Lost_Road).md" title="Fíriel (The Lost Road)">Fíriel</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
 **Orontor** là một [Númenórean](../N/Númenóreans.md) [người đàn ông](../M/Men.md) là cha của [Fíriel](<../F/Fíriel_(The_Lost_Road).md>) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Lost Road](../T/The_Lost_Road.md)*.
 
 ## Lịch sử {#History}
 
-Orontor là bạn tốt của [Elendil](../E/Elendil.md), nhưng vào một thời điểm nào đó, ông đã rời đi [Númenor](../N/Númenor.md). Con Người suy đoán rằng ông đã làm mất lòng nhà vua và đã bỏ trốn trong một chuyến đi dài. Tuy nhiên, sự thật là ông đang thực hiện một nhiệm vụ bí ẩn và có thể sẽ không bao giờ được nhìn thấy nữa hoặc được nhìn thấy lại quá muộn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông đã bỏ lại con gái mình, Fíriel, trong nhà của Elendil, nơi cô bé hát một [bài hát buồn](../F/Fíriel's_song.md) từ cửa sổ trên cao.
+Orontor là bạn tốt của [Elendil](../E/Elendil.md), nhưng vào một thời điểm nào đó, ông đã rời đi [Númenor](../N/Númenor.md). Con Người suy đoán rằng ông ta đã làm mất lòng nhà vua và đã bỏ trốn trong một chuyến đi dài. Tuy nhiên, sự thật là ông ta đang thực hiện một nhiệm vụ bí ẩn và có thể sẽ không bao giờ được nhìn thấy nữa hoặc được nhìn thấy lại quá muộn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông ta đã bỏ lại con gái mình, Fíriel, trong nhà của Elendil, nơi cô bé hát một [bài hát buồn](../F/Fíriel's_song.md) từ cửa sổ trên cao.
 
 ## Từ nguyên {#Etymology}
 
@@ -35,7 +35,7 @@ Orontor là bạn tốt của [Elendil](../E/Elendil.md), nhưng vào một th�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) chỉ ra rằng sứ mệnh của Orontor, "từ đó ông có thể không bao giờ quay trở lại", có thể là tiền lệ của chuyến hành trình [Amandil](../A/Amandil.md) đến Phương Tây trong phiên bản cuối cùng của *[Akallabêth](../A/Akallabêth.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Christopher Tolkien](../C/Christopher_Tolkien.md) chỉ ra rằng sứ mệnh của Orontor, "từ đó ông ta có thể không bao giờ quay trở lại", có thể là tiền lệ của chuyến hành trình [Amandil](../A/Amandil.md) đến Phương Tây trong phiên bản cuối cùng của *[Akallabêth](../A/Akallabêth.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

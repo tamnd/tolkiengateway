@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Glamdring](../../main/G/Glamdring.md) - [*The Hobbit* (phim năm 1977)](<../../main/T/The_Hobbit_(1977_film).md>)
+[Glamdring](../../main/G/Glamdring.md) - [*The Hobbit* (phim 1977)](<../../main/T/The_Hobbit_(1977_film).md>)
 
 ## Giấy phép {#Licensing}
 

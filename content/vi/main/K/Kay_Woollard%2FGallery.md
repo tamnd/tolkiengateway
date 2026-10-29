@@ -110,7 +110,7 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="Kay_Woollard.md" title="Kay Woollard">Kay Woollard</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Kay_Woollard.md" title="Kay Woollard">Kay Woollard</a></b></div></div>
 
 ## *[Amon Hen](<../A/Amon_Hen_(journal).md>)* bao gồm {#Amon_Hen_covers}
 
@@ -226,7 +226,7 @@ Minh họa cho [J.R.R. Tolkien Hội nghị trăm năm](../J/J.R.R._Tolkien_Cent
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_%2522We&#39;ll_be_home_&#39;afore_it_snows_again%2522.jpg.md" title="&#34;We&#39;ll be home &#39;afore it snows again&#34;px&#34;&gt;"><img alt="&#34;We&#39;ll be home &#39;afore it snows again&#34;px&#34;&gt;" src="https://tolkiengateway.net/w/images/thumb/e/eb/Kay_Woollard_-_%22We%27ll_be_home_%27afore_it_snows_again%22.jpg/88px-Kay_Woollard_-_%22We%27ll_be_home_%27afore_it_snows_again%22.jpg" decoding="async" loading="lazy" width="88" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/eb/Kay_Woollard_-_%22We%27ll_be_home_%27afore_it_snows_again%22.jpg/132px-Kay_Woollard_-_%22We%27ll_be_home_%27afore_it_snows_again%22.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/eb/Kay_Woollard_-_%22We%27ll_be_home_%27afore_it_snows_again%22.jpg/176px-Kay_Woollard_-_%22We%27ll_be_home_%27afore_it_snows_again%22.jpg 2x" data-file-width="1179" data-file-height="1605"/></a></span></div>
 			<div class="gallerytext">
-<p>"Chúng ta sẽ về nhà trước khi tuyết rơi lần nữa"px"&gt;
+<p>&#34;We&#39;ll be home &#39;afore it snows again&#34;px&#34;&gt;
 </p>
 			</div>
 		</li>
@@ -240,7 +240,7 @@ Minh họa cho [J.R.R. Tolkien Hội nghị trăm năm](../J/J.R.R._Tolkien_Cent
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_%2522We&#39;ll_be_home_&#39;afore_it_snows_again%2522.jpg.md" title="&#34;We&#39;ll be home &#39;afore it snows again&#34;"><img alt="&#34;We&#39;ll be home &#39;afore it snows again&#34;" src="https://tolkiengateway.net/w/images/thumb/e/eb/Kay_Woollard_-_%22We%27ll_be_home_%27afore_it_snows_again%22.jpg/88px-Kay_Woollard_-_%22We%27ll_be_home_%27afore_it_snows_again%22.jpg" decoding="async" loading="lazy" width="88" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/eb/Kay_Woollard_-_%22We%27ll_be_home_%27afore_it_snows_again%22.jpg/132px-Kay_Woollard_-_%22We%27ll_be_home_%27afore_it_snows_again%22.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/eb/Kay_Woollard_-_%22We%27ll_be_home_%27afore_it_snows_again%22.jpg/176px-Kay_Woollard_-_%22We%27ll_be_home_%27afore_it_snows_again%22.jpg 2x" data-file-width="1179" data-file-height="1605"/></a></span></div>
 			<div class="gallerytext">
-<p>"Chúng ta sẽ về nhà trước khi tuyết rơi trở lại"
+<p>&#34;We&#39;ll be home &#39;afore it snows again&#34;
 </p>
 			</div>
 		</li>
@@ -319,28 +319,28 @@ Sáu bộ đầu tiên đã được đặt hàng và xuất bản dưới dạn
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_Mushroom_Pickers_in_the_Marish,_version_2_(retouched_unfinished_design).jpg.md" title="Mushroom Pickers in the Marish, version 2 (retouched unfinished design)"><img alt="Mushroom Pickers in the Marish, version 2 (retouched unfinished design)" src="https://tolkiengateway.net/w/images/thumb/a/ad/Kay_Woollard_-_Mushroom_Pickers_in_the_Marish%2C_version_2_%28retouched_unfinished_design%29.jpg/132px-Kay_Woollard_-_Mushroom_Pickers_in_the_Marish%2C_version_2_%28retouched_unfinished_design%29.jpg" decoding="async" loading="lazy" width="132" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ad/Kay_Woollard_-_Mushroom_Pickers_in_the_Marish%2C_version_2_%28retouched_unfinished_design%29.jpg/198px-Kay_Woollard_-_Mushroom_Pickers_in_the_Marish%2C_version_2_%28retouched_unfinished_design%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/ad/Kay_Woollard_-_Mushroom_Pickers_in_the_Marish%2C_version_2_%28retouched_unfinished_design%29.jpg/263px-Kay_Woollard_-_Mushroom_Pickers_in_the_Marish%2C_version_2_%28retouched_unfinished_design%29.jpg 2x" data-file-width="2122" data-file-height="3220"/></a></span></div>
 			<div class="gallerytext">
-<p>Máy hái nấm trong <a href="../M/Marish.md" title="Marish">Marish</a>, phiên bản 2 (thiết kế chưa hoàn thiện đã được chỉnh sửa lại)
+<p>Mushroom Pickers in the <a href="../M/Marish.md" title="Marish">Marish</a>, version 2 (retouched unfinished design)
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_The_Landlord_of_the_Ivy_Bush_(retouched_unfinished_design).jpg.md" title="The Landlord of the Ivy Bush (retouched unfinished design)"><img alt="The Landlord of the Ivy Bush (retouched unfinished design)" src="https://tolkiengateway.net/w/images/thumb/c/ca/Kay_Woollard_-_The_Landlord_of_the_Ivy_Bush_%28retouched_unfinished_design%29.jpg/140px-Kay_Woollard_-_The_Landlord_of_the_Ivy_Bush_%28retouched_unfinished_design%29.jpg" decoding="async" loading="lazy" width="140" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/ca/Kay_Woollard_-_The_Landlord_of_the_Ivy_Bush_%28retouched_unfinished_design%29.jpg/210px-Kay_Woollard_-_The_Landlord_of_the_Ivy_Bush_%28retouched_unfinished_design%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/ca/Kay_Woollard_-_The_Landlord_of_the_Ivy_Bush_%28retouched_unfinished_design%29.jpg/280px-Kay_Woollard_-_The_Landlord_of_the_Ivy_Bush_%28retouched_unfinished_design%29.jpg 2x" data-file-width="2229" data-file-height="3179"/></a></span></div>
 			<div class="gallerytext">
-<p>Chủ nhà của <a class="mw-redirect" href="../I/Ivy_Bush.md" title="Ivy Bush">Ivy Bush</a> (thiết kế chưa hoàn thiện đã được chỉnh sửa lại)
+<p>The Landlord of the <a class="mw-redirect" href="../I/Ivy_Bush.md" title="Ivy Bush">Ivy Bush</a> (retouched unfinished design)
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_A_Cornfield_in_the_Shire_(retouched_unfinished_design).jpg.md" title="A Cornfield in the Shire (retouched unfinished design)"><img alt="A Cornfield in the Shire (retouched unfinished design)" src="https://tolkiengateway.net/w/images/thumb/7/72/Kay_Woollard_-_A_Cornfield_in_the_Shire_%28retouched_unfinished_design%29.jpg/135px-Kay_Woollard_-_A_Cornfield_in_the_Shire_%28retouched_unfinished_design%29.jpg" decoding="async" loading="lazy" width="135" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/72/Kay_Woollard_-_A_Cornfield_in_the_Shire_%28retouched_unfinished_design%29.jpg/203px-Kay_Woollard_-_A_Cornfield_in_the_Shire_%28retouched_unfinished_design%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/72/Kay_Woollard_-_A_Cornfield_in_the_Shire_%28retouched_unfinished_design%29.jpg/270px-Kay_Woollard_-_A_Cornfield_in_the_Shire_%28retouched_unfinished_design%29.jpg 2x" data-file-width="2150" data-file-height="3179"/></a></span></div>
 			<div class="gallerytext">
-<p>Một cánh đồng ngô ở <a class="mw-redirect" href="../S/Shire.md" title="Shire">Shire</a> (thiết kế chưa hoàn thiện đã được chỉnh sửa lại)
+<p>A Cornfield in the <a class="mw-redirect" href="../S/Shire.md" title="Shire">Shire</a> (retouched unfinished design)
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_Grape_Harvest_in_South_Farthing_(sketch).jpg.md" title="Grape Harvest in Southfarthing (sketch)"><img alt="Grape Harvest in Southfarthing (sketch)" src="https://tolkiengateway.net/w/images/thumb/6/62/Kay_Woollard_-_Grape_Harvest_in_South_Farthing_%28sketch%29.jpg/130px-Kay_Woollard_-_Grape_Harvest_in_South_Farthing_%28sketch%29.jpg" decoding="async" loading="lazy" width="130" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/62/Kay_Woollard_-_Grape_Harvest_in_South_Farthing_%28sketch%29.jpg/195px-Kay_Woollard_-_Grape_Harvest_in_South_Farthing_%28sketch%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/62/Kay_Woollard_-_Grape_Harvest_in_South_Farthing_%28sketch%29.jpg/260px-Kay_Woollard_-_Grape_Harvest_in_South_Farthing_%28sketch%29.jpg 2x" data-file-width="2033" data-file-height="3122"/></a></span></div>
 			<div class="gallerytext">
-<p>Thu hoạch nho ở <a href="../S/Southfarthing.md" title="Southfarthing">Southfarthing</a> (phác họa)
+<p>Grape Harvest in <a href="../S/Southfarthing.md" title="Southfarthing">Southfarthing</a> (sketch)
 </p>
 			</div>
 		</li>
@@ -354,7 +354,7 @@ Sáu bộ đầu tiên đã được đặt hàng và xuất bản dưới dạn
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_Noggin,_the_Pot_Boy.jpg.md" title="1. Noggin, the sandy-haired pot boy at &#34;The Mushroom&#34;"><img alt="1. Noggin, the sandy-haired pot boy at &#34;The Mushroom&#34;" src="https://tolkiengateway.net/w/images/thumb/9/9e/Kay_Woollard_-_Noggin%2C_the_Pot_Boy.jpg/105px-Kay_Woollard_-_Noggin%2C_the_Pot_Boy.jpg" decoding="async" loading="lazy" width="105" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9e/Kay_Woollard_-_Noggin%2C_the_Pot_Boy.jpg/157px-Kay_Woollard_-_Noggin%2C_the_Pot_Boy.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9e/Kay_Woollard_-_Noggin%2C_the_Pot_Boy.jpg/210px-Kay_Woollard_-_Noggin%2C_the_Pot_Boy.jpg 2x" data-file-width="1348" data-file-height="1926"/></a></span></div>
 			<div class="gallerytext">
-<p>1. Noggin, cậu bé nồi tóc cát trong "The Mushroom"
+<p>1. Noggin, the sandy-haired pot boy at &#34;The Mushroom&#34;
 </p>
 			</div>
 		</li>
@@ -375,14 +375,14 @@ Sáu bộ đầu tiên đã được đặt hàng và xuất bản dưới dạn
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Pretty_Girl_with_the_Strange_Parcel.jpg.md" title="4. Waiting for the Buckland Ferry. The pretty girl with the strange bundle..."><img alt="4. Waiting for the Buckland Ferry. The pretty girl with the strange bundle..." src="https://tolkiengateway.net/w/images/thumb/1/11/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Pretty_Girl_with_the_Strange_Parcel.jpg/97px-Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Pretty_Girl_with_the_Strange_Parcel.jpg" decoding="async" loading="lazy" width="97" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/11/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Pretty_Girl_with_the_Strange_Parcel.jpg/146px-Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Pretty_Girl_with_the_Strange_Parcel.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/11/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Pretty_Girl_with_the_Strange_Parcel.jpg/195px-Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Pretty_Girl_with_the_Strange_Parcel.jpg 2x" data-file-width="1296" data-file-height="1997"/></a></span></div>
 			<div class="gallerytext">
-<p>4. Chờ chuyến phà <a href="../B/Buckland.md" title="Buckland">Buckland</a>. Cô gái xinh đẹp với chiếc bọc kỳ lạ...
+<p>4. Waiting for the <a href="../B/Buckland.md" title="Buckland">Buckland</a> Ferry. The pretty girl with the strange bundle...
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_At_the_Buckland_Ferry_-_Two_Lads_and_their_Dad.jpg.md" title="5. Waiting for the Buckland Ferry. The two little lads and their dad..."><img alt="5. Waiting for the Buckland Ferry. The two little lads and their dad..." src="https://tolkiengateway.net/w/images/thumb/7/7e/Kay_Woollard_-_At_the_Buckland_Ferry_-_Two_Lads_and_their_Dad.jpg/112px-Kay_Woollard_-_At_the_Buckland_Ferry_-_Two_Lads_and_their_Dad.jpg" decoding="async" loading="lazy" width="112" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7e/Kay_Woollard_-_At_the_Buckland_Ferry_-_Two_Lads_and_their_Dad.jpg/168px-Kay_Woollard_-_At_the_Buckland_Ferry_-_Two_Lads_and_their_Dad.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7e/Kay_Woollard_-_At_the_Buckland_Ferry_-_Two_Lads_and_their_Dad.jpg/223px-Kay_Woollard_-_At_the_Buckland_Ferry_-_Two_Lads_and_their_Dad.jpg 2x" data-file-width="1460" data-file-height="1959"/></a></span></div>
 			<div class="gallerytext">
-<p>5. Chờ chuyến phà Buckland. Hai cậu bé và bố của chúng...
+<p>5. Waiting for the Buckland Ferry. The two little lads and their dad...
 </p>
 			</div>
 		</li>
@@ -410,35 +410,35 @@ Sáu bộ đầu tiên đã được đặt hàng và xuất bản dưới dạn
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Two_Sisters_with_the_Empty_Birdcage.jpg.md" title="9. The two sisters with the empty bird cage"><img alt="9. The two sisters with the empty bird cage" src="https://tolkiengateway.net/w/images/thumb/7/7a/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Two_Sisters_with_the_Empty_Birdcage.jpg/113px-Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Two_Sisters_with_the_Empty_Birdcage.jpg" decoding="async" loading="lazy" width="113" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7a/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Two_Sisters_with_the_Empty_Birdcage.jpg/169px-Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Two_Sisters_with_the_Empty_Birdcage.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7a/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Two_Sisters_with_the_Empty_Birdcage.jpg/225px-Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Two_Sisters_with_the_Empty_Birdcage.jpg 2x" data-file-width="1414" data-file-height="1882"/></a></span></div>
 			<div class="gallerytext">
-<p>9. Hai chị em bên chiếc lồng chim trống rỗng
+<p>9. The two sisters with the empty bird cage
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Quarreling_Lovers.jpg.md" title="10. The quarreling lovers."><img alt="10. The quarreling lovers." src="https://tolkiengateway.net/w/images/thumb/6/64/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Quarreling_Lovers.jpg/95px-Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Quarreling_Lovers.jpg" decoding="async" loading="lazy" width="95" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/64/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Quarreling_Lovers.jpg/143px-Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Quarreling_Lovers.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/64/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Quarreling_Lovers.jpg/190px-Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Quarreling_Lovers.jpg 2x" data-file-width="1308" data-file-height="2058"/></a></span></div>
 			<div class="gallerytext">
-<p>10. Đôi tình nhân hay cãi vã.
+<p>10. The quarreling lovers.
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Young_Stoor.jpg.md" title="11. The young Stoor"><img alt="11. The young Stoor" src="https://tolkiengateway.net/w/images/thumb/6/6b/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Young_Stoor.jpg/102px-Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Young_Stoor.jpg" decoding="async" loading="lazy" width="102" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6b/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Young_Stoor.jpg/152px-Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Young_Stoor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6b/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Young_Stoor.jpg/203px-Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Young_Stoor.jpg 2x" data-file-width="1425" data-file-height="2102"/></a></span></div>
 			<div class="gallerytext">
-<p>11. Người trẻ <a href="../S/Stoors.md" title="Stoors">Stoor</a>
+<p>11. The young <a href="../S/Stoors.md" title="Stoors">Stoor</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Farmer&#39;s_Pretty_Wife_and_Their_Children.jpg.md" title="12. The farmer&#39;s pretty wife and their children."><img alt="12. The farmer&#39;s pretty wife and their children." src="https://tolkiengateway.net/w/images/thumb/b/b2/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Farmer%27s_Pretty_Wife_and_Their_Children.jpg/104px-Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Farmer%27s_Pretty_Wife_and_Their_Children.jpg" decoding="async" loading="lazy" width="104" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b2/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Farmer%27s_Pretty_Wife_and_Their_Children.jpg/156px-Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Farmer%27s_Pretty_Wife_and_Their_Children.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b2/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Farmer%27s_Pretty_Wife_and_Their_Children.jpg/208px-Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Farmer%27s_Pretty_Wife_and_Their_Children.jpg 2x" data-file-width="1323" data-file-height="1903"/></a></span></div>
 			<div class="gallerytext">
-<p>12. Người vợ xinh đẹp của người nông dân và những đứa con của họ.
+<p>12. The farmer&#39;s pretty wife and their children.
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Bonny_Lad_who_Nearly_Missed_It.jpg.md" title="13. The bonny lad who very nearly missed it!"><img alt="13. The bonny lad who very nearly missed it!" src="https://tolkiengateway.net/w/images/thumb/a/ac/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Bonny_Lad_who_Nearly_Missed_It.jpg/99px-Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Bonny_Lad_who_Nearly_Missed_It.jpg" decoding="async" loading="lazy" width="99" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ac/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Bonny_Lad_who_Nearly_Missed_It.jpg/149px-Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Bonny_Lad_who_Nearly_Missed_It.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/ac/Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Bonny_Lad_who_Nearly_Missed_It.jpg/199px-Kay_Woollard_-_At_the_Buckland_Ferry_-_The_Bonny_Lad_who_Nearly_Missed_It.jpg 2x" data-file-width="1398" data-file-height="2105"/></a></span></div>
 			<div class="gallerytext">
-<p>13. Chàng trai vui tính suýt chút nữa đã bỏ lỡ cơ hội!
+<p>13. The bonny lad who very nearly missed it!
 </p>
 			</div>
 		</li>
@@ -452,7 +452,7 @@ Sáu bộ đầu tiên đã được đặt hàng và xuất bản dưới dạn
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_Smial_near_a_Waterfall_-_North_Farthing.jpg.md" title="15. Smial near a waterfall - North Farthing"><img alt="15. Smial near a waterfall - North Farthing" src="https://tolkiengateway.net/w/images/thumb/6/6d/Kay_Woollard_-_Smial_near_a_Waterfall_-_North_Farthing.jpg/100px-Kay_Woollard_-_Smial_near_a_Waterfall_-_North_Farthing.jpg" decoding="async" loading="lazy" width="100" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6d/Kay_Woollard_-_Smial_near_a_Waterfall_-_North_Farthing.jpg/150px-Kay_Woollard_-_Smial_near_a_Waterfall_-_North_Farthing.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6d/Kay_Woollard_-_Smial_near_a_Waterfall_-_North_Farthing.jpg/200px-Kay_Woollard_-_Smial_near_a_Waterfall_-_North_Farthing.jpg 2x" data-file-width="1390" data-file-height="2085"/></a></span></div>
 			<div class="gallerytext">
-<p>15. Cười gần thác nước - <a class="mw-redirect" href="../N/North_Farthing.md" title="North Farthing">North Farthing</a>
+<p>15. Smial near a waterfall - <a class="mw-redirect" href="../N/North_Farthing.md" title="North Farthing">North Farthing</a>
 </p>
 			</div>
 		</li>
@@ -522,7 +522,7 @@ Bộ này cũng là từ một trong những cuốn sổ tay của *Hob Painter'
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_Almost_over_the_fence.jpg.md" title="9. Almost over the fence"><img alt="9. Almost over the fence" src="https://tolkiengateway.net/w/images/thumb/f/f4/Kay_Woollard_-_Almost_over_the_fence.jpg/82px-Kay_Woollard_-_Almost_over_the_fence.jpg" decoding="async" loading="lazy" width="82" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f4/Kay_Woollard_-_Almost_over_the_fence.jpg/124px-Kay_Woollard_-_Almost_over_the_fence.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f4/Kay_Woollard_-_Almost_over_the_fence.jpg/165px-Kay_Woollard_-_Almost_over_the_fence.jpg 2x" data-file-width="1330" data-file-height="2416"/></a></span></div>
 			<div class="gallerytext">
-<p>9. Gần như vượt qua hàng rào
+<p>9. Almost over the fence
 </p>
 			</div>
 		</li>
@@ -543,7 +543,7 @@ Bộ này cũng là từ một trong những cuốn sổ tay của *Hob Painter'
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_Gammer_Waiting_for_her_Sweetheart.jpg.md" title="12. Gammer Waiting for her Sweetheart"><img alt="12. Gammer Waiting for her Sweetheart" src="https://tolkiengateway.net/w/images/thumb/5/5b/Kay_Woollard_-_Gammer_Waiting_for_her_Sweetheart.jpg/84px-Kay_Woollard_-_Gammer_Waiting_for_her_Sweetheart.jpg" decoding="async" loading="lazy" width="84" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5b/Kay_Woollard_-_Gammer_Waiting_for_her_Sweetheart.jpg/126px-Kay_Woollard_-_Gammer_Waiting_for_her_Sweetheart.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5b/Kay_Woollard_-_Gammer_Waiting_for_her_Sweetheart.jpg/167px-Kay_Woollard_-_Gammer_Waiting_for_her_Sweetheart.jpg 2x" data-file-width="1263" data-file-height="2260"/></a></span></div>
 			<div class="gallerytext">
-<p>12. Game thủ đang chờ người yêu của mình
+<p>12. Gammer Waiting for her Sweetheart
 </p>
 			</div>
 		</li>
@@ -592,42 +592,42 @@ Con mắt của người quan sát được mời gọi đi lang thang, vì mỗ
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_A_Cottage_in_the_Marish_-_East_Farthing.jpg.md" title="A cottage in the Marish - East Farthing"><img alt="A cottage in the Marish - East Farthing" src="https://tolkiengateway.net/w/images/thumb/f/f8/Kay_Woollard_-_A_Cottage_in_the_Marish_-_East_Farthing.jpg/250px-Kay_Woollard_-_A_Cottage_in_the_Marish_-_East_Farthing.jpg" decoding="async" loading="lazy" width="250" height="179" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f8/Kay_Woollard_-_A_Cottage_in_the_Marish_-_East_Farthing.jpg/375px-Kay_Woollard_-_A_Cottage_in_the_Marish_-_East_Farthing.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f8/Kay_Woollard_-_A_Cottage_in_the_Marish_-_East_Farthing.jpg/500px-Kay_Woollard_-_A_Cottage_in_the_Marish_-_East_Farthing.jpg 2x" data-file-width="1098" data-file-height="787"/></a></span></div>
 			<div class="gallerytext">
-<p>Ngôi nhà nhỏ ở <a href="../M/Marish.md" title="Marish">Marish</a> - <a href="../E/Eastfarthing.md" title="Eastfarthing">phương Đông Farthing</a>
+<p>A cottage in the <a href="../M/Marish.md" title="Marish">Marish</a> - <a href="../E/Eastfarthing.md" title="Eastfarthing">East Farthing</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_The_Pedlar_of_Medicines.jpg.md" title="The pedlar of medicines - Cottages and cottagers near Hardbottle"><img alt="The pedlar of medicines - Cottages and cottagers near Hardbottle" src="https://tolkiengateway.net/w/images/thumb/4/4d/Kay_Woollard_-_The_Pedlar_of_Medicines.jpg/250px-Kay_Woollard_-_The_Pedlar_of_Medicines.jpg" decoding="async" loading="lazy" width="250" height="182" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4d/Kay_Woollard_-_The_Pedlar_of_Medicines.jpg/375px-Kay_Woollard_-_The_Pedlar_of_Medicines.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4d/Kay_Woollard_-_The_Pedlar_of_Medicines.jpg/500px-Kay_Woollard_-_The_Pedlar_of_Medicines.jpg 2x" data-file-width="1081" data-file-height="787"/></a></span></div>
 			<div class="gallerytext">
-<p>Người bán thuốc - Nhà tranh, nhà tranh gần <a href="../H/Hardbottle.md" title="Hardbottle">Hardbottle</a>
+<p>The pedlar of medicines - Cottages and cottagers near <a href="../H/Hardbottle.md" title="Hardbottle">Hardbottle</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_An_Almost_Concealed_Smial_-_West_Farthing.jpg.md" title="An almost concealed Smial - West Farthing"><img alt="An almost concealed Smial - West Farthing" src="https://tolkiengateway.net/w/images/thumb/1/1e/Kay_Woollard_-_An_Almost_Concealed_Smial_-_West_Farthing.jpg/250px-Kay_Woollard_-_An_Almost_Concealed_Smial_-_West_Farthing.jpg" decoding="async" loading="lazy" width="250" height="182" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1e/Kay_Woollard_-_An_Almost_Concealed_Smial_-_West_Farthing.jpg/375px-Kay_Woollard_-_An_Almost_Concealed_Smial_-_West_Farthing.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1e/Kay_Woollard_-_An_Almost_Concealed_Smial_-_West_Farthing.jpg/500px-Kay_Woollard_-_An_Almost_Concealed_Smial_-_West_Farthing.jpg 2x" data-file-width="1080" data-file-height="787"/></a></span></div>
 			<div class="gallerytext">
-<p>Một nụ cười gần như bị che giấu - <a href="../W/Westfarthing.md" title="Westfarthing">Phương Tây Farthing</a>
+<p>An almost concealed Smial - <a href="../W/Westfarthing.md" title="Westfarthing">West Farthing</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_Dinner_Time_-_A_farmhouse_kitchen.jpg.md" title="Dinner time - A farmhouse kitchen in the Shire"><img alt="Dinner time - A farmhouse kitchen in the Shire" src="https://tolkiengateway.net/w/images/thumb/8/82/Kay_Woollard_-_Dinner_Time_-_A_farmhouse_kitchen.jpg/250px-Kay_Woollard_-_Dinner_Time_-_A_farmhouse_kitchen.jpg" decoding="async" loading="lazy" width="250" height="164" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/82/Kay_Woollard_-_Dinner_Time_-_A_farmhouse_kitchen.jpg/375px-Kay_Woollard_-_Dinner_Time_-_A_farmhouse_kitchen.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/82/Kay_Woollard_-_Dinner_Time_-_A_farmhouse_kitchen.jpg/500px-Kay_Woollard_-_Dinner_Time_-_A_farmhouse_kitchen.jpg 2x" data-file-width="1142" data-file-height="747"/></a></span></div>
 			<div class="gallerytext">
-<p>Giờ ăn tối - Căn bếp trang trại ở Shire
+<p>Dinner time - A farmhouse kitchen in the Shire
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_Valerie_Sutton&#39;s_It_Always_Rains_on_Washing_Day.jpg.md" title="It always rains on washing day - Smial in South Farthing"><img alt="It always rains on washing day - Smial in South Farthing" src="https://tolkiengateway.net/w/images/thumb/b/b2/Kay_Woollard_-_Valerie_Sutton%27s_It_Always_Rains_on_Washing_Day.jpg/250px-Kay_Woollard_-_Valerie_Sutton%27s_It_Always_Rains_on_Washing_Day.jpg" decoding="async" loading="lazy" width="250" height="167" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b2/Kay_Woollard_-_Valerie_Sutton%27s_It_Always_Rains_on_Washing_Day.jpg/375px-Kay_Woollard_-_Valerie_Sutton%27s_It_Always_Rains_on_Washing_Day.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b2/Kay_Woollard_-_Valerie_Sutton%27s_It_Always_Rains_on_Washing_Day.jpg/500px-Kay_Woollard_-_Valerie_Sutton%27s_It_Always_Rains_on_Washing_Day.jpg 2x" data-file-width="1142" data-file-height="762"/></a></span></div>
 			<div class="gallerytext">
-<p>Ngày giặt đồ luôn mưa - Smial in <a href="../S/Southfarthing.md" title="Southfarthing">South Farthing</a>
+<p>It always rains on washing day - Smial in <a href="../S/Southfarthing.md" title="Southfarthing">South Farthing</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_The_Causeway,_looking_South_-_Rushey_in_the_distance.jpg.md" title="The Causeway, looking South - Rushey in the Distance: A Blustery Day in Early Autumn"><img alt="The Causeway, looking South - Rushey in the Distance: A Blustery Day in Early Autumn" src="https://tolkiengateway.net/w/images/thumb/3/32/Kay_Woollard_-_The_Causeway%2C_looking_South_-_Rushey_in_the_distance.jpg/250px-Kay_Woollard_-_The_Causeway%2C_looking_South_-_Rushey_in_the_distance.jpg" decoding="async" loading="lazy" width="250" height="186" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/32/Kay_Woollard_-_The_Causeway%2C_looking_South_-_Rushey_in_the_distance.jpg/375px-Kay_Woollard_-_The_Causeway%2C_looking_South_-_Rushey_in_the_distance.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/32/Kay_Woollard_-_The_Causeway%2C_looking_South_-_Rushey_in_the_distance.jpg/500px-Kay_Woollard_-_The_Causeway%2C_looking_South_-_Rushey_in_the_distance.jpg 2x" data-file-width="1055" data-file-height="787"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../C/Causeway.md" title="Causeway">Causeway</a>, nhìn về phương Nam - <a href="../R/Rushey.md" title="Rushey">Rushey</a> ở phía xa: Một ngày se lạnh đầu thu
+<p>The <a href="../C/Causeway.md" title="Causeway">Causeway</a>, looking South - <a href="../R/Rushey.md" title="Rushey">Rushey</a> in the Distance: A Blustery Day in Early Autumn
 </p>
 			</div>
 		</li>
@@ -660,7 +660,7 @@ Con mắt của người quan sát được mời gọi đi lang thang, vì mỗ
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_Belladonna_running_after_Isengar_in_the_Old_Forest.jpg.md" title="Belladonna running after Isengar in the Old Forest"><img alt="Belladonna running after Isengar in the Old Forest" src="https://tolkiengateway.net/w/images/thumb/e/e7/Kay_Woollard_-_Belladonna_running_after_Isengar_in_the_Old_Forest.jpg/105px-Kay_Woollard_-_Belladonna_running_after_Isengar_in_the_Old_Forest.jpg" decoding="async" loading="lazy" width="105" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e7/Kay_Woollard_-_Belladonna_running_after_Isengar_in_the_Old_Forest.jpg/158px-Kay_Woollard_-_Belladonna_running_after_Isengar_in_the_Old_Forest.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e7/Kay_Woollard_-_Belladonna_running_after_Isengar_in_the_Old_Forest.jpg/211px-Kay_Woollard_-_Belladonna_running_after_Isengar_in_the_Old_Forest.jpg 2x" data-file-width="1748" data-file-height="2484"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../B/Belladonna_Took.md" title="Belladonna Took">Belladonna</a> chạy theo <a class="mw-redirect" href="../I/Isengar.md" title="Isengar">Isengar</a> trong <a href="../O/Old_Forest.md" title="Old Forest">Khu Rừng Cổ</a>
+<p><a href="../B/Belladonna_Took.md" title="Belladonna Took">Belladonna</a> running after <a class="mw-redirect" href="../I/Isengar.md" title="Isengar">Isengar</a> in the <a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a>
 </p>
 			</div>
 		</li>
@@ -681,7 +681,7 @@ Con mắt của người quan sát được mời gọi đi lang thang, vì mỗ
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_Edwy,_the_hero_of_The_Survivor.jpg.md" title="Alfric, the hero of The Survivor (Mallorn 25)"><img alt="Alfric, the hero of The Survivor (Mallorn 25)" src="https://tolkiengateway.net/w/images/thumb/6/6a/Kay_Woollard_-_Edwy%2C_the_hero_of_The_Survivor.jpg/103px-Kay_Woollard_-_Edwy%2C_the_hero_of_The_Survivor.jpg" decoding="async" loading="lazy" width="103" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6a/Kay_Woollard_-_Edwy%2C_the_hero_of_The_Survivor.jpg/155px-Kay_Woollard_-_Edwy%2C_the_hero_of_The_Survivor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6a/Kay_Woollard_-_Edwy%2C_the_hero_of_The_Survivor.jpg/207px-Kay_Woollard_-_Edwy%2C_the_hero_of_The_Survivor.jpg 2x" data-file-width="3113" data-file-height="4507"/></a></span></div>
 			<div class="gallerytext">
-<p>Alfric, người hùng của <i>The Survivor</i> (<a href="../M/Mallorn_25.md" title="Mallorn 25"><i>Mallorn</i> 25</a>)
+<p>Alfric, the hero of <i>The Survivor</i> (<a href="../M/Mallorn_25.md" title="Mallorn 25"><i>Mallorn</i> 25</a>)
 </p>
 			</div>
 		</li>
@@ -718,7 +718,7 @@ Một ghi chú tưởng nhớ về Peter đã được thêm vào bộ sưu tậ
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_Peter&#39;s_Dwarves.jpg.md" title="Peter&#39;s Dwarves collection"><img alt="Peter&#39;s Dwarves collection" src="https://tolkiengateway.net/w/images/thumb/f/ff/Kay_Woollard_-_Peter%27s_Dwarves.jpg/103px-Kay_Woollard_-_Peter%27s_Dwarves.jpg" decoding="async" loading="lazy" width="103" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/ff/Kay_Woollard_-_Peter%27s_Dwarves.jpg/155px-Kay_Woollard_-_Peter%27s_Dwarves.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/ff/Kay_Woollard_-_Peter%27s_Dwarves.jpg/206px-Kay_Woollard_-_Peter%27s_Dwarves.jpg 2x" data-file-width="1164" data-file-height="1691"/></a></span></div>
 			<div class="gallerytext">
-<p>Bộ sưu tập Người Lùn của Peter
+<p>Peter&#39;s Dwarves collection
 </p>
 			</div>
 		</li>
@@ -746,7 +746,7 @@ Một ghi chú tưởng nhớ về Peter đã được thêm vào bộ sưu tậ
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_Heatherale_and_cram_-_Dwarves_pause_on_a_journey.jpg.md" title="Heather ale and cram - Dwarves pause on a journey"><img alt="Heather ale and cram - Dwarves pause on a journey" src="https://tolkiengateway.net/w/images/thumb/5/56/Kay_Woollard_-_Heatherale_and_cram_-_Dwarves_pause_on_a_journey.jpg/164px-Kay_Woollard_-_Heatherale_and_cram_-_Dwarves_pause_on_a_journey.jpg" decoding="async" loading="lazy" width="164" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/56/Kay_Woollard_-_Heatherale_and_cram_-_Dwarves_pause_on_a_journey.jpg/245px-Kay_Woollard_-_Heatherale_and_cram_-_Dwarves_pause_on_a_journey.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/56/Kay_Woollard_-_Heatherale_and_cram_-_Dwarves_pause_on_a_journey.jpg/327px-Kay_Woollard_-_Heatherale_and_cram_-_Dwarves_pause_on_a_journey.jpg 2x" data-file-width="858" data-file-height="787"/></a></span></div>
 			<div class="gallerytext">
-<p>Heather ale và cram - Người Lùn tạm dừng trên một hành trình
+<p>Heather ale and cram - Dwarves pause on a journey
 </p>
 			</div>
 		</li>
@@ -826,7 +826,7 @@ Một ghi chú tưởng nhớ về Peter đã được thêm vào bộ sưu tậ
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_Wood-Elves.jpg.md" title="Wood-elves"><img alt="Wood-elves" src="https://tolkiengateway.net/w/images/thumb/2/2a/Kay_Woollard_-_Wood-Elves.jpg/110px-Kay_Woollard_-_Wood-Elves.jpg" decoding="async" loading="lazy" width="110" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2a/Kay_Woollard_-_Wood-Elves.jpg/165px-Kay_Woollard_-_Wood-Elves.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2a/Kay_Woollard_-_Wood-Elves.jpg/220px-Kay_Woollard_-_Wood-Elves.jpg 2x" data-file-width="774" data-file-height="1054"/></a></span></div>
 			<div class="gallerytext">
-<p><a class="mw-redirect" href="../W/Wood-elves.md" title="Wood-elves">Tiên rừng</a>
+<p><a class="mw-redirect" href="../W/Wood-elves.md" title="Wood-elves">Wood-elves</a>
 </p>
 			</div>
 		</li>

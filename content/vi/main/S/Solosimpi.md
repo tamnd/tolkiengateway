@@ -20,7 +20,7 @@ sort_keys:
 
 ## Lịch sử {#History}
 
-Thủ lĩnh của họ là [Tinwelint](../T/Tinwelint.md) nhưng sau khi ông bị lạc, họ đã chọn [Ellu Melemno](../E/Ellu.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Thủ lĩnh của họ là [Tinwelint](../T/Tinwelint.md) nhưng sau khi ông ta bị lạc, họ đã chọn [Ellu Melemno](../E/Ellu.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Solosimpi cư trú tại [Kopas Alqaluntë](../K/Kopas_Alqaluntë.md) nhưng nhiều người đã bị [tàn sát](../K/Kinslaying_at_Alqualondë.md) bởi [Gnomes](../G/Gnomes.md) dưới [Fëanor](../F/Fëanor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

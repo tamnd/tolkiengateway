@@ -14,7 +14,7 @@ images:
   - "Snake.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Snake.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/36/Snake.jpg/250px-Snake.jpg" decoding="async" loading="lazy" width="250" height="186" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/36/Snake.jpg/375px-Snake.jpg 1.5x, https://tolkiengateway.net/w/images/3/36/Snake.jpg 2x" data-file-width="400" data-file-height="297"/></a><figcaption>Một con rắn được miêu tả trong <i><a href="../L/Lord_of_the_Rings_Adventure_Game.md" title="Lord of the Rings Adventure Game">Lord of the Rings Adventure Game</a></i></figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Snake.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/36/Snake.jpg/250px-Snake.jpg" decoding="async" loading="lazy" width="250" height="186" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/36/Snake.jpg/375px-Snake.jpg 1.5x, https://tolkiengateway.net/w/images/3/36/Snake.jpg 2x" data-file-width="400" data-file-height="297"/></a><figcaption>A snake portrayed in <i><a href="../L/Lord_of_the_Rings_Adventure_Game.md" title="Lord of the Rings Adventure Game">Lord of the Rings Adventure Game</a></i></figcaption></figure>
 
 **Rắn**, đôi khi được gọi là [rắn](Serpents.md), là sinh vật bò sát, thường liên quan đến thế lực bóng tối và đặc biệt là với [Chúa tể bóng tối](../D/Dark_Lord.md).
 

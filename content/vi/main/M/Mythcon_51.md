@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Mythcon_51"
 content_sha256: f6733170ea4141c73ae22f30327808e7876a1fc28d9a6495d469892105d812cc
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Hội nghị Hiệp hội Thần thoại năm 2021"
+short_description: "2021 Mythopoeic Society conference"
 categories:
   - "Mythcon"
 hidden_categories:
@@ -26,7 +26,7 @@ infobox:
     value: "Mythcon 52"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 51</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Được tổ chức trực tuyến</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Hội Mythopoeic</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">31 July - 1 August <a href="../_/2021.md" title="2021">2021</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Mythcon_50.md" title="Mythcon 50">Mythcon 50</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Mythcon_52.md" title="Mythcon 52">Mythcon 52</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 51</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Held online</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data">31 July - 1 August <a href="../_/2021.md" title="2021">2021</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="Mythcon_50.md" title="Mythcon 50">Mythcon 50</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="Mythcon_52.md" title="Mythcon 52">Mythcon 52</a></td></tr></tbody></table>
 
 **Mythcon 51** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 51. Không có Mythcon nào được tổ chức vào năm 2020 do đại dịch COVID-19 và Mythcon 51 là hội nghị Mython hoàn toàn ảo đầu tiên.
 

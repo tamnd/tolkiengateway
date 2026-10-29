@@ -30,7 +30,7 @@ Danh sách này chứa tất cả các ký tự được tạo riêng cho [The L
 ## B {#B}
 
 - [Bolli](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Bolli)
-- [Đại úy Brackenbrook](../../main/C/Captain_Brackenbrook.md)
+- [Thuyền trưởng Brackenbrook](../../main/C/Captain_Brackenbrook.md)
 
 ## C {#C}
 

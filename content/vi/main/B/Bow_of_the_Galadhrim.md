@@ -17,7 +17,7 @@ images:
   - "Michael_Kaluta_-_Legolas_Draws_the_Bow_of_Galadriel.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Michael_Kaluta_-_Legolas_Draws_the_Bow_of_Galadriel.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/38/Michael_Kaluta_-_Legolas_Draws_the_Bow_of_Galadriel.jpg/300px-Michael_Kaluta_-_Legolas_Draws_the_Bow_of_Galadriel.jpg" decoding="async" loading="lazy" width="300" height="268" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/38/Michael_Kaluta_-_Legolas_Draws_the_Bow_of_Galadriel.jpg/450px-Michael_Kaluta_-_Legolas_Draws_the_Bow_of_Galadriel.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/38/Michael_Kaluta_-_Legolas_Draws_the_Bow_of_Galadriel.jpg/600px-Michael_Kaluta_-_Legolas_Draws_the_Bow_of_Galadriel.jpg 2x" data-file-width="700" data-file-height="625"/></a><figcaption><i>Legolas Draws the Bow of Galadriel</i> by <a href="../M/Michael_Kaluta.md" title="Michael Kaluta">Michael Kaluta</a></figcaption></figure>
@@ -30,12 +30,12 @@ Trước khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) rời [Lothló
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Vũ khí</a> trong <a href="../L/Legendarium.md" title="Legendarium">huyền thoại</a> của <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Weapons</a> in <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a>&#39;s <a href="../L/Legendarium.md" title="Legendarium">legendarium</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"> <a href="../../category/A/Arrows.md" title="Category:Arrows">Arrows</a>:
 </th>
-<td style="font-size: 90%;"> <a href="Black_arrow.md" title="Black arrow">Mũi tên đen</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Mũi tên đỏ</a>
+<td style="font-size: 90%;"> <a href="Black_arrow.md" title="Black arrow">Black arrow</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Red Arrow</a>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/A/Axes.md" title="Category:Axes">Axes</a>:
@@ -71,10 +71,10 @@ Trước khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) rời [Lothló
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5)"><b><a href="../G/Gifts_of_Galadriel.md" title="Gifts of Galadriel">Những món quà của Galadriel</a></b>
+<th style="background:var(--tg-color-surface-5)"><b><a href="../G/Gifts_of_Galadriel.md" title="Gifts of Galadriel">Gifts of Galadriel</a></b>
 </th></tr>
 <tr>
-<td style="font-size: 90%;" align="center"><a href="../A/Andúril&#39;s_sheath.md" title="Andúril&#39;s sheath">Andúril bao kiếm</a> · <a href="../E/Elfstone.md" title="Elfstone">Elfstone</a> · <a href="Boromir&#39;s_belt.md" title="Boromir&#39;s belt">Boromir thắt lưng</a> · <a href="../M/Merry_and_Pippin&#39;s_belts.md" title="Merry and Pippin&#39;s belts">Merry và thắt lưng Pippin</a> · <a class="mw-selflink selflink">Cung của Galadhrim</a> · <a href="../S/Sam&#39;s_garden_box.md" title="Sam&#39;s garden box">Sam hộp làm vườn</a> · <a href="../H/Hair_of_Galadriel.md" title="Hair of Galadriel">Tóc của Galadriel</a> · <a href="../P/Phial_of_Galadriel.md" title="Phial of Galadriel">Phial của Galadriel</a>
+<td style="font-size: 90%;" align="center"><a href="../A/Andúril&#39;s_sheath.md" title="Andúril&#39;s sheath">Andúril&#39;s sheath</a> · <a href="../E/Elfstone.md" title="Elfstone">Elfstone</a> · <a href="Boromir&#39;s_belt.md" title="Boromir&#39;s belt">Boromir&#39;s belt</a> · <a href="../M/Merry_and_Pippin&#39;s_belts.md" title="Merry and Pippin&#39;s belts">Merry and Pippin&#39;s belts</a> · <a class="mw-selflink selflink">Bow of the Galadhrim</a> · <a href="../S/Sam&#39;s_garden_box.md" title="Sam&#39;s garden box">Sam&#39;s garden box</a> · <a href="../H/Hair_of_Galadriel.md" title="Hair of Galadriel">Hair of Galadriel</a> · <a href="../P/Phial_of_Galadriel.md" title="Phial of Galadriel">Phial of Galadriel</a>
 </td></tr>
 </tbody></table>
 

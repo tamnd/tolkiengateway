@@ -26,7 +26,7 @@ file:
 
 ## Mô tả {#Description}
 
-"Người Lùn Cánh cửa", của Artigas.
+"Người lùn Cánh cửa", của Artigas.
 
 Sự thể hiện của nghệ sĩ về cơ chế có thể có của một cánh cổng được xây dựng theo cách [Cửa Sau](../../main/B/Back_Door.md) của [Ngọn Núi Cô Đơn](../../main/L/Lonely_Mountain.md) trong *[The Hobbit](../../main/T/The_Hobbit.md)*.
 

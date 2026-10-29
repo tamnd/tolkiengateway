@@ -34,22 +34,22 @@ Bài viết đã được in lại tại *The Daily Times-Journal* của Fort Wi
 # Trích xuất {#Extracts}
 
 <blockquote class="tg-quote noexcerpt">
-<p>"<a href="../S/Spiders.md" title="Spiders">Nhện</a>," Giáo sư J.R.R. Tolkien nhận xét, nâng niu từ này với tình cảm giống như khi ông ôm chiếc tẩu trong tay, "là nỗi kinh hoàng đặc biệt của trí tưởng tượng phương Bắc."
+<p>&#34;<a href="../S/Spiders.md" title="Spiders">Spiders</a>,&#34; observed Professor J.R.R. Tolkien, cradling the word with the same affection that he cradled the pipe in his hand, &#34;are the particular terror of northern imaginations.&#34;
 </p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Thảo luận về một trong những con quái vật của chính mình, một con quái vật giống nhện, ăn thịt người, anh nói, " <a href="../S/Shelob.md" title="Shelob">Quái vật cái</a> chắc chắn không nguy hiểm hơn con đực, nhưng bà thì khác. Bà là một sinh vật hút, bóp cổ, bẫy."
+<p>Discussing one of his own monsters, a man-devouring, spider-like female, he said, &#34;The <a href="../S/Shelob.md" title="Shelob">female monster</a> is certainly no deadlier than the male, but she is different. She is a sucking, strangling, trapping creature.&#34;
 </p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>“Tôi chưa bao giờ mong đợi thành công về mặt tiền bạc,” Tolkien nói, đi đi lại lại trong phòng, như ông thường làm khi nói, “thực tế, tôi thậm chí chưa bao giờ nghĩ đến việc xuất bản thương mại khi tôi viết <a href="The_Hobbit.md" title="The Hobbit">THE HOBBIT</a> hồi những năm Ba mươi.”
+<p>&#34;I never expected a money success,&#34; said Tolkien, pacing the room, as he does constantly when he speaks &#34;in fact, I never even thought of commercial publication when I wrote <a href="The_Hobbit.md" title="The Hobbit">THE HOBBIT</a> back in the Thirties.&#34;
 </p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Khi chúng tôi hỏi Tolkien nên hát <a href="../E/Elvish.md" title="Elvish">Elvish</a> như thế nào, ông trả lời: "Giống như <a class="extiw" href="http://en.wikipedia.org/wiki/Gregorian_chant" title="wikipedia:Gregorian chant">những bài thánh ca Gregorian</a>." Anh ngân nga những câu đầu tiên trong <a href="../N/Namárië.md" title="Namárië">bài hát chia tay của Galadriel</a>, Nữ hoàng Tiên ...
+<p>When we asked Tolkien how <a href="../E/Elvish.md" title="Elvish">Elvish</a> should be sung, he replied, &#34;Like <a class="extiw" href="http://en.wikipedia.org/wiki/Gregorian_chant" title="wikipedia:Gregorian chant">Gregorian chants</a>.&#34; The he intoned the first lines of the <a href="../N/Namárië.md" title="Namárië">farewell song of Galadriel</a>, the Elf Queen ...
 </p>
 </blockquote>
 

@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/InQuest"
 content_sha256: 20752874af4ed2a8fca79ebcf9db694cee53435ecdce2bc5ac92dac54fafce5c
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Tạp chí về trò chơi đánh bài"
+short_description: "Magazine about Trading Card Games"
 categories:
   - "Magazines"
   - "Publications by title"
@@ -24,7 +24,7 @@ infobox:
     value: "1995-2007"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f9/The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg/320px-The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg" decoding="async" loading="lazy" width="320" height="441" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f9/The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg/480px-The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f9/The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg/640px-The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg 2x" data-file-width="2128" data-file-height="2931"/></a><figcaption>Ảnh bìa cho <i>InQuest</i> #63 của <a href="../T/The_Brothers_Hildebrandt.md" title="The Brothers Hildebrandt">The Brothers Hildebrandt</a></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>InQuest</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Wizard Entertainment</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">1995-2007</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f9/The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg/320px-The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg" decoding="async" loading="lazy" width="320" height="441" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f9/The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg/480px-The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f9/The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg/640px-The_Brothers_Hildebrandt_-_Arwen_joins_the_Quest.jpg 2x" data-file-width="2128" data-file-height="2931"/></a><figcaption>Cover art for <i>InQuest</i> #63 by <a href="../T/The_Brothers_Hildebrandt.md" title="The Brothers Hildebrandt">The Brothers Hildebrandt</a></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>InQuest</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Wizard Entertainment</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">1995-2007</td></tr></tbody></table>
 
 <i><b>InQuest</b></i>, sau này được gọi là **InQuest Gamer**, là một tạp chí về trò chơi đánh bài. Với tư cách đó, nó thường bao gồm [Trung Địa Trò chơi bài sưu tầm](../M/Middle-earth_Collectible_Card_Game.md) và [The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md).
 
@@ -183,22 +183,22 @@ infobox:
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Tạp chí chơi game trên máy tính bảng</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Tabletop gaming magazines</b>
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Nhập vai ở Trung Địa</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Roleplaying in Middle-earth</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../O/Other_Hands.md" title="Other Hands">Other Hands</a></b></i> (<a href="../_/1993.md" title="1993">1993</a>-<a href="../_/2001.md" title="2001">2001</a>) • <i><b><a href="../O/Other_Minds.md" title="Other Minds">Other Minds</a></b></i> (<a href="../_/2007.md" title="2007">2007</a>-)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Mô phỏng chiến tranh ở Trung Địa</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Wargaming in Middle-earth</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../B/Battle_Games_in_Middle-earth.md" title="Battle Games in Middle-earth">Battle Games in Middle-earth</a></b></i> (<a href="../_/2002.md" title="2002">2002</a>-<a href="../_/2006.md" title="2006">2006</a>)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Các tạp chí khác</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Other Magazines</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../D/Dragon_Magazine.md" title="Dragon Magazine">Dragon</a></b></i> (<a href="../_/1976.md" title="1976">1976</a>-<a href="../_/2013.md" title="2013">2013</a>) • <i><b><a href="../W/White_Dwarf.md" title="White Dwarf">White Dwarf</a></b></i> (<a href="../_/1977.md" title="1977">1977</a>-) • <i><b><a class="mw-selflink selflink">InQuest</a></b></i> (<a href="../_/1995.md" title="1995">1995</a>-<a href="../_/2007.md" title="2007">2007</a>) • <i><b><a href="../T/The_Guild_Companion.md" title="The Guild Companion">The Guild Companion</a></b></i> (<a href="../_/1998.md" title="1998">1998</a>-<a href="../_/2019.md" title="2019">2019</a>)

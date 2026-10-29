@@ -24,7 +24,7 @@ Ngày [9 tháng Chín](../_/9_September.md) [1954](../_/1954.md), [J.R.R. Tolkie
 ## Trích {#Excerpt}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tôi cũng rất vui được nhận lời ăn trưa sau buổi lễ; nhưng tôi rất tiếc vợ tôi vì lý do sức khỏe nên không thể đi cùng tôi trong dịp này.
+<p>I also have very great pleasure in accepting to lunch on after the ceremony; but I much regret that my wife will, for reasons of health, be unable to accompany me on this occasion.
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien (in <i><a href="Lembas_Extra%253A_Proceedings_of_the_5th_Unquendor_Lustrum.md" title="Lembas Extra: Proceedings of the 5th Unquendor Lustrum">Lembas Extra: Proceedings of the 5th Unquendor Lustrum</a></i>, p.56)</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

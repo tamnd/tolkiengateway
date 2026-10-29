@@ -26,7 +26,7 @@ Tên <i><b>Maltar</b></i> có trong [Qenya](../Q/Qenya.md). Nó có lẽ bắt n
 
 <b>1984-1997: <i><a href="Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Chiếc búa của Aulë được gọi là <i>Echerun</i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> “Chúa sáng tạo”) và được mô tả là được làm bằng vàng và dát <a href="Metals_in_Middle-earth_Role_Playing.md#eog" title="Metals in Middle-earth Role Playing">eog</a> màu đen.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
+<dl><dd>Aulë&#39;s hammer was called <i>Echerun</i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> “Lord Maker”), and it is described as being made of gold and inlaid with black <a href="Metals_in_Middle-earth_Role_Playing.md#eog" title="Metals in Middle-earth Role Playing">eog</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 
 <span></span>
 

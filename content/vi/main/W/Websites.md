@@ -15,8 +15,8 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Websites&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Websites&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
@@ -48,7 +48,7 @@ Trang này đóng vai trò là hướng dẫn cho nhiều **trang web** hữu í
 ### Wiki và tài liệu tham khảo {#Wikis_and_references}
 
 - [Tolkien Gateway](../T/Tolkien_Gateway.md) — <a class="external free" href="https://tolkiengateway.net/" rel="noreferrer noopener" target="_blank">https://tolkiengateway.net/</a>
-- Sách Thain— <a class="external free" href="https://thainsbook.minastirith.cz/" rel="noreferrer noopener" target="_blank">https://thainsbook.minastirith.cz/</a>
+- Sách của Thain— <a class="external free" href="https://thainsbook.minastirith.cz/" rel="noreferrer noopener" target="_blank">https://thainsbook.minastirith.cz/</a>
 - [Bách khoa toàn thư Arda](../E/Encyclopedia_of_Arda.md) — <a class="external free" href="https://www.glyphweb.com/arda/" rel="noreferrer noopener" target="_blank">https://www.glyphweb.com/arda/</a>
 - Trung tâm nghiên cứu Henneth Annun — <a class="external free" href="http://henneth-annun.net/" rel="noreferrer noopener" target="_blank">http://henneth-annun.net/</a>
 - The Lord of the Rings Wiki — <a class="external free" href="https://lotr.fandom.com/" rel="noreferrer noopener" target="_blank">https://lotr.fandom.com/</a>
@@ -79,7 +79,7 @@ Trang này đóng vai trò là hướng dẫn cho nhiều **trang web** hữu í
 ### [Tolkien Xã hội](../T/Tolkien_Societies~67099.md) {#Tolkien_Societies}
 
 - [Hội Tolkien](../T/The_Tolkien_Society.md) — <a class="external free" href="https://www.tolkiensociety.org/" rel="noreferrer noopener" target="_blank">https://www.tolkiensociety.org/</a>
-- [Hội Tolkien Tây Ban Nha](../S/Spanish_Tolkien_Society.md) — <a class="external free" href="https://www.sociedadtolkien.org/" rel="noreferrer noopener" target="_blank">https://www.sociedadtolkien.org/</a>
+- [Hiệp hội Tolkien Tây Ban Nha](../S/Spanish_Tolkien_Society.md) — <a class="external free" href="https://www.sociedadtolkien.org/" rel="noreferrer noopener" target="_blank">https://www.sociedadtolkien.org/</a>
 - [Hội thần thoại](../M/Mythopoeic_Society.md) - <a class="external free" href="https://www.mythsoc.org/" rel="noreferrer noopener" target="_blank">https://www.mythsoc.org/</a>
     - Đã hợp nhất với [Tolkien Society of America](../T/Tolkien_Society_of_America.md) trong [1972](../_/1972.md)
 - [Arthedain (Norges Tolkienforeninn)](<../A/Arthedain_(Tolkien_Society).md>) - <a class="external free" href="https://www.arthedain.org/" rel="noreferrer noopener" target="_blank">https://www.arthedain.org/</a>

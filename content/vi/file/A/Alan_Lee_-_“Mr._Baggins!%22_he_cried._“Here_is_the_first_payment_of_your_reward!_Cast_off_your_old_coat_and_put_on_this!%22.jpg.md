@@ -33,7 +33,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"“[Ông. Baggins!](../../main/B/Bilbo_Baggins.md)” ông kêu lên. “Đây là khoản thanh toán phần thưởng đầu tiên của bạn! Hãy cởi chiếc áo khoác cũ của bạn ra và mặc cái này vào!”" của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"“[Ông. Baggins!](../../main/B/Bilbo_Baggins.md)” ông ta kêu lên. “Đây là khoản thanh toán phần thưởng đầu tiên của bạn! Hãy cởi chiếc áo khoác cũ của bạn ra và mặc cái này vào!”" của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

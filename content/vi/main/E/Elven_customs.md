@@ -39,7 +39,7 @@ Các tiền tố một phần dựa trên ngoại hình và kỹ năng và do đ
 
 ### Không có gì {#Amilessë}
 
-Khi lớn hơn, những đứa trẻ được mẹ đặt tên thứ hai là *amilessë*. Họ thường mô tả ngoại hình của đứa trẻ hoặc một đặc điểm tính cách. Ví dụ, amilessë của [Galadriel](../G/Galadriel.md) là *Nerwen*, có nghĩa là thiếu nữ do chiều cao, sức mạnh thể chất và lòng kiêu hãnh của bà. amilessë của [Celegorm](../C/Celegorm.md) là *Tyelkormo*, có nghĩa là "kẻ vội vàng" ám chỉ tính khí nóng nảy của ông (Celegorm là cách diễn đạt của tên Sindarin). Đôi khi tên mẹ tiết lộ chi tiết về số phận hoặc đặc điểm mạnh mẽ của một Tiên, chẳng hạn như tên Fëanor (thần lửa) hoặc tên mẹ của [Amrod](../A/Amrod.md) *Umbarto* (Định mệnh), sau đó được gọi là *amilessi tercenyë* ("tên mẹ của sự sáng suốt"). Những cái tên này hiếm khi được đưa ra nhưng được coi là cực kỳ quan trọng.
+Khi lớn hơn, những đứa trẻ được mẹ đặt tên thứ hai là *amilessë*. Họ thường mô tả ngoại hình của đứa trẻ hoặc một đặc điểm tính cách. Ví dụ, amilessë của [Galadriel](../G/Galadriel.md) là *Nerwen*, có nghĩa là thiếu nữ do chiều cao, sức mạnh thể chất và lòng kiêu hãnh của bà. amilessë của [Celegorm](../C/Celegorm.md) là *Tyelkormo*, có nghĩa là "kẻ vội vàng" ám chỉ tính khí nóng nảy của ông ta (Celegorm là cách diễn đạt của tên Sindarin). Đôi khi tên mẹ tiết lộ chi tiết về số phận hoặc đặc điểm mạnh mẽ của một Tiên, chẳng hạn như tên Fëanor (thần lửa) hoặc tên mẹ của [Amrod](../A/Amrod.md) *Umbarto* (Định mệnh), sau đó được gọi là *amilessi tercenyë* ("tên mẹ của sự sáng suốt"). Những cái tên này hiếm khi được đưa ra nhưng được coi là cực kỳ quan trọng.
 
 ### Cilmessë {#Cilmessë}
 
@@ -59,7 +59,7 @@ Một trường hợp rất đặc biệt khác là Amrod. Tên mẹ của ông 
 <tbody><tr>
 <th>Sindarin Name</th>
 <th>Quenya father-name</th>
-<th>Quenya tên mẹ</th>
+<th>Quenya mother-name</th>
 <th>epesse
 </th></tr>
 <tr>

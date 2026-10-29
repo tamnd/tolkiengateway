@@ -21,40 +21,40 @@ images:
 ## Trích đoạn {#Excerpts}
 
 <div class="poem">
-<p>Jirel của Joiry. Có tạo ra bầu không khí <br/>
-và [?the] gia đình 'tham nhũng' nham hiểm của Alaric là <br/>
-kỳ lạ và đáng tin cậy. Nhưng tôi không bao giờ [sic] thấy <br/> có ảo giác
-những cuộc đấu tranh như của Jirel với 'Undead' Andred <br/>
-khá thiếu thuyết phục — nhất là khi nạn nhân trốn thoát!<br/>
+<p>Jirel of Joiry. Does create an atmosphere <br/>
+and [?the] sinister &#39;corrupt&#39; household of Alaric was <br/>
+eerie and credible. But I never [sic] find phantasmal <br/>
+struggles such as that of Jirel with &#39;Undead&#39; Andred <br/>
+quite unconvincing — especially when the victims escape!<br/>
 <br/>
-Dunsany ở thời điểm tồi tệ nhất. Cố gắng thật nhiều vì <br/>
-sự rùng mình. Nhưng không một lúc nào làm được <br/>
-câu chuyện 'đáng tin cậy' đủ để {pro} làm nền cho <br/>
-một [?e...] mạnh mẽ. Và cái kết đáng tiếc — ở <br/>
-sự thật [?xúc phạm]. Trong một thế giới nơi Thangobrind <br/>
-thậm chí có thể bắt đầu (huống chi là Hlo-hlo hay [?tất cả những thứ còn lại]) <br/>
-đầu thế kỷ 19 Riviera [?...] chắc chắn hoàn toàn <br/>
-không thể - hoặc ngược lại. Và ý nghĩa của nó là gì <br/>
-bằng cách bán linh hồn của con gái mình. <br/>
+Dunsany at his worst. Trying so hard for <br/>
+the shudder. But not for a moment making the <br/>
+tale &#39;credible&#39; enough to {pro} make a background for <br/>
+a strong [?e...]. And the ending lamentable — in <br/>
+fact [?insulting]. In a world in which a Thangobrind <br/>
+could even begin to be (let alone Hlo-hlo or [?all the rest]) <br/>
+early 19th century Riviera [?...] is surely utterly <br/>
+impossible — or vice versa. And what is meant <br/>
+by selling his daughter&#39;s soul. <br/>
 <br/>
-Cappen Varra. Danh pháp v[ery] xấu <br/>
-Hãy để chúng tôi có Scandanavian/Bắc Âu "bar- <br/> chính hãng
-barians" hoặc thứ gì đó được phát minh ra.<br/>
+Cappen Varra. Nomenclature v[ery] bad <br/>
+Let us have genuine Scandanavian/Norse &#34;bar- <br/>
+barians&#34; or something invented.<br/>
 <br/>
-Quái vật Athammus hoàn toàn không thể tin được <br/>
-[?…] kinh tởm [?... ... …]. Có rất nhiều <br/>
-về những cách sống [?... như] xấu xa, không có tất cả những thứ này <br/>
-[?tooraloo] vô nghĩa. <br/>
+The Athammaus monster wholly unbelievable <br/>
+[?…] disgusting [?... ... …]. There are lots <br/>
+of ways of being [?... as] nastily, without all this <br/>
+[?tooraloo] of nonsense. <br/>
 <br/>
-Hầu hết những thứ này đều quá nóng &amp; cường điệu <br/>
-([?...] lớn hơn hoặc [?would be] lớn hơn, [?'...'] là<br/>
-[?...] hơn {ends} mục đích đảm bảo)<br/>
-Cũng rõ ràng là hơn hoặc viết sai. <br/>
+Most of these things are overheated &amp; exaggerated <br/>
+([?...] bigger or [?would be] bigger, [?&#39;...&#39;] is<br/>
+[?...] than the {ends} purposes warrant)<br/>
+Also obviously over or ill-written. <br/>
 <br/>
-Jirel của Joiry 140 - 146 thì hay nhưng <br/>
-cần một câu chuyện [?deft] (và [?explication]) cho [?...]<br/>
-[?hợp lệ]. Dunsany's là một trong những <br/> tệ nhất của ông
-Đó là đoạn kinh khủng cuối cùng!<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Jirel of Joiry 140 - 146 is good but <br/>
+needs a [?deft] story (and [?explication]) to [?...]<br/>
+[?valid]. Dunsany&#39;s is one of his worst <br/>
+That final ghastly paragraph!<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 </p>
 </div>
 

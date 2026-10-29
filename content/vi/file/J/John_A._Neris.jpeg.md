@@ -23,7 +23,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ảnh quảng cáo của [John A. Neris](../../main/J/John_A._Neris.md) cho [*The Lord of the Rings (phim năm 1978)*](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>) - Nguồn <a class="external autonumber" href="https://www.imdb.com/title/tt0077869/mediaviewer/rm1138325504/?ref_=ttmi_mi_22_2" rel="noreferrer noopener" target="_blank">[1]</a>
+Ảnh quảng cáo của [John A. Neris](../../main/J/John_A._Neris.md) cho [*The Lord of the Rings (phim 1978)*](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>) - Nguồn <a class="external autonumber" href="https://www.imdb.com/title/tt0077869/mediaviewer/rm1138325504/?ref_=ttmi_mi_22_2" rel="noreferrer noopener" target="_blank">[1]</a>
 
 ## Giấy phép {#Licensing}
 

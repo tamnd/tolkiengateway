@@ -18,16 +18,16 @@ images:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Maria_Awsejkowa_-_Laer_Cu_Beleg.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/08/Maria_Awsejkowa_-_Laer_Cu_Beleg.jpg/300px-Maria_Awsejkowa_-_Laer_Cu_Beleg.jpg" decoding="async" loading="lazy" width="300" height="423" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/08/Maria_Awsejkowa_-_Laer_Cu_Beleg.jpg/450px-Maria_Awsejkowa_-_Laer_Cu_Beleg.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/08/Maria_Awsejkowa_-_Laer_Cu_Beleg.jpg/600px-Maria_Awsejkowa_-_Laer_Cu_Beleg.jpg 2x" data-file-width="1280" data-file-height="1803"/></a><figcaption><i>Laer cu Beleg</i> by <a href="../../category/I/Images_by_Maria_Awsejkowa.md" title="Category:Images by Maria Awsejkowa">Maria Awsejkowa</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Ở đó có một tình yêu kỳ diệu mà ông  những lời nói đầy mê hoặc,<br/>rằng rừng và nước  thức dậy và trả lời,<br/>những tảng đá bị vặn xoắn  với sự tàn nhẫn cho Beleg.
+<p>There wondrous wove he  words enchanted,<br/>that woods and water  waked and answered,<br/>the rocks were wrung  with ruth for Beleg.
 </p>
-<p class="tg-quote-footer"><cite><i><a href="../T/The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">The Lay of the Children of Húrin</a></i>, dòng 1659-61</cite></p>
+<p class="tg-quote-footer"><cite><i><a href="../T/The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">The Lay of the Children of Húrin</a></i>, lines 1659-61</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <i><b>Laer Cú Beleg</b></i> là một bài hát được [Túrin](../T/Túrin.md) sáng tác để tưởng nhớ người bạn [Beleg Cúthalion](../B/Beleg.md), người mà anh đã vô tình giết chết.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Với sự trợ giúp của [Gwindor](../G/Gwindor.md), Beleg đã giải phóng Turin khỏi Orc bị giam cầm trong một cơn giông bão. Tuy nhiên, khi được giải thoát, Turin đã nhầm Beleg với một Orc và sát hại ông bằng thanh kiếm của chính Beleg, [Anglachel](../A/Anglachel.md). Khi nhận ra sự kinh hoàng về những gì mình vừa làm, Turin rơi vào trạng thái sốc và để cho Gwindor dẫn mình đến [Hồ Ivrin](../P/Pools_of_Ivrin.md). Khi đến đó, ông uống nước trong lành và được chữa lành, và cuối cùng ông có thể khóc, than khóc Beleg. Sau đó, ông sáng tác và hát lời than thở này như một hình thức giải thoát nỗi đau buồn, hát to bất kể nguy hiểm.<sup id="cite_ref-Beleg_2-0" class="reference"><a href="#cite_note-Beleg-2">[2]</a></sup>
+Với sự trợ giúp của [Gwindor](../G/Gwindor.md), Beleg đã giải phóng Turin khỏi Orc bị giam cầm trong một cơn giông bão. Tuy nhiên, khi được giải thoát, Turin đã nhầm Beleg với một Orc và sát hại ông ta bằng thanh kiếm của chính Beleg, [Anglachel](../A/Anglachel.md). Khi nhận ra sự kinh hoàng về những gì mình vừa làm, Turin rơi vào trạng thái sốc và để cho Gwindor dẫn mình đến [Hồ Ivrin](../P/Pools_of_Ivrin.md). Khi đến đó, ông ta uống nước trong lành và được chữa lành, và cuối cùng ông ta có thể khóc, than khóc Beleg. Sau đó, ông sáng tác và hát lời than thở này như một hình thức giải thoát nỗi đau buồn, hát to bất kể nguy hiểm.<sup id="cite_ref-Beleg_2-0" class="reference"><a href="#cite_note-Beleg-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

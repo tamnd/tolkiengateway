@@ -18,7 +18,7 @@ langlinks:
     url: "https://kontu.wiki/Apukuningas"
 ---
 
-**Underking** là một chức vụ được bổ nhiệm đặc biệt của [Rohirrim](../R/Rohirrim.md), trong đó viên chức được quyền hành động như thể mình là vua. Trong thời chiến, nếu [Vua Rohan](../K/Kings_of_Rohan.md) vắng mặt ở nhà để chỉ huy quân đội, Underking sẽ thay thế ông cai trị. Ngoài ra, người giữ chức vụ này có thể giữ vai trò chỉ huy chiến trường của quân đội nếu Vua vẫn ở nhà. Tuy nhiên, trong chiến tranh, một Vua già không được phép gửi Người thừa kế của mình đi chiến đấu ngoài vương quốc trừ khi ông có ít nhất một người con trai khác. Trong thời bình, một Underking chỉ có thể được bổ nhiệm khi một Vua bệnh tật hoặc già nua thay thế quyền lực của mình, và người giữ chức vụ đó khi đó được coi là Người thừa kế ngai vàng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Underking** là một chức vụ được bổ nhiệm đặc biệt của [Rohirrim](../R/Rohirrim.md), trong đó viên chức được quyền hành động như thể mình là vua. Trong thời chiến, nếu [Vua Rohan](../K/Kings_of_Rohan.md) vắng mặt ở nhà để chỉ huy quân đội, Underking sẽ thay thế ông ta cai trị. Ngoài ra, người giữ chức vụ này có thể giữ vai trò chỉ huy chiến trường của quân đội nếu Vua vẫn ở nhà. Tuy nhiên, trong chiến tranh, một Vua già không được phép gửi Người thừa kế của mình đi chiến đấu ngoài vương quốc trừ khi ông ta có ít nhất một người con trai khác. Trong thời bình, một Underking chỉ có thể được bổ nhiệm khi một Vua bệnh tật hoặc già nua thay thế quyền lực của mình, và người giữ chức vụ đó khi đó được coi là Người thừa kế ngai vàng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/The_Lord_of_the_Rings_Virtual_Chall
 content_sha256: 78d52ca9cafbb902fd1437ea60d25ea7b53c241ac579c16cd9ef9f0e96125ea9
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Thử thách thể hình của Kẻ chinh phục"
+short_description: "The Conqueror fitness challenges"
 categories:
   - "Collectibles"
 hidden_categories:
@@ -18,11 +18,11 @@ images:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Người ta không chỉ đơn giản bước vào Mordor
+<p>One does not simply walk into Mordor
 </p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LotR_Virtual_Challenge_Medals_with_Hangar.webp.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ef/LotR_Virtual_Challenge_Medals_with_Hangar.webp/300px-LotR_Virtual_Challenge_Medals_with_Hangar.webp.png" decoding="async" loading="lazy" width="300" height="273" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ef/LotR_Virtual_Challenge_Medals_with_Hangar.webp/450px-LotR_Virtual_Challenge_Medals_with_Hangar.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/ef/LotR_Virtual_Challenge_Medals_with_Hangar.webp/600px-LotR_Virtual_Challenge_Medals_with_Hangar.webp.png 2x" data-file-width="762" data-file-height="694"/></a><figcaption>Tất cả <i>Lord of the Rings</i> Huy chương Thử thách Ảo (có nhà chứa máy bay tùy chọn)</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LotR_Virtual_Challenge_Medals_with_Hangar.webp.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ef/LotR_Virtual_Challenge_Medals_with_Hangar.webp/300px-LotR_Virtual_Challenge_Medals_with_Hangar.webp.png" decoding="async" loading="lazy" width="300" height="273" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ef/LotR_Virtual_Challenge_Medals_with_Hangar.webp/450px-LotR_Virtual_Challenge_Medals_with_Hangar.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/ef/LotR_Virtual_Challenge_Medals_with_Hangar.webp/600px-LotR_Virtual_Challenge_Medals_with_Hangar.webp.png 2x" data-file-width="762" data-file-height="694"/></a><figcaption>All <i>Lord of the Rings</i> Virtual Challenge Medals (with optional hangar)</figcaption></figure>
 
 <b><i>The Lord of the Rings</i> Thử thách ảo</b> là một loạt các chương trình thể dục có thương hiệu được cung cấp bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Conqueror_-_Virtual_Challenges_and_Medals&amp;action=edit&amp;redlink=1" title="The Conqueror - Virtual Challenges and Medals (page does not exist)">The Conqueror - Thử thách ảo và Huy chương</a>. Những người tham gia đăng ký gói hoặc thử thách cá nhân và sau khi hoàn thành số dặm mục tiêu đã thực hiện sẽ nhận được huy chương sưu tập được cá nhân hóa.
 
@@ -36,34 +36,34 @@ Năm thử thách này dành cho những người tham gia nhiệm vụ tổng t
 
 <table class="wikitable" style="padding: 2px;">
 <tbody><tr style="background:var(--tg-color-surface-3)">
-<th>Tên</th>
+<th>Name</th>
 <th>Distance</th>
 <th>Challenge Description
 </th></tr>
 <tr>
 <td>The Shire</td>
 <td>145mi/233km</td>
-<td>Đi theo con đường của Frodo và Sam xuống tuyến đường băng qua The Shire và đi xa nhà hơn bao giờ hết.
+<td>Follow Frodo and Sam’s path down the route crossing The Shire and going farther from home than they’ve ever been.
 </td></tr>
 <tr>
 <td>The Fellowship</td>
-<td>98 mi/157km (chạy và đi bộ)<br/>680 mi/1094km (đạp xe)</td>
-<td>Đưa bạn vào cuộc hành trình của Frodo và Sam từ The Prancing Pony đến Cánh cửa Durin.
+<td>98mi/157km (running and walking)<br/>680mi/1094km (cycling)</td>
+<td>Takes you on Frodo and Sam’s journey from The Prancing Pony to The Doors of Durin.
 </td></tr>
 <tr>
-<td>Hầm mỏ Moria</td>
+<td>Mines of Moria</td>
 <td>40mi/64km</td>
 <td>
 </td></tr>
 <tr>
 <td>The Eye of Sauron</td>
-<td>95 mi/153km (chạy và đi bộ)<br/>668 mi/1075km (đạp xe)</td>
+<td>95mi/153km (running and walking)<br/>668mi/1075km (cycling)</td>
 <td>
 </td></tr>
 <tr>
 <td>Mordor</td>
 <td>282mi/454km</td>
-<td>Theo dõi hành trình của Frodo và Sam dọc theo tuyến đường qua vùng đất hoang Mordor và hoàn thành nhiệm vụ bằng cách ném Nhẫn Chúa vào ngọn lửa của Núi Diệt Vong.
+<td>Follow Frodo and Sam’s journey down the route over the wasteland of Mordor and complete the quest by throwing the One Ring in the fires of Mount Doom.
 </td></tr></tbody></table>
 
 ## *The Return of the King* {#The_Return_of_the_King}
@@ -72,24 +72,24 @@ Ba thử thách này dành cho những người tham gia nhiệm vụ tổng th�
 
 <table class="wikitable" style="padding: 2px;">
 <tbody><tr style="background:var(--tg-color-surface-3)">
-<th>Tên</th>
+<th>Name</th>
 <th>Distance</th>
 <th>Challenge Description
 </th></tr>
 <tr>
 <td>Rohan</td>
-<td>80mi/128km (chạy và đi bộ)<br/>450mi/724km (đạp xe)</td>
-<td>Đưa bạn vào chuyến du hành của Aragorn vào Vương quốc <a href="../R/Rohan.md" title="Rohan">Rohan</a> và hướng tới <a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a>, nơi <a href="../S/Saruman.md" title="Saruman">Saruman</a> đang gửi đám Orc của mình.
+<td>80mi/128km (running and walking)<br/>450mi/724km (cycling)</td>
+<td>Takes you on Aragorn’s travels into the Kingdom of <a href="../R/Rohan.md" title="Rohan">Rohan</a> and towards <a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a>, where <a href="../S/Saruman.md" title="Saruman">Saruman</a> is sending his Orc hordes.
 </td></tr>
 <tr>
 <td>Helm&#39;s Deep</td>
-<td>100mi/160km (chạy và đi bộ)<br/>370km/595km (đạp xe)</td>
-<td>Tham gia cuộc hành trình của Aragorn từ <a href="../H/Hornburg.md" title="Hornburg">Hornburg</a>, nơi anh chứng tỏ mình là người lãnh đạo xứng đáng của Con Người, hướng tới <a href="../P/Paths_of_the_Dead.md" title="Paths of the Dead">Con đường của người chết</a> rùng rợn.
+<td>100mi/160km (running and walking)<br/>370km/595km (cycling)</td>
+<td>Takes on Aragorn’s journey from <a href="../H/Hornburg.md" title="Hornburg">Hornburg</a>, where he proves himself a worthy leader of Men, towards the ghastly <a href="../P/Paths_of_the_Dead.md" title="Paths of the Dead">Paths of the Dead</a>.
 </td></tr>
 <tr>
 <td>Gondor</td>
-<td>70mi/112km (chạy và đi bộ)<br/>662mi/1065km (đạp xe)</td>
-<td>Đưa bạn vào cuộc hành trình của Aragorn xuyên qua trung tâm của trận chiến <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> và hướng tới <a href="../B/Black_Gate.md" title="Black Gate">Cổng Đen</a> cho cuộc chiến cuối cùng của <a class="mw-redirect" href="../M/Man.md" title="Man">Người đàn ông</a> chống lại <a href="../S/Sauron.md" title="Sauron">Sauron</a>.
+<td>70mi/112km (running and walking)<br/>662mi/1065km (cycling)</td>
+<td>Takes you on Aragorn&#39;s journey through the heart of the battle of <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> and towards the <a href="../B/Black_Gate.md" title="Black Gate">Black Gate</a> for <a class="mw-redirect" href="../M/Man.md" title="Man">Man</a>’s last stand against <a href="../S/Sauron.md" title="Sauron">Sauron</a>.
 </td></tr>
 </tbody></table>
 

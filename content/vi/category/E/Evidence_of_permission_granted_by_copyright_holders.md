@@ -14,6 +14,6 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../../project/C/Copyrights.md" title="Tolkien Gateway:Copyrights">Tolkien Gateway:Copyrights</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../../project/C/Copyrights.md" title="Tolkien Gateway:Copyrights">Tolkien Gateway:Copyrights</a></b></div></div>
 
 Danh mục này liệt kê tất cả **bằng chứng về sự cho phép của chủ sở hữu bản quyền**.

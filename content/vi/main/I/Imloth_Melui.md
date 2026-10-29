@@ -28,7 +28,7 @@ images:
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Imloth_Melui.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/23/The_Lord_of_the_Rings_Online_-_Imloth_Melui.jpg/300px-The_Lord_of_the_Rings_Online_-_Imloth_Melui.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/23/The_Lord_of_the_Rings_Online_-_Imloth_Melui.jpg/450px-The_Lord_of_the_Rings_Online_-_Imloth_Melui.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/23/The_Lord_of_the_Rings_Online_-_Imloth_Melui.jpg/600px-The_Lord_of_the_Rings_Online_-_Imloth_Melui.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Imloth Melui in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Nó làm tôi nhớ đến những bông hồng của Imloth Melui khi tôi còn là một cô gái.
+<p>It reminds me of the roses of Imloth Melui when I was a lass.
 </p>
 <p class="tg-quote-footer"><cite><a href="Ioreth.md" title="Ioreth">Ioreth</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -43,9 +43,9 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Nằm trong khu vực <a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a> phía Đông <a href="../G/Gondor.md" title="Gondor">Gondor</a>, thung lũng Imloth Melui cũng có một thị trấn cùng thời. Con sông <a href="../E/Erui.md" title="Erui">Erui</a> chảy qua thung lũng, chia đôi thành phố. Trong <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a> nơi đây tiếp nhận nhiều người tị nạn từ Thành phố Trắng, chủ yếu là phụ nữ, trẻ em và người già. Trong thời gian Chúa <a href="../F/Forlong.md" title="Forlong">đi vắng</a>, nó được cai trị bởi vợ ông là Lady Vanyalos, em gái của Quản gia <a href="../D/Denethor.md" title="Denethor">Denethor</a>.</dd></dl>
+<dl><dd>Located in the <a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a> area of Eastern <a href="../G/Gondor.md" title="Gondor">Gondor</a>, the valley of Imloth Melui also contains a town of the same time. The river <a href="../E/Erui.md" title="Erui">Erui</a> flows through the valley, dividing the city in two. During the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a> it hosts many refugees from the White City, primarily women, children and the elderly. In Lord <a href="../F/Forlong.md" title="Forlong">Forlong</a>&#39;s absence it was ruled by his wife Lady Vanyalos, the sister of Steward <a href="../D/Denethor.md" title="Denethor">Denethor</a>.</dd></dl>
 
 <span></span>
 

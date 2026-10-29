@@ -20,7 +20,7 @@ sort_keys:
   "Lawyer": "Kane, Douglas C."
 ---
 
-**Douglas Charles Kane** (tên khai sinh [1963](../_/1963.md)) là luật sư dân quyền người California và là một [Tolkien người hâm mộ cuồng nhiệt](../T/Tolkien_fandom.md). Ông là người đồng sáng lập của <a class="external text" href="http://www.thehalloffire.net/" rel="noreferrer noopener" target="_blank">TheHallofFire.net</a>và đăng bài trực tuyến dưới tên **Voronwe\_the\_Faithful**. Với tư cách là một luật sư, ông cũng thường xuyên đưa tin về các cuộc chiến pháp lý giữa [Gia đình Tolkien](../T/Tolkien_Family.md) và [New Line Cinema](../N/New_Line_Cinema.md).
+**Douglas Charles Kane** (tên khai sinh [1963](../_/1963.md)) là luật sư dân quyền người California và là một [Tolkien người hâm mộ cuồng nhiệt](../T/Tolkien_fandom.md). Ông là người đồng sáng lập của <a class="external text" href="http://www.thehalloffire.net/" rel="noreferrer noopener" target="_blank">TheHallofFire.net</a>và đăng bài trực tuyến dưới tên **Voronwe\_the\_Faithful**. Với tư cách là một luật sư, ông cũng thường xuyên đưa tin về các cuộc chiến pháp lý giữa [Tolkien Gia đình](../T/Tolkien_Family.md) và [New Line Cinema](../N/New_Line_Cinema.md).
 
 ## Thư mục {#Bibliography}
 

@@ -24,7 +24,7 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Hill_of_Guard.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Hill_of_Guard.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/ff/The_Lord_of_the_Rings_Online_-_Hill_of_Guard.jpg/250px-The_Lord_of_the_Rings_Online_-_Hill_of_Guard.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/ff/The_Lord_of_the_Rings_Online_-_Hill_of_Guard.jpg/375px-The_Lord_of_the_Rings_Online_-_Hill_of_Guard.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/ff/The_Lord_of_the_Rings_Online_-_Hill_of_Guard.jpg/500px-The_Lord_of_the_Rings_Online_-_Hill_of_Guard.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Minas Tirith và Đồi Canh gác (dưới cùng bên phải) ở <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Hill_of_Guard.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/ff/The_Lord_of_the_Rings_Online_-_Hill_of_Guard.jpg/250px-The_Lord_of_the_Rings_Online_-_Hill_of_Guard.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/ff/The_Lord_of_the_Rings_Online_-_Hill_of_Guard.jpg/375px-The_Lord_of_the_Rings_Online_-_Hill_of_Guard.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/ff/The_Lord_of_the_Rings_Online_-_Hill_of_Guard.jpg/500px-The_Lord_of_the_Rings_Online_-_Hill_of_Guard.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Minas Tirith and the Hill of Guard (bottom right) in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
 **Đồi bảo vệ** hay **Amon Tirith** là ngọn đồi ngoại ô nơi [Minas Tirith](../M/Minas_Tirith.md) được xây dựng.<sup id="cite_ref-Nomen_1-0" class="reference"><a href="#cite_note-Nomen-1">[1]</a></sup> Ở phía tây, nó được nối với Núi [Mindolluin](../M/Mindolluin.md) bằng một bờ vai hẹp nhô lên đến độ cao của bức tường thứ năm của thành phố.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ban đầu nó được gọi là *Amon Anor* ([S.](../S/Sindarin.md) 'Đồi của Mặt Trời').<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -34,9 +34,9 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Thông thường không thể tiếp cận được, Hill of Guard có thể được quan sát trong một nhiệm vụ mà người chơi đi cùng Vua <a class="mw-redirect mw-disambig" href="../E/Elessar.md" title="Elessar">Elessar</a> tới cây non của <a class="mw-redirect mw-disambig" href="../W/White_Tree.md" title="White Tree">Cây Trắng</a>.</dd></dl>
+<dl><dd>Normally inaccessible, the Hill of Guard can be observed during a mission in which the player accompanies King <a class="mw-redirect mw-disambig" href="../E/Elessar.md" title="Elessar">Elessar</a> to the sappling of the <a class="mw-redirect mw-disambig" href="../W/White_Tree.md" title="White Tree">White Tree</a>.</dd></dl>
 
 <span></span>
 

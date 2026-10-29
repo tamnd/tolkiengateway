@@ -15,7 +15,7 @@ images:
   - "Jef_Murray_-_Legolas_comes_to_the_sea....jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jef_Murray_-_Legolas_comes_to_the_sea....jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/90/Jef_Murray_-_Legolas_comes_to_the_sea....jpg/250px-Jef_Murray_-_Legolas_comes_to_the_sea....jpg" decoding="async" loading="lazy" width="250" height="155" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/90/Jef_Murray_-_Legolas_comes_to_the_sea....jpg/375px-Jef_Murray_-_Legolas_comes_to_the_sea....jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/90/Jef_Murray_-_Legolas_comes_to_the_sea....jpg/500px-Jef_Murray_-_Legolas_comes_to_the_sea....jpg 2x" data-file-width="800" data-file-height="496"/></a><figcaption><i>Legolas comes to the sea...</i> của <a href="../J/Jef_Murray.md" title="Jef Murray">Jef Murray</a></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jef_Murray_-_Legolas_comes_to_the_sea....jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/90/Jef_Murray_-_Legolas_comes_to_the_sea....jpg/250px-Jef_Murray_-_Legolas_comes_to_the_sea....jpg" decoding="async" loading="lazy" width="250" height="155" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/90/Jef_Murray_-_Legolas_comes_to_the_sea....jpg/375px-Jef_Murray_-_Legolas_comes_to_the_sea....jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/90/Jef_Murray_-_Legolas_comes_to_the_sea....jpg/500px-Jef_Murray_-_Legolas_comes_to_the_sea....jpg 2x" data-file-width="800" data-file-height="496"/></a><figcaption><i>Legolas comes to the sea...</i> by <a href="../J/Jef_Murray.md" title="Jef Murray">Jef Murray</a></figcaption></figure>
 
 "**Gửi Biển, gửi Biển! Những con mòng biển trắng đang khóc**" là bài thơ được [Legolas](../L/Legolas.md) hát khi chia tay bạn tình ở cuối [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-Cormallen_1-0" class="reference"><a href="#cite_note-Cormallen-1">[1]</a></sup>
 
@@ -24,18 +24,18 @@ Như đã được cảnh báo qua tin nhắn của [Galadriel](../G/Galadriel's
 ## Bài thơ {#Poem}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Tới Biển, tới Biển! Những chú hải âu trắng đang khóc<br/>
-Gió thổi tung bọt trắng xóa.<br/>
-Phương Tây, đằng tây, mặt trời tròn đang lặn.<br/>
-Tàu xám, tàu xám, em có nghe tiếng chúng gọi không,<br/>
-Tiếng nói của những người đi trước tôi?<br/>
-Tôi sẽ ra đi, tôi sẽ rời bỏ khu rừng đã làm tôi chán nản;<br/>
-Vì ngày tháng của chúng ta sắp kết thúc và năm tháng của chúng ta đang trôi đi.<br/>
-Tôi sẽ vượt qua vùng nước rộng một mình chèo thuyền.<br/>
-Sóng trên <a class="mw-redirect" href="../L/Last_Shore.md" title="Last Shore">Bờ cuối cùng</a> đổ dài quá,<br/>
-Thật ngọt ngào những giọng nói trong <a href="Tol_Eressëa.md" title="Tol Eressëa">Lost Isle</a> đang kêu gọi,<br/>
-Ở Eressëa, ở <a href="../E/Elvenhome.md" title="Elvenhome">Elvenhome</a> mà không con người nào có thể khám phá được,<br/>
-Nơi lá không rơi: đất của dân tôi mãi mãi!
+<p>To the Sea, to the Sea! The white gulls are crying,<br/>
+The wind is blowing, and the white foam is flying.<br/>
+West, west away, the round sun is falling.<br/>
+Grey ship, grey ship, do you hear them calling,<br/>
+The voices of my people that have gone before me?<br/>
+I will leave, I will leave the woods that bore me;<br/>
+For our days are ending and our years failing.<br/>
+I will pass the wide waters lonely sailing.<br/>
+Long are the waves on the <a class="mw-redirect" href="../L/Last_Shore.md" title="Last Shore">Last Shore</a> falling,<br/>
+Sweet are the voices in the <a href="Tol_Eressëa.md" title="Tol Eressëa">Lost Isle</a> calling,<br/>
+In Eressëa, in <a href="../E/Elvenhome.md" title="Elvenhome">Elvenhome</a> that no man can discover,<br/>
+Where the leaves fall not: land of my people for ever!
 </p>
 </div>
 
@@ -43,7 +43,7 @@ Nơi lá không rơi: đất của dân tôi mãi mãi!
 
 <b><a href="../_/1993.md" title="1993">1993</a>: <i><a href="../H/Hobitit.md" title="Hobitit">Hobitit</a></i>:</b>
 
-<dl><dd>Một phiên bản của bài hát được phát trong phần credit của tập 6, <i>Liberation</i>. Hai dòng cuối cùng được bỏ qua.</dd></dl>
+<dl><dd>A version of the song is played in the credits theme of episode 6, <i>Liberation</i>. The last two lines are omitted.</dd></dl>
 
 ## Liên kết ngoài {#External_links}
 

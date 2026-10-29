@@ -26,21 +26,21 @@ infobox:
     value: "Greying"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Edain.md" title="Edain">Adan</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Eilinel</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">the White<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Mất</th><td class="tg-infobox-data">c. <a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_455.md" title="First Age 455">455</a><br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Gia đình</span></th></tr><tr><th scope="row" class="tg-infobox-label">Vợ/chồng</th><td class="tg-infobox-data"><a href="../G/Gorlim.md" title="Gorlim">Gorlim</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nữ</td></tr><tr><th scope="row" class="tg-infobox-label">Màu tóc</th><td class="tg-infobox-data">Greying<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Edain.md" title="Edain">Adan</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Eilinel</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">the White<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data">c. <a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_455.md" title="First Age 455">455</a><br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../G/Gorlim.md" title="Gorlim">Gorlim</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr><tr><th scope="row" class="tg-infobox-label">Hair colour</th><td class="tg-infobox-data">Greying<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Gorlim, Gorlim!<br/>Ngươi không thể bỏ rơi ta được.<br/>Rồi bị giết, than ôi! ngươi chắc chắn đã bị giết!<br/>Và ta phải nán lại lạnh lẽo, cô độc,<br/>và vô tình như một hòn đá cằn cỗi!
+<p>Gorlim, Gorlim!<br/>Thou canst not have forsaken me.<br/>Then slain, alas! thou slain must be!<br/>And I must linger cold, alone,<br/>and loveless as a barren stone!
 </p>
-<p class="tg-quote-footer"><cite><a href="../P/Phantoms.md" title="Phantoms">Bóng ma</a> của Eilinel trong <i><a href="../T/The_Lay_of_Leithian_Recommenced.md" title="The Lay of Leithian Recommenced">The Lay of Leithian Recommenced</a></i>, dòng 244-8</cite></p>
+<p class="tg-quote-footer"><cite><a href="../P/Phantoms.md" title="Phantoms">Phantom</a> of Eilinel in <i><a href="../T/The_Lay_of_Leithian_Recommenced.md" title="The Lay of Leithian Recommenced">The Lay of Leithian Recommenced</a></i>, lines 244-8</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Eilinel** là vợ của [Gorlim Bất Hạnh](../G/Gorlim.md).
+**Eilinel** là vợ của [Gorlim Kẻ Bất Hạnh](../G/Gorlim.md).
 
 ## Lịch sử {#History}
 
 Eilinel là một thiếu nữ xinh đẹp và dịu dàng, được Gorlim rất yêu quý. Khi chồng chị về [Dagor Bragollach](../D/Dagor_Bragollach.md), nhà “không nóc”<sup id="cite_ref-plundered_3-0" class="reference"><a href="#cite_note-plundered-3">[3]</a></sup>, “ruộng, nhà cửa”<sup id="cite_ref-plundered_3-1" class="reference"><a href="#cite_note-plundered-3">[3]</a></sup> bị cướp bóc. Eilinel bị giết "bởi bọn đồ tể"<sup id="cite_ref-killedby_4-0" class="reference"><a href="#cite_note-killedby-4">[4]</a></sup> ở một số "rừng cháy"<sup id="cite_ref-killedby_4-1" class="reference"><a href="#cite_note-killedby-4">[4]</a></sup>.<sup id="cite_ref-S19_5-0" class="reference"><a href="#cite_note-S19-5">[5]</a></sup>
 
-Khi trở về nhà, Gorlim không tìm thấy dấu vết nào của Eilinel. Ông liên tục quay trở lại nhà họ để tìm kiếm người vợ đã mất của mình và [Sauron](../S/Sauron.md) đã lừa ông bằng cách tạo ra [bóng ma](../P/Phantoms.md) của Eilinel để khiến ông phản bội vị trí của [Barahir](../B/Barahir.md).<sup id="cite_ref-S19_5-1" class="reference"><a href="#cite_note-S19-5">[5]</a></sup>
+Khi trở về nhà, Gorlim không tìm thấy dấu vết nào của Eilinel. Ông ta liên tục quay trở lại nhà họ để tìm kiếm người vợ đã mất của mình và [Sauron](../S/Sauron.md) đã lừa ông ta bằng cách tạo ra [bóng ma](../P/Phantoms.md) của Eilinel để khiến ông ta phản bội vị trí của [Barahir](../B/Barahir.md).<sup id="cite_ref-S19_5-1" class="reference"><a href="#cite_note-S19-5">[5]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

@@ -17,6 +17,6 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/American_Tolkien_Society_Calendar_1991.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b9/American_Tolkien_Society_Calendar_1991.jpg/300px-American_Tolkien_Society_Calendar_1991.jpg" decoding="async" loading="lazy" width="300" height="405" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b9/American_Tolkien_Society_Calendar_1991.jpg/450px-American_Tolkien_Society_Calendar_1991.jpg 1.5x, https://tolkiengateway.net/w/images/b/b9/American_Tolkien_Society_Calendar_1991.jpg 2x" data-file-width="512" data-file-height="691"/></a><figcaption></figcaption></figure>
 
-**Lịch Hội Tolkien Hoa Kỳ 1991** là một loại lịch nhỏ tự dính được xuất bản bởi [Hội Tolkien Hoa Kỳ](American_Tolkien_Society.md).
+**Lịch Hiệp hội Tolkien Hoa Kỳ 1991** là một loại lịch nhỏ tự dính được xuất bản bởi [Hiệp hội Tolkien Hoa Kỳ](American_Tolkien_Society.md).
 
 - Kích thước: 3 x 4 inch

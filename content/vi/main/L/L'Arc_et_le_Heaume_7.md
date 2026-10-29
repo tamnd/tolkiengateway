@@ -86,17 +86,17 @@ images:
 <th align="center" style="background:var(--tg-color-surface-5)" colspan="2">Fanzine <i><a href="L&#39;Arc_et_le_Heaume.md" title="L&#39;Arc et le Heaume">L&#39;Arc et le Heaume</a></i> (French)
 </th></tr>
 <tr>
-<th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;" width="20%">Các số phát hành thông thường
+<th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;" width="20%">Normal issues
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="L&#39;Arc_et_le_Heaume_1.md" title="L&#39;Arc et le Heaume 1">1</a> · <a href="L&#39;Arc_et_le_Heaume_2.md" title="L&#39;Arc et le Heaume 2">2</a> · <a href="L&#39;Arc_et_le_Heaume_3.md" title="L&#39;Arc et le Heaume 3">3</a> · <a href="L&#39;Arc_et_le_Heaume_4.md" title="L&#39;Arc et le Heaume 4">4</a> · <a href="L&#39;Arc_et_le_Heaume_5.md" title="L&#39;Arc et le Heaume 5">5</a> · <a href="L&#39;Arc_et_le_Heaume_6.md" title="L&#39;Arc et le Heaume 6">6</a> · <a class="mw-selflink selflink">7</a> · <a href="L&#39;Arc_et_le_Heaume_8.md" title="L&#39;Arc et le Heaume 8">8</a>
 </td></tr>
 <tr>
-<th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;" width="20%">Các số đặc biệt
+<th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;" width="20%">Special issues
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="L&#39;Arc_et_le_Heaume_(Special_Issue)_1.md" title="L&#39;Arc et le Heaume (Special Issue) 1">1</a> · <a href="L&#39;Arc_et_le_Heaume_(Special_Issue)_2.md" title="L&#39;Arc et le Heaume (Special Issue) 2">2</a> · <a href="L&#39;Arc_et_le_Heaume_(Special_Issue)_3.md" title="L&#39;Arc et le Heaume (Special Issue) 3">3</a> · <a href="L&#39;Arc_et_le_Heaume_(Special_Issue)_4.md" title="L&#39;Arc et le Heaume (Special Issue) 4">4</a>
 </td></tr>
 <tr>
-<th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;" width="20%">Họ hàng
+<th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;" width="20%">Relatives
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../T/Tolkiendil_(Tolkien_society).md" title="Tolkiendil (Tolkien society)">Tolkiendil</a>
 </td></tr></tbody></table>

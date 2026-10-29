@@ -14,39 +14,39 @@ categories:
 
 <table class="tginfobox" align="right" cellpadding="3" cellspacing="0" style="margin:15px;border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-right-radius:var(--tg-border-radius-large);border-top-left-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="../T/The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a></i> chương
+<th style="background:var(--tg-color-surface-5);border-top-right-radius:var(--tg-border-radius-large);border-top-left-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="../T/The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a></i> chapters
 </th></tr>
 <tr>
 <td>
-<dl><dd><b>Giai đoạn thứ nhất</b></dd></dl>
-<ol><li><a href="A_Long-expected_Party_(chapter_in_The_Return_of_the_Shadow).md" title="A Long-expected Party (chapter in The Return of the Shadow)">Bữa tiệc được mong đợi từ lâu</a></li>
-<li><a href="../F/From_Hobbiton_to_the_Woody_End.md" title="From Hobbiton to the Woody End">Từ Hobbiton đến Woody End</a></li>
-<li><a href="../O/Of_Gollum_and_the_Ring.md" title="Of Gollum and the Ring">Về Gollum và chiếc Nhẫn</a></li>
-<li><a href="../T/To_Maggot&#39;s_Farm_and_Buckland.md" title="To Maggot&#39;s Farm and Buckland">Đến trang trại của Maggot và Buckland</a></li>
-<li><a href="../T/The_Old_Forest_and_the_Withywindle.md" title="The Old Forest and the Withywindle">Khu Rừng Cổ và Withywindle</a></li>
+<dl><dd><b>The First Phase</b></dd></dl>
+<ol><li><a href="A_Long-expected_Party_(chapter_in_The_Return_of_the_Shadow).md" title="A Long-expected Party (chapter in The Return of the Shadow)">A Long-expected Party</a></li>
+<li><a href="../F/From_Hobbiton_to_the_Woody_End.md" title="From Hobbiton to the Woody End">From Hobbiton to the Woody End</a></li>
+<li><a href="../O/Of_Gollum_and_the_Ring.md" title="Of Gollum and the Ring">Of Gollum and the Ring</a></li>
+<li><a href="../T/To_Maggot&#39;s_Farm_and_Buckland.md" title="To Maggot&#39;s Farm and Buckland">To Maggot&#39;s Farm and Buckland</a></li>
+<li><a href="../T/The_Old_Forest_and_the_Withywindle.md" title="The Old Forest and the Withywindle">The Old Forest and the Withywindle</a></li>
 <li><a href="../T/Tom_Bombadil_(chapter).md" title="Tom Bombadil (chapter)">Tom Bombadil</a></li>
 <li><a href="../T/The_Barrow-wight.md" title="The Barrow-wight">The Barrow-wight</a></li>
-<li><a class="mw-selflink selflink">Đến Bree</a></li>
-<li><a href="../T/Trotter_and_the_Journey_to_Weathertop.md" title="Trotter and the Journey to Weathertop">Trotter và hành trình đến Weathertop</a></li>
-<li><a href="../T/The_Attack_on_Weathertop.md" title="The Attack on Weathertop">Cuộc tấn công tại Weathertop</a></li>
-<li><a href="../F/From_Weathertop_to_the_Ford.md" title="From Weathertop to the Ford">Từ Weathertop đến khúc cạn</a></li>
+<li><a class="mw-selflink selflink">Arrival at Bree</a></li>
+<li><a href="../T/Trotter_and_the_Journey_to_Weathertop.md" title="Trotter and the Journey to Weathertop">Trotter and the Journey to Weathertop</a></li>
+<li><a href="../T/The_Attack_on_Weathertop.md" title="The Attack on Weathertop">The Attack on Weathertop</a></li>
+<li><a href="../F/From_Weathertop_to_the_Ford.md" title="From Weathertop to the Ford">From Weathertop to the Ford</a></li>
 <li><a href="At_Rivendell.md" title="At Rivendell">At Rivendell</a></li>
 <li>&#39;<a href="../Q/Queries_and_Alterations.md" title="Queries and Alterations">Queries and Alterations</a>&#39;</li></ol>
 <dl><dd><b>The Second Phase</b><i></i></dd></dl>
-<ol><li><a href="../R/Return_to_Hobbiton.md" title="Return to Hobbiton">Trở về Hobbiton</a></li>
-<li>Lịch sử cổ đại</li>
-<li>Chậm trễ là nguy hiểm</li>
-<li>Đường tắt đến chỗ có nấm</li>
-<li>Một lần nữa, từ Buckland đến Withywindle</li></ol>
-<dl><dd><b>Giai đoạn thứ ba</b></dd></dl>
-<ol><li>Hành trình đến Bree</li>
+<ol><li><a href="../R/Return_to_Hobbiton.md" title="Return to Hobbiton">Return to Hobbiton</a></li>
+<li>Ancient History</li>
+<li>Delays Are Dangerous</li>
+<li>A Short Cut to Mushrooms</li>
+<li>Again from Buckland to the Withywindle</li></ol>
+<dl><dd><b>The Third Phase</b></dd></dl>
+<ol><li>The Journey to Bree</li>
 <li>At the Sign of the Prancing Pony</li>
 <li>To Weathertop and Rivendell</li>
-<li>Những điều bất định mới và những dự phóng mới</li></ol>
-<dl><dd><b>Câu chuyện tiếp diễn</b></dd></dl>
-<ol><li>Tại nhà Elrond</li>
-<li>Chiếc Nhẫn tiến về phương Nam</li>
-<li>Hầm mỏ Moria</li></ol>
+<li>New Uncertainties and New Projections</li></ol>
+<dl><dd><b>The Story Continued</b></dd></dl>
+<ol><li>In the House of Elrond</li>
+<li>The Ring Goes South</li>
+<li>The Mines of Moria</li></ol>
 </td></tr></tbody></table>
 
 "**Đến Bree**" là tựa đề chương thứ tám của *[The Return of the Shadow](../T/The_Return_of_the_Shadow.md)*, cuốn thứ sáu trong bộ *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)* của [Christopher Tolkien](../C/Christopher_Tolkien.md).
@@ -55,7 +55,7 @@ categories:
 
 Khi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu viết chương 9 của Quyển I của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, "[Tại Dấu hiệu của Prancing Pony](At_the_Sign_of_the_Prancing_Pony.md)", ông bắt đầu bằng phần mô tả về thị trấn [Bree](../B/Bree.md), một ngôi làng gồm 50 ngôi nhà được xây dựng bởi [Những Người Lớn](../B/Big_Folk.md), có hai ngôi làng lân cận, [Staddle](../S/Staddle.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Crick&amp;action=edit&amp;redlink=1" title="Crick (page does not exist)">Crick</a>. Ngoài ra còn có [Hobbit](../H/Hobbits.md) sống trên sườn [Bree-hill](../B/Bree-hill.md) hoặc trong thung lũng Combe (chưa có làng). Những người hobbit đi du lịch thấy những ngôi nhà của [Con Người](../M/Men.md) thật kỳ lạ, rộng và cao.
 
-Tại thời điểm này (trước khi du khách đến quán trọ) Tolkien dừng lại và bắt đầu lại. Đối với độc giả của câu chuyện đã xuất bản, phiên bản mới này có một diễn biến đáng ngạc nhiên – Con Người không còn cư trú ở Bree. Hiện tại ba ngôi làng Bree-land – Bree, [Combe](../C/Combe.md) và [Archet](Archet.md) – đều là thị trấn Hobbit, chủ quán trọ là Hobbit, [Prancing Pony](../P/Prancing_Pony.md) có cửa trước tròn dẫn vào bên hông Bree-hill (giống như Hobbit [Smial](../S/Smial.md)), và dường như không có Con Người nào ở chung của quán trọ phòng. Trong phần mô tả về khu vực có ghi rằng vào thời điểm đó có nhiều Hobbit sống rải rác trên khắp Phương Tây thế giới, nhiều hơn [Dân Shire](../S/Shire-folk.md) tưởng tượng.
+Tại thời điểm này (trước khi du khách đến quán trọ) Tolkien dừng lại và bắt đầu lại. Đối với độc giả của câu chuyện đã xuất bản, phiên bản mới này có một diễn biến đáng ngạc nhiên – Con Người không còn cư trú ở Bree. Hiện tại ba ngôi làng Bree-land – Bree, [Combe](../C/Combe.md) và [Archet](Archet.md) – đều là thị trấn Hobbit, chủ quán trọ là Hobbit, [Prancing Pony](../P/Prancing_Pony.md) có cửa trước tròn dẫn vào bên hông Bree-hill (giống như Hobbit [Smial](../S/Smial.md)), và dường như không có Con Người nào ở chung của quán trọ phòng. Trong phần mô tả về khu vực có ghi rằng vào thời điểm đó có nhiều Hobbit sống rải rác trên khắp Phương Tây thế giới, nhiều hơn [Shire-dân gian](../S/Shire-folk.md) tưởng tượng.
 
 Bốn hobbit – Bingo, Odo, Frodo,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> và Merry – cảm thấy nhẹ nhõm khi đến được quán trọ có cánh cửa tròn lớn. Đó là Prancing Pony và tấm biển ghi tên chủ quán trọ là Barnabas Butterbur.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
 
@@ -63,11 +63,11 @@ Người đầu tiên mà du khách gặp phải chính là ông Butterbur, Hobb
 
 Những người hobbit ăn bữa trong phòng khách của họ. Merry quyết định đi dạo trong khi ba người còn lại ghé thăm phòng họp lớn. Trong ánh sáng mờ ảo, người chủ quán trọ giới thiệu, tất cả những người có mặt đều là Hobbit. Bingo trở nên hoảng hốt khi Odo và Frodo nói quá nhiều về các sự kiện gần đây trong Shire. Đột nhiên Bingo nhận thấy một người có khuôn mặt nâu, trông kỳ lạ đang ngồi trong bóng tối, hút thuốc, uống rượu và chú ý đến lời nói của Odo và Frodo.
 
-Người lạ bí ẩn là điểm khác biệt đáng ngạc nhiên thứ hai giữa bản thảo này và câu chuyện đã hoàn thành – thay vì Người đàn ông, người ngồi trong bóng tối lại là một Hobbit. Ông là một kiểm lâm viên được gọi là [Trotter](../T/Trotter.md) vì đôi giày gỗ kỳ lạ mà ông mang. Trotter ra hiệu cho Bingo và cảnh báo ông đừng để bạn bè nói quá nhiều. Khi Odo kể lại [Bữa tiệc chia tay](../F/Farewell_Party.md) Bingo hoảng sợ và nhảy lên bàn để đánh lạc hướng đám đông. Tuyệt vọng, trong khi bí mật chạm vào chiếc [One Ring](../O/One_Ring.md) trong túi, Bingo hát một bài hát.<sup id="cite_ref-Bree_3-0" class="reference"><a href="#cite_note-Bree-3">[1]</a></sup>
+Người lạ bí ẩn là điểm khác biệt đáng ngạc nhiên thứ hai giữa bản thảo này và câu chuyện đã hoàn thành – thay vì Người đàn ông, người ngồi trong bóng tối lại là một Hobbit. Ông ta là một kiểm lâm viên được gọi là [Trotter](../T/Trotter.md) vì đôi giày gỗ kỳ lạ mà ông ta mang. Trotter ra hiệu cho Bingo và cảnh báo ông ta đừng để bạn bè nói quá nhiều. Khi Odo kể lại [Bữa tiệc chia tay](../F/Farewell_Party.md) Bingo hoảng sợ và nhảy lên bàn để đánh lạc hướng đám đông. Tuyệt vọng, trong khi bí mật chạm vào chiếc [One Ring](../O/One_Ring.md) trong túi, Bingo hát một bài hát.<sup id="cite_ref-Bree_3-0" class="reference"><a href="#cite_note-Bree-3">[1]</a></sup>
 
 Bài hát Tolkien ban đầu được đặt trong văn bản là *The Troll Song*. [Christopher Tolkien](../C/Christopher_Tolkien.md) nói rằng đó là một phiên bản thô và chưa hoàn thiện và cha anh đã nhanh chóng quyết định đưa vào *[The Cat and the Fiddle](../T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md)*, một phần vì nó bắt đầu bằng một dòng về một quán trọ, đó là "điều khiến Bingo nghĩ đến."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[2]</a></sup>
 
-Bài hát được đón nhận nồng nhiệt. Bingo được mời uống nước và yêu cầu hát lại bài hát. Nhảy quanh bàn Bingo trượt chân, rơi khỏi bàn và biến mất. The Hobbit đám đông rời xa Odo và Frodo. Một anh chàng có khuôn mặt ngăm đen và một người bạn xấu tính (cả hai Hobbit) đều ra đi. Bingo xuất hiện trở lại bên cạnh Trotter, người yêu cầu nói chuyện nhẹ nhàng với ông. Christopher Tolkien nói rằng phần còn lại của chương gần như là phiên bản cuối cùng từng chữ một (ngoại trừ tên). Tuy nhiên, ở cuối chương Butterbur vẫn nhớ tại sao bốn hobbit du hành và năm chú ngựa con lại quan trọng. Trong bản thảo chương này không kết thúc ở đây nhưng Christopher quyết định tạm dừng ở điểm này.<sup id="cite_ref-Bree_3-1" class="reference"><a href="#cite_note-Bree-3">[1]</a></sup>
+Bài hát được đón nhận nồng nhiệt. Bingo được mời uống nước và yêu cầu hát lại bài hát. Nhảy quanh bàn Bingo trượt chân, rơi khỏi bàn và biến mất. The Hobbit đám đông rời xa Odo và Frodo. Một anh chàng có khuôn mặt ngăm đen và một người bạn xấu tính (cả hai Hobbit) đều ra đi. Bingo xuất hiện trở lại bên cạnh Trotter, người yêu cầu nói chuyện nhẹ nhàng với ông ta. Christopher Tolkien nói rằng phần còn lại của chương gần như là phiên bản cuối cùng từng chữ một (ngoại trừ tên). Tuy nhiên, ở cuối chương Butterbur vẫn nhớ tại sao bốn hobbit du hành và năm chú ngựa con lại quan trọng. Trong bản thảo chương này không kết thúc ở đây nhưng Christopher quyết định tạm dừng ở điểm này.<sup id="cite_ref-Bree_3-1" class="reference"><a href="#cite_note-Bree-3">[1]</a></sup>
 
 Một ghi chú được thêm vào về các bài hát được hát tại Prancing Pony. Bài hát Troll bị Tolkien từ chối ban đầu có tên là *The Root of the Boot* và được xuất bản trên [1936](../_/1936.md) trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)*. Phiên bản gốc này đã được đưa ra nhưng Christopher lưu ý rằng nó đã được thay đổi cho cảnh này.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[3]</a></sup> Sau khi từ chối bài hát này cho vị trí này trong câu chuyện Tolkien sau đó đã đưa bài hát này cho [Samwise Gamgee](../S/Samwise_Gamgee.md) khi bữa tiệc diễn ra [Weathertop](../W/Weathertop.md) trong chương "[Chuyến bay tới chiếc Ford](../F/Flight_to_the_Ford.md)".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[4]</a></sup> Cuối cùng, bài hát đã được đặt tên là *[The Stone Troll](../T/The_Stone_Troll.md)* khi nó được đưa vào tập thơ *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[5]</a></sup>
 

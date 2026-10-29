@@ -64,14 +64,14 @@ infobox:
     value: "ESRB: M"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_War_in_the_North&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_War_in_the_North&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/WITN-boxart.png.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c9/WITN-boxart.png/320px-WITN-boxart.png" decoding="async" loading="lazy" width="320" height="452" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c9/WITN-boxart.png/480px-WITN-boxart.png 1.5x, https://tolkiengateway.net/w/images/c/c9/WITN-boxart.png 2x" data-file-width="640" data-file-height="903"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi điện tử</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Lord of the Rings: War in the North</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà phát triển</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Snowblind_Studios" title="wikipedia:Snowblind Studios">Snowblind Studios</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Feral_Interactive" title="wikipedia:Feral Interactive">Feral Interactive</a> (<a class="extiw" href="http://en.wikipedia.org/wiki/OS_X" title="wikipedia:OS X">Mac OS X</a>)<sup id="cite_ref-Mac_version_announcement_1-0" class="reference"><a href="#cite_note-Mac_version_announcement-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a class="mw-redirect" href="../W/Warner_Bros._Interactive_Entertainment.md" title="Warner Bros. Interactive Entertainment">Warner Bros. Interactive Entertainment</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Feral_Interactive" title="wikipedia:Feral Interactive">Feral Interactive</a> (<a class="extiw" href="http://en.wikipedia.org/wiki/OS_X" title="wikipedia:OS X">Mac OS X</a>)<sup id="cite_ref-Mac_version_announcement_1-1" class="reference"><a href="#cite_note-Mac_version_announcement-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Nền tảng</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_3" title="wikipedia:PlayStation 3">PlayStation 3</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Microsoft_Windows" title="wikipedia:Microsoft Windows">Microsoft Windows</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/Xbox_360" title="wikipedia:Xbox 360">Xbox 360</a><sup id="cite_ref-Gamespot-06-10_2-0" class="reference"><a href="#cite_note-Gamespot-06-10-2">[2]</a></sup><a class="extiw" href="http://en.wikipedia.org/wiki/OS_X" title="wikipedia:OS X">Mac OS X</a><sup id="cite_ref-Mac_version_announcement_1-2" class="reference"><a href="#cite_note-Mac_version_announcement-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data"><a href="../_/1_November.md" title="1 November">1 tháng 11</a> <a href="../_/2011.md" title="2011">2011</a> (Bắc Mỹ),<sup id="cite_ref-FAQ_Regions_Release_3-0" class="reference"><a href="#cite_note-FAQ_Regions_Release-3">[3]</a></sup><br/>
-đối với các khu vực khác, hãy xem <a class="mw-selflink-fragment" href="#Release">Bản phát hành</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Game hành động, nhập vai</td></tr><tr><th scope="row" class="tg-infobox-label">Chế độ</th><td class="tg-infobox-data">Chơi đơn, hợp tác hai/ba người chơi, trực tuyến<sup id="cite_ref-Product_Announcement_4-0" class="reference"><a href="#cite_note-Product_Announcement-4">[4]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Phân loại</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board" title="wikipedia:Entertainment Software Rating Board">ESRB</a>: M<sup id="cite_ref-Kotaku_Party_5-0" class="reference"><a href="#cite_note-Kotaku_Party-5">[5]</a></sup></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/WITN-boxart.png.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c9/WITN-boxart.png/320px-WITN-boxart.png" decoding="async" loading="lazy" width="320" height="452" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c9/WITN-boxart.png/480px-WITN-boxart.png 1.5x, https://tolkiengateway.net/w/images/c/c9/WITN-boxart.png 2x" data-file-width="640" data-file-height="903"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Lord of the Rings: War in the North</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Snowblind_Studios" title="wikipedia:Snowblind Studios">Snowblind Studios</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Feral_Interactive" title="wikipedia:Feral Interactive">Feral Interactive</a> (<a class="extiw" href="http://en.wikipedia.org/wiki/OS_X" title="wikipedia:OS X">Mac OS X</a>)<sup id="cite_ref-Mac_version_announcement_1-0" class="reference"><a href="#cite_note-Mac_version_announcement-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../W/Warner_Bros._Interactive_Entertainment.md" title="Warner Bros. Interactive Entertainment">Warner Bros. Interactive Entertainment</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Feral_Interactive" title="wikipedia:Feral Interactive">Feral Interactive</a> (<a class="extiw" href="http://en.wikipedia.org/wiki/OS_X" title="wikipedia:OS X">Mac OS X</a>)<sup id="cite_ref-Mac_version_announcement_1-1" class="reference"><a href="#cite_note-Mac_version_announcement-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_3" title="wikipedia:PlayStation 3">PlayStation 3</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Microsoft_Windows" title="wikipedia:Microsoft Windows">Microsoft Windows</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/Xbox_360" title="wikipedia:Xbox 360">Xbox 360</a><sup id="cite_ref-Gamespot-06-10_2-0" class="reference"><a href="#cite_note-Gamespot-06-10-2">[2]</a></sup><a class="extiw" href="http://en.wikipedia.org/wiki/OS_X" title="wikipedia:OS X">Mac OS X</a><sup id="cite_ref-Mac_version_announcement_1-2" class="reference"><a href="#cite_note-Mac_version_announcement-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/1_November.md" title="1 November">1 November</a> <a href="../_/2011.md" title="2011">2011</a> (North America),<sup id="cite_ref-FAQ_Regions_Release_3-0" class="reference"><a href="#cite_note-FAQ_Regions_Release-3">[3]</a></sup><br/>
+for other regions, see <a class="mw-selflink-fragment" href="#Release">Release</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Action, role-playing game</td></tr><tr><th scope="row" class="tg-infobox-label">Modes</th><td class="tg-infobox-data">Single player, two/three-player co-operative, online<sup id="cite_ref-Product_Announcement_4-0" class="reference"><a href="#cite_note-Product_Announcement-4">[4]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Rating</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board" title="wikipedia:Entertainment Software Rating Board">ESRB</a>: M<sup id="cite_ref-Kotaku_Party_5-0" class="reference"><a href="#cite_note-Kotaku_Party-5">[5]</a></sup></td></tr></tbody></table>
 
 <i><b>The Lord of the Rings: War in the North</b></i> (thường được viết tắt là **WITN**) là một trò chơi điện tử nhập vai được phát triển bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Snowblind_Studios" title="wikipedia:Snowblind Studios">Snowblind Studios</a> và được xuất bản bởi [Warner Bros. Interactive Entertainment](../W/Warner_Bros._Interactive_Entertainment.md) cho <a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_3" title="wikipedia:PlayStation 3">PlayStation 3</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Xbox_360" title="wikipedia:Xbox 360">Xbox 360</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Microsoft_Windows" title="wikipedia:Microsoft Windows">Windows</a>. Trò chơi diễn ra trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) nhưng phỏng theo các trận chiến ít được đề cập diễn ra trên [Eriador](../E/Eriador.md) và [Rhovanion](../R/Rhovanion.md). Trò chơi được phát hành từ [1 tháng 11](../_/1_November.md) đến [25 tháng 11](../_/25_November.md) [2011](../_/2011.md).<sup id="cite_ref-FAQ_Regions_Release_3-1" class="reference"><a href="#cite_note-FAQ_Regions_Release-3">[3]</a></sup>
 
@@ -87,13 +87,13 @@ Mặc dù trò chơi bao gồm các địa điểm quen thuộc từ [Trung Đ�
 
 Trò chơi bắt đầu bằng phần giới thiệu, được thuật lại bởi [Gandalf](../G/Gandalf.md). Gandalf giải thích rằng những anh hùng như [Aragorn](../A/Aragorn.md), [Frodo Baggins](../F/Frodo_Baggins.md) và Gandalf được vinh danh rất nhiều, nhưng nếu không có một số ít, những anh hùng không nổi tiếng - [Eradan](<../E/Eradan_(video_game_character).md>), [Andriel](../A/Andriel.md) và [Farin](<../F/Farin_(video_game_character).md>) - phía bắc của [Trung Địa](../M/Middle-earth.md) sẽ bị mất.<sup id="cite_ref-Prologue_9-0" class="reference"><a href="#cite_note-Prologue-9">[8]</a></sup>
 
-Sau đó, trò chơi chuyển sang [Bree](../B/Bree.md), nơi ba anh hùng lên đường đến [Prancing Pony](../P/Prancing_Pony.md), chỉ vài ngày trước khi Frodo đến Bree. Đến Prancing Pony, họ tìm thấy [Aragorn](../A/Aragorn.md) ở một góc quán trọ. Họ kể Aragorn rằng [Nazgûl](../N/Nazgûl.md) đã tấn công và đánh bại [Rangers](../R/Rangers_of_the_North.md) tại [Sarn Ford](../S/Sarn_Ford.md), và một đoạn hồi tưởng cho thấy [Vua Phù thủy](../W/Witch-king.md) gặp [Black Númenórean](../B/Black_Númenóreans.md), [Agandaûr](../A/Agandaûr.md). Eradan, Andriel và Farin tình cờ nghe được cuộc trò chuyện của họ: Agandaûr nói rằng ông đã triệu tập một đội quân [Orc của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md) và tập hợp một đội quân ở [Fornost](../F/Fornost.md), để hỗ trợ [Nazgûl](../N/Nazgûl.md) trong Cuộc săn lùng chiếc nhẫn. Vua Phù thủy gửi Agandaûr trở lại Fornost, để ông có thể tấn công ngay lập tức. Đoạn hồi tưởng kết thúc và trò chơi quay trở lại Prancing Pony<sup id="cite_ref-Prologue_9-1" class="reference"><a href="#cite_note-Prologue-9">[8]</a></sup>
+Sau đó, trò chơi chuyển sang [Bree](../B/Bree.md), nơi ba anh hùng lên đường đến [Prancing Pony](../P/Prancing_Pony.md), chỉ vài ngày trước khi Frodo đến Bree. Đến Prancing Pony, họ tìm thấy [Aragorn](../A/Aragorn.md) ở một góc quán trọ. Họ kể Aragorn rằng [Nazgûl](../N/Nazgûl.md) đã tấn công và đánh bại [Rangers](../R/Rangers_of_the_North.md) tại [Sarn Ford](../S/Sarn_Ford.md), và một đoạn hồi tưởng cho thấy [Vua Phù thủy](../W/Witch-king.md) gặp [Black Númenórean](../B/Black_Númenóreans.md), [Agandaûr](../A/Agandaûr.md). Eradan, Andriel và Farin tình cờ nghe được cuộc trò chuyện của họ: Agandaûr nói rằng ông ta đã triệu tập một đội quân [Orc của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md) và tập hợp một đội quân ở [Fornost](../F/Fornost.md), để hỗ trợ [Nazgûl](../N/Nazgûl.md) trong Cuộc săn lùng chiếc nhẫn. Vua Phù thủy gửi Agandaûr trở lại Fornost, để ông ta có thể tấn công ngay lập tức. Đoạn hồi tưởng kết thúc và trò chơi quay trở lại Prancing Pony<sup id="cite_ref-Prologue_9-1" class="reference"><a href="#cite_note-Prologue-9">[8]</a></sup>
 
-Farin hỏi Aragorn tại sao [Nazgûl](../N/Nazgûl.md) tấn công [ Shire](The_Shire.md), ông trả lời rằng [a Hobbit](../F/Frodo_Baggins.md) với [một gánh nặng quan trọng](The_One_Ring.md) đang tiến tới Bree. Và điều này "phải được bảo vệ bằng mọi giá". Aragorn gửi Eradan, Andriel và Farin đến Fornost, nơi họ phải ngăn chặn quân đội của [Agandaûr](../A/Agandaûr.md) trước khi nó có thể tấn công.<sup id="cite_ref-Prologue_9-2" class="reference"><a href="#cite_note-Prologue-9">[8]</a></sup>
+Farin hỏi Aragorn tại sao [Nazgûl](../N/Nazgûl.md) tấn công [ Shire](The_Shire.md), ông ta trả lời rằng [a Hobbit](../F/Frodo_Baggins.md) với [một gánh nặng quan trọng](The_One_Ring.md) đang tiến tới Bree. Và điều này "phải được bảo vệ bằng mọi giá". Aragorn gửi Eradan, Andriel và Farin đến Fornost, nơi họ phải ngăn chặn quân đội của [Agandaûr](../A/Agandaûr.md) trước khi nó có thể tấn công.<sup id="cite_ref-Prologue_9-2" class="reference"><a href="#cite_note-Prologue-9">[8]</a></sup>
 
 ### Chương 1: Fornost {#Chapter_1:_Fornost}
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_War_in_the_North_-_Beleram_&amp;_Orcs.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dd/The_Lord_of_the_Rings_War_in_the_North_-_Beleram_%26_Orcs.jpg/300px-The_Lord_of_the_Rings_War_in_the_North_-_Beleram_%26_Orcs.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/dd/The_Lord_of_the_Rings_War_in_the_North_-_Beleram_%26_Orcs.jpg/450px-The_Lord_of_the_Rings_War_in_the_North_-_Beleram_%26_Orcs.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/dd/The_Lord_of_the_Rings_War_in_the_North_-_Beleram_%26_Orcs.jpg/600px-The_Lord_of_the_Rings_War_in_the_North_-_Beleram_%26_Orcs.jpg 2x" data-file-width="1280" data-file-height="720"/></a><figcaption><a href="../B/Beleram.md" title="Beleram">Beleram</a> - bị bắt bởi <a href="../O/Orcs.md" title="Orcs">Orc</a> và <a class="mw-redirect" href="../G/Goblins.md" title="Goblins">Goblin</a> - ở <a class="mw-redirect" href="../F/Fornost.md" title="Fornost">Fornost</a>.</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_War_in_the_North_-_Beleram_&amp;_Orcs.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dd/The_Lord_of_the_Rings_War_in_the_North_-_Beleram_%26_Orcs.jpg/300px-The_Lord_of_the_Rings_War_in_the_North_-_Beleram_%26_Orcs.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/dd/The_Lord_of_the_Rings_War_in_the_North_-_Beleram_%26_Orcs.jpg/450px-The_Lord_of_the_Rings_War_in_the_North_-_Beleram_%26_Orcs.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/dd/The_Lord_of_the_Rings_War_in_the_North_-_Beleram_%26_Orcs.jpg/600px-The_Lord_of_the_Rings_War_in_the_North_-_Beleram_%26_Orcs.jpg 2x" data-file-width="1280" data-file-height="720"/></a><figcaption><a href="../B/Beleram.md" title="Beleram">Beleram</a> - captured by <a href="../O/Orcs.md" title="Orcs">Orcs</a> and <a class="mw-redirect" href="../G/Goblins.md" title="Goblins">Goblins</a> - in <a class="mw-redirect" href="../F/Fornost.md" title="Fornost">Fornost</a>.</figcaption></figure>
 
 Ngay khi Eradan, Andriel và Farin bước vào tàn tích Fornost, họ bị tấn công bởi một nhóm [Orc](../O/Orcs.md) và [Goblin](../G/Goblins.md). Sau khi dọn sạch cổng chính, họ sẽ đến các hố bên dưới Fornost. Ở đó họ nghe thấy một con vật đang la hét. Sau khi tìm đường ra khỏi hố, họ tìm thấy nguồn gốc của tiếng ồn - một [Đại bàng khổng lồ](../E/Eagles.md). Ba anh hùng tháo xích cho Đại bàng và giết những tên cai ngục của nó. The Eagle tự giới thiệu mình là [Beleram](../B/Beleram.md), một người hầu của [Gwaihir](../G/Gwaihir.md), người thu thập tin tức nhưng đã bị máy công thành và các thầy phù thủy đưa lên không trung. Đại bàng và ba anh hùng cùng nhau lập một kế hoạch: trong khi Beleram thu hút sự chú ý của kẻ thù, Eradan, Andriel và Farin sẽ tiến lên chiến trường để phá hủy vũ khí công thành.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup> Kế hoạch diễn ra thành công khi tất cả vũ khí công thành cũng như hai Orc phù thủy đều bị tiêu diệt.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[10]</a></sup> Ngoài ra, người chơi còn nhận được một cuộn giấy có dòng chữ không thể đọc được.<sup id="cite_ref-Cult_12-0" class="reference"><a href="#cite_note-Cult-12">[11]</a></sup>
 
@@ -103,19 +103,19 @@ Khi đến các phường bên ngoài của Fornost, người chơi sẽ gặp l
 
 Andriel giới thiệu Eradan và Farin với Elladan và Elrohir, đồng thời thông báo về nhiệm vụ của mình. Họ hợp tác trong nhiệm vụ này, nhưng thay vì chỉ ngăn quân đội tấn công, họ quyết định giết Agandaûr. Các con trai của Elrond hướng dẫn người chơi vào thành. Tuy nhiên, họ tách ra sau khi đánh bại một chiếc nỏ khổng lồ khác. Cuối cùng, họ bị nhốt trên cây cầu nối giữa hai cánh cổng. Sau khi sống sót sau một cuộc phục kích, những người con trai của Elrond xuất hiện trở lại và mở cánh cổng.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[13]</a></sup> Sau khi đánh bại một cuộc phục kích khác, họ đến được cổng thành, nơi được bảo vệ bởi một bùa chú ma thuật để ngăn chặn những kẻ xâm nhập. Trong khi các con trai của Elrond hóa giải phép thuật, người chơi bảo vệ họ trước lực lượng tấn công Orc, Goblin và một con Troll. Khi Eradan, Andriel, Farin, Elrohir và Elladan tiến vào thành, Beleram vẫn ở bên ngoài để bảo vệ họ trước quân tiếp viện của kẻ thù.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[14]</a></sup>
 
-Bên trong, họ tình cờ nghe được cuộc trò chuyện giữa Agandaûr và [Tharzog](Tharzog.md), thủ lĩnh [Orc](../O/Orcs.md) của [Mount Gram](../M/Mount_Gram.md). Tharzog nói với Agandaûr rằng có những kẻ xâm nhập vào Fornost, sau đó Agandaûr tức giận ra lệnh cho ông tìm và giết chúng ngay lập tức. Sau khi Agandaûr rời đi, người chơi và các con trai của Elrond đi tiếp vào tòa tháp. Tuy nhiên, Tharzog nhận thấy họ và khi cánh cổng đóng lại, người chơi bị cắt khỏi các con trai của Elrond. Tharzog và cận vệ của hắn tấn công Eradan, Andriel và Farin, nhưng bị đánh bại và bị giết.<sup id="cite_ref-Citadel_Tower_16-0" class="reference"><a href="#cite_note-Citadel_Tower-16">[15]</a></sup>
+Bên trong, họ tình cờ nghe được cuộc trò chuyện giữa Agandaûr và [Tharzog](Tharzog.md), thủ lĩnh [Orc](../O/Orcs.md) của [Mount Gram](../M/Mount_Gram.md). Tharzog nói với Agandaûr rằng có những kẻ xâm nhập vào Fornost, sau đó Agandaûr tức giận ra lệnh cho ông ta tìm và giết chúng ngay lập tức. Sau khi Agandaûr rời đi, người chơi và các con trai của Elrond đi tiếp vào tòa tháp. Tuy nhiên, Tharzog nhận thấy họ và khi cánh cổng đóng lại, người chơi bị cắt khỏi các con trai của Elrond. Tharzog và cận vệ của hắn tấn công Eradan, Andriel và Farin, nhưng bị đánh bại và bị giết.<sup id="cite_ref-Citadel_Tower_16-0" class="reference"><a href="#cite_note-Citadel_Tower-16">[15]</a></sup>
 
-Đồng thời, Elladan và Elrohir chiến đấu với Agandaûr trên đỉnh tháp Thành cổ. Agandaûr không phải là đối thủ của riêng cặp song sinh, nhưng khi Eradan, Andriel và Farin tham gia cùng họ, ông bỏ chạy trên lưng một [Quái vật sa ngã](../F/Fell_beast.md). Beleram cố gắng đuổi theo ông, nhưng Agandaûr triệu hồi một cơn giông và trốn thoát.<sup id="cite_ref-Citadel_Tower_16-1" class="reference"><a href="#cite_note-Citadel_Tower-16">[15]</a></sup>
+Đồng thời, Elladan và Elrohir chiến đấu với Agandaûr trên đỉnh tháp Thành cổ. Agandaûr không phải là đối thủ của riêng cặp song sinh, nhưng khi Eradan, Andriel và Farin tham gia cùng họ, ông ta bỏ chạy trên lưng một [Quái vật sa ngã](../F/Fell_beast.md). Beleram cố gắng đuổi theo ông ta, nhưng Agandaûr triệu hồi một cơn giông và trốn thoát.<sup id="cite_ref-Citadel_Tower_16-1" class="reference"><a href="#cite_note-Citadel_Tower-16">[15]</a></sup>
 
-Beleram quay lại Gwaihir, trong [Dãy Núi Sương Mù](../M/Misty_Mountains.md), để thông báo cho ông về các sự kiện trong Fornost, Elladan và Elrohir quay lại [Rivendell](../R/Rivendell.md) và Eradan, Andriel và Farin quay lại Sarn's Ford để thông báo cho Halbarad.<sup id="cite_ref-Citadel_Tower_16-2" class="reference"><a href="#cite_note-Citadel_Tower-16">[15]</a></sup>
+Beleram quay lại Gwaihir, trong [Dãy Núi Sương Mù](../M/Misty_Mountains.md), để thông báo cho ông ta về các sự kiện trong Fornost, Elladan và Elrohir quay lại [Rivendell](../R/Rivendell.md) và Eradan, Andriel và Farin quay lại Sarn's Ford để thông báo cho Halbarad.<sup id="cite_ref-Citadel_Tower_16-2" class="reference"><a href="#cite_note-Citadel_Tower-16">[15]</a></sup>
 
 ### Chương 2: Xuống dốc Barrow {#Chapter_2:_The_Barrow_Downs}
 
-Người đứng đầu trại [Halbarad](../H/Halbarad.md) cử nhóm đến [Rivendell](../R/Rivendell.md) để báo cáo về các sự kiện tại Fornost đến [Aragorn](../A/Aragorn.md). Khi họ đi qua [Barrow Downs](../B/Barrow-downs.md), Halbarad yêu cầu họ để mắt tới hai kiểm lâm viên, Luin và Kilaran, những người đã mất tích trong khu vực. Băng qua Barrow Downs, Eradan, Andriel và Farin chạm trán với nhiều xác sống khi họ chiến đấu trên đường đi qua các ngôi mộ, lần theo manh mối của người kiểm lâm về Amon Gorthad, Great Barrow. Ở đó, họ tìm thấy Kilaran đang mắc kẹt trong những cơn ác mộng. Luin đã rơi vào tay một xác sống lớn, điều khiển ông và họ phải đánh bại ông để tìm đường thoát ra và cuối cùng tiến đến [Rivendell](../R/Rivendell.md).<sup id="cite_ref-sourceF_17-0" class="reference"><a href="#cite_note-sourceF-17">[16]</a></sup> Nhóm bạn đi qua Barrow Downs, nơi họ phải tìm hai kiểm lâm viên bị thất lạc.<sup id="cite_ref-sourceF_17-1" class="reference"><a href="#cite_note-sourceF-17">[16]</a></sup>
+Người đứng đầu trại [Halbarad](../H/Halbarad.md) cử nhóm đến [Rivendell](../R/Rivendell.md) để báo cáo về các sự kiện tại Fornost đến [Aragorn](../A/Aragorn.md). Khi họ đi qua [Barrow Downs](../B/Barrow-downs.md), Halbarad yêu cầu họ để mắt tới hai kiểm lâm viên, Luin và Kilaran, những người đã mất tích trong khu vực. Băng qua Barrow Downs, Eradan, Andriel và Farin chạm trán với nhiều xác sống khi họ chiến đấu trên đường đi qua các ngôi mộ, lần theo manh mối của người kiểm lâm về Amon Gorthad, Great Barrow. Ở đó, họ tìm thấy Kilaran đang mắc kẹt trong những cơn ác mộng. Luin đã rơi vào tay một xác sống lớn, điều khiển ông ta và họ phải đánh bại ông ta để tìm đường thoát ra và cuối cùng tiến đến [Rivendell](../R/Rivendell.md).<sup id="cite_ref-sourceF_17-0" class="reference"><a href="#cite_note-sourceF-17">[16]</a></sup> Nhóm bạn đi qua Barrow Downs, nơi họ phải tìm hai kiểm lâm viên bị thất lạc.<sup id="cite_ref-sourceF_17-1" class="reference"><a href="#cite_note-sourceF-17">[16]</a></sup>
 
 ### Chương 3: Ettenmoors {#Chapter_3:_Ettenmoors}
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTR-WITN-Agandaur2.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ad/LOTR-WITN-Agandaur2.png/200px-LOTR-WITN-Agandaur2.png" decoding="async" loading="lazy" width="200" height="113" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ad/LOTR-WITN-Agandaur2.png/300px-LOTR-WITN-Agandaur2.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/ad/LOTR-WITN-Agandaur2.png/400px-LOTR-WITN-Agandaur2.png 2x" data-file-width="1280" data-file-height="720"/></a><figcaption><a href="../A/Agandaûr.md" title="Agandaûr">Agandaûr</a>, nhân vật phản diện chính của trò chơi.</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTR-WITN-Agandaur2.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ad/LOTR-WITN-Agandaur2.png/200px-LOTR-WITN-Agandaur2.png" decoding="async" loading="lazy" width="200" height="113" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ad/LOTR-WITN-Agandaur2.png/300px-LOTR-WITN-Agandaur2.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/ad/LOTR-WITN-Agandaur2.png/400px-LOTR-WITN-Agandaur2.png 2x" data-file-width="1280" data-file-height="720"/></a><figcaption><a href="../A/Agandaûr.md" title="Agandaûr">Agandaûr</a>, the game&#39;s main antagonist.</figcaption></figure>
 
 Trong [Rivendell](../R/Rivendell.md) nhóm gặp một số thành viên của [Hội đồng Elrond](../C/Council_of_Elrond.md),<sup id="cite_ref-sourceF_17-2" class="reference"><a href="#cite_note-sourceF-17">[16]</a></sup> trinh sát vùng đất xung quanh Rivendell,<sup id="cite_ref-sourceG_18-0" class="reference"><a href="#cite_note-sourceG-18">[17]</a></sup> và chiến đấu [Orc](../O/Orcs.md) bằng [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md).
 
@@ -130,9 +130,9 @@ Eradan, Andriel và Farin đi cùng Beleram tới [Mirkwood](../M/Mirkwood.md) �
 ## Cách chơi {#Gameplay}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Được phát triển cùng với Trung Địa Enterprises, The Lord of the Rings: War in the North khám phá cả yếu tố tường thuật nguyên bản và quen thuộc khi Warner Bros. Interactive Entertainment nắm quyền phát triển trò chơi điện tử dựa trên cả nội dung văn học và phim ảnh từ The Lord of the Rings. Đột phá nền tảng mới dưới dạng trò chơi điện tử RPG dành cho người trưởng thành lấy bối cảnh ở Trung Địa, The Lord of the Rings: War in the North nâng cao mô hình RPG thông qua lối chơi co-op trực tuyến, phụ thuộc lẫn nhau đầy sáng tạo dành cho tối đa ba người chơi thành lập Hiệp hội của riêng mình để chiến đấu với lực lượng của Sauron ở miền Bắc.<br/><br/>Trong The Lord of the Rings: War in the North, người chơi có thể trở thành anh hùng trong trận chiến vĩ đại ở miền Bắc như một phần của sử thi Cuộc chiến Nhẫn. Khám phá những vùng đất vô hình, các yếu tố câu chuyện và nhân vật từ Trung Địa cũng như các yếu tố quen thuộc từ các bộ phim truyện trước đây, game thủ sẽ trải nghiệm khả năng tùy chỉnh và phát triển nhân vật sâu rộng, các tùy chọn chơi trò chơi co-op mở rộng cũng như vũ khí, kỹ năng và khả năng đặc biệt có thể nâng cấp.
+<p>Developed in association with Middle-earth Enterprises, The Lord of the Rings: War in the North explores both original and familiar narrative elements as Warner Bros. Interactive Entertainment holds the rights to develop video games based on both the literary and motion picture content from The Lord of the Rings. Breaking new ground as a mature RPG video game set in Middle-earth, The Lord of the Rings: War in the North advances the RPG paradigm through innovative online, interdependent co-op play for up to three players who form their own Fellowship to fight Sauron’s forces in the North.<br/><br/>In The Lord of the Rings: War in the North, players can become the heroes in the great battle of the North as part of the epic War of the Ring. Exploring unseen lands, story elements and characters from Middle-earth as well as elements familiar from past feature films, gamers will experience extensive character customization and development, expansive co-op gameplay options and upgradeable weapons, skills and special abilities.
 </p>
-<p class="tg-quote-footer"><cite><a class="mw-redirect" href="../W/Warner_Bros._Interactive_Entertainment.md" title="Warner Bros. Interactive Entertainment">Warner Bros. Interactive Entertainment</a>, thông báo sản phẩm<sup id="cite_ref-Product_Announcement_4-1" class="reference"><a href="#cite_note-Product_Announcement-4">[4]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite><a class="mw-redirect" href="../W/Warner_Bros._Interactive_Entertainment.md" title="Warner Bros. Interactive Entertainment">Warner Bros. Interactive Entertainment</a>, product announcement<sup id="cite_ref-Product_Announcement_4-1" class="reference"><a href="#cite_note-Product_Announcement-4">[4]</a></sup></cite></p>
 </blockquote>
 
 Các nhà bình luận đã lưu ý rằng đây là phiên bản đầu tiên của các trò chơi dựa trên *The Lord of the Rings* nhắm đến khán giả lớn tuổi hơn - được dự đoán là trò chơi đầu tiên trong sê-ri được xếp hạng M - bao gồm hình ảnh bạo lực và chi tiết đẫm máu<sup id="cite_ref-Kotaku_Throats_21-0" class="reference"><a href="#cite_note-Kotaku_Throats-21">[20]</a></sup> với việc người chơi có thể chặt đầu lũ Orc và chém đứt tay chân kẻ thù.<sup id="cite_ref-Kotaku_Blood_22-0" class="reference"><a href="#cite_note-Kotaku_Blood-22">[21]</a></sup> Khi đánh bại kẻ thù, bạn có thể nhận được kinh nghiệm và cướp bóc. Với kinh nghiệm, bạn có thể đạt được những kỹ năng mới; có hai mươi kỹ năng cho mỗi chủng tộc.<sup id="cite_ref-sourceE_6-1" class="reference"><a href="#cite_note-sourceE-6">[6]</a></sup> Mỗi kỹ năng có năm cấp bậc khác nhau. Chiến lợi phẩm cũng có thể được tìm thấy trong rương. Một số vật phẩm chỉ có thể được sử dụng bởi một chủng tộc nhất định, do đó bạn có thể giao dịch với các nhân vật khác trong nhóm của mình.<sup id="cite_ref-sourceH_23-0" class="reference"><a href="#cite_note-sourceH-23">[22]</a></sup> Lối chơi - ở cả chế độ chơi đơn và nhiều người chơi - xoay quanh việc kết hợp chiến lược các khả năng khác nhau của ba người để đạt hiệu quả tốt, chẳng hạn, người lùn có thể tìm thấy kho báu và phát hiện điểm yếu trong các công trình dẫn đến các con đường thay thế,<sup id="cite_ref-sourceJ_20-1" class="reference"><a href="#cite_note-sourceJ-20">[19]</a></sup> trong khi Tiên có thể tìm thấy các loại thảo mộc để chữa lành vết thương cho các thành viên khác trong nhóm. Khi ở chế độ chơi đơn, hai nhân vật còn lại sẽ được điều khiển bởi AI máy tính.<sup id="cite_ref-Kotaku_Party_5-1" class="reference"><a href="#cite_note-Kotaku_Party-5">[5]</a></sup> Phối hợp với các nhân vật khác trong nhóm của bạn là rất quan trọng để đánh bại những kẻ thù mạnh hơn.
@@ -143,7 +143,7 @@ Có thể hợp tác (chế độ hợp tác) cả cục bộ và trực tuyến
 
 Trò chơi sẽ không phải là thế giới mở, tuy nhiên, một số khu vực sẽ cởi mở hơn những khu vực khác.<sup id="cite_ref-sourceB_25-0" class="reference"><a href="#cite_note-sourceB-25">[24]</a></sup> Vẫn chưa biết liệu có thể quay lại các địa điểm trước đó hay không. Sẽ có một số NPC (Nhân vật không thể chơi được) trong trò chơi, một số trong số họ sẽ có vai trò thụ động hơn trong khi những người khác chiến đấu bên cạnh bạn.<sup id="cite_ref-sourceG_18-1" class="reference"><a href="#cite_note-sourceG-18">[17]</a></sup> Giống như nhiều game nhập vai, hệ thống đối thoại rất quan trọng và ảnh hưởng đến cốt truyện của trò chơi.<sup id="cite_ref-sourceE_6-3" class="reference"><a href="#cite_note-sourceE-6">[6]</a></sup>
 
-Nếu cần giúp đỡ bạn có thể gọi đại bàng Beleram, người có thể giúp bạn đánh bại những kẻ thù lớn hơn hoặc mạnh hơn. Lúc đầu, việc gọi ông bị hạn chế, nhưng khi lên cấp, bạn có thể tìm thấy các vật phẩm giúp bạn có thể gọi ông. Không thể gọi Beleram dưới lòng đất hoặc trong các tòa nhà và việc sử dụng ông sẽ mất thời gian.<sup id="cite_ref-sourceD_26-0" class="reference"><a href="#cite_note-sourceD-26">[25]</a></sup>
+Nếu cần giúp đỡ bạn có thể gọi đại bàng Beleram, người có thể giúp bạn đánh bại những kẻ thù lớn hơn hoặc mạnh hơn. Lúc đầu, việc gọi ông bị hạn chế, nhưng khi lên cấp, bạn có thể tìm thấy các vật phẩm giúp bạn có thể gọi ông. Không thể gọi Beleram dưới lòng đất hoặc trong các tòa nhà và việc sử dụng ông ta sẽ mất thời gian.<sup id="cite_ref-sourceD_26-0" class="reference"><a href="#cite_note-sourceD-26">[25]</a></sup>
 
 ## Nhân vật nổi bật {#Featured_Characters}
 
@@ -151,9 +151,9 @@ Nếu cần giúp đỡ bạn có thể gọi đại bàng Beleram, người có
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/_/2011-12-23_00017.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d1/2011-12-23_00017.jpg/200px-2011-12-23_00017.jpg" decoding="async" loading="lazy" width="200" height="113" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d1/2011-12-23_00017.jpg/300px-2011-12-23_00017.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d1/2011-12-23_00017.jpg/400px-2011-12-23_00017.jpg 2x" data-file-width="1280" data-file-height="720"/></a><figcaption><a href="../E/Eradan_(video_game_character).md" title="Eradan (video game character)">Eradan</a>, <a href="../A/Andriel.md" title="Andriel">Andriel</a> and <a href="../F/Farin_(video_game_character).md" title="Farin (video game character)">Farin</a>.</figcaption></figure>
 
-- **[Eradan](<../E/Eradan_(video_game_character).md>):** Eradan là một Dúnadan và là một trong những Biệt động quân đi cùng Aragorn với tư cách là [Đội quân Xám](../G/Grey_Company.md). Ông rất giỏi theo dõi kẻ thù và chiến đấu bằng kiếm và cung. Ông có thể di chuyển phía sau kẻ thù mà không bị phát hiện bằng kỹ năng *evasion*.<sup id="cite_ref-sourceK_24-1" class="reference"><a href="#cite_note-sourceK-24">[23]</a></sup>
+- **[Eradan](<../E/Eradan_(video_game_character).md>):** Eradan là một Dúnadan và là một trong những Biệt động quân đi cùng Aragorn với tư cách là [Đại đội Xám](../G/Grey_Company.md). Ông ta rất giỏi theo dõi kẻ thù và chiến đấu bằng kiếm và cung. Ông ta có thể di chuyển phía sau kẻ thù mà không bị phát hiện bằng kỹ năng *evasion*.<sup id="cite_ref-sourceK_24-1" class="reference"><a href="#cite_note-sourceK-24">[23]</a></sup>
 - **[Andriel](../A/Andriel.md):** Andriel là một Tiên của Rivendell và được [Elrond](../E/Elrond.md) cử đi điều tra quân đội của [Sauron](../S/Sauron.md) đang tập trung tại Eriador và Rhovanion. Một trong những khả năng của bà có thể tạo ra một tấm khiên bảo vệ bà và các nhân vật khác trong nhóm trước các cuộc tấn công tầm xa. Bà có thể sử dụng cây trượng của mình như một vũ khí cận chiến và tầm xa.<sup id="cite_ref-sourceK_24-2" class="reference"><a href="#cite_note-sourceK-24">[23]</a></sup>
-- **[Farin](<../F/Farin_(video_game_character).md>):** Farin là một người lùn Erebor đã du hành tới Eriador để trả nợ cho [Bilbo Baggins](../B/Bilbo_Baggins.md). Ông có thể được sử dụng như một chiếc xe tăng và sức mạnh của ông là khi chiến đấu với kẻ thù ở khoảng cách gần.<sup id="cite_ref-sourceK_24-3" class="reference"><a href="#cite_note-sourceK-24">[23]</a></sup> Vũ khí chính của ông là một chiếc rìu, nhưng ông sử dụng nỏ làm vũ khí tầm xa của mình.<sup id="cite_ref-sourceJ_20-2" class="reference"><a href="#cite_note-sourceJ-20">[19]</a></sup>
+- **[Farin](<../F/Farin_(video_game_character).md>):** Farin là một người lùn Erebor đã du hành tới Eriador để trả nợ cho [Bilbo Baggins](../B/Bilbo_Baggins.md). Ông ta có thể được sử dụng như một chiếc xe tăng và sức mạnh của ông ta là khi chiến đấu với kẻ thù ở khoảng cách gần.<sup id="cite_ref-sourceK_24-3" class="reference"><a href="#cite_note-sourceK-24">[23]</a></sup> Vũ khí chính của ông ta là một chiếc rìu, nhưng ông ta sử dụng nỏ làm vũ khí tầm xa của mình.<sup id="cite_ref-sourceJ_20-2" class="reference"><a href="#cite_note-sourceJ-20">[19]</a></sup>
 
 ### Nhân vật không thể chơi được {#Non-Playable_Characters}
 
@@ -173,8 +173,8 @@ Nếu cần giúp đỡ bạn có thể gọi đại bàng Beleram, người có
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Diễn viên</th>
-<th>Vai trò
+<th>Actor</th>
+<th>Role
 </th></tr>
 <tr>
 <td>Ike Amadi</td>
@@ -299,7 +299,7 @@ Nếu cần giúp đỡ bạn có thể gọi đại bàng Beleram, người có
 
 ## Vị trí nổi bật {#Featured_Locations}
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Rivendell.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bb/The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Rivendell.png/200px-The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Rivendell.png" decoding="async" loading="lazy" width="200" height="112" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bb/The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Rivendell.png/300px-The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Rivendell.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/bb/The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Rivendell.png/400px-The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Rivendell.png 2x" data-file-width="1366" data-file-height="768"/></a><figcaption>Ý tưởng nghệ thuật của <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>.</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Rivendell.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bb/The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Rivendell.png/200px-The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Rivendell.png" decoding="async" loading="lazy" width="200" height="112" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bb/The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Rivendell.png/300px-The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Rivendell.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/bb/The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Rivendell.png/400px-The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Rivendell.png 2x" data-file-width="1366" data-file-height="768"/></a><figcaption>Concept art of <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>.</figcaption></figure>
 
 - [Ettenmoors](../E/Ettenmoors.md)<sup id="cite_ref-Kotaku_Blood_22-1" class="reference"><a href="#cite_note-Kotaku_Blood-22">[21]</a></sup>
 - [Mirkwood](../M/Mirkwood.md)<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[32]</a></sup>
@@ -314,11 +314,11 @@ Nếu cần giúp đỡ bạn có thể gọi đại bàng Beleram, người có
 - [Osgiliath](../O/Osgiliath.md)
 - [Lórien](../L/Lothlórien.md)
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Osgiliath.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d7/The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Osgiliath.png/150px-The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Osgiliath.png" decoding="async" loading="lazy" width="150" height="84" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d7/The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Osgiliath.png/225px-The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Osgiliath.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/d7/The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Osgiliath.png/300px-The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Osgiliath.png 2x" data-file-width="1366" data-file-height="768"/></a><figcaption>Ý tưởng nghệ thuật của <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a>.</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Osgiliath.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d7/The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Osgiliath.png/150px-The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Osgiliath.png" decoding="async" loading="lazy" width="150" height="84" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d7/The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Osgiliath.png/225px-The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Osgiliath.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/d7/The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Osgiliath.png/300px-The_Lord_of_the_Rings_War_in_the_North_-_Concept_Art_of_Osgiliath.png 2x" data-file-width="1366" data-file-height="768"/></a><figcaption>Concept art of <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a>.</figcaption></figure>
 
 ## Phát triển {#Development}
 
-Quá trình phát triển War in the North bắt đầu vào đầu [2010](../_/2010.md) hoặc cuối [2009](../_/2009.md), [Saul Zaentz Company](../M/Middle-earth_Enterprises.md) đã nhận tên *The Lord of the Rings: War in the North* vào [tháng 6](../J/June.md) năm 2009.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[38]</a></sup> Tuy nhiên, trò chơi đã không được công bố chính thức cho đến [18 tháng 3](../_/18_March.md) năm 2010.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[39]</a></sup> Kể từ khi được công bố một số [hình ảnh](../../category/I/Images_from_The_Lord_of_the_Rings%253A_War_in_the_North.md), <a class="mw-selflink-fragment" href="#Traillers">đoạn giới thiệu</a> và ý tưởng nghệ thuật về một số địa điểm và nhân vật đã được phát hành.
+Quá trình phát triển War in the North bắt đầu vào đầu [2010](../_/2010.md) hoặc cuối [2009](../_/2009.md), [Công ty Saul Zaentz](../M/Middle-earth_Enterprises.md) đã nhận tên *The Lord of the Rings: War in the North* vào [tháng 6](../J/June.md) năm 2009.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[38]</a></sup> Tuy nhiên, trò chơi đã không được công bố chính thức cho đến [18 tháng 3](../_/18_March.md) năm 2010.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[39]</a></sup> Kể từ khi được công bố một số [hình ảnh](../../category/I/Images_from_The_Lord_of_the_Rings%253A_War_in_the_North.md), <a class="mw-selflink-fragment" href="#Traillers">đoạn giới thiệu</a> và ý tưởng nghệ thuật về một số địa điểm và nhân vật đã được phát hành.
 
 ### Vấn đề về tính liên tục {#Continuity_issues}
 
@@ -339,15 +339,15 @@ Kể từ thông báo đầu tiên vào tháng 3 năm 2010, Warner Bros. đã đ
 <table class="wikitable">
 <tbody><tr style="background: #F2E6CE;">
 <th>Video</th>
-<th>Chiều dài</th>
-<th>Ngày phát hành</th>
-<th>Mô tả
+<th>Length</th>
+<th>Release Date</th>
+<th>Description
 </th></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=I0pwTB8Q7S0" rel="noreferrer noopener" target="_blank">Unite Your Fellowship</a></td>
 <td>1:03</td>
 <td>17 March 2010</td>
-<td>Đoạn giới thiệu giới thiệu; clip ngắn hành động và troll
+<td>Teaser trailer; short clips of action and trolls
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=JKStFFNaYtk" rel="noreferrer noopener" target="_blank">E3 2010 Trailer</a></td>
@@ -359,223 +359,223 @@ Kể từ thông báo đầu tiên vào tháng 3 năm 2010, Warner Bros. đã đ
 <td><a class="external text" href="http://www.youtube.com/watch?v=is_pfU9aEcU" rel="noreferrer noopener" target="_blank">Extended Fellowship Trailer</a></td>
 <td>1:34</td>
 <td>12 August 2010</td>
-<td>Bản mở rộng của đoạn giới thiệu teaser
+<td>Expanded version of teaser trailer
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=HihZA3tqe-Q" rel="noreferrer noopener" target="_blank">War in the North @ PAX 2010</a></td>
 <td>1:22</td>
 <td>c. September 2010</td>
-<td>Đưa tin về triển lãm <a class="extiw" href="http://en.wikipedia.org/wiki/Penny_Arcade_Expo#PAX_Prime_2010" title="wikipedia:Penny Arcade Expo">Penny Arcade Expo</a> <a href="../_/2010.md" title="2010">2010</a>
+<td>Coverage of <a class="extiw" href="http://en.wikipedia.org/wiki/Penny_Arcade_Expo#PAX_Prime_2010" title="wikipedia:Penny Arcade Expo">Penny Arcade Expo</a> <a href="../_/2010.md" title="2010">2010</a> exhibit
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=kDnwgqLiLFs" rel="noreferrer noopener" target="_blank">Untold Story</a></td>
 <td>1:22</td>
 <td>17 November 2010</td>
-<td>Phác thảo cốt truyện với nhiều cảnh quay khác nhau về các địa điểm
+<td>Outline of plot with various shots of locations
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=6k1WUJj5IgU" rel="noreferrer noopener" target="_blank">Snowblind Tolkien Toast 2011</a></td>
 <td>1:22</td>
 <td>3 January 2011</td>
-<td>Không có trò chơi; <a href="../B/Birthday_Toast.md#Tolkien_Society_tradition" title="Birthday Toast">chúc mừng sinh nhật</a> của Snowblind
+<td>No gameplay; Snowblind&#39;s <a href="../B/Birthday_Toast.md#Tolkien_Society_tradition" title="Birthday Toast">birthday toast</a>
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=q8E9I_9YY4s" rel="noreferrer noopener" target="_blank">The Black Númenórean</a></td>
 <td>1:59</td>
 <td>1 February 2011</td>
-<td>Khám phá <a href="../A/Agandaûr.md" title="Agandaûr">Agandaûr</a>, nhân vật phản diện của trò chơi
+<td>Exploration of <a href="../A/Agandaûr.md" title="Agandaûr">Agandaûr</a>, the game&#39;s antagonist
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=vmuewonJQ04" rel="noreferrer noopener" target="_blank">Behind the Scenes: The Untold Story</a></td>
 <td>2:38</td>
 <td>17 February 2011</td>
-<td>Sơ lược về một số địa điểm của trò chơi
+<td>Outline of the several locations of the game
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=hNOAPFrUQ6I" rel="noreferrer noopener" target="_blank">Brutal Combat Trailer</a></td>
 <td>1:35</td>
 <td>9 March 2011</td>
-<td>Tổng hợp lối chơi chiến đấu của The War in the North
+<td>Coverage of The War in the North&#39;s combat gameplay
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=IwCJYeNBSV8" rel="noreferrer noopener" target="_blank">Pax East Hands-On</a></td>
 <td>0:52</td>
 <td>16 March 2011</td>
-<td>Đưa tin về triển lãm <a class="extiw" href="http://en.wikipedia.org/wiki/Penny_Arcade_Expo#PAX_East_2011" title="wikipedia:Penny Arcade Expo">Penny Arcade Expo</a> <a href="../_/2011.md" title="2011">2011</a>
+<td>Coverage of <a class="extiw" href="http://en.wikipedia.org/wiki/Penny_Arcade_Expo#PAX_East_2011" title="wikipedia:Penny Arcade Expo">Penny Arcade Expo</a> <a href="../_/2011.md" title="2011">2011</a> exhibit
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=YXPDZanJO4o" rel="noreferrer noopener" target="_blank">Blood and Steel: The Combat of War in the North</a></td>
 <td>2:33</td>
 <td>31 March 2011</td>
-<td>Khám phá hệ thống chiến đấu của trò chơi và mặt tối của <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a>
+<td>Exploration of game&#39;s combat and <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>&#39;s darker side
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=Upa4XNEkGac" rel="noreferrer noopener" target="_blank">Combat Vignette</a></td>
 <td>0:44</td>
 <td>13 April 2011</td>
-<td>Họa tiết trò chơi bao gồm các phong cách chiến đấu khác nhau
+<td>Gameplay vignette covering the different combat styles
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=oFsfq_CiCsc" rel="noreferrer noopener" target="_blank">Gameplay Video: Mount Gundabad</a></td>
 <td>2:28</td>
 <td>5 May 2011</td>
-<td>Khám phá lối chơi trong <a href="../G/Gundabad.md" title="Gundabad">Gundabad</a>
+<td>Exploration of the gameplay in <a href="../G/Gundabad.md" title="Gundabad">Gundabad</a>
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=ftN5lcwLCAg" rel="noreferrer noopener" target="_blank">Snowblind Studio Tour</a></td>
 <td>2:42</td>
 <td>11 May 2011</td>
-<td>Không có trò chơi; Hướng dẫn qua studio của Snowblind
+<td>No gameplay; A guide through Snowblind&#39;s studio
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=RKu_v_NH7Ro" rel="noreferrer noopener" target="_blank">Dev Video: Art Direction Process</a></td>
 <td>2:09</td>
 <td>11 May 2011</td>
-<td>Bảo hiểm nghệ thuật, bao gồm cả nghệ thuật khái niệm của một số địa điểm
+<td>Coverage of art, including concept art of several locations
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=YZoCGgyJFXU" rel="noreferrer noopener" target="_blank">Prepare for War: Weapon Development</a></td>
 <td>2:01</td>
 <td>12 May 2011</td>
-<td>Bảo hiểm vũ khí
+<td>Coverage of weapons
 </td></tr>
 <tr>
-<td><a class="external text" href="http://www.youtube.com/watch?v=2YTAhYUzMz4" rel="noreferrer noopener" target="_blank">Anh hùng sẽ trỗi dậy</a></td>
+<td><a class="external text" href="http://www.youtube.com/watch?v=2YTAhYUzMz4" rel="noreferrer noopener" target="_blank">Heroes will Rise</a></td>
 <td>1:36</td>
 <td>1 June 2011</td>
-<td>Đoạn giới thiệu giới thiệu
+<td>Teaser trailer
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=d117As-YYU8" rel="noreferrer noopener" target="_blank">Beleram Gameplay Trailer</a></td>
 <td>0:48</td>
 <td>22 June 2011</td>
-<td>Khám phá <a href="../B/Beleram.md" title="Beleram">Beleram</a>, một trong những nhân vật chính của trò chơi
+<td>Exploration of <a href="../B/Beleram.md" title="Beleram">Beleram</a>, one of the games’ main characters
 </td></tr>
 <tr>
-<td><a class="external text" href="http://www.youtube.com/watch?v=ksRj9JUoEmc" rel="noreferrer noopener" target="_blank">Hậu trường với những anh hùng mới</a></td>
+<td><a class="external text" href="http://www.youtube.com/watch?v=ksRj9JUoEmc" rel="noreferrer noopener" target="_blank">Behind the Scenes with new heroes</a></td>
 <td>2:14</td>
 <td>24 June 2011</td>
-<td>Thông tin về một số nhân vật
+<td>Coverage of some of the several characters
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=3QKeawNFowM" rel="noreferrer noopener" target="_blank">E3 Walkthrough</a></td>
 <td>2:34</td>
 <td>1 July 2011</td>
-<td>Hướng dẫn chơi game tại <a class="extiw" href="http://en.wikipedia.org/wiki/Electronic_Entertainment_Expo" title="wikipedia:Electronic Entertainment Expo">Electronic Entertainment Expo</a> (E3)
+<td>Walkthrough of the game at <a class="extiw" href="http://en.wikipedia.org/wiki/Electronic_Entertainment_Expo" title="wikipedia:Electronic Entertainment Expo">Electronic Entertainment Expo</a> (E3)
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=AYbdkAIpE1s" rel="noreferrer noopener" target="_blank">Movie Touchpoints Trailer</a></td>
 <td>2:04</td>
 <td>7 July 2011</td>
-<td>Đoạn giới thiệu trò chơi; sử dụng các đoạn trong <a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>
+<td>Game trailers; uses fragments from <a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a>
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=BCQ_yFKD0Vg" rel="noreferrer noopener" target="_blank">Fellowship Trailer</a></td>
 <td>2:00</td>
 <td>20 July 2011</td>
-<td>Đoạn giới thiệu giới thiệu
+<td>Teaser trailer
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.warinthenorth.com/champions/" rel="noreferrer noopener" target="_blank">Champions Trailer</a></td>
 <td></td>
 <td>August 2011</td>
-<td>Đoạn giới thiệu tương tác
+<td>Interactive trailer
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=SA3XbulIiEg" rel="noreferrer noopener" target="_blank">I Love The Lord of the Rings</a></td>
 <td>2:34</td>
 <td>8 September 2011</td>
-<td>Một video dành cho nhà phát triển với Jason Olander, người kể về tình yêu của mình dành cho <a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a> và cách áp dụng tình yêu đó vào công việc của mình
+<td>A dev video with Jason Olander, who tells about his love for <a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a> and how it applies at his work
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=M2hcwd_CbRI" rel="noreferrer noopener" target="_blank">Power of Three</a></td>
 <td>1:35</td>
 <td>23 September 2011</td>
-<td>Trailer điện ảnh tập trung vào các nhân vật chính: <a href="../E/Eradan_(video_game_character).md" title="Eradan (video game character)">Eradan</a>, <a href="../A/Andriel.md" title="Andriel">Andriel</a> và <a href="../F/Farin_(video_game_character).md" title="Farin (video game character)">Farin</a>
+<td>Cinematic trailer focussing on the main characters: <a href="../E/Eradan_(video_game_character).md" title="Eradan (video game character)">Eradan</a>, <a href="../A/Andriel.md" title="Andriel">Andriel</a> and <a href="../F/Farin_(video_game_character).md" title="Farin (video game character)">Farin</a>
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=PrUlKRvzWrs" rel="noreferrer noopener" target="_blank">Behind the Scenes - Power of Three</a></td>
 <td>2:34</td>
 <td>29 September 2011</td>
-<td>Tập trung vào ba nhân vật chính, <a href="../E/Eradan_(video_game_character).md" title="Eradan (video game character)">Eradan</a>, <a href="../A/Andriel.md" title="Andriel">Andriel</a> và <a href="../F/Farin_(video_game_character).md" title="Farin (video game character)">Farin</a>. Cũng bao gồm việc hợp tác và giới thiệu chế độ Thử thách lần đầu tiên
+<td>Focusses on the three main characters, <a href="../E/Eradan_(video_game_character).md" title="Eradan (video game character)">Eradan</a>, <a href="../A/Andriel.md" title="Andriel">Andriel</a> and <a href="../F/Farin_(video_game_character).md" title="Farin (video game character)">Farin</a>. Also covers co-up and introduces Challenge mode for the first time
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=JipmtK2bD0E" rel="noreferrer noopener" target="_blank">Eradan Character Vignette</a></td>
 <td>1:48</td>
 <td>18 October</td>
-<td>Đoạn giới thiệu hoàn toàn dành riêng cho <a href="../E/Eradan_(video_game_character).md" title="Eradan (video game character)">Eradan</a>, nhân vật <a href="../D/Dúnedain.md" title="Dúnedain">Dúnadan</a>/<a href="../M/Men.md" title="Men">Con người</a>
+<td>Trailer totally dedicated to <a href="../E/Eradan_(video_game_character).md" title="Eradan (video game character)">Eradan</a>, the <a href="../D/Dúnedain.md" title="Dúnedain">Dúnadan</a>/<a href="../M/Men.md" title="Men">Human</a> character
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=eL-IHf4wB3w" rel="noreferrer noopener" target="_blank">Farin Character Vignette</a></td>
 <td>1:48</td>
 <td>21 October 2011</td>
-<td>Trailer hoàn toàn dành riêng cho <a href="../F/Farin_(video_game_character).md" title="Farin (video game character)">Farin</a>, nhân vật <a href="../D/Dwarves.md" title="Dwarves">Người Lùn</a>
+<td>Trailer totally dedicated to <a href="../F/Farin_(video_game_character).md" title="Farin (video game character)">Farin</a>, the <a href="../D/Dwarves.md" title="Dwarves">Dwarf</a> character
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=5mBBXe5vuxo" rel="noreferrer noopener" target="_blank">Andriel Character Vignette</a></td>
 <td>1:48</td>
 <td>21 October 2011</td>
-<td>Đoạn giới thiệu hoàn toàn dành riêng cho <a href="../A/Andriel.md" title="Andriel">Andriel</a>, nhân vật <a href="../E/Elves.md" title="Elves">Tiên</a>
+<td>Trailer totally dedicated to <a href="../A/Andriel.md" title="Andriel">Andriel</a>, the <a href="../E/Elves.md" title="Elves">Elf</a> character
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=_gP-_r27n9Y" rel="noreferrer noopener" target="_blank">Fight Together or Die Alone!</a></td>
 <td>1:12</td>
 <td>28 October 2012</td>
-<td>Đoạn giới thiệu teaser cuối cùng, có nhiều nhân vật và địa điểm của trò chơi
+<td>Final teaser trailer, featuring many characters and locations of the game
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=jYnVnQ9OAig" rel="noreferrer noopener" target="_blank">G4 Exclusive - Slay the Orcs</a></td>
 <td>2:55</td>
 <td>3 November 2011</td>
-<td>Đánh giá về <i><a class="extiw" href="http://en.wikipedia.org/wiki/X-Play" title="wikipedia:X-Play">X-play</a></i>, bao gồm các cuộc phỏng vấn với các diễn viên của <a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)">The Lord of the Rings films</a>
+<td>Review of <i><a class="extiw" href="http://en.wikipedia.org/wiki/X-Play" title="wikipedia:X-Play">X-play</a></i>, includes interviews with actors of <a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)">The Lord of the Rings films</a>
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=r6fBComKGsw" rel="noreferrer noopener" target="_blank">Love of Middle-earth</a></td>
 <td>5:13</td>
 <td>4 November 2011</td>
-<td>Phỏng vấn các diễn viên và học giả về Chiến tranh phương Bắc, <i>The Lord of the Rings</i> và Trung Địa
+<td>Interviews with actors and scholars about War in the North, <i>The Lord of the Rings</i> and Middle-earth
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=2BjJSm3WwpY" rel="noreferrer noopener" target="_blank">Slay the Orcs</a></td>
 <td>5:12</td>
 <td>4 November 2011</td>
-<td>Phỏng vấn các diễn viên và học giả về Chiến tranh phương Bắc, <i>The Lord of the Rings</i> và Trung Địa
+<td>Interviews with actors and scholars about War in the North, <i>The Lord of the Rings</i> and Middle-earth
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=pa3b3wyLJD0" rel="noreferrer noopener" target="_blank">The Legend of the Rings</a></td>
 <td>5:27</td>
 <td>4 November 2011</td>
-<td>Phỏng vấn các diễn viên và học giả về Chiến tranh phương Bắc, <i>The Lord of the Rings</i> và Trung Địa
+<td>Interviews with actors and scholars about War in the North, <i>The Lord of the Rings</i> and Middle-earth
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=UQ2ziyUPXfg" rel="noreferrer noopener" target="_blank">The New Fellowship</a></td>
 <td>5:29</td>
 <td>4 November 2011</td>
-<td>Phỏng vấn các diễn viên và học giả về Chiến tranh phương Bắc, <i>The Lord of the Rings</i> và Trung Địa
+<td>Interviews with actors and scholars about War in the North, <i>The Lord of the Rings</i> and Middle-earth
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=VojHFM5qAwc" rel="noreferrer noopener" target="_blank">Combat Tactics: Dodging Tharzog</a></td>
 <td>1:18</td>
 <td>29 November 2011</td>
-<td>Video hướng dẫn cách dùng “Dodging” để đánh bại <a href="Tharzog.md" title="Tharzog">Tharzog</a> ở Chương 1: Fornost
+<td>Video expaining how to use &#34;Dodging&#34; to defeat <a href="Tharzog.md" title="Tharzog">Tharzog</a> in Chapter 1: Fornost
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=duZa_cG9EsM" rel="noreferrer noopener" target="_blank">Combat Tactics: Siege of Nordinbad</a></td>
 <td>1:21</td>
 <td>8 December 2011</td>
-<td>Video hướng dẫn cách phòng thủ cổng trong <i>Siege of Nordinbad</i>
+<td>Video expaining how to defend the gate in <i>Siege of Nordinbad</i>
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=Ya9ccKBK-R8" rel="noreferrer noopener" target="_blank">Combat Tactics—Sanctuary at Barrow-downs</a></td>
 <td>1:50</td>
 <td>19 December 2011</td>
-<td>Video hướng dẫn cách sử dụng kỹ năng "Thánh địa" của Andriel để hoàn thành Chương 2: Barrow Downs
+<td>Video expaining how to use Andriel&#39;s &#34;Sanctuary&#34; skill to complete Chapter 2: Barrow Downs
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.youtube.com/watch?v=M_uUYaGn2Ug" rel="noreferrer noopener" target="_blank">Combat Tactics—Evasion at Mirkwood</a></td>
 <td>1:50</td>
 <td>23 January 2012</td>
-<td>Video hướng dẫn cách sử dụng kỹ năng "Né tránh" của Eradan để hoàn thành Chương 5: Mirkwood
+<td>Video expaining how to use Eradan&#39;s &#34;Evasion&#34; skill to complete Chapter 5: Mirkwood
 </td></tr></tbody></table>
 
 ## Thư viện {#Gallery}
@@ -657,15 +657,15 @@ Kể từ thông báo đầu tiên vào tháng 3 năm 2010, Warner Bros. đã đ
 
 Ngày phát hành đầu tiên của War in the North là [1 tháng 11](../_/1_November.md) [2011](../_/2011.md) ở Bắc Mỹ và ngày phát hành ở Vương quốc Anh là [25 tháng 11](../_/25_November.md) [2011](../_/2011.md).<sup id="cite_ref-FAQ_Regions_Release_3-2" class="reference"><a href="#cite_note-FAQ_Regions_Release-3">[3]</a></sup> Tất cả ngày phát hành đều là trong năm 2011.
 
-<table class="TGtable" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; margin: 0 auto;"><tbody><tr><td style="background: #F2E6CE;"><b>Region</b></td><td style="background: #F2E6CE;"><b>Ngày phát hành</b><sup id="cite_ref-FAQ_Regions_Release_3-3" class="reference"><a href="#cite_note-FAQ_Regions_Release-3">[3]</a></sup></td></tr>
+<table class="TGtable" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; margin: 0 auto;"><tbody><tr><td style="background: #F2E6CE;"><b>Region</b></td><td style="background: #F2E6CE;"><b>Release date</b><sup id="cite_ref-FAQ_Regions_Release_3-3" class="reference"><a href="#cite_note-FAQ_Regions_Release-3">[3]</a></sup></td></tr>
 <tr><td>North America</td><td>1 November</td></tr>
 <tr><td>Africa</td><td>4 November</td></tr>
 <tr><td>Middle East</td><td>4 November</td></tr>
 <tr><td>Low Countries</td><td>4 November</td></tr>
 <tr><td>Ireland</td><td>4 November</td></tr>
-<tr><td>Nam Âu (trừ Tây Ban Nha)</td><td>4 November</td></tr>
-<tr><td>Đông Âu (trừ Nga)</td><td>4 November</td></tr>
-<tr><td>Nam Mỹ (trừ Brazil)</td><td>4 November</td></tr>
+<tr><td>Southern Europe (except Spain)</td><td>4 November</td></tr>
+<tr><td>Eastern Europe (except Russia)</td><td>4 November</td></tr>
+<tr><td>South America (except Brazil)</td><td>4 November</td></tr>
 <tr><td>Northern Europe</td><td>8 November</td></tr>
 <tr><td>Germany</td><td>9 November</td></tr>
 <tr><td>Russia</td><td>9 November</td></tr>
@@ -673,20 +673,20 @@ Ngày phát hành đầu tiên của War in the North là [1 tháng 11](../_/1_N
 <tr><td>Spain</td><td>11 November</td></tr>
 <tr><td>Australia and New Zealand</td><td>16 November</td></tr>
 <tr><td>Brazil</td><td>17 November</td></tr>
-<tr><td>Vương quốc Anh</td><td>25 November</td></tr>
-<tr><td>Châu Á (trừ Trung phương Đông và Nga)</td><td>Không rõ</td></tr>
+<tr><td>United Kingdom</td><td>25 November</td></tr>
+<tr><td>Asia (except Middle East and Russia)</td><td>Unknown</td></tr>
 </tbody></table>
 
 <h3><span id="Collector.27s_Edition"></span><span class="mw-headline" id="Collector&#39;s_Edition">Collector&#39;s Edition</span></h3>
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTR-WITN-Collector&#39;s_Edition.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/38/LOTR-WITN-Collector%27s_Edition.png/150px-LOTR-WITN-Collector%27s_Edition.png" decoding="async" loading="lazy" width="150" height="201" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/38/LOTR-WITN-Collector%27s_Edition.png/225px-LOTR-WITN-Collector%27s_Edition.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/38/LOTR-WITN-Collector%27s_Edition.png/300px-LOTR-WITN-Collector%27s_Edition.png 2x" data-file-width="620" data-file-height="832"/></a><figcaption>Phiên bản sưu tầm của <b>The Lord of the Rings: War in the North</b>.</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTR-WITN-Collector&#39;s_Edition.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/38/LOTR-WITN-Collector%27s_Edition.png/150px-LOTR-WITN-Collector%27s_Edition.png" decoding="async" loading="lazy" width="150" height="201" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/38/LOTR-WITN-Collector%27s_Edition.png/225px-LOTR-WITN-Collector%27s_Edition.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/38/LOTR-WITN-Collector%27s_Edition.png/300px-LOTR-WITN-Collector%27s_Edition.png 2x" data-file-width="620" data-file-height="832"/></a><figcaption>The collector&#39;s edition of <b>The Lord of the Rings: War in the North</b>.</figcaption></figure>
 
 Bên cạnh phiên bản bình thường của trò chơi, phiên bản sưu tầm sẽ được phát hành. Phiên bản dành cho nhà sưu tập này sẽ bao gồm một cuốn sách nghệ thuật, một DVD ca nhạc hậu trường, một hộp đựng máy rung cũng như quyền truy cập vào các gubbins kỹ thuật số: biểu tượng, hình đại diện và chủ đề. Một số nhà bán lẻ cung cấp thêm các tiện ích bổ sung. Cả Phiên bản sưu tập và các tiện ích bổ sung đặc biệt sẽ có sẵn ở Bắc Mỹ và Châu Âu; vẫn chưa biết liệu nó có được bán ở những nơi khác trên thế giới hay không.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[40]</a></sup>
 
 ## Lễ tân {#Reception}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Đây là một trò chơi rất đẹp mắt với những đoạn cắt cảnh được lồng tiếng hay và đặt vương quốc Chúa tể những chiếc nhẫn hấp dẫn vào tay một nhà phát triển có chứng chỉ RPG vững chắc. Người hâm mộ của cả hai đều có lý do chính đáng để mong chờ một tác phẩm độc đáo trong bộ truyện.
+<p>It&#39;s a very handsome game with well-voiced cutscenes, and places the compelling Lord of the Rings realm in the hands of a developer with solid RPG credentials. Fans of both have good reason to look forward to a unique entry in the series.
 </p>
 <p class="tg-quote-footer"><cite><a class="external text" href="http://www.kotaku.com" rel="noreferrer noopener" target="_blank">Kotaku</a><sup id="cite_ref-Kotaku_Party_5-2" class="reference"><a href="#cite_note-Kotaku_Party-5">[5]</a></sup></cite></p>
 </blockquote>
@@ -808,7 +808,7 @@ Các nhà bình luận ngay lập tức ghi nhận trải nghiệm của Snowbli
 
 <table style="margin: 0 auto; width: 100%;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Trò chơi điện tử được cấp phép lấy bối cảnh ở <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed video games set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </th></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="center"> <a href="../M/Melbourne_House.md" title="Melbourne House">Melbourne House</a>:
@@ -841,7 +841,7 @@ Các nhà bình luận ngay lập tức ghi nhận trải nghiệm của Snowbli
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>) · <i><b><a class="mw-selflink selflink">War in the North</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>) · <i><b><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>-<a href="../_/2018.md" title="2018">2018</a>) · <i><b><a href="The_Hobbit%253A_Kingdoms_of_Middle-earth.md" title="The Hobbit: Kingdoms of Middle-earth">Kingdoms of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>)· <i><b><a href="The_Hobbit%253A_Armies_of_The_Third_Age.md" title="The Hobbit: Armies of The Third Age">Armies of The Third Age</a></b></i> (<a href="../_/2013.md" title="2013">2013</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Shadow of Mordor</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Shadow of War</a></b></i> (<a href="../_/2017.md" title="2017">2017</a>) · <i><b><a href="The_Lord_of_the_Rings%253A_Rise_to_War.md" title="The Lord of the Rings: Rise to War">Rise to War</a></b></i> (<a href="../_/2021.md" title="2021">2021</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center">Glu Games:
+<th style="background:var(--tg-color-surface-3);" align="center"> Glu Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Middle-Earth_Defense.md" title="The Lord of the Rings: Middle-Earth Defense">Middle-Earth Defense</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>)
 </td></tr>
@@ -851,7 +851,7 @@ Các nhà bình luận ngay lập tức ghi nhận trải nghiệm của Snowbli
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: The Video Game</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) · <i><b><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center">Twin Sails Interactive:
+<th style="background:var(--tg-color-surface-3);" align="center"> Twin Sails Interactive:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">The Lord of the Rings: Adventure Card Game</a></b></i> (<a href="../_/2018.md" title="2018">2018</a>)
 </td></tr>
@@ -861,7 +861,7 @@ Các nhà bình luận ngay lập tức ghi nhận trải nghiệm của Snowbli
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center">North Beach Games:
+<th style="background:var(--tg-color-surface-3);" align="center"> North Beach Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Return to Moria</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr></tbody></table>

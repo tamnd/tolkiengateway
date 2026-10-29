@@ -17,31 +17,31 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Gió bắc <br/>
-Của những cơn cảm lạnh tai hại <br/>
-Đêm vĩnh cửu <br/>
-Của ánh sáng phương Bắc <br/>
+<p>The northern winds <br/>
+Of baneful colds <br/>
+Forever night <br/>
+Of northern lights <br/>
 <br/>
-Ngày xưa <br/>
-Vương quốc của Morgoth trong Northern Waste <br/>
-Mối đe dọa lớn đối với con của Arda <br/>
-Cuộc chiến Phẫn nộ nó sẽ trở thành <br/>
+In the Elder Days <br/>
+Morgoth&#39;s realm in Northern Waste <br/>
+Great threat to Arda&#39;s child <br/>
+The War of Wrath it to become <br/>
 <br/>
-Thế kỷ chiến đấu đơn độc <br/>
-Hy vọng cuối cùng, sự trợ giúp thần thánh <br/>
-Người bảo vệ thế giới <br/>
-Vị thần công lý và ánh sáng <br/>
-Đến và đánh bại kẻ <br/>
-Bậc thầy của sự bất hòa <br/>
+Centuries of forlorn fight <br/>
+Last hope, the aid divine <br/>
+Guardian of the world <br/>
+Gods of justice and light <br/>
+Came and defeated the one <br/>
+The master of disharmony <br/>
 <br/>
-Tất cả đều rực cháy bởi vinh quang của cánh tay <br/>
-Tiếng kèn vang khắp trời <br/>
-Morgoth bị trục xuất khỏi Trung Địa <br/>
-Triều đại của hắn sẽ không bao giờ trỗi dậy nữa <br/>
+All ablaze by the glory of their arms <br/>
+Swell of the trumpets filled the sky <br/>
+Morgoth banished from the Middle-earth <br/>
+His reign, never shall rise again <br/>
 <br/>
-Ngày xưa <br/>
-Vương quốc của Morgoth trong Northern Waste <br/>
-Tàn tích duy nhất từ xa xưa <br/>
-Bởi cuộc chiến của các vị thần<br/>
+In the Elder Days <br/>
+Morgoth&#39;s realm in Northern Waste <br/>
+Only ruin from the ancient times <br/>
+By the battle of the Gods<br/>
 </p>
 </div>

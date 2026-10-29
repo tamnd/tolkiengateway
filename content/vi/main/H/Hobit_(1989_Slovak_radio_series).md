@@ -44,11 +44,11 @@ Một trong những thay đổi không thể bỏ sót trong tập đầu tiên 
 
 Tập thứ hai của loạt phim ngắn trên đài phỏng theo phần lớn các chương đặt sau Thorin và công ty kết thúc việc thông qua [Dãy Núi Sương Mù](../M/Misty_Mountains.md).
 
-Những thiếu sót lớn bao gồm [Beorn](../B/Beorn.md) và việc công ty ở lại nhà ông, cũng như tất cả sự xuất hiện của [những con nhện khổng lồ](../S/Spiders.md) của [Mirkwood](../M/Mirkwood.md). [Bard the Bowman](../B/Bard_the_Bowman.md) cũng vắng mặt trong câu chuyện và không đề cập đến [Mũi tên đen](../B/Black_Arrow~68980.md), nhưng Smaug vẫn bị [Con Người của Thị trấn Hồ](../L/Lake-men.md) giết chết sau khi bị một mũi tên đâm vào một điểm dễ bị tổn thương trên cơ thể. Sự xuất hiện của Thị trấn Hồ và cuộc tấn công sau đó của Smaug vào nó được tóm tắt nhanh chóng trong suốt câu chuyện và về cơ bản không có nhân vật nào khác biệt với Thị trấn Hồ trong phiên bản radio này.
+Những thiếu sót lớn bao gồm [Beorn](../B/Beorn.md) và việc công ty ở lại nhà ông ta, cũng như tất cả sự xuất hiện của [những con nhện khổng lồ](../S/Spiders.md) của [Mirkwood](../M/Mirkwood.md). [Bard the Bowman](../B/Bard_the_Bowman.md) cũng vắng mặt trong câu chuyện và không đề cập đến [Mũi tên đen](../B/Black_Arrow~68980.md), nhưng Smaug vẫn bị [Con Người của Thị trấn Hồ](../L/Lake-men.md) giết chết sau khi bị một mũi tên đâm vào một điểm dễ bị tổn thương trên cơ thể. Sự xuất hiện của Thị trấn Hồ và cuộc tấn công sau đó của Smaug vào nó được tóm tắt nhanh chóng trong suốt câu chuyện và về cơ bản không có nhân vật nào khác biệt với Thị trấn Hồ trong phiên bản radio này.
 
 Ngoài những con nhện khổng lồ vắng mặt, hầu hết các cuộc phiêu lưu và việc bị giam cầm tạm thời của công ty trong Vương quốc Rừng đều được chuyển thể một cách trung thực. Điều này bao gồm việc họ bị Tiên-vua thẩm vấn, Bilbo lén lút đưa những người lùn ra khỏi nhà tù, vượt qua những người canh gác yêu tinh đang say rượu và chất những người lùn vào thùng để trốn thoát thành công.
 
-Trong Trận chiến của năm đội quân, quân tiếp viện của người lùn từ Dãy Đồi Sắt, do Dáin Chân Sắt chỉ huy, hoàn toàn không xuất hiện và cũng không được nhắc đến. Vở kịch trên đài miêu tả Thorin và đại đội của anh lao thẳng vào chiến đấu với lũ yêu tinh tiến đến Ngọn núi đã được khai hoang, có lẽ là chiến đấu với lũ yêu tinh cùng với Mirkwood Tiên tộc và Người Hồ. (Trong phần tường thuật không bao giờ nêu rõ lý do tại sao Tiên tộc và Người Hồ đột nhiên quên mất họ muốn chia sẻ kho báu từ Erebor và tại sao họ đột nhiên liên minh với Thorin và những người lùn. Có lẽ, họ đã chọn thân thiện với những người lùn trước sự tiến công của đội quân yêu tinh. Vở kịch nhất quán ngụ ý rằng Thorin và những người bạn đồng hành của ông đủ sức đánh bại đội quân yêu tinh, và thậm chí cả bọn yêu tinh. Con Người và Tiên tộc !)
+Trong Trận chiến của năm đội quân, quân tiếp viện của người lùn từ Dãy Đồi Sắt, do Dáin Chân Sắt chỉ huy, hoàn toàn không xuất hiện và cũng không được nhắc đến. Vở kịch trên đài miêu tả Thorin và đại đội của anh lao thẳng vào chiến đấu với lũ yêu tinh tiến đến Ngọn núi đã được khai hoang, có lẽ là chiến đấu với lũ yêu tinh cùng với Mirkwood Tiên tộc và Người Hồ. (Trong phần tường thuật không bao giờ nêu rõ lý do tại sao Tiên tộc và Người Hồ đột nhiên quên mất họ muốn chia sẻ kho báu từ Erebor và tại sao họ đột nhiên liên minh với Thorin và những người lùn. Có lẽ, họ đã chọn thân thiện với những người lùn trước sự tiến công của đội quân yêu tinh. Vở kịch nhất quán ngụ ý rằng Thorin và những người bạn đồng hành của ông ta đủ sức đánh bại đội quân yêu tinh, và thậm chí cả bọn yêu tinh. Con Người và Tiên tộc !)
 
 Đại Đại Bàng, vắng mặt trong toàn bộ vở kịch trên đài, cũng không xuất hiện trong Trận chiến của năm đạo quân (cũng như bình luận "Những con đại bàng đang đến..." của Bilbo). Trận chiến, giống như phần lớn nửa sau của tập thứ hai, được cô đọng rất nhiều, mặc dù có chứa một số phần quan trọng của câu chuyện. Tuy nhiên, những vết thương của Thorin, cuộc trò chuyện chia tay với Bilbo và cái chết sau đó sau trận chiến đều được chuyển thể rất chân thực.
 
@@ -56,8 +56,8 @@ Trong Trận chiến của năm đội quân, quân tiếp viện của người
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Vai trò</th>
-<th>Diễn viên
+<th>Role</th>
+<th>Actor
 </th></tr>
 <tr>
 <td><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a></td>
@@ -73,15 +73,15 @@ Trong Trận chiến của năm đội quân, quân tiếp viện của người
 </td></tr>
 <tr>
 <td><a href="../T/Thorin_and_Company.md" title="Thorin and Company">Dwarves of <br/> Thorin&#39;s Company</a></td>
-<td>Boris Farkaš <br/> Marián Zednikovič <br/> Alfréd Swan <br/> khác nhau (không xác định)
+<td>Boris Farkaš <br/> Marián Zednikovič <br/> Alfréd Swan <br/>  various (not specified)
 </td></tr>
 <tr>
 <td><a class="mw-redirect" href="../W/William.md" title="William">William</a>, <a class="mw-redirect" href="../B/Bert.md" title="Bert">Bert</a> <br/> and <a class="mw-redirect mw-disambig" href="../T/Tom.md" title="Tom">Tom</a></td>
 <td>Peter Debnár <br/> Vlado Černý <br/> Ivan Gogál
 </td></tr>
 <tr>
-<td><a href="../G/Great_Goblin.md" title="Great Goblin">Đại yêu tinh</a></td>
-<td>diễn viên không được công nhận <br/> (có vẻ là Karol Čálik)
+<td><a href="../G/Great_Goblin.md" title="Great Goblin">Great Goblin</a></td>
+<td>uncredited actor <br/> (apparently Karol Čálik)
 </td></tr>
 <tr>
 <td><a href="../G/Gollum.md" title="Gollum">Gollum</a></td>
@@ -100,7 +100,7 @@ Trong Trận chiến của năm đội quân, quân tiếp viện của người
 <td>Ivan Krivosudský
 </td></tr>
 <tr>
-<td>Giọng nói bổ sung <br/> và giọng nói nền</td>
+<td>Additional voices <br/> and background voices</td>
 <td>Peter Rúfus <br/> Vlado Černý <br/> Pavol Topoľský <br/> Maroš Kramár
 </td></tr></tbody></table>
 
@@ -108,7 +108,7 @@ Gandalf của Karol Machata cũng đóng vai trò là người kể chuyện ch�
 
 Những người lùn trong Công ty của Thorin không được công nhận và người phát thanh của họ không dễ dàng nhận ra họ do nhiều người trong số họ có giọng nói bị biến đổi một chút. Có thể một số người lùn được đóng bởi một diễn viên duy nhất, chỉ có một nhóm nhỏ diễn viên của vở kịch đóng vai tất cả mười ba người lùn.
 
-[Elrond](../E/Elrond.md) và Rivendell Tiên tộc, [Chúa tể Đại Bàng](../L/Lord_of_the_Eagles.md), [Beorn](../B/Beorn.md), [Bard the Bowman](../B/Bard_the_Bowman.md), [Bậc thầy của Thị trấn Hồ](../M/Master_of_Lake-town.md), [Bolg](../B/Bolg.md) và [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) không xuất hiện trong phiên bản radio này.
+[Elrond](../E/Elrond.md) và Rivendell Tiên tộc, [Chúa tể của Đại Bàng](../L/Lord_of_the_Eagles.md), [Beorn](../B/Beorn.md), [Bard the Bowman](../B/Bard_the_Bowman.md), [Bậc thầy của Thị trấn Hồ](../M/Master_of_Lake-town.md), [Bolg](../B/Bolg.md) và [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) không xuất hiện trong phiên bản radio này.
 
 ## Tín dụng {#Credits}
 
@@ -154,7 +154,7 @@ Hình thức và cách phát âm tên của Bilbo và của một số người 
 
 Mẹ của Bilbo, Belladona Took, được đổi tên thành Belladona Buková ("Belladona Beech-tree"), chứ không phải là Belladona Berková trong bản dịch của Krupa (trong đó họ Took là họ Berko), hoặc Belladona Bralová tương tự, xuất hiện trong cả bản dịch tiếng Séc của Pošustová và bản dịch tiếng Slovak của Kořínek (trong cả hai bản dịch, họ Took đều là họ Bral).
 
-Gollum tương đối ít được nhắc đến bởi biệt danh của ông trong đoạn "Những câu đố trong bóng tối" của câu chuyện. Khi ông được đặt tên (chủ yếu theo lời kể của Gandalf trong phần tóm tắt bắt đầu tập thứ hai), ông được gọi là "Glom-glum" hoặc "Glum-glum".
+Gollum tương đối ít được nhắc đến bởi biệt danh của ông ta trong đoạn "Những câu đố trong bóng tối" của câu chuyện. Khi ông được đặt tên (chủ yếu theo lời kể của Gandalf trong phần tóm tắt bắt đầu tập thứ hai), ông được gọi là "Glom-glum" hoặc "Glum-glum".
 
 Một trong những khác biệt đặc biệt nhất về mặt thuật ngữ xảy ra với việc đặt tên cho các yêu tinh trong các miniseries. Trong bản dịch tiếng Séc của cả Vrba và Pošustová, *skřet* và số nhiều *skřeti* (đại khái là "yêu tinh đáng sợ", "yêu tinh độc ác") là những thuật ngữ không chỉ được sử dụng cho yêu tinh trong *The Hobbit* mà còn cho loài orc trong *The Lord of the Rings*, *The Silmarillion* và các tác phẩm khác trong Legendarium. Bản dịch tiếng Slovakia của Krupa và Kořínek về *The Hobbit* dịch thẳng ra yêu tinh là *škriatkovia* ("yêu tinh"), trong bản dịch của Kořínek đôi khi cũng là *škrati* ("yêu tinh xấu xí", "yêu tinh độc ác"). Bản dịch Tolkien duy nhất khác của Krupa là *Roverandom* nhiều thập kỷ sau, và bản dịch tiếng Slovak của Kořínek về các tác phẩm khác trong Legendarium có thuật ngữ riêng dành cho "orc". Trong bản chuyển thể *The Hobbit* trên đài phát thanh Slovakia năm 1989, yêu tinh trong bản gốc không bao giờ được dịch là yêu tinh, dù ở dạng tiếng Séc hay tiếng Slovak hơn của thuật ngữ này. Thay vào đó, chúng được dịch là *škrekovia*, nghĩa đen là "tiếng rít". Đây có vẻ giống như một bản dịch hài hước có chủ ý và phù hợp với các diễn viên lồng tiếng yêu tinh, những người mang đến cho họ những giọng nói rít lên, giận dữ và cáu kỉnh.
 

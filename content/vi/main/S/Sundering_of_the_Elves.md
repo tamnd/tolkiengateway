@@ -57,31 +57,31 @@ Những Tiên tộc đã hoàn thành hành trình đến Aman – Vanyar, Noldo
 
 Sau [Tắt Valinor](../D/Darkening_of_Valinor.md), hầu hết Noldor quay trở lại Trung Địa với [Fëanor](../F/Fëanor.md) và một số vẫn ở đó cho đến hết [Kỷ Đệ Tam](../T/Third_Age.md). Những người này được gọi là **[Những người lưu vong](../E/Exile_of_the_Noldor.md)** và họ sống gần Sindar trong suốt thời gian còn lại ở Trung Địa. Những Sindar bị xúc phạm bởi tên gọi "Moriquendi", vì vậy những người lưu vong thường gọi họ là **[Úmanyar](../_/Úmanyar.md)** ("Những người không thuộc Aman"). Theo thời gian, việc sử dụng thuật ngữ này ngày càng bao gồm tất cả những người Tiên tộc đã bắt đầu trên Đại Hành Trình nhưng không hoàn thành nó. Những người lưu vong tự gọi họ và những người vẫn còn sống ở Valinor là **[Amanyar](../A/Amanyar.md)** ("Những người của Aman").
 
-<figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Sundering_of_the_Elves.svg.md"><img alt="A chart of the Sundering of the Elves" src="https://tolkiengateway.net/w/images/6/6a/The_Sundering_of_the_Elves.svg" decoding="async" loading="lazy" width="950" height="600" class="mw-file-element" data-file-width="2347" data-file-height="1483"/></a><figcaption>Biểu đồ phân chia Tiên tộc</figcaption></figure>
+<figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Sundering_of_the_Elves.svg.md"><img alt="A chart of the Sundering of the Elves" src="https://tolkiengateway.net/w/images/6/6a/The_Sundering_of_the_Elves.svg" decoding="async" loading="lazy" width="950" height="600" class="mw-file-element" data-file-width="2347" data-file-height="1483"/></a><figcaption>A chart of the Sundering of the Elves</figcaption></figure>
 
 ### Thingol {#Thingol}
 
-Thingol là một ngoại lệ đối với sự trùng lặp thông thường của các danh mục Calaquendi với Amanyar và Moriquendi với Úmanyar. Điều này là do ông là một trong ba Tiên đại sứ ban đầu của Valinor và đã nhìn thấy ánh sáng của Hai Cây, nhưng không hoàn thành Đại Hành Trình và chưa bao giờ cư trú tại Valinor. Như vậy, riêng anh vừa là Calaquendë vừa là Úmanya.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Thingol là một ngoại lệ đối với sự trùng lặp thông thường của các danh mục Calaquendi với Amanyar và Moriquendi với Úmanyar. Điều này là do ông ta là một trong ba Tiên đại sứ ban đầu của Valinor và đã nhìn thấy ánh sáng của Hai Cây, nhưng không hoàn thành Đại Hành Trình và chưa bao giờ cư trú tại Valinor. Như vậy, riêng anh vừa là Calaquendë vừa là Úmanya.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Cuộc hội ngộ của Tiên tộc {#Reunions_of_the_Elves}
 
 Trong những khu rừng rộng lớn của Trung Địa, một số dân tộc mới đã được sinh ra từ liên minh các bộ lạc đã từng bị chia cắt.
 
-### Tiên tộc Silvan {#Silvan_Elves}
+### Silvan Tiên tộc {#Silvan_Elves}
 
-**[Tiên tộc Silvan](Silvan_Elves.md)** là một bộ tộc tổng hợp gồm Nandor và Avari xuất hiện trong các khu rừng [Wilderland](../R/Rhovanion.md) (đặc biệt là [Eryn Galen](../E/Eryn_Galen.md) và [Lindórinand](../L/Lindórinand.md)) trước khi Kỷ Đệ Nhất kết thúc.
+**[Silvan Tiên tộc](Silvan_Elves.md)** là một bộ tộc tổng hợp gồm Nandor và Avari xuất hiện trong các khu rừng [Wilderland](../R/Rhovanion.md) (đặc biệt là [Eryn Galen](../E/Eryn_Galen.md) và [Lindórinand](../L/Lindórinand.md)) trước khi Kỷ Đệ Nhất kết thúc.
 
 Nandor đã sống trong những khu rừng bao bọc các thung lũng phía trên của Anduin kể từ khi họ quay trở lại từ Đại Hành Trình. Theo thời gian, các bộ lạc Avarin Tiên tộc lan rộng về phía tây từ Cuiviénen cũng đến được Anduin, nơi họ đoàn tụ với Nandorin họ hàng của mình. Những dân tộc này thực tế đã "trở nên hợp nhất với nhau."<sup id="cite_ref-WJ380_1-3" class="reference"><a href="#cite_note-WJ380-1">[1]</a></sup>
 
-Đến cuối Kỷ Đệ Nhất, một số Tiên tộc Silvan đã di cư đến tận phía nam như [Ethir Anduin](../E/Ethir_Anduin.md) và [Edhellond](../E/Edhellond.md).
+Đến cuối Kỷ Đệ Nhất, một số Silvan Tiên tộc đã di cư đến tận phía nam như [Ethir Anduin](../E/Ethir_Anduin.md) và [Edhellond](../E/Edhellond.md).
 
 ### Galadhrim {#Galadhrim}
 
-**Galadhrim** ("Người cây")<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> là một bộ tộc tổng hợp gồm Tiên tộc Silvan, Sindar và Noldor xuất hiện trong khu rừng [Lindórinand](../L/Lindórinand.md) ở [Kỷ Đệ Nhị](Second_Age.md). Không rõ chính xác khi nào cư dân của Lindórinand bắt đầu tự gọi mình là "Galadhrim", nhưng cái tên này bao gồm nhiều Tiên tộc có nguồn gốc đa dạng đã đến Lindórinand trong nhiều làn sóng nhập cư.
+**Galadhrim** ("Người cây")<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> là một bộ tộc tổng hợp gồm Silvan Tiên tộc, Sindar và Noldor xuất hiện trong khu rừng [Lindórinand](../L/Lindórinand.md) ở [Kỷ Đệ Nhị](Second_Age.md). Không rõ chính xác khi nào cư dân của Lindórinand bắt đầu tự gọi mình là "Galadhrim", nhưng cái tên này bao gồm nhiều Tiên tộc có nguồn gốc đa dạng đã đến Lindórinand trong nhiều làn sóng nhập cư.
 
-Sau khi [chìm tàu ​​ Beleriand](../W/War_of_Wrath.md), những người Tiên tộc từng sống ở đó không muốn rời đi Valinor đã phải tìm nơi ở mới. Những người Sindar và Laiquendi thích rừng hơn bờ biển (hoặc những người muốn tránh xa những Noldorin Người lưu vong còn lại) đã đi về phía đông để đoàn tụ với những người thân Silvan của họ sống trong những khu rừng lớn Eryn Galen và Lindórinand. Ở cả hai vương quốc rừng rậm, Tiên tộc Silvan bản địa đã lấy Sindar làm vua của họ ([Oropher](../O/Oropher.md) và [Amdír](../A/Amdír.md), tương ứng) và trải qua quá trình "Sindarization" khi họ tiếp thu văn hóa của những người nhập cư Beleriandic. Cũng có Noldorin người nhập cư vào vùng rừng vào thời điểm này, mặc dù rõ ràng là ít có tác động văn hóa hơn so với Sindar.<sup id="cite_ref-Galadriel_6-0" class="reference"><a href="#cite_note-Galadriel-6">[6]</a></sup>
+Sau khi [chìm tàu ​​ Beleriand](../W/War_of_Wrath.md), những người Tiên tộc từng sống ở đó không muốn rời đi Valinor đã phải tìm nơi ở mới. Những người Sindar và Laiquendi thích rừng hơn bờ biển (hoặc những người muốn tránh xa những Noldorin Người lưu vong còn lại) đã đi về phía đông để đoàn tụ với những người thân Silvan của họ sống trong những khu rừng lớn Eryn Galen và Lindórinand. Ở cả hai vương quốc rừng rậm, Silvan Tiên tộc bản địa đã lấy Sindar làm vua của họ ([Oropher](../O/Oropher.md) và [Amdír](../A/Amdír.md), tương ứng) và trải qua quá trình "Sindarization" khi họ tiếp thu văn hóa của những người nhập cư Beleriandic. Cũng có Noldorin người nhập cư vào vùng rừng vào thời điểm này, mặc dù rõ ràng là ít có tác động văn hóa hơn so với Sindar.<sup id="cite_ref-Galadriel_6-0" class="reference"><a href="#cite_note-Galadriel-6">[6]</a></sup>
 
-Tách biệt khỏi Eryn Galen, Lindórinand trải qua làn sóng nhập cư lớn thứ hai sau [Cuộc cướp phá Eregion](Sack_of_Eregion.md) vào [S.A.](Second_Age.md) [1697](Second_Age_1697.md). Nhiều Tiên tộc ở Eregion, chủ yếu là Noldor,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> đã trốn thoát [Sauron](Sauron.md) bằng cách chạy trốn qua [Khazad-dûm](../K/Khazad-dûm.md) và xuất hiện từ phía đông của Dãy Núi Sương Mù ngay trước cửa nhà Amdír. Một số đi xuống Anduin đến Edhellond để khởi hành Trung Địa, nhưng những người khác vẫn ở lại vương quốc của Amdír và cư trú ở đó.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Vào thời điểm [Galadriel](../G/Galadriel.md) và [Celeborn](../C/Celeborn.md) nhận [Chúa và Quý bà](../L/Lord_and_Lady_of_Lórien.md) của vương quốc ở [T.A.](../T/Third_Age.md) [1981](../T/Third_Age_1981.md), Galadhrim đã tiếp nhận triệt để những Noldorin người tị nạn này vào của họ văn hóa; không còn đề cập nào nữa về họ như những dân tộc riêng biệt trong Tiên tộc Lórien.
+Tách biệt khỏi Eryn Galen, Lindórinand trải qua làn sóng nhập cư lớn thứ hai sau [Cuộc cướp phá Eregion](Sack_of_Eregion.md) vào [S.A.](Second_Age.md) [1697](Second_Age_1697.md). Nhiều Tiên tộc của Eregion, chủ yếu là Noldor,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> đã trốn thoát [Sauron](Sauron.md) bằng cách chạy trốn qua [Khazad-dûm](../K/Khazad-dûm.md) và xuất hiện từ phía đông của Dãy Núi Sương Mù ngay trước cửa nhà Amdír. Một số đi xuống Anduin đến Edhellond để khởi hành Trung Địa, nhưng những người khác vẫn ở lại vương quốc của Amdír và cư trú ở đó.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Vào thời điểm [Galadriel](../G/Galadriel.md) và [Celeborn](../C/Celeborn.md) nhận [Chúa và Quý bà](../L/Lord_and_Lady_of_Lórien.md) của vương quốc ở [T.A.](../T/Third_Age.md) [1981](../T/Third_Age_1981.md), Galadhrim đã tiếp nhận triệt để những Noldorin người tị nạn này vào của họ văn hóa; không còn đề cập nào nữa về họ như những dân tộc riêng biệt trong Tiên tộc của Lórien.
 
 ## Tỷ lệ Elvish tộc {#Ratio_of_Elvish_clans}
 
@@ -95,7 +95,7 @@ Theo các nhà sử học Noldorin, tỷ lệ (trong số 144) Tiên tộc ngư�
 </th>
 <th colspan="2">Eldar
 </th>
-<th rowspan="2">Tổng số
+<th rowspan="2">Total
 </th></tr>
 <tr>
 <th>Úmanyar
@@ -124,7 +124,7 @@ Theo các nhà sử học Noldorin, tỷ lệ (trong số 144) Tiên tộc ngư�
 <td>74
 </td></tr>
 <tr>
-<th>Tổng số</th>
+<th>Total</th>
 <th>56</th>
 <th>26</th>
 <th>62</th>
@@ -140,15 +140,15 @@ Cũng trong khoảng thời gian đó, hoặc có lẽ sớm hơn (1959) Tolkien
 <table class="wikitable">
 <tbody><tr>
 <th>Scheme</th>
-<th>Tổng số</th>
+<th>Total</th>
 <th>Avari</th>
 <th>Vanyar</th>
 <th>Noldor</th>
 <th>Teleri</th>
-<th>Khác
+<th>Other
 </th></tr>
 <tr>
-<td>Tháng Ba không tên<sup id="cite_ref-march_10-0" class="reference"><a href="#cite_note-march-10">[10]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:56</sup></td>
+<td>&#34;March&#34; unnamed<sup id="cite_ref-march_10-0" class="reference"><a href="#cite_note-march-10">[10]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:56</sup></td>
 <td>15,000</td>
 <td>5,000</td>
 <td>1,000</td>
@@ -156,13 +156,13 @@ Cũng trong khoảng thời gian đó, hoặc có lẽ sớm hơn (1959) Tolkien
 <td>5,500
 </td></tr>
 <tr>
-<td>Tháng Ba không tên<sup id="cite_ref-march_10-1" class="reference"><a href="#cite_note-march-10">[10]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:56</sup></td>
+<td>&#34;March&#34; unnamed<sup id="cite_ref-march_10-1" class="reference"><a href="#cite_note-march-10">[10]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:56</sup></td>
 <td>29,000</td>
 <td>9,060 (~ 9000)</td>
 <td>2,000</td>
 <td>7,000</td>
 <td>11,000</td>
-<td>Tại <a href="../A/Atyamar.md" title="Atyamar">Ayamar</a> tổng dân số Eldar là 28.000 người, với 13.000 Teleri, trong đó 3.000 trở thành <a href="../N/Nandor.md" title="Nandor">Nandor</a>
+<td>At <a href="../A/Atyamar.md" title="Atyamar">Atyamar</a> the total Eldar population was 28,000, with 13,000 Teleri, of which 3,000 became <a href="../N/Nandor.md" title="Nandor">Nandor</a>
 </td></tr>
 <tr>
 <td>&#34;Increase&#34; Text 1<sup id="cite_ref-increase_11-0" class="reference"><a href="#cite_note-increase-11">[11]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:108</sup></td>
@@ -171,7 +171,7 @@ Cũng trong khoảng thời gian đó, hoặc có lẽ sớm hơn (1959) Tolkien
 <td>2,100</td>
 <td>8,400</td>
 <td>11,100</td>
-<td>1/3 của Minyar trở thành Avari
+<td>1/3 of Minyar become Avari
 </td></tr>
 <tr>
 <td>&#34;Generation&#34; Scheme 1<sup id="cite_ref-generation_12-0" class="reference"><a href="#cite_note-generation-12">[12]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:123</sup></td>
@@ -183,7 +183,7 @@ Cũng trong khoảng thời gian đó, hoặc có lẽ sớm hơn (1959) Tolkien
 </td></tr>
 <tr>
 <td>&#34;Generation&#34; Scheme 2<sup id="cite_ref-generation_12-1" class="reference"><a href="#cite_note-generation-12">[12]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:123</sup></td>
-<td>48.232 (48.168 có lỗ)</td>
+<td>48,232 (48,168 with losses)</td>
 <td>16,056</td>
 <td>3,122 (3,100)</td>
 <td>12,488 (12,400)</td>
@@ -260,12 +260,12 @@ Cũng trong khoảng thời gian đó, hoặc có lẽ sớm hơn (1959) Tolkien
 <td style="font-size: 90%;"> <a href="../_/Úmanyar.md" title="Úmanyar">Úmanyar</a> · <a href="../A/Avari.md" title="Avari">Avari</a> <small><i>(<a href="../C/Cuind.md" title="Cuind">Cuind</a> · <a href="../H/Hwenti.md" title="Hwenti">Hwenti</a> · <a href="../K/Kindi.md" title="Kindi">Kindi</a> · <a href="../K/Kinn-lai.md" title="Kinn-lai">Kinn-lai</a> · <a href="../P/Penni.md" title="Penni">Penni</a> · <a href="../W/Windan.md" title="Windan">Windan</a>)</i></small>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">Các thế hệ:
+<th style="background:var(--tg-color-surface-3);" align="right">Generations:
 </th>
 <td style="font-size: 90%;"> <i><a href="../E/Eru-begotten.md" title="Eru-begotten">Eru-begotten</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=First-begotten&amp;action=edit&amp;redlink=1" title="First-begotten (page does not exist)">First-begotten</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Elves&amp;action=edit&amp;redlink=1" title="Third Elves (page does not exist)">Third Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Younger_Elves&amp;action=edit&amp;redlink=1" title="Younger Elves (page does not exist)">Younger Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Generations&amp;action=edit&amp;redlink=1" title="Generations (page does not exist)">further Generations</a></i>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><i>Xem thêm:</i>
+<th style="background:var(--tg-color-surface-3);" align="right"><i>See also:</i>
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Awakening_of_the_Elves.md" title="Awakening of the Elves">Awakening of the Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Finding_by_Orom%C3%AB&amp;action=edit&amp;redlink=1" title="Finding by Oromë (page does not exist)">Finding by Oromë</a></i> · <i><a class="mw-selflink selflink">Sundering of the Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Three_Ambassadors&amp;action=edit&amp;redlink=1" title="Three Ambassadors (page does not exist)">Embassy</a></i> · <i><a href="../G/Great_Journey.md" title="Great Journey">Great Journey</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Dark_Years_of_the_Avari&amp;action=edit&amp;redlink=1" title="Dark Years of the Avari (page does not exist)">Dark Years of the Avari</a></i>
 </td></tr></tbody></table>

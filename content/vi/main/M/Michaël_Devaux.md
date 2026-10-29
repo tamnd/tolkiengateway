@@ -22,7 +22,7 @@ sort_keys:
   "Tolkien Society members": "Devaux, Michael"
 ---
 
-**Michaël Devaux** có bằng tiến sĩ tại Sorbonne với mối quan tâm đặc biệt đến lịch sử triết học và siêu hình học của Leibniz. Ông là biên tập viên của *Bibliographie Cartésienne 1960-1996* cùng với Jean-Robert Armogathe và Vincent Carraud, và đã viết nhiều bài báo về lịch sử triết học thế kỷ XVII cũng như các nghiên cứu về Tolkien. Ông là chủ tịch của [Hội Tolkien Pháp](../L/L'association_La_Compagnie_de_la_Comté.md) (2011: không còn tồn tại), đồng thời là biên tập viên của *La Feuille de la Compagnie*, người thu thập các nghiên cứu về Tolkien do Ad Solem xuất bản. Ông đã giảng dạy về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở Pháp, Hà Lan và Ý.
+**Michaël Devaux** có bằng tiến sĩ tại Sorbonne với mối quan tâm đặc biệt đến lịch sử triết học và siêu hình học của Leibniz. Ông là biên tập viên của *Bibliographie Cartésienne 1960-1996* cùng với Jean-Robert Armogathe và Vincent Carraud, và đã viết nhiều bài báo về lịch sử triết học thế kỷ XVII cũng như các nghiên cứu về Tolkien. Ông là chủ tịch của [Hiệp hội Tolkien Pháp](../L/L'association_La_Compagnie_de_la_Comté.md) (2011: không còn tồn tại), đồng thời là biên tập viên của *La Feuille de la Compagnie*, người thu thập các nghiên cứu về Tolkien do Ad Solem xuất bản. Ông đã giảng dạy về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở Pháp, Hà Lan và Ý.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -57,12 +57,12 @@ sort_keys:
 <th align="center" style="background:var(--tg-color-surface-5)" colspan="2">La Feuille de la Compagnie
 </th></tr>
 <tr>
-<th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;">Số phát hành
+<th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;">Issues
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../L/La_Feuille_de_la_Compagnie_1.md" title="La Feuille de la Compagnie 1">1</a> · <a href="../L/La_Feuille_de_la_Compagnie_2.md" title="La Feuille de la Compagnie 2">2</a> · <a href="../L/La_Feuille_de_la_Compagnie_3.md" title="La Feuille de la Compagnie 3">3</a>
 </td></tr>
 <tr>
-<th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;">Họ hàng
+<th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;">Relatives
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a class="mw-selflink selflink">Michaël Devaux</a>, <a href="../L/L&#39;association_La_Compagnie_de_la_Comté.md" title="L&#39;association La Compagnie de la Comté">L'association La Compagnie de la Comté</a> (không còn tồn tại)
+<td style="font-size: 90%; padding-left: 4px;"><a class="mw-selflink selflink">Michaël Devaux</a>, <a href="../L/L&#39;association_La_Compagnie_de_la_Comté.md" title="L&#39;association La Compagnie de la Comté">L&#39;association La Compagnie de la Comté</a> (defunct)
 </td></tr></tbody></table>

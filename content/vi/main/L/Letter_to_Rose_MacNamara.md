@@ -26,7 +26,7 @@ Vào ngày [12 tháng Chín](../_/12_September.md) [1966](../_/1966.md), [J.R.R.
 ## Bản ghi {#Transcript}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Rose thân yêu của tôi,<br/><br/>Tôi được biết từ người mẹ thân yêu của bạn rằng bạn đã tuyên khấn lần cuối, và tôi gửi cho bạn lời chúc mừng (một lời nói yếu ớt, than ôi!), và những lời chúc tốt đẹp nhất: Tôi nên bày tỏ lòng ngưỡng mộ sâu sắc và trân trọng cũng như cảm giác vinh dự được biết bạn và vẫn được bạn nhớ đến. Xin Chúa phù hộ cho bạn trong tất cả những ngày bạn sống trên trái đất - bây giờ thật bất hạnh, mặc dù tôi nghĩ nó thường (hoặc thường) khá bất hạnh, nếu có lẽ chưa bao giờ gặp nguy hiểm lớn như vậy. Mẹ của bạn có lẽ đã nói với bạn rằng con trai cả của tôi, <a href="../J/John_Tolkien.md" title="John Tolkien">Cha John</a>, đã cử hành một thánh lễ (tiếng Latinh) cho người cha thân yêu của bạn, và tôi đã phục vụ nó. Hãy dành cho tôi một lời cầu nguyện từ thiện ngọt ngào của bạn: Tôi có nhu cầu.<br/><br/>Xin chân thành<br/><br/>JRR Tolkien
+<p>My dear Rose,<br/><br/>I hear from your dear mother that you made your final profession, and I send you my congratulations (a weak word alas!), and best wishes: I should say my deep and respectful admiration, and sense of privilege in having known you and being still remembered by you. God bless you in all your days on earth – now so unhappy, though I think it has often (or usually) been quite as unhappy, if perhaps never in such great peril. Your mother has perhaps told you that my eldest son, <a href="../J/John_Tolkien.md" title="John Tolkien">Fr John</a>, said a (Latin) mass for your dear father, and I served it. Spare me a prayer of your sweet charity: I have need.<br/><br/>Yours very sincerely<br/><br/>JRR Tolkien
 </p>
 </blockquote>
 

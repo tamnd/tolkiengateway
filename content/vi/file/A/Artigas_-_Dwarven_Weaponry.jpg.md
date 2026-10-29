@@ -27,7 +27,7 @@ file:
 
 ## Mô tả {#Description}
 
-"Người Lùn Vũ khí", của Artigas.
+"Người lùn Vũ khí", của Artigas.
 
 ## Giấy phép {#Licensing}
 

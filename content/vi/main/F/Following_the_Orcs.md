@@ -25,7 +25,7 @@ infobox:
     value: "Whiteskins Attack"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1978_film)_-_Following_the_Orcs.png.md"><img src="https://tolkiengateway.net/w/images/thumb/5/56/The_Lord_of_the_Rings_%281978_film%29_-_Following_the_Orcs.png/320px-The_Lord_of_the_Rings_%281978_film%29_-_Following_the_Orcs.png" decoding="async" loading="lazy" width="320" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/56/The_Lord_of_the_Rings_%281978_film%29_-_Following_the_Orcs.png/480px-The_Lord_of_the_Rings_%281978_film%29_-_Following_the_Orcs.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/56/The_Lord_of_the_Rings_%281978_film%29_-_Following_the_Orcs.png/640px-The_Lord_of_the_Rings_%281978_film%29_-_Following_the_Orcs.png 2x" data-file-width="707" data-file-height="398"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Cảnh trong <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Following the Orcs</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Cảnh</th><td class="tg-infobox-data">25</td></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">5:12</td></tr><tr><th scope="row" class="tg-infobox-label">Sự kiện</th><td class="tg-infobox-data"><a href="../T/Three_Hunters.md" title="Three Hunters">Ba Thợ Săn</a> đuổi theo <a href="../O/Orcs.md" title="Orcs">Orc</a> qua <a href="../R/Rohan.md" title="Rohan">Rohan</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><i>Borimir&#39;s Sacrifice</i></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><i>Whiteskins Attack</i></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1978_film)_-_Following_the_Orcs.png.md"><img src="https://tolkiengateway.net/w/images/thumb/5/56/The_Lord_of_the_Rings_%281978_film%29_-_Following_the_Orcs.png/320px-The_Lord_of_the_Rings_%281978_film%29_-_Following_the_Orcs.png" decoding="async" loading="lazy" width="320" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/56/The_Lord_of_the_Rings_%281978_film%29_-_Following_the_Orcs.png/480px-The_Lord_of_the_Rings_%281978_film%29_-_Following_the_Orcs.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/56/The_Lord_of_the_Rings_%281978_film%29_-_Following_the_Orcs.png/640px-The_Lord_of_the_Rings_%281978_film%29_-_Following_the_Orcs.png 2x" data-file-width="707" data-file-height="398"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Scene from <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Following the Orcs</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Scene</th><td class="tg-infobox-data">25</td></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">5:12</td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data"><a href="../T/Three_Hunters.md" title="Three Hunters">Three Hunters</a> chase <a href="../O/Orcs.md" title="Orcs">Orcs</a> through <a href="../R/Rohan.md" title="Rohan">Rohan</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><i>Borimir&#39;s Sacrifice</i></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><i>Whiteskins Attack</i></td></tr></tbody></table>
 
 <i><b>Tiếp theo Orc</b></i> là cảnh thứ 25 của [bộ phim năm 1978 *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1978_film).md>)*.*
 
@@ -33,20 +33,20 @@ infobox:
 
 Trong khi chiếc thuyền chở [Boromir](../B/Boromir.md) trôi trên sông, [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) bàn bạc xem phải làm gì: đi chiếc thuyền cuối cùng, hoặc đi theo Orc. Mặc dù Legolas lập luận rằng [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) rất có thể đã chết, Aragorn phản bác rằng số phận của Người Mang Nhẫn không còn nằm trong tay họ nữa: [Đoàn Hộ Nhẫn](Fellowship_of_the_Ring.md) đã phục vụ mục đích của nó. Họ đuổi theo Orc.
 
-Orc có một khoảng cách nào đó với chúng. Merry và Pippin buộc phải chạy cùng họ và bị đánh đòn trên đường đi. Pippin bị ngã và một đội trưởng Orc đã mắng mỏ ông vì điều đó. Sau đó, ông mời [Grishnákh](../G/Grishnákh.md) đi uống nước và khi Grishnakh không trả lời đủ nhanh, đã xô ngã ông. Ông đưa đồ uống cho những người hobbit, những người không mấy hài lòng với mùi vị của nó. Thuyền trưởng giải thích rằng họ sẽ không được cung cấp chỗ ngủ hoặc bữa sáng cho đến khi đến nơi [Isengard](../I/Isengard.md).
+Orc có một khoảng cách nào đó với chúng. Merry và Pippin buộc phải chạy cùng họ và bị đánh đòn trên đường đi. Pippin bị ngã và một đội trưởng Orc đã mắng mỏ ông ta vì điều đó. Sau đó, ông ta mời [Grishnákh](../G/Grishnákh.md) đi uống nước và khi Grishnakh không trả lời đủ nhanh, đã xô ngã ông ta. Ông ta đưa đồ uống cho những người hobbit, những người không mấy hài lòng với mùi vị của nó. Thuyền trưởng giải thích rằng họ sẽ không được cung cấp chỗ ngủ hoặc bữa sáng cho đến khi đến nơi [Isengard](../I/Isengard.md).
 
-Aragorn tìm thấy [chiếc trâm](../E/Elven_brooches.md), bị đánh rơi bởi Pippin. Ông suy luận rằng đội quân của Orc còn gần một ngày nữa và ít nhất một trong số Hobbit vẫn còn sống. Ông hỏi những người bạn đồng hành của mình xem nên ở lại qua đêm hay tiếp tục cuộc săn lùng. Legolas thích tiếp tục, Gimli thích nghỉ ngơi. Khi biết họ sẽ không nghỉ ngơi, Gimli kêu lên "Tôi không thể chạy hết quãng đường đến Isengard!"
+Aragorn tìm thấy [chiếc trâm](../E/Elven_brooches.md), bị đánh rơi bởi Pippin. Ông ta suy luận rằng đội quân của Orc còn gần một ngày nữa và ít nhất một trong số Hobbit vẫn còn sống. Ông ta hỏi những người bạn đồng hành của mình xem nên ở lại qua đêm hay tiếp tục cuộc săn lùng. Legolas thích tiếp tục, Gimli thích nghỉ ngơi. Khi biết họ sẽ không nghỉ ngơi, Gimli kêu lên "Tôi không thể chạy hết quãng đường đến Isengard!"
 
 ## Truyền {#Cast}
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Vai trò</th>
-<th>Diễn viên
+<th>Role</th>
+<th>Actor
 </th></tr>
 <tr>
 <td><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></td>
-<td><a href="../J/John_Hurt.md" title="John Hurt">John Hurt</a> (giọng nói)
+<td><a href="../J/John_Hurt.md" title="John Hurt">John Hurt</a> (voice)
 </td></tr>
 <tr>
 <td><a href="../L/Legolas.md" title="Legolas">Legolas</a></td>
@@ -66,11 +66,11 @@ Aragorn tìm thấy [chiếc trâm](../E/Elven_brooches.md), bị đánh rơi b�
 </td></tr>
 <tr>
 <td><a class="mw-redirect" href="../G/Grishnakh.md" title="Grishnakh">Grishnakh</a></td>
-<td>Không xác định
+<td>Unspecified
 </td></tr>
 <tr>
 <td>Orc Captain</td>
-<td>Không xác định
+<td>Unspecified
 </td></tr></tbody></table>
 
 ## Sự khác biệt so với nguồn tài liệu {#Differences_from_source_material}

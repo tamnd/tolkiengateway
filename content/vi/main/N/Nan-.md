@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Nan</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Nan_(disambiguation).md" title="Nan (disambiguation)">Nan (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Nan</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Nan_(disambiguation).md" title="Nan (disambiguation)">Nan (disambiguation)</a></b>.</div></div>
 
 <i><b>nan-</b></i> là tiền tố [Quenya](../Q/Quenya.md) có nghĩa là "ngược" hoặc chỉ "ngược".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup><sup id="cite_ref-PE_2-0" class="reference"><a href="#cite_note-PE-2">[2]</a></sup>
 

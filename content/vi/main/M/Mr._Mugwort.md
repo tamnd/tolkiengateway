@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Mr._Mugwort"
 content_sha256: c5e237fc4d96764f6e4a0dbe28b30180de2819d28494e96a09f22a63b5f35d37
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Bree-hobbit khách của The Prancing Pony"
+short_description: "Bree-hobbit visitor of The Prancing Pony"
 categories:
   - "Characters in The Lord of the Rings"
   - "Hobbits"
@@ -21,7 +21,7 @@ infobox:
     value: "Bree, The Prancing Pony"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mugwort</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../B/Bree.md" title="Bree">Bree</a>, <a href="../T/The_Prancing_Pony.md" title="The Prancing Pony">The Prancing Pony</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mugwort</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Bree.md" title="Bree">Bree</a>, <a href="../T/The_Prancing_Pony.md" title="The Prancing Pony">The Prancing Pony</a></td></tr></tbody></table>
 
 **Ông. Mugwort** là một [hobbit](../B/Bree-hobbits.md) của [Bree](../B/Bree.md).
 

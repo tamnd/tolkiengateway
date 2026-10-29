@@ -17,7 +17,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>một từ <a href="../E/Elvish.md" title="Elvish">Elvish</a></b>. Đối với ký tự trong <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, xem <b><a href="Brand.md" title="Brand">Brand</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>an <a href="../E/Elvish.md" title="Elvish">Elvish</a> word</b>. For the character in <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, see <b><a href="Brand.md" title="Brand">Brand</a></b>.</div></div>
 
 ## Sindarin {#Sindarin}
 

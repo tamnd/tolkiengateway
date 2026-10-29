@@ -28,7 +28,7 @@ Vào [10 tháng 1](../_/10_January.md) [1958](../_/1958.md), [J.R.R. Tolkien](..
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Chúc mừng sinh nhật của bạn nhiều lần! Tôi đã không đạt được P. Office ngày hôm nay, nếu không lẽ ra tôi phải gửi cho bạn một khoản đóng góp nhỏ (với mức bob một năm!). Tuy nhiên, tôi đã yêu cầu bố cậu làm điều đó thay mặt tôi. Yêu ông nhiều lắm, &amp; Tôi hy vọng học kỳ tới sẽ tốt hơn thường lệ.<br/><br/>Ông nội của ông
+<p>Many Happy Returns of your birthday! I failed to reach the P. Office today, or I should have sent you a small contribution (at the rate of a bob a year!). However, I have asked your father to do so on my behalf. Very much love to you, &amp; I hope next term will prove better than usual.<br/><br/>Your Grandfather
 </p>
 </blockquote>
 

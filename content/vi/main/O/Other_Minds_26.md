@@ -26,7 +26,7 @@ infobox:
     value: "77"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 26</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên gần nhất</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Hawke Robinson</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Tình nguyện viên Other Minds</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">December <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">77</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 26</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Hawke Robinson</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">December <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">77</td></tr></tbody></table>
 
 <b><i>Other Minds</i> 26</b> là số thứ 26 của *[Other Minds](Other_Minds.md)*, một tạp chí dành riêng cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng 12 năm 2022.
 
@@ -40,7 +40,7 @@ infobox:
     - Bởi Thomas Morwinsky
 - "Học 'Phép thuật' trong Trò chơi nhập vai lấy bối cảnh ở Trung Địa"
     - Bởi Thomas Morwinsky
-- "Tuần Du Nhân phương Bắc"
+- "Biệt đội miền Bắc"
     - Bởi [Gabriele Quaglia](../G/Gabriele_Quaglia.md)
 - "Đánh giá: [Tàn tích của Vương quốc đã mất](../R/Ruins_of_the_Lost_Realm.md)"
     - Bởi Thomas Morwinsky

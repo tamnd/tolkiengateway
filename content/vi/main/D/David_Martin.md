@@ -22,9 +22,9 @@ infobox:
     value: "Artist"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>David L. Martin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nghệ sĩ</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>David L. Martin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
-**David Martin** là một nghệ sĩ. Vào những năm 1990, ông được [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền tạo tác phẩm nghệ thuật thiệp cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.
+**David Martin** là một nghệ sĩ. Vào những năm 1990, ông được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền tạo tác phẩm nghệ thuật thiệp cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.
 
 ## Xem thêm {#See_also}
 

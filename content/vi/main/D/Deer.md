@@ -32,11 +32,11 @@ Thuật ngữ Sindarin <i><a class="new" href="https://tolkiengateway.net/w/inde
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>Trong Bản mở rộng của bộ phim, khi những người hobbit cắm trại ở rìa <a href="../M/Midgewater_Marshes.md" title="Midgewater Marshes">Đầm lầy Midwater</a>, Aragorn rời xa họ một lúc và trở về vào ban đêm, mang theo một con nai nhỏ mà ông đã săn và bắt được. Con hươu chết dùng để quay cảnh này được mua từ một trang trại New Zealand nuôi hươu bỏ hoang để lấy thịt.</dd></dl>
+<dl><dd>In the Extended Edition of the film, while the hobbits camp at the edge of the <a href="../M/Midgewater_Marshes.md" title="Midgewater Marshes">Midgewater Marshes</a>, Aragorn leaves them for a while and returns at night, carrying a small deer he had hunted and caught. The dead deer used for filming the scene was bought from a New Zealand farm raising fallow deer as livestock for meat.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Hươu được tìm thấy ở nhiều nơi trong Trung Địa. Chúng thường không hung dữ, nhưng một số sẽ đánh nhau nếu người chơi đe dọa chúng. Hươu yếu hơn sẽ bỏ chạy khi bị tấn công.</dd></dl>
+<dl><dd>Deer are found in many places of Middle-earth. They are typically not aggressive, but some will fight if the player threatens them. Weaker deer will run away when attacked.</dd></dl>
 
 ## Xem thêm {#See_also}
 

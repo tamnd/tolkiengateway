@@ -23,9 +23,9 @@ sort_keys:
 ## Trích dẫn {#Quotes}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Đó chỉ là 30 giây khó chịu. Tôi muốn có hai tiếng đồng hồ khốn nạn trên màn ảnh rộng.
+<p>That was only 30 seconds of nastiness. I want two hours&#39; worth of nastiness on the big screen.
 </p>
-<p class="tg-quote-footer"><cite>Robbie Magasiva về vai Mauhúr, <a class="external text" href="http://www.listener.co.nz/issue/3442/features/5970/robbie_magasiva.html" rel="noreferrer noopener" target="_blank"><i>New Zealand Listener</i> phỏng vấn</a></cite></p>
+<p class="tg-quote-footer"><cite>Robbie Magasiva on playing Mauhúr, <a class="external text" href="http://www.listener.co.nz/issue/3442/features/5970/robbie_magasiva.html" rel="noreferrer noopener" target="_blank"><i>New Zealand Listener</i> interview</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Liên kết ngoài {#External_links}

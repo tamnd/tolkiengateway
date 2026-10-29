@@ -18,12 +18,12 @@ categories:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Bi, bi og blaka,<br/>
-aptirnar kvaka;<br/>
+alptirnar kvaka;<br/>
 jeg læt seni jeg sofi,<br/>
 en samt mun jeg vaka,<br/>
 <br/>
 Bium, bium bamba;<br/>
-litlu sinh ra lamba.<br/>
+litlu börnin lamba.<br/>
 Fram á fjalla kamba<br/>
 þau fara að leita lamba.
 </p>

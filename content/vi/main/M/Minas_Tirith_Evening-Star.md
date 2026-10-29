@@ -18,13 +18,13 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Minas Tirith</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Minas_Tirith_(disambiguation).md" title="Minas Tirith (disambiguation)">Minas Tirith (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Minas Tirith</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Minas_Tirith_(disambiguation).md" title="Minas Tirith (disambiguation)">Minas Tirith (disambiguation)</a></b>.</div></div>
 
-<i><b>Minas Tirith Evening-Star</b></i> là một ấn phẩm của [Hội Tolkien Hoa Kỳ](../A/American_Tolkien_Society.md).
+<i><b>Minas Tirith Evening-Star</b></i> là một ấn phẩm của [Hiệp hội Tolkien Hoa Kỳ](../A/American_Tolkien_Society.md).
 
 ## Lịch sử {#History}
 
-Tạp chí bắt đầu xuất bản vào năm [1967](../_/1967.md), do <a class="new" href="https://tolkiengateway.net/w/index.php?title=Philip_W._Helms&amp;action=edit&amp;redlink=1" title="Philip W. Helms (page does not exist)">Philip thành lập và biên tập W. Helms</a>. Trong [1975](../_/1975.md), nó hợp nhất với <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter-zine&amp;action=edit&amp;redlink=1" title="Letter-zine (page does not exist)">Letter-zine</a></i>, bản tin của [Hội Tolkien Hoa Kỳ](../A/American_Tolkien_Society.md) mới thành lập và được xuất bản bốn lần một năm cho đến ngày nay.
+Tạp chí bắt đầu xuất bản vào năm [1967](../_/1967.md), do <a class="new" href="https://tolkiengateway.net/w/index.php?title=Philip_W._Helms&amp;action=edit&amp;redlink=1" title="Philip W. Helms (page does not exist)">Philip thành lập và biên tập W. Helms</a>. Trong [1975](../_/1975.md), nó hợp nhất với <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter-zine&amp;action=edit&amp;redlink=1" title="Letter-zine (page does not exist)">Letter-zine</a></i>, bản tin của [Hiệp hội Tolkien Hoa Kỳ](../A/American_Tolkien_Society.md) mới thành lập và được xuất bản bốn lần một năm cho đến ngày nay.
 
 Tạp chí bao gồm các bài viết, thơ ca, bài phê bình, tiểu thuyết của người hâm mộ và tác phẩm nghệ thuật, và chỉ dành riêng cho [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 

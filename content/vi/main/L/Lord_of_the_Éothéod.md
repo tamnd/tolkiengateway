@@ -30,9 +30,9 @@ sort_keys:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Trò chơi này cung cấp tên và những câu chuyện thú vị về tất cả các Lãnh chúa vô danh của Éothéod và họ hàng của họ. Họ là Forthári, Gifica, Gundahári, Gisilhári, Gundahári, Gundáric, Hildáric, Gundobad, Hildigar, Gundolávi, Thíudric, Gunthar, Lóthar, Gundric, Bóra, Maera, Théodric, Haldend, Théodwyne Sternbrow, Frúma, Cendric và Hárda.</dd></dl>
+<dl><dd>This game provides names and interesting backstories for all of the un-named Lords of the Éothéod and their kin. They were Forthári, Gifica, Gundamári, Gisilhári, Gundahári, Gundáric, Hildáric, Gundobad, Hildigar, Gundolávi, Thíudric, Gunthar, Lóthar, Gundric, Bóra, Maera, Théodric, Haldend, Théodwyne Sternbrow, Frúma, Cendric, and Hárda.</dd></dl>
 
 ## Xem thêm {#See_also}
 

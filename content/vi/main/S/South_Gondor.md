@@ -32,7 +32,7 @@ infobox:
     value: "Region"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stephen_Raw_-_Middle-earth_map_(4_of_4).png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ef/Stephen_Raw_-_Middle-earth_map_%284_of_4%29.png/320px-Stephen_Raw_-_Middle-earth_map_%284_of_4%29.png" decoding="async" loading="lazy" width="320" height="199" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ef/Stephen_Raw_-_Middle-earth_map_%284_of_4%29.png/480px-Stephen_Raw_-_Middle-earth_map_%284_of_4%29.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/ef/Stephen_Raw_-_Middle-earth_map_%284_of_4%29.png/640px-Stephen_Raw_-_Middle-earth_map_%284_of_4%29.png 2x" data-file-width="2000" data-file-height="1243"/></a><figcaption>"Bản đồ Harondor và các vùng lân cận"</figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Region</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>South Gondor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data"><i>Harondor</i> (<a href="Sindarin.md" title="Sindarin">S</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Loại</th><td class="tg-infobox-data">Region</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stephen_Raw_-_Middle-earth_map_(4_of_4).png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ef/Stephen_Raw_-_Middle-earth_map_%284_of_4%29.png/320px-Stephen_Raw_-_Middle-earth_map_%284_of_4%29.png" decoding="async" loading="lazy" width="320" height="199" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ef/Stephen_Raw_-_Middle-earth_map_%284_of_4%29.png/480px-Stephen_Raw_-_Middle-earth_map_%284_of_4%29.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/ef/Stephen_Raw_-_Middle-earth_map_%284_of_4%29.png/640px-Stephen_Raw_-_Middle-earth_map_%284_of_4%29.png 2x" data-file-width="2000" data-file-height="1243"/></a><figcaption>&#34;Map of Harondor and neighbouring regions&#34;</figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Region</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>South Gondor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data"><i>Harondor</i> (<a href="Sindarin.md" title="Sindarin">S</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Region</td></tr></tbody></table>
 
 **South Gondor**, được biết đến ở [Sindarin](Sindarin.md) với tên **Harondor**, là một vùng phía nam [Ithilien](../I/Ithilien.md).<sup id="cite_ref-West_1-0" class="reference"><a href="#cite_note-West-1">[1]</a></sup>
 
@@ -42,9 +42,9 @@ Biên giới của South Gondor là [Ethir Anduin](../E/Ethir_Anduin.md)<sup id=
 
 ## Lịch sử {#History}
 
-South Gondor đã bị hấp thụ bởi Gondor trong thời kỳ đỉnh cao sức mạnh của nó, có thể là sự mở rộng của [Tarannon Falastur](../T/Tarannon_Falastur.md), kẻ đã mở rộng sự ảnh hưởng của Gondor dọc theo bờ biển phía tây và phía nam của Cửa sông Anduin<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[5]</a></sup>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[6]</a></sup>
+South Gondor đã bị hấp thụ bởi Gondor trong thời kỳ đỉnh cao sức mạnh của nó, có thể là sự mở rộng của [Tarannon Falastur](../T/Tarannon_Falastur.md), kẻ đã mở rộng sự ảnh hưởng của Gondor dọc theo bờ biển phía tây và phía nam của Miệng Anduin<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[5]</a></sup>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[6]</a></sup>
 
-South Gondor vẫn là một phần của Gondor cho đến [Xung đột họ hàng](../K/Kin-strife~3650.md) sau đó nó trở thành vùng đất gây tranh cãi giữa [Hải tặc Umbar](../C/Corsairs_of_Umbar.md) và [Các Vua Gondor](../K/Kings_of_Gondor.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[7]</a></sup>
+South Gondor vẫn là một phần của Gondor cho đến [Xung đột họ hàng](../K/Kin-strife~3650.md) sau đó nó trở thành vùng đất gây tranh cãi giữa [Hải tặc Umbar](../C/Corsairs_of_Umbar.md) và [Các vị vua của Gondor](../K/Kings_of_Gondor.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[7]</a></sup>
 
 Trong những ngày [Quản lý](../R/Ruling_Stewards.md) [Túrin II](../T/Túrin_II.md), Haradrim đã chiếm đóng South Gondor và có nhiều giao tranh dọc theo [Poros](../P/Poros.md). Khi chúng bắt đầu xâm lược [Ithilien](../I/Ithilien.md), nhiều [Rohirrim](../R/Rohirrim.md) đã đến hỗ trợ Gondor nên Túrin đã giành chiến thắng trước Haradrim tại [Đi qua Poros](../C/Crossings_of_Poros.md)<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[8]</a></sup> ở ([T.A.](../T/Third_Age.md) [2885](../T/Third_Age_2885.md)).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[9]</a></sup>
 
@@ -54,13 +54,13 @@ Tên [Sindarin](Sindarin.md)<sup id="cite_ref-Eldamo_12-0" class="reference"><a 
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-J.R.R. Tolkien đã viết trong ghi chú cho người dịch tiếng Hà Lan của The Lord of the Rings rằng nhãn "South Gondor (Harondor)" trên [Bản đồ tổng quát về Trung Địa](../G/General_Map_of_Middle-earth.md) là một lỗi và nhãn đáng lẽ phải là "Harondor (South Gondor)".<sup id="cite_ref-RC_13-1" class="reference"><a href="#cite_note-RC-13">[11]</a></sup>
+J.R.R. Tolkien đã viết trong ghi chú cho người dịch tiếng Hà Lan của The Lord of the Rings rằng nhãn "South Gondor (Harondor)" trên [Bản đồ chung của Trung Địa](../G/General_Map_of_Middle-earth.md) là một lỗi và nhãn đáng lẽ phải là "Harondor (South Gondor)".<sup id="cite_ref-RC_13-1" class="reference"><a href="#cite_note-RC-13">[11]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 <b><a href="../_/1996.md" title="1996">1996</a>: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Một số khu định cư và địa điểm ở Harondor, lịch sử, địa lý, hệ thực vật và động vật, cư dân, chính trị, quyền lực và chiến thuật được đề cập trong mô-đun MERP <i><a href="Southern_Gondor%253A_The_Land.md" title="Southern Gondor: The Land">Southern Gondor: The Land</a></i>.</dd></dl>
+<dl><dd>Several settlements and sites in Harondor, its history, geography, flora and fauna, inhabitants, politics and power and warcraft are mentioned in the MERP module <i><a href="Southern_Gondor%253A_The_Land.md" title="Southern Gondor: The Land">Southern Gondor: The Land</a></i>.</dd></dl>
 
 ## Ghi chú {#Notes}
 

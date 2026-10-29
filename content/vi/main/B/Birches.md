@@ -24,9 +24,9 @@ Một "bạch dương bạc" ở Sindarin được gọi là *brethil*.<sup id="
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Gỗ của cây này có thể được <i>Westfold</i> người trồng rừng ở <a href="../E/Enedwaith.md" title="Enedwaith">Enedwaith</a>, <a href="../D/Dunland.md" title="Dunland">Dunland</a> và gần <a href="../T/The_Great_River.md" title="The Great River">Đại Hà</a> tìm kiếm.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
+<dl><dd>Wood of this tree can be foraged by <i>Westfold</i> foresters in <a href="../E/Enedwaith.md" title="Enedwaith">Enedwaith</a>, <a href="../D/Dunland.md" title="Dunland">Dunland</a>, and near the <a href="../T/The_Great_River.md" title="The Great River">the Great River</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 
 <span></span>
 

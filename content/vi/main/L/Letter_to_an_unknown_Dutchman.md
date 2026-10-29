@@ -31,7 +31,7 @@ images:
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Giữ ấm đun nước tiện dụng! Hãy để ý đến tôi đặc biệt vào những thời điểm không thể ngờ tới. Nhưng rất tiếc là tôi phải quay lại Water để đi công tác.<br/><br/>Gandalf<br/><br/>2 <a href="../A/Astron.md" title="Astron">Astron</a>
+<p>Keep the kettle handy! Look out for me especially at unlikely times. But I have unfortunately had to return over the Water on business.<br/><br/>Gandalf<br/><br/>2 <a href="../A/Astron.md" title="Astron">Astron</a>
 </p>
 </blockquote>
 

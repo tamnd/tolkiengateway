@@ -20,11 +20,11 @@ images:
   - "Quentandil_-_Gondolin_Map.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/Q/Quentandil_-_Gondolin_Map.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4e/Quentandil_-_Gondolin_Map.png/300px-Quentandil_-_Gondolin_Map.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4e/Quentandil_-_Gondolin_Map.png/450px-Quentandil_-_Gondolin_Map.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/4e/Quentandil_-_Gondolin_Map.png/600px-Quentandil_-_Gondolin_Map.png 2x" data-file-width="3040" data-file-height="3039"/></a><figcaption>Bản đồ Gondolin thể hiện Cổng vòm</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/Q/Quentandil_-_Gondolin_Map.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4e/Quentandil_-_Gondolin_Map.png/300px-Quentandil_-_Gondolin_Map.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4e/Quentandil_-_Gondolin_Map.png/450px-Quentandil_-_Gondolin_Map.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/4e/Quentandil_-_Gondolin_Map.png/600px-Quentandil_-_Gondolin_Map.png 2x" data-file-width="3040" data-file-height="3039"/></a><figcaption>Map of Gondolin showing the Arch</figcaption></figure>
 
 **Vòm Inwë** được đặt tại [Gondolin](../G/Gondolin.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
-Đó là lối vào phía tây của [Quảng trường Folkwell](../S/Square_of_the_Folkwell.md). Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), [Galdor](<../G/Galdor_(elf_of_Gondolin).md>) và những người cuối cùng của ông đã chiến đấu ở đó chống lại một đám [yêu tinh](../G/Goblins.md) đang đến.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nguồn gốc tên của nó, liên quan đến [Inwë](../I/Ingwë.md#Other_versions_of_the_legendarium), vẫn chưa được biết vì nó chỉ được nhắc đến một lần.
+Đó là lối vào phía tây của [Quảng trường giếng dân gian](../S/Square_of_the_Folkwell.md). Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), [Galdor](<../G/Galdor_(elf_of_Gondolin).md>) và những người cuối cùng của ông ta đã chiến đấu ở đó chống lại một đám [yêu tinh](../G/Goblins.md) đang đến.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nguồn gốc tên của nó, liên quan đến [Inwë](../I/Ingwë.md#Other_versions_of_the_legendarium), vẫn chưa được biết vì nó chỉ được nhắc đến một lần.
 
 <span></span>
 

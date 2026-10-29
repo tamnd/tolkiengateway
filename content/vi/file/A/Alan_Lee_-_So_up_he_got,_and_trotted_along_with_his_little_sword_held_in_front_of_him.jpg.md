@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Vậy là [ông](../../main/B/Bilbo_Baggins.md) đứng dậy và chạy lon ton cùng với [thanh kiếm nhỏ](../../main/S/Sting.md) giơ trước mặt" của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
+"Vậy là [ông ta](../../main/B/Bilbo_Baggins.md) đứng dậy và chạy lon ton cùng với [thanh kiếm nhỏ](../../main/S/Sting.md) giơ trước mặt" của [Alan Lee](../../main/A/Alan_Lee.md). Minh họa từ *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Giấy phép {#Licensing}
 

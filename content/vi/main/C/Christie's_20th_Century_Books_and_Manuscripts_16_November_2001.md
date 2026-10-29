@@ -22,7 +22,7 @@ infobox:
     value: "None"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span><small>Christie&#39;s 20th Century Books and Manuscripts 16 November 2001</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">London: Christie&#39;s</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Danh mục đấu giá</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data">Không có</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span><small>Christie&#39;s 20th Century Books and Manuscripts 16 November 2001</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">London: Christie&#39;s</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Auction catalogue</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data">None</td></tr></tbody></table>
 
 <i><b>Sách và Bản thảo Thế kỷ 20 của Christie ngày 16 tháng 11 năm 2001</b></i> là một danh mục đấu giá của Christie's (London). Hai lô liên quan đến Tolkien được bao gồm:
 

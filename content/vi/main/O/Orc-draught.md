@@ -24,7 +24,7 @@ images:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản phác thảo trước đó, [Frodo Baggins](../F/Frodo_Baggins.md) được cho là đã lấy lại được trí thông minh của mình trong [ Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md) sau vết chích của [Shelob](../S/Shelob.md) do bị [Orc](Orcs.md) đưa cho ông một bản nháp để chống lại chất độc.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong bản phác thảo trước đó, [Frodo Baggins](../F/Frodo_Baggins.md) được cho là đã lấy lại được trí thông minh của mình trong [ Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md) sau vết chích của [Shelob](../S/Shelob.md) do bị [Orc](Orcs.md) đưa cho ông ta một bản nháp để chống lại chất độc.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -32,7 +32,7 @@ Trong bản phác thảo trước đó, [Frodo Baggins](../F/Frodo_Baggins.md) �
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1978_film)_-_Orc-draught.png.md" title="The Lord of the Rings (1978 film)"><img alt="The Lord of the Rings (1978 film)" src="https://tolkiengateway.net/w/images/thumb/4/4b/The_Lord_of_the_Rings_%281978_film%29_-_Orc-draught.png/200px-The_Lord_of_the_Rings_%281978_film%29_-_Orc-draught.png" decoding="async" loading="lazy" width="200" height="113" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4b/The_Lord_of_the_Rings_%281978_film%29_-_Orc-draught.png/300px-The_Lord_of_the_Rings_%281978_film%29_-_Orc-draught.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/4b/The_Lord_of_the_Rings_%281978_film%29_-_Orc-draught.png/400px-The_Lord_of_the_Rings_%281978_film%29_-_Orc-draught.png 2x" data-file-width="853" data-file-height="480"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>
+<p><a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a>
 </p>
 			</div>
 		</li>
@@ -68,21 +68,21 @@ Trong bản phác thảo trước đó, [Frodo Baggins](../F/Frodo_Baggins.md) �
 
 <b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
-<dl><dd>Một Orc ăn trộm bản nháp của người khác và dùng chùy đánh ông, ném ông về phía sau. Ông đưa bản nháp đầu tiên vào <a class="mw-redirect" href="../M/Meriadoc.md" title="Meriadoc">Merry</a> rồi đến <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a>.</dd></dl>
+<dl><dd>An Orc steals another&#39;s draught and hits him with his mace, throwing him backward. He feeds the draught first to <a class="mw-redirect" href="../M/Meriadoc.md" title="Meriadoc">Merry</a> and then to <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a>.</dd></dl>
 
 <b><a href="../_/1997.md" title="1997">1997</a>: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
-<dl><dd>Bản nháp orc được mô tả trong bản mở rộng <a href="../_/1997.md" title="1997">1997</a> <i><a href="../M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a></i> trên thẻ <i>Orc-draughts</i> được minh họa bởi Daniel Frazier. Thẻ có tác dụng sau:</dd></dl>
+<dl><dd>The orc-draught is depicted in the <a href="../_/1997.md" title="1997">1997</a> expansion <i><a href="../M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a></i> on the card <i>Orc-draughts</i> illustrated by Daniel Frazier. The card has the following effects:</dd></dl>
 
 > Bỏ đi để tăng sức mạnh +1 cho tất cả các nhân vật trong nhóm của người mang cho đến hết lượt.
 
 <b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
-<dl><dd><a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> nhìn thấy <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk</a> đang uống rượu orc và yêu cầu ông đưa một ít cho <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> vì ông bị ốm. <a href="../U/Uglúk.md" title="Uglúk">Uglúk</a> hét lên "Ông ốm à? Cho ông ít thuốc đi các chàng trai!" và Uruk cho Merry uống rượu orc khi ông ho và lắp bắp và Pippin cầu xin ông dừng lại. Bọn Uruk cười và Uglúk kêu lên "Không thể uống thuốc của ông!".</dd></dl>
+<dl><dd><a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> sees an <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk</a> drinking orc-draught and asks him to give some to <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a>, as he is sick. <a href="../U/Uglúk.md" title="Uglúk">Uglúk</a> yells &#34;Sick is he? Give him some medicine boys!&#34; and the Uruk feeds Merry the orc-draught as he coughs and splutters and Pippin begs him to stop. The Uruks laugh and Uglúk exclaims &#34;Can&#39;t take his draught!&#34;.</dd></dl>
 
 <b><a href="../_/2014.md" title="2014">2014</a>: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a></i>:</b>
 
-<dl><dd>Loại nấm xanh <a class="new" href="https://tolkiengateway.net/w/index.php?title=Orchamarth&amp;action=edit&amp;redlink=1" title="Orchamarth (page does not exist)">Orchamarth</a> được cho là một trong những thành phần chính trong thuốc orc.</dd></dl>
+<dl><dd>The green fungus <a class="new" href="https://tolkiengateway.net/w/index.php?title=Orchamarth&amp;action=edit&amp;redlink=1" title="Orchamarth (page does not exist)">Orchamarth</a> is said to be one of the primary ingredients in orc-draught.</dd></dl>
 
 <b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Lord of the Rings: Trò chơi bài</a></i>:</b>
 
@@ -92,7 +92,7 @@ Trong bản phác thảo trước đó, [Frodo Baggins](../F/Frodo_Baggins.md) �
 
 <b><a href="../_/2023.md" title="2023">2023</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">The Lord of the Rings: Những câu chuyện về Trung Địa</a></i>:</b>
 
-<dl><dd>Bản thảo của loài Orc được mô tả trên thẻ "Thuốc Orcish", được minh họa bởi <a href="../../category/I/Images_by_Irvin_Rodriguez.md" title="Category:Images by Irvin Rodriguez">Irvin Rodriguez</a>. Thẻ có tác dụng sau:</dd></dl>
+<dl><dd>The orc-draught is depicted on the &#34;Orcish Medicine&#34; card, illustrated by <a href="../../category/I/Images_by_Irvin_Rodriguez.md" title="Category:Images by Irvin Rodriguez">Irvin Rodriguez</a>. The card has the following effects:</dd></dl>
 
 > Sinh vật mục tiêu nhận được sự lựa chọn của bạn về dây cứu sinh hoặc không thể bị phá hủy cho đến cuối lượt.<br>Tích lũy Orc 1. (Đặt bộ đếm +1/-1 cho Quân đội mà bạn điều khiển. Đó cũng là Orc. Nếu bạn không điều khiển Quân đội, trước tiên hãy tạo mã thông báo sinh vật Quân đội Orc màu đen 0/0.)
 

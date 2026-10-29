@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Lego"
 content_sha256: b5e57cd71fffaf592bf27606f7472c692af67ad82a120041f8067a12a5a52509
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Thương hiệu đồ chơi Đan Mạch"
+short_description: "Danish toy brand"
 categories:
   - "Danish businesses"
   - "Fandom"
@@ -122,7 +122,7 @@ infobox:
     value: "www.lego.com"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lego_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0b/Lego_logo.png/320px-Lego_logo.png" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0b/Lego_logo.png/480px-Lego_logo.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/0b/Lego_logo.png/640px-Lego_logo.png 2x" data-file-width="3840" data-file-height="3840"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Lego</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin công ty</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thành lập</th><td class="tg-infobox-data"><a href="../_/1949.md" title="1949">1949</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người sáng lập</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Ole_Kirk_Christiansen" title="wikipedia:Ole Kirk Christiansen">Ole Kirk Christiansen</a></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Denmark" title="wikipedia:Denmark">Denmark</a></td></tr><tr><th scope="row" class="tg-infobox-label">Sản phẩm</th><td class="tg-infobox-data">Toys</td></tr><tr><th scope="row" class="tg-infobox-label">Cha/mẹ</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Lego_Group" title="wikipedia:Lego Group">The Lego Group</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.Lego.com/" rel="noreferrer noopener" target="_blank">www.lego.com</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lego_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0b/Lego_logo.png/320px-Lego_logo.png" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0b/Lego_logo.png/480px-Lego_logo.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/0b/Lego_logo.png/640px-Lego_logo.png 2x" data-file-width="3840" data-file-height="3840"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Lego</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Company Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Founded</th><td class="tg-infobox-data"><a href="../_/1949.md" title="1949">1949</a></td></tr><tr><th scope="row" class="tg-infobox-label">Founder</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Ole_Kirk_Christiansen" title="wikipedia:Ole Kirk Christiansen">Ole Kirk Christiansen</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Denmark" title="wikipedia:Denmark">Denmark</a></td></tr><tr><th scope="row" class="tg-infobox-label">Products</th><td class="tg-infobox-data">Toys</td></tr><tr><th scope="row" class="tg-infobox-label">Parent</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Lego_Group" title="wikipedia:Lego Group">The Lego Group</a></td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.Lego.com/" rel="noreferrer noopener" target="_blank">www.lego.com</a></td></tr></tbody></table>
 
 Lego (cách điệu là "LEGO") là một thương hiệu đồ chơi bằng nhựa có trụ sở tại Đan Mạch, chủ yếu bao gồm các viên gạch nhựa lồng vào nhau. Trong số các chủ đề khác <a class="extiw" href="http://en.wikipedia.org/wiki/The_Lego_Group" title="wikipedia:The Lego Group">Tập đoàn Lego</a> cũng sản xuất các bộ dựa trên *[The Lord of the Rings (film series)](<../T/The_Lord_of_the_Rings_(film_series).md>)* và *[The Hobbit (film series)](<../T/The_Hobbit_(film_series).md>)*.
 
@@ -130,7 +130,7 @@ Lego (cách điệu là "LEGO") là một thương hiệu đồ chơi bằng nh�
 
 Vào [16 tháng 12](../_/16_December.md), [2011](../_/2011.md) <a class="extiw" href="http://en.wikipedia.org/wiki/Warner_Bros._Consumer_Products" title="wikipedia:Warner Bros. Consumer Products">Warner Bros. Consumer Products</a> và Tập đoàn Lego đã công bố mối quan hệ hợp tác của họ và ra mắt lần lượt các bộ *The Lord of The Rings* đầu tiên trên toàn cầu vào tháng 6 năm 2012.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lego_-_Gandalf_Arrives.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b9/Lego_-_Gandalf_Arrives.png/230px-Lego_-_Gandalf_Arrives.png" decoding="async" loading="lazy" width="230" height="199" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b9/Lego_-_Gandalf_Arrives.png/345px-Lego_-_Gandalf_Arrives.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/b9/Lego_-_Gandalf_Arrives.png/460px-Lego_-_Gandalf_Arrives.png 2x" data-file-width="1150" data-file-height="996"/></a><figcaption>Hộp cài đặt "Gandalf Đến"</figcaption></figure>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lego_-_Gandalf_Arrives.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b9/Lego_-_Gandalf_Arrives.png/230px-Lego_-_Gandalf_Arrives.png" decoding="async" loading="lazy" width="230" height="199" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b9/Lego_-_Gandalf_Arrives.png/345px-Lego_-_Gandalf_Arrives.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/b9/Lego_-_Gandalf_Arrives.png/460px-Lego_-_Gandalf_Arrives.png 2x" data-file-width="1150" data-file-height="996"/></a><figcaption>&#34;Gandalf Arrives&#34; set box</figcaption></figure>
 
 Những bộ *The Lord of The Rings* đầu tiên đã được ra mắt tại Hội chợ đồ chơi quốc tế <a class="external text" href="https://en.wikipedia.org/wiki/American_International_Toy_Fair" rel="noreferrer noopener" target="_blank">2012</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/New_York_City" title="wikipedia:New York City">New York</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và được phát hành vài tháng sau đó, vào tháng 6 [2012](../_/2012.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> dành cho trẻ em từ 8 đến 14 tuổi. Bộ *The Hobbit* được công bố trước đó, tổng cộng có sáu bộ, đã được phát hành vào tháng 12 năm 2012.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
@@ -140,12 +140,12 @@ Từ năm 2016 trở về sau không có bản phát hành nào cho đến khi c
 
 ### Trò chơi board {#Board_games}
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lego_-_The_Battle_of_Helm&#39;s_Deep_(board_game).png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/48/Lego_-_The_Battle_of_Helm%27s_Deep_%28board_game%29.png/230px-Lego_-_The_Battle_of_Helm%27s_Deep_%28board_game%29.png" decoding="async" loading="lazy" width="230" height="244" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/48/Lego_-_The_Battle_of_Helm%27s_Deep_%28board_game%29.png/345px-Lego_-_The_Battle_of_Helm%27s_Deep_%28board_game%29.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/48/Lego_-_The_Battle_of_Helm%27s_Deep_%28board_game%29.png/460px-Lego_-_The_Battle_of_Helm%27s_Deep_%28board_game%29.png 2x" data-file-width="1680" data-file-height="1785"/></a><figcaption>Hộp "Trận chiến Helm&#39;s Deep"</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lego_-_The_Battle_of_Helm&#39;s_Deep_(board_game).png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/48/Lego_-_The_Battle_of_Helm%27s_Deep_%28board_game%29.png/230px-Lego_-_The_Battle_of_Helm%27s_Deep_%28board_game%29.png" decoding="async" loading="lazy" width="230" height="244" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/48/Lego_-_The_Battle_of_Helm%27s_Deep_%28board_game%29.png/345px-Lego_-_The_Battle_of_Helm%27s_Deep_%28board_game%29.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/48/Lego_-_The_Battle_of_Helm%27s_Deep_%28board_game%29.png/460px-Lego_-_The_Battle_of_Helm%27s_Deep_%28board_game%29.png 2x" data-file-width="1680" data-file-height="1785"/></a><figcaption>&#34;The Battle of Helm&#39;s Deep&#34; box</figcaption></figure>
 
 Vào năm 2012 và 2013, hai trò chơi bảng Lego đã được phát hành như một phần của chủ đề <i><a class="extiw" href="http://en.wikipedia.org/wiki/Lego_Games" title="wikipedia:Lego Games">Lego Games</a></i>. Cách chơi của mỗi trò chơi cờ Lego khác nhau nhưng tất cả đều sử dụng xúc xắc, gạch Lego và *Lego Games* các nhân vật độc quyền được gọi là Microfigures. <br> <br> <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_An_Unexpected_Journey:_A_Quest_To_Test_Your_Memory_Skills&amp;action=edit&amp;redlink=1" title="The Hobbit: An Unexpected Journey: A Quest To Test Your Memory Skills (page does not exist)">The Hobbit: An Unexpected Journey</a>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Đánh bại quân địch trong Trận chiến Helm&#39;s Deep™ huyền thoại với LEGO® Games The Lord of the Rings™! Vào vai Aragorn™, Legolas, Gimli™ và người dân của Rohan hoặc sát cánh cùng Đội quân Uruk-hai™ độc ác của Isengard khi bạn chiến đấu để giành quyền kiểm soát pháo đài hùng mạnh của Hornburg tại Helm&#39;s Deep! Để đa dạng hơn nữa, hãy thay đổi trò chơi bằng cách sử dụng các quy tắc thay thế hoặc tự tạo nên trải nghiệm LEGO Games thực sự độc đáo.
+<p>Defeat the enemy forces at the legendary Battle of Helm&#39;s Deep™ with LEGO® Games The Lord of the Rings™! Play as Aragorn™, Legolas, Gimli™ and the people of Rohan, or side with the evil Uruk-hai™ Army of Isengard as you battle it out for control of the mighty fortress of the Hornburg at Helm&#39;s Deep! For even more variety, change the game using the alternate rules or make up your own to create a truly unique LEGO Games experience.
 </p>
 <p class="tg-quote-footer"><cite>Publisher<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></cite></p>
 </blockquote>
@@ -153,7 +153,7 @@ Vào năm 2012 và 2013, hai trò chơi bảng Lego đã được phát hành nh
 <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Battle_of_Helm%27s_Deep:_A_Customizable_Strategy_Game&amp;action=edit&amp;redlink=1" title="The Battle of Helm&#39;s Deep: A Customizable Strategy Game (page does not exist)">Trận chiến ở vực sâu Helm</a>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Bilbo Baggins sống ở ngôi làng cổ kính Hobbiton, nhưng hôm nay sự thoải mái của anh đã tan vỡ khi có sự xuất hiện của 13 Người Lùn. Họ đã thuyết phục Bilbo dấn thân vào một cuộc hành trình bất ngờ nhất – nhưng trước tiên Gandalf, cùng với Người Lùn Dwalin, Kili và Fili, phải tìm ra mười Người Lùn còn lại bị lạc trong các lỗ Hobbit của Hobbiton.
+<p>Bilbo Baggins lives in the quaint village of Hobbiton, but today his comfort has been shattered by the arrival of 13 Dwarves. They have convinced Bilbo to embark on a most unexpected journey – but first Gandalf, along with the Dwarves Dwalin, Kili and Fili, must find the other ten Dwarves who are lost in the Hobbit holes of Hobbiton.
 </p>
 <p class="tg-quote-footer"><cite>BoardGameGeek<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></cite></p>
 </blockquote>
@@ -162,9 +162,9 @@ Vào năm 2012 và 2013, hai trò chơi bảng Lego đã được phát hành nh
 
 Hai trò chơi điện tử Lego do [Warner Bros. Interactive Entertainment](../W/Warner_Bros._Interactive_Entertainment.md) và [Traveller's Tales](../T/Traveller's_Tales.md) phát triển đã được phát hành vào năm 2012 và 2014, chủ yếu dựa trên [*The Lord of the Rings* và *The Hobbit* loạt phim](<../M/Middle-earth_(New_Line_Cinema_series).md>).
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: The Video Game</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: The Video Game</a></b></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit: The Video Game</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit: The Video Game</a></b></div></div>
 
 ## Bộ {#Sets}
 
@@ -174,15 +174,15 @@ Các bộ chính thức có sẵn để mua được nêu rõ và số bộ củ
 
 <table class="wikitable sortable col1right">
 <tbody><tr style="background: var(--tg-color-surface-3);">
-<th style="width: 70pt; white-space: nowrap;"><b>Đặt không.</b>
+<th style="width: 70pt; white-space: nowrap;"><b>Set no.</b>
 </th>
-<th><b>Tên</b>
+<th><b>Name</b>
 </th>
-<th><b>Số mảnh</b>
+<th><b>Pieces</b>
 </th>
 <th class="unsortable;"><b>Minifigures</b>
 </th>
-<th style="width: 90pt; white-space: nowrap;"><b>Ngày phát hành</b>
+<th style="width: 90pt; white-space: nowrap;"><b>Release date</b>
 </th></tr>
 <tr>
 <td><a class="external text" href="https://www.lego.com/product/icons-11377-11377" rel="noreferrer noopener" target="_blank">11377</a>
@@ -257,7 +257,7 @@ Các bộ chính thức có sẵn để mua được nêu rõ và số bộ củ
 </td>
 <td>6167
 </td>
-<td><a class="external text" href="https://brickset.com/minifigs/lor126/boromir-dark-blue-legs" rel="noreferrer noopener" target="_blank">Boromir</a>, <a class="external text" href="https://brickset.com/minifigs/lor127/legolas-black-boots" rel="noreferrer noopener" target="_blank">Legolas</a>, 2 Rivendell Tiên tộc (<a class="external text" href="https://brickset.com/minifigs/lor120/rivendell-elf-female-dark-bluish-gray-robe" rel="noreferrer noopener" target="_blank">a</a>, <a class="external text" href="https://brickset.com/minifigs/lor122/rivendell-elf-male-dark-bluish-gray-shirt-and-legs" rel="noreferrer noopener" target="_blank">b</a>), <a class="external text" href="https://brickset.com/minifigs/lor118/gloin-the-dwarf-white-hair" rel="noreferrer noopener" target="_blank">Gloin</a>, <a class="external text" href="https://brickset.com/minifigs/lor119/gimli-medium-legs" rel="noreferrer noopener" target="_blank">Gimli</a>, <a class="external text" href="https://brickset.com/minifigs/lor112/frodo-baggins-reddish-brown-jacket-light-nougat-feet-dark-green-cape" rel="noreferrer noopener" target="_blank">Frodo Baggins</a>, <a class="external text" href="https://brickset.com/minifigs/lor123/peregrin-took-(pippin)-dark-blue-jacket-reddish-brown-cape" rel="noreferrer noopener" target="_blank">Pippin</a>, <a class="external text" href="https://brickset.com/minifigs/lor124/meriadoc-brandybuck-(merry)-dark-green-jacket-medium-nougat-hair" rel="noreferrer noopener" target="_blank">Merry</a>, <a class="external text" href="https://brickset.com/minifigs/lor113/samwise-gamgee-(sam)-dark-tan-jacket-sand-blue-cape" rel="noreferrer noopener" target="_blank">Samwise Gamgee</a>, <a class="external text" href="https://brickset.com/minifigs/lor128/elrond-dark-red-robe" rel="noreferrer noopener" target="_blank">Elrond</a>, <a class="external text" href="https://brickset.com/minifigs/lor125/gandalf-the-grey-wizard-witch-hat-robe-spongy-cape" rel="noreferrer noopener" target="_blank">Gandalf the Grey</a>, <a class="external text" href="https://brickset.com/minifigs/lor117/bilbo-baggins-white-hair" rel="noreferrer noopener" target="_blank">Bilbo Baggins (cũ)</a>, <a class="external text" href="https://brickset.com/minifigs/lor121/arwen-white-dress" rel="noreferrer noopener" target="_blank">Arwen</a>, <a class="external text" href="https://brickset.com/minifigs/lor129/aragorn-dark-brown-legs" rel="noreferrer noopener" target="_blank">Aragorn</a>, 6 Tiên Tượng (<a class="external text" href="https://brickset.com/minifigs/lor116/elf-statue-straight-hair-legs" rel="noreferrer noopener" target="_blank">a</a>, <a class="external text" href="https://brickset.com/minifigs/lor114/elf-statue-straight-hair-skirt" rel="noreferrer noopener" target="_blank">b</a> x2, <a class="external text" href="https://brickset.com/minifigs/lor115/elf-statue-wavy-hair-legs" rel="noreferrer noopener" target="_blank">c</a> x2, <a class="external text" href="https://brickset.com/minifigs/lor130/elf-statue-wavy-hair-skirt" rel="noreferrer noopener" target="_blank">d</a>)
+<td><a class="external text" href="https://brickset.com/minifigs/lor126/boromir-dark-blue-legs" rel="noreferrer noopener" target="_blank">Boromir</a>, <a class="external text" href="https://brickset.com/minifigs/lor127/legolas-black-boots" rel="noreferrer noopener" target="_blank">Legolas</a>, 2 Rivendell Elves (<a class="external text" href="https://brickset.com/minifigs/lor120/rivendell-elf-female-dark-bluish-gray-robe" rel="noreferrer noopener" target="_blank">a</a>, <a class="external text" href="https://brickset.com/minifigs/lor122/rivendell-elf-male-dark-bluish-gray-shirt-and-legs" rel="noreferrer noopener" target="_blank">b</a>), <a class="external text" href="https://brickset.com/minifigs/lor118/gloin-the-dwarf-white-hair" rel="noreferrer noopener" target="_blank">Gloin</a>, <a class="external text" href="https://brickset.com/minifigs/lor119/gimli-medium-legs" rel="noreferrer noopener" target="_blank">Gimli</a>, <a class="external text" href="https://brickset.com/minifigs/lor112/frodo-baggins-reddish-brown-jacket-light-nougat-feet-dark-green-cape" rel="noreferrer noopener" target="_blank">Frodo Baggins</a>, <a class="external text" href="https://brickset.com/minifigs/lor123/peregrin-took-(pippin)-dark-blue-jacket-reddish-brown-cape" rel="noreferrer noopener" target="_blank">Pippin</a>, <a class="external text" href="https://brickset.com/minifigs/lor124/meriadoc-brandybuck-(merry)-dark-green-jacket-medium-nougat-hair" rel="noreferrer noopener" target="_blank">Merry</a>, <a class="external text" href="https://brickset.com/minifigs/lor113/samwise-gamgee-(sam)-dark-tan-jacket-sand-blue-cape" rel="noreferrer noopener" target="_blank">Samwise Gamgee</a>, <a class="external text" href="https://brickset.com/minifigs/lor128/elrond-dark-red-robe" rel="noreferrer noopener" target="_blank">Elrond</a>, <a class="external text" href="https://brickset.com/minifigs/lor125/gandalf-the-grey-wizard-witch-hat-robe-spongy-cape" rel="noreferrer noopener" target="_blank">Gandalf the Grey</a>, <a class="external text" href="https://brickset.com/minifigs/lor117/bilbo-baggins-white-hair" rel="noreferrer noopener" target="_blank">Bilbo Baggins (old)</a>, <a class="external text" href="https://brickset.com/minifigs/lor121/arwen-white-dress" rel="noreferrer noopener" target="_blank">Arwen</a>, <a class="external text" href="https://brickset.com/minifigs/lor129/aragorn-dark-brown-legs" rel="noreferrer noopener" target="_blank">Aragorn</a>, 6  Elf Statues (<a class="external text" href="https://brickset.com/minifigs/lor116/elf-statue-straight-hair-legs" rel="noreferrer noopener" target="_blank">a</a>, <a class="external text" href="https://brickset.com/minifigs/lor114/elf-statue-straight-hair-skirt" rel="noreferrer noopener" target="_blank">b</a> x2, <a class="external text" href="https://brickset.com/minifigs/lor115/elf-statue-wavy-hair-legs" rel="noreferrer noopener" target="_blank">c</a> x2, <a class="external text" href="https://brickset.com/minifigs/lor130/elf-statue-wavy-hair-skirt" rel="noreferrer noopener" target="_blank">d</a>)
 </td>
 <td>2023-03-23
 </td></tr>
@@ -356,7 +356,7 @@ Các bộ chính thức có sẵn để mua được nêu rõ và số bộ củ
 </td>
 <td>472
 </td>
-<td><a class="external text" href="https://www.bricklink.com/v2/catalog/catalogitem.page?P=11435pb01c01#T" rel="noreferrer noopener" target="_blank">Gwaihir</a> <i>(brick built figure)</i>, <a class="external text" href="https://brickset.com/minifigs/lor106/thorin-oakenshield-gold-armor-and-crown" rel="noreferrer noopener" target="_blank">Thorin Oakenshield</a>, <a class="external text" href="https://brickset.com/minifigs/lor107/dain-ironfoot" rel="noreferrer noopener" target="_blank">Dain Ironfoot</a>, <a class="external text" href="https://brickset.com/minifigs/lor035/legolas-reddish-brown-and-gold-robe" rel="noreferrer noopener" target="_blank">Legolas</a>, <a class="external text" href="https://brickset.com/minifigs/lor092/bard-the-bowman-silver-buckle-and-shirt-grommets" rel="noreferrer noopener" target="_blank">Bard the Bowman</a>, <a class="external text" href="https://brickset.com/minifigs/lor109/azog-wide-open-mouth" rel="noreferrer noopener" target="_blank">Azog</a>, <a class="external text" href="https://brickset.com/minifigs/lor110/gundabad-orc-bald-white-forehead-paint" rel="noreferrer noopener" target="_blank">2 Gundabad Orc</a>
+<td><a class="external text" href="https://www.bricklink.com/v2/catalog/catalogitem.page?P=11435pb01c01#T" rel="noreferrer noopener" target="_blank">Gwaihir</a> <i>(brick built figure)</i>, <a class="external text" href="https://brickset.com/minifigs/lor106/thorin-oakenshield-gold-armor-and-crown" rel="noreferrer noopener" target="_blank">Thorin Oakenshield</a>, <a class="external text" href="https://brickset.com/minifigs/lor107/dain-ironfoot" rel="noreferrer noopener" target="_blank">Dain Ironfoot</a>, <a class="external text" href="https://brickset.com/minifigs/lor035/legolas-reddish-brown-and-gold-robe" rel="noreferrer noopener" target="_blank">Legolas</a>, <a class="external text" href="https://brickset.com/minifigs/lor092/bard-the-bowman-silver-buckle-and-shirt-grommets" rel="noreferrer noopener" target="_blank">Bard the Bowman</a>, <a class="external text" href="https://brickset.com/minifigs/lor109/azog-wide-open-mouth" rel="noreferrer noopener" target="_blank">Azog</a>, <a class="external text" href="https://brickset.com/minifigs/lor110/gundabad-orc-bald-white-forehead-paint" rel="noreferrer noopener" target="_blank">2 Gundabad Orcs</a>
 </td>
 <td data-sort-value="2014-10-15-3">2014-10-15
 </td></tr>
@@ -473,7 +473,7 @@ Các bộ chính thức có sẵn để mua được nêu rõ và số bộ củ
 <tr>
 <td><a class="external text" href="https://brickset.com/sets/79006-1/The-Council-of-Elrond" rel="noreferrer noopener" target="_blank">79006</a>
 </td>
-<td><b>Hội đồng Elrond</b>
+<td><b>The Council of Elrond</b>
 </td>
 <td>243
 </td>
@@ -495,7 +495,7 @@ Các bộ chính thức có sẵn để mua được nêu rõ và số bộ củ
 <tr>
 <td><a class="external text" href="https://brickset.com/sets/50011-1/The-Battle-of-Helm-s-Deep" rel="noreferrer noopener" target="_blank">50011</a>
 </td>
-<td><b>Trận chiến Helm&#39;s Deep</b> (trò chơi board game)
+<td><b>The Battle of Helm&#39;s Deep</b> (board game)
 </td>
 <td>338
 </td>
@@ -605,7 +605,7 @@ Các bộ chính thức có sẵn để mua được nêu rõ và số bộ củ
 <tr>
 <td><a class="external text" href="https://brickset.com/sets/3920-1/The-Hobbit-An-Unexpected-Journey" rel="noreferrer noopener" target="_blank">3920</a>
 </td>
-<td><b>The Hobbit: An Unexpected Journey</b> (trò chơi cờ bàn)
+<td><b>The Hobbit: An Unexpected Journey</b> (board game)
 </td>
 <td>394
 </td>
@@ -653,7 +653,7 @@ Các bộ chính thức có sẵn để mua được nêu rõ và số bộ củ
 </td>
 <td>363
 </td>
-<td><a class="external text" href="https://brickset.com/minifigs/lor025/lurtz" rel="noreferrer noopener" target="_blank">Lurtz</a>, <a class="external text" href="https://brickset.com/minifigs/lor022/uruk-hai-handprint-helmet" rel="noreferrer noopener" target="_blank">Uruk-hai (mũ bảo hiểm và áo giáp có dấu tay)</a>, 3 Mordor Orc (<a class="external text" href="https://brickset.com/minifigs/lor024/mordor-orc-bald" rel="noreferrer noopener" target="_blank">a</a>, <a class="external text" href="https://brickset.com/minifigs/lor023/mordor-orc-dark-tan" rel="noreferrer noopener" target="_blank">b</a>, <a class="external text" href="https://brickset.com/minifigs/lor022/uruk-hai-handprint-helmet" rel="noreferrer noopener" target="_blank">c</a>)
+<td><a class="external text" href="https://brickset.com/minifigs/lor025/lurtz" rel="noreferrer noopener" target="_blank">Lurtz</a>, <a class="external text" href="https://brickset.com/minifigs/lor022/uruk-hai-handprint-helmet" rel="noreferrer noopener" target="_blank">Uruk-hai (handprint helmet and armour)</a>, 3 Mordor Orcs (<a class="external text" href="https://brickset.com/minifigs/lor024/mordor-orc-bald" rel="noreferrer noopener" target="_blank">a</a>, <a class="external text" href="https://brickset.com/minifigs/lor023/mordor-orc-dark-tan" rel="noreferrer noopener" target="_blank">b</a>, <a class="external text" href="https://brickset.com/minifigs/lor022/uruk-hai-handprint-helmet" rel="noreferrer noopener" target="_blank">c</a>)
 </td>
 <td data-sort-value="2012-06-01-7">2012-06-01
 </td></tr>
@@ -671,7 +671,7 @@ Các bộ chính thức có sẵn để mua được nêu rõ và số bộ củ
 <tr>
 <td><a class="external text" href="https://brickset.com/sets/9473-1/The-Mines-of-Moria" rel="noreferrer noopener" target="_blank">9473</a>
 </td>
-<td><b>Hầm mỏ Moria</b>
+<td><b>The Mines of Moria</b>
 </td>
 <td>776
 </td>
@@ -728,15 +728,15 @@ Các bộ chính thức có sẵn để mua được nêu rõ và số bộ củ
 
 <table class="wikitable sortable col1right">
 <tbody><tr style="background: var(--tg-color-surface-3);">
-<th style="white-space: nowrap;"><b>Đặt không.</b>
+<th style="white-space: nowrap;"><b>Set no.</b>
 </th>
-<th><b>Tên</b>
+<th><b>Name</b>
 </th>
-<th><b>Số mảnh</b>
+<th><b>Pieces</b>
 </th>
 <th class="unsortable"><b>Minifigures</b>
 </th>
-<th style="white-space: nowrap;"><b>Ngày phát hành</b>
+<th style="white-space: nowrap;"><b>Release date</b>
 </th></tr>
 <tr>
 <td><a class="external text" href="https://www.lego.com/en-us/product/icons-40893-40893" rel="noreferrer noopener" target="_blank">40893</a>
@@ -895,7 +895,7 @@ Các bộ chính thức có sẵn để mua được nêu rõ và số bộ củ
 <tr>
 <td><a class="external text" href="https://brickset.com/sets/LOTRSWORD-1/Sword" rel="noreferrer noopener" target="_blank">LOTRSWORD</a>
 </td>
-<td><b>Kiếm</b>
+<td><b>Sword</b>
 </td>
 <td>31
 </td>
@@ -917,7 +917,7 @@ Các bộ chính thức có sẵn để mua được nêu rõ và số bộ củ
 <tr>
 <td><a class="external text" href="https://brickset.com/sets/30210-1/Frodo-with-cooking-corner" rel="noreferrer noopener" target="_blank">30210</a>
 </td>
-<td><b>Frodo có góc nấu ăn</b>
+<td><b>Frodo with cooking corner</b>
 </td>
 <td>33
 </td>
@@ -943,7 +943,7 @@ Danh sách sau đây cũng chứa các hình lớn và hình vi mô.
 
 <table class="wikitable sortable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
-<th>Tên
+<th>Name
 </th>
 <th>Theme
 </th>
@@ -1244,14 +1244,14 @@ Danh sách sau đây cũng chứa các hình lớn và hình vi mô.
 <td><a class="external text" href="https://brickset.com/minifigs?query=Kili" rel="noreferrer noopener" target="_blank">Brickset</a>
 </td></tr>
 <tr>
-<td><a href="../K/King_of_the_Dead.md" title="King of the Dead">Vua Người Chết</a>
+<td><a href="../K/King_of_the_Dead.md" title="King of the Dead">King of the Dead</a>
 </td>
 <td><i>The Lord of the Rings</i>
 </td>
 <td><a class="external text" href="https://brickset.com/minifigs/lor071/king-of-the-dead" rel="noreferrer noopener" target="_blank">Brickset</a>
 </td></tr>
 <tr>
-<td><a href="../C/Captain_of_the_guard.md#Portrayal_in_adaptations" title="Captain of the guard">Thị trấn Hồ bảo vệ</a>
+<td><a href="../C/Captain_of_the_guard.md#Portrayal_in_adaptations" title="Captain of the guard">Lake-town guard</a>
 </td>
 <td><i>The Hobbit</i>
 </td>
@@ -1272,7 +1272,7 @@ Danh sách sau đây cũng chứa các hình lớn và hình vi mô.
 <td><a class="external text" href="https://brickset.com/minifigs/lor025/lurtz" rel="noreferrer noopener" target="_blank">Brickset</a>
 </td></tr>
 <tr>
-<td><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Chủ nhân Thị trấn Hồ</a>
+<td><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a>
 </td>
 <td><i>The Hobbit</i>
 </td>
@@ -1328,7 +1328,7 @@ Danh sách sau đây cũng chứa các hình lớn và hình vi mô.
 <td><a class="external text" href="https://brickset.com/minifigs/lor011/moria-orc-olive-green" rel="noreferrer noopener" target="_blank">Brickset</a>
 </td></tr>
 <tr>
-<td><a href="../M/Mouth_of_Sauron.md" title="Mouth of Sauron">Miệng của Sauron</a>
+<td><a href="../M/Mouth_of_Sauron.md" title="Mouth of Sauron">Mouth of Sauron</a>
 </td>
 <td><i>The Lord of the Rings</i>
 </td>
@@ -1405,7 +1405,7 @@ Danh sách sau đây cũng chứa các hình lớn và hình vi mô.
 <td><a class="external text" href="https://brickset.com/minifigs?query=Rivendell%20Elf" rel="noreferrer noopener" target="_blank">Brickset</a>
 </td></tr>
 <tr>
-<td><a href="../R/Rohirrim.md" title="Rohirrim">Rohan người lính</a>
+<td><a href="../R/Rohirrim.md" title="Rohirrim">Rohan soldier</a>
 </td>
 <td><i>The Lord of the Rings</i>
 </td>
@@ -1538,7 +1538,7 @@ Danh sách sau đây cũng chứa các hình lớn và hình vi mô.
 <td><a class="external text" href="https://brickset.com/minifigs/85863pb119/microfigure-lord-of-the-rings-uruk-hai-swordsman" rel="noreferrer noopener" target="_blank">Brickset</a>
 </td></tr>
 <tr>
-<td><a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a>
+<td><a href="../W/Witch-king.md" title="Witch-king">Witch-king</a>
 </td>
 <td><i>The Hobbit</i>
 </td>
@@ -1561,21 +1561,21 @@ Dưới đây là các nhân vật, động vật và sinh vật khác xuất hi
 
 <table class="wikitable sortable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
-<th>Tên
+<th>Name
 </th>
 <th>Theme
 </th>
 <th class="unsortable">Variants
 </th></tr>
 <tr>
-<td><a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Tai họa của Durin</a>
+<td><a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>
 </td>
 <td><i>The Lord of the Rings</i>
 </td>
 <td>/
 </td></tr>
 <tr>
-<td><a href="../F/Fell_beasts.md" title="Fell beasts">Quái vật rơi</a>
+<td><a href="../F/Fell_beasts.md" title="Fell beasts">Fell beast</a>
 </td>
 <td><i>The Lord of the Rings</i>
 </td>
@@ -1631,7 +1631,7 @@ Dưới đây là các nhân vật, động vật và sinh vật khác xuất hi
 <td><a class="external text" href="https://www.bricklink.com/v2/catalog/catalogitem.page?P=spa0019#T" rel="noreferrer noopener" target="_blank">Bricklink</a>
 </td></tr>
 <tr>
-<td><a href="../W/Wargs.md" title="Wargs">Warg</a>
+<td><a href="../W/Wargs.md" title="Wargs">Wargs</a>
 </td>
 <td><i>The Hobbit</i>
 </td>
@@ -1694,14 +1694,14 @@ Dưới đây là các nhân vật, động vật và sinh vật khác xuất hi
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Lego_-_Barad-dûr_(Front).png.md" title="Front side of &#34;Barad-dûr&#34;"><img alt="Front side of &#34;Barad-dûr&#34;" src="https://tolkiengateway.net/w/images/thumb/e/e1/Lego_-_Barad-d%C3%BBr_%28Front%29.png/82px-Lego_-_Barad-d%C3%BBr_%28Front%29.png" decoding="async" loading="lazy" width="82" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e1/Lego_-_Barad-d%C3%BBr_%28Front%29.png/124px-Lego_-_Barad-d%C3%BBr_%28Front%29.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/e1/Lego_-_Barad-d%C3%BBr_%28Front%29.png/165px-Lego_-_Barad-d%C3%BBr_%28Front%29.png 2x" data-file-width="2400" data-file-height="4358"/></a></span></div>
 			<div class="gallerytext">
-<p>Mặt trước của "<a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>"
+<p>Front side of &#34;<a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>&#34;
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Lego_-_Barad-dûr_(Back).png.md" title="Back side of &#34;Barad-dûr&#34;"><img alt="Back side of &#34;Barad-dûr&#34;" src="https://tolkiengateway.net/w/images/thumb/7/73/Lego_-_Barad-d%C3%BBr_%28Back%29.png/73px-Lego_-_Barad-d%C3%BBr_%28Back%29.png" decoding="async" loading="lazy" width="73" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/73/Lego_-_Barad-d%C3%BBr_%28Back%29.png/109px-Lego_-_Barad-d%C3%BBr_%28Back%29.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/73/Lego_-_Barad-d%C3%BBr_%28Back%29.png/146px-Lego_-_Barad-d%C3%BBr_%28Back%29.png 2x" data-file-width="2400" data-file-height="4936"/></a></span></div>
 			<div class="gallerytext">
-<p>Mặt sau của "<a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>"
+<p>Back side of &#34;<a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>&#34;
 </p>
 			</div>
 		</li>
@@ -2049,14 +2049,14 @@ Dưới đây là các nhân vật, động vật và sinh vật khác xuất hi
 		<li class="gallerybox" style="width: 152px">
 			<div class="thumb" style="width: 147px; height: 120px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/LEGO_-_King_of_the_Dead.png.md" title="King of the Dead"><img alt="King of the Dead" src="https://tolkiengateway.net/w/images/thumb/5/55/LEGO_-_King_of_the_Dead.png/90px-LEGO_-_King_of_the_Dead.png" decoding="async" loading="lazy" width="90" height="90" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/55/LEGO_-_King_of_the_Dead.png/135px-LEGO_-_King_of_the_Dead.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/55/LEGO_-_King_of_the_Dead.png/180px-LEGO_-_King_of_the_Dead.png 2x" data-file-width="349" data-file-height="349"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../K/King_of_the_Dead.md" title="King of the Dead">Vua Người Chết</a>
+<p><a href="../K/King_of_the_Dead.md" title="King of the Dead">King of the Dead</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 152px">
 			<div class="thumb" style="width: 147px; height: 120px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/LEGO_-_Lake-town_guard.png.md" title="Lake-town guard"><img alt="Lake-town guard" src="https://tolkiengateway.net/w/images/thumb/4/48/LEGO_-_Lake-town_guard.png/90px-LEGO_-_Lake-town_guard.png" decoding="async" loading="lazy" width="90" height="90" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/48/LEGO_-_Lake-town_guard.png/135px-LEGO_-_Lake-town_guard.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/48/LEGO_-_Lake-town_guard.png/180px-LEGO_-_Lake-town_guard.png 2x" data-file-width="2325" data-file-height="2325"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../C/Captain_of_the_guard.md#Portrayal_in_adaptations" title="Captain of the guard">Thị trấn Hồ bảo vệ</a>
+<p><a href="../C/Captain_of_the_guard.md#Portrayal_in_adaptations" title="Captain of the guard">Lake-town guard</a>
 </p>
 			</div>
 		</li>
@@ -2077,7 +2077,7 @@ Dưới đây là các nhân vật, động vật và sinh vật khác xuất hi
 		<li class="gallerybox" style="width: 152px">
 			<div class="thumb" style="width: 147px; height: 120px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/LEGO_-_Master_of_Lake-town.png.md" title="Master of Lake-town"><img alt="Master of Lake-town" src="https://tolkiengateway.net/w/images/thumb/4/49/LEGO_-_Master_of_Lake-town.png/90px-LEGO_-_Master_of_Lake-town.png" decoding="async" loading="lazy" width="90" height="90" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/49/LEGO_-_Master_of_Lake-town.png/135px-LEGO_-_Master_of_Lake-town.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/49/LEGO_-_Master_of_Lake-town.png/180px-LEGO_-_Master_of_Lake-town.png 2x" data-file-width="1800" data-file-height="1800"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Chủ nhân Thị trấn Hồ</a>
+<p><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a>
 </p>
 			</div>
 		</li>
@@ -2182,7 +2182,7 @@ Dưới đây là các nhân vật, động vật và sinh vật khác xuất hi
 		<li class="gallerybox" style="width: 152px">
 			<div class="thumb" style="width: 147px; height: 120px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/LEGO_-_Rohan_soldier.png.md" title="Rohan soldier"><img alt="Rohan soldier" src="https://tolkiengateway.net/w/images/thumb/6/68/LEGO_-_Rohan_soldier.png/91px-LEGO_-_Rohan_soldier.png" decoding="async" loading="lazy" width="91" height="90" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/68/LEGO_-_Rohan_soldier.png/136px-LEGO_-_Rohan_soldier.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/68/LEGO_-_Rohan_soldier.png/181px-LEGO_-_Rohan_soldier.png 2x" data-file-width="830" data-file-height="824"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../R/Rohirrim.md" title="Rohirrim">Rohan người lính</a>
+<p><a href="../R/Rohirrim.md" title="Rohirrim">Rohan soldier</a>
 </p>
 			</div>
 		</li>
@@ -2252,14 +2252,14 @@ Dưới đây là các nhân vật, động vật và sinh vật khác xuất hi
 		<li class="gallerybox" style="width: 152px">
 			<div class="thumb" style="width: 147px; height: 120px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Lego_-_Witch-king.jpg.md" title="Witch-king"><img alt="Witch-king" src="https://tolkiengateway.net/w/images/thumb/6/61/Lego_-_Witch-king.jpg/90px-Lego_-_Witch-king.jpg" decoding="async" loading="lazy" width="90" height="90" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/61/Lego_-_Witch-king.jpg/135px-Lego_-_Witch-king.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/61/Lego_-_Witch-king.jpg/180px-Lego_-_Witch-king.jpg 2x" data-file-width="1752" data-file-height="1752"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a>
+<p><a href="../W/Witch-king.md" title="Witch-king">Witch-king</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 152px">
 			<div class="thumb" style="width: 147px; height: 120px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Lego_-_Barad-dur_Minifigures.png.md" title="Minifigures from the Barad-dûr set."><img alt="Minifigures from the Barad-dûr set." src="https://tolkiengateway.net/w/images/thumb/0/00/Lego_-_Barad-dur_Minifigures.png/117px-Lego_-_Barad-dur_Minifigures.png" decoding="async" loading="lazy" width="117" height="88" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/00/Lego_-_Barad-dur_Minifigures.png/176px-Lego_-_Barad-dur_Minifigures.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/00/Lego_-_Barad-dur_Minifigures.png/234px-Lego_-_Barad-dur_Minifigures.png 2x" data-file-width="2400" data-file-height="1800"/></a></span></div>
 			<div class="gallerytext">
-<p>Các nhân vật nhỏ từ bộ <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>.
+<p>Minifigures from the <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a> set.
 </p>
 			</div>
 		</li>

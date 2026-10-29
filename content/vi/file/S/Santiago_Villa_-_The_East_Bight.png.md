@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Vịnh phía Đông](../../main/E/East_Bight.md) - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)* minh họa của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Santiago_Villa&amp;action=edit&amp;redlink=1" title="Santiago Villa (page does not exist)">Santiago Villa</a>
+[phương Đông Bight](../../main/E/East_Bight.md) - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)* minh họa của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Santiago_Villa&amp;action=edit&amp;redlink=1" title="Santiago Villa (page does not exist)">Santiago Villa</a>
 
 ## Giấy phép {#Licensing}
 

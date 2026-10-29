@@ -30,7 +30,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Túrin](../../main/T/Túrin.md) và [Rồng](../../main/G/Glaurung.md)" của [Alan Lee](../../main/A/Alan_Lee.md). Được tạo cho bộ bìa bọc hộp cho *Great Tales of Trung Địa Bộ hộp: [The Children of Húrin](../../main/T/The_Children_of_Húrin.md), [Beren and Lúthien](../../main/B/Beren_and_Lúthien.md), [The Fall of Gondolin](../../main/T/The_Fall_of_Gondolin.md)*. Sau này được đưa vào *[Tolkien Calendar 2026](../../main/T/Tolkien_Calendar_2026.md)*
+"[Túrin](../../main/T/Túrin.md) và [the Rồng](../../main/G/Glaurung.md)" của [Alan Lee](../../main/A/Alan_Lee.md). Được tạo cho bộ bìa bọc hộp cho *Great Tales of Trung Địa Bộ hộp: [The Children of Húrin](../../main/T/The_Children_of_Húrin.md), [Beren and Lúthien](../../main/B/Beren_and_Lúthien.md), [The Fall of Gondolin](../../main/T/The_Fall_of_Gondolin.md)*. Sau này được đưa vào *[Tolkien Calendar 2026](../../main/T/Tolkien_Calendar_2026.md)*
 
 ## Giấy phép {#Licensing}
 

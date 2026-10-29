@@ -46,9 +46,9 @@ infobox:
     value: "Profile"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>bộ phim dành cho người hâm mộ năm 2020</b>. Để biết chiếc sừng thực sự trong Legendarium, hãy xem <b><a href="../G/Great_Horn.md" title="Great Horn">Great Horn</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the 2020 fan film</b>. For the actual horn within the Legendarium, see <b><a href="../G/Great_Horn.md" title="Great Horn">Great Horn</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Horn_of_Gondor_Poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/Horn_of_Gondor_Poster.jpg/320px-Horn_of_Gondor_Poster.jpg" decoding="async" loading="lazy" width="320" height="451" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7d/Horn_of_Gondor_Poster.jpg/480px-Horn_of_Gondor_Poster.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7d/Horn_of_Gondor_Poster.jpg/640px-Horn_of_Gondor_Poster.jpg 2x" data-file-width="720" data-file-height="1015"/></a><figcaption>Áp phích</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tù và Gondor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data">Simon Pesta</td></tr><tr><th scope="row" class="tg-infobox-label">Screenplay</th><td class="tg-infobox-data">Simon Pesta</td></tr><tr><th scope="row" class="tg-infobox-label">Dựa trên</th><td class="tg-infobox-data">&#34;<a href="../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl and the Friendship of Gondor and Rohan</a>&#34; by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data">Borek Belfin</td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data">Ondrej Penicka</td></tr><tr><th scope="row" class="tg-infobox-label">Biên tập</th><td class="tg-infobox-data">Simon Pesta</td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data">Petr Kubelik</td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data">YouTube</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">18 September 2020</td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">19 min</td></tr><tr><th scope="row" class="tg-infobox-label">Quốc gia</th><td class="tg-infobox-data">Czech Republic</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr><tr><th scope="row" class="tg-infobox-label">Ngân sách</th><td class="tg-infobox-data">€11,142</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="https://www.kickstarter.com/projects/482524377/horn-of-gondor-tolkien-fan-film" rel="noreferrer noopener" target="_blank">Kickstarter</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt10852750" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Horn_of_Gondor_Poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/Horn_of_Gondor_Poster.jpg/320px-Horn_of_Gondor_Poster.jpg" decoding="async" loading="lazy" width="320" height="451" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7d/Horn_of_Gondor_Poster.jpg/480px-Horn_of_Gondor_Poster.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7d/Horn_of_Gondor_Poster.jpg/640px-Horn_of_Gondor_Poster.jpg 2x" data-file-width="720" data-file-height="1015"/></a><figcaption>Poster</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Horn of Gondor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data">Simon Pesta</td></tr><tr><th scope="row" class="tg-infobox-label">Screenplay</th><td class="tg-infobox-data">Simon Pesta</td></tr><tr><th scope="row" class="tg-infobox-label">Based on</th><td class="tg-infobox-data">&#34;<a href="../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl and the Friendship of Gondor and Rohan</a>&#34; by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data">Borek Belfin</td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data">Ondrej Penicka</td></tr><tr><th scope="row" class="tg-infobox-label">Editing</th><td class="tg-infobox-data">Simon Pesta</td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data">Petr Kubelik</td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data">YouTube</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">18 September 2020</td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">19 min</td></tr><tr><th scope="row" class="tg-infobox-label">Country</th><td class="tg-infobox-data">Czech Republic</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Budget</th><td class="tg-infobox-data">€11,142</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="https://www.kickstarter.com/projects/482524377/horn-of-gondor-tolkien-fan-film" rel="noreferrer noopener" target="_blank">Kickstarter</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt10852750" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
 **Horn of Gondor** là một [phim dành cho người hâm mộ](../../category/F/Fan_films.md) dựa trên [một truyện ngắn](../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md) trong *[Unfinished Tales](../U/Unfinished_Tales.md)*. Phim đã được phát hành trên YouTube vào ngày [18 tháng Chín](../_/18_September.md) [2020](../_/2020.md).
 
@@ -60,8 +60,8 @@ Sau cuộc xâm lược của bầy [Balchoth](../B/Balchoth.md) hung hãn, [Gon
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Vai trò</th>
-<th>Diễn viên
+<th>Role</th>
+<th>Actor
 </th></tr>
 <tr>
 <td><a href="../B/Borondir.md" title="Borondir">Borondir</a></td>
@@ -134,7 +134,7 @@ Nhạc của <a class="external text" href="http://www.imdb.com/name/nm7739226/"
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>phim của người hâm mộ liên quan đến <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>-related fan films</b>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2003</b>
@@ -149,7 +149,7 @@ Nhạc của <a class="external text" href="http://www.imdb.com/name/nm7739226/"
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2005</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../A/Almost_There_And_Back_Again.md" title="Almost There And Back Again">Gần đến nơi rồi lại trở về</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../A/Almost_There_And_Back_Again.md" title="Almost There And Back Again">Almost There And Back Again</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2007</b>
@@ -164,7 +164,7 @@ Nhạc của <a class="external text" href="http://www.imdb.com/name/nm7739226/"
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2011</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Đôi cánh trên Arda: Kỷ Đệ Nhất</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Wings Over Arda: The First Age</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2013</b>
@@ -174,7 +174,7 @@ Nhạc của <a class="external text" href="http://www.imdb.com/name/nm7739226/"
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2014</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../T/Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Con đường của Tolkien</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../T/Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Tolkien&#39;s Road</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2015</b>
@@ -189,7 +189,7 @@ Nhạc của <a class="external text" href="http://www.imdb.com/name/nm7739226/"
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2017</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">Cuộc vây hãm Angband</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">The Siege of Angband</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2018</b>
@@ -204,12 +204,12 @@ Nhạc của <a class="external text" href="http://www.imdb.com/name/nm7739226/"
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2020</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="mw-selflink selflink">Tù và Gondor</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="mw-selflink selflink">Horn of Gondor</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2022</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Các trận chiến tại khúc cạn Isen</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Battles of the Fords of Isen</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2024</b>
@@ -219,10 +219,10 @@ Nhạc của <a class="external text" href="http://www.imdb.com/name/nm7739226/"
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2025</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../T/The_Beacons.md" title="The Beacons">Các đài hiệu</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../T/The_Beacons.md" title="The Beacons">The Beacons</a></i>
 </td></tr>
 <tr>
-<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Không rõ</b>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Unknown</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../T/The_Legend_of_Gurthang.md" title="The Legend of Gurthang">Truyền thuyết về Gurthang</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../T/The_Legend_of_Gurthang.md" title="The Legend of Gurthang">The Legend of Gurthang</a></i>
 </td></tr></tbody></table>

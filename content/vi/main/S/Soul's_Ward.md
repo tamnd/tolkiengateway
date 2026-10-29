@@ -21,7 +21,7 @@ images:
   - "Soul's_Ward_Typescript.png"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Soul&#39;s_Ward_Typescript.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/46/Soul%27s_Ward_Typescript.png/275px-Soul%27s_Ward_Typescript.png" decoding="async" loading="lazy" width="275" height="172" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/46/Soul%27s_Ward_Typescript.png/413px-Soul%27s_Ward_Typescript.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/46/Soul%27s_Ward_Typescript.png/550px-Soul%27s_Ward_Typescript.png 2x" data-file-width="960" data-file-height="601"/></a><figcaption>Trang đầu tiên và trang cuối cùng của bản đánh máy</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Soul&#39;s_Ward_Typescript.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/46/Soul%27s_Ward_Typescript.png/275px-Soul%27s_Ward_Typescript.png" decoding="async" loading="lazy" width="275" height="172" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/46/Soul%27s_Ward_Typescript.png/413px-Soul%27s_Ward_Typescript.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/46/Soul%27s_Ward_Typescript.png/550px-Soul%27s_Ward_Typescript.png 2x" data-file-width="960" data-file-height="601"/></a><figcaption>The first and last pages of the typescript</figcaption></figure>
 
 <i><b>Soul's Ward</b></i> là tựa đề do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đặt cho bản dịch [tiếng Anh trung cổ](../M/Middle_English.md) sớm của ông, <i><b>Sawles Warde</b></i>.
 

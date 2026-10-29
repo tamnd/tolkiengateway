@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**KHEL** là một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "đóng băng". [Christopher Tolkien](../C/Christopher_Tolkien.md) đã ghi nhận rằng gốc này và các dẫn xuất của nó đã bị cha ông bỏ đi.<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+**KHEL** là một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "đóng băng". [Christopher Tolkien](../C/Christopher_Tolkien.md) đã ghi nhận rằng gốc này và các dẫn xuất của nó đã bị cha ông ta bỏ đi.<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 

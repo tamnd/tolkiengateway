@@ -23,7 +23,7 @@ langlinks:
 
 **Agatha** là vợ của [Farmer Giles](../F/Farmer_Giles.md). Khi [Garm](../G/Garm.md) đánh thức hai người họ với tin tức về sự xuất hiện của [Người khổng lồ](../T/The_Giant.md), đầu tiên cô đề nghị dìm chết con chó, nhưng khi Giles tỏ ra rằng anh tin vào con chó, cô bảo anh hãy mạnh dạn và nhanh chóng.
 
-Khi Giles trở thành vua của [Tiểu Vương quốc](../L/Little_Kingdom.md), Agatha trở thành nữ hoàng có vóc dáng to lớn và uy nghiêm. Bà nổi tiếng là người quản lý chặt chẽ việc nhà.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+Khi Giles trở thành vua của [Vương quốc nhỏ](../L/Little_Kingdom.md), Agatha trở thành nữ hoàng có vóc dáng to lớn và uy nghiêm. Bà nổi tiếng là người quản lý chặt chẽ việc nhà.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

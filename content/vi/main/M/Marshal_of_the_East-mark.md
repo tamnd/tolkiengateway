@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Marshal_of_the_East-mark"
 content_sha256: 84da629284d22001ce2c5ac3883dc5c74eabc24fbac68cabc866bf4aea8a1f80
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Cấp bậc quân sự Rohirrim"
+short_description: "Military rank of the Rohirrim"
 categories:
   - "Mannish titles"
   - "Rohan"

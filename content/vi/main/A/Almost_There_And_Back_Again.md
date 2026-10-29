@@ -16,7 +16,7 @@ images:
   - "Almost_There_And_Back_Again_-_Gibli_and_Egoless.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Cái tên <b>There And Back Again</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../T/There_and_Back_Again_(disambiguation).md" title="There and Back Again (disambiguation)">There and Back Again (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>There And Back Again</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../T/There_and_Back_Again_(disambiguation).md" title="There and Back Again (disambiguation)">There and Back Again (disambiguation)</a></b>.</div></div>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Almost_There_And_Back_Again_-_Gibli_and_Egoless.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ef/Almost_There_And_Back_Again_-_Gibli_and_Egoless.jpg/250px-Almost_There_And_Back_Again_-_Gibli_and_Egoless.jpg" decoding="async" loading="lazy" width="250" height="143" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ef/Almost_There_And_Back_Again_-_Gibli_and_Egoless.jpg/375px-Almost_There_And_Back_Again_-_Gibli_and_Egoless.jpg 1.5x, https://tolkiengateway.net/w/images/e/ef/Almost_There_And_Back_Again_-_Gibli_and_Egoless.jpg 2x" data-file-width="400" data-file-height="228"/></a><figcaption></figcaption></figure>
 
@@ -26,7 +26,7 @@ images:
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>phim của người hâm mộ liên quan đến <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>-related fan films</b>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2003</b>
@@ -41,7 +41,7 @@ images:
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2005</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="mw-selflink selflink">Gần đến nơi rồi lại trở về</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="mw-selflink selflink">Almost There And Back Again</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2007</b>
@@ -56,7 +56,7 @@ images:
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2011</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Đôi cánh trên Arda: Kỷ Đệ Nhất</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Wings Over Arda: The First Age</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2013</b>
@@ -66,7 +66,7 @@ images:
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2014</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../T/Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Con đường của Tolkien</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../T/Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Tolkien&#39;s Road</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2015</b>
@@ -81,7 +81,7 @@ images:
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2017</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">Cuộc vây hãm Angband</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">The Siege of Angband</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2018</b>
@@ -96,12 +96,12 @@ images:
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2020</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../H/Horn_of_Gondor_(fan_film).md" title="Horn of Gondor (fan film)">Tù và Gondor</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../H/Horn_of_Gondor_(fan_film).md" title="Horn of Gondor (fan film)">Horn of Gondor</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2022</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Các trận chiến tại khúc cạn Isen</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Battles of the Fords of Isen</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2024</b>
@@ -111,10 +111,10 @@ images:
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2025</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../T/The_Beacons.md" title="The Beacons">Các đài hiệu</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../T/The_Beacons.md" title="The Beacons">The Beacons</a></i>
 </td></tr>
 <tr>
-<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Không rõ</b>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Unknown</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../T/The_Legend_of_Gurthang.md" title="The Legend of Gurthang">Truyền thuyết về Gurthang</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../T/The_Legend_of_Gurthang.md" title="The Legend of Gurthang">The Legend of Gurthang</a></i>
 </td></tr></tbody></table>

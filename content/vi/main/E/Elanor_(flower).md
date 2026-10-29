@@ -32,7 +32,7 @@ images:
   - "Elanor.mp3"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Elanor</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Elanor_(disambiguation).md" title="Elanor (disambiguation)">Elanor (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Elanor</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Elanor_(disambiguation).md" title="Elanor (disambiguation)">Elanor (disambiguation)</a></b>.</div></div>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_Elanor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d9/Mat%C4%9Bj_%C4%8Cadil_-_Elanor.jpg/225px-Mat%C4%9Bj_%C4%8Cadil_-_Elanor.jpg" decoding="async" loading="lazy" width="225" height="289" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d9/Mat%C4%9Bj_%C4%8Cadil_-_Elanor.jpg/338px-Mat%C4%9Bj_%C4%8Cadil_-_Elanor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d9/Mat%C4%9Bj_%C4%8Cadil_-_Elanor.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_Elanor.jpg 2x" data-file-width="600" data-file-height="770"/></a><figcaption><i>Elanor</i> by <a href="../M/Matěj_Čadil.md" title="Matěj Čadil">Matěj Čadil</a></figcaption></figure>
 
@@ -46,7 +46,7 @@ images:
 <td style="text-align:center"><b><a href="../../file/E/Elanor.mp3.md" title="File:Elanor.mp3">File:Elanor.mp3</a></b></td>
 </tr>
 <tr>
-<td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
+<td style="font-size: small; padding-bottom: 3px; text-align:center;">By <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Media help</a>)</td>
 </tr>
 </tbody></table>
 </div>

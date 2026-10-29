@@ -18,10 +18,10 @@ categories:
 ## Bài thơ {#The_poem}
 
 <div class="poem">
-<p><i>Hỡi mảnh mai như cành liễu! Ôi trong hơn nước trong!</i><br/>
-<i>Hỡi cây sậy bên hồ sống! Con gái sông xinh đẹp!</i><br/>
-<i>Hỡi mùa xuân và mùa hạ, rồi lại mùa xuân sau!</i><br/>
-<i>Hỡi gió trên thác, tiếng cười của lá!</i>
+<p><i>O slender as a willow-wand! O clearer than clear water!</i><br/>
+<i>O reed by the living pool! Fair River-daughter!</i><br/>
+<i>O spring-time and summer-time, and spring again after!</i><br/>
+<i>O wind on the waterfall, and the leaves&#39; laughter!</i>
 </p>
 </div>
 

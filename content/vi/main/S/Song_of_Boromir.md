@@ -21,52 +21,52 @@ images:
   - "Anke_Eißmann_-_The_departure_of_Boromir.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>sự tiếc nuối cho <a href="../B/Boromir.md" title="Boromir">Boromir</a></b>. Về chương sách trong <a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a>, xem <b><a href="../T/The_Departure_of_Boromir.md" title="The Departure of Boromir">Sự ra đi của Boromir</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the lament for <a href="../B/Boromir.md" title="Boromir">Boromir</a></b>. For the book chapter in <a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a>, see <b><a href="../T/The_Departure_of_Boromir.md" title="The Departure of Boromir">The Departure of Boromir</a></b>.</div></div>
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_The_departure_of_Boromir.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/46/Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg/250px-Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg" decoding="async" loading="lazy" width="250" height="191" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/46/Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg/375px-Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/46/Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg/500px-Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg 2x" data-file-width="850" data-file-height="648"/></a><figcaption>"Sự ra đi của Boromir" của <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_The_departure_of_Boromir.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/46/Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg/250px-Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg" decoding="async" loading="lazy" width="250" height="191" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/46/Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg/375px-Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/46/Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg/500px-Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg 2x" data-file-width="850" data-file-height="648"/></a><figcaption>&#34;The departure of Boromir&#34; by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
 Bài **Bài ca Boromir**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là lời than thở được hát bởi [Aragorn](../A/Aragorn.md) và [Legolas](../L/Legolas.md) khi chiếc thuyền tang lễ của [Boromir](../B/Boromir.md) trôi đi.
 
 ## Bài hát {#Song}
 
 <blockquote>
-<dl><dd>Aragorn đã hát:</dd></dl>
-<p><i>Qua <a href="../R/Rohan.md" title="Rohan">Rohan</a> qua bờ rào và cánh đồng nơi cỏ dài mọc<br/></i>
-<i>Gió Phương Tây Gió đến và đi quanh những bức tường. <br/></i>
-<i>‘Tin gì từ Phương Tây, Hỡi ngọn gió lang thang, đêm nay em mang đến cho anh? <br/></i>
-<i>Bạn đã thấy Boromir Cao bằng trăng hay bằng ánh sao chưa? <br/></i>
-<i>‘Tôi thấy ông cưỡi ngựa vượt qua bảy con suối, trên mặt nước rộng và xám xịt, <br/></i>
-<i>Tôi nhìn thấy anh đi trên vùng đất trống cho đến khi anh qua đời <br/></i>
-<i>Trong bóng tối phương Bắc, tôi không còn thấy anh nữa. <br/></i>
-<i>Gió Bắc có thể đã nghe thấy tiếng còi của con <a href="../D/Denethor.md" title="Denethor">Denethor</a>, <br/></i>
-<i>‘Ồ Boromir! Từ trên tường cao nhìn về phía Tây, <br/></i>
-<i>Nhưng bạn không đến từ vùng đất hoang, nơi không có con người.’ <br/></i>
+<dl><dd>Aragorn sang:</dd></dl>
+<p><i>Through <a href="../R/Rohan.md" title="Rohan">Rohan</a> over fen and field where the long grass grows<br/></i>
+<i>The West Wind comes walking, and about the walls it goes. <br/></i>
+<i>‘What news from the West, O wandering wind, do you bring to me tonight? <br/></i>
+<i>Have you seen Boromir the Tall by moon or by starlight? <br/></i>
+<i>‘I saw him ride over seven streams, over waters wide and grey, <br/></i>
+<i>I saw him walk in empty lands until he passed away <br/></i>
+<i>Into the shadows of the North, I saw him then no more. <br/></i>
+<i>The North Wind may have heard the horn of the son of <a href="../D/Denethor.md" title="Denethor">Denethor</a>, <br/></i>
+<i>‘O Boromir! From the high walls westward I looked afar, <br/></i>
+<i>But you came not from the empty lands where no men are.’ <br/></i>
 <br/>
 </p>
-<dl><dd>Sau đó Legolas hát:</dd></dl>
-<p><i>Từ miệng <a href="../B/Bay_of_Belfalas.md" title="Bay of Belfalas">Biển</a> Gió Nam bay tới, từ đồi cát và đá, <br/></i>
-<i>Tiếng mòng biển kêu, nó rên rỉ ở cổng. <br/></i>
-<i>‘Phương Nam có tin gì, hỡi gió thở dài, đêm khuya mang về cho ta? <br/></i>
-<i>Hội chợ Boromir hiện ở đâu? Ông trì hoãn và tôi đau buồn. <br/></i>
-<i>‘Đừng hỏi tôi hắn sống ở đâu – có rất nhiều xương nằm ở đó, <br/></i>
-<i>Bên bờ trắng và bờ tối dưới bầu trời giông bão, <br/></i>
-<i>Rất nhiều người đã truyền lại <a href="../A/Anduin.md" title="Anduin">Anduin</a> để tìm thấy dòng chảy Biển. <br/></i>
-<i>Hỏi tin tức Gió Bắc của họ Gió Bắc gửi cho tôi!’ <br/></i>
-<i>‘Ồ Boromir! Ngoài cổng đường biển chạy về hướng Nam <br/></i>
-<i>Nhưng em đến không phải cùng với tiếng mòng biển kêu gào từ miệng biển xám’. <br/></i>
+<dl><dd>Then Legolas sang:</dd></dl>
+<p><i>From the mouths of the <a href="../B/Bay_of_Belfalas.md" title="Bay of Belfalas">Sea</a> the South Wind flies, from the sandhills and the stones, <br/></i>
+<i>The wailing of the gulls it bears, and at the gate it moans. <br/></i>
+<i>‘What news from the South, O sighing wind, do you bring to me at eve? <br/></i>
+<i>Where now is Boromir the Fair? He tarries and I grieve. <br/></i>
+<i>‘Ask not of me where he doth dwell – so many bones there lie, <br/></i>
+<i>On the white shores and the dark shores under the stormy sky, <br/></i>
+<i>So many have passed down <a href="../A/Anduin.md" title="Anduin">Anduin</a> to find the flowing Sea. <br/></i>
+<i>Ask of the North Wind news of them the North Wind sends to me!’ <br/></i>
+<i>‘O Boromir! Beyond the gate the seaward road runs south, <br/></i>
+<i>But you came not with the wailing gulls from the grey sea’s mouth’. <br/></i>
 <br/>
 </p>
-<dl><dd>Rồi Aragorn hát lại:</dd></dl>
-<p><i>Từ <a href="../A/Argonath.md" title="Argonath">Cổng của các vị vua</a> Gió Bắc cưỡi ngựa, vượt qua những thác nước ầm ầm, <br/></i>
-<i>Và trong trẻo và lạnh lẽo về tòa tháp tiếng còi inh ỏi của nó. <br/></i>
-<i>‘Bắc phương có tin gì, hỡi ngọn gió hùng mạnh, hôm nay mang đến cho ta tin gì? <br/></i>
-<i>Tin gì Boromir táo bạo? Vì Người đã đi xa rồi’ <br/></i>
-<i>‘Bên dưới <a href="../A/Amon_Hen.md" title="Amon Hen">Amon Hen</a> tôi nghe thấy tiếng kêu của ông. Có rất nhiều kẻ thù mà anh đã chiến đấu, <br/></i>
-<i>Cái khiên chẻ đôi của anh, thanh kiếm gãy của anh, họ mang xuống nước. <br/></i>
-<i>Đầu anh kiêu hãnh, khuôn mặt anh thanh tú, tứ chi anh nằm yên, <br/></i>
-<i>Và <a href="../R/Rauros.md" title="Rauros">Rauros</a>, Rauros-màu vàng rơi xuống, bế anh lên ngực nó. <br/></i>
-<i>‘Ồ Boromir! <a class="mw-redirect" href="../T/Tower_of_Guard.md" title="Tower of Guard">Tháp canh</a> sẽ luôn hướng về phía bắc, <br/></i>
-<i>Tới Rauros, vàng Rauros-rơi, cho đến tận cuối ngày.' <br/></i>
+<dl><dd>Then Aragorn sang again:</dd></dl>
+<p><i>From the <a href="../A/Argonath.md" title="Argonath">Gate of the Kings</a> the North Wind rides, and past the roaring falls, <br/></i>
+<i>And clear and cold about the tower its loud horn calls. <br/></i>
+<i>‘What news from the North, O mighty wind, do you bring to me today? <br/></i>
+<i>What news of Boromir the bold? For he is long away.’ <br/></i>
+<i>‘Beneath <a href="../A/Amon_Hen.md" title="Amon Hen">Amon Hen</a> I heard his cry. There many foes he fought, <br/></i>
+<i>His cloven shield, his broken sword, they to the water brought. <br/></i>
+<i>His head so proud, his face so fair, his limbs they laid to rest, <br/></i>
+<i>And <a href="../R/Rauros.md" title="Rauros">Rauros</a>, golden Rauros-falls, bore him upon its breast. <br/></i>
+<i>‘O Boromir! The <a class="mw-redirect" href="../T/Tower_of_Guard.md" title="Tower of Guard">Tower of Guard</a> shall ever northward gaze, <br/></i>
+<i>To Rauros, golden Rauros-falls, until the end of days.&#39; <br/></i>
 </p>
 </blockquote>
 
@@ -76,7 +76,7 @@ Bài **Bài ca Boromir**<sup id="cite_ref-1" class="reference"><a href="#cite_no
 
 <b>2001: <a class="mw-redirect" href="../P/Pán_prsteňov_(2001-2003_Slovak_radio_series).md" title="Pán prsteňov (2001-2003 Slovak radio series)"><i>Pán prsteňov</i> (Loạt đài tiếng Slovak 2001-2003)</a>:</b>
 
-<dl><dd>Bài hát, cùng với giai điệu chậm rãi và tang thương, xuất hiện trong đám tang đầy nước của Boromir, với Legolas (do Richard Stanke thể hiện), Aragorn (do Boriš Farkaš thể hiện) và Gimli (do Vladimír Hajdu thể hiện) thay phiên nhau hát.</dd></dl>
+<dl><dd>The song, accompanied by a slow and mournful melody, appears during the watery funeral of Boromir, with Legolas (portrayed by Richard Stanke), Aragorn (portrayed by Boriš Farkaš) and Gimli (portrayed by Vladimír Hajdu) taking turns while singing.</dd></dl>
 
 ## Xem thêm {#See_also}
 

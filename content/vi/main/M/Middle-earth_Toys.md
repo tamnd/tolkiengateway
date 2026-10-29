@@ -81,34 +81,34 @@ Các nhân vật đã được công bố nhưng chưa được phát hành bao 
 
 <table class="wikitable">
 <tbody><tr>
-<th>Ảnh
+<th>Photo
 </th>
-<th>Mô tả
+<th>Description
 </th></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Balrog_(Earth).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4c/Middle-earth_Toys_-_Balrog_%28Earth%29.jpg/200px-Middle-earth_Toys_-_Balrog_%28Earth%29.jpg" decoding="async" loading="lazy" width="200" height="276" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4c/Middle-earth_Toys_-_Balrog_%28Earth%29.jpg/300px-Middle-earth_Toys_-_Balrog_%28Earth%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4c/Middle-earth_Toys_-_Balrog_%28Earth%29.jpg/400px-Middle-earth_Toys_-_Balrog_%28Earth%29.jpg 2x" data-file-width="974" data-file-height="1342"/></a></span>
 </td>
-<td><b>Earth Balrog</b><br/>Đây là biến thể tiêu chuẩn của loạt phim đầu tiên. Nó đưa ra một Balrog giả định sống trong những hang động mà loài troll sống trong đó.<sup id="cite_ref-RTMbalrog_8-1" class="reference"><a href="#cite_note-RTMbalrog-8">[8]</a></sup>
+<td><b>Earth Balrog</b><br/>This was the standard variant of the first series. It presented a hypothetical Balrog who lives in the sort of caves trolls lived in.<sup id="cite_ref-RTMbalrog_8-1" class="reference"><a href="#cite_note-RTMbalrog-8">[8]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Balrog_(Forest).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/48/Middle-earth_Toys_-_Balrog_%28Forest%29.jpg/200px-Middle-earth_Toys_-_Balrog_%28Forest%29.jpg" decoding="async" loading="lazy" width="200" height="272" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/48/Middle-earth_Toys_-_Balrog_%28Forest%29.jpg/300px-Middle-earth_Toys_-_Balrog_%28Forest%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/48/Middle-earth_Toys_-_Balrog_%28Forest%29.jpg/400px-Middle-earth_Toys_-_Balrog_%28Forest%29.jpg 2x" data-file-width="780" data-file-height="1062"/></a></span>
 </td>
-<td><b>Forest Balrog</b><br/>Biến thể này được bán thông qua Toy Club. Chỉ có 2000 chiếc được sản xuất. <sup id="cite_ref-RTMbalrog_8-2" class="reference"><a href="#cite_note-RTMbalrog-8">[8]</a></sup>
+<td><b>Forest Balrog</b><br/>This variant was sold through the Toy Club. Only 2000 were made. <sup id="cite_ref-RTMbalrog_8-2" class="reference"><a href="#cite_note-RTMbalrog-8">[8]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Balrog_(Fire).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1e/Middle-earth_Toys_-_Balrog_%28Fire%29.jpg/200px-Middle-earth_Toys_-_Balrog_%28Fire%29.jpg" decoding="async" loading="lazy" width="200" height="270" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1e/Middle-earth_Toys_-_Balrog_%28Fire%29.jpg/300px-Middle-earth_Toys_-_Balrog_%28Fire%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1e/Middle-earth_Toys_-_Balrog_%28Fire%29.jpg/400px-Middle-earth_Toys_-_Balrog_%28Fire%29.jpg 2x" data-file-width="932" data-file-height="1256"/></a></span>
 </td>
-<td><b>Fire Balrog</b><br/>Sau này được phát hành lại cho dòng sản phẩm đại chúng.<sup id="cite_ref-RTMbalrog_8-3" class="reference"><a href="#cite_note-RTMbalrog-8">[8]</a></sup>
+<td><b>Fire Balrog</b><br/>Later re-issued for the mass-market series.<sup id="cite_ref-RTMbalrog_8-3" class="reference"><a href="#cite_note-RTMbalrog-8">[8]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Balrog_(Shadow).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/10/Middle-earth_Toys_-_Balrog_%28Shadow%29.jpg/200px-Middle-earth_Toys_-_Balrog_%28Shadow%29.jpg" decoding="async" loading="lazy" width="200" height="263" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/10/Middle-earth_Toys_-_Balrog_%28Shadow%29.jpg/300px-Middle-earth_Toys_-_Balrog_%28Shadow%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/10/Middle-earth_Toys_-_Balrog_%28Shadow%29.jpg/400px-Middle-earth_Toys_-_Balrog_%28Shadow%29.jpg 2x" data-file-width="1014" data-file-height="1334"/></a></span>
 </td>
-<td><b>Bóng Tối Balrog</b><br/>Ban đầu được phân phối độc quyền bởi Voyager Toys, sau đó vẫn được gọi là The Portal.<sup id="cite_ref-RTMbalrog_8-4" class="reference"><a href="#cite_note-RTMbalrog-8">[8]</a></sup>
+<td><b>Shadow Balrog</b><br/>Initially exclusively distributed by Voyager Toys, then still known as The Portal.<sup id="cite_ref-RTMbalrog_8-4" class="reference"><a href="#cite_note-RTMbalrog-8">[8]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Balrog_(Khazad-dûm).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/40/Middle-earth_Toys_-_Balrog_%28Khazad-d%C3%BBm%29.jpg/200px-Middle-earth_Toys_-_Balrog_%28Khazad-d%C3%BBm%29.jpg" decoding="async" loading="lazy" width="200" height="270" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/40/Middle-earth_Toys_-_Balrog_%28Khazad-d%C3%BBm%29.jpg/300px-Middle-earth_Toys_-_Balrog_%28Khazad-d%C3%BBm%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/40/Middle-earth_Toys_-_Balrog_%28Khazad-d%C3%BBm%29.jpg/400px-Middle-earth_Toys_-_Balrog_%28Khazad-d%C3%BBm%29.jpg 2x" data-file-width="1006" data-file-height="1360"/></a></span>
 </td>
-<td><b>Balrog trong số Khazad-dûm</b><br/>Đây là Balrog gặp trong câu chuyện. Ông có hai giá đỡ hình lục giác và có tính năng phát sáng.<sup id="cite_ref-RTMbalrog_8-5" class="reference"><a href="#cite_note-RTMbalrog-8">[8]</a></sup>
+<td><b>Balrog of Khazad-dûm</b><br/>This was the Balrog encountered in the story. He came with two hexagonal stands, and had a light-up feature.<sup id="cite_ref-RTMbalrog_8-5" class="reference"><a href="#cite_note-RTMbalrog-8">[8]</a></sup>
 </td></tr></tbody></table>
 
 #### Gandalf {#Gandalf}
@@ -117,34 +117,34 @@ Các nhân vật đã được công bố nhưng chưa được phát hành bao 
 
 <table class="wikitable">
 <tbody><tr>
-<th>Ảnh
+<th>Photo
 </th>
-<th>Mô tả
+<th>Description
 </th></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Gandalf_(Grey).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d5/Middle-earth_Toys_-_Gandalf_%28Grey%29.jpg/200px-Middle-earth_Toys_-_Gandalf_%28Grey%29.jpg" decoding="async" loading="lazy" width="200" height="290" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d5/Middle-earth_Toys_-_Gandalf_%28Grey%29.jpg/300px-Middle-earth_Toys_-_Gandalf_%28Grey%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d5/Middle-earth_Toys_-_Gandalf_%28Grey%29.jpg/400px-Middle-earth_Toys_-_Gandalf_%28Grey%29.jpg 2x" data-file-width="966" data-file-height="1403"/></a></span>
 </td>
-<td><b>Gandalf The Grey</b><br/>Được bán độc quyền thông qua Diamond Comics. Cây trượng của anh sáng lên.<sup id="cite_ref-RTMgandalf_9-1" class="reference"><a href="#cite_note-RTMgandalf-9">[9]</a></sup>
+<td><b>Gandalf The Grey</b><br/>Exclusively sold through Diamond Comics. His staff lights up.<sup id="cite_ref-RTMgandalf_9-1" class="reference"><a href="#cite_note-RTMgandalf-9">[9]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Gandalf_(Hobbiton).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c2/Middle-earth_Toys_-_Gandalf_%28Hobbiton%29.jpg/200px-Middle-earth_Toys_-_Gandalf_%28Hobbiton%29.jpg" decoding="async" loading="lazy" width="200" height="289" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c2/Middle-earth_Toys_-_Gandalf_%28Hobbiton%29.jpg/300px-Middle-earth_Toys_-_Gandalf_%28Hobbiton%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c2/Middle-earth_Toys_-_Gandalf_%28Hobbiton%29.jpg/400px-Middle-earth_Toys_-_Gandalf_%28Hobbiton%29.jpg 2x" data-file-width="531" data-file-height="767"/></a></span>
 </td>
-<td><b>Gandalf trong Hobbiton</b><br/>Được bán độc quyền thông qua Toy Club, Gandalf này tương tự như Gandalf the Grey, dùng chung hình điêu khắc đầu và trượng, mặc dù trượng của ông không phát sáng.<sup id="cite_ref-RTMgandalf_9-2" class="reference"><a href="#cite_note-RTMgandalf-9">[9]</a></sup>
+<td><b>Gandalf in Hobbiton</b><br/>Exclusively sold through the Toy Club, this Gandalf is similar to Gandalf the Grey, sharing a head sculpt and staff, though his staff doesn&#39;t light up.<sup id="cite_ref-RTMgandalf_9-2" class="reference"><a href="#cite_note-RTMgandalf-9">[9]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Gandalf_(White).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/74/Middle-earth_Toys_-_Gandalf_%28White%29.jpg/200px-Middle-earth_Toys_-_Gandalf_%28White%29.jpg" decoding="async" loading="lazy" width="200" height="291" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/74/Middle-earth_Toys_-_Gandalf_%28White%29.jpg/300px-Middle-earth_Toys_-_Gandalf_%28White%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/74/Middle-earth_Toys_-_Gandalf_%28White%29.jpg/400px-Middle-earth_Toys_-_Gandalf_%28White%29.jpg 2x" data-file-width="407" data-file-height="592"/></a></span>
 </td>
-<td><b>Gandalf The White</b><br/>Tác phẩm điêu khắc đầu của Gandalf này hơi khác một chút vì nó không có lỗ cho ống như các mẫu trước đó. Nhân viên của ông cũng khác. Đó là biến thể tiêu chuẩn.<sup id="cite_ref-RTMgandalf_9-3" class="reference"><a href="#cite_note-RTMgandalf-9">[9]</a></sup>
+<td><b>Gandalf The White</b><br/>This Gandalf&#39;s head sculpt is slightly different, since it lacks the hole for the pipe the previous models had. His staff is different as well. It was the standard variant.<sup id="cite_ref-RTMgandalf_9-3" class="reference"><a href="#cite_note-RTMgandalf-9">[9]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Gandalf_(Fangorn).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/df/Middle-earth_Toys_-_Gandalf_%28Fangorn%29.jpg/200px-Middle-earth_Toys_-_Gandalf_%28Fangorn%29.jpg" decoding="async" loading="lazy" width="200" height="291" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/df/Middle-earth_Toys_-_Gandalf_%28Fangorn%29.jpg/300px-Middle-earth_Toys_-_Gandalf_%28Fangorn%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/df/Middle-earth_Toys_-_Gandalf_%28Fangorn%29.jpg/400px-Middle-earth_Toys_-_Gandalf_%28Fangorn%29.jpg 2x" data-file-width="877" data-file-height="1275"/></a></span>
 </td>
-<td><b>Gandalf trong Fangorn</b><br/>Đây là Gandalf the White trước khi anh lộ diện, nó được bán độc quyền thông qua <i>White&#39;s Guide To Collecting Figures</i>.<sup id="cite_ref-RTMgandalf_9-4" class="reference"><a href="#cite_note-RTMgandalf-9">[9]</a></sup>
+<td><b>Gandalf in Fangorn</b><br/>This is Gandalf the White before he revealed himself, it was sold exclusively through <i>White&#39;s Guide To Collecting Figures</i>.<sup id="cite_ref-RTMgandalf_9-4" class="reference"><a href="#cite_note-RTMgandalf-9">[9]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Gandalf_(Wizard).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/29/Middle-earth_Toys_-_Gandalf_%28Wizard%29.jpg/200px-Middle-earth_Toys_-_Gandalf_%28Wizard%29.jpg" decoding="async" loading="lazy" width="200" height="272" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/29/Middle-earth_Toys_-_Gandalf_%28Wizard%29.jpg/300px-Middle-earth_Toys_-_Gandalf_%28Wizard%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/29/Middle-earth_Toys_-_Gandalf_%28Wizard%29.jpg/400px-Middle-earth_Toys_-_Gandalf_%28Wizard%29.jpg 2x" data-file-width="996" data-file-height="1354"/></a></span>
 </td>
-<td><b>Gandalf Pháp sư</b><br/>Phiên bản dành cho thị trường đại chúng, tương tự như Gandalf the Grey.<sup id="cite_ref-RTMgandalf_9-5" class="reference"><a href="#cite_note-RTMgandalf-9">[9]</a></sup>
+<td><b>Gandalf the Wizard</b><br/>The mass-market version, which was similar to Gandalf the Grey.<sup id="cite_ref-RTMgandalf_9-5" class="reference"><a href="#cite_note-RTMgandalf-9">[9]</a></sup>
 </td></tr>
 </tbody></table>
 
@@ -156,29 +156,29 @@ Các nhân vật đã được công bố nhưng chưa được phát hành bao 
 
 <table class="wikitable">
 <tbody><tr>
-<th>Ảnh
+<th>Photo
 </th>
-<th>Mô tả
+<th>Description
 </th></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Frodo_(Lórien).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b9/Middle-earth_Toys_-_Frodo_%28L%C3%B3rien%29.jpg/200px-Middle-earth_Toys_-_Frodo_%28L%C3%B3rien%29.jpg" decoding="async" loading="lazy" width="200" height="294" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b9/Middle-earth_Toys_-_Frodo_%28L%C3%B3rien%29.jpg/300px-Middle-earth_Toys_-_Frodo_%28L%C3%B3rien%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b9/Middle-earth_Toys_-_Frodo_%28L%C3%B3rien%29.jpg/400px-Middle-earth_Toys_-_Frodo_%28L%C3%B3rien%29.jpg 2x" data-file-width="974" data-file-height="1430"/></a></span>
 </td>
-<td><b>Frodo trong Lórien</b><br/>Frodo, khi ông xuất hiện trong Lórien, là biến thể tiêu chuẩn.<sup id="cite_ref-RTMfrodo_10-1" class="reference"><a href="#cite_note-RTMfrodo-10">[10]</a></sup>
+<td><b>Frodo in Lórien</b><br/>Frodo, as he appeared in Lórien, was the standard variant.<sup id="cite_ref-RTMfrodo_10-1" class="reference"><a href="#cite_note-RTMfrodo-10">[10]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Frodo_(Shire).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9c/Middle-earth_Toys_-_Frodo_%28Shire%29.jpg/200px-Middle-earth_Toys_-_Frodo_%28Shire%29.jpg" decoding="async" loading="lazy" width="200" height="285" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9c/Middle-earth_Toys_-_Frodo_%28Shire%29.jpg/300px-Middle-earth_Toys_-_Frodo_%28Shire%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9c/Middle-earth_Toys_-_Frodo_%28Shire%29.jpg/400px-Middle-earth_Toys_-_Frodo_%28Shire%29.jpg 2x" data-file-width="1002" data-file-height="1427"/></a></span>
 </td>
-<td><b>Frodo của Shire</b><br/>Được bán độc quyền thông qua Câu lạc bộ đồ chơi.<sup id="cite_ref-RTMfrodo_10-2" class="reference"><a href="#cite_note-RTMfrodo-10">[10]</a></sup>
+<td><b>Frodo of the Shire</b><br/>Exclusively sold through the Toy Club.<sup id="cite_ref-RTMfrodo_10-2" class="reference"><a href="#cite_note-RTMfrodo-10">[10]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Frodo_(Barrow_Downs).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e3/Middle-earth_Toys_-_Frodo_%28Barrow_Downs%29.jpg/200px-Middle-earth_Toys_-_Frodo_%28Barrow_Downs%29.jpg" decoding="async" loading="lazy" width="200" height="288" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e3/Middle-earth_Toys_-_Frodo_%28Barrow_Downs%29.jpg/300px-Middle-earth_Toys_-_Frodo_%28Barrow_Downs%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e3/Middle-earth_Toys_-_Frodo_%28Barrow_Downs%29.jpg/400px-Middle-earth_Toys_-_Frodo_%28Barrow_Downs%29.jpg 2x" data-file-width="1083" data-file-height="1561"/></a></span>
 </td>
-<td><b>Frodo ở Barrow Downs</b><br/>Được bán độc quyền thông qua Diamond Comics, mặc đồ màu trắng.<sup id="cite_ref-RTMfrodo_10-3" class="reference"><a href="#cite_note-RTMfrodo-10">[10]</a></sup>
+<td><b>Frodo in the Barrow Downs</b><br/>Exclusively sold through Diamond Comics, clad in white.<sup id="cite_ref-RTMfrodo_10-3" class="reference"><a href="#cite_note-RTMfrodo-10">[10]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Frodo_(Hobbit).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0d/Middle-earth_Toys_-_Frodo_%28Hobbit%29.jpg/200px-Middle-earth_Toys_-_Frodo_%28Hobbit%29.jpg" decoding="async" loading="lazy" width="200" height="268" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0d/Middle-earth_Toys_-_Frodo_%28Hobbit%29.jpg/300px-Middle-earth_Toys_-_Frodo_%28Hobbit%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/0d/Middle-earth_Toys_-_Frodo_%28Hobbit%29.jpg/400px-Middle-earth_Toys_-_Frodo_%28Hobbit%29.jpg 2x" data-file-width="1064" data-file-height="1426"/></a></span>
 </td>
-<td><b>Frodo phiên bản Hobbit</b><br/>Phiên bản dành cho thị trường đại chúng.<sup id="cite_ref-RTMfrodo_10-4" class="reference"><a href="#cite_note-RTMfrodo-10">[10]</a></sup>
+<td><b>Frodo the Hobbit</b><br/>The mass-market version.<sup id="cite_ref-RTMfrodo_10-4" class="reference"><a href="#cite_note-RTMfrodo-10">[10]</a></sup>
 </td></tr>
 </tbody></table>
 
@@ -188,29 +188,29 @@ Các nhân vật đã được công bố nhưng chưa được phát hành bao 
 
 <table class="wikitable">
 <tbody><tr>
-<th>Ảnh
+<th>Photo
 </th>
-<th>Mô tả
+<th>Description
 </th></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Uglúk_(Hunt).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/46/Middle-earth_Toys_-_Ugl%C3%BAk_%28Hunt%29.jpg/200px-Middle-earth_Toys_-_Ugl%C3%BAk_%28Hunt%29.jpg" decoding="async" loading="lazy" width="200" height="277" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/46/Middle-earth_Toys_-_Ugl%C3%BAk_%28Hunt%29.jpg/300px-Middle-earth_Toys_-_Ugl%C3%BAk_%28Hunt%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/46/Middle-earth_Toys_-_Ugl%C3%BAk_%28Hunt%29.jpg/400px-Middle-earth_Toys_-_Ugl%C3%BAk_%28Hunt%29.jpg 2x" data-file-width="1079" data-file-height="1493"/></a></span>
 </td>
-<td><b>Uglúk on the Hunt</b><br/>Biến thể tiêu chuẩn.<sup id="cite_ref-RTMUglúk_11-1" class="reference"><a href="#cite_note-RTMUglúk-11">[11]</a></sup>
+<td><b>Uglúk on the Hunt</b><br/>The standard variant.<sup id="cite_ref-RTMUglúk_11-1" class="reference"><a href="#cite_note-RTMUglúk-11">[11]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Uglúk_(War).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8d/Middle-earth_Toys_-_Ugl%C3%BAk_%28War%29.jpg/200px-Middle-earth_Toys_-_Ugl%C3%BAk_%28War%29.jpg" decoding="async" loading="lazy" width="200" height="266" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8d/Middle-earth_Toys_-_Ugl%C3%BAk_%28War%29.jpg/300px-Middle-earth_Toys_-_Ugl%C3%BAk_%28War%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8d/Middle-earth_Toys_-_Ugl%C3%BAk_%28War%29.jpg/400px-Middle-earth_Toys_-_Ugl%C3%BAk_%28War%29.jpg 2x" data-file-width="665" data-file-height="883"/></a></span>
 </td>
-<td><b>Uglúk at War</b><br/>Được bán độc quyền thông qua Diamond Comics. Khiên của ông mang Bàn tay trắng.<sup id="cite_ref-RTMUglúk_11-2" class="reference"><a href="#cite_note-RTMUglúk-11">[11]</a></sup>
+<td><b>Uglúk at War</b><br/>Exclusively sold through Diamond Comics. His shield bears the White Hand.<sup id="cite_ref-RTMUglúk_11-2" class="reference"><a href="#cite_note-RTMUglúk-11">[11]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Uglúk_(Cave).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/55/Middle-earth_Toys_-_Ugl%C3%BAk_%28Cave%29.jpg/200px-Middle-earth_Toys_-_Ugl%C3%BAk_%28Cave%29.jpg" decoding="async" loading="lazy" width="200" height="275" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/55/Middle-earth_Toys_-_Ugl%C3%BAk_%28Cave%29.jpg/300px-Middle-earth_Toys_-_Ugl%C3%BAk_%28Cave%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/55/Middle-earth_Toys_-_Ugl%C3%BAk_%28Cave%29.jpg/400px-Middle-earth_Toys_-_Ugl%C3%BAk_%28Cave%29.jpg 2x" data-file-width="1044" data-file-height="1438"/></a></span>
 </td>
-<td><b>Uglúk trong hang động</b><br/>Được bán độc quyền thông qua Câu lạc bộ đồ chơi. Áo giáp của ông bằng đồng.<sup id="cite_ref-RTMUglúk_11-3" class="reference"><a href="#cite_note-RTMUglúk-11">[11]</a></sup>
+<td><b>Uglúk in his Cave</b><br/>Exclusively sold through the Toy Club. His armour is bronze.<sup id="cite_ref-RTMUglúk_11-3" class="reference"><a href="#cite_note-RTMUglúk-11">[11]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Uglúk_(Orc).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/db/Middle-earth_Toys_-_Ugl%C3%BAk_%28Orc%29.jpg/200px-Middle-earth_Toys_-_Ugl%C3%BAk_%28Orc%29.jpg" decoding="async" loading="lazy" width="200" height="255" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/db/Middle-earth_Toys_-_Ugl%C3%BAk_%28Orc%29.jpg/300px-Middle-earth_Toys_-_Ugl%C3%BAk_%28Orc%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/db/Middle-earth_Toys_-_Ugl%C3%BAk_%28Orc%29.jpg/400px-Middle-earth_Toys_-_Ugl%C3%BAk_%28Orc%29.jpg 2x" data-file-width="1170" data-file-height="1490"/></a></span>
 </td>
-<td><b>Uglúk Phiên bản Orc</b><br/>Phiên bản dành cho đại chúng.<sup id="cite_ref-RTMUglúk_11-4" class="reference"><a href="#cite_note-RTMUglúk-11">[11]</a></sup>
+<td><b>Uglúk The Orc</b><br/>The mass-market version.<sup id="cite_ref-RTMUglúk_11-4" class="reference"><a href="#cite_note-RTMUglúk-11">[11]</a></sup>
 </td></tr>
 </tbody></table>
 
@@ -257,29 +257,29 @@ Như đã lưu ý trước đó, dòng sản phẩm dành cho thị trường đ
 
 <table class="wikitable">
 <tbody><tr>
-<th>Ảnh
+<th>Photo
 </th>
-<th>Mô tả
+<th>Description
 </th></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Gimli_(Battle).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/32/Middle-earth_Toys_-_Gimli_%28Battle%29.jpg/200px-Middle-earth_Toys_-_Gimli_%28Battle%29.jpg" decoding="async" loading="lazy" width="200" height="279" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/32/Middle-earth_Toys_-_Gimli_%28Battle%29.jpg/300px-Middle-earth_Toys_-_Gimli_%28Battle%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/32/Middle-earth_Toys_-_Gimli_%28Battle%29.jpg/400px-Middle-earth_Toys_-_Gimli_%28Battle%29.jpg 2x" data-file-width="422" data-file-height="588"/></a></span>
 </td>
-<td><b>Gimli trong Trận chiến</b><br/>Biến thể tiêu chuẩn.<sup id="cite_ref-RTMgimli_12-1" class="reference"><a href="#cite_note-RTMgimli-12">[12]</a></sup>
+<td><b>Gimli in Battle</b><br/>The standard variant.<sup id="cite_ref-RTMgimli_12-1" class="reference"><a href="#cite_note-RTMgimli-12">[12]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Gimli_(Lórien).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/39/Middle-earth_Toys_-_Gimli_%28L%C3%B3rien%29.jpg/200px-Middle-earth_Toys_-_Gimli_%28L%C3%B3rien%29.jpg" decoding="async" loading="lazy" width="200" height="292" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/39/Middle-earth_Toys_-_Gimli_%28L%C3%B3rien%29.jpg/300px-Middle-earth_Toys_-_Gimli_%28L%C3%B3rien%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/39/Middle-earth_Toys_-_Gimli_%28L%C3%B3rien%29.jpg/400px-Middle-earth_Toys_-_Gimli_%28L%C3%B3rien%29.jpg 2x" data-file-width="1073" data-file-height="1564"/></a></span>
 </td>
-<td><b>Gimli trong Lórien</b><br/>Được bán độc quyền thông qua Câu lạc bộ đồ chơi.<sup id="cite_ref-RTMgimli_12-2" class="reference"><a href="#cite_note-RTMgimli-12">[12]</a></sup>
+<td><b>Gimli in Lórien</b><br/>Exclusively sold through the Toy Club.<sup id="cite_ref-RTMgimli_12-2" class="reference"><a href="#cite_note-RTMgimli-12">[12]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Gimli_(Fellowship).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f0/Middle-earth_Toys_-_Gimli_%28Fellowship%29.jpg/200px-Middle-earth_Toys_-_Gimli_%28Fellowship%29.jpg" decoding="async" loading="lazy" width="200" height="288" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f0/Middle-earth_Toys_-_Gimli_%28Fellowship%29.jpg/300px-Middle-earth_Toys_-_Gimli_%28Fellowship%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f0/Middle-earth_Toys_-_Gimli_%28Fellowship%29.jpg/400px-Middle-earth_Toys_-_Gimli_%28Fellowship%29.jpg 2x" data-file-width="1019" data-file-height="1465"/></a></span>
 </td>
-<td><b>Gimli của Hiệp hội</b><br/>Được bán độc quyền thông qua Diamond Comics.<sup id="cite_ref-RTMgimli_12-3" class="reference"><a href="#cite_note-RTMgimli-12">[12]</a></sup>
+<td><b>Gimli of the Fellowship</b><br/>Exclusively sold through Diamond Comics.<sup id="cite_ref-RTMgimli_12-3" class="reference"><a href="#cite_note-RTMgimli-12">[12]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Gimli_(Dwarf).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a5/Middle-earth_Toys_-_Gimli_%28Dwarf%29.jpg/200px-Middle-earth_Toys_-_Gimli_%28Dwarf%29.jpg" decoding="async" loading="lazy" width="200" height="276" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a5/Middle-earth_Toys_-_Gimli_%28Dwarf%29.jpg/300px-Middle-earth_Toys_-_Gimli_%28Dwarf%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a5/Middle-earth_Toys_-_Gimli_%28Dwarf%29.jpg/400px-Middle-earth_Toys_-_Gimli_%28Dwarf%29.jpg 2x" data-file-width="662" data-file-height="915"/></a></span>
 </td>
-<td><b>Gimli Phiên bản Người Lùn</b><br/>Phiên bản dành cho đại chúng.<sup id="cite_ref-RTMgimli_12-4" class="reference"><a href="#cite_note-RTMgimli-12">[12]</a></sup>
+<td><b>Gimli The Dwarf</b><br/>The mass-market version.<sup id="cite_ref-RTMgimli_12-4" class="reference"><a href="#cite_note-RTMgimli-12">[12]</a></sup>
 </td></tr>
 </tbody></table>
 
@@ -289,29 +289,29 @@ Như đã lưu ý trước đó, dòng sản phẩm dành cho thị trường đ
 
 <table class="wikitable">
 <tbody><tr>
-<th>Ảnh
+<th>Photo
 </th>
-<th>Mô tả
+<th>Description
 </th></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Gollum_(Sméagol).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/04/Middle-earth_Toys_-_Gollum_%28Sm%C3%A9agol%29.jpg/200px-Middle-earth_Toys_-_Gollum_%28Sm%C3%A9agol%29.jpg" decoding="async" loading="lazy" width="200" height="285" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/04/Middle-earth_Toys_-_Gollum_%28Sm%C3%A9agol%29.jpg/300px-Middle-earth_Toys_-_Gollum_%28Sm%C3%A9agol%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/04/Middle-earth_Toys_-_Gollum_%28Sm%C3%A9agol%29.jpg/400px-Middle-earth_Toys_-_Gollum_%28Sm%C3%A9agol%29.jpg 2x" data-file-width="1003" data-file-height="1430"/></a></span>
 </td>
-<td><b>Gollum AKA Sméagol</b><br/>Biến thể tiêu chuẩn.<sup id="cite_ref-RTMgollum_13-1" class="reference"><a href="#cite_note-RTMgollum-13">[13]</a></sup>
+<td><b>Gollum AKA Sméagol</b><br/>The standard variant.<sup id="cite_ref-RTMgollum_13-1" class="reference"><a href="#cite_note-RTMgollum-13">[13]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Gollum_(Precious).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/54/Middle-earth_Toys_-_Gollum_%28Precious%29.jpg/200px-Middle-earth_Toys_-_Gollum_%28Precious%29.jpg" decoding="async" loading="lazy" width="200" height="285" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/54/Middle-earth_Toys_-_Gollum_%28Precious%29.jpg/300px-Middle-earth_Toys_-_Gollum_%28Precious%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/54/Middle-earth_Toys_-_Gollum_%28Precious%29.jpg/400px-Middle-earth_Toys_-_Gollum_%28Precious%29.jpg 2x" data-file-width="1012" data-file-height="1440"/></a></span>
 </td>
-<td><b>Gollum với chiếc Precious</b><br/>Được bán độc quyền thông qua Câu lạc bộ đồ chơi.<sup id="cite_ref-RTMgollum_13-2" class="reference"><a href="#cite_note-RTMgollum-13">[13]</a></sup>
+<td><b>Gollum with his Precious</b><br/>Exclusively sold through the Toy Club.<sup id="cite_ref-RTMgollum_13-2" class="reference"><a href="#cite_note-RTMgollum-13">[13]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Gollum_(Fisherman).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e7/Middle-earth_Toys_-_Gollum_%28Fisherman%29.jpg/200px-Middle-earth_Toys_-_Gollum_%28Fisherman%29.jpg" decoding="async" loading="lazy" width="200" height="289" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e7/Middle-earth_Toys_-_Gollum_%28Fisherman%29.jpg/300px-Middle-earth_Toys_-_Gollum_%28Fisherman%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e7/Middle-earth_Toys_-_Gollum_%28Fisherman%29.jpg/400px-Middle-earth_Toys_-_Gollum_%28Fisherman%29.jpg 2x" data-file-width="1001" data-file-height="1446"/></a></span>
 </td>
-<td><b>Gollum the Fisherman</b><br/>Được bán độc quyền thông qua Diamond Comics.<sup id="cite_ref-RTMgollum_13-3" class="reference"><a href="#cite_note-RTMgollum-13">[13]</a></sup>
+<td><b>Gollum the Fisherman</b><br/>Exclusively sold through Diamond Comics.<sup id="cite_ref-RTMgollum_13-3" class="reference"><a href="#cite_note-RTMgollum-13">[13]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Gollum_(Evil_Hobbit).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/41/Middle-earth_Toys_-_Gollum_%28Evil_Hobbit%29.jpg/200px-Middle-earth_Toys_-_Gollum_%28Evil_Hobbit%29.jpg" decoding="async" loading="lazy" width="200" height="264" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/41/Middle-earth_Toys_-_Gollum_%28Evil_Hobbit%29.jpg/300px-Middle-earth_Toys_-_Gollum_%28Evil_Hobbit%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/41/Middle-earth_Toys_-_Gollum_%28Evil_Hobbit%29.jpg/400px-Middle-earth_Toys_-_Gollum_%28Evil_Hobbit%29.jpg 2x" data-file-width="1036" data-file-height="1368"/></a></span>
 </td>
-<td><b>Gollum Ác ma Hobbit</b><br/>Phiên bản dành cho đại chúng.<sup id="cite_ref-RTMgollum_13-4" class="reference"><a href="#cite_note-RTMgollum-13">[13]</a></sup>
+<td><b>Gollum the Evil Hobbit</b><br/>The mass-market version.<sup id="cite_ref-RTMgollum_13-4" class="reference"><a href="#cite_note-RTMgollum-13">[13]</a></sup>
 </td></tr>
 </tbody></table>
 
@@ -353,29 +353,29 @@ Nhân vật Elrond chưa được phát hành ban đầu nhằm mục đích tha
 
 <table class="wikitable">
 <tbody><tr>
-<th>Ảnh
+<th>Photo
 </th>
-<th>Mô tả
+<th>Description
 </th></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Galadriel_(Queen).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/56/Middle-earth_Toys_-_Galadriel_%28Queen%29.jpg/200px-Middle-earth_Toys_-_Galadriel_%28Queen%29.jpg" decoding="async" loading="lazy" width="200" height="271" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/56/Middle-earth_Toys_-_Galadriel_%28Queen%29.jpg/300px-Middle-earth_Toys_-_Galadriel_%28Queen%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/56/Middle-earth_Toys_-_Galadriel_%28Queen%29.jpg/400px-Middle-earth_Toys_-_Galadriel_%28Queen%29.jpg 2x" data-file-width="1036" data-file-height="1405"/></a></span>
 </td>
-<td><b>Galadriel một Tiên Nữ hoàng</b><br/>Biến thể tiêu chuẩn.<sup id="cite_ref-RTMgaladriel_14-1" class="reference"><a href="#cite_note-RTMgaladriel-14">[14]</a></sup>
+<td><b>Galadriel an Elven Queen</b><br/>The standard variant.<sup id="cite_ref-RTMgaladriel_14-1" class="reference"><a href="#cite_note-RTMgaladriel-14">[14]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Galadriel_(White_Lady).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/be/Middle-earth_Toys_-_Galadriel_%28White_Lady%29.jpg/200px-Middle-earth_Toys_-_Galadriel_%28White_Lady%29.jpg" decoding="async" loading="lazy" width="200" height="265" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/be/Middle-earth_Toys_-_Galadriel_%28White_Lady%29.jpg/300px-Middle-earth_Toys_-_Galadriel_%28White_Lady%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/be/Middle-earth_Toys_-_Galadriel_%28White_Lady%29.jpg/400px-Middle-earth_Toys_-_Galadriel_%28White_Lady%29.jpg 2x" data-file-width="949" data-file-height="1258"/></a></span>
 </td>
-<td><b>Galadriel Quý Bà Trắng</b><br/>Được bán độc quyền thông qua Câu lạc bộ Đồ chơi.<sup id="cite_ref-RTMgaladriel_14-2" class="reference"><a href="#cite_note-RTMgaladriel-14">[14]</a></sup>
+<td><b>Galadriel The White Lady</b><br/>Exclusively sold through the Toy Club.<sup id="cite_ref-RTMgaladriel_14-2" class="reference"><a href="#cite_note-RTMgaladriel-14">[14]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Galadriel_(Lady_of_the_Wood).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6d/Middle-earth_Toys_-_Galadriel_%28Lady_of_the_Wood%29.jpg/200px-Middle-earth_Toys_-_Galadriel_%28Lady_of_the_Wood%29.jpg" decoding="async" loading="lazy" width="200" height="271" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6d/Middle-earth_Toys_-_Galadriel_%28Lady_of_the_Wood%29.jpg/300px-Middle-earth_Toys_-_Galadriel_%28Lady_of_the_Wood%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6d/Middle-earth_Toys_-_Galadriel_%28Lady_of_the_Wood%29.jpg/400px-Middle-earth_Toys_-_Galadriel_%28Lady_of_the_Wood%29.jpg 2x" data-file-width="1055" data-file-height="1430"/></a></span>
 </td>
-<td><b>Galadriel Lady of the Wood</b><br/>Được bán độc quyền thông qua Diamond Comics.<sup id="cite_ref-RTMgaladriel_14-3" class="reference"><a href="#cite_note-RTMgaladriel-14">[14]</a></sup>
+<td><b>Galadriel Lady of the Wood</b><br/>Exclusively sold through Diamond Comics.<sup id="cite_ref-RTMgaladriel_14-3" class="reference"><a href="#cite_note-RTMgaladriel-14">[14]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Galadriel.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6a/Middle-earth_Toys_-_Galadriel.jpg/200px-Middle-earth_Toys_-_Galadriel.jpg" decoding="async" loading="lazy" width="200" height="269" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6a/Middle-earth_Toys_-_Galadriel.jpg/300px-Middle-earth_Toys_-_Galadriel.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6a/Middle-earth_Toys_-_Galadriel.jpg/400px-Middle-earth_Toys_-_Galadriel.jpg 2x" data-file-width="981" data-file-height="1318"/></a></span>
 </td>
-<td><b>Galadriel</b><br/>Phiên bản dành cho đại chúng.<sup id="cite_ref-RTMgaladriel_14-4" class="reference"><a href="#cite_note-RTMgaladriel-14">[14]</a></sup>
+<td><b>Galadriel</b><br/>The mass-market version.<sup id="cite_ref-RTMgaladriel_14-4" class="reference"><a href="#cite_note-RTMgaladriel-14">[14]</a></sup>
 </td></tr>
 </tbody></table>
 
@@ -385,29 +385,29 @@ Nhân vật Elrond chưa được phát hành ban đầu nhằm mục đích tha
 
 <table class="wikitable">
 <tbody><tr>
-<th>Ảnh
+<th>Photo
 </th>
-<th>Mô tả
+<th>Description
 </th></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Barrow-wight_(Angmar).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/14/Middle-earth_Toys_-_Barrow-wight_%28Angmar%29.jpg/200px-Middle-earth_Toys_-_Barrow-wight_%28Angmar%29.jpg" decoding="async" loading="lazy" width="200" height="266" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/14/Middle-earth_Toys_-_Barrow-wight_%28Angmar%29.jpg/300px-Middle-earth_Toys_-_Barrow-wight_%28Angmar%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/14/Middle-earth_Toys_-_Barrow-wight_%28Angmar%29.jpg/400px-Middle-earth_Toys_-_Barrow-wight_%28Angmar%29.jpg 2x" data-file-width="1024" data-file-height="1363"/></a></span>
 </td>
-<td><b>Ác linh Angmar</b><br/>Phiên bản tiêu chuẩn.<sup id="cite_ref-RTMwight_15-1" class="reference"><a href="#cite_note-RTMwight-15">[15]</a></sup>
+<td><b>Evil Spirit of Angmar</b><br/>The standard variant.<sup id="cite_ref-RTMwight_15-1" class="reference"><a href="#cite_note-RTMwight-15">[15]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Barrow-wight.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3a/Middle-earth_Toys_-_Barrow-wight.jpg/200px-Middle-earth_Toys_-_Barrow-wight.jpg" decoding="async" loading="lazy" width="200" height="278" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3a/Middle-earth_Toys_-_Barrow-wight.jpg/300px-Middle-earth_Toys_-_Barrow-wight.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3a/Middle-earth_Toys_-_Barrow-wight.jpg/400px-Middle-earth_Toys_-_Barrow-wight.jpg 2x" data-file-width="929" data-file-height="1292"/></a></span>
 </td>
-<td><b>Barrow-wight</b><br/>Được bán độc quyền thông qua Toy Club.<sup id="cite_ref-RTMwight_15-2" class="reference"><a href="#cite_note-RTMwight-15">[15]</a></sup>
+<td><b>The Barrow-wight</b><br/>Exclusively sold through the Toy Club.<sup id="cite_ref-RTMwight_15-2" class="reference"><a href="#cite_note-RTMwight-15">[15]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Barrow-wight_(Nocturnal).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5d/Middle-earth_Toys_-_Barrow-wight_%28Nocturnal%29.jpg/200px-Middle-earth_Toys_-_Barrow-wight_%28Nocturnal%29.jpg" decoding="async" loading="lazy" width="200" height="279" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5d/Middle-earth_Toys_-_Barrow-wight_%28Nocturnal%29.jpg/300px-Middle-earth_Toys_-_Barrow-wight_%28Nocturnal%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5d/Middle-earth_Toys_-_Barrow-wight_%28Nocturnal%29.jpg/400px-Middle-earth_Toys_-_Barrow-wight_%28Nocturnal%29.jpg 2x" data-file-width="1150" data-file-height="1603"/></a></span>
 </td>
-<td><b>Barrow-wight về đêm</b><br/>Được bán độc quyền thông qua Diamond Comics.<sup id="cite_ref-RTMwight_15-3" class="reference"><a href="#cite_note-RTMwight-15">[15]</a></sup>
+<td><b>The Nocturnal Barrow-wight</b><br/>Exclusively sold through Diamond Comics.<sup id="cite_ref-RTMwight_15-3" class="reference"><a href="#cite_note-RTMwight-15">[15]</a></sup>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_-_Barrow-wight_(Wight).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4f/Middle-earth_Toys_-_Barrow-wight_%28Wight%29.jpg/200px-Middle-earth_Toys_-_Barrow-wight_%28Wight%29.jpg" decoding="async" loading="lazy" width="200" height="270" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4f/Middle-earth_Toys_-_Barrow-wight_%28Wight%29.jpg/300px-Middle-earth_Toys_-_Barrow-wight_%28Wight%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4f/Middle-earth_Toys_-_Barrow-wight_%28Wight%29.jpg/400px-Middle-earth_Toys_-_Barrow-wight_%28Wight%29.jpg 2x" data-file-width="1111" data-file-height="1500"/></a></span>
 </td>
-<td><b>The Wight</b><br/>Phiên bản dành cho đại chúng.<sup id="cite_ref-RTMwight_15-4" class="reference"><a href="#cite_note-RTMwight-15">[15]</a></sup>
+<td><b>The Wight</b><br/>The mass-market version.<sup id="cite_ref-RTMwight_15-4" class="reference"><a href="#cite_note-RTMwight-15">[15]</a></sup>
 </td></tr>
 </tbody></table>
 
@@ -417,21 +417,21 @@ Nhân vật Elrond chưa được phát hành ban đầu nhằm mục đích tha
 		<li class="gallerybox" style="width: 98.666666666667px">
 			<div class="thumb" style="width: 96.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_advertisement.jpg.md" title="Magazine advertisement"><img alt="Magazine advertisement" src="https://tolkiengateway.net/w/images/thumb/c/c2/Middle-earth_Toys_advertisement.jpg/145px-Middle-earth_Toys_advertisement.jpg" decoding="async" loading="lazy" width="97" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c2/Middle-earth_Toys_advertisement.jpg/217px-Middle-earth_Toys_advertisement.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c2/Middle-earth_Toys_advertisement.jpg/289px-Middle-earth_Toys_advertisement.jpg 2x" data-file-width="506" data-file-height="1310"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 77px"><div class="gallerytext">
-<p>Quảng cáo tạp chí
+<p>Magazine advertisement
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 169.33333333333px">
 			<div class="thumb" style="width: 167.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Toys_Shadow_Balrog_advertisement.jpg.md" title="Magazine order form for Shadow Balrog"><img alt="Magazine order form for Shadow Balrog" src="https://tolkiengateway.net/w/images/thumb/2/2b/Middle-earth_Toys_Shadow_Balrog_advertisement.jpg/251px-Middle-earth_Toys_Shadow_Balrog_advertisement.jpg" decoding="async" loading="lazy" width="168" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2b/Middle-earth_Toys_Shadow_Balrog_advertisement.jpg/377px-Middle-earth_Toys_Shadow_Balrog_advertisement.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2b/Middle-earth_Toys_Shadow_Balrog_advertisement.jpg/502px-Middle-earth_Toys_Shadow_Balrog_advertisement.jpg 2x" data-file-width="953" data-file-height="1422"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 148px"><div class="gallerytext">
-<p>Phiếu đặt tạp chí cho Bóng Tối Balrog
+<p>Magazine order form for Shadow Balrog
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 157.33333333333px">
 			<div class="thumb" style="width: 155.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg.md" title="Dutch magazine advertisement"><img alt="Dutch magazine advertisement" src="https://tolkiengateway.net/w/images/thumb/e/e1/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg/233px-Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg" decoding="async" loading="lazy" width="156" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e1/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg/350px-Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e1/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg/466px-Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg 2x" data-file-width="1555" data-file-height="2500"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 136px"><div class="gallerytext">
-<p>Quảng cáo tạp chí Hà Lan
+<p>Dutch magazine advertisement
 </p>
 			</div></div>
 		</li>

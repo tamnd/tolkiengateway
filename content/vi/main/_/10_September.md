@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/10._syyskuuta"
 ---
 
-<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=10_September/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Thêm sự kiện được tuyển chọn</a></div><div class="tg-section-divider"><span><a href="../S/September.md" title="September">tháng Chín</a></span></div>
+<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=10_September/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Add curated event</a></div><div class="tg-section-divider"><span><a href="../S/September.md" title="September">September</a></span></div>
 <div class="template-month__grid">
 <div class="template-month__day"><a href="1_September.md" title="1 September">1</a></div>
 <div class="template-month__day"><a href="2_September.md" title="2 September">2</a></div>
@@ -55,7 +55,7 @@ langlinks:
 <div class="template-month__day"><a href="28_September.md" title="28 September">28</a></div>
 <div class="template-month__day"><a href="29_September.md" title="29 September">29</a></div>
 <div class="template-month__day"><a href="30_September.md" title="30 September">30</a></div>
-</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Tháng 1</a></div><div class="tg-button"><a href="../F/February.md" title="February">Tháng 2</a></div><div class="tg-button"><a href="../M/March.md" title="March">Tháng 3</a></div><div class="tg-button"><a href="../A/April.md" title="April">Tháng 4</a></div><div class="tg-button"><a href="../M/May.md" title="May">Tháng 5</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Tháng 7</a></div><div class="tg-button"><a href="../A/August.md" title="August">Tháng 8</a></div><div class="tg-button"><a href="../S/September.md" title="September">Tháng 9</a></div><div class="tg-button"><a href="../O/October.md" title="October">Tháng 10</a></div><div class="tg-button"><a href="../N/November.md" title="November">Tháng 11</a></div><div class="tg-button"><a href="../D/December.md" title="December">Tháng 12</a></div></div>
+</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
 Sự kiện xảy ra vào ngày 10 tháng Chín.
@@ -65,11 +65,11 @@ Sự kiện xảy ra vào ngày 10 tháng Chín.
 - **[1950](1950.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trở về sau kỳ nghỉ tại [ngôi nhà của con trai ông](../M/Michael_Tolkien.md), nơi ông đã thực hiện một số sửa đổi cuối cùng đối với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (xem [Thư 134](../L/Letter_134.md)).
 - **[1950](1950.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 129](../L/Letter_129.md).
 - **[1951](1951.md)** - Ngày đầu tiên của Congrès Internationale de Philologie Moderne tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Li%C3%A8ge" title="wikipedia:University of Liège">Đại học Liège</a>, một hội nghị trong đó [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trình bày bài báo "[tiếng Anh trung cổ 'Losenger'](../M/Middle_English_'Losenger'.md)".
-- **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) giành được [Giải thưởng Kỳ ảo Quốc tế](../T/The_Bookseller,_14_September_1957.md).
+- **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) giành được [Giải thưởng giả tưởng quốc tế](../T/The_Bookseller,_14_September_1957.md).
 - **[1959](1959.md)** - Diễn viên [Jim Meskimen](../J/Jim_Meskimen.md) ra đời.
 - **[1964](1964.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 263](../L/Letter_263.md).
 - **[2007](2007.md)** - *["from mind to mind": Robert Browning and J.R.R. Tolkien](../F/From_Mind_to_Mind.md)* được xuất bản.
-- **[2010](2010.md)** - Tiếng Bulgaria Tolkien Lần thứ 6 của Hội Tolkien-Lễ hội ở <a class="extiw" href="http://en.wikipedia.org/wiki/Sofia" title="wikipedia:Sofia">Sofia</a>.
+- **[2010](2010.md)** - Tiếng Bulgaria Tolkien Lần thứ 6 của Hiệp hội Tolkien-Lễ hội ở <a class="extiw" href="http://en.wikipedia.org/wiki/Sofia" title="wikipedia:Sofia">Sofia</a>.
 - **[2010](2010.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* được chơi miễn phí cho công chúng ở Bắc Mỹ.
 - **[2015](2015.md)** - [Oxonmoot 2015](../O/Oxonmoot_2015.md) tại <a class="external text" href="http://www.sant.ox.ac.uk" rel="noreferrer noopener" target="_blank">Trường Cao đẳng St Antony</a>.
 - **[2016](2016.md)** - [Oxonmoot 2016](../O/Oxonmoot_2016.md) tại <a class="external text" href="http://www.sant.ox.ac.uk" rel="noreferrer noopener" target="_blank">Trường Cao đẳng St Antony</a>.

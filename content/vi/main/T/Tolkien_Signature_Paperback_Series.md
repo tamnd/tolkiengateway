@@ -101,7 +101,7 @@ Cũng được phát hành vào năm 2025 là *[The Road to Middle-earth](The_Ro
 		<li class="gallerybox" style="width: 210px">
 			<div class="thumb" style="width: 205px; height: 205px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_2022-pb-2.jpg.md" title="The Lord of the Rings one volume"><img alt="The Lord of the Rings one volume" src="https://tolkiengateway.net/w/images/thumb/4/44/The_Lord_of_the_Rings_OV_2022-pb-2.jpg/114px-The_Lord_of_the_Rings_OV_2022-pb-2.jpg" decoding="async" loading="lazy" width="114" height="175" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/44/The_Lord_of_the_Rings_OV_2022-pb-2.jpg/171px-The_Lord_of_the_Rings_OV_2022-pb-2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/44/The_Lord_of_the_Rings_OV_2022-pb-2.jpg/228px-The_Lord_of_the_Rings_OV_2022-pb-2.jpg 2x" data-file-width="1500" data-file-height="2301"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a><br/>một tập
+<p><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a><br/>one volume
 </p>
 			</div>
 		</li>
@@ -171,7 +171,7 @@ Cũng được phát hành vào năm 2025 là *[The Road to Middle-earth](The_Ro
 		<li class="gallerybox" style="width: 210px">
 			<div class="thumb" style="width: 205px; height: 205px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/W/War_of_the_Ring_2024.jpeg.md" title="The War of the Ring"><img alt="The War of the Ring" src="https://tolkiengateway.net/w/images/thumb/2/29/War_of_the_Ring_2024.jpeg/115px-War_of_the_Ring_2024.jpeg" decoding="async" loading="lazy" width="115" height="175" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/29/War_of_the_Ring_2024.jpeg/172px-War_of_the_Ring_2024.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/2/29/War_of_the_Ring_2024.jpeg/229px-War_of_the_Ring_2024.jpeg 2x" data-file-width="984" data-file-height="1500"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="The_War_of_the_Ring.md" title="The War of the Ring">Cuộc chiến Nhẫn</a>
+<p><a href="The_War_of_the_Ring.md" title="The War of the Ring">The War of the Ring</a>
 </p>
 			</div>
 		</li>
@@ -206,7 +206,7 @@ Cũng được phát hành vào năm 2025 là *[The Road to Middle-earth](The_Ro
 		<li class="gallerybox" style="width: 210px">
 			<div class="thumb" style="width: 205px; height: 205px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_History_of_Middle-earth_Index_2024.jpeg.md" title="Index"><img alt="Index" src="https://tolkiengateway.net/w/images/thumb/9/99/The_History_of_Middle-earth_Index_2024.jpeg/114px-The_History_of_Middle-earth_Index_2024.jpeg" decoding="async" loading="lazy" width="114" height="175" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/99/The_History_of_Middle-earth_Index_2024.jpeg/171px-The_History_of_Middle-earth_Index_2024.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/9/99/The_History_of_Middle-earth_Index_2024.jpeg/228px-The_History_of_Middle-earth_Index_2024.jpeg 2x" data-file-width="1524" data-file-height="2339"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="The_History_of_Middle-earth_Index.md" title="The History of Middle-earth Index">Mục lục</a>
+<p><a href="The_History_of_Middle-earth_Index.md" title="The History of Middle-earth Index">Index</a>
 </p>
 			</div>
 		</li>
@@ -262,7 +262,7 @@ Cũng được phát hành vào năm 2025 là *[The Road to Middle-earth](The_Ro
 		<li class="gallerybox" style="width: 210px">
 			<div class="thumb" style="width: 205px; height: 205px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/W/Wootton_Major_2025.jpg.md" title="Smith of Wootton Major"><img alt="Smith of Wootton Major" src="https://tolkiengateway.net/w/images/thumb/2/26/Wootton_Major_2025.jpg/113px-Wootton_Major_2025.jpg" decoding="async" loading="lazy" width="113" height="175" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/26/Wootton_Major_2025.jpg/170px-Wootton_Major_2025.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/26/Wootton_Major_2025.jpg/226px-Wootton_Major_2025.jpg 2x" data-file-width="971" data-file-height="1500"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../S/Smith_of_Wootton_Major.md" title="Smith of Wootton Major">Thợ rèn ở Wootton Major</a>
+<p><a href="../S/Smith_of_Wootton_Major.md" title="Smith of Wootton Major">Smith of Wootton Major</a>
 </p>
 			</div>
 		</li>
@@ -283,7 +283,7 @@ Cũng được phát hành vào năm 2025 là *[The Road to Middle-earth](The_Ro
 		<li class="gallerybox" style="width: 210px">
 			<div class="thumb" style="width: 205px; height: 205px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tolkien_On_Fairy-stories_2025.jpg.md" title="Tolkien On Fairy-stories"><img alt="Tolkien On Fairy-stories" src="https://tolkiengateway.net/w/images/thumb/4/46/Tolkien_On_Fairy-stories_2025.jpg/114px-Tolkien_On_Fairy-stories_2025.jpg" decoding="async" loading="lazy" width="114" height="175" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/46/Tolkien_On_Fairy-stories_2025.jpg/171px-Tolkien_On_Fairy-stories_2025.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/46/Tolkien_On_Fairy-stories_2025.jpg/227px-Tolkien_On_Fairy-stories_2025.jpg 2x" data-file-width="533" data-file-height="820"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="Tolkien_On_Fairy-stories~23734.md" title="Tolkien On Fairy-stories">Tolkien bàn về truyện thần tiên</a>
+<p><a href="Tolkien_On_Fairy-stories~23734.md" title="Tolkien On Fairy-stories">Tolkien On Fairy-stories</a>
 </p>
 			</div>
 		</li>

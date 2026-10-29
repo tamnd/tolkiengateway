@@ -14,8 +14,8 @@ images:
   - "Material_icon_-_Construction.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
-<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
+<p>We have a long way to go, and there is time ahead for thought.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
@@ -32,7 +32,7 @@ Mục đích của trang này là trình bày niên đại các tác phẩm củ
 
 <table class="wikitable">
 <tbody><tr>
-<th>Ngày</th>
+<th>Date</th>
 <th>Hobbit</th>
 <th>Lord of the Rings</th>
 <th>Ainulindalë</th>
@@ -65,7 +65,7 @@ Mục đích của trang này là trình bày niên đại các tác phẩm củ
 </th>
 <td></td>
 <td></td>
-<td><a href="../T/The_Music_of_the_Ainur.md" title="The Music of the Ainur">Âm nhạc của các Ainur</a></td>
+<td><a href="../T/The_Music_of_the_Ainur.md" title="The Music of the Ainur">The Music of the Ainur</a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -175,7 +175,7 @@ Mục đích của trang này là trình bày niên đại các tác phẩm củ
 <td>‘<a href="../T/The_Flight_of_the_Noldoli_from_Valinor.md" title="The Flight of the Noldoli from Valinor">The Flight of the Noldoli from Valinor</a>’</td>
 <td></td>
 <td><a href="../T/The_Lay_of_Leithian.md" title="The Lay of Leithian">The Lay of Leithian</a></td>
-<td><a href="../F/Fragment_of_an_alliterative_Lay_of_Eärendel.md" title="Fragment of an alliterative Lay of Eärendel">Một đoạn của Lay động từ Eärendel</a></td>
+<td><a href="../F/Fragment_of_an_alliterative_Lay_of_Eärendel.md" title="Fragment of an alliterative Lay of Eärendel">Fragment of an alliterative Lay of Eärendel</a></td>
 <td></td>
 <td></td>
 <td>
@@ -247,7 +247,7 @@ Khoảng thời gian này là khoảng thời gian hiệu quả nhất trong cu�
 
 <table class="wikitable">
 <tbody><tr>
-<th>Ngày</th>
+<th>Date</th>
 <th>Hobbit</th>
 <th>Lord of the Rings</th>
 <th>Ainulindalë</th>
@@ -278,7 +278,7 @@ Khoảng thời gian này là khoảng thời gian hiệu quả nhất trong cu�
 <tr>
 <th>1931
 </th>
-<td><a href="../T/The_Hobbit.md" title="The Hobbit">Ăn xin. của ấn bản đầu tiên viết về The Hobbit</a></td>
+<td><a href="../T/The_Hobbit.md" title="The Hobbit">Beg. of 1st Edition writing of The Hobbit</a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -338,7 +338,7 @@ Khoảng thời gian này là khoảng thời gian hiệu quả nhất trong cu�
 <tr>
 <th>1935
 </th>
-<td>T<a href="../T/The_Hobbit.md" title="The Hobbit">anh Hobbit - kết thúc bài viết</a></td>
+<td>T<a href="../T/The_Hobbit.md" title="The Hobbit">he Hobbit - end of writing</a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -368,7 +368,7 @@ Khoảng thời gian này là khoảng thời gian hiệu quả nhất trong cu�
 <tr>
 <th>1937
 </th>
-<td>The Hobbit tái bản lần thứ nhất. công bố</td>
+<td>The Hobbit 1st ed. publication</td>
 <td></td>
 <td><a class="mw-redirect" href="../A/Ambarkanta.md" title="Ambarkanta">Ambarkanta</a></td>
 <td></td>
@@ -384,7 +384,7 @@ Khoảng thời gian này là khoảng thời gian hiệu quả nhất trong cu�
 <th>1938
 </th>
 <td></td>
-<td><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">LoTR - Phiên bản đầu tiên cầu xin. viết</a></td>
+<td><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">LoTR - 1st Edition beg. of writing</a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -564,7 +564,7 @@ Khoảng thời gian này là khoảng thời gian hiệu quả nhất trong cu�
 <th>1950
 </th>
 <td></td>
-<td><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">LoTR - Phiên bản đầu tiên kết thúc bài viết</a></td>
+<td><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">LoTR - 1st Edition end of writing</a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -752,16 +752,16 @@ Trong giai đoạn này của cuộc đời, Tolkien đã từ bỏ mọi hy v�
 
 <table class="wikitable">
 <tbody><tr>
-<th>Ngày</th>
-<th>Ngôn ngữ</th>
+<th>Date</th>
+<th>Language</th>
 <th>Maps</th>
-<th>Câu chuyện của năm</th>
+<th>Tale of the years</th>
 <th>Names</th>
 <th>Genealogies</th>
-<th>Nhân vật</th>
+<th>People</th>
 <th>Heroes</th>
 <th>Places</th>
-<th>Khác
+<th>Other
 </th></tr>
 <tr>
 <th>1955

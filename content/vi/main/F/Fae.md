@@ -19,7 +19,7 @@ categories:
 
 - [Quenya](../Q/Quenya.md) *[fëa](Fëa.md)*
 
-<dl><dd>Tolkien đề cập rằng tên <i><a href="Fëanor.md" title="Fëanor">Fëanor</a></i> là phiên bản Sindarin hóa của Quenya <i><a class="mw-redirect" href="Fëanáro.md" title="Fëanáro">Fëanáro</a></i>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> nên không phù hợp Sindarin. Thay vào đó, tên thật Sindarin của ông sẽ là <i>Faenor</i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
+<dl><dd>Tolkien mentions that the name <i><a href="Fëanor.md" title="Fëanor">Fëanor</a></i> is a Sindarinized version of the Quenya <i><a class="mw-redirect" href="Fëanáro.md" title="Fëanáro">Fëanáro</a></i>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> so is not proper Sindarin. His genuine Sindarin name would be <i>Faenor</i> instead.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
 ## Cảm hứng {#Inspiration}
 

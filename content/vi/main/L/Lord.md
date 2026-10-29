@@ -15,8 +15,8 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Lord&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Lord&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
@@ -30,8 +30,8 @@ images:
 - [Chúa tể Barad-dûr](Lord_of_Barad-dûr.md) ([Mordor](../M/Mordor.md))
 - [Chúa tể của Belegost](Lord_of_Belegost.md) ([Người Lùn](../D/Dwarves.md))
 - [Chúa tể Dale](Lord_of_Dale.md) ([Người Dale](../M/Men_of_Dale.md))
-- [Chúa tể Dor-lómin](Lord_of_Dor-lómin.md) ([Nhà Hador](../H/House_of_Hador.md))
-- [Chúa tể Đại Bàng](Lord_of_the_Eagles.md) ([Đại Bàng](../E/Eagles.md))
+- [Chúa tể của Dor-lómin](Lord_of_Dor-lómin.md) ([Nhà Hador](../H/House_of_Hador.md))
+- [Chúa tể của Đại Bàng](Lord_of_the_Eagles.md) ([Đại Bàng](../E/Eagles.md))
 - [Lãnh chúa Emyn Arnen](Lord_of_Emyn_Arnen.md) ([Gondor](../G/Gondor.md))
 - [Lãnh chúa của Éothéod](Lord_of_the_Éothéod.md) ([Éothéod](../_/Éothéod.md))
 - [Chúa tể Eregion](../C/Celebrimbor.md) ([Noldor](../N/Noldor.md))

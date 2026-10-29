@@ -22,7 +22,7 @@ categories:
 ## Ví dụ {#Examples}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Andúnë pella, Vardo Tellumar ('ngoài Phương Tây, bên dưới mái vòm xanh của Varda')<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<p>Andúnë pella, Vardo tellumar (&#39;beyond the West, beneath the blue vaults of Varda&#39;)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../N/Namárië.md" title="Namárië">Namárië</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

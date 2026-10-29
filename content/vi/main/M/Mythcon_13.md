@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Mythcon_13"
 content_sha256: f9018e3d2a184a1514a5c9785aa127354ef5948b74741124892059a57be367ee
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Hội nghị Hiệp hội Thần thoại năm 1982"
+short_description: "1982 Mythopoeic Society conference"
 categories:
   - "Mythcon"
 hidden_categories:
@@ -28,7 +28,7 @@ infobox:
     value: "Mythcon 14"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 13</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Chapman College, Orange, California</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Hội Mythopoeic</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">13-16 August <a href="../_/1982.md" title="1982">1982</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Mythcon_12.md" title="Mythcon 12">Mythcon 12</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Mythcon_14.md" title="Mythcon 14">Mythcon 14</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 13</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Chapman College, Orange, California</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data">13-16 August <a href="../_/1982.md" title="1982">1982</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="Mythcon_12.md" title="Mythcon 12">Mythcon 12</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="Mythcon_14.md" title="Mythcon 14">Mythcon 14</a></td></tr></tbody></table>
 
 **Mythcon 13** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 13.
 

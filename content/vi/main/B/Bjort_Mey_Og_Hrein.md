@@ -19,33 +19,33 @@ categories:
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p><b>Bjort Mey Og Hrein</b><br/>
 <br/>
-Bjort mey og hrein<br/>
-chị ơi<br/>
-một Isa-köldu-landi;<br/>
-thật tuyệt vời<br/>
-ừm, xin hãy kiềm chế<br/>
+Björt mey og hrein<br/>
+mjer unni ein<br/>
+a Isa-köldu-landi;<br/>
+sart ber jeg mein<br/>
+um sinnu rein<br/>
 sviftur þvi tryggpabandi.<br/>
 <br/>
 Það eðla fljoð<br/>
 gekk aðra sloð<br/>
-enætlað hafði ví dụ lengi,<br/>
+enætlað hafði eg lengi,<br/>
 daprast þvi hijoð,<br/>
-và dvinar moð,<br/>
+en dvinar moð,<br/>
 dottið er fyrra gengi. <br/>
 <br/>
-Hãy nhanh tay nhé<br/>
-hạt sạn trôi<br/>
-Stingur mig hverju sinni,<br/>
+Stort hryggðar kif<br/>
+sem stala drif<br/>
+stingur mig hverju sinni,<br/>
 það eðla vif<br/>
-cuộc sống cuối cùng của tôi<br/>
+meðan endist lif<br/>
 aldrei fer mjer ur minni.<br/>
 <br/>
-Það thạch thạch<br/>
+Það sorgar jel<br/>
 mitt þvingar þel,<br/>
 við þig að hlyt jeg skilja;<br/>
-hay quá, vd hel,<br/>
+þo finni eg hel,<br/>
 pa farðu vel<br/>
-fagurleit hringa ilja. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+fagurleit hringa þilja. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 </p>
 </div>
 

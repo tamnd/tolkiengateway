@@ -17,20 +17,20 @@ categories:
 ## Bài hát {#The_song}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p><b>Cứu!</b><br/>
+<p><b>Salve!</b><br/>
 <br/>
-Xoa, mi xương lá;<br/>
+Salve, mi bone frons;<br/>
 para te, mea frons,<br/>
-para te cirdari lauro.<br/>
+para te circumdari lauro.<br/>
 Beatissima nox,<br/>
-vina ninc tibi mox<br/>
-potius auro lành mạnh lộng lẫy.<br/>
+vina nunc tibi mox<br/>
+splendent sane potius auro.<br/>
 <br/>
-Ôi, du Herlige Drik,<br/>
-bạn som avled den Skik<br/>
+O, du herlige Drik,<br/>
+du som avled den Skik<br/>
 apud patres atque parentes,<br/>
-tại med Næven man slog<br/>
-và var tapper và klog;<br/>
+at med Næven man slog<br/>
+og var tapper og klog;<br/>
 erant arma pugnus et dentes
 </p>
 </div>

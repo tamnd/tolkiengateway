@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King of Dale"
 ---
 
-Chuyển hướng tới [Vua Dale](King_of_Dale.md).
+Chuyển hướng tới [Vua của Dale](King_of_Dale.md).

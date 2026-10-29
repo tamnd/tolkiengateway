@@ -31,10 +31,10 @@ images:
   - "Material_icon_-_Mop.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>John Tolkien</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="John_Tolkien_(disambiguation).md" title="John Tolkien (disambiguation)">John Tolkien (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>John Tolkien</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="John_Tolkien_(disambiguation).md" title="John Tolkien (disambiguation)">John Tolkien (disambiguation)</a></b>.</div></div>
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>dọn dẹp</b> để phù hợp với <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn về chất lượng bài viết</a>.<blockquote class="tg-quote noexcerpt">
-<p>Tôi sẽ không coi đó là sự kết thúc cho đến khi chúng ta dọn dẹp được mớ hỗn độn này.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
+<p>I shan&#39;t call it the end, till we&#39;ve cleared up the mess.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
@@ -62,7 +62,7 @@ Về cái chết của Arthur vào năm [1896](../_/1896.md), John rất đau bu
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.flickr.com/photos/johnashby/277571229/" rel="noreferrer noopener" target="_blank">Hình ảnh cây đàn piano của J.B. Tolkien</a>
-- <a class="external text" href="http://tolkienbrasil.com/artigos/colunas/eduardostark/a-familia-tolkien-e-o-imperio-brasileiro/" rel="noreferrer noopener" target="_blank">Một gia đình Tolkien e o Império Brasileiro</a> - Gia đình Tolkien và Đế quốc Brazil
+- <a class="external text" href="http://tolkienbrasil.com/artigos/colunas/eduardostark/a-familia-tolkien-e-o-imperio-brasileiro/" rel="noreferrer noopener" target="_blank">Một gia đình Tolkien e o Império Brasileiro</a> - Tolkien Gia đình và Đế quốc Brazil
 
 <span></span>
 

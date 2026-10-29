@@ -14,7 +14,7 @@ categories:
 
 <table class="TGtable sortable">
 <tbody><tr style="background: var(--tg-color-surface-2);">
-<th><b>BÀI VIẾT</b> (theo thứ tự xuất hiện)</th>
+<th><b>ARTICLE</b> (in order of appearance)</th>
 <th><b>AUTHOR</b>
 </th></tr>
 <tr>
@@ -370,11 +370,11 @@ categories:
 <td><a href="../D/Douglas_A._Anderson.md" title="Douglas A. Anderson">Anderson, Douglas A.</a>
 </td></tr>
 <tr>
-<td>Bóng Tối</td>
+<td>Darkness</td>
 <td><a href="Joseph_Pearce.md" title="Joseph Pearce">Pearce, Joseph</a>
 </td></tr>
 <tr>
-<td>Mất</td>
+<td>Death</td>
 <td>Garbowski, Christopher
 </td></tr>
 <tr>
@@ -418,7 +418,7 @@ categories:
 <td><a class="mw-redirect" href="../M/Marjorie_Burns.md" title="Marjorie Burns">Burns, Marjorie</a>
 </td></tr>
 <tr>
-<td>Rồng</td>
+<td>Dragons</td>
 <td>Evans, Jonathan
 </td></tr>
 <tr>
@@ -442,7 +442,7 @@ categories:
 <td><a href="../R/René_van_Rossenberg.md" title="René van Rossenberg">van Rossenberg, René</a>
 </td></tr>
 <tr>
-<td>Người Lùn</td>
+<td>Dwarves</td>
 <td>Evans, Jonathan
 </td></tr>
 <tr>
@@ -466,7 +466,7 @@ categories:
 <td>Straubhaar, Sandra Ballif
 </td></tr>
 <tr>
-<td>Học vấn</td>
+<td>Education</td>
 <td>Harper, Amelia
 </td></tr>
 <tr>
@@ -498,7 +498,7 @@ categories:
 <td>Thomas, Paul Edmund
 </td></tr>
 <tr>
-<td>Tiên tộc</td>
+<td>Elves</td>
 <td><a href="../B/Bradford_Lee_Eden.md" title="Bradford Lee Eden">Eden, Bradford Lee</a>
 </td></tr>
 <tr>
@@ -526,7 +526,7 @@ categories:
 <td><a href="John_Garth.md" title="John Garth">Garth, John</a>
 </td></tr>
 <tr>
-<td>Ent</td>
+<td>Ents</td>
 <td><a href="../M/Matthew_Dickerson.md" title="Matthew Dickerson">Dickerson, Matthew</a>
 </td></tr>
 <tr>
@@ -638,7 +638,7 @@ categories:
 <td>Kapelle, Rachel
 </td></tr>
 <tr>
-<td>Ông già Noel</td>
+<td>Father Christmas</td>
 <td><a href="Jared_Lobdell.md" title="Jared Lobdell">Lobdell, Jared</a>
 </td></tr>
 <tr>
@@ -914,7 +914,7 @@ categories:
 <td><a href="../M/Michael_N._Stanton.md" title="Michael N. Stanton">Stanton, Michael N.</a>
 </td></tr>
 <tr>
-<td>Hobbit</td>
+<td>Hobbits</td>
 <td><a href="../M/Michael_N._Stanton.md" title="Michael N. Stanton">Stanton, Michael N.</a>
 </td></tr>
 <tr>
@@ -1250,7 +1250,7 @@ categories:
 <td><a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Hostetter, Carl F.</a>
 </td></tr>
 <tr>
-<td>Trung Địa</td>
+<td>Middle-earth</td>
 <td>Garbowski, Christopher
 </td></tr>
 <tr>
@@ -1266,7 +1266,7 @@ categories:
 <td><a href="../B/Bradford_Lee_Eden.md" title="Bradford Lee Eden">Eden, Bradford Lee</a>
 </td></tr>
 <tr>
-<td>Dãy Núi Sương Mù</td>
+<td>Misty Mountains</td>
 <td>Evans, Jonathan
 </td></tr>
 <tr>
@@ -1302,7 +1302,7 @@ categories:
 <td>Perry, Michael W.
 </td></tr>
 <tr>
-<td>Dãy Núi</td>
+<td>Mountains</td>
 <td>Benvenuto, Maria Raffaela
 </td></tr>
 <tr>
@@ -1314,7 +1314,7 @@ categories:
 <td><a href="../A/Anders_Stenström.md" title="Anders Stenström">Stenström, Anders &#39;Beregond&#39;</a>
 </td></tr>
 <tr>
-<td>Âm nhạc ở Trung Địa</td>
+<td>Music in Middle-earth</td>
 <td><a href="../B/Bradford_Lee_Eden.md" title="Bradford Lee Eden">Eden, Bradford Lee</a>
 </td></tr>
 <tr>
@@ -1386,7 +1386,7 @@ categories:
 <td>Smith, William
 </td></tr>
 <tr>
-<td>tiếng Anh cổ</td>
+<td>Old English</td>
 <td>Bolintineanu, Alexandra
 </td></tr>
 <tr>
@@ -1406,7 +1406,7 @@ categories:
 <td><a href="../A/Arden_R._Smith.md" title="Arden R. Smith">Smith, Arden R.</a>
 </td></tr>
 <tr>
-<td>Cụ Liễu Già</td>
+<td>Old Man Willow</td>
 <td><a href="../M/Matthew_Dickerson.md" title="Matthew Dickerson">Dickerson, Matthew</a>
 </td></tr>
 <tr>
@@ -1470,7 +1470,7 @@ categories:
 <td><a href="../D/David_Bratman.md" title="David Bratman">Bratman, David</a>
 </td></tr>
 <tr>
-<td>Pearl: ấn bản bởi E. V. Gordon</td>
+<td>Pearl: edition by E. V. Gordon</td>
 <td>Tubbs, Patricia
 </td></tr>
 <tr>
@@ -1650,7 +1650,7 @@ categories:
 <td>Vaccaro, Christopher
 </td></tr>
 <tr>
-<td>Những Chiếc Nhẫn Quyền Năng</td>
+<td>Rings of Power</td>
 <td><a href="../T/Thomas_M._Honegger.md" title="Thomas M. Honegger">Honegger, Thomas</a>
 </td></tr>
 <tr>
@@ -1782,7 +1782,7 @@ categories:
 <td><a href="../G/Gergely_Nagy.md" title="Gergely Nagy">Nagy, Gergely</a>
 </td></tr>
 <tr>
-<td>Silmaril</td>
+<td>Silmarils</td>
 <td><a href="Jason_Fisher.md" title="Jason Fisher">Fisher, Jason</a>
 </td></tr>
 <tr>
@@ -2042,7 +2042,7 @@ categories:
 <td>Beal, Jane
 </td></tr>
 <tr>
-<td>Hai Cây</td>
+<td>Two Trees</td>
 <td>Curry, Patrick
 </td></tr>
 <tr>
@@ -2050,7 +2050,7 @@ categories:
 <td>Vaccaro, Christopher
 </td></tr>
 <tr>
-<td>Cảnh quan dưới đáy biển: Các đặc điểm được đặt tên theo Tolkien ký tự</td>
+<td>Undersea Landscape: Features Named after Tolkien Characters</td>
 <td>Hargroves, Jeniffer G.
 </td></tr>
 <tr>
@@ -2138,7 +2138,7 @@ categories:
 <td><a href="John_Garth.md" title="John Garth">Garth, John</a>
 </td></tr>
 <tr>
-<td>Pháp sư</td>
+<td>Wizards</td>
 <td><a href="../M/Michael_N._Stanton.md" title="Michael N. Stanton">Stanton, Michael N.</a>
 </td></tr>
 <tr>

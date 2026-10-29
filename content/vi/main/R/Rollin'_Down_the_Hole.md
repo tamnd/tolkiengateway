@@ -17,30 +17,30 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Cố lên nào! Bắn tung tóe!<br/>
-Lăn xuống hố!<br/>
-Cố lên nào! Bùng nổ!<br/>
-Lăn-lăn-lăn xuống hố!<br/>
+<p>Heave ho! Splash plump!<br/>
+Rollin&#39; down the hole!<br/>
+Heave ho! Bang bump!<br/>
+Roll-roll-rollin&#39; down the hole!<br/>
 <br/>
-Bạn đi xuôi theo dòng nước tối tăm, chảy xiết<br/>
-Trở lại vùng đất bạn từng biết!<br/>
-Nơi rừng rộng và mờ<br/>
-Khom lưng trong bóng tối xám xịt và dữ tợn.<br/>
+Down the dark, swift stream you go<br/>
+Back to lands you once did know!<br/>
+Where the forest wide and dim<br/>
+Stoops in shadow grey and grim.<br/>
 <br/>
-Cố lên nào! Bắn tung tóe!<br/>
-Lăn xuống hố!<br/>
-Cố lên nào! Bùng nổ!<br/>
-Lăn-lăn-lăn xuống hố!<br/>
+Heave ho! Splash plump!<br/>
+Rollin&#39; down the hole!<br/>
+Heave ho! Bang bump!<br/>
+Roll-roll-rollin&#39; down the hole!<br/>
 <br/>
-Bạn đi xuôi theo dòng nước tối tăm, chảy xiết<br/>
-Trở lại vùng đất bạn từng biết!<br/>
-Bay vượt ra ngoài thế giới cây cối<br/>
-Đi vào làn gió thì thầm.<br/>
+Down the dark, swift stream you go<br/>
+Back to lands you once did know!<br/>
+Float beyond the world of trees<br/>
+Out into the whispering breeze.<br/>
 <br/>
-Cố lên nào! Bắn tung tóe!<br/>
-Lăn xuống hố!<br/>
-Cố lên nào! Bùng nổ!<br/>
-Cuộn-cuộn-cuộn-cuộn-cuộn<br/>
-Lăn-cuộn-cuộn-cuộn-lăn xuống hố!
+Heave ho! Splash plump!<br/>
+Rollin&#39; down the hole!<br/>
+Heave ho! Bang bump!<br/>
+Roll-roll-roll-roll-roll-roll<br/>
+Roll-roll-roll-roll-roll-rollin&#39; down the hole!
 </p>
 </div>

@@ -24,7 +24,7 @@ images:
 
 Sau khi [Gnomes](../G/Gnomes.md) quay trở lại [Great Lands](../G/Great_Lands.md) để gây chiến với [Melko](../M/Melko.md), Delin đã lãnh đạo một trong ba đội quân vĩ đại của cha mình Gelmir. (Biểu ngữ) tiêu chuẩn của ông là "lá sồi xanh trên nền bạc có hoa vàng", và quân đội của ông ưa thích giáo hơn các loại vũ khí khác.<sup id="cite_ref-Prose_1-1" class="reference"><a href="#cite_note-Prose-1">[1]</a></sup>
 
-Ngoài điểm này trong câu chuyện, không có thông tin gì khác về ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ngoài điểm này trong câu chuyện, không có thông tin gì khác về ông ta.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -23,15 +23,15 @@ infobox:
     value: "Male"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Valandil_(The_Lost_Road)&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Valandil_(The_Lost_Road)&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Valandil</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Valandil_(disambiguation).md" title="Valandil (disambiguation)">Valandil (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Valandil</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Valandil_(disambiguation).md" title="Valandil (disambiguation)">Valandil (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../N/Númenóreans.md" title="Númenóreans">Númenórean</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Valandil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Gia đình</span></th></tr><tr><th scope="row" class="tg-infobox-label">Con cái</th><td class="tg-infobox-data"><a href="../E/Elendil.md" title="Elendil">Elendil</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nam</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../N/Númenóreans.md" title="Númenóreans">Númenórean</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Valandil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../E/Elendil.md" title="Elendil">Elendil</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
 **Valandil** là cha đẻ của [Elendil](../E/Elendil.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Lost Road](../T/The_Lost_Road.md)*.
 
@@ -39,7 +39,7 @@ infobox:
 
 Khi [Herendil](../H/Herendil.md) thông báo với cha anh rằng mặc dù hai người họ đều mang dòng máu của các vị vua, nhưng đồng nghiệp của anh đã gọi anh bằng những cái tên như "Terendul" ngày hôm trước và buộc tội anh là "nửa-Noldo",<sup id="cite_ref-P1_1-0" class="reference"><a href="#cite_note-P1-1">[1]</a></sup> [Elendil](../E/Elendil.md) phản ứng bằng cách nói rằng việc Herendil lấy con trai của ông như tên của chính cha mình, Valandil, nghĩa là *"God-friend"*.<sup id="cite_ref-P1_1-1" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 
-Sau đó. Elendil nói với con trai mình rằng ông không thể bị những người hầu của [Morgoth](../M/Morgoth.md) làm hư hỏng vì Valandil cha ông là "người đứng đầu các nhà thông thái của [Númenor](../N/Númenor.md).<sup id="cite_ref-P1_1-2" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
+Sau đó. Elendil nói với con trai mình rằng ông ta không thể bị những người hầu của [Morgoth](../M/Morgoth.md) làm hư hỏng vì Valandil cha ông ta là "người đứng đầu các nhà thông thái của [Númenor](../N/Númenor.md).<sup id="cite_ref-P1_1-2" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

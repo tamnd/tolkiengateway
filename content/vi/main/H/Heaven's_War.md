@@ -29,7 +29,7 @@ infobox:
     value: "978-1582403304"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Heaven&#39;s_War.jpg.md"><img src="https://tolkiengateway.net/w/images/b/bd/Heaven%27s_War.jpg" decoding="async" loading="lazy" width="273" height="420" class="mw-file-element" data-file-width="273" data-file-height="420"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Heaven&#39;s War</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data">Micah Harris and Michael Gaydos</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Image Comics</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/5_January.md" title="5 January">January 5</a>, <a href="../_/2004.md" title="2004">2004</a></td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">120</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-1582403304" title="Special:BookSources/978-1582403304">978-1582403304</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Heaven&#39;s_War.jpg.md"><img src="https://tolkiengateway.net/w/images/b/bd/Heaven%27s_War.jpg" decoding="async" loading="lazy" width="273" height="420" class="mw-file-element" data-file-width="273" data-file-height="420"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Heaven&#39;s War</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Micah Harris and Michael Gaydos</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Image Comics</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/5_January.md" title="5 January">January 5</a>, <a href="../_/2004.md" title="2004">2004</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">120</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-1582403304" title="Special:BookSources/978-1582403304">978-1582403304</a></td></tr></tbody></table>
 
 <i><b>Thiên đường</b></i> là một cuốn tiểu thuyết đồ họa giả tưởng của Micah Harris và Michael Gaydos.
 
@@ -39,7 +39,7 @@ Williams từng là thành viên của xã hội Hermetic, là nhân vật chín
 
 ## Tóm tắt bài biên tập {#Editorial_synopis}
 
-<dl><dd><i><a href="../_/1938.md" title="1938">1938</a>: Khi thế giới tiến tới chiến tranh toàn cầu, một trận chiến thiên thần bí mật được tiến hành ở các cõi thiên giới để quyết định số phận của nhân loại. Aleister Crowley khét tiếng lên kế hoạch thao túng những cuộc đấu tranh thiên thần đó và từ đó định hình thế giới theo ý muốn của hắn. Chỉ có "<a class="mw-redirect" href="../T/The_Inklings.md" title="The Inklings">The Inklings</a>" - các tác giả giả tưởng <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/C.S._Lewis.md" title="C.S. Lewis">C.S. Lewis</a> và <a href="../C/Charles_Williams.md" title="Charles Williams">Charles Williams</a> - phản đối ông. Họ phải giải mã một khung cảnh hình học thiêng liêng để chặn Crowley ở ngưỡng cửa thiên đường. Và, đối với một trong những Inklings, việc theo đuổi sẽ vươn tới bên ngoài thời gian.</i></dd></dl>
+<dl><dd><i><a href="../_/1938.md" title="1938">1938</a>: As the world moves toward global war, a secret angelic battle is waged in the heavenly realms to determine mankind&#39;s fate. The infamous Aleister Crowley plans to manipulate those angelic struggles and thus shape the world according to his will. Only &#34;<a class="mw-redirect" href="../T/The_Inklings.md" title="The Inklings">The Inklings</a>&#34; - fantasy authors <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/C.S._Lewis.md" title="C.S. Lewis">C.S. Lewis</a>, and <a href="../C/Charles_Williams.md" title="Charles Williams">Charles Williams</a> - oppose him. They must decipher a landscape of sacred geometry to intercept Crowley at the threshold of heaven. And, for one of the Inklings, the pursuit will reach outside time itself.</i></dd></dl>
 
 ## Liên kết ngoài {#External_links}
 
@@ -47,7 +47,7 @@ Williams từng là thành viên của xã hội Hermetic, là nhân vật chín
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b><a href="../../category/F/Fiction_books.md" title="Category:Fiction books">Sách viễn tưởng đã xuất bản</a> liên quan đến <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> và <a href="../A/Arda.md" title="Arda">Arda</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b><a href="../../category/F/Fiction_books.md" title="Category:Fiction books">Published fiction books</a> relating to <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> and <a href="../A/Arda.md" title="Arda">Arda</a></b>
 </td></tr>
 <tr>
 <th style="background: var(--tg-color-surface-3);" align="center"> <i><a href="../T/The_Chronicles_of_the_Imaginarium_Geographica.md" title="The Chronicles of the Imaginarium Geographica">The Chronicles of the Imaginarium Geographica</a>:</i>
@@ -62,7 +62,7 @@ Williams từng là thành viên của xã hội Hermetic, là nhân vật chín
 <td style="font-size: 90%;" align="center"> <i><a class="mw-redirect" href="../E/Elven_Blade.md" title="Elven Blade">Elven Blade</a></i> | <i><a class="mw-redirect" href="../B/Black_Lance.md" title="Black Lance">Black Lance</a></i> | <i><a class="mw-redirect" href="../T/The_Adamant_of_Henna.md" title="The Adamant of Henna">The Adamant of Henna</a></i>
 </td></tr>
 <tr>
-<th style="background: var(--tg-color-surface-3);" align="center">Tác phẩm độc lập:
+<th style="background: var(--tg-color-surface-3);" align="center">Stand-alone works:
 </th></tr>
 <tr>
 <td style="font-size: 90%;" align="center"> <i><a class="mw-selflink selflink">Heaven&#39;s War</a> </i> | <i><a href="../L/Looking_for_the_King.md" title="Looking for the King">Looking for the King</a></i> | <i><a href="../M/Mirkwood%253A_A_Novel_About_JRR_Tolkien.md" title="Mirkwood: A Novel About JRR Tolkien">Mirkwood: A Novel About JRR Tolkien</a></i>

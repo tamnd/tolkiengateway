@@ -20,7 +20,7 @@ infobox:
     value: "Catalogue"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Christie&#39;s Fine Printed Books and Manuscripts 18 June 2013</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">London: Christie&#39;s</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/2013.md" title="2013">2013</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Danh mục</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Christie&#39;s Fine Printed Books and Manuscripts 18 June 2013</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">London: Christie&#39;s</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2013.md" title="2013">2013</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Catalogue</td></tr></tbody></table>
 
 <i><b>Sách và Bản thảo in đẹp của Christie ngày 18 tháng 6 năm 2013</b></i> là một danh mục đấu giá của Christie's. Danh mục này bao gồm việc bán các bức thư sau đây của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md):<sup id="cite_ref-HS_1-0" class="reference"><a href="#cite_note-HS-1">[1]</a></sup><sup id="cite_ref-Christies_2-0" class="reference"><a href="#cite_note-Christies-2">[2]</a></sup>
 

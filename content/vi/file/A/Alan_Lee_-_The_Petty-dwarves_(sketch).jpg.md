@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Người Lùn Nhỏ](../../main/P/Petty-dwarves.md): [Mîm](../../main/M/Mîm.md), [Ibun](../../main/I/Ibun.md) và [Khîm](../../main/K/Khîm.md). Xuất hiện tại Chương VII của *[The Children of Húrin](../../main/T/The_Children_of_Húrin.md)* (HarperCollins).
+[Người lùn Nhỏ](../../main/P/Petty-dwarves.md): [Mîm](../../main/M/Mîm.md), [Ibun](../../main/I/Ibun.md) và [Khîm](../../main/K/Khîm.md). Xuất hiện tại Chương VII của *[The Children of Húrin](../../main/T/The_Children_of_Húrin.md)* (HarperCollins).
 
 ## Giấy phép {#Licensing}
 

@@ -21,7 +21,7 @@ Mái tóc **của Galadriel** được mô tả là có màu vàng pha chút b�
 ## Lịch sử {#History}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>...và mái tóc của bà được giữ một cách kỳ diệu không gì sánh được. Nó có màu vàng giống như tóc của cha cô và của mẹ cô <a href="../I/Indis.md" title="Indis">Indis</a>, nhưng đậm hơn và rạng rỡ hơn, vì màu vàng của nó được chạm vào bởi ký ức nào đó về màu bạc như sao của mẹ cô, và Eldar nói rằng ánh sáng của Hai Cây đã bị mắc kẹt trong mái tóc của cô.
+<p>...and her hair was held a marvel unmatched. It was golden like the hair of her father and of her foremother <a href="../I/Indis.md" title="Indis">Indis</a>, but richer and more radiant, for its gold was touched by some memory of the starlike silver of her mother, and the Eldar said that the light of the Two Trees had been snared in her tresses.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../T/The_History_of_Galadriel_and_Celeborn.md" title="The History of Galadriel and Celeborn">The History of Galadriel and Celeborn</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -31,7 +31,7 @@ Nhiều người nghĩ rằng điều này ban đầu mang lại cho [Fëanor](.
 Một thiên niên kỷ sau, [Gimli](../G/Gimli.md) người [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) được hỏi ông muốn [món quà](../G/Gifts_of_Galadriel.md) nào trước khi rời đi [Lothlórien](../L/Lothlórien.md), và ông đã trả lời:
 
 <blockquote class="tg-quote noexcerpt">
-<p>' Không có gì đâu, thưa cô Galadriel', Gimli nói, cúi thấp đầu và lắp bắp. 'Không có gì, trừ khi có thể - trừ khi được phép yêu cầu, không, đặt tên cho một sợi tóc của bạn, vượt qua cả vàng của trái đất cũng như các vì sao vượt qua những viên ngọc trong mỏ. Tôi không yêu cầu một món quà như vậy. Nhưng bạn đã ra lệnh cho tôi đặt tên cho mong muốn của mình'.
+<p>&#39; There is nothing, Lady Galadriel&#39;, said Gimli, bowing low and stammering. &#39;Nothing, unless it might be - unless it is permitted to ask, nay, to name a single strand of your hair, which surpasses the gold of the earth as the stars surpass the gems of the mine. I do not ask for such a gift. But you commanded me to name my desire&#39;.
 </p>
 </blockquote>
 
@@ -62,9 +62,9 @@ Trong bản nháp đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_t
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5)"><b><a href="../G/Gifts_of_Galadriel.md" title="Gifts of Galadriel">Những món quà của Galadriel</a></b>
+<th style="background:var(--tg-color-surface-5)"><b><a href="../G/Gifts_of_Galadriel.md" title="Gifts of Galadriel">Gifts of Galadriel</a></b>
 </th></tr>
 <tr>
-<td style="font-size: 90%;" align="center"><a href="../A/Andúril&#39;s_sheath.md" title="Andúril&#39;s sheath">Andúril bao kiếm</a> · <a href="../E/Elfstone.md" title="Elfstone">Elfstone</a> · <a href="../B/Boromir&#39;s_belt.md" title="Boromir&#39;s belt">Boromir thắt lưng</a> · <a href="../M/Merry_and_Pippin&#39;s_belts.md" title="Merry and Pippin&#39;s belts">Merry và thắt lưng Pippin</a> · <a href="../B/Bow_of_the_Galadhrim.md" title="Bow of the Galadhrim">Cung của Galadhrim</a> · <a href="../S/Sam&#39;s_garden_box.md" title="Sam&#39;s garden box">Sam hộp làm vườn</a> · <a class="mw-selflink selflink">Tóc của Galadriel</a> · <a href="../P/Phial_of_Galadriel.md" title="Phial of Galadriel">Phial của Galadriel</a>
+<td style="font-size: 90%;" align="center"><a href="../A/Andúril&#39;s_sheath.md" title="Andúril&#39;s sheath">Andúril&#39;s sheath</a> · <a href="../E/Elfstone.md" title="Elfstone">Elfstone</a> · <a href="../B/Boromir&#39;s_belt.md" title="Boromir&#39;s belt">Boromir&#39;s belt</a> · <a href="../M/Merry_and_Pippin&#39;s_belts.md" title="Merry and Pippin&#39;s belts">Merry and Pippin&#39;s belts</a> · <a href="../B/Bow_of_the_Galadhrim.md" title="Bow of the Galadhrim">Bow of the Galadhrim</a> · <a href="../S/Sam&#39;s_garden_box.md" title="Sam&#39;s garden box">Sam&#39;s garden box</a> · <a class="mw-selflink selflink">Hair of Galadriel</a> · <a href="../P/Phial_of_Galadriel.md" title="Phial of Galadriel">Phial of Galadriel</a>
 </td></tr>
 </tbody></table>

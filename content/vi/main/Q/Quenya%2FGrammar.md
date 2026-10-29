@@ -27,14 +27,14 @@ images:
   - "CdxIconReference.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Viết lại</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được viết lại để tuân thủ <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn</a>...<blockquote class="tg-quote noexcerpt">
-<p>Những người khôn ngoan sẽ ở lại đây và hy vọng xây dựng lại thị trấn của chúng ta...
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Rewrite</div></div><div class="ext-floatingui-content">This article or section needs to be rewritten to comply with Tolkien Gateway&#39;s <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standards</a>...<blockquote class="tg-quote noexcerpt">
+<p>The wise will stay here and hope to rebuild our town...
 </p>
-<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Chủ nhân Thị trấn Hồ</a></cite></p>
+<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a></cite></p>
 </blockquote></div></div>
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
-<p>Ai đã nói với bạn và ai đã gửi cho bạn?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
+<p>Who told you, and who sent you?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
@@ -65,7 +65,7 @@ Quenya được thiết kế để có âm vị học giống tiếng Latinh, v�
 </td></tr>
 <tr>
 <td>Voiceless Stops</td>
-<td><span title="Pronunciation in IPA" class="IPA">tr.</span></td>
+<td><span title="Pronunciation in IPA" class="IPA">p</span></td>
 <td><span title="Pronunciation in IPA" class="IPA">t</span></td>
 <td><a class="extiw" href="http://en.wikipedia.org/wiki/Voiceless_palatal_stop" title="wikipedia:Voiceless palatal stop">c</a> (ty)</td>
 <td><span title="Pronunciation in IPA" class="IPA">k</span> (c)</td>
@@ -337,16 +337,16 @@ Có hai loại động từ chính: động từ cơ bản, những động từ
 <table rules="all" style="text-align: left; border: 1px solid darkgray;" cellpadding="3">
 <tbody><tr>
 <td rowspan="2"></td>
-<td colspan="2"><b>Động từ phái sinh</b></td>
-<td colspan="2"><b>Động từ cơ bản</b>
+<td colspan="2"><b>Derivative verbs</b></td>
+<td colspan="2"><b>Basic verbs</b>
 </td></tr>
 <tr>
-<td><b>Số ít</b></td>
-<td><b>Số nhiều</b></td>
-<td><b>Số ít</b></td>
-<td><b>Số nhiều</b></td>
-<td><b>Số ít</b></td>
-<td><b>Số nhiều</b>
+<td><b>Singular</b></td>
+<td><b>Plural</b></td>
+<td><b>Singular</b></td>
+<td><b>Plural</b></td>
+<td><b>Singular</b></td>
+<td><b>Plural</b>
 </td></tr>
 <tr>
 <td><b>Infinitive</b></td>
@@ -355,7 +355,7 @@ Có hai loại động từ chính: động từ cơ bản, những động từ
 <td colspan="2">palo (palu-)
 </td></tr>
 <tr>
-<td><b>Aorist/Món quà đơn giản</b></td>
+<td><b>Aorist/Simple present</b></td>
 <td>tulta</td>
 <td>tultar</td>
 <td>tirë (tiri-)</td>
@@ -364,7 +364,7 @@ Có hai loại động từ chính: động từ cơ bản, những động từ
 <td>palur
 </td></tr>
 <tr>
-<td><b>Hiện tại tiếp diễn</b></td>
+<td><b>Present continuative</b></td>
 <td>tultëa</td>
 <td>tultëar</td>
 <td>tíra</td>
@@ -413,14 +413,14 @@ Có hai loại động từ chính: động từ cơ bản, những động từ
 <td colspan="2"><b>Enclitic Example</b>
 </td></tr>
 <tr>
-<td><b>Số ít</b></td>
-<td><b>Số nhiều</b></td>
-<td><b>Số ít</b></td>
-<td><b>Số nhiều</b></td>
-<td><b>Số ít</b></td>
-<td><b>Số nhiều</b></td>
-<td><b>Số ít</b></td>
-<td><b>Số nhiều</b>
+<td><b>Singular</b></td>
+<td><b>Plural</b></td>
+<td><b>Singular</b></td>
+<td><b>Plural</b></td>
+<td><b>Singular</b></td>
+<td><b>Plural</b></td>
+<td><b>Singular</b></td>
+<td><b>Plural</b>
 </td></tr>
 <tr>
 <td rowspan="2"><b>First Person</b></td>

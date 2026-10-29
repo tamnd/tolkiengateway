@@ -14,6 +14,6 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../../main/T/The_History_of_The_Lord_of_the_Rings.md" title="The History of The Lord of the Rings">The History of The Lord of the Rings</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../../main/T/The_History_of_The_Lord_of_the_Rings.md" title="The History of The Lord of the Rings">The History of The Lord of the Rings</a></b></div></div>
 
 <br> Thể loại này liệt kê tất cả các bài thơ được xuất bản toàn bộ hoặc một phần trong *[The Return of the Shadow](../../main/T/The_Return_of_the_Shadow.md)*, *[The Treason of Isengard](../../main/T/The_Treason_of_Isengard.md)*, *[The War of the Ring](../../main/T/The_War_of_the_Ring.md)* và *[Sauron Defeated](../../main/S/Sauron_Defeated.md)*.

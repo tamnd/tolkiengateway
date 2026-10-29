@@ -14,7 +14,7 @@ images:
   - "Saga_of_Hrólfr_Kraki.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Saga_of_Hrólfr_Kraki.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/68/Saga_of_Hr%C3%B3lfr_Kraki.jpg/300px-Saga_of_Hr%C3%B3lfr_Kraki.jpg" decoding="async" loading="lazy" width="300" height="228" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/68/Saga_of_Hr%C3%B3lfr_Kraki.jpg/450px-Saga_of_Hr%C3%B3lfr_Kraki.jpg 1.5x, https://tolkiengateway.net/w/images/6/68/Saga_of_Hr%C3%B3lfr_Kraki.jpg 2x" data-file-width="462" data-file-height="351"/></a><figcaption>Nghệ thuật lấy cảm hứng từ <i>Saga of Hrólfr Kraki</i></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Saga_of_Hrólfr_Kraki.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/68/Saga_of_Hr%C3%B3lfr_Kraki.jpg/300px-Saga_of_Hr%C3%B3lfr_Kraki.jpg" decoding="async" loading="lazy" width="300" height="228" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/68/Saga_of_Hr%C3%B3lfr_Kraki.jpg/450px-Saga_of_Hr%C3%B3lfr_Kraki.jpg 1.5x, https://tolkiengateway.net/w/images/6/68/Saga_of_Hr%C3%B3lfr_Kraki.jpg 2x" data-file-width="462" data-file-height="351"/></a><figcaption>Art inspired by the <i>Saga of Hrólfr Kraki</i></figcaption></figure>
 
 <i><b>Sellic Spell</b></i> (có nghĩa là "câu chuyện kỳ ​​diệu/lạ" trong [tiếng Anh cổ](../O/Old_English.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là một truyện ngắn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó ở dạng một câu chuyện dân gian bằng tiếng Anh hiện đại, lấy cảm hứng từ cả *[Beowulf (poem)](<../B/Beowulf_(poem).md>)* và Bắc Âu *[Hrólfs saga kraka](../H/Hrólfs_saga_kraka.md)*, đồng thời đi theo cốt truyện của Beowulf cho đến vụ sát hại mẹ của Grendel. Bản thảo được giữ bởi [Thư viện Bodleian](../B/Bodleian_Library.md).<sup id="cite_ref-MB_2-0" class="reference"><a href="#cite_note-MB-2">[2]</a></sup>
 
@@ -28,9 +28,9 @@ Nhân vật chính trong Sellic Spell có tên là Beewolf, cái tên được c
 
 ## Câu chuyện và nhân vật {#Story_and_Characters}
 
-Beewolf đáng chú ý ở chỗ ông không sử dụng kiếm hoặc rìu, thích vật lộn với kẻ thù của mình, cho đến sau chiến thắng trước Grinder và mẹ ông, ông cuối cùng đã nhận món quà là một thanh kiếm do Unfriend chế tạo từ nhà vua.
+Beewolf đáng chú ý ở chỗ ông ta không sử dụng kiếm hoặc rìu, thích vật lộn với kẻ thù của mình, cho đến sau chiến thắng trước Grinder và mẹ ông ta, ông ta cuối cùng đã nhận món quà là một thanh kiếm do Unfriend chế tạo từ nhà vua.
 
-Trong Sellic Spell, Beewolf đến để chiến đấu với Grinder cùng với hai chiến binh khác: Handshoe và Ashwood, và mỗi người lần lượt thay nhau ngủ trong hành lang. Handshoe và Ashwood đều bị giết, nhưng Beewolf, người cuối cùng trong ba người thực hiện được chiến công, vật lộn với Grinder và làm gãy cánh tay của ông.
+Trong Sellic Spell, Beewolf đến để chiến đấu với Grinder cùng với hai chiến binh khác: Handshoe và Ashwood, và mỗi người lần lượt thay nhau ngủ trong hành lang. Handshoe và Ashwood đều bị giết, nhưng Beewolf, người cuối cùng trong ba người thực hiện được chiến công, vật lộn với Grinder và làm gãy cánh tay của ông ta.
 
 Sellic Spell cũng khác với phiên bản Beowulf của câu chuyện ở chỗ trong bản chỉnh sửa cuối cùng của câu chuyện Tolkien, mẹ của Grinder không đến hội trường để trả thù cho con trai mình: thay vào đó, Beewolf đi theo Grinder đến hang ổ của hắn và tìm thấy cô ở đó. Bà được mô tả là một mụ phù thủy chiến đấu bằng bùa chú.
 

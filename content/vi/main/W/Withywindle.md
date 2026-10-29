@@ -30,7 +30,7 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Withywindle.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Old_Man_Willow.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1e/J.R.R._Tolkien_-_Old_Man_Willow.jpg/300px-J.R.R._Tolkien_-_Old_Man_Willow.jpg" decoding="async" loading="lazy" width="300" height="210" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1e/J.R.R._Tolkien_-_Old_Man_Willow.jpg/450px-J.R.R._Tolkien_-_Old_Man_Willow.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1e/J.R.R._Tolkien_-_Old_Man_Willow.jpg/600px-J.R.R._Tolkien_-_Old_Man_Willow.jpg 2x" data-file-width="988" data-file-height="691"/></a><figcaption><i>Old Man Willow</i> của J.R.R. Tolkien hiển thị <b>Withywindle</b> chạy trong nền</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Old_Man_Willow.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1e/J.R.R._Tolkien_-_Old_Man_Willow.jpg/300px-J.R.R._Tolkien_-_Old_Man_Willow.jpg" decoding="async" loading="lazy" width="300" height="210" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1e/J.R.R._Tolkien_-_Old_Man_Willow.jpg/450px-J.R.R._Tolkien_-_Old_Man_Willow.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1e/J.R.R._Tolkien_-_Old_Man_Willow.jpg/600px-J.R.R._Tolkien_-_Old_Man_Willow.jpg 2x" data-file-width="988" data-file-height="691"/></a><figcaption><i>Old Man Willow</i> by J.R.R. Tolkien shows the <b>Withywindle</b> flowing in the background</figcaption></figure>
 
 **Withywindle** là một nhánh nhỏ của Sông [Brandywine](../B/Baranduin.md) chảy qua [Khu Rừng Cổ](../O/Old_Forest.md) trên ranh giới của [ Shire](../T/The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -48,7 +48,7 @@ Hơn nữa, có một ngôi làng nhỏ [Breredon](../B/Breredon.md) nằm giữ
 
 Cách đây rất lâu, Tom đã tìm thấy [Goldberry](../G/Goldberry.md), Cô con gái sông, ở một hồ nước dọc theo Withywindle, và vào cuối mỗi mùa hè, ông lại đi dọc bờ sông để hái hoa súng cho bà. Ông đang trong chuyến đi cuối cùng trong năm thì gặp phải Hobbit.
 
-Khi [Frodo Baggins](../F/Frodo_Baggins.md) và những người bạn đồng hành của ông tiến vào Khu Rừng Cổ vào ngày 26 tháng Chín 26 [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), họ thấy mình bị kéo về phía thung lũng Withywindle bất chấp ý định của họ, và trên bờ sông họ gặp phải [Old Man Willow](../O/Old_Man_Willow.md), một cây cổ thụ có lòng căm thù tất cả những dân tộc bước đi tự do trên trái đất đã thấm sâu vào rừng. Người Hobbit bị ru ngủ bởi bùa chú của Ông già Willow. Frodo bị đẩy vào Withywindle và bị rễ cây liễu giữ lại cho đến khi [Sam](../S/Samwise_Gamgee.md) cứu được ông, còn [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) bị mắc kẹt bên trong Ông già Willow. Họ đã được [Tom Bombadil](../T/Tom_Bombadil.md) cứu.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Khi [Frodo Baggins](../F/Frodo_Baggins.md) và những người bạn đồng hành của ông ta tiến vào Khu Rừng Cổ vào ngày 26 tháng Chín 26 [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), họ thấy mình bị kéo về phía thung lũng Withywindle bất chấp ý định của họ, và trên bờ sông họ gặp phải [Old Man Willow](../O/Old_Man_Willow.md), một cây cổ thụ có lòng căm thù tất cả những dân tộc bước đi tự do trên trái đất đã thấm sâu vào rừng. Người Hobbit bị ru ngủ bởi bùa chú của Ông già Willow. Frodo bị đẩy vào Withywindle và bị rễ cây liễu giữ lại cho đến khi [Sam](../S/Samwise_Gamgee.md) cứu được ông ta, còn [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) bị mắc kẹt bên trong Ông già Willow. Họ đã được [Tom Bombadil](../T/Tom_Bombadil.md) cứu.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -62,9 +62,9 @@ Bên cạnh ý nghĩa "cây liễu", cái tên này còn là một cách chơi c
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Withywindle.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2a/The_Lord_of_the_Rings_Online_-_Withywindle.jpg/300px-The_Lord_of_the_Rings_Online_-_Withywindle.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2a/The_Lord_of_the_Rings_Online_-_Withywindle.jpg/450px-The_Lord_of_the_Rings_Online_-_Withywindle.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2a/The_Lord_of_the_Rings_Online_-_Withywindle.jpg/600px-The_Lord_of_the_Rings_Online_-_Withywindle.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Withywindle in &#39;<a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a><i></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Khi Withywindle chảy qua Khu Rừng Cổ, có thể tìm thấy dấu hiệu của nơi cư trú bị bỏ hoang từ lâu dọc theo bờ biển của nó.</dd></dl>
+<dl><dd>As Withywindle flows through the Old Forest, signs of long-abandoned habitation can be found along its shores.</dd></dl>
 
 <span></span>
 

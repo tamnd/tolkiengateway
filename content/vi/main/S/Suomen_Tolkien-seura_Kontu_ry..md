@@ -22,7 +22,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Suomen.png.md"><img src="https://tolkiengateway.net/w/images/3/38/Suomen.png" decoding="async" loading="lazy" width="160" height="161" class="mw-file-element" data-file-width="160" data-file-height="161"/></a><figcaption></figcaption></figure>
 
-**Suomen Tolkien-seura Kontu ry.**, **Hội Tolkien Phần Lan Kontu** ("Kontu" là Shire trong tiếng Phần Lan) là hiệp hội Tolkien Phần Lan, được thành lập vào năm 1992.
+**Suomen Tolkien-seura Kontu ry.**, **Hiệp hội Tolkien Phần Lan Kontu** ("Kontu" là Shire trong tiếng Phần Lan) là hiệp hội Tolkien Phần Lan, được thành lập vào năm 1992.
 
 Xã hội xuất bản *Hobittilan Sanomat* ("Hobbiton Tin tức") và *Legolas* (cả hai đều có bản tóm tắt bằng tiếng Anh), là những ấn phẩm [Tolkien](../J/J.R.R._Tolkien.md) được công nhận rộng rãi ở Phần Lan.
 

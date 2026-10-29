@@ -37,7 +37,7 @@ Mẹ - Aragorn [Gilraen](../G/Gilraen.md) đưa cậu đến [Rivendell](../R/Ri
 
 ### [2952](Third_Age_2952.md) {#2952}
 
-- Aragorn biết được tên thật và tổ tiên của mình từ Elrond. Ông được trao các mảnh [Narsil](../N/Narsil.md).<sup id="cite_ref-TA_1-4" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
+- Aragorn biết được tên thật và tổ tiên của mình từ Elrond. Ông ta được trao các mảnh [Narsil](../N/Narsil.md).<sup id="cite_ref-TA_1-4" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 - Aragorn gặp [Arwen](../A/Arwen.md) tại khu rừng Rivendell.<sup id="cite_ref-TA_1-5" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 - Aragorn dấn thân vào thế giới hoang dã trong nhiều cuộc phiêu lưu.<sup id="cite_ref-TA_1-6" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 
@@ -107,16 +107,16 @@ Mẹ - Aragorn [Gilraen](../G/Gilraen.md) đưa cậu đến [Rivendell](../R/Ri
 - [3 tháng 3](../_/3_March.md): Cuộc [Rohirrim](../R/Rohirrim.md) rút lui về [Helm's Deep](../H/Helm's_Deep.md) và [Trận Hornburg](../B/Battle_of_the_Hornburg.md) bắt đầu.<sup id="cite_ref-GY_3-21" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 - [4 tháng 3](../_/4_March.md): Aragorn xuất phát vào lúc bình minh với Vua [Théoden](Théoden.md). [Huorn](../H/Huorns.md) của [Fangorn](../F/Fangorn_Forest.md) và [Gandalf](../G/Gandalf.md) đến và trận chiến đã thắng.<sup id="cite_ref-GY_3-22" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 - [5 tháng 3](../_/5_March.md): Ba Thợ Săn đoàn tụ với Merry và Pippin tại [Isengard](../I/Isengard.md). Aragorn sở hữu *palantir* của Orthanc.<sup id="cite_ref-GY_3-23" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
-- [6 tháng 3](../_/6_March.md): Aragorn gặp con trai của [Dúnedain](../D/Dúnedain.md) và Elrond. Ông tiết lộ bản thân với [Sauron](../S/Sauron.md) trong *[palantir](../P/Palantíri.md)* và quyết định đi theo [Con đường của người chết](../P/Paths_of_the_Dead.md).<sup id="cite_ref-GY_3-24" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
+- [6 tháng 3](../_/6_March.md): Aragorn gặp con trai của [Dúnedain](../D/Dúnedain.md) và Elrond. Ông ta tiết lộ bản thân với [Sauron](../S/Sauron.md) trong *[palantir](../P/Palantíri.md)* và quyết định đi theo [Con đường của người chết](../P/Paths_of_the_Dead.md).<sup id="cite_ref-GY_3-24" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 - [7 tháng 3](../_/7_March.md): [Công ty Grey](../G/Grey_Company.md) đến [Dunharrow](../D/Dunharrow.md). Aragorn nghỉ phép của [Éowyn](../_/Éowyn.md).<sup id="cite_ref-GY_3-25" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 - [8 tháng 3](../_/8_March.md): Công ty Xám đi vào Con đường của Người chết. Vào lúc nửa đêm, Aragorn triệu tập [Những kẻ phá lời thề](../O/Oathbreakers.md) tại [Tảng đá Erech](../S/Stone_of_Erech.md).<sup id="cite_ref-GY_3-26" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 - [9 tháng 3](../_/9_March.md): Aragorn khởi hành từ [Erech](../E/Erech.md) và đến [Calembel](../C/Calembel.md).<sup id="cite_ref-GY_3-27" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 - [10 tháng 3](../_/10_March.md): Aragorn, dẫn đầu Dead Con Người và Grey Company, băng qua sông [Ringló](../R/Ringló.md).<sup id="cite_ref-GY_3-28" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 - [11 tháng 3](../_/11_March.md): Aragorn đến [Linhir](../L/Linhir.md) và đi vào [Lebennin](../L/Lebennin.md).<sup id="cite_ref-GY_3-29" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 - [12 tháng 3](../_/12_March.md): Aragorn đẩy địch về phía Pelargir.<sup id="cite_ref-GY_3-30" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
-- [13 tháng 3](../_/13_March.md): Đội quân Xám tiếp cận [Pelargir](../P/Pelargir.md) cùng đội quân của Người chết và họ bắt giữ hạm đội của Corsairs.<sup id="cite_ref-GY_3-31" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
+- [13 tháng 3](../_/13_March.md): Đại đội Xám tiếp cận [Pelargir](../P/Pelargir.md) cùng đội quân của Người chết và họ bắt giữ hạm đội của Corsairs.<sup id="cite_ref-GY_3-31" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 - [14 tháng 3](../_/14_March.md): Aragorn đi về hướng Minas Tirith.<sup id="cite_ref-GY_3-32" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
-- [15 tháng 3](../_/15_March.md): Aragorn đi về phía bắc và đến [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Sau trận chiến, ông hồi máu cho [Faramir](../F/Faramir.md), Éowyn và Merry.<sup id="cite_ref-GY_3-33" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
+- [15 tháng 3](../_/15_March.md): Aragorn đi về phía bắc và đến [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Sau trận chiến, ông ta hồi máu cho [Faramir](../F/Faramir.md), Éowyn và Merry.<sup id="cite_ref-GY_3-33" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 - [16 tháng 3](../_/16_March.md): Đội trưởng của Phương Tây quyết định hành quân đến Cổng Đen.<sup id="cite_ref-GY_3-34" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 - [18 tháng 3](../_/18_March.md): Aragorn dẫn quân Phương Tây ra khỏi Minas Tirith.<sup id="cite_ref-GY_3-35" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>
 - [23 tháng 3](../_/23_March.md): Aragorn gửi những người quá sợ hãi để tiến hành chiếm lại [Cair Andros](../C/Cair_Andros.md).<sup id="cite_ref-GY_3-36" class="reference"><a href="#cite_note-GY-3">[3]</a></sup>

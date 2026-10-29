@@ -16,7 +16,7 @@ sort_keys:
   "Quenya nouns": "Narvinye"
 ---
 
-**Narvinyë** ([Narwain](Narwain.md) trong [Sindarin](../S/Sindarin.md)) là tháng đầu tiên trong năm trong [Cuộc Lịch Tính của các Vua](../K/Kings'_Reckoning.md) và [Cuộc tính toán của người quản lý](../S/Stewards'_Reckoning.md). Trong cả hai lịch, *Narvinyë* theo sau ngày đầu tiên của năm, [yestarë](../Y/Yestarë.md), trước tháng [Nénimë](Nénimë.md) và dài 30 ngày, kéo dài từ ngày 2 đến ngày 31 trong năm. Trong [Tính toán mới](New_Reckoning.md), đó là tháng thứ 10 trong năm, ngay sau [Ringarë](../R/Ringarë.md).<sup id="cite_ref-D2_1-0" class="reference"><a href="#cite_note-D2-1">[1]</a></sup>
+**Narvinyë** ([Narwain](Narwain.md) trong [Sindarin](../S/Sindarin.md)) là tháng đầu tiên trong năm trong [Cuộc tính toán của các vị vua](../K/Kings'_Reckoning.md) và [Cuộc tính toán của người quản lý](../S/Stewards'_Reckoning.md). Trong cả hai lịch, *Narvinyë* theo sau ngày đầu tiên của năm, [yestarë](../Y/Yestarë.md), trước tháng [Nénimë](Nénimë.md) và dài 30 ngày, kéo dài từ ngày 2 đến ngày 31 trong năm. Trong [Tính toán mới](New_Reckoning.md), đó là tháng thứ 10 trong năm, ngay sau [Ringarë](../R/Ringarë.md).<sup id="cite_ref-D2_1-0" class="reference"><a href="#cite_note-D2-1">[1]</a></sup>
 
 *Narvinyë* trong Cuộc tính toán của Vua và Quản lý tương ứng với [Afteryule](../A/Afteryule.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [23 tháng 12](../_/23_December.md) đến [21 tháng 1](../_/21_January.md) hiện đại).<sup id="cite_ref-D2_1-1" class="reference"><a href="#cite_note-D2-1">[1]</a></sup>
 

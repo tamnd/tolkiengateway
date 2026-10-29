@@ -30,14 +30,14 @@ infobox:
     value: "1732-2375"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Aiglos_Special_Issue_I_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/81/Aiglos_Special_Issue_I_cover.jpg/320px-Aiglos_Special_Issue_I_cover.jpg" decoding="async" loading="lazy" width="320" height="420" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/81/Aiglos_Special_Issue_I_cover.jpg/480px-Aiglos_Special_Issue_I_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/81/Aiglos_Special_Issue_I_cover.jpg/640px-Aiglos_Special_Issue_I_cover.jpg 2x" data-file-width="801" data-file-height="1051"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Aiglos Special Issue I</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data"><a href="Anna_Adamczyk-Śliwińska.md" title="Anna Adamczyk-Śliwińska">Anna Adamczyk-Śliwińska</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../S/Sekcja_Tolkienowska_ŚKF.md" title="Sekcja Tolkienowska ŚKF">Sekcja Tolkienowska ŚKF</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="August.md" title="August">August</a> <a href="../_/2005.md" title="2005">2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa mềm A5 bóng, đen trắng</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">202</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1732-2375</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Aiglos_Special_Issue_I_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/81/Aiglos_Special_Issue_I_cover.jpg/320px-Aiglos_Special_Issue_I_cover.jpg" decoding="async" loading="lazy" width="320" height="420" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/81/Aiglos_Special_Issue_I_cover.jpg/480px-Aiglos_Special_Issue_I_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/81/Aiglos_Special_Issue_I_cover.jpg/640px-Aiglos_Special_Issue_I_cover.jpg 2x" data-file-width="801" data-file-height="1051"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Aiglos Special Issue I</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Anna_Adamczyk-Śliwińska.md" title="Anna Adamczyk-Śliwińska">Anna Adamczyk-Śliwińska</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../S/Sekcja_Tolkienowska_ŚKF.md" title="Sekcja Tolkienowska ŚKF">Sekcja Tolkienowska ŚKF</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="August.md" title="August">August</a> <a href="../_/2005.md" title="2005">2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 glossy paperback, black and white</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">202</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1732-2375</td></tr></tbody></table>
 
 <i><b>Aiglos Số đặc biệt I</b></i> là số đặc biệt bằng tiếng Anh của <i><b><a href="Aiglos_(journal).md" title="Aiglos (journal)">Aiglos</a></b></i>, được chuẩn bị cho hội nghị [Tolkien 2005](../T/Tolkien_2005.md) kỷ niệm 50 năm ngày xuất bản hoàn chỉnh *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của J.R.R. Tolkien. Các thành viên ban biên tập *Aiglos* đã tham gia sự kiện này bằng cách chuẩn bị các bài báo, bài giảng và giới thiệu tác phẩm của các nghệ sĩ Tolkien Ba Lan.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 
 - **Ảnh bìa**
-    - "Và Orc bỏ chạy trước mặt ông"
+    - "Và Orc bỏ chạy trước mặt ông ta"
         - Bởi: ['Kasiopea'](../C/Catherine_Karina_Chmiel.md)
 
 - **Bài viết và tiểu luận**
@@ -101,7 +101,7 @@ Thần thoại của     - "Tolkien trong bối cảnh truyền thống thần t
 - **Minh họa**
     - Bởi: ['Kasiopea'](../C/Catherine_Karina_Chmiel.md)
 biểu tượng         - *Aiglos*
-        - ảnh bìa *Và Orc bỏ chạy trước mặt ông*
+        - ảnh bìa *Và Orc bỏ chạy trước mặt ông ta*
         - *[Lúthien](../L/Lúthien.md) and [Huan](../H/Huan.md)*
         - *[Parth Galen](../P/Parth_Galen.md)*
         - *This Is My Son [Maeglin](../M/Maeglin.md)*

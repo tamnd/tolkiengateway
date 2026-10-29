@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>ten</b> đề cập đến nhiều hơn một ký tự, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Ten_(disambiguation).md" title="Ten (disambiguation)">ten (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>ten</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Ten_(disambiguation).md" title="Ten (disambiguation)">ten (disambiguation)</a></b>.</div></div>
 
 <i><b>ten-</b></i>, nghĩa là "đến", là một động từ [Quenya](../Q/Quenya.md) bị loại bỏ. Tolkien sau đó đã được sửa đổi *ten-* và độ bóng của nó bị loại bỏ và được đổi thành *men-* trong tất cả các phiên bản phái sinh khác.<sup id="cite_ref-VT49_1-0" class="reference"><a href="#cite_note-VT49-1">[1]</a></sup>
 

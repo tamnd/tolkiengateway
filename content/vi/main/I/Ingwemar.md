@@ -14,7 +14,7 @@ categories:
   - "Quenya locations"
 ---
 
-**Ingwemar** đề cập đến nơi ở của [Ingwë](Ingwë.md) và những người theo ông, [Ingwi](Ingwi.md), ở [Aman](../A/Aman.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ingwemar** đề cập đến nơi ở của [Ingwë](Ingwë.md) và những người theo ông ta, [Ingwi](Ingwi.md), ở [Aman](../A/Aman.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

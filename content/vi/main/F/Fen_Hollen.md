@@ -27,11 +27,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Fen_Hollen.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d4/The_Lord_of_the_Rings_Online_-_Fen_Hollen.jpg/250px-The_Lord_of_the_Rings_Online_-_Fen_Hollen.jpg" decoding="async" loading="lazy" width="250" height="190" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d4/The_Lord_of_the_Rings_Online_-_Fen_Hollen.jpg/375px-The_Lord_of_the_Rings_Online_-_Fen_Hollen.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d4/The_Lord_of_the_Rings_Online_-_Fen_Hollen.jpg/500px-The_Lord_of_the_Rings_Online_-_Fen_Hollen.jpg 2x" data-file-width="1420" data-file-height="1080"/></a><figcaption>Fen Hollen in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Fen Hollen** hay **Cửa tiếp viên** nằm ở tầng thứ sáu của [Minas Tirith](../M/Minas_Tirith.md), ở bức tường phía sau về phía tây. Nó dẫn đến [Rath Dínen](../R/Rath_Dínen.md) (Phố Im lặng) và [Hallows](../H/Hallows.md) nơi đặt lăng mộ của [Quản gia](../S/Stewards_of_Gondor.md) và [Các Vua Gondor](../K/Kings_of_Gondor.md).
+**Fen Hollen** hay **Cửa tiếp viên** nằm ở tầng thứ sáu của [Minas Tirith](../M/Minas_Tirith.md), ở bức tường phía sau về phía tây. Nó dẫn đến [Rath Dínen](../R/Rath_Dínen.md) (Phố Im lặng) và [Hallows](../H/Hallows.md) nơi đặt lăng mộ của [Quản gia](../S/Stewards_of_Gondor.md) và [Các vị vua của Gondor](../K/Kings_of_Gondor.md).
 
 Được canh giữ bởi một người khuân vác, cánh cửa còn được gọi là **Cửa đóng** vì nó chỉ mở cho đám tang hoặc cho những người trông coi lăng mộ và có mã thông báo.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Vào khoảng thời gian [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md), [Beregond](../B/Beregond.md) đã giết người khuân vác để cứu [Faramir](Faramir.md) bị thương và lấy chìa khóa của ông. Sau khi khóa Cửa lại, [Gandalf](../G/Gandalf.md) đưa chìa khóa cho người bị thương [Faramir](Faramir.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào khoảng thời gian [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md), [Beregond](../B/Beregond.md) đã giết người khuân vác để cứu [Faramir](Faramir.md) bị thương và lấy chìa khóa của ông ta. Sau khi khóa Cửa lại, [Gandalf](../G/Gandalf.md) đưa chìa khóa cho người bị thương [Faramir](Faramir.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -39,9 +39,9 @@ Vào khoảng thời gian [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md), [B
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Fen Hollen bị đóng trong phiên bản trước trận chiến của Minas Tirith. Sau trận chiến, cánh cửa dẫn vào Phố Im lặng để tang được mở ra.</dd></dl>
+<dl><dd>Fen Hollen is closed in the pre-battle version of Minas Tirith. After the battle, the door is opened to the Silent Street for the mourning.</dd></dl>
 
 <span></span>
 

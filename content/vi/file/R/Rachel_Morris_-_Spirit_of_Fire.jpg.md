@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Fëanor](../../main/F/Fëanor.md) sắp bị trục xuất bởi lời đe dọa của ông đối với [Fingolfin](../../main/F/Fingolfin.md).
+[Fëanor](../../main/F/Fëanor.md) sắp bị trục xuất bởi lời đe dọa của ông ta đối với [Fingolfin](../../main/F/Fingolfin.md).
 
 ## Giấy phép {#Licensing}
 

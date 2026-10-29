@@ -12,7 +12,7 @@ categories:
   - "Conflicts in The Book of Lost Tales"
 ---
 
-**Trận chiến Tasarinan** diễn ra tại [Xứ sở Liễu](../N/Nan-tathren.md) trong cuộc thám hiểm vĩ đại từ [Valinor](../V/Valinor.md) để giải phóng [Gnomes](../G/Gnomes.md) bị bắt làm nô lệ ở [Great Lands](../G/Great_Lands.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có tài liệu chi tiết, đầy đủ nào về trận chiến được đưa ra vì nó chỉ được đề cập thoáng qua trong Lost Tales và trong các phác thảo khác nhau để tiếp tục.
+**Trận chiến Tasarinan** diễn ra tại [Vùng đất của những cây liễu](../N/Nan-tathren.md) trong cuộc thám hiểm vĩ đại từ [Valinor](../V/Valinor.md) để giải phóng [Gnomes](../G/Gnomes.md) bị bắt làm nô lệ ở [Great Lands](../G/Great_Lands.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có tài liệu chi tiết, đầy đủ nào về trận chiến được đưa ra vì nó chỉ được đề cập thoáng qua trong Lost Tales và trong các phác thảo khác nhau để tiếp tục.
 
 Điều ít được biết về nó là:
 

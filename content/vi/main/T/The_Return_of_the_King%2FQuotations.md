@@ -14,19 +14,19 @@ categories:
 ---
 
 <blockquote class="tg-quote noexcerpt">
-<p>'Hãy ngủ lại đi và đừng sợ!' nói Gandalf. 'Vì bạn sẽ không đi như Frodo đến Mordor mà là Minas Tirith, và ở đó bạn sẽ được an toàn nhất có thể ở bất cứ đâu trong những ngày này. Nếu Gondor rơi, hoặc Chiếc nhẫn bị lấy đi, thì Shire sẽ không còn nơi nương tựa.'
+<p>&#39;Sleep again, and do not be afraid!&#39; said Gandalf. &#39;For you are not going like Frodo to Mordor, but to Minas Tirith, and there you will be as safe as you can be anywhere in these days. If Gondor falls, or the Ring is taken, then the Shire will be no refuge.&#39;
 </p>
 <p class="tg-quote-footer"><cite>&#34;<a href="../M/Minas_Tirith_(chapter).md" title="Minas Tirith (chapter)">Minas Tirith</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>'Chúng tôi sẽ đến', Imrahil nói; và họ chia tay với những lời lẽ nhã nhặn. <br/>'Đó là một vị lãnh chúa công bằng và một thuyền trưởng vĩ đại của loài người', Legolas nói. 'Nếu Gondor vẫn còn những con người như vậy trong những ngày tàn lụi này, thì vinh quang của nó chắc chắn phải lớn lao trong những ngày nó trỗi dậy.'<br/>'Và không nghi ngờ gì nữa, tác phẩm bằng đá tốt là cổ hơn và được rèn trong tòa nhà đầu tiên,' Gimli nói. 'Điều đó luôn xảy ra với những điều Con Người bắt đầu: có sương giá vào mùa xuân, hay bệnh tàn lụi vào mùa hè, và họ không giữ lời hứa.'<br/>'Tuy nhiên, hiếm khi họ thất bại trong hạt giống của mình,' Legolas nói. ‘Và thứ đó sẽ nằm trong cát bụi và mục nát để mọc lên lần nữa ở những thời điểm và những nơi không thể ngờ tới. Những việc làm của Con Người sẽ tồn tại lâu hơn chúng ta, Gimli.'<br/>'Và cuối cùng vẫn chẳng có kết quả gì ngoài những điều có thể xảy ra, tôi đoán vậy,' Người Lùn nói.<br/>'Về điều đó, Tiên tộc không biết câu trả lời,' Legolas nói.
+<p>&#39;We will come&#39;, said Imrahil; and they parted with courteous words. <br/>&#39;That is a fair lord and a great captain of men,&#39; said Legolas. &#39;If Gondor has such men still in these days of fading, great must have been its glory in the days of its rising.&#39;<br/>&#39;And doubtless the good stone-work is the older and was wrought in the first building,&#39; said Gimli. &#39;It is ever so with the things that Men begin: there is a frost in Spring, or a blight in Summer, and they fail of their promise.&#39;<br/>&#39;Yet seldom do they fail of their seed,&#39; said Legolas. &#39;And that will lie in the dust and rot to spring up again in times and places unlooked-for. The deeds of Men will outlast us, Gimli.&#39;<br/>&#39;And yet come to naught in the end but might-have-beens, I guess,&#39; said the Dwarf.<br/>&#39;To that the Elves know not the answer,&#39; said Legolas.
 </p>
 <p class="tg-quote-footer"><cite>&#34;<a href="The_Last_Debate.md" title="The Last Debate">The Last Debate</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Chà, cuối cùng thì, các bạn thân mến, trên bờ biển đã kết thúc tình bạn của chúng ta trong Trung Địa. Hãy đi bình yên nhé! Tôi sẽ không nói: đừng khóc vì không phải nước mắt nào cũng là tội ác.
+<p>Well, here at last, dear friends, on the shores of the sea comes the end of our fellowship in Middle-earth. Go in peace! I will not say: do not weep for not all tears are an evil.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, &#34;<a class="mw-redirect" href="The_Grey_Havens.md" title="The Grey Havens">The Grey Havens</a>&#34;</cite></p>
 </blockquote>

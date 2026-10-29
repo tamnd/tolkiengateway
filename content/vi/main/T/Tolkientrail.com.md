@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Tolkientrail.com"
 content_sha256: 6c29653e702c78147c7202749ea2da5bdff88aa2d2f77373e4ae0b8543e34f16
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Trang web dành cho người hâm mộ"
+short_description: "Fan site"
 categories:
   - "Websites"
 hidden_categories:

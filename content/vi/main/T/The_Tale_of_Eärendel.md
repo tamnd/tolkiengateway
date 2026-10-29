@@ -16,7 +16,7 @@ sort_keys:
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin:15px;border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a class="mw-redirect" href="The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i> chương
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a class="mw-redirect" href="The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i> chapters
 </th></tr>
 <tr>
 <td>
@@ -24,15 +24,15 @@ sort_keys:
 <li><a href="Turambar_and_the_Foalókë.md" title="Turambar and the Foalókë">Turambar and the Foalókë</a></li>
 <li><a href="The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a></li>
 <li><a href="The_Nauglafring.md" title="The Nauglafring">The Nauglafring</a></li>
-<li><a class="mw-selflink selflink">Truyện kể về Eärendel</a></li>
-<li><a href="The_History_of_Eriol_or_Ælfwine_and_the_End_of_the_Tales.md" title="The History of Eriol or Ælfwine and the End of the Tales">Lịch sử của Eriol hay Ælfwine</a></li></ol>
+<li><a class="mw-selflink selflink">The Tale of Eärendel</a></li>
+<li><a href="The_History_of_Eriol_or_Ælfwine_and_the_End_of_the_Tales.md" title="The History of Eriol or Ælfwine and the End of the Tales">The History of Eriol or Ælfwine</a></li></ol>
 </td></tr></tbody></table>
 
 **Truyện Eärendel** là chương thứ năm của *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)*. Không giống như những câu chuyện trước đó trong cuốn sách, nó không chứa một câu chuyện đầy đủ mà chứa phần trình bày của [Christopher Tolkien](../C/Christopher_Tolkien.md) về các ghi chú khác nhau và "những nét phác thảo cô đọng và thường mâu thuẫn" về Câu chuyện chưa hoàn chỉnh của [Eärendel](../E/Eärendil.md). Christopher cũng bao gồm [bốn bài thơ](#Early_poems) được viết trước Lost Tales.
 
 ## Tóm tắt {#Synopsis}
 
-Câu chuyện này được cho là sẽ tiếp nối phần *[The Fall of Gondolin](<The_Fall_of_Gondolin_(chapter).md>)* và *[Tale of the Nauglafring](The_Nauglafring.md)* đã dừng lại, với quá trình lớn lên của Eärendel và [Elwing](../E/Elwing.md) giữa [Lothlim](../L/Lothlim.md) ở miệng [Sirion](../S/Sirion.md) và tình yêu giữa họ. Sau đó, các phác thảo phác họa cuộc giải cứu Eärendel khỏi một xác tàu đắm bởi [Ulmo](../U/Ulmo.md), chuyến hành trình tìm kiếm [Valinor](../V/Valinor.md), [sự ràng buộc của Melko](../W/War_of_Wrath.md) và cuối cùng là chuyến khởi hành của ông tới [vùng trời](../F/Firmament.md).
+Câu chuyện này được cho là sẽ tiếp nối phần *[The Fall of Gondolin](<The_Fall_of_Gondolin_(chapter).md>)* và *[Tale of the Nauglafring](The_Nauglafring.md)* đã dừng lại, với quá trình lớn lên của Eärendel và [Elwing](../E/Elwing.md) giữa [Lothlim](../L/Lothlim.md) ở miệng [Sirion](../S/Sirion.md) và tình yêu giữa họ. Sau đó, các phác thảo phác họa cuộc giải cứu Eärendel khỏi một xác tàu đắm bởi [Ulmo](../U/Ulmo.md), chuyến hành trình tìm kiếm [Valinor](../V/Valinor.md), [sự ràng buộc của Melko](../W/War_of_Wrath.md) và cuối cùng là chuyến khởi hành của ông ta tới [vùng trời](../F/Firmament.md).
 
 Có hai điểm khác biệt chính giữa bản phác thảo của câu chuyện Eärendel và bản tóm tắt của *[Silmarillion](The_Silmarillion.md)* đã xuất bản. Đầu tiên, trong *Lost Tale*, Eärendel đến Valinor quá muộn: một thông điệp được truyền đi bởi những chú chim [Gondolin](../G/Gondolin.md) đã đánh thức Eldar, những người quyết định tham chiến bất chấp mong muốn của các vị thần, khởi hành đến [Great Lands](../M/Middle-earth.md). Theo [Christopher Tolkien](../C/Christopher_Tolkien.md) kết luận "bất thường" rằng nhiệm vụ của Eärendel đã không có kết quả cho đến các phiên bản đầu tiên của *Silmarillion*, nhưng để lại một câu hỏi nghiêm trọng chưa được giải đáp về mục đích của Ulmo trong việc hướng dẫn số phận của Tuor và Eärendel. Hình ảnh Eärendel đến [Kôr](../K/Kôr.md) chỉ để thấy nó vắng vẻ thực sự được lưu giữ trong *Silmarillion* đã xuất bản, nhưng trong quan niệm sau này thì đó là do cư dân đang tham dự một bữa tiệc ở [Valmar](../V/Valmar.md).
 
@@ -57,112 +57,112 @@ Dưới đây là bốn nét phác thảo được Christopher Tolkien đưa ra 
 <th>Scheme C</th>
 <th>Scheme D</th>
 <th>Scheme E</th>
-<th>Ghi chú rải rác
+<th>Scattered notes
 </th></tr>
 <tr>
-<td><i><b>Second part.</b></i>Nhà ở tại <a href="../S/Sirion.md" title="Sirion">Sirion</a>.</td>
-<td><a class="mw-redirect" href="../E/Eärendel.md" title="Eärendel">Eärendel</a> sống cùng với <a href="Tuor.md" title="Tuor">Tuor</a> và <a href="../I/Idril.md" title="Idril">Irildë</a> tại cửa Sirion cạnh biển (trên <a href="../I/Isle_of_Balar.md" title="Isle of Balar">Đảo Sirion</a>).</td>
-<td>Dân tộc <a class="mw-redirect" href="../L/Lothlim.md" title="Lothlim">Lothlim</a> cư trú tại Miệng <a href="../M/Mouths_of_Sirion.md" title="Mouths of Sirion">Sirion</a> như thế nào. Eärendel phát triển công bằng nhất trong tất cả Con Người đã hoặc đang tồn tại.</td>
-<td>Nơi cư trú bên vùng nước của miệng Sirion.</td>
-<td>(i) Ở tại đảo Sirion trong ngôi nhà bằng đá trắng như tuyết.
+<td><i><b>Second part.</b></i> The dwelling at <a href="../S/Sirion.md" title="Sirion">Sirion</a>.</td>
+<td><a class="mw-redirect" href="../E/Eärendel.md" title="Eärendel">Eärendel</a> dwells with <a href="Tuor.md" title="Tuor">Tuor</a> and <a href="../I/Idril.md" title="Idril">Irildë</a> at Sirion&#39;s mouth by the sea (on the <a href="../I/Isle_of_Balar.md" title="Isle of Balar">Isles of Sirion</a>).</td>
+<td>How folk of the <a class="mw-redirect" href="../L/Lothlim.md" title="Lothlim">Lothlim</a> dwelt at <a href="../M/Mouths_of_Sirion.md" title="Mouths of Sirion">Sirion&#39;s Mouth</a>. Eärendel grew fairest of all Men that were or are.</td>
+<td>The dwelling by the waters of Sirion&#39;s mouth.</td>
+<td>(i) Dwelling in the Isle of Sirion in a house of snow-white stone.
 </td></tr>
 <tr>
 <td></td>
 <td></td>
-<td>Các nàng tiên cá (<a class="mw-redirect" href="../O/Oarni.md" title="Oarni">Oarni</a>) đã yêu mến ông như thế nào.</td>
-<td>Các nàng tiên cá đến Eärendel.</td>
-<td>(ii) Người Oarni ban cho Eärendel một chiếc áo khoác bạc sáng bóng tuyệt vời không bị ướt. Họ yêu Eärendel, bất chấp <a href="../O/Ossë.md" title="Ossë">Ossë</a>, và dạy cho ông kiến ​​thức về đóng thuyền và bơi lội, khi ông chơi với họ về bờ biển Sirion.<br/><br/> (iii) Eärendel nhỏ hơn hầu hết đàn ông nhưng chân nhanh nhẹn và bơi nhanh (nhưng Voronwë không biết bơi).
+<td>How the mermaids (<a class="mw-redirect" href="../O/Oarni.md" title="Oarni">Oarni</a>) loved him.</td>
+<td>The mermaids come to Eärendel.</td>
+<td>(ii) The Oarni give to Eärendel a wonderful shining silver coat that wets not. They love Eärendel, in <a href="../O/Ossë.md" title="Ossë">Ossë</a>&#39;s despite, and teach him the lore of boat-building and of swimming, as he plays with them about the shores of Sirion.<br/><br/> (iii) Eärendel was smaller than most men but nimbled-footed and a swift swimmer (but Voronwë could not swim).
 </td></tr>
 <tr>
-<td>Đến với <a href="../E/Elwing.md" title="Elwing">Elwing</a>, và tình yêu của cô và Eärendel khi còn là gái và trai.</td>
-<td>Elwing trong số Gnomes của <a class="mw-redirect" href="../A/Artanor.md" title="Artanor">Artanor</a> chạy trốn đến chỗ chúng bằng <a class="mw-redirect" href="../N/Nauglafring.md" title="Nauglafring">Nauglafring</a>. Eärendel và Elwing yêu nhau như trai gái.</td>
-<td>Làm thế nào Elwing đến với Lothlim và tình yêu của Elwing và Eärendel.</td>
+<td>Coming thither of <a href="../E/Elwing.md" title="Elwing">Elwing</a>, and the love of her and Eärendel as girl and boy.</td>
+<td>Elwing of the Gnomes of <a class="mw-redirect" href="../A/Artanor.md" title="Artanor">Artanor</a> flees to them with the <a class="mw-redirect" href="../N/Nauglafring.md" title="Nauglafring">Nauglafring</a>. Eärendel and Elwing love one another as boy and girl.</td>
+<td>How Elwing came to the Lothlim and of the love of Elwing and Eärendel.</td>
 <td></td>
 <td>
 </td></tr>
 <tr>
-<td>Lão hóa của Tuor — chuyến đi bí mật của ông sau những chiếc tù và của <a href="../U/Ulmo.md" title="Ulmo">Ulmo</a> trong <a class="mw-redirect" href="../A/Alqarámë.md" title="Alqarámë">Swanwing</a>.</td>
-<td>Tình yêu lớn của Eärendel và Tuor. Tuor tuổi, và những chiếc tù và của Ulmo xa về phía tây trên biển gọi anh ngày càng to hơn, cho đến một buổi tối, anh ra khơi trên con thuyền chạng vạng với những cánh buồm tím, Swanwing, Alqarámë. <a href="../I/Idril.md" title="Idril">Idril</a> gặp ông quá muộn. Bài hát của cô trên bãi biển Sirion. <br/> Khi anh không trả lại nỗi đau Eärendel và Idril.</td>
-<td>Làm thế nào Tuor già đi, và làm thế nào Ulmo ra hiệu cho ông vào đêm trước, và ông lên đường và lạc lối. Idril đã bơi theo ông như thế nào.</td>
-<td><a href="Tuor.md" title="Tuor">Tûr</a> phát triển <a href="../S/Sea-longing.md" title="Sea-longing">đói biển</a> — bài hát của ông dành cho Eärendel. Một buổi tối anh gọi Eärendel và họ vào bờ. Có một chiếc thuyền nhỏ. Tûr chào tạm biệt Eärendel và ra lệnh cho ông lao đi — chiếc thuyền nhỏ lao vào Phương Tây. Eärendel nghe thấy một bài hát tuyệt vời vang lên từ biển khi thuyền nhỏ của Tûr lướt qua vành đai thế giới. Niềm đam mê của anh là nước mắt trên bờ. Lời than thở của Idril.</td>
-<td>(iv) Idril và Eärendel nhìn thấy con thuyền của Tuor chìm trong ánh chạng vạng và tiếng hát vang lên.<br/><br/>(v) Cái chết của Idril? — bí mật theo dõi sau khi Tuor.<br/><br/> (vi) Tuor đã lên đường quay trở lại <a href="../F/Falasquil.md" title="Falasquil">Falasquil</a> và quay trở lại Ilbranteloth để đến <a href="../L/Lake_Mithrim.md" title="Lake Mithrim">Asgon</a> nơi ông ngồi chơi đàn hạc cô đơn của mình trên tảng đá trên đảo.
+<td>Ageing of Tuor — his secret sailing after the conches of <a href="../U/Ulmo.md" title="Ulmo">Ulmo</a> in <a class="mw-redirect" href="../A/Alqarámë.md" title="Alqarámë">Swanwing</a>.</td>
+<td>Great love of Eärendel and Tuor. Tuor ages, and Ulmo&#39;s conches far out west over the sea call him louder and louder, till one evening he sets sail in his twilit boat with purple sails, Swanwing, Alqarámë. <a href="../I/Idril.md" title="Idril">Idril</a> sees him too late. Her song on the beach of Sirion. <br/> When he does not return grief of Eärendel and Idril.</td>
+<td>How Tuor fell into age, and how Ulmo beckoned to him at eve, and he set forth on the waters and was lost. How Idril swam after him.</td>
+<td><a href="Tuor.md" title="Tuor">Tûr</a> groweth <a href="../S/Sea-longing.md" title="Sea-longing">sea-hungry</a> — his song to Eärendel. One evening he calls Eärendel and they go to the shore. There is a skiff. Tûr bids farewell to Eärendel and bids him thrust it off — the skiff fares away into the West. Eärendel hears a great song swelling from the sea as Tûr&#39;s skiff dips over the world&#39;s rim. His passion of tears upon the shore. The lament of Idril.</td>
+<td>(iv) Idril and Eärendel see Tuor&#39;s boat dropping into the twilight and a sound of song.<br/><br/>(v) Death of Idril? — follows secretly after Tuor.<br/><br/> (vi) Tuor has sailed back to <a href="../F/Falasquil.md" title="Falasquil">Falasquil</a> and so back to Ilbranteloth to <a href="../L/Lake_Mithrim.md" title="Lake Mithrim">Asgon</a> where he sits playing on his lonely harp on the islanded rock.
 </td></tr>
 <tr>
-<td>Eärendel ra khơi phía Bắc để tìm Tuor, và nếu cần thì <a href="../H/Halls_of_Mandos.md" title="Halls of Mandos">Mandos</a>.</td>
-<td>Eärendel (cũng được thúc giục bởi Idril người bất tử) mong muốn ra khơi và tìm kiếm thậm chí đến Mandos.<br/><br/>(<i>Addition</i>: Tòa nhà của Eärámë (Eaglepinion)).</td>
-<td><s>Eärendel [với sự hỗ trợ của?] Oarni đã xây dựng <a class="mw-redirect" href="../W/Wingilot.md" title="Wingilot">Wingilot</a> và lên đường tìm kiếm... rời đi <a href="../V/Voronwë.md" title="Voronwë">Voronwë</a> cùng với Elwing.</s> Eärendel đã xây dựng Swanwing. Lời than thở của <br/> Elwing. Làm thế nào Ulmo ngăn cản nhiệm vụ của mình nhưng Eärendel vẫn ra khơi để tìm lối đi tới Mandos.</td>
-<td>Tòa nhà Eärum Sự xuất hiện của Elwing. Eärendel sự miễn cưỡng của. Sự mài mòn của Idril.</td>
+<td>Eärendel sets sail to the North to find Tuor, and if needs be <a href="../H/Halls_of_Mandos.md" title="Halls of Mandos">Mandos</a>.</td>
+<td>Eärendel (urged also by Idril who is immortal) desires to set sail and search even to Mandos.<br/><br/>(<i>Addition</i>: Building of Eärámë (Eaglepinion)).</td>
+<td><s>Eärendel [with the aid of?] Oarni builded <a class="mw-redirect" href="../W/Wingilot.md" title="Wingilot">Wingilot</a> and set forth in search of... leaving <a href="../V/Voronwë.md" title="Voronwë">Voronwë</a> with Elwing.</s> Eärendel built Swanwing. <br/> Elwing&#39;s lament. How Ulmo forbade his quest but Eärendel would yet sail to find a passage to Mandos.</td>
+<td>The building of Eärum. The coming of Elwing. Eärendel&#39;s reluctance. The whetting of Idril.</td>
 <td>
 </td></tr>
 <tr>
-<td>Cánh buồm ở Eärámë. Bị đắm. Ulmo xuất hiện. Cứu ông, ra lệnh cho ông đi thuyền đến <a href="../K/Kôr.md" title="Kôr">Kôr</a> - 'vì điều này mà bạn đã được đưa ra khỏi Wrack of Gondolin'.</td>
-<td>(<i>Marginal note</i>: Lời nguyền của Nauglafring đeo bám trong chuyến hành trình của ông Ossë kẻ thù của ông.)<br/><br/> Fiord of the Mỹ nhân ngư. Xác tàu. Ulmo xuất hiện tại xác tàu và cứu họ, nói với họ rằng ông phải đến Kôr và được cứu vì điều đó.</td>
+<td>Sails in Eärámë. Wrecked. Ulmo appears. Saves him, bidding him sail to <a href="../K/Kôr.md" title="Kôr">Kôr</a> — &#39;for for this hast thou been brought out of the Wrack of Gondolin&#39;.</td>
+<td>(<i>Marginal note</i>: Curse of Nauglafring rests on his voyages Ossë his enemy.)<br/><br/> Fiord of the Mermaid. Wreck. Ulmo appears at wreck and saves them, telling them he must go to Kôr and is saved for that.</td>
 <td></td>
 <td></td>
-<td>(vii) Vịnh nhỏ Tiên cá: mê hoặc các thủy thủ. Tiên cá không phải là Oarni (mà là người trái đất, hay thần tiên? - hoặc cả hai).
+<td>(vii) The fiord of the Mermaid: enchantment of his sailors. Mermaids are not Oarni (but are earthlings, or fays? — or both).
 </td></tr>
 <tr>
-<td><i><b>Third part.</b></i> Kỷ Đệ Nhị lần thử Eärendel đến Mandos. Xác tàu Falasquil và sự giải cứu của Oarni. Ông nhìn thấy Đảo Chim biển 'nơi mà tất cả các loài chim ở mọi vùng nước thỉnh thoảng đến'.</td>
-<td>Nỗi đau buồn của Elwing khi biết được sự đấu thầu của Ulmo. 'Vì không ai có thể bước đi trên những con phố của Kôr hoặc nhìn vào nơi ở của <a href="../G/Gods.md" title="Gods">Các vị thần</a> và sống ở <a class="mw-redirect" href="../O/Outer_Lands.md" title="Outer Lands">Vùng đất bên ngoài</a> trong hòa bình một lần nữa.'<br/>Eärendel ra đi như cũ và bị tàn phá bởi sự phản bội của Ossë và được cứu bởi Oarni (người yêu ông) với Voronwë và bị kéo đến Falasquil. <br/><br/> (<i>Addition</i>: Eärendel khảo sát nơi ở đầu tiên của Tuor tại Falasquil).</td>
-<td>Wingilot bị đắm ở Falasquil như thế nào và làm thế nào Eärendel tìm thấy ngôi nhà điêu khắc của Tuor ở đó.</td>
-<td>Chuyến hành trình và sự hình thành của Erum ở phương Bắc, cũng như sự biến mất của Idril. Các thủy thủ đã giải cứu Eärendel và đưa ông đến vịnh Tûr như thế nào.</td>
+<td><i><b>Third part.</b></i> Second attempt of Eärendel to Mandos. Wreck of Falasquil and rescue by the Oarni. He sights the Isle of Seabirds &#39;whither do all the birds of all waters come at whiles&#39;.</td>
+<td>Elwing&#39;s grief when she learns Ulmo&#39;s bidding. &#39;For no man may tread the streets of Kôr or look upon the places of the <a href="../G/Gods.md" title="Gods">Gods</a> and dwell in the <a class="mw-redirect" href="../O/Outer_Lands.md" title="Outer Lands">Outer Lands</a> in peace again.&#39;<br/>Eärendel departs all the same and is wrecked by the treachery of Ossë and saved by the Oarni (who love him) with Voronwë and dragged to Falasquil. <br/><br/> (<i>Addition</i>: Eärendel surveys the first dwelling of Tuor at Falasquil).</td>
+<td>How Wingilot was wrecked at Falasquil and how Eärendel found the carven house of Tuor there.</td>
+<td>The voyage and foundering of Earum in the North, and the vanishing of Idril. How the seamaids rescued Eärendel and brought him to Tûr&#39;s bay.</td>
 <td>
 </td></tr>
 <tr>
-<td>Đi bộ về Sirion.<br/> Idril đã biến mất (cô ra khơi vào ban đêm).</td>
-<td>Eärendel quay về bằng đường bộ cùng với Voronwë. Phát hiện ra rằng <s>Sirion đã bị sa thải và chỉ còn lại Littleheart (Ilfrith) là người kể lại câu chuyện.</s> Idril đã bị trục xuất. Nỗi đau buồn của anh.</td>
+<td>Goes back by land to Sirion.<br/> Idril has vanished (she set sail at night).</td>
+<td>Eärendel makes his way back by land with Voronwë. Finds that <s>Sirion has been sacked and only Littleheart (Ilfrith) remained who tells the tale.</s> Idril has banished. His grief.</td>
 <td></td>
-<td>Cuộc hành trình dọc bờ biển của anh. <br/> Vụ cưỡng hiếp Elwing. Eärendel phát hiện ra sự tàn phá trong miệng của Sirion.</td>
+<td>His coastwise journey. <br/> The rape of Elwing. Eärendel discovers the ravaging of Sirion&#39;s mouth.</td>
 <td>
 </td></tr>
 <tr>
-<td>Những chiếc tù và Ulmo gọi Eärendel. Lời tạm biệt cuối cùng của Elwing. Tòa nhà Wingilot</td>
-<td>Cầu nguyện Ulmo và nghe thấy tiếng tù và. Ulmo đề nghị ông đóng một con tàu mới và tuyệt vời bằng gỗ Tuor từ Falasquil. Tòa nhà Wingilot</td>
+<td>The conches of Ulmo call Eärendel. Last farewell of Elwing. Building of Wingilot.</td>
+<td>Prays to Ulmo and hears the conches. Ulmo bids him build a new and wonderful ship of the wood of Tuor from Falasquil. Building of Wingilot.</td>
 <td></td>
-<td>Tòa nhà Wingelot</td>
-<td>(viii) Con tàu Wingilot được đóng bằng gỗ từ Falasquil với 'sự trợ giúp của Oarni'.<br/><br/>(ix) Wingilot được 'có hình dạng như một con thiên nga bằng ngọc trai'.
+<td>The building of Wingelot.</td>
+<td>(viii) The ship Wingilot was built of wood from Falasquil with &#39;aid of the Oarni&#39;.<br/><br/>(ix) Wingilot was &#39;shaped as a swan of pearls&#39;.
 </td></tr>
 <tr>
-<td><i><b>Fourth part.</b></i> Eärendel đi <a href="../V/Valinor.md" title="Valinor">Valinor</a>. Anh lang thang nhiều, chiếm giữ mấy năm.</td>
-<td>Voronwë và Eärendel ra khơi ở Wingilot. Lái xe về phía nam. Những vùng tối. Núi lửa. <a href="Tree-men.md" title="Tree-men">Người cây</a>. <a href="../P/Pygmies.md" title="Pygmies">Người Lùn</a>. <a class="mw-redirect" href="../S/Sarqindi.md" title="Sarqindi">Sarqindi</a> hoặc yêu tinh ăn thịt người.<br/>Hướng về phía tây. <a class="mw-redirect" href="../U/Ungweliantë.md" title="Ungweliantë">Ungweliantë</a>. <a class="mw-redirect" href="../M/Magic_Isles.md" title="Magic Isles">Quần đảo ma thuật</a>. Đảo Chạng Vạng [<i>sic</i>]. Tiếng cồng của <a href="../L/Littleheart.md" title="Littleheart">Trái tim bé nhỏ</a> đánh thức <a href="../S/Sleeper.md" title="Sleeper">Người ngủ</a> ở <a href="Tower_of_Pearl.md" title="Tower of Pearl">Tháp Ngọc</a>. <s>Người Ngủ là Idril nhưng ông không biết.</s></td>
+<td><i><b>Fourth part.</b></i> Eärendel sails for <a href="../V/Valinor.md" title="Valinor">Valinor</a>. His many wanderings, occupying several years.</td>
+<td>Voronwë and Eärendel set sail in Wingilot. Driven south. Dark regions. Fire mountains. <a href="Tree-men.md" title="Tree-men">Tree-men</a>. <a href="../P/Pygmies.md" title="Pygmies">Pygmies</a>. <a class="mw-redirect" href="../S/Sarqindi.md" title="Sarqindi">Sarqindi</a> or cannibal-ogres.<br/>Driven west. <a class="mw-redirect" href="../U/Ungweliantë.md" title="Ungweliantë">Ungweliantë</a>. <a class="mw-redirect" href="../M/Magic_Isles.md" title="Magic Isles">Magic Isles</a>. Twilit Isle [<i>sic</i>]. <a href="../L/Littleheart.md" title="Littleheart">Littleheart</a>&#39;s gong awakes the <a href="../S/Sleeper.md" title="Sleeper">Sleeper</a> in the <a href="Tower_of_Pearl.md" title="Tower of Pearl">Tower of Pearl</a>. <s>The Sleeper is Idril but he does not know.</s></td>
 <td></td>
-<td>Ông tìm kiếm Elwing và bị thổi bay về phía Nam. Wirilómë. Ông trốn về phía đông. Ông quay lại phía tây; ông chê bai <a href="../B/Bay_of_Eldamar.md" title="Bay of Eldamar">Vịnh thần tiên</a>. Tháp Ngọc, những hòn đảo ma thuật, những cái bóng vĩ đại.</td>
-<td>(xi) Trong chuyến hành trình Eärendel nhìn thấy những bức tường trắng Kôr lấp lánh từ xa, nhưng bị cuốn đi bởi những cơn gió và sóng bất lợi của Ossë. <br/><br/> (xii) Người Ngủ Trong Tháp Ngọc được đánh thức bởi tiếng cồng của Littleheart: một sứ giả được Turgon phái đi nhiều năm trước và bị mê hoặc bởi ma thuật. Ngay cả bây giờ ông cũng không thể rời khỏi Tháp và cảnh báo họ về phép thuật.
+<td>He searches for Elwing and is blown to the South. Wirilómë. He escapes eastward. He goes back westward; he decries the <a href="../B/Bay_of_Eldamar.md" title="Bay of Eldamar">Bay of Faëry</a>. The Tower of Pearl, the magic isles, the great shadows.</td>
+<td>(xi) During his voyages Eärendel sights the white walls of Kôr gleaming afar off, but is carried away by Ossë&#39;s adverse winds and waves. <br/><br/> (xii) The Sleeper in the Tower of Pearl awakened by Littleheart&#39;s gong: a messenger that was despatched years ago by Turgon and enmeshed in magics. Even now he cannot leave the Tower and warns them of the magic.
 </td></tr>
 <tr>
-<td><i><b>Fifth part.</b></i> Đàn chim <a href="../G/Gondolin.md" title="Gondolin">Gondolin</a> đến Kôr mang theo tin lành. Sự náo động của <a href="../E/Elves.md" title="Elves">Tiên tộc</a>. Hội đồng của các vị thần. Tháng ba về cái chết của Inwir của <a class="mw-redirect" href="../I/Inwë.md" title="Inwë">Inwë</a>), <a href="../V/Vanyar.md" title="Vanyar">Teleri</a> và <a href="../S/Solosimpi.md" title="Solosimpi">Solosimpi</a>. <br/> Đột kích Sirion và bắt giữ Elwing. <br/> Nỗi buồn và cơn thịnh nộ của các vị thần, và một tấm màn che giữa <a class="mw-redirect" href="../V/Valmar.md" title="Valmar">Valmar</a> và Kôr, vì các vị thần sẽ không phá hủy nó nhưng không thể chịu đựng được khi nhìn vào nó.<br/> Sự xuất hiện của Eldar. Đấu thầu <a class="mw-redirect" href="../M/Melko.md" title="Melko">Melko</a>. Đi đến <a class="mw-redirect" href="../L/Lonely_Isle.md" title="Lonely Isle">Đảo cô đơn</a>. Lời nguyền của Nauglafring và cái chết của Elwing.</td>
-<td>(<i>Co-events to Eärendel&#39;s Tale</i>: Cuộc tấn công của Sirion bởi <a href="../O/Orcs.md" title="Orcs">Orc</a> của Melko và sự giam cầm Elwing.<br/> Những con chim kể về Tiên tộc về <a href="../F/Fall_of_Gondolin.md" title="Fall of Gondolin">Sự sụp đổ của Gondolin</a> và nỗi kinh hoàng về số phận của Gnomes. Lời khuyên của các vị thần và sự náo động của Tiên tộc. Cuộc hành quân của Inwir và Teleri. Solosimpi cũng đi ra ngoài nhưng đi dọc theo các bãi biển trên thế giới, vì họ không thích tiếng ồn của biển — và chỉ đồng ý đi cùng Teleri trong những điều kiện này — vì <a class="mw-redirect" href="../N/Noldoli.md" title="Noldoli">Noldoli</a> đã giết một số người thân của họ tại <a class="mw-redirect" href="../K/Kopas_Alqaluntë.md" title="Kopas Alqaluntë">Kópas</a>.)</td>
-<td>...những người đưa tin được gửi từ Gondolin. Những con chim bồ câu của Gondolin bay đến Valinor vào lúc thị trấn đó thất thủ.</td>
+<td><i><b>Fifth part.</b></i> Coming of the birds of <a href="../G/Gondolin.md" title="Gondolin">Gondolin</a> to Kôr with tidings. Uproar of the <a href="../E/Elves.md" title="Elves">Elves</a>. Councils of the Gods. March of the Inwir death of <a class="mw-redirect" href="../I/Inwë.md" title="Inwë">Inwë</a>), <a href="../V/Vanyar.md" title="Vanyar">Teleri</a>, and <a href="../S/Solosimpi.md" title="Solosimpi">Solosimpi</a>. <br/> Raid upon Sirion and captivity of Elwing. <br/> Sorrow and wrath of Gods, and a veil dropped between <a class="mw-redirect" href="../V/Valmar.md" title="Valmar">Valmar</a> and Kôr, for the Gods will not destroy it but cannot bear to look upon it.<br/> Coming of the Eldar. Biding of <a class="mw-redirect" href="../M/Melko.md" title="Melko">Melko</a>. Faring to <a class="mw-redirect" href="../L/Lonely_Isle.md" title="Lonely Isle">Lonely Isle</a>. Curse of the Nauglafring and death of Elwing.</td>
+<td>(<i>Co-events to Eärendel&#39;s Tale</i>: Raid upon Sirion by Melko&#39;s <a href="../O/Orcs.md" title="Orcs">Orcs</a> and the captivity of Elwing.<br/> Birds tell Elves of the <a href="../F/Fall_of_Gondolin.md" title="Fall of Gondolin">Fall of Gondolin</a> and the horrors of the fate of the Gnomes. Counsels of the Gods and uproar of the Elves. March of the Inwir and Teleri. The Solosimpi go forth also but fare along the beaches of the world, for they are loth to fare from the sound of the sea — and only consent to go with the Teleri under these conditions — for the <a class="mw-redirect" href="../N/Noldoli.md" title="Noldoli">Noldoli</a> slew some of their kin at <a class="mw-redirect" href="../K/Kopas_Alqaluntë.md" title="Kopas Alqaluntë">Kópas</a>.)</td>
+<td>...the messengers sent from Gondolin. The doves of Gondolin fly to Valinor at the fall of that town.</td>
 <td></td>
-<td>(x) Những con chim bồ câu trong sân của <a href="Turgon.md" title="Turgon">Turgon</a>mang thông điệp đến Valinor — chỉ dành cho Yêu tinh.<br/><br/>(xiii) <s>Sự bảo vệ của Ulmo bị loại bỏ khỏi Sirion trong cơn thịnh nộ trước nỗ lực thứ hai của Eärendel tới Mandos, và do đó Melko đã áp đảo nó.</s> <br/><br/> (xvi) Việc mất con tàu chở Elwing và Nauglafring diễn ra trong chuyến hành trình đến Tol Eressëa với cuộc di cư của Yêu tinh khỏi Vùng đất vĩ đại.
+<td>(x) The doves and pigeons of <a href="Turgon.md" title="Turgon">Turgon</a>&#39;s courtyard bring message to Valinor — only to Elves.<br/><br/>(xiii) <s>Ulmo&#39;s protection removed from Sirion in wrath at Eärendel&#39;s second attempt to Mandos, and hence Melko overwhelmed it.</s> <br/><br/> (xvi) The loss of the ship carrying Elwing and the Nauglafring took place on the voyage to Tol Eressëa with the exodus of the Elves from the Great Lands.
 </td></tr>
 <tr>
-<td><i><b>Sixth part.</b></i> Eärendel đạt Kôr và thấy nó trống. Trở về nhà trong nỗi buồn (và cảnh tượng <a href="Tol_Eressëa.md" title="Tol Eressëa">Tol Eressëa</a> cùng hạm đội Tiên tộc, nhưng một cơn gió lớn và bóng tối đã cuốn anh đi, anh lạc đường và phải hành trình về phía đông).</td>
-<td>Kôr được tìm thấy. Trống. Eärendel đọc những câu chuyện và lời tiên tri dưới nước. Sự hoang tàn của Kôr. Eärendel giày và tự phủ bụi kim cương để chúng tỏa sáng rực rỡ. <br/> Cuộc phiêu lưu về quê hương. Hướng về phía đông — sa mạc và cung điện đỏ, nơi Mặt Trời sinh sống.</td>
+<td><i><b>Sixth part.</b></i> Eärendel reaches Kôr and finds it empty. Fares home in sorrow (and sights <a href="Tol_Eressëa.md" title="Tol Eressëa">Tol Eressëa</a> and the fleet of the Elves, but a great wind and darkness carries him away, and he misses his way and has a voyage eastward).</td>
+<td>Kôr is found. Empty. Eärendel reads tales and prophecies in the waters. Desolation of Kôr. Eärendel&#39;s shoes and self powdered with diamond dust so that they shine brightly. <br/> Homeward adventures. Driven east — the deserts and red palaces where dwells the Sun.</td>
 <td></td>
-<td>Ông thấy Kôr trống rỗng; ông quay trở lại, phủ đầy bụi và mặt bốc cháy.</td>
-<td>(xx) <i>From <a href="The_Theft_of_Melko_and_the_Darkening_of_Valinor.md" title="The Theft of Melko and the Darkening of Valinor">The Theft of Melko</a>:</i> Trên các bức tường của Kôr có nhiều câu chuyện đen tối được viết bằng các biểu tượng hình ảnh, và những chữ rune vô cùng đẹp đẽ cũng được vẽ ở đó hoặc khắc trên đá, và Eärendel đã đọc rất nhiều câu chuyện kỳ ​​​​diệu ở đó từ lâu.
+<td>He finds Kôr empty; he sails back, crusted with dust and his face afire.</td>
+<td>(xx) <i>From <a href="The_Theft_of_Melko_and_the_Darkening_of_Valinor.md" title="The Theft of Melko and the Darkening of Valinor">The Theft of Melko</a>:</i> On the walls of Kôr were many dark tales written in pictured symbols, and runes of great beauty were drawn there too or carved upon stones, and Eärendel read many a wondrous tale there long ago.
 </td></tr>
 <tr>
-<td>Đến độ dài Sirion thấy nó trống. Đi đến tàn tích của Gondolin. Nghe được tin tức. Đi đến Tol Eressëa.</td>
-<td>Đến Sirion, chỉ thấy nó bị bỏ hoang và trống rỗng. Eärendel quẫn trí lang thang cùng với Voronwë và đi đến đống đổ nát của Gondolin. Con Người đang bị đóng trại ở đó một cách khốn khổ. Ngoài ra Gnomes vẫn đang tìm kiếm những viên ngọc bị mất (hoặc một số Gnomes quay lại Gondolin). <br/> <s>[?Orlon] đang [?đứng] ở đó và nói với ông về bao tải Sirion và việc Elwing bị giam cầm. Giá trị của <a class="mw-redirect" href="../K/Koreldar.md" title="Koreldar">Koreldar</a> và sự ràng buộc của Melko.</s> <br/>Về sự ràng buộc của Melko. Những cuộc chiến với Con Người và sự ra đi đến Tol Erëssea ( Eldar không thể chịu đựng được sự xung đột của thế giới). Eärendel đi tới Tol Eressëa và biết được tin Elwing bị chìm và tàu Nauglafring. Elwing đã trở thành một con chim biển. Nỗi đau buồn của ông rất lớn. Quần áo và cơ thể ông tỏa sáng như kim cương và khuôn mặt ông chìm trong ngọn lửa bạc vì nỗi đau buồn và ...</td>
+<td>Arriving at length at Sirion finds it empty. Goes to the ruins of Gondolin. Hears of tidings. Sails to Tol Eressëa.</td>
+<td>Arrives at Sirion, only to find it sacked and empty. Eärendel distraught wanders with Voronwë and comes to the ruins of Gondolin. Men are encamped there miserably. Also Gnomes searching still for lost gems (or some Gnomes gone back to Gondolin). <br/> <s>[?Orlon] is [?biding] there and tells him of the sack of Sirion and the captivity of Elwing. The faring of <a class="mw-redirect" href="../K/Koreldar.md" title="Koreldar">Koreldar</a> and the binding of Melko.</s> <br/>Of the binding of Melko. The wars with Men and the departure to Tol Erëssea (the Eldar unable to endure the strife of the world). Eärendel sails to Tol Eressëa and learns of the sinking of Elwing and the Nauglafring. Elwing became a seabird. His grief is very great. His garments and body shine like diamonds and his face is in silver flame for the grief and ...</td>
 <td></td>
-<td>Ông biết về sự thành lập của Elwing.</td>
-<td>(xiv) Eärendel kết hôn Elwing trước khi ra khơi. Khi nghe tin cô mất tích, ông nói rằng các con của ông sau này sẽ là "tất cả những người đàn ông dám đi biển lớn trên tàu".
+<td>He learns of Elwing&#39;s foundering.</td>
+<td>(xiv) Eärendel weds Elwing before he sets sail. When he hears of her loss he says that his children shall be &#34;all such men hereafter as dare the great seas in ships&#34;.
 </td></tr>
 <tr>
 <td>Sails to the <a href="../I/Isle_of_Seabirds.md" title="Isle of Seabirds">Isle of Seabirds</a>.</td>
-<td>Ông ra khơi cùng Voronwë và cư trú trên Đảo Chim biển ở vùng biển phía bắc (không xa Falasquil)—và có hy vọng rằng Elwing sẽ quay trở lại giữa bầy chim biển, nhưng bà đang tìm kiếm ông, than khóc dọc theo tất cả các bờ biển và đặc biệt là giữa đống đổ nát.</td>
+<td>He sets sail with Voronwë and dwells on the Isle of Seabirds in the northern waters (not far from Falasquil)—and there hopes that Elwing will return among the seabirds, but she is seeking him wailing along all the shores and especially among wreckage.</td>
 <td></td>
-<td>Ông đang ngồi trên Đảo Chim Biển. Elwing khi một người thợ may đến với ông.</td>
-<td>(xv) Eärendel thậm chí còn đi đến <a href="../A/Angband.md" title="Angband">Halls of Iron</a> trống rỗng để tìm kiếm Elwing. <br/><br/> (xvii) Eärendel và tòa tháp phía bắc của Đảo Chim Biển.
+<td>He is sitteth on the Isle of Seabirds. Elwing as a seamew comes to him.</td>
+<td>(xv) Eärendel goes even to the empty <a href="../A/Angband.md" title="Angband">Halls of Iron</a> seeking Elwing. <br/><br/> (xvii) Eärendel and the northern tower of the Isle of Seabirds.
 </td></tr>
 <tr>
-<td><i><b>Seventh part.</b></i> Chuyến du hành tới bầu trời.</td>
-<td>Sau ba lần bảy năm, ông lại lên đường đến hội trường của Mandos với Voronwë — ông đến đó bởi vì [?chỉ] những người vẫn... và đã từng đau khổ mới có thể làm như vậy — Tuor đã biến mất đến Valinor và không có thông tin gì về Idril hoặc Elwing. <br/> Đạt tới điểm tận cùng của thế giới và giương buồm trên các đại dương trên bầu trời để nhìn ngắm Trái đất. Người thủy thủ Mặt Trăng đuổi theo ông vì độ sáng của ông và ông lao qua <a href="../D/Door_of_Night.md" title="Door of Night">Cánh Cửa Đêm</a>. Làm sao bây giờ ông không thể trở lại thế giới nếu không ông sẽ chết. <br/> Ông sẽ tìm thấy Elwing tại Faring Forth.<br/><br/> Tuor và Idril một số người cho rằng hiện đang đi thuyền ở Swanwing và thậm chí có thể nhìn thấy nó đang lao nhanh theo chiều gió vào lúc bình minh và hoàng hôn.</td>
+<td><i><b>Seventh part.</b></i> His voyage to the firmament.</td>
+<td>After three times seven years he sails again for halls of Mandos with Voronwë — he gets there because [?only] those who still... and had suffered may do so — Tuor is gone to Valinor and nought is known of Idril or of Elwing. <br/> Reaches bar at the margin of the world and sets sail on oceans of the firmament in order to gaze over the Earth. The Moon mariner chases him for his brightness and he dives through the <a href="../D/Door_of_Night.md" title="Door of Night">Door of Night</a>. How he cannot now return to the world or he will die. <br/> He will find Elwing at the Faring Forth.<br/><br/> Tuor and Idril some say sail now in Swanwing and may even seen going swift down the wind at dawn and dusk.</td>
 <td></td>
-<td>Ông giong buồm vượt qua rìa thế giới.</td>
-<td>(xviii) Khi Eärendel đến Mandos ông thấy rằng Tuor là '<i>not</i> ở Valinor, cũng như <a class="mw-redirect" href="../E/Eruman.md" title="Eruman">Erumáni</a>, và Tiên tộc cũng không <a href="../A/Ainur.md" title="Ainur">Ainu</a> biết ông ở đâu. (Ông ở cùng với Ulmo). <br/><br/> (xix) Eärendel trở về từ bầu trời mãi mãi với Voronwë đến Kôr để xem liệu <a class="new" href="https://tolkiengateway.net/w/index.php?title=Magic_Sun&amp;action=edit&amp;redlink=1" title="Magic Sun (page does not exist)">Phép thuật Mặt Trời</a> đã được thắp sáng và <a href="../F/Fairies.md" title="Fairies">các nàng tiên</a> đã quay lại hay chưa — nhưng <a href="../M/Moon.md" title="Moon">Mặt Trăng</a> đã đẩy ông quay trở lại. <br/><br/> (xxi) <i>Từ Danh sách tên đến <a href="The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a>:</i> Ông là người đi biển vĩ đại nhất và đầu tiên trong số <a href="../M/Men.md" title="Men">Con Người</a>, và đã nhìn thấy những khu vực Con Người chưa tìm thấy cũng như chưa để mắt đến vô số thuyền của họ. Bây giờ ông cưỡi Voronwë theo những cơn gió của bầu trời và không bao giờ quay trở lại xa hơn Kôr, nếu không ông sẽ chết như những Con Người khác, trong ông có quá nhiều sinh tử.
+<td>He sets sail over the margent of the world.</td>
+<td>(xviii) When Eärendel comes to Mandos he finds that Tuor is &#39;<i>not</i> in Valinor, nor <a class="mw-redirect" href="../E/Eruman.md" title="Eruman">Erumáni</a>, and neither Elves not <a href="../A/Ainur.md" title="Ainur">Ainu</a> know where he is. (He is with Ulmo). <br/><br/> (xix) Eärendel returns from the firmament ever and anon with Voronwë to Kôr to see if the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Magic_Sun&amp;action=edit&amp;redlink=1" title="Magic Sun (page does not exist)">Magic Sun</a> has been lit and the <a href="../F/Fairies.md" title="Fairies">fairies</a> have come back — but the <a href="../M/Moon.md" title="Moon">Moon</a> drives him back. <br/><br/> (xxi) <i>From the Name-list to <a href="The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a>:</i> He was the greatest and first of all mariners among <a href="../M/Men.md" title="Men">Men</a>, and saw regions that Men have not yet found nor gazed upon for all the multitude of their boats. He rideth now with Voronwë upon the winds of the firmament nor comes ever further back than Kôr, else would he die like other Men, so much of the mortal is in him.
 </td></tr></tbody></table>
 
 ## Xem thêm {#See_also}

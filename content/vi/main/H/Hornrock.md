@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/%C3%84myrikallio"
 ---
 
-**Hornrock** là một mỏm đá màu đen nổi bật về phía nam so với bức tường đá phía bắc của [Helm's Deep](Helm's_Deep.md). Lâu đài [Hornburg](Hornburg.md) đã được xây dựng trên đỉnh Hornrock, và từ đó [Tường thành Deeping](../D/Deeping_Wall.md) chạy ngang qua miệng vực sâu đến bức tường phía nam.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Hornrock** là một mỏm đá màu đen nổi bật về phía nam so với bức tường đá phía bắc của [Helm's Deep](Helm's_Deep.md). Lâu đài [Hornburg](Hornburg.md) đã được xây dựng trên đỉnh Hornrock, và từ đó [Bức tường sâu](../D/Deeping_Wall.md) chạy ngang qua miệng vực sâu đến bức tường phía nam.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

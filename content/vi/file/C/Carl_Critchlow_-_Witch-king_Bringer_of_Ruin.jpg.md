@@ -32,7 +32,7 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Carl Critchlow - Witch-king Bringer of Ruin.jpg</span></th>
 <td class="description">
 <blockquote class="tg-quote noexcerpt">
-<p>I was flattered to be offered such an iconic image. As well as the film version I’m also very familiar with the way the character (and the following scene with Eowyn) has been depicted by some of my favourite artists such as Frazetta, Michael Kaluta, the Brothers Hildebrandt and Angus McBride, so I went back to the original text to try and ensure I had my own version.
+<p>I was flattered to be offered such an iconic image.  As well as the film version I’m also very familiar with the way the character (and the following scene with Eowyn) has been depicted by some of my favourite artists such as Frazetta, Michael Kaluta, the Brothers Hildebrandt and Angus McBride, so I went back to the original text to try and ensure I had my own version.
 </p>
 </blockquote>
 </td>

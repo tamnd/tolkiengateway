@@ -42,16 +42,16 @@ infobox:
     value: "Adar"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
-<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
+<p>We have a long way to go, and there is time ahead for thought.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adrift.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adrift.jpg/320px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Adrift.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adrift.jpg/480px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Adrift.jpg 1.5x, https://tolkiengateway.net/w/images/f/f2/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adrift.jpg 2x" data-file-width="500" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Tập phim</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Adrift</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a href="../J/J._A._Bayona.md" title="J. A. Bayona">J. A. Bayona</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Gennifer_Hutchison&amp;action=edit&amp;redlink=1" title="Gennifer Hutchison (page does not exist)">Gennifer Hutchison</a></td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a><br/>Main Title by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data"><a class="mw-redirect" href="Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/1_September.md" title="1 September">1 September</a> <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">67 phút</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt10582302" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Điều hướng</span></th></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><i><a href="A_Shadow_of_the_Past.md" title="A Shadow of the Past">A Shadow of the Past</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><i><a href="Adar_(episode).md" title="Adar (episode)">Adar</a></i></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adrift.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adrift.jpg/320px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Adrift.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adrift.jpg/480px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Adrift.jpg 1.5x, https://tolkiengateway.net/w/images/f/f2/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adrift.jpg 2x" data-file-width="500" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Episode</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Adrift</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data"><a href="../J/J._A._Bayona.md" title="J. A. Bayona">J. A. Bayona</a></td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Gennifer_Hutchison&amp;action=edit&amp;redlink=1" title="Gennifer Hutchison (page does not exist)">Gennifer Hutchison</a></td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a><br/>Main Title by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Studio</th><td class="tg-infobox-data"><a class="mw-redirect" href="Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1_September.md" title="1 September">1 September</a> <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">67 minutes</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt10582302" rel="noreferrer noopener" target="_blank">Profile</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Navigation</span></th></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><i><a href="A_Shadow_of_the_Past.md" title="A Shadow of the Past">A Shadow of the Past</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><i><a href="Adar_(episode).md" title="Adar (episode)">Adar</a></i></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p><a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> tìm được <a href="../H/Halbrand.md" title="Halbrand">đồng minh</a> mới; <a href="../E/Elrond.md" title="Elrond">Elrond</a> phải đối mặt với sự tiếp đón lạnh lùng từ <a href="../D/Durin_IV.md" title="Durin IV">người bạn cũ</a>; <a href="../E/Elanor_Brandyfoot.md" title="Elanor Brandyfoot">Nori</a> nỗ lực giúp đỡ <a href="../T/The_Stranger.md" title="The Stranger">Người lạ</a>; <a href="Arondir.md" title="Arondir">Arondir</a> tìm kiếm câu trả lời trong khi <a href="../B/Bronwyn.md" title="Bronwyn">Bronwyn</a> cảnh báo <a href="../T/Tirharad.md" title="Tirharad">người</a> của bà về một <a href="../O/Orcs.md" title="Orcs">mối đe dọa</a>."
+<p><a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> finds a new <a href="../H/Halbrand.md" title="Halbrand">ally</a>; <a href="../E/Elrond.md" title="Elrond">Elrond</a> faces a cold reception from an old <a href="../D/Durin_IV.md" title="Durin IV">friend</a>; <a href="../E/Elanor_Brandyfoot.md" title="Elanor Brandyfoot">Nori</a> endeavors to help a <a href="../T/The_Stranger.md" title="The Stranger">Stranger</a>; <a href="Arondir.md" title="Arondir">Arondir</a> searches for answers while <a href="../B/Bronwyn.md" title="Bronwyn">Bronwyn</a> warns her <a href="../T/Tirharad.md" title="Tirharad">people</a> of a <a href="../O/Orcs.md" title="Orcs">threat</a>.&#34;
 </p>
 <p class="tg-quote-footer"><cite>Official Synopsis, <a class="mw-redirect" href="Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -62,21 +62,21 @@ infobox:
 
 ### Cái Harfoots {#The_Harfoots}
 
-[Poppy](../P/Poppy_Proudfellow.md) tìm thấy [Elanor Brandyfoot](../E/Elanor_Brandyfoot.md) tại miệng núi lửa và họ vất vả di dời [Người lạ](../T/The_Stranger.md) đang ngủ bằng một chiếc xe đẩy. Khi tỉnh dậy, Elanor gặp khó khăn trong việc giao tiếp với anh. Không yên tâm, ông đột nhiên gây ra những cơn gió lớn bằng giọng nói của mình và thốt ra những từ kỳ lạ mà Elanor không thể giải thích được. Trở về nhà, [Largo](../L/Largo_Brandyfoot.md) bị thương ở mắt cá chân khi dựng mái che.
+[Poppy](../P/Poppy_Proudfellow.md) tìm thấy [Elanor Brandyfoot](../E/Elanor_Brandyfoot.md) tại miệng núi lửa và họ vất vả di dời [Người lạ](../T/The_Stranger.md) đang ngủ bằng một chiếc xe đẩy. Khi tỉnh dậy, Elanor gặp khó khăn trong việc giao tiếp với anh. Không yên tâm, ông ta đột nhiên gây ra những cơn gió lớn bằng giọng nói của mình và thốt ra những từ kỳ lạ mà Elanor không thể giải thích được. Trở về nhà, [Largo](../L/Largo_Brandyfoot.md) bị thương ở mắt cá chân khi dựng mái che.
 
-Ở phần sau của tập phim, vào buổi tối, Poppy và Elanor gặp lại Người lạ. Họ đề nghị giúp đỡ, không chắc liệu ông có hiểu họ hay không. Với sức mạnh thần giao cách cảm, ông phá vỡ chiếc đèn lồng đom đóm của Poppy, và khi những con đom đóm phân tán, ông nói chuyện với chúng, say mê khi bay xung quanh. Sau đó, anh sắp xếp chúng thành một chòm sao nhất định trên bầu trời đêm, mà Elanor tin rằng đó là manh mối để tìm ra nhà của The Stranger. Những con đom đóm chết sau đó.
+Ở phần sau của tập phim, vào buổi tối, Poppy và Elanor gặp lại Người lạ. Họ đề nghị giúp đỡ, không chắc liệu ông có hiểu họ hay không. Với sức mạnh thần giao cách cảm, ông ta phá vỡ chiếc đèn lồng đom đóm của Poppy, và khi những con đom đóm phân tán, ông ta nói chuyện với chúng, say mê khi bay xung quanh. Sau đó, anh sắp xếp chúng thành một chòm sao nhất định trên bầu trời đêm, mà Elanor tin rằng đó là manh mối để tìm ra nhà của The Stranger. Những con đom đóm chết sau đó.
 
 ### Miền Nam {#The_Southlands}
 
 Trong đống đổ nát mới của Hordern, nơi không còn người sống sót, [Arondir](Arondir.md) và [Bronwyn](../B/Bronwyn.md) tìm và bước vào ngôi nhà bị cháy của những người bạn [Ciaran](../C/Ciaran.md) và [Hana](../H/Hana.md). Arondir đi một mình vào một đường hầm dưới lòng đất, dẫn từ ngôi nhà. Bên cạnh một hồ bơi ngầm, trong vòng một giờ, anh bất ngờ bị một kẻ thù vô danh bắt giữ trong bóng tối.
 
-Trở lại quán rượu của Waldreg ở [Tirharad](../T/Tirharad.md), Bronwyn cố gắng thuyết phục người dân truyền bá tin tức về Hordern, nhưng không gặp may. Tại nhà Bronwyn, Theo phát hiện ra bên dưới tấm ván sàn của họ một [Digger Orc](../O/Orcs.md) đã được giấu kín từ lâu (tiếng ồn mà Theo tin rằng là do chuột gây ra) ngay khi Bronwyn trở về nhà. Khi Digger Orc xuất hiện, họ trốn tránh ông và sau đó cố gắng giết ông một cách tuyệt vọng. Bà đã chặt đầu Digger Orc. Với cái đầu của mình, Bronwyn đi thuyết phục người dân thị trấn tìm kiếm sự an toàn và chuyển đến [Tháp canh Ostirith](../W/Watchtower_of_Ostirith.md), tiền đồn của địa phương.
+Trở lại quán rượu của Waldreg ở [Tirharad](../T/Tirharad.md), Bronwyn cố gắng thuyết phục người dân truyền bá tin tức về Hordern, nhưng không gặp may. Tại nhà Bronwyn, Theo phát hiện ra bên dưới tấm ván sàn của họ một [Digger Orc](../O/Orcs.md) đã được giấu kín từ lâu (tiếng ồn mà Theo tin rằng là do chuột gây ra) ngay khi Bronwyn trở về nhà. Khi Digger Orc xuất hiện, họ trốn tránh ông ta và sau đó cố gắng giết ông ta một cách tuyệt vọng. Bà đã chặt đầu Digger Orc. Với cái đầu của mình, Bronwyn đi thuyết phục người dân thị trấn tìm kiếm sự an toàn và chuyển đến [Tháp canh Ostirith](../W/Watchtower_of_Ostirith.md), tiền đồn của địa phương.
 
 Theo kiểm tra riêng vũ khí kỳ lạ mà anh đã tìm thấy cùng với Rowan trong tập trước, sau đó lên đường cùng mẹ anh, khi tất cả công dân của Tirharad rời khỏi thị trấn cùng đồ đạc của họ để đến Ostirith.
 
 ### Eregion và Khazad-dûm {#Eregion_and_Khazad-dûm}
 
-[Elrond](../E/Elrond.md) đến gặp [Celebrimbor](../C/Celebrimbor.md) tại [Ost-in-Edhil](../O/Ost-in-Edhil.md), thủ đô của [Eregion](../E/Eregion.md) và ngạc nhiên trước chiếc búa của [Fëanor](../F/Fëanor.md), được sử dụng để chế tạo [Silmaril](../S/Silmarils.md). Celebrimbor kể về tham vọng mới của chính mình, yêu cầu Elrond hỗ trợ ông có được phương tiện để xây dựng một tháp rèn chuyên dụng, cần thiết để chế tạo những thứ có sức mạnh thực sự. Để làm được điều này, họ đến [Khazad-dûm](../K/Khazad-dûm.md) để tranh thủ sự trợ giúp của [Người Lùn](../D/Dwarves.md). Trong Khazad-dûm, Elrond thực hiện [Nghi thức Sigin-tarâg](../R/Rite_of_Sigin-tarâg.md) để nhận được sự ưu ái của [Thân vương Durin](../D/Durin_IV.md) trong bài kiểm tra độ bền Người Lùn. Ông thua bài kiểm tra, nhưng thuyết phục ông nghe lời đề nghị của mình. Ông cùng Durin và vợ, [Disa](../D/Disa.md) đi ăn tối và kể về lời cầu hôn của mình ngoài màn hình.
+[Elrond](../E/Elrond.md) đến gặp [Celebrimbor](../C/Celebrimbor.md) tại [Ost-in-Edhil](../O/Ost-in-Edhil.md), thủ đô của [Eregion](../E/Eregion.md) và ngạc nhiên trước chiếc búa của [Fëanor](../F/Fëanor.md), được sử dụng để chế tạo [Silmaril](../S/Silmarils.md). Celebrimbor kể về tham vọng mới của chính mình, yêu cầu Elrond hỗ trợ ông ta có được phương tiện để xây dựng một tháp rèn chuyên dụng, cần thiết để chế tạo những thứ có sức mạnh thực sự. Để làm được điều này, họ đến [Khazad-dûm](../K/Khazad-dûm.md) để tranh thủ sự trợ giúp của [Người Lùn](../D/Dwarves.md). Trong Khazad-dûm, Elrond thực hiện [Nghi thức Sigin-tarâg](../R/Rite_of_Sigin-tarâg.md) để nhận được sự ưu ái của [Thân vương Durin](../D/Durin_IV.md) trong bài kiểm tra độ bền Người Lùn. Ông ta thua bài kiểm tra, nhưng thuyết phục ông ta nghe lời đề nghị của mình. Ông cùng Durin và vợ, [Disa](../D/Disa.md) đi ăn tối và kể về lời cầu hôn của mình ngoài màn hình.
 
 Durin sau đó chuyển lời đề nghị này tới Vua [Durin III](../D/Durin_III.md), cha anh, người không tin tưởng và thận trọng với quan điểm hợp tác giữa Người Lùn và Tiên tộc. Trong cùng một căn phòng, Durin III mở một chiếc rương và cả hai quan sát thấy một vật thể sáng bóng quý giá bên trong, bị che khuất khỏi tầm nhìn.
 
@@ -88,12 +88,12 @@ Trong khoảnh khắc cuối cùng của tập phim, một con tàu vô danh và
 
 ## Truyền {#Cast}
 
-<dl><dd><i>In order of appearance</i> (trong phần ghi công của tập)</dd></dl>
+<dl><dd><i>In order of appearance</i> (in episode credits)</dd></dl>
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Diễn viên</th>
-<th>Vai trò
+<th>Actor</th>
+<th>Role
 </th></tr>
 <tr>
 <td><a href="../M/Morfydd_Clark.md" title="Morfydd Clark">Morfydd Clark</a></td>
@@ -105,7 +105,7 @@ Trong khoảnh khắc cuối cùng của tập phim, một con tàu vô danh và
 </td></tr>
 <tr>
 <td><a href="../D/Daniel_Weyman.md" title="Daniel Weyman">Daniel Weyman</a></td>
-<td><a href="../T/The_Stranger.md" title="The Stranger">Kẻ lạ mặt</a>
+<td><a href="../T/The_Stranger.md" title="The Stranger">The Stranger</a>
 </td></tr>
 <tr>
 <td><a href="../M/Megan_Richards.md" title="Megan Richards">Megan Richards</a></td>
@@ -137,11 +137,11 @@ Trong khoảnh khắc cuối cùng của tập phim, một con tàu vô danh và
 </td></tr>
 <tr>
 <td><a href="../C/Charles_Edwards.md" title="Charles Edwards">Charles Edwards</a></td>
-<td><a href="../C/Celebrimbor.md" title="Celebrimbor">Lãnh chúa Celebrimbor</a>
+<td><a href="../C/Celebrimbor.md" title="Celebrimbor">Lord Celebrimbor</a>
 </td></tr>
 <tr>
 <td><a href="../O/Owain_Arthur.md" title="Owain Arthur">Owain Arthur</a></td>
-<td><a href="../D/Durin_IV.md" title="Durin IV">Thân vương Durin IV</a>
+<td><a href="../D/Durin_IV.md" title="Durin IV">Prince Durin IV</a>
 </td></tr>
 <tr>
 <td><a href="../D/Dylan_Smith.md" title="Dylan Smith">Dylan Smith</a></td>
@@ -169,7 +169,7 @@ Trong khoảnh khắc cuối cùng của tập phim, một con tàu vô danh và
 </td></tr>
 <tr>
 <td><a href="../S/Sophia_Nomvete.md" title="Sophia Nomvete">Sophia Nomvete</a></td>
-<td><a href="../D/Disa.md" title="Disa">Công chúa Disa</a>
+<td><a href="../D/Disa.md" title="Disa">Princess Disa</a>
 </td></tr>
 <tr>
 <td><a href="../G/Geoff_Morrell.md" title="Geoff Morrell">Geoff Morrell</a></td>
@@ -185,7 +185,7 @@ Trong khoảnh khắc cuối cùng của tập phim, một con tàu vô danh và
 </td></tr>
 <tr>
 <td><a href="../P/Peter_Mullan.md" title="Peter Mullan">Peter Mullan</a></td>
-<td><a href="../D/Durin_III.md" title="Durin III">Vua Durin III</a>
+<td><a href="../D/Durin_III.md" title="Durin III">King Durin III</a>
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Megan_Lilly_Wilding&amp;action=edit&amp;redlink=1" title="Megan Lilly Wilding (page does not exist)">Megan Lilly Wilding</a></td>
@@ -224,15 +224,15 @@ Trong khoảnh khắc cuối cùng của tập phim, một con tàu vô danh và
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Diễn viên</th>
-<th>Vai trò
+<th>Actor</th>
+<th>Role
 </th></tr>
 <tr>
-<td>Diễn viên vô danh</td>
+<td>Unknown actor</td>
 <td><a href="../G/Gamli.md" title="Gamli">Gamli</a>
 </td></tr>
 <tr>
-<td>Diễn viên vô danh</td>
+<td>Unknown actor</td>
 <td><a href="../G/Gerda.md" title="Gerda">Gerda</a>
 </td></tr></tbody></table>
 
@@ -248,11 +248,11 @@ Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amaz
 - **Cảnh 15** - "Người Lùn thấp hơn Tiên tộc và đàn ông, nhưng họ cứng rắn, lực lưỡng, chăm chỉ và nổi tiếng là yêu thích đá, đá quý và mọi thứ được tạo ra bằng thủ công. (Phụ lục F)"
 - **Cảnh 17** - "Bất chấp (hoặc có lẽ vì) những khó khăn của cuộc sống lưu động và những thách thức trong việc tìm kiếm bữa ăn tiếp theo, những con lai có một tình yêu sâu sắc với đồ ăn và chắc chắn là có sở thích phiêu lưu mạo hiểm. Họ sẽ ăn sáu bữa một ngày nếu có thể. (Liên quan đến Hobbit)"
 - **Cảnh 22** - " [Đại Hải](../G/Great_Sea.md), hay [Biển phân chia](../S/Sundering_Seas.md), chia cắt [Vùng Đất Bất Tử](../U/Undying_Lands.md) khỏi Trung Địa - nơi vẫn còn [những thứ không tên](../N/Nameless_things.md) ở những nơi sâu nhất trên thế giới. (Quyển III, Chương 5)"
-- **Cảnh 25** - "Tiên tộc và Người Lùn có truyền thống bất bình với nhau; mối hận thù của người lùn đối với Tiên tộc vẫn còn đọng lại ngay cả từ [Thời Cổ xưa](../E/Elder_Days.md). (Phụ lục F)"
+- **Cảnh 25** - "Tiên tộc và Người Lùn có truyền thống bất bình với nhau; mối hận thù của người lùn đối với Tiên tộc vẫn còn đọng lại ngay cả từ [Ngày của Người cao tuổi](../E/Elder_Days.md). (Phụ lục F)"
 - **Cảnh 28** - "Giống như tất cả [Khazad-dum](../K/Khazad-dum.md), <a class="mw-redirect mw-disambig" href="../D/Durin.md" title="Durin">ngôi nhà của Durin</a>được tạc thẳng từ đá núi, được chôn sâu bên trong, được nâng đỡ bởi những cột đá. Vàng và đá quý được sử dụng một cách hào phóng, vì ở đây không thiếu của cải, và những chiếc đèn lồng lộng lẫy xua tan bóng tối. (Quyển II, Chương 4)"
 - **Cảnh 29** - "Các Người Trung Địa có thể biết sợ hãi và nghi ngờ Tiên tộc, nhưng họ thường biết rất ít về chúng. (Quyển IV, Chương 5)"
-- **Cảnh 32** - "[Bộ giáp của Arondir](Arondir.md) là điển hình cho lực lượng đồn trú [Tiên tộc Silvan](../S/Silvan_elves~11061.md) của ông, chứa đầy ảnh hưởng tự nhiên từ nhiều tình yêu của họ. Chiếc nhẫn trên ngón tay cái của ông có dòng chữ: "May Your Arrows Sing" trong [Sindarin](../S/Sindarin.md)."
-- **Cảnh 34** - "Có nhiều loại Orc với kích cỡ khác nhau, phù hợp nhất cho các mục đích cụ thể. Chúng được lai tạo lần đầu bởi [Quyền lực bóng tối phương Bắc](../D/Dark_Power_of_the_North.md) vào [Thời Cổ xưa](../E/Elder_Days.md). (Phụ lục F)"
+- **Cảnh 32** - "[Bộ giáp của Arondir](Arondir.md) là điển hình cho lực lượng đồn trú [Silvan Tiên tộc](../S/Silvan_elves~11061.md) của ông, chứa đầy ảnh hưởng tự nhiên từ nhiều tình yêu của họ. Chiếc nhẫn trên ngón tay cái của ông có dòng chữ: "May Your Arrows Sing" trong [Sindarin](../S/Sindarin.md)."
+- **Cảnh 34** - "Có nhiều loại Orc với kích cỡ khác nhau, phù hợp nhất cho các mục đích cụ thể. Chúng được lai tạo lần đầu bởi [Quyền lực bóng tối phương Bắc](../D/Dark_Power_of_the_North.md) vào [Ngày của Người cao tuổi](../E/Elder_Days.md). (Phụ lục F)"
 - **Cảnh 36** - "Mặc dù cơ thể bất tử và khỏe mạnh, Tiên tộc vẫn có thể chết do chấn thương và các nguyên nhân bất thường - bao gồm cả đuối nước."
 - **Cảnh 38** - "Các ngôi sao được Tiên tộc đặc biệt yêu quý, những người tôn kính [Vala](../V/Vala.md) <a class="mw-redirect mw-disambig" href="../E/Elbereth.md" title="Elbereth">Elbereth</a> (còn được gọi là [Varda](../V/Varda.md)), nhưng tất cả các nền văn hóa của Trung Địa đều gán các chòm sao cho bầu trời phía trên. (Quyển II, Chương 8)"
 
@@ -260,9 +260,9 @@ Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amaz
 
 ## Những sai lệch so với Tài liệu Nguồn {#Deviations_from_the_Source_Material}
 
-Galadriel gặp một chiếc bè có người ở gần khu vực cô nhảy khỏi tàu. Họ nói rằng họ là những người sống sót sau một vụ đắm tàu ​​và có lẽ đang cố gắng đi tới Valinor. Con người bị Valar cấm đi thuyền đến Valinor và thường biến mất hoặc bị xử tử nếu họ cố gắng đến đó. Tuy nhiên, Galadriel dường như không biết về điều này và chỉ nghĩ rằng việc gặp phải con người ở Biển Phân Chia là điều bình thường.
+Galadriel gặp một chiếc bè có người ở gần khu vực cô nhảy khỏi tàu. Họ nói rằng họ là những người sống sót sau một vụ đắm tàu ​​và có lẽ đang cố gắng đi tới Valinor. Con người bị Valar cấm đi thuyền đến Valinor và thường biến mất hoặc bị xử tử nếu họ cố gắng đến đó. Tuy nhiên, Galadriel dường như không biết về điều này và chỉ nghĩ rằng việc gặp phải con người ở Biển Sundering là điều bình thường.
 
-Cô gặp một người lạ tên Halbrand, người này nói rằng ông là người cai trị một khu vực được gọi là "The Southlands". Vùng này trong chuỗi nằm trong cùng khu vực với vùng sẽ được gọi là [Mordor](../M/Mordor.md). Tuy nhiên, trong tài liệu nguồn, các bài viết sau này của Tolkien có nêu rằng Mordor đã là một vùng đất hoang hoang vắng được ghi nhận là nơi có hoạt động núi lửa trước Kỷ Đệ Nhị và có thể đã được gọi là Mordor có nghĩa là "vùng đất đen" vì lý do đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Cô gặp một người lạ tên Halbrand, người này nói rằng ông ta là người cai trị một khu vực được gọi là "The Southlands". Vùng này trong chuỗi nằm trong cùng khu vực với vùng sẽ được gọi là [Mordor](../M/Mordor.md). Tuy nhiên, trong tài liệu nguồn, các bài viết sau này của Tolkien có nêu rằng Mordor đã là một vùng đất hoang hoang vắng được ghi nhận là nơi có hoạt động núi lửa trước Kỷ Đệ Nhị và có thể đã được gọi là Mordor có nghĩa là "vùng đất đen" vì lý do đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Southlands không bao giờ được đề cập trong tài liệu nguồn và dường như được phát minh ra cho bộ truyện cũng như tất cả các nhân vật sống ở đó. Sẽ thật vô nghĩa khi Sauron, người ẩn náu trong phần lớn Kỷ Đệ Nhị, chọn một khu vực đông dân cư như Southlands làm căn cứ của mình: đặc biệt là khi Tiên tộc đã tuần tra khu vực đó. Ông chọn Mordor vì nơi đây vốn đã là một vùng đất hoang có núi lửa hoang tàn.
 
@@ -291,20 +291,20 @@ Tên của nhân vật chính. "Nori" là dạng rút gọn của "Elinor". Elin
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i> tập
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i> episodes
 </th></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ nhất
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season One
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="A_Shadow_of_the_Past.md" title="A Shadow of the Past">1. A Shadow of the Past</a> <b>·</b> <a class="mw-selflink selflink">2. Adrift</a> <b>·</b> <a href="Adar_(episode).md" title="Adar (episode)">3. Adar</a> <b>·</b> <a href="../T/The_Great_Wave.md" title="The Great Wave">4. The Great Wave</a> <b>·</b> <a href="../P/Partings.md" title="Partings">5. Partings</a> <b>·</b> <a href="../U/Udûn_(episode).md" title="Udûn (episode)">6. Udûn</a> <b>·</b> <a href="../T/The_Eye.md" title="The Eye">7. The Eye</a> <b>·</b> <a href="Alloyed.md" title="Alloyed">8. Alloyed</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ hai
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season Two
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../E/Elven_Kings_Under_the_Sky.md" title="Elven Kings Under the Sky">9. Tiên Những vị vua dưới bầu trời</a> <b>·</b> <a href="../W/Where_the_Stars_are_Strange.md" title="Where the Stars are Strange">10. Nơi những vì sao kỳ lạ</a> <b>·</b> <a href="../T/The_Eagle_and_the_Sceptre.md" title="The Eagle and the Sceptre">11. Đại bàng và vương trượng</a> <b>·</b> <a href="../E/Eldest_(episode).md" title="Eldest (episode)">12. Anh cả</a> <b>·</b> <a href="../H/Halls_of_Stone.md" title="Halls of Stone">13. Sảnh Đá</a> <b>·</b> <a href="../W/Where_Is_He%253F.md" title="Where Is He?">14. Ông ở đâu?</a> <b>·</b> <a href="../D/Doomed_to_Die.md" title="Doomed to Die">15. Định mệnh phải chết</a> <b>·</b> <a href="../S/Shadow_and_Flame_(episode).md" title="Shadow and Flame (episode)">16. Bóng Tối và Ngọn lửa</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../E/Elven_Kings_Under_the_Sky.md" title="Elven Kings Under the Sky">9. Elven Kings Under the Sky</a> <b>·</b> <a href="../W/Where_the_Stars_are_Strange.md" title="Where the Stars are Strange">10. Where the Stars are Strange</a> <b>·</b> <a href="../T/The_Eagle_and_the_Sceptre.md" title="The Eagle and the Sceptre">11. The Eagle and the Sceptre</a> <b>·</b> <a href="../E/Eldest_(episode).md" title="Eldest (episode)">12. Eldest</a> <b>·</b> <a href="../H/Halls_of_Stone.md" title="Halls of Stone">13. Halls of Stone</a> <b>·</b> <a href="../W/Where_Is_He%253F.md" title="Where Is He?">14. Where Is He?</a> <b>·</b> <a href="../D/Doomed_to_Die.md" title="Doomed to Die">15. Doomed to Die</a> <b>·</b> <a href="../S/Shadow_and_Flame_(episode).md" title="Shadow and Flame (episode)">16. Shadow and Flame</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ ba
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season Three
 </th>
 <td style="font-size: 90%; padding-left: 4px;">TBD <b>·</b>
 </td></tr></tbody></table>

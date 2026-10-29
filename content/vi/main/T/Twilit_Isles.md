@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Twilit_Isles"
 content_sha256: 91b2e28c5d38050b3ce390a02dfa465a286b4a7b7e6a2d67531edde6b554d47f
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Quần đảo phía tây Tol Eressëa"
+short_description: "Islands west of Tol Eressëa"
 categories:
   - "Aman"
   - "Islands"
@@ -17,11 +17,11 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**Quần đảo Chạng vạng** nằm ở phía tây [Tol Eressëa](Tol_Eressëa.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*.
+**Quần đảo Twilit** nằm ở phía tây [Tol Eressëa](Tol_Eressëa.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*.
 
 ## Lịch sử {#History}
 
-Những hòn đảo này đã "nổi" trong Phương Tây trước khi [Hai Ngọn Đèn](Two_Lamps.md) sụp đổ, và nằm trong [Shadowy Seas](../S/Shadowy_Seas.md), sau này được coi là hòn đảo đầu tiên trong số [Các Vùng đất Ngoài](../A/Aman.md) (vùng đất của [Valar](../V/Valar.md)) khi đi về phía tây.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Chúng cũng là nơi đầu tiên có [ánh sáng](../L/Light.md) mờ nhạt của [Silpion](../S/Silpion.md) có thể được nhìn thấy từ xa.<sup id="cite_ref-Coming_2-0" class="reference"><a href="#cite_note-Coming-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:125</sup> Khi [Tol Eressëa](Tol_Eressëa.md) được thành lập, Quần đảo Chạng vạng rất mờ trong Phương Tây, trong khi [Quần đảo ma thuật](../M/Magic_Isles.md) ở phía đông của nó.<sup id="cite_ref-Coming_2-1" class="reference"><a href="#cite_note-Coming-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:121</sup> Sau đó, một số loài chim từ vườn của [Yavanna](../Y/Yavanna.md) đã đến biển và [Ossë](../O/Ossë.md) chỉ cho chúng nơi cư trú ở những nơi này. Isles.<sup id="cite_ref-Coming_2-2" class="reference"><a href="#cite_note-Coming-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:123</sup> Trong những ngày sau đó, [Tháp Ngọc](Tower_of_Pearl.md) được xây dựng trên hòn đảo xa nhất phía tây của quần đảo.<sup id="cite_ref-Coming_2-3" class="reference"><a href="#cite_note-Coming-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:125</sup>
+Những hòn đảo này đã "nổi" trong Phương Tây trước khi [Hai Ngọn Đèn](Two_Lamps.md) sụp đổ, và nằm trong [Shadowy Seas](../S/Shadowy_Seas.md), sau này được coi là hòn đảo đầu tiên trong số [Vùng đất bên ngoài](../A/Aman.md) (vùng đất của [Valar](../V/Valar.md)) khi đi về phía tây.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Chúng cũng là nơi đầu tiên có [ánh sáng](../L/Light.md) mờ nhạt của [Silpion](../S/Silpion.md) có thể được nhìn thấy từ xa.<sup id="cite_ref-Coming_2-0" class="reference"><a href="#cite_note-Coming-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:125</sup> Khi [Tol Eressëa](Tol_Eressëa.md) được thành lập, Quần đảo Twilit rất mờ trong Phương Tây, trong khi [Quần đảo ma thuật](../M/Magic_Isles.md) ở phía đông của nó.<sup id="cite_ref-Coming_2-1" class="reference"><a href="#cite_note-Coming-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:121</sup> Sau đó, một số loài chim từ vườn của [Yavanna](../Y/Yavanna.md) đã đến biển và [Ossë](../O/Ossë.md) chỉ cho chúng nơi cư trú ở những nơi này. Isles.<sup id="cite_ref-Coming_2-2" class="reference"><a href="#cite_note-Coming-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:123</sup> Trong những ngày sau đó, [Tháp Ngọc](Tower_of_Pearl.md) được xây dựng trên hòn đảo xa nhất phía tây của quần đảo.<sup id="cite_ref-Coming_2-3" class="reference"><a href="#cite_note-Coming-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:125</sup>
 
 ## Tên khác {#Other_names}
 
@@ -29,7 +29,7 @@ Trong [Qenya](../Q/Qenya.md), họ được biết đến với cái tên <i><b>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) nhận xét về khả năng [Quần đảo Phù phép](../E/Enchanted_Isles.md) được đề cập trong *[The Silmarillion](The_Silmarillion.md)* cũng được lấy cảm hứng từ Quần đảo Chạng vạng, cũng như Quần đảo Phép thuật.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+[Christopher Tolkien](../C/Christopher_Tolkien.md) nhận xét về khả năng [Quần đảo Phù phép](../E/Enchanted_Isles.md) được đề cập trong *[The Silmarillion](The_Silmarillion.md)* cũng được lấy cảm hứng từ Quần đảo Twilit, cũng như Quần đảo Phép thuật.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

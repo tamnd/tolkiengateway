@@ -36,9 +36,9 @@ Cầu thang quanh co không đi sâu vào vùng núi [Ephel Dúath](../E/Ephel_D
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Cầu thang quanh co giúp bạn có cái nhìn rõ hơn về Thành phố Chết bên dưới và dẫn thẳng vào <a href="../S/Shelob&#39;s_Lair.md" title="Shelob&#39;s Lair">Hang ổ của Shelob</a> - "Torech Ungol".</dd></dl>
+<dl><dd>The Winding Stair provides a good look at the Dead City below and leads directly into <a href="../S/Shelob&#39;s_Lair.md" title="Shelob&#39;s Lair">Shelob&#39;s Lair</a> - &#34;Torech Ungol&#34;.</dd></dl>
 
 <span></span>
 

@@ -31,9 +31,9 @@ langlinks:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Năm con sông là Gilrain, Serni, Sirith, Celos và <a href="../E/Erui.md" title="Erui">Erui</a>. Mỗi con sông đều là lãnh địa của River-Maiden, một trong Năm chị em của Lebennin. Vào thời <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>, Năm chị em được hầu hết <a href="../M/Men.md" title="Men">Con Người</a> của Lebennin coi là huyền thoại, mặc dù truyền thống để lại những giỏ hoa làm lễ vật cho dòng sông vẫn còn.</dd></dl>
+<dl><dd>The Five Rivers were the Gilrain, the Serni, the Sirith, the Celos, and the <a href="../E/Erui.md" title="Erui">Erui</a>. Each of the rivers was the domain of a River-Maiden, one of the Five Sisters of Lebennin. By the time of the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>, the Five Sisters were considered a myth by most of the <a href="../M/Men.md" title="Men">Men</a> of Lebennin, though it remained traditional to leave baskets of flowers as offerings to the rivers.</dd></dl>
 
 <span></span>
 

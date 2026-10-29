@@ -29,7 +29,7 @@ images:
 <figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Tuor_at_Vinyamar_(swan).jpg.md"><img src="https://tolkiengateway.net/w/images/7/70/Ted_Nasmith_-_Tuor_at_Vinyamar_%28swan%29.jpg" decoding="async" loading="lazy" width="224" height="176" class="mw-file-element" data-file-width="224" data-file-height="176"/></a><figcaption>Excerpt from <i><a href="../../file/T/Ted_Nasmith_-_Tuor_at_Vinyamar.jpg.md" title="File:Ted Nasmith - Tuor at Vinyamar.jpg">Tuor and Vinyamar</a></i> by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>...điều đáng tự hào nhất trong số các loài chim này là thiên nga.
+<p>...the proudest of all these birds were the swans.
 </p>
 <p class="tg-quote-footer"><cite><i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, &#34;<a href="../T/The_Coming_of_the_Elves_and_the_Making_of_Kôr.md" title="The Coming of the Elves and the Making of Kôr">The Coming of the Elves and the Making of Kôr</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -42,7 +42,7 @@ images:
 
 Thiên nga là một loài chim quan trọng trong các câu chuyện về [Ngày Người Cao Tuổi](../E/Elder_Days.md). [Maia](../M/Maiar.md) [Ossë](../O/Ossë.md) đã gửi "*many strong-winged swans*" để kéo các tàu của [Teleri](../T/Teleri.md) vượt qua [Belegaer](../B/Belegaer.md) đến [Aman](../A/Aman.md) mà không cần sự trợ giúp của gió. Do đó, Teleri (những người sau này được gọi bằng biệt danh là *Swanherds*)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> đặc biệt tôn kính thiên nga và đặt tên cho thành phố của họ là [Alqualondë](../A/Alqualondë.md) (Swanhaven) và đóng [những con tàu có hình dạng thiên nga](Swan-ships.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Chủ nhân [Ulmo](../U/Ulmo.md) của Ossë, [Vala](../V/Vala.md), đã gửi bảy con thiên nga lớn để dẫn đường [Tuor](../T/Tuor.md) đến [Vinyamar](../V/Vinyamar.md), nơi ông tìm thấy một chiếc khiên có "biểu tượng đôi cánh thiên nga trắng". Tuor đã yêu thích những con chim này vì chúng được nuôi dưỡng tại [Mithrim](../M/Mithrim.md), nơi dường như có rất nhiều thiên nga (và cha nuôi của Tuor, [Annael](../A/Annael.md) và [người của ông](../E/Elves_of_Mithrim.md), đã lấy con thiên nga làm biểu tượng). Khởi hành từ Vinyamar, bảy con thiên nga của Ulmo tiến đến Tuor và đưa cho anh mỗi chiếc một chiếc lông vũ, Tuor đặt trên đỉnh mũ của anh.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Chủ nhân [Ulmo](../U/Ulmo.md) của Ossë, [Vala](../V/Vala.md), đã gửi bảy con thiên nga lớn để dẫn đường [Tuor](../T/Tuor.md) đến [Vinyamar](../V/Vinyamar.md), nơi ông ta tìm thấy một chiếc khiên có "biểu tượng đôi cánh thiên nga trắng". Tuor đã yêu thích những con chim này vì chúng được nuôi dưỡng tại [Mithrim](../M/Mithrim.md), nơi dường như có rất nhiều thiên nga (và cha nuôi của Tuor, [Annael](../A/Annael.md) và [người của ông](../E/Elves_of_Mithrim.md), đã lấy con thiên nga làm biểu tượng). Khởi hành từ Vinyamar, bảy con thiên nga của Ulmo tiến đến Tuor và đưa cho anh mỗi chiếc một chiếc lông vũ, Tuor đặt trên đỉnh mũ của anh.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 Teleri không đơn độc trong việc sử dụng hình thiên nga trong đóng tàu: mũi tàu [Eärendil](../E/Eärendil.md) của [Vingilótë](../V/Vingilótë.md) "*was fashioned like a swan*",<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> và Tiên tộc của [Lothlórien](../L/Lothlórien.md) đã tạo nên một [Tàu thiên nga](Swan-ships.md), được chế tạo tinh xảo đến mức giống như một con thiên nga khổng lồ thực sự.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
@@ -63,9 +63,9 @@ Một đoạn [câu chuyện còn dang dở](<../T/Tal-Elmar_(chapter).md>) đ�
 Trong phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), chúng tôi cung cấp thêm thông tin chi tiết về việc sử dụng thiên nga trong biểu tượng và chế tác:
 
 - Gợi nhớ đến Tiên [Tàu thiên nga](Swan-ships.md), [Aulë](../A/Aulë.md) dường như là người đầu tiên chế tạo "*những chiếc tàu lớn giống như thân của thiên nga*".<sup id="cite_ref-LT1_19-0" class="reference"><a href="#cite_note-LT1-19">[19]</a></sup>
-- Người ta cũng cho biết [Tuor](../T/Tuor.md) đã sử dụng một "*thuyền có mũi giống như cổ thiên nga*" trên [Hồ Mithrim](../L/Lake_Mithrim.md) và Ulmo dường như đã cử ba con thiên nga để dẫn ông ra khỏi Mithrim (gợi nhớ nhiều đến thiết bị sau này về "bảy con thiên nga"). Sau này, cánh của một con thiên nga trắng đã trở thành biểu tượng cho Tuor và công ty của ông ([House of the Wing](../H/House_of_the_Wing.md)) tại [Gondolin](../G/Gondolin.md).<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
+- Người ta cũng cho biết [Tuor](../T/Tuor.md) đã sử dụng một "*thuyền có mũi giống như cổ thiên nga*" trên [Hồ Mithrim](../L/Lake_Mithrim.md) và Ulmo dường như đã cử ba con thiên nga để dẫn ông ta ra khỏi Mithrim (gợi nhớ nhiều đến thiết bị sau này về "bảy con thiên nga"). Sau này, cánh của một con thiên nga trắng đã trở thành biểu tượng cho Tuor và công ty của ông ([House of the Wing](../H/House_of_the_Wing.md)) tại [Gondolin](../G/Gondolin.md).<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
 
-<dl><dd><i>Xem thêm <a href="../H/House_of_the_Swan.md" title="House of the Swan">Nhà thiên nga</a></i></dd></dl>
+<dl><dd><i>See also <a href="../H/House_of_the_Swan.md" title="House of the Swan">House of the Swan</a></i></dd></dl>
 
 ## Cảm hứng {#Inspiration}
 
@@ -74,7 +74,7 @@ Trong một bài thơ về [Tom Bombadil](../T/Tom_Bombadil.md), người ta k�
 Một thoáng trải nghiệm thời thơ ấu của Tolkien với thiên nga cũng đã được mô tả:
 
 <blockquote class="tg-quote noexcerpt">
-<p>...họ [Ronald và Hilary] sẽ chạy ra khỏi sân và chạy vòng đến một nơi phía sau nhà máy [tại <a class="mw-redirect" href="Sarehole.md" title="Sarehole">Sarehole</a>] nơi có một hồ bơi yên tĩnh với những con thiên nga đang bơi trên đó.
+<p>...they [Ronald and Hilary] would scamper away from the yard, and run round to a place behind the mill [at <a class="mw-redirect" href="Sarehole.md" title="Sarehole">Sarehole</a>] where there was a silent pool with swans swimming on it.
 </p>
 <p class="tg-quote-footer"><cite><a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <i><a href="../J/J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a></i></cite></p>
 </blockquote>
@@ -87,7 +87,7 @@ Một thoáng trải nghiệm thời thơ ấu của Tolkien với thiên nga c�
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Rings_of_Power_(TV_series)_-_Paper_Swan-ship.png.md" title="A paper Swan-ship in the first episode of The Lord of the Rings: The Rings of Power."><img alt="A paper Swan-ship in the first episode of The Lord of the Rings: The Rings of Power." src="https://tolkiengateway.net/w/images/thumb/8/8f/The_Rings_of_Power_%28TV_series%29_-_Paper_Swan-ship.png/200px-The_Rings_of_Power_%28TV_series%29_-_Paper_Swan-ship.png" decoding="async" loading="lazy" width="200" height="83" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8f/The_Rings_of_Power_%28TV_series%29_-_Paper_Swan-ship.png/300px-The_Rings_of_Power_%28TV_series%29_-_Paper_Swan-ship.png 1.5x, https://tolkiengateway.net/w/images/thumb/8/8f/The_Rings_of_Power_%28TV_series%29_-_Paper_Swan-ship.png/400px-The_Rings_of_Power_%28TV_series%29_-_Paper_Swan-ship.png 2x" data-file-width="1920" data-file-height="800"/></a></span></div>
 			<div class="gallerytext">
-<p>Con tàu thiên nga bằng giấy trong <a href="../A/A_Shadow_of_the_Past.md" title="A Shadow of the Past">tập đầu tiên</a> của <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>.
+<p>A paper Swan-ship in the <a href="../A/A_Shadow_of_the_Past.md" title="A Shadow of the Past">first episode</a> of <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>.
 </p>
 			</div>
 		</li>
@@ -95,12 +95,12 @@ Một thoáng trải nghiệm thời thơ ấu của Tolkien với thiên nga c�
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd><i>Black Swans</i> được coi là những sinh vật khá xấu xa "<i>known to mob and overturn boats</i>" và lớn hơn những con thiên nga bình thường. Một loại thiên nga khác, <i>Pied Swans</i> (có tên <i>Elph Tithen</i> trong Sindarin), được mô tả là "<i>màu trắng kem, lốm đốm và lốm đốm màu đen và xám</i>", đồng thời được cho là thông minh và thân thiện với du khách.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></dd></dl>
+<dl><dd><i>Black Swans</i> are conceived as quite ill-meaning creatures &#34;<i>known to mob and overturn boats</i>&#34;, and being larger than normal swans. Another type of swans, the <i>Pied Swans</i> (given the name <i>Elph Tithen</i> in Sindarin), are described as &#34;<i>creamy white in color, liberally splotched and speckled with black and grey</i>&#34;, and said to be intelligent and friendly to travellers.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></dd></dl>
 
 <b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
 
 <dl><dd><b>September 1: <i><a href="../A/A_Shadow_of_the_Past.md" title="A Shadow of the Past">A Shadow of the Past</a></i>:</b>
-<dl><dd>Một nhóm trẻ Tiên được nhìn thấy đang chơi đùa trước khi xem một cậu bé <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> đóng một con tàu giấy. Khi Galadriel thả con tàu trôi xuống sông, tờ giấy sẽ thay đổi hình dạng thành <a href="Swan-ships.md" title="Swan-ships">thiên nga</a>. Tuy nhiên, những đứa trẻ Tiên khiến nó chìm bằng cách ném đá vào nó, dẫn đến việc Galadriel định tấn công chúng nhưng bị ngăn cản bởi anh trai cô, <a href="../F/Finrod.md" title="Finrod">Finrod</a>, người đã dùng con dao găm của mình để kéo con tàu Thiên Nga ra khỏi sông.</dd></dl></dd></dl>
+<dl><dd>A group of Elf children are seen playing before watching a young <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> build a paper ship. When Galadriel sets the ship to float down a river, the paper changes its shape to that of a <a href="Swan-ships.md" title="Swan-ships">swan</a>. However, the Elf children cause it to sink by throwing stones at it, resulting in Galadriel attempting to attack them, only to be prevented by her older brother, <a href="../F/Finrod.md" title="Finrod">Finrod</a>, who pulls the Swan-ship from the river with his dagger.</dd></dl></dd></dl>
 
 ## Xem thêm {#See_also}
 

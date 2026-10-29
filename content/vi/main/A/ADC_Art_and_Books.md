@@ -36,34 +36,34 @@ Hơn nữa, ADC Art and Books đã tạo ra một khung cảnh vui nhộn về t
 
 <table class="TGtable" style="width:80%;text-align:center;margin-left:auto;margin-right:auto;">
 <tbody><tr>
-<th style="width:150px;">Hình ảnh
+<th style="width:150px;">Image
 </th>
-<th style="width:200px;">Tên
+<th style="width:200px;">Name
 </th>
 <th style="width:80px;">Artist(s)
 </th>
-<th style="width:80px;">Loại sản phẩm
+<th style="width:80px;">Product Type
 </th>
-<th style="width:150px;">Kích thước sản phẩm
+<th style="width:150px;">Product Size
 </th>
 <th style="width:150px;">Weight
 </th>
-<th style="width:100px;">Ghi chú
+<th style="width:100px;">Note(s)
 </th></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Éowyn_and_the_Nazgûl.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/74/Ted_Nasmith_-_%C3%89owyn_and_the_Nazg%C3%BBl.jpg/200px-Ted_Nasmith_-_%C3%89owyn_and_the_Nazg%C3%BBl.jpg" decoding="async" loading="lazy" width="200" height="170" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/74/Ted_Nasmith_-_%C3%89owyn_and_the_Nazg%C3%BBl.jpg/300px-Ted_Nasmith_-_%C3%89owyn_and_the_Nazg%C3%BBl.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/74/Ted_Nasmith_-_%C3%89owyn_and_the_Nazg%C3%BBl.jpg/400px-Ted_Nasmith_-_%C3%89owyn_and_the_Nazg%C3%BBl.jpg 2x" data-file-width="530" data-file-height="450"/></a></span>
 </td>
-<td>Tranh in mỹ thuật Eowyn và Nazgul<br/>
+<td>Eowyn and the Nazgul<br/> fine art print
 </td>
 <td><a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a>
 </td>
-<td>In mỹ thuật
+<td>Fine art print
 </td>
 <td>22.75&#34; H (577.85mm) x<br/> 20.5&#34; W (520.7mm)
 </td>
 <td>5.00 lbs (2.27 kg)
 </td>
-<td>Giá: $449,99<br/>Kích thước phiên bản: 100
+<td>Price: $449.99<br/>Edition size: 100
 </td></tr></tbody></table>
 
 ## Liên kết ngoài {#External_links}

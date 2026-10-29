@@ -28,8 +28,8 @@ images:
   - "George_R._R._Martin.jpg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=George_R._R._Martin&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=George_R._R._Martin&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
@@ -38,7 +38,7 @@ images:
 
 **George R. R. Martin** (sinh [20 tháng Chín](../_/20_September.md), [1948](../_/1948.md))<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một tác giả người Mỹ chủ yếu viết truyện giả tưởng và khoa học viễn tưởng. Ông được biết đến nhiều nhất với <i><a class="extiw" href="http://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire" title="wikipedia:A Song of Ice and Fire">A Song of Ice and Fire</a></i>, một loạt tiểu thuyết giả tưởng sử thi chịu ảnh hưởng từ các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Adam Roberts](../A/Adam_Roberts.md) nhận ra những ảnh hưởng rõ ràng của Tolkien đối với công việc của Martin, nhưng coi ông là "kẻ phản đốiTolkien", với *Song* là một <a class="extiw" href="http://en.wikipedia.org/wiki/grimdark" title="wikipedia:grimdark">phản ứng đen tối</a> đối với chủ nghĩa lý tưởng của Tolkien.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Adam Roberts](../A/Adam_Roberts.md) nhận ra những ảnh hưởng rõ ràng của Tolkien đối với công việc của Martin, nhưng coi ông ta là "kẻ phản đốiTolkien", với *Song* là một <a class="extiw" href="http://en.wikipedia.org/wiki/grimdark" title="wikipedia:grimdark">phản ứng đen tối</a> đối với chủ nghĩa lý tưởng của Tolkien.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Bộ phim *Song* đã được chuyển thể thành phim truyền hình <i><a class="extiw" href="http://en.wikipedia.org/wiki/Game_of_Thrones" title="wikipedia:Game of Thrones">Game of Thrones</a></i>, với một số diễn viên và đoàn làm phim từ [*The Lord of the Rings* bộ ba phim](<../T/The_Lord_of_the_Rings_(film_series).md>) tham gia vào loạt phim, chẳng hạn như diễn viên [Sean Bean](../S/Sean_Bean.md) và [Weta Digital](../W/Weta_Digital.md) cung cấp hiệu ứng hình ảnh.
 

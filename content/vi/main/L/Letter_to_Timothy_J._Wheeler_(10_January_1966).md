@@ -26,7 +26,7 @@ Vào [10 tháng 1](../_/10_January.md) [1966](../_/1966.md), [J.R.R. Tolkien](..
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Wheeler_1966_letter.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/59/Wheeler_1966_letter.jpg/300px-Wheeler_1966_letter.jpg" decoding="async" loading="lazy" width="300" height="393" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/59/Wheeler_1966_letter.jpg/450px-Wheeler_1966_letter.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/59/Wheeler_1966_letter.jpg/600px-Wheeler_1966_letter.jpg 2x" data-file-width="610" data-file-height="800"/></a><figcaption></figcaption></figure>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Thưa ông Wheeler,<br/><br/>Cảm ơn lá thư của ông. Tôi hy vọng bạn sẽ không nghĩ rằng tôi vô ơn vì sự quan tâm và những lời chúc tốt đẹp của bạn nếu tôi nói rằng tôi cảm thấy không thể viết bất cứ điều gì như bạn mong muốn. Tôi thực sự chúc bạn mọi điều tốt lành, nhưng tôi không nghĩ rằng sẽ thực sự tốt cho bạn nếu nhận được những lời chúc tốt đẹp đặc biệt từ tôi.<br/><br/>Trân trọng,<br/><br/>JRR Tolkien
+<p>Dear Mr. Wheeler,<br/><br/>Thank you for your letter. I hope you will not think that I am ungrateful for your attention and good wishes if I say that I do not feel able to write anything such as you wish. I do wish you well, but I do not think that it would really do you much good to have special good wishes from me.<br/><br/>Yours sincerely,<br/><br/>JRR Tolkien
 </p>
 </blockquote>
 

@@ -15,9 +15,9 @@ images:
   - "Tolkien's_Favorite_Tree,_Oxford_Botanical_Garden.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jrrt_1972_tree.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/63/Jrrt_1972_tree.jpg/180px-Jrrt_1972_tree.jpg" decoding="async" loading="lazy" width="180" height="108" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/63/Jrrt_1972_tree.jpg/270px-Jrrt_1972_tree.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/63/Jrrt_1972_tree.jpg/360px-Jrrt_1972_tree.jpg 2x" data-file-width="460" data-file-height="276"/></a><figcaption>Tolkien bên cạnh Thông Đen năm 1973</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jrrt_1972_tree.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/63/Jrrt_1972_tree.jpg/180px-Jrrt_1972_tree.jpg" decoding="async" loading="lazy" width="180" height="108" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/63/Jrrt_1972_tree.jpg/270px-Jrrt_1972_tree.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/63/Jrrt_1972_tree.jpg/360px-Jrrt_1972_tree.jpg 2x" data-file-width="460" data-file-height="276"/></a><figcaption>Tolkien next to a Black Pine in 1973</figcaption></figure>
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien&#39;s_Favorite_Tree,_Oxford_Botanical_Garden.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/ba/Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg/180px-Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg" decoding="async" loading="lazy" width="180" height="240" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/ba/Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg/270px-Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/ba/Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg/360px-Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg 2x" data-file-width="461" data-file-height="614"/></a><figcaption>Laocoon, cây Tolkien được yêu thích</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien&#39;s_Favorite_Tree,_Oxford_Botanical_Garden.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/ba/Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg/180px-Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg" decoding="async" loading="lazy" width="180" height="240" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/ba/Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg/270px-Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/ba/Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg/360px-Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg 2x" data-file-width="461" data-file-height="614"/></a><figcaption>Laocoon, the favourite Tolkien tree</figcaption></figure>
 
 **Laocoon** là tên Tolkien đặt cho một trong những cây anh yêu thích tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Oxford_Botanic_Garden" title="wikipedia:University of Oxford Botanic Garden">Vườn bách thảo Oxford</a>. Laocoon là một cây thông đen <a class="extiw" href="http://en.wikipedia.org/wiki/European_Black_Pine" title="wikipedia:European Black Pine">, lat. <i>Pinus nigra</i></a>
 
@@ -26,7 +26,7 @@ Trong bức ảnh cuối cùng được biết đến của Tolkien (chụp [ng�
 Theo Tiến sĩ Stephen Harris thuộc Khoa Khoa học Thực vật của trường Oxford:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Kiến thức phổ biến về cây thông đen là nó được trồng vào năm 1799 từ hạt giống được thu thập bởi Giáo sư Thực vật học Kỷ Đệ Tam của Sherardian, John Sibthorp, ở Áo. Chúng ta biết rằng Sibthorp đã gửi một lượng đáng kể nguyên liệu thực vật đến Oxford từ phía đông Địa Trung Hải vào năm 1786/87 và ông đã ở Áo vào năm 1785. Ông cũng ở vùng trồng Thông Đen vào năm 1795 nhưng ông qua đời vào năm 1796.
+<p>The received wisdom regarding the black pine is that it was planted in 1799 from seed that was collected by the Third Sherardian Professor of Botany, John Sibthorp, in Austria. We know that Sibthorp sent considerable amounts of plant material to Oxford from the eastern Mediterranean in 1786/87 and that he was in Austria in 1785. He was also in regions of Black Pine growth in 1795 but he died in 1796.
 </p>
 <p class="tg-quote-footer"><cite><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
 </blockquote>
@@ -38,7 +38,7 @@ Cây bị đổ vào [26 tháng 7](../_/26_July.md) [2014](../_/2014.md) <sup id
 Sau khi nó sụp đổ, Tiến sĩ Harris nói:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Cây thông bị chặt có nghĩa là chúng ta có cơ hội xác định niên đại của cây một cách chính xác và xác định xem liệu Sibthorp có liên quan hay không. Phân loài cụ thể của Thông Đen được đại diện bởi cây cũng là một điểm gây tranh cãi - giờ đây chúng ta cũng có thể giải quyết cuộc tranh cãi này.
+<p>The pine having to be cut down means that we have the opportunity to date the tree precisely and determine whether Sibthorp is likely to have been involved. The particular subspecies of Black Pine represented by the tree has also been a point of controversy - we should now be able to settle this controversy as well.
 </p>
 <p class="tg-quote-footer"><cite><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></cite></p>
 </blockquote>

@@ -22,7 +22,7 @@ images:
   - "J.R.R._Tolkien_–_En_biografi.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_–_En_biografi.png.md"><img src="https://tolkiengateway.net/w/images/thumb/5/59/J.R.R._Tolkien_%E2%80%93_En_biografi.png/300px-J.R.R._Tolkien_%E2%80%93_En_biografi.png" decoding="async" loading="lazy" width="300" height="468" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/59/J.R.R._Tolkien_%E2%80%93_En_biografi.png 1.5x" data-file-width="307" data-file-height="479"/></a><figcaption>Bìa ấn bản tiếng Thụy Điển của <i>J.R.R. Tolkien: A Biography</i></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_–_En_biografi.png.md"><img src="https://tolkiengateway.net/w/images/thumb/5/59/J.R.R._Tolkien_%E2%80%93_En_biografi.png/300px-J.R.R._Tolkien_%E2%80%93_En_biografi.png" decoding="async" loading="lazy" width="300" height="468" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/59/J.R.R._Tolkien_%E2%80%93_En_biografi.png 1.5x" data-file-width="307" data-file-height="479"/></a><figcaption>Cover of the Swedish edition of <i>J.R.R. Tolkien: A Biography</i></figcaption></figure>
 
 **Disa Törngren** là nhà xuất bản, dịch giả và tác giả người Thụy Điển. Trong số những thành tựu văn học của bà có đồng tác giả cuốn *Hexikon: En sagolik uppslagsbok* (1981; \["Hexicon: An Encyclopedia of Fairy-tales"\]).
 
@@ -50,7 +50,7 @@ Năm 1978, bản dịch tác phẩm *[J.R.R. Tolkien: A Biography](../J/J.R.R._T
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Người dịch <a href="../../index/W/Writings_by_J.R.R._Tolkien.md" title="Index:Writings by J.R.R. Tolkien">sách</a> của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> sang tiếng Thụy Điển</b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Translators of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="../../index/W/Writings_by_J.R.R._Tolkien.md" title="Index:Writings by J.R.R. Tolkien">books</a> into Swedish</b>
 </td></tr>
 <tr>
 <td style="font-size: 90%;"> <b><a href="../R/Roland_Adlerberth.md" title="Roland Adlerberth">Roland Adlerberth</a></b> · <b><a href="../E/Erik_Andersson.md" title="Erik Andersson">Erik Andersson</a></b> · <b><a href="../B/Britt_G._Hallqvist.md" title="Britt G. Hallqvist">Britt G. Hallqvist</a></b> · <b><a href="../_/Öjevind_Lång.md" title="Öjevind Lång">Öjevind Lång</a></b> · <b><a href="../_/Åke_Ohlmarks.md" title="Åke Ohlmarks">Åke Ohlmarks</a></b> · <b><a href="../T/Tore_Zetterholm.md" title="Tore Zetterholm">Tore Zetterholm</a></b>

@@ -24,7 +24,7 @@ langlinks:
 
 **eket** là một thanh kiếm đâm ngắn được sử dụng bởi [người Númenor](../N/Númenóreans.md). Nó được mô tả là *"một thanh kiếm đâm ngắn với lưỡi rộng, nhọn và có hai lưỡi, dài từ một foot đến một foot rưỡi."*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cũng có thể cho rằng đôi khi nó dài hơn và có hình dáng tương tự như [Barrow-blade](../D/Daggers_of_Westernesse.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
-[Isildur](../I/Isildur.md) mang theo một chiếc trên đường tới [Arnor](../A/Arnor.md). Trong khi thoát khỏi [Thảm họa Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md), ông đã giữ lại chiếc eket sau khi vứt bỏ phần trang bị chiến tranh còn lại để bơi qua [Anduin](../A/Anduin.md).
+[Isildur](../I/Isildur.md) mang theo một chiếc trên đường tới [Arnor](../A/Arnor.md). Trong khi thoát khỏi [Thảm họa Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md), ông ta đã giữ lại chiếc eket sau khi vứt bỏ phần trang bị chiến tranh còn lại để bơi qua [Anduin](../A/Anduin.md).
 
 ## Cảm hứng {#Inspiration}
 

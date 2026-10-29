@@ -16,11 +16,11 @@ categories:
 
 ## Lịch sử {#History}
 
-Hội được thành lập vào [24 tháng 7](../_/24_July.md) [1999](../_/1999.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> bởi Guillermo Correa (1944-2020) và Alejandro Botero tại <a class="extiw" href="http://en.wikipedia.org/wiki/Medell%C3%ADn" title="wikipedia:Medellín">Medellín</a>. Ban đầu, họ muốn tham gia [Hội Tolkien Tây Ban Nha](Spanish_Tolkien_Society.md), nhưng thay vào đó họ được khuyến khích thành lập hiệp hội của riêng mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Hội được thành lập vào [24 tháng 7](../_/24_July.md) [1999](../_/1999.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> bởi Guillermo Correa (1944-2020) và Alejandro Botero tại <a class="extiw" href="http://en.wikipedia.org/wiki/Medell%C3%ADn" title="wikipedia:Medellín">Medellín</a>. Ban đầu, họ muốn tham gia [Hiệp hội Tolkien Tây Ban Nha](Spanish_Tolkien_Society.md), nhưng thay vào đó họ được khuyến khích thành lập hiệp hội của riêng mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ấn phẩm {#Publications}
 
-Kể từ năm 2015, xã hội xuất bản tạp chí hai năm một lần có tên *Dragón Verde* (tiếng Tây Ban Nha:" [Rồng Xanh](../T/The_Green_Dragon.md)"). Các nghệ sĩ cover đáng chú ý là [Jemima Caitlin](../J/Jemima_Caitlin.md), [Donato Giancola](../D/Donato_Giancola.md), [Ted Nasmith](../T/Ted_Nasmith.md), [Jenny Dolfen](../J/Jenny_Dolfen.md), [David Wenzel](../D/David_Wenzel.md), [Anke Eißmann](../A/Anke_Eißmann.md) và [Matěj Čadil](../M/Matěj_Čadil.md).
+Kể từ năm 2015, xã hội xuất bản tạp chí hai năm một lần có tên *Dragón Verde* (tiếng Tây Ban Nha:" [Green Rồng](../T/The_Green_Dragon.md)"). Các nghệ sĩ cover đáng chú ý là [Jemima Caitlin](../J/Jemima_Caitlin.md), [Donato Giancola](../D/Donato_Giancola.md), [Ted Nasmith](../T/Ted_Nasmith.md), [Jenny Dolfen](../J/Jenny_Dolfen.md), [David Wenzel](../D/David_Wenzel.md), [Anke Eißmann](../A/Anke_Eißmann.md) và [Matěj Čadil](../M/Matěj_Čadil.md).
 
 ## Liên kết ngoài {#External_links}
 

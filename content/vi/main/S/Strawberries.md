@@ -19,17 +19,17 @@ infobox:
     value: "Middle-earth"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Bunch_of_Strawberries.jpg.md"><img src="https://tolkiengateway.net/w/images/0/09/Bunch_of_Strawberries.jpg" decoding="async" loading="lazy" width="300" height="180" class="mw-file-element" data-file-width="300" data-file-height="180"/></a><figcaption><a href="../../file/B/Bunch_of_Strawberries.jpg.md" title="File:Bunch of Strawberries.jpg">Strawberries</a> in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Thực vật</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Strawberries</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Trung Địa</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Bunch_of_Strawberries.jpg.md"><img src="https://tolkiengateway.net/w/images/0/09/Bunch_of_Strawberries.jpg" decoding="async" loading="lazy" width="300" height="180" class="mw-file-element" data-file-width="300" data-file-height="180"/></a><figcaption><a href="../../file/B/Bunch_of_Strawberries.jpg.md" title="File:Bunch of Strawberries.jpg">Strawberries</a> in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Plant</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Strawberries</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Middle-earth</td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Trái cây nhiều đến nỗi những người Hobbit trẻ tuổi gần như tắm trong dâu tây và kem...
+<p>The fruit was so plentiful that young hobbits very nearly bathed in strawberries and cream...
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, <a class="mw-redirect" href="../T/The_Grey_Havens.md" title="The Grey Havens">The Grey Havens</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 **Dâu tây** là loại quả dại được tìm thấy ở một số vùng của [Trung Địa](../M/Middle-earth.md).
 
-[Bilbo Baggins](../B/Bilbo_Baggins.md) đã cố gắng thỏa mãn cơn đói của mình bằng dâu tây dại mọc gần một con suối ở thượng nguồn Vales, khi [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) trốn thoát khỏi [Thị trấn Goblin](../G/Goblin-town.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> vào đầu [tháng 7](../J/July.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Bilbo Baggins](../B/Bilbo_Baggins.md) đã cố gắng thỏa mãn cơn đói của mình bằng dâu tây dại mọc gần một con suối ở thượng nguồn Vales, khi [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) trốn thoát khỏi [Thị trấn yêu tinh](../G/Goblin-town.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> vào đầu [tháng 7](../J/July.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Trong những năm cuối [Kỷ Đệ Tam](../T/Third_Age.md), dâu tây là một trong nhiều loại trái cây được [The Shire](../T/The_Shire.md) sản xuất và được giới trẻ [Hobbit](../H/Hobbits.md) yêu thích.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

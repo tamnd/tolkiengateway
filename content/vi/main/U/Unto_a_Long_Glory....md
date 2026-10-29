@@ -31,7 +31,7 @@ infobox:
     value: "Over Old Hills"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/DolGuldur.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/320px-DolGuldur.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/480px-DolGuldur.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/640px-DolGuldur.jpg 2x" data-file-width="800" data-file-height="800"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Unto a Long Glory...</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../D/Dol_Guldur_(album).md" title="Dol Guldur (album)">Dol Guldur</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Triệu hồi</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, P.K.</td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data">Triệu hồi</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">9:37</td></tr><tr><th scope="row" class="tg-infobox-label">Số thứ tự bản nhạc</th><td class="tg-infobox-data">7</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../W/Wyrmvater_Glaurung.md" title="Wyrmvater Glaurung">Wyrmvater Glaurung</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="../O/Over_Old_Hills.md" title="Over Old Hills">Over Old Hills</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/4WQ56677QclMHVKQMvqwCd"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/DolGuldur.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/320px-DolGuldur.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/480px-DolGuldur.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/640px-DolGuldur.jpg 2x" data-file-width="800" data-file-height="800"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Unto a Long Glory...</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../D/Dol_Guldur_(album).md" title="Dol Guldur (album)">Dol Guldur</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Summoning</a></td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, P.K.</td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data">Summoning</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">9:37</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">7</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="../W/Wyrmvater_Glaurung.md" title="Wyrmvater Glaurung">Wyrmvater Glaurung</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="../O/Over_Old_Hills.md" title="Over Old Hills">Over Old Hills</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/4WQ56677QclMHVKQMvqwCd"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
@@ -40,34 +40,34 @@ infobox:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Sự diệt vong đến gần Người chết thức tỉnh; <br/>
-Đã đến lúc những kẻ bội thề <br/>
-Tại hòn đá Erech họ sẽ lại đứng vững <br/>
-Nghe có tiếng còi trên đồi mê hoặc <br/>
-Ai sẽ gọi họ <br/>
-Từ hoàng hôn xám xịt <br/>
-Những cái bị lãng quên? <br/>
+<p>The doom approaches the Dead awaken; <br/>
+For the hour is come for the oathbreakers <br/>
+At the stone of Erech they shall stand again <br/>
+Hear there horn in hills enchants <br/>
+Who shall call them <br/>
+From grey twilight <br/>
+Forgotten ones? <br/>
 <br/>
-Hết nghi ngờ, ra khỏi bóng tối <br/>
-Hy vọng nhen nhóm, hy vọng cuối cùng <br/>
-Vượt qua cái chết, vượt qua nỗi sợ hãi <br/>
-Ngày diệt vong đã được dỡ bỏ <br/>
-Hết mất mát, hết đời <br/>
-Và không còn nghi ngờ gì nữa, ngoài bóng tối <br/>
-Vượt qua cái chết, vượt qua nỗi sợ hãi <br/>
-Hết mất mát, <br/>
-Đến vinh quang lâu dài... <br/>
+Out of doubt, out of dark <br/>
+Hope rekindles, and hope in end <br/>
+Over death, over dread <br/>
+Over doom lifted <br/>
+Out of loss, out of life <br/>
+And out of doubt, out of dark <br/>
+Over death, over dread <br/>
+Out of loss, <br/>
+Unto a long glory... <br/>
 <br/>
-Người thừa kế của người mà họ đã thề <br/>
-Từ phương Bắc anh sẽ đến <br/>
-Và anh sẽ đi qua cánh cửa <br/>
-Đến con đường của người chết <br/>
+The heir of him to whom the oath they swore <br/>
+From the North he shall come <br/>
+And he shall pass the door <br/>
+To the Paths of the Dead <br/>
 <br/>
-Đừng than khóc quá nhiều - kẻ đã ngã xuống thật hùng mạnh <br/>
-Và chiến tranh đang kêu gọi chúng ta! <br/>
+Mourn not overmuch - mighty was the fallen <br/>
+And war now calls us! <br/>
 <br/>
-Và nghe tiếng còi vang trên đồi <br/>
-Ai sẽ gọi họ <br/>
-từ chạng vạng xám xịt
+And hear there horn in hills ringing <br/>
+Who shall call them <br/>
+from grey twilight
 </p>
 </div>

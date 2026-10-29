@@ -25,12 +25,12 @@ images:
 
 <b>2001-2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
 
-<dl><dd>Một lá bài mô tả Ithil-stone đã được phát hành trong bộ "Reflections".</dd></dl>
+<dl><dd>A card depicting the Ithil-stone was released in the &#34;Reflections&#34; set.</dd></dl>
 
 <div>
 <p><span></span>
 </p>
-<h2><span class="mw-headline" id="References">Tài liệu tham khảo</span></h2>
+<h2><span class="mw-headline" id="References">References</span></h2>
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_B.md" title="Appendix B">Appendix B</a>, &#34;The Third Age&#34;</span>
 </li>
@@ -52,7 +52,7 @@ images:
 <td style="font-size: 90%;">  † <a href="../M/Master_Stone_of_Osgiliath.md" title="Master Stone of Osgiliath">Master Stone of Osgiliath</a> <small>(<a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a>)</small> · † <a class="mw-selflink selflink">Ithil-stone</a> <small>(<a class="mw-redirect" href="../M/Minas_Ithil.md" title="Minas Ithil">Minas Ithil</a> - <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>)</small> · <a href="../A/Anor-stone.md" title="Anor-stone">Anor-stone</a> <small>(<a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>)</small> · <a href="../O/Orthanc-stone.md" title="Orthanc-stone">Orthanc-stone</a> <small>(<a href="../O/Orthanc.md" title="Orthanc">Orthanc</a> - <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>)</small>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">Khác
+<th style="background:var(--tg-color-surface-3);" align="right">Other
 </th>
 <td style="font-size: 90%;"> <a href="../M/Master-stone.md" title="Master-stone">Master-stone</a> <small>(<a class="mw-redirect" href="../T/Tower_of_Avallonë.md" title="Tower of Avallonë">Tower of Avallonë</a>)</small>
 </td></tr>

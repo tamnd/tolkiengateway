@@ -15,7 +15,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
 "**Từ điển tiếng Anh sang Anglo-Saxon**" đề cập đến một từ điển [chưa được xuất bản](../../index/U/Unpublished_material.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), bao gồm một nhóm gồm hơn 400 mục từ cho một từ điển tiếng Anh sang [Anglo-Saxon](../O/Old_English.md). Các mục được sắp xếp theo thứ tự abc theo tiếng Anh hiện đại. Giấy tờ được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md), Bản thảo Tolkien A 20/4.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>

@@ -372,7 +372,7 @@ sort_keys:
 &lt;Hyarion&gt; that was quick.<br/>
 &lt;Eldarion&gt; really?<br/>
 &lt;Mith&gt; <a class="external free" href="http://www.tolkienlibrary.com/press/986-Tolkien_news_last_week.php" rel="noreferrer noopener" target="_blank">http://www.tolkienlibrary.com/press/986-Tolkien_news_last_week.php</a><br/>
-&lt;Morgan&gt; (forgot that I can keep the window open, and then check how the discussion went before going to bed...!)<br/>
+&lt;Morgan&gt; (forgot that I can keep the window open, and then check how the discussion went  before going to bed...!)<br/>
 &lt;Mith&gt; iPad app, not iPhone<br/>
 &lt;Eldarion&gt; interesting..<br/>
 &lt;Mith&gt; Strange no one thought to mention it to us<br/>

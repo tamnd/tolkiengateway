@@ -29,8 +29,8 @@ images:
   - "Houghton_Mifflin_logo.jpg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Houghton_Mifflin_Harcourt&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Houghton_Mifflin_Harcourt&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
@@ -41,7 +41,7 @@ images:
 
 Vào cuối mùa hè [1965](../_/1965.md) Tolkien đã gửi các bản sửa đổi của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* tới Houghton Mifflin để gia hạn bản quyền hợp pháp tại Hoa Kỳ. Ấn bản thứ hai được phát hành vào năm [1967](../_/1967.md).<sup id="cite_ref-rc_1-0" class="reference"><a href="#cite_note-rc-1">[1]</a></sup>
 
-Trong [1987](../_/1987.md) công ty đã được [Christopher Tolkien](../C/Christopher_Tolkien.md) và [Douglas A. Anderson](../D/Douglas_A._Anderson.md) khuyến khích đồng bộ hóa phiên bản tiêu chuẩn ([1966](../_/1966.md)) của *The Lord of the Rings* với phiên bản tiêu chuẩn của Anh của [Allen and Unwin](../A/Allen_and_Unwin.md), đồng thời kết hợp các chỉnh sửa bổ sung.<sup id="cite_ref-rc_1-1" class="reference"><a href="#cite_note-rc-1">[1]</a></sup>
+Trong [1987](../_/1987.md) công ty đã được [Christopher Tolkien](../C/Christopher_Tolkien.md) và [Douglas A. Anderson](../D/Douglas_A._Anderson.md) khuyến khích đồng bộ hóa phiên bản tiêu chuẩn ([1966](../_/1966.md)) của *The Lord of the Rings* với phiên bản tiêu chuẩn của Anh của [Allen và Unwin](../A/Allen_and_Unwin.md), đồng thời kết hợp các chỉnh sửa bổ sung.<sup id="cite_ref-rc_1-1" class="reference"><a href="#cite_note-rc-1">[1]</a></sup>
 
 Sau khoảng [1994](../_/1994.md), các phiên bản của *The Lord of the Rings* có một số lỗi mới do quá trình số hóa của HarperCollins; một số trong số chúng sau đó đã được sửa chữa và được HM xuất bản trong [2004](../_/2004.md).<sup id="cite_ref-rc_1-2" class="reference"><a href="#cite_note-rc-1">[1]</a></sup>
 

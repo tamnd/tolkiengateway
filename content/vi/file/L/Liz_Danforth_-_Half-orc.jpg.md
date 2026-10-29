@@ -27,7 +27,7 @@ file:
 
 ## tóm tắt {#summary}
 
-Trích từ hình ảnh của [Liz Danforth](../../main/L/Liz_Danforth.md), *Uruk-hai, Common Orc, and Half-orc*, xuất hiện trong [S. Coleman Charlton](../../main/C/Coleman_Charlton.md), *[Middle-earth Role Playing (2nd edition, softcover)](<../../main/M/Middle-earth_Role_Playing_(2nd_edition).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2001, 1993), p. 176.
+Trích từ hình ảnh của [Liz Danforth](../../main/L/Liz_Danforth.md), *Uruk-hai, Common Orc, and Half-orc*, xuất hiện trong [S. Coleman Charlton](../../main/C/Coleman_Charlton.md), *[Middle-earth Role Playing (2nd edition, softcover)](<../../main/M/Middle-earth_Role_Playing_(2nd_edition).md>)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2001, 1993) , p. 176.
 
 ## Giấy phép {#Licensing}
 

@@ -17,24 +17,24 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Dòng suối sẽ vui mừng tuôn chảy<br/>
-Những hồ nước sẽ tỏa sáng và cháy bỏng.<br/>
-Mọi ưu phiền đều thất bại và buồn bã<br/>
-Khi ngọn núi Vua trở lại!<br/>
+<p>The streams shall run in gladness,<br/>
+The lakes shall shine and burn.<br/>
+All sorrow fail and sadness<br/>
+At the Mountain King&#39;s return!<br/>
 <br/>
-Vua bên dưới ngọn núi,<br/>
-Vua đá chạm khắc,<br/>
-Chúa tể của những dòng suối bạc<br/>
-Sẽ trở thành của riêng mình!<br/>
+The King beneath the mountain,<br/>
+The King of carven stone,<br/>
+The lord of silver fountains<br/>
+Shall come into his own!<br/>
 <br/>
-Dòng suối sẽ vui mừng tuôn chảy<br/>
-Những hồ nước sẽ tỏa sáng và cháy bỏng.<br/>
-Mọi phiền muộn đều thất bại và buồn bã<br/>
-Khi ngọn núi Vua trở lại!<br/>
+The streams shall run in gladness,<br/>
+The lakes shall shine and burn.<br/>
+All sorrow fail and sadness<br/>
+At the Mountain King&#39;s return!<br/>
 <br/>
-Vương miện của ông sẽ được giữ vững,<br/>
-Đàn hạc của ông sẽ được căng dây lại.<br/>
-Hội trường của ông sẽ vang vọng vàng<br/>
-Những bài hát ngày xưa được hát lại.
+His crown shall be upholden,<br/>
+His harp shall be restrung.<br/>
+His halls shall echo golden<br/>
+To songs of yore re-sung.
 </p>
 </div>

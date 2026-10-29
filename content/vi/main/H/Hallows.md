@@ -23,13 +23,13 @@ Chúng được xây dựng trên một sườn núi cao tới độ cao của b
 
 ## Lịch sử {#History}
 
-[Borondir](../B/Borondir.md), một người lính của Gondor có chiến công trong [Trận chiến trên Cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md) đã mang lại cho ông danh tiếng lớn, đã được chôn cất trong lăng mộ ở Bảo bối Tử thần sau khi ông chết trong trận chiến đó.<sup id="cite_ref-Cirion_3-0" class="reference"><a href="#cite_note-Cirion-3">[3]</a></sup>
+[Borondir](../B/Borondir.md), một người lính của Gondor có chiến công trong [Trận chiến trên Cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md) đã mang lại cho ông ta danh tiếng lớn, đã được chôn cất trong lăng mộ ở Bảo bối Tử thần sau khi ông ta chết trong trận chiến đó.<sup id="cite_ref-Cirion_3-0" class="reference"><a href="#cite_note-Cirion-3">[3]</a></sup>
 
 Một thời gian sau, sau khi thành lập [Rohan](../R/Rohan.md), [Cirion](../C/Cirion.md) đã di dời phần còn lại của [Elendil](../E/Elendil.md) đến các Thánh tích (cho đến khi được chôn cất trên [Halifirien](Halifirien.md)).<sup id="cite_ref-Cirion_3-1" class="reference"><a href="#cite_note-Cirion-3">[3]</a></sup>
 
 Vào [15 tháng 3](../_/15_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Quản gia [Denethor II](../D/Denethor.md) đã đưa con trai mình [Faramir](../F/Faramir.md) đến Bảo bối Tử thần nơi hắn định thiêu sống cả hai người. Người bảo vệ [Beregond](../B/Beregond.md) cố gắng cứu Faramir nhưng bị người hầu của Denethor giữ lại. Beregond trước đây đã giết hai người hầu trong các Bảo bối [Gandalf](../G/Gandalf.md), được [Pippin](../P/Peregrin_Took.md) cảnh báo, đã đến và giải cứu Faramir, mặc dù Denethor đã thành công trong việc tự kết liễu đời mình.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Vua [Théoden](../T/Théoden.md) được tạm thời đặt vào các Bảo bối thần sau khi ông chết cho đến khi thi thể của ông được đưa về Rohan.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Vua [Théoden](../T/Théoden.md) được tạm thời đặt vào các Bảo bối thần sau khi ông ta chết cho đến khi thi thể của ông ta được đưa về Rohan.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 [Hobbit](Hobbits.md) [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) và Peregrin Took của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) cũng được đặt một nơi ở đó sau khi họ chết, bên cạnh ngôi mộ của Vua [Aragorn Elessar](../A/Aragorn.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 

@@ -96,7 +96,7 @@ sort_keys:
 <td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td></tr>
 <tr>
-<td>Policy regarding <a href="../../main/T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (film series)</a> and the second film; a clear policy concerning the in/exclusion of rumours and <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Gateway:Spoilers&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:Spoilers (page does not exist)">spoilers</a> - <i>second film especially</i>.
+<td>Policy regarding <a href="../../main/T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (film series)</a> and the second film;  a clear policy concerning the in/exclusion of rumours and <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Gateway:Spoilers&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:Spoilers (page does not exist)">spoilers</a> - <i>second film especially</i>.
 </td>
 <td><a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
 </td></tr>

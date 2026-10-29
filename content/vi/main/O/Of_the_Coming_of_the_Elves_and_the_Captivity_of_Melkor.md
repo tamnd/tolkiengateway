@@ -25,39 +25,39 @@ images:
 
 <table cellpadding="3" cellspacing="0" class="mw-collapsible mw-collapsed silmarillion-chapters" style="float:right; clear:right; margin:0 0 1em 1em; border:var(--tg-border-base); background-color:var(--tg-color-surface-2); border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5); border-top-left-radius:var(--tg-border-radius-large); border-top-right-radius:var(--tg-border-radius-large); padding:10px;"><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> chương
+<th style="background:var(--tg-color-surface-5); border-top-left-radius:var(--tg-border-radius-large); border-top-right-radius:var(--tg-border-radius-large); padding:10px;"><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> chapters 
 </th></tr>
 <tr>
 <td>
 <ol><li><a href="../A/Ainulindalë.md" title="Ainulindalë">Ainulindalë</a></li>
 <li><a href="../V/Valaquenta.md" title="Valaquenta">Valaquenta</a></li>
 <li><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a>
-<ol><li><a href="Of_the_Beginning_of_Days.md" title="Of the Beginning of Days">Về buổi đầu của thời gian</a></li>
+<ol><li><a href="Of_the_Beginning_of_Days.md" title="Of the Beginning of Days">Of the Beginning of Days</a></li>
 <li><a href="Of_Aulë_and_Yavanna.md" title="Of Aulë and Yavanna">Of Aulë and Yavanna</a></li>
-<li><a class="mw-selflink selflink">Về sự xuất hiện của Tiên tộc</a></li>
+<li><a class="mw-selflink selflink">Of the Coming of the Elves</a></li>
 <li><a href="Of_Thingol_and_Melian.md" title="Of Thingol and Melian">Of Thingol and Melian</a></li>
-<li><a href="Of_Eldamar_and_the_Princes_of_the_Eldalië.md" title="Of Eldamar and the Princes of the Eldalië">Về Eldamar</a></li>
+<li><a href="Of_Eldamar_and_the_Princes_of_the_Eldalië.md" title="Of Eldamar and the Princes of the Eldalië">Of Eldamar</a></li>
 <li><a href="Of_Fëanor_and_the_Unchaining_of_Melkor.md" title="Of Fëanor and the Unchaining of Melkor">Of Fëanor</a></li>
 <li><a href="Of_the_Silmarils_and_the_Unrest_of_the_Noldor.md" title="Of the Silmarils and the Unrest of the Noldor">Of the Silmarils</a></li>
-<li><a href="Of_the_Darkening_of_Valinor.md" title="Of the Darkening of Valinor">Về sự chìm vào bóng tối của Valinor</a></li>
-<li><a href="Of_the_Flight_of_the_Noldor.md" title="Of the Flight of the Noldor">Về cuộc tháo chạy của Noldor</a></li>
-<li><a href="Of_the_Sindar.md" title="Of the Sindar">Về Sindar</a></li>
-<li><a href="Of_the_Sun_and_Moon_and_the_Hiding_of_Valinor.md" title="Of the Sun and Moon and the Hiding of Valinor">Về Mặt Trời và Mặt Trăng</a></li>
-<li><a href="Of_Men.md" title="Of Men">Về Con Người</a></li>
-<li><a href="Of_the_Return_of_the_Noldor.md" title="Of the Return of the Noldor">Về sự trở lại của Noldor</a></li>
-<li><a href="Of_Beleriand_and_its_Realms~31103.md" title="Of Beleriand and its Realms">Về Beleriand và các vương quốc</a></li>
-<li><a href="Of_the_Noldor_in_Beleriand.md" title="Of the Noldor in Beleriand">Về Noldor ở Beleriand</a></li>
+<li><a href="Of_the_Darkening_of_Valinor.md" title="Of the Darkening of Valinor">Of the Darkening of Valinor</a></li>
+<li><a href="Of_the_Flight_of_the_Noldor.md" title="Of the Flight of the Noldor">Of the Flight of the Noldor</a></li>
+<li><a href="Of_the_Sindar.md" title="Of the Sindar">Of the Sindar</a></li>
+<li><a href="Of_the_Sun_and_Moon_and_the_Hiding_of_Valinor.md" title="Of the Sun and Moon and the Hiding of Valinor">Of the Sun and Moon</a></li>
+<li><a href="Of_Men.md" title="Of Men">Of Men</a></li>
+<li><a href="Of_the_Return_of_the_Noldor.md" title="Of the Return of the Noldor">Of the Return of the Noldor</a></li>
+<li><a href="Of_Beleriand_and_its_Realms~31103.md" title="Of Beleriand and its Realms">Of Beleriand and its Realms</a></li>
+<li><a href="Of_the_Noldor_in_Beleriand.md" title="Of the Noldor in Beleriand">Of the Noldor in Beleriand</a></li>
 <li><a href="Of_Maeglin.md" title="Of Maeglin">Of Maeglin</a></li>
-<li><a href="Of_the_Coming_of_Men_into_the_West.md" title="Of the Coming of Men into the West">Về sự xuất hiện của Con Người</a></li>
-<li><a href="Of_the_Ruin_of_Beleriand_and_the_Fall_of_Fingolfin.md" title="Of the Ruin of Beleriand and the Fall of Fingolfin">Về sự tàn phá Beleriand</a></li>
+<li><a href="Of_the_Coming_of_Men_into_the_West.md" title="Of the Coming of Men into the West">Of the Coming of Men</a></li>
+<li><a href="Of_the_Ruin_of_Beleriand_and_the_Fall_of_Fingolfin.md" title="Of the Ruin of Beleriand and the Fall of Fingolfin">Of the Ruin of Beleriand</a></li>
 <li><a href="Of_Beren_and_Lúthien.md" title="Of Beren and Lúthien">Of Beren and Lúthien</a></li>
-<li><a href="Of_the_Fifth_Battle%253A_Nirnaeth_Arnoediad.md" title="Of the Fifth Battle: Nirnaeth Arnoediad">Về trận chiến thứ năm</a></li>
+<li><a href="Of_the_Fifth_Battle%253A_Nirnaeth_Arnoediad.md" title="Of the Fifth Battle: Nirnaeth Arnoediad">Of the Fifth Battle</a></li>
 <li><a href="Of_Túrin_Turambar.md" title="Of Túrin Turambar">Of Túrin Turambar</a></li>
-<li><a href="Of_the_Ruin_of_Doriath.md" title="Of the Ruin of Doriath">Về sự sụp đổ của Doriath</a></li>
-<li><a href="Of_Tuor_and_the_Fall_of_Gondolin.md" title="Of Tuor and the Fall of Gondolin">Về Sự sụp đổ của Gondolin</a></li>
-<li><a href="Of_the_Voyage_of_Eärendil_and_the_War_of_Wrath.md" title="Of the Voyage of Eärendil and the War of Wrath">Về chuyến hải hành của Eärendil</a></li></ol></li>
+<li><a href="Of_the_Ruin_of_Doriath.md" title="Of the Ruin of Doriath">Of the Ruin of Doriath</a></li>
+<li><a href="Of_Tuor_and_the_Fall_of_Gondolin.md" title="Of Tuor and the Fall of Gondolin">Of the Fall of Gondolin</a></li>
+<li><a href="Of_the_Voyage_of_Eärendil_and_the_War_of_Wrath.md" title="Of the Voyage of Eärendil and the War of Wrath">Of the Voyage of Eärendil</a></li></ol></li>
 <li><a href="../A/Akallabêth.md" title="Akallabêth">Akallabêth</a></li>
-<li><a href="Of_the_Rings_of_Power_and_the_Third_Age.md" title="Of the Rings of Power and the Third Age">Về Những Chiếc Nhẫn Quyền Năng</a></li></ol>
+<li><a href="Of_the_Rings_of_Power_and_the_Third_Age.md" title="Of the Rings of Power and the Third Age">Of the Rings of Power</a></li></ol>
 </td></tr></tbody></table>
 
 **Về sự xuất hiện của Tiên tộc và sự giam cầm của Melkor** là chương thứ ba của phần *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)* trong *[The Silmarillion](../T/The_Silmarillion.md)*.
@@ -68,11 +68,11 @@ images:
 
 [Valar](../V/Valar.md) vẫn ở trong [Aman](../A/Aman.md) dưới ánh sáng của [Hai Cây](../T/Two_Trees.md) và đôi khi chỉ [Yavanna](../Y/Yavanna.md) và [Oromë](Oromë.md) quay trở lại [Trung Địa](../M/Middle-earth.md). Từ đó họ đưa tin rằng những vùng đất đó nằm dưới cái bóng của [Melkor](../M/Melkor.md). Vì vậy nhiều Valar mong muốn gây chiến với Melkor, đặc biệt là [Tulkas](../T/Tulkas.md). Nhưng [Mandos](../M/Mandos.md) nhân danh [Manwë](../M/Manwë.md) đã cảnh báo họ rằng họ không thể gây chiến vì [Con đầu lòng](../F/Firstborn.md) đang đến trong thời đại đó. Sau đó [Varda](../V/Varda.md) chuẩn bị cho thế giới bằng cách đặt những [ngôi sao](../S/Stars.md) mới và mạnh hơn trên bầu trời để dẫn đường cho [Tiên tộc](../E/Elves.md) trong bóng tối của Trung Địa. Dưới ánh đèn mới, Tiên tộc thức dậy lúc [Cuiviénen](../C/Cuiviénen.md), nhưng điều này chỉ được Valar biết sau khi Oromë tình cờ gặp họ.
 
-Trong Cuiviénen Tiên tộc đã phát minh ra [ngôn ngữ](../L/Languages.md) và sống trong hòa bình, nhưng họ cũng bị dày vò bởi Melkor, những kẻ đã cử [những sinh vật xấu xa](../H/Hunter_and_Rider.md) đến quấy phá họ và gieo vào lòng họ nỗi sợ hãi về [Kỵ sĩ](../H/Hunter_and_Rider.md). Người ta nói rằng ông cũng đã chiếm được nhiều Tiên tộc trong [Utumno](../U/Utumno.md) và làm hỏng, chúng tạo ra [Orc](Orcs.md) để chế nhạo Tiên tộc. Đây được coi là hành động xấu xa nhất Melkor.
+Trong Cuiviénen Tiên tộc đã phát minh ra [ngôn ngữ](../L/Languages.md) và sống trong hòa bình, nhưng họ cũng bị dày vò bởi Melkor, những kẻ đã cử [những sinh vật xấu xa](../H/Hunter_and_Rider.md) đến quấy phá họ và gieo vào lòng họ nỗi sợ hãi về [Kỵ sĩ](../H/Hunter_and_Rider.md). Người ta nói rằng ông ta cũng đã chiếm được nhiều Tiên tộc trong [Utumno](../U/Utumno.md) và làm hỏng, chúng tạo ra [Orc](Orcs.md) để chế nhạo Tiên tộc. Đây được coi là hành động xấu xa nhất Melkor.
 
-Trở về từ Trung Địa, Oromë kể cho Valar về Tiên tộc và về những cái bóng đã gây rắc rối cho họ. Sau đó Valar gây chiến với Melkor ở [Trận chiến của các Quyền năng](../B/Battle_of_the_Powers.md), Tiên tộc nghe thấy rung chuyển rất lớn nên lo lắng nhưng không tham gia trận chiến. Sau nhiều trận chiến, Melkor được tìm thấy đang thu mình dưới vực sâu của Utumno, và [Aulë](../A/Aulë.md) đã rèn sợi dây chuyền [Angainor](../A/Angainor.md) để giam giữ ông. Ông bị [xiềng xích](../C/Chaining_of_Melkor.md) bởi Tulkas và bị giam trong [Đại sảnh Mandos](../H/Halls_of_Mandos.md). Tuy nhiên, nhiều người hầu của Melkor đã trốn thoát và ẩn náu trong [Angband](../A/Angband.md), và [Sauron](../S/Sauron.md) cũng nằm trong số này.
+Trở về từ Trung Địa, Oromë kể cho Valar về Tiên tộc và về những cái bóng đã gây rắc rối cho họ. Sau đó Valar gây chiến với Melkor ở [Trận chiến của các Quyền năng](../B/Battle_of_the_Powers.md), Tiên tộc nghe thấy rung chuyển rất lớn nên lo lắng nhưng không tham gia trận chiến. Sau nhiều trận chiến, Melkor được tìm thấy đang thu mình dưới vực sâu của Utumno, và [Aulë](../A/Aulë.md) đã rèn sợi dây chuyền [Angainor](../A/Angainor.md) để giam giữ ông ta. Ông ta bị [xiềng xích](../C/Chaining_of_Melkor.md) bởi Tulkas và bị giam trong [Sảnh của Mandos](../H/Halls_of_Mandos.md). Tuy nhiên, nhiều người hầu của Melkor đã trốn thoát và ẩn náu trong [Angband](../A/Angband.md), và [Sauron](../S/Sauron.md) cũng nằm trong số này.
 
-Valar đã gửi Oromë gọi Tiên tộc tới [Valinor](../V/Valinor.md) và ông chọn [Ingwë](../I/Ingwë.md), [Finwë](../F/Finwë.md) và [Elwë](../E/Elwë.md) làm đại sứ, vì nhiều Tiên tộc không tin tưởng Valar. Ba đại sứ đã nói với Kindred của họ về [Ánh sáng của Valinor](../L/Light_of_Valinor.md), và Tiên tộc bắt đầu cuộc hành trình xuyên qua Trung Địa, cứu một vài người từ chối và trở thành Tiên tộc bóng tối, hay [Avari](../A/Avari.md). Từ đó bắt đầu [Đại Hành Trình](../G/Great_Journey.md) và [Sự phân chia Tiên tộc](../S/Sundering_of_the_Elves.md). Trong khi Tiên tộc vượt qua Trung Địa, nhiều [Teleri](../T/Teleri.md), vật chủ đông đảo nhất, đã bị thất lạc trên đường đi, tạo ra các dân tộc Tiên mới. Chiếc Tiên tộc cuối cùng đã đến được [Beleriand](../B/Beleriand.md) bằng đường biển. Thêm nhiều Teleri ở lại đây vì tình yêu biển hoặc quay trở lại rừng ([Sindar](../S/Sindar.md)). Trên bờ [Đại Hải](../G/Great_Sea.md), Oromë rời Tiên tộc để tìm kiếm lời khuyên của Manwë.
+Valar đã gửi Oromë gọi Tiên tộc tới [Valinor](../V/Valinor.md) và ông ta chọn [Ingwë](../I/Ingwë.md), [Finwë](../F/Finwë.md) và [Elwë](../E/Elwë.md) làm đại sứ, vì nhiều Tiên tộc không tin tưởng Valar. Ba đại sứ đã nói với Kindred của họ về [Ánh sáng của Valinor](../L/Light_of_Valinor.md), và Tiên tộc bắt đầu cuộc hành trình xuyên qua Trung Địa, cứu một vài người từ chối và trở thành Tiên tộc bóng tối, hay [Avari](../A/Avari.md). Từ đó bắt đầu [Đại Hành Trình](../G/Great_Journey.md) và [Sự phân chia Tiên tộc](../S/Sundering_of_the_Elves.md). Trong khi Tiên tộc vượt qua Trung Địa, nhiều [Teleri](../T/Teleri.md), vật chủ đông đảo nhất, đã bị thất lạc trên đường đi, tạo ra các dân tộc Tiên mới. Chiếc Tiên tộc cuối cùng đã đến được [Beleriand](../B/Beleriand.md) bằng đường biển. Thêm nhiều Teleri ở lại đây vì tình yêu biển hoặc quay trở lại rừng ([Sindar](../S/Sindar.md)). Trên bờ [Đại Hải](../G/Great_Sea.md), Oromë rời Tiên tộc để tìm kiếm lời khuyên của Manwë.
 
 ## Sự phân rã của Tiên tộc {#Sundering_of_the_Elves}
 

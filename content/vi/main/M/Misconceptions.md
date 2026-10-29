@@ -16,8 +16,8 @@ images:
   - "Mukarram_Ali_-_Timeline_of_Arda.png"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>dọn dẹp</b> để phù hợp với <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn về chất lượng bài viết</a>.<blockquote class="tg-quote noexcerpt">
-<p>Tôi sẽ không coi đó là sự kết thúc cho đến khi chúng ta dọn dẹp được mớ hỗn độn này.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
+<p>I shan&#39;t call it the end, till we&#39;ve cleared up the mess.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
@@ -27,7 +27,7 @@ images:
 ## Bắt đầu của Kỷ Đệ Nhất {#Beginning_of_the_First_Age}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tiêu đề của phần thứ hai này, <i>The War of the Jewels</i>, là cách diễn đạt mà cha tôi thường sử dụng trong <b>sáu thế kỷ trước</b> của Kỷ Đệ Nhất: lịch sử của Beleriand sau khi Morgoth trở lại Trung Địa và sự xuất hiện của Noldor, cho đến khi nó kết thúc.
+<p>The title of this second part, <i>The War of the Jewels</i>, is an expression that my father often used of the <b>last</b> six centuries of the First Age: the history of Beleriand after the return of Morgoth to Middle-earth and the coming of the Noldor, until its end.
 </p>
 <p class="tg-quote-footer"><cite><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -50,22 +50,22 @@ Sau đây là những quan niệm sai lầm nảy sinh độc lập với sự t
 
 ### Arkenstone là một Silmaril {#The_Arkenstone_was_a_Silmaril}
 
-<dl><dd><a href="../A/Arkenstone.md" title="Arkenstone">Arkenstone</a> là một <a class="mw-redirect" href="../S/Silmaril.md" title="Silmaril">Silmaril</a>, có lẽ là chiếc bị <a href="Maedhros.md" title="Maedhros">Maedhros</a> ném vào hố lửa và tìm được đường đi (về mặt địa lý?) về phía bắc, được <a class="mw-redirect" href="../K/Khazad.md" title="Khazad">Khazad</a> của <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Erebor</a> khám phá lại.</dd></dl>
+<dl><dd>The <a href="../A/Arkenstone.md" title="Arkenstone">Arkenstone</a> was a <a class="mw-redirect" href="../S/Silmaril.md" title="Silmaril">Silmaril</a>, probably the one thrown into a fiery pit by <a href="Maedhros.md" title="Maedhros">Maedhros</a>, and found its way (geographically?) to the north, to be rediscovered by the <a class="mw-redirect" href="../K/Khazad.md" title="Khazad">Khazad</a> of <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Erebor</a>.</dd></dl>
 
 - Nguyên nhân: Có một số lý do dẫn đến giả định này.
     - Một lý do là sự hiện diện của những điểm tương đồng bề ngoài giữa Arkenstone và Silmaril, vì cả hai đều là những viên ngọc sáng tuyệt vời.
     - Hơn nữa, một trong những Silmaril được cho là đã bị ném vào hố lửa. Có thể hiểu Ngọn Núi Cô Đơn là một ngọn núi lửa không hoạt động và Arkenstone như được nói là Silmaril.
     - Lý do cuối cùng là sự hấp dẫn của việc kết nối hai phần của Legendarium theo cách thỏa mãn về mặt cảm xúc, vì tâm điểm của câu chuyện này trở thành tâm điểm của câu chuyện khác.
-        - Trong một câu đố thú vị, bản thân Tolkien có thể đã thấy một số điểm tương đồng giữa hai khái niệm này. Trong bản dịch một phần các văn bản Silmarillion đầu tiên sang tiếng Anh cổ Tolkien đã sử dụng thuật ngữ liên quan về mặt từ nguyên 'Eorclanstanas' ('đá thánh') để dịch 'Silmaril' - gợi ý rằng ông có thể đã mượn tên và các khái niệm khác từ Silmaril để mô tả Arkenstone.
+        - Trong một câu đố thú vị, bản thân Tolkien có thể đã thấy một số điểm tương đồng giữa hai khái niệm này. Trong bản dịch một phần các văn bản Silmarillion đầu tiên sang tiếng Anh cổ Tolkien đã sử dụng thuật ngữ liên quan về mặt từ nguyên 'Eorclanstanas' ('đá thánh') để dịch 'Silmaril' - gợi ý rằng ông ta có thể đã mượn tên và các khái niệm khác từ Silmaril để mô tả Arkenstone.
 
 - Thực tế: Arkenstone không phải là Silmaril. Có một số lý do tại sao lý thuyết này là không chính xác.
     - Đầu tiên, Tolkien viết rằng hai chiếc Silmaril bị mất tích sẽ vẫn bị mất tích cho đến cuối [Arda](../A/Arda.md).<sup id="cite_ref-S|Earendil_23-0" class="reference"><a href="#cite_note-S|Earendil-23">[22]</a></sup> Ông cũng viết trong một lá thư gửi [Dick Plotz](../D/Dick_Plotz.md) vào ngày 12 tháng 1 năm 1966 rằng chỉ có một chiếc Silmaril trên con tàu [Eärendil](../E/Eärendil.md), ngôi sao mai, hiện đã được nhìn thấy và hai chiếc Silmaril còn lại đã bị mất, một chiếc ở dưới đáy biển và một chiếc còn lại dưới lòng đất, cho đến ngày tận thế.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[23]</a></sup> Việc [Người Lùn](../D/Dwarves.md) tìm thấy một trong số họ sẽ mâu thuẫn với điều này.
-    - Thứ hai, Silmaril là một viên đá quý được [Varda](../V/Varda.md) thần thánh sẽ không chịu sự đụng chạm của [người phàm](Mortals.md) hoặc bàn tay độc ác.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[24]</a></sup> Nhiều người phàm đã xử lý Arkenstone mà không phải chịu hậu quả và không phải tất cả đều có ý định tốt. Nó sẽ đốt cháy chúng và có thể đốt cháy cả Smaug nếu nó thực sự là một Silmaril. Chỉ một lần duy nhất một người phàm hoàn toàn được phép chạm vào Silmaril: Beren, khi ông cắt Silmaril từ [Vương miện Sắt](../I/Iron_Crown.md) của Morgoth. Và điều đó không phải là không có cái giá phải trả, vì ông sẽ sớm mất đi bàn tay nắm giữ nó.<sup id="cite_ref-S|Beren_26-0" class="reference"><a href="#cite_note-S|Beren-26">[25]</a></sup>
+    - Thứ hai, Silmaril là một viên đá quý được [Varda](../V/Varda.md) thần thánh sẽ không chịu sự đụng chạm của [người phàm](Mortals.md) hoặc bàn tay độc ác.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[24]</a></sup> Nhiều người phàm đã xử lý Arkenstone mà không phải chịu hậu quả và không phải tất cả đều có ý định tốt. Nó sẽ đốt cháy chúng và có thể đốt cháy cả Smaug nếu nó thực sự là một Silmaril. Chỉ một lần duy nhất một người phàm hoàn toàn được phép chạm vào Silmaril: Beren, khi ông ta cắt Silmaril từ [Vương miện Sắt](../I/Iron_Crown.md) của Morgoth. Và điều đó không phải là không có cái giá phải trả, vì ông sẽ sớm mất đi bàn tay nắm giữ nó.<sup id="cite_ref-S|Beren_26-0" class="reference"><a href="#cite_note-S|Beren-26">[25]</a></sup>
     - Thứ ba, cần lưu ý rằng Maedhros đã ném mình vào hố lửa cùng với Silmaril,<sup id="cite_ref-S|Earendil_23-1" class="reference"><a href="#cite_note-S|Earendil-23">[22]</a></sup> của mình trong khi Arkenstone được tìm thấy sâu trong một ngọn núi. Do đó, trừ khi [Erebor](../L/Lonely_Mountain.md) có nguồn gốc núi lửa, thực tế Arkenstone không thể là Silmaril. Không có bằng chứng nào chứng minh Erebor là núi lửa. Ngoài ra, mặc dù núi lửa là nơi dễ xuất hiện "hố lửa" nhất nhưng người ta không tuyên bố rõ ràng rằng hố nói trên thậm chí còn ở gần núi lửa.
 
 ### Arwen, Đứa con cuối cùng của Tiên tộc {#Arwen,_the_Lastborn_of_the_Elves}
 
-<dl><dd><a href="../A/Arwen.md" title="Arwen">Arwen</a> là Tiên cuối cùng sinh vào Trung Địa.</dd></dl>
+<dl><dd><a href="../A/Arwen.md" title="Arwen">Arwen</a> was the last Elf born in Middle-earth.</dd></dl>
 
 - Lý do: Khái niệm này xuất phát từ việc Tiên em út có ngày sinh được nhắc đến trong [Tale of Years](../A/Appendix_B.md), và có lẽ từ việc quảng bá cho các bộ phim.
 
@@ -73,7 +73,7 @@ Sau đây là những quan niệm sai lầm nảy sinh độc lập với sự t
 
 ### Buckland Hợp nhất với Shire {#Buckland_Merges_With_the_Shire}
 
-<dl><dd>Khi Vua <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> trao <a href="../W/Westmarch.md" title="Westmarch">Westmarch</a> cho Shire ở <a href="../F/Fourth_Age.md" title="Fourth Age">Kỷ Đệ Tứ</a>, <a href="../B/Buckland.md" title="Buckland">Buckland</a>, một mảnh đất độc lập, cũng được trao cho <a href="../T/The_Shire.md" title="The Shire"> Shire</a> và được đổi tên thành "Eastmarch" để phản ánh cái trước.</dd></dl>
+<dl><dd>When King <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> gave the <a href="../W/Westmarch.md" title="Westmarch">Westmarch</a> to the Shire in the <a href="../F/Fourth_Age.md" title="Fourth Age">Fourth Age</a>, <a href="../B/Buckland.md" title="Buckland">Buckland</a>, an independent sliver of land, was also given to <a href="../T/The_Shire.md" title="The Shire">the Shire</a> and was renamed &#34;Eastmarch&#34; to mirror the former.</dd></dl>
 
 - Nguyên nhân: Quan niệm sai lầm này bắt nguồn từ "[Mở đầu](../P/Prologue_Concerning_Hobbits,_and_other_matters.md)" đến *Lord of the Rings* và được lặp lại trong một số sách tham khảo, chẳng hạn như [Robert Foster's](../R/Robert_Foster.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Complete_Guide_to_Middle-earth&amp;action=edit&amp;redlink=1" title="Complete Guide to Middle-earth (page does not exist)"><i>The</i> <i>Hoàn chỉnh</i> <i>Hướng dẫn về Trung Địa</i></a><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[26]</a></sup> và [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) *[The Atlas Of Middle-earth](../T/The_Atlas_of_Middle-earth.md)*.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[27]</a></sup>
 
@@ -81,7 +81,7 @@ Sau đây là những quan niệm sai lầm nảy sinh độc lập với sự t
 
 ### Buckland Đổi tên thành Eastmarch {#Buckland_Renamed_to_Eastmarch}
 
-<dl><dd>Đôi khi Buckland được đặt tên là "Eastmarch" trong nhiều ấn phẩm khác nhau.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[30]</a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[31]</a></sup></dd></dl>
+<dl><dd>Sometimes Buckland is given the name of &#34;Eastmarch&#34; in various publications.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[30]</a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[31]</a></sup></dd></dl>
 
 - Nguyên nhân: Hiện tượng này có thể xuất phát từ tên "Westmarch" mà Tolkien đặt cho phần Shire được thêm bởi Vua [Elessar](../A/Aragorn.md) trong Kỷ Đệ Tứ.
 
@@ -89,15 +89,15 @@ Sau đây là những quan niệm sai lầm nảy sinh độc lập với sự t
 
 ### Déagol/Sméagol Mối quan hệ {#Déagol/Sméagol_Relationship}
 
-<dl><dd><a href="../D/Déagol.md" title="Déagol">Déagol</a> là anh họ của <a href="../G/Gollum.md" title="Gollum">Sméagol</a>.</dd></dl>
+<dl><dd><a href="../D/Déagol.md" title="Déagol">Déagol</a> is <a href="../G/Gollum.md" title="Gollum">Sméagol&#39;s</a> cousin.</dd></dl>
 
 - Nguyên nhân: Quan niệm sai lầm này có lẽ bắt nguồn từ *The Complete Guide to Middle-earth* của Robert Foster và *[Tolkien: The Illustrated Encyclopedia](../T/Tolkien%253A_The_Illustrated_Encyclopedia.md)* của [David Day](../D/David_Day.md). (Xem: <a class="external text" href="http://greenbooks.theonering.net/questions/files/020101.html" rel="noreferrer noopener" target="_blank">Hỏi đáp Sách Xanh</a>)
 
-- Thực tế: Tolkien chỉ gọi ông là *friend* của Sméagol trong *The Lord of the Rings*, mặc dù trong *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)* ông viết rằng Déagol "rõ ràng là họ hàng (chắc chắn là tất cả các thành viên của cộng đồng nhỏ)" của Sméagol.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[32]</a></sup>
+- Thực tế: Tolkien chỉ gọi ông ta là *friend* của Sméagol trong *The Lord of the Rings*, mặc dù trong *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)* ông ta viết rằng Déagol "rõ ràng là họ hàng (chắc chắn là tất cả các thành viên của cộng đồng nhỏ)" của Sméagol.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[32]</a></sup>
 
 ### Sự suy sụp {#Dorwinion}
 
-<dl><dd><a href="../D/Dorwinion.md" title="Dorwinion">Dorwinion</a> chỉ được đề cập thoáng qua cho đến khi nó xuất hiện trên <a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a>' <i><a href="../A/A_Map_of_Middle-earth.md" title="A Map of Middle-earth">A Map of Middle-earth</a></i> (<a href="../_/1969.md" title="1969">1969</a>), nơi nó được đặt ở bờ phía tây của <a href="../S/Sea_of_Rhûn.md" title="Sea of Rhûn">Biển Rhûn</a>. Theo niềm tin phổ biến, vị trí của nó không phải do <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a> quyết định mà do Baynes quyết định một cách ngẫu nhiên.</dd></dl>
+<dl><dd><a href="../D/Dorwinion.md" title="Dorwinion">Dorwinion</a> was only mentioned in passing until it appeared on <a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a>&#39;  <i><a href="../A/A_Map_of_Middle-earth.md" title="A Map of Middle-earth">A Map of Middle-earth</a></i> (<a href="../_/1969.md" title="1969">1969</a>), where it was placed on the western shore of the <a href="../S/Sea_of_Rhûn.md" title="Sea of Rhûn">Sea of Rhûn</a>. According to popular belief, its location was not decided by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a>, but by Baynes at random.</dd></dl>
 
 - Nguyên nhân: Như [Michael Martinez](Michael_Martinez.md) lưu ý, đây là một quan niệm sai lầm được lưu truyền như một "huyền thoại đô thị" trên một số trang web.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[33]</a></sup> Như [Christopher Tolkien](../C/Christopher_Tolkien.md) đã nhận xét:
 
@@ -107,29 +107,29 @@ Dorwinion được đánh dấu trên bản đồ trang trí bởi Pauline Bayne
 
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i>, &#34;<a href="../T/The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">The Lay of the Children of Húrin</a>&#34;</cite></p>
 
-- Thực tế: Tolkien chính ông quyết định vị trí cuối cùng của Dorwinion chứ không phải Baynes. Bằng chứng cho thấy Tolkien đã làm việc với Baynes trên bản đồ có thể được tìm thấy trong bản đồ phiên âm được phát hiện trong [2015](../_/2015.md).<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[34]</a></sup> Trên bản đồ nói trên, tên của Dorwinion được viết bởi Tolkien chứ không phải Baynes.
+- Thực tế: Tolkien chính ông ta quyết định vị trí cuối cùng của Dorwinion chứ không phải Baynes. Bằng chứng cho thấy Tolkien đã làm việc với Baynes trên bản đồ có thể được tìm thấy trong bản đồ phiên âm được phát hiện trong [2015](../_/2015.md).<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[34]</a></sup> Trên bản đồ nói trên, tên của Dorwinion được viết bởi Tolkien chứ không phải Baynes.
 
-<h3><span id="Gil-galad.27s_father"></span><span class="mw-headline" id="Gil-galad&#39;s_father">bố của Gil-galad</span></h3>
+<h3><span id="Gil-galad.27s_father"></span><span class="mw-headline" id="Gil-galad&#39;s_father">Gil-galad&#39;s father</span></h3>
 
-<dl><dd><a href="../F/Fingon.md" title="Fingon">Fingon</a> là cha của <a href="../G/Gil-galad.md" title="Gil-galad">Gil-galad</a></dd></dl>
+<dl><dd><a href="../F/Fingon.md" title="Fingon">Fingon</a> was <a href="../G/Gil-galad.md" title="Gil-galad">Gil-galad&#39;s</a> father</dd></dl>
 
 - Lý do: Thực ra đây không hẳn là một quan niệm sai lầm mà là lỗi biên tập của Christopher Tolkien. JRR Tolkien quả thực đã từng coi Gil-galad là con trai của Fingon., như trong *[The Grey Annals](../T/The_Grey_Annals.md)*, và nó cũng được đề cập như vậy trong *[The Silmarillion](../T/The_Silmarillion.md)*.
-- Thực tế: [Christopher Tolkien](../C/Christopher_Tolkien.md) thừa nhận đó là một lựa chọn vội vàng vì trong kịch bản cuối cùng của cha anh *[Orodreth](../O/Orodreth.md)* là cha của Gil-galad và Fingon không có vợ: ngay cả trong *The Silmarillion*, Fingon đã được kế vị bởi [Turgon](../T/Turgon.md) với tư cách là [Đại Vương Noldor](../H/High_King_of_the_Noldor.md) thay vì "con trai" của ông.
+- Thực tế: [Christopher Tolkien](../C/Christopher_Tolkien.md) thừa nhận đó là một lựa chọn vội vàng vì trong kịch bản cuối cùng của cha anh *[Orodreth](../O/Orodreth.md)* là cha của Gil-galad và Fingon không có vợ: ngay cả trong *The Silmarillion*, Fingon đã được kế vị bởi [Turgon](../T/Turgon.md) với tư cách là [Đại Vương của Noldor](../H/High_King_of_the_Noldor.md) thay vì "con trai" của ông.
 
 ### Gwaihir là Đại bàng {#Gwaihir_is_the_Great_Eagle}
 
-<dl><dd><a href="../L/Lord_of_the_Eagles.md" title="Lord of the Eagles">Chúa tể của Đại Bàng</a> (không được đặt tên) từ <i>The Hobbit</i> được xác định trong <i>Lord of the Rings</i> là <a href="../G/Gwaihir.md" title="Gwaihir">Gwaihir</a>, vì họ là cùng một người.</dd></dl>
+<dl><dd>The (unnamed) <a href="../L/Lord_of_the_Eagles.md" title="Lord of the Eagles">Lord of the Eagles</a> from <i>The Hobbit</i> is identified in the <i>Lord of the Rings</i> as <a href="../G/Gwaihir.md" title="Gwaihir">Gwaihir</a>, as they are the same person.</dd></dl>
 
 - Nguyên nhân: Cách giải thích này được đưa ra bởi Robert Foster<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[35]</a></sup> và có lẽ bắt nguồn từ ý nghĩa tên của Gwaihir, tạm dịch là "Windlord".
-- Thực tế: Tolkien chưa bao giờ tuyên bố rằng Gwaihir là [Chúa tể Đại Bàng](../L/Lord_of_the_Eagles.md) và [Vua của Tất cả các loài chim](../K/King_of_All_Birds.md). Hơn nữa, có một số vấn đề khi kết hợp hai ký tự:
+- Thực tế: Tolkien chưa bao giờ tuyên bố rằng Gwaihir là [Chúa tể của Đại Bàng](../L/Lord_of_the_Eagles.md) và [Vua của Tất cả các loài chim](../K/King_of_All_Birds.md). Hơn nữa, có một số vấn đề khi kết hợp hai ký tự:
     - Con [Đại bàng](../G/Great_Eagle.md) của *The Hobbit* được cho là đội một chiếc vương miện vàng<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[36]</a></sup> sau khi kết thúc cuốn sách, nhưng Gwaihir lại không đội một chiếc vương miện nào.
-    - Gần cuối *Lord of the Rings* Gandalf có đề cập rằng Gwaihir đã mang ông *twice* <sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[37]</a></sup> (một lần từ [Orthanc](../O/Orthanc.md) và một lần từ [Celebdil](../C/Celebdil.md)); nếu Gwaihir là Đại bàng lớn, điều đó sẽ xảy ra ít nhất *three* lần.
+    - Gần cuối *Lord of the Rings* Gandalf có đề cập rằng Gwaihir đã mang ông ta *twice* <sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[37]</a></sup> (một lần từ [Orthanc](../O/Orthanc.md) và một lần từ [Celebdil](../C/Celebdil.md)); nếu Gwaihir là Đại bàng lớn, điều đó sẽ xảy ra ít nhất *three* lần.
 
 ### Ingwë, Finwë, Elwë và/hoặc Círdan thức dậy lúc Cuiviénen {#Ingwë,_Finwë,_Elwë,_and/or_Círdan_awoke_at_Cuiviénen}
 
-<dl><dd><a href="../I/Ingwë.md" title="Ingwë">Ingwë</a>, <a href="../F/Finwë.md" title="Finwë">Finwë</a> và <a class="mw-redirect" href="../E/Elwë.md" title="Elwë">Elwë</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Three_Ambassadors&amp;action=edit&amp;redlink=1" title="Three Ambassadors (page does not exist)">Ba Đại sứ</a> của Tiên tộc tới <a href="../A/Aman.md" title="Aman">Aman</a>, và sau này là các Vua của dân tộc họ, nằm trong số 144 <a href="../E/Eru-begotten.md" title="Eru-begotten">Eru được sinh ra</a><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[38]</a></sup> Tiên tộc đầu tiên <a href="../A/Awakening_of_the_Elves.md" title="Awakening of the Elves">thức tỉnh</a> lúc Cuiviénen. <a href="../C/Círdan.md" title="Círdan">Círdan</a> Thợ đóng tàu đôi khi cũng được cho là nằm trong số đó.</dd></dl>
+<dl><dd><a href="../I/Ingwë.md" title="Ingwë">Ingwë</a>, <a href="../F/Finwë.md" title="Finwë">Finwë</a> and <a class="mw-redirect" href="../E/Elwë.md" title="Elwë">Elwë</a>, the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Three_Ambassadors&amp;action=edit&amp;redlink=1" title="Three Ambassadors (page does not exist)">Three Ambassadors</a> of the Elves to <a href="../A/Aman.md" title="Aman">Aman</a>, and later Kings of their people, were among the first 144 <a href="../E/Eru-begotten.md" title="Eru-begotten">Eru-begotten</a><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[38]</a></sup> Elves who <a href="../A/Awakening_of_the_Elves.md" title="Awakening of the Elves">awoke</a> at Cuiviénen. <a href="../C/Círdan.md" title="Círdan">Círdan</a> the Shipwright is sometimes thought to be among that number as well.</dd></dl>
 
-- Vì: Ba Sứ giả nằm trong số Tiên tộc đầu tiên có tên trong *[The Silmarillion](../T/The_Silmarillion.md)*. Círdan cho đến nay là Tiên cũ nhất xuất hiện trong *The Lord of the Rings*. Thingol (Elwë) đưa ra một tham chiếu mơ hồ về nguồn gốc của ông tại Cuiviénen khi đối đầu với Người Lùn về [Nauglamir](../N/Nauglamir.md):
+- Vì: Ba Đại sứ nằm trong số Tiên tộc đầu tiên có tên trong *[The Silmarillion](../T/The_Silmarillion.md)*. Círdan cho đến nay là Tiên cũ nhất xuất hiện trong *The Lord of the Rings*. Thingol (Elwë) đưa ra một tham chiếu mơ hồ về nguồn gốc của ông ta tại Cuiviénen khi đối đầu với Người Lùn về [Nauglamir](../N/Nauglamir.md):
 
 <dl><dd><blockquote class="tg-quote noexcerpt"></blockquote></dd></dl>
 
@@ -147,21 +147,21 @@ Vợ của         - Finwë [Míriel](Míriel.md) mang tên mẹ là "Serindë",
         - Nếu [Indis](../I/Indis.md) là em gái của Ingwë, như trong gia phả được đưa ra trong *[Later versions of the Story of Finwë and Míriel](Morgoth's_Ring.md)*, thì cả hai đều không thể được sinh ra Eru, vì Indis là vợ thứ hai của Finwë.
         - Tuy nhiên, mối quan hệ của Indis' với Ingwë không nhất quán trong tất cả các tài liệu. Gia phả ghi trong *[The Shibboleth of Fëanor](../T/The_Shibboleth_of_Fëanor.md)* ghi rằng Indis là cháu gái của Ingwë thông qua người mẹ giấu tên của bà, chị gái của ông. Trong trường hợp này, đó là *possible* đối với Ingwë và em gái giấu tên của ông đã được Eru sinh ra và là anh em ruột "trong tâm trí của Ilúvatar", nhưng tình huống này sẽ không có tiền lệ và duy nhất trong số tất cả Tiên tộc đã biết.
     - **Círdan**
-        - Círdan không bao giờ được cho là có vợ/chồng nên ông không thể là một trong những người được sinh ra Eru.
+        - Círdan không bao giờ được cho là có vợ/chồng nên ông ta không thể là một trong những người được sinh ra Eru.
         - Círdan được cho là có quan hệ họ hàng với Elwë trong *The Silmarillion*. Chỉ có hai cách để Elwë, người mà chúng ta biết là đã được sinh ra (xem ở trên), có quan hệ họ hàng với Eru-được sinh ra Tiên:
         - Đầu tiên, để Elwë được dẫn xuống trực tiếp từ Círdan. Chúng ta có thể loại trừ điều này vì Círdan không bao giờ được cho là có vợ/chồng chứ đừng nói đến con cái.
         - Thứ hai, để Elwë là hậu duệ của anh chị em "trong tâm trí Ilúvatar" của Círdan. Điều này đòi hỏi phải giả định nhiều sự kiện không có bằng chứng, bao gồm cả vợ/chồng đối với Círdan.
 
 ### Trung Địa là thế giới ngầm {#Middle-earth_is_an_underground_world}
 
-<dl><dd>Trung Địa là một thế giới tồn tại bên trong Trái đất, tương tự như khái niệm "Trái đất rỗng". Những câu chuyện của Tolkien là một dạng <a class="extiw" href="http://en.wikipedia.org/wiki/Subterranean_fiction" title="wikipedia:Subterranean fiction">tiểu thuyết dưới lòng đất</a> khi chúng diễn ra dưới lòng đất, tại trung tâm của Trái đất rỗng.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[39]</a></sup></dd></dl>
+<dl><dd>Middle-earth is a world that exists inside the Earth, similar to the concept of &#34;Hollow-Earth&#34;. Tolkien&#39;s stories are a kind of <a class="extiw" href="http://en.wikipedia.org/wiki/Subterranean_fiction" title="wikipedia:Subterranean fiction">Subterranean fiction</a> as they happen underground, at the center of the Hollow Earth.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[39]</a></sup></dd></dl>
 
 - Nguyên nhân: Quan niệm sai lầm chủ yếu lan truyền trong cộng đồng khán giả Hy Lạp và được giải thích bằng bản dịch tiếng Hy Lạp "<a class="external text" href="http://el.wikipedia.org/wiki/%CE%9C%CE%AD%CF%83%CE%B7_%CE%93%CE%B7" rel="noreferrer noopener" target="_blank">Μέση-γη</a>". Mặc dù bản dịch chính xác nhưng gốc "μέσ-" cũng có thể được người đọc thỉnh thoảng hiểu là *inside*. Khái niệm này chủ yếu được phổ biến bởi báo chí Hy Lạp, đặc biệt liên quan đến những điều huyền bí hoặc huyền bí. Những nguồn đó để ngỏ khả năng Tolkien sở hữu một số kiến ​​thức bí truyền hoặc huyền bí, trong khi [chủng tộc](../R/Races.md) tưởng tượng của Trung Địa được xác định là những sinh vật được cho là cư trú ở <a class="extiw" href="http://en.wikipedia.org/wiki/Agartha" title="wikipedia:Agartha">Agartha</a>.
 - Thực tế: Trong *Silmarillion* có ghi rõ Trái đất được gọi là *Arda* trôi nổi trong không gian với các lớp khí quyển như [Ilmen](../I/Ilmen.md), [Vaiya](../V/Vaiya.md) và [Vista](../V/Vista.md); và Trung Địa là một lục địa.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[40]</a></sup> Thuật ngữ Trung Địa đề cập đến "trái đất của chúng ta" và được giải thích về mặt địa lý là "được bao quanh bởi đại dương"<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[41]</a></sup> và không nằm bên trong một cái gì đó.
 
 ### Không có tiền {#No_Money}
 
-<dl><dd>Người ta cho rằng Trung Địa là một điều không tưởng, không có nền kinh tế dựa vào tài chính.</dd></dl>
+<dl><dd>It is thought that Middle-earth is a utopia with no finance based economy.</dd></dl>
 
 - Nguyên nhân: Quan niệm sai lầm này bắt nguồn từ rất ít lần bất kỳ giao dịch hoặc từ "[tiền](Money.md)" nào được đề cập trong *[The Hobbit](../T/The_Hobbit.md)* hoặc *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*; hầu hết đề cập đến của cải đều mơ hồ hoặc ở dạng [vàng](../G/Gold.md) hoặc kho báu. Quan niệm sai lầm cũng được đề cập như vậy bởi [Robert Foster](../R/Robert_Foster.md).<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[42]</a></sup>
 - Thực tế: Trong [Bree](../B/Bree.md), đồng xu bạc được sử dụng như một dạng tiền tệ.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[43]</a></sup> Hơn nữa, trong dự thảo "[Phụ lục về ngôn ngữ](../T/The_Appendix_on_Languages.md)" xuất bản trong *[The Peoples of Middle-earth](../T/The_Peoples_of_Middle-earth.md)* một số chi tiết về đồng xu [Gondor](../G/Gondor.md) đã được đưa ra.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[44]</a></sup>
@@ -174,7 +174,7 @@ Vợ của         - Finwë [Míriel](Míriel.md) mang tên mẹ là "Serindë",
     - Ngoài ra, một số phiên bản chuyển thể, chẳng hạn như *[Lord of the Rings](<../T/The_Lord_of_the_Rings_(1978_film).md>)* của [Ralph Bakshi](../R/Ralph_Bakshi.md) và *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* của [Peter Jackson](../P/Peter_Jackson.md) thể hiện quan điểm tương tự: trong cả hai phim, đoạn mở đầu cho thấy rằng Tiên thợ rèn đã tạo ra những chiếc Nhẫn **cho** Tiên tộc, Người Lùn và Con Người, trước khi [Sauron](../S/Sauron.md) gây chiến với nắm bắt chúng. Hơn nữa, trong bản chuyển thể của Jackson, mỗi nhóm có một phong cách hình ảnh riêng biệt (ví dụ: Seven có thiết kế "Người Lùn" rõ ràng).
 - Thực tế: Không có chỗ nào trong sách của Tolkien đề cập rằng Bảy và Chín khác nhau cũng như không được tạo ra cho Người Lùn và Con Người. Mọi thứ đều cho thấy những chiếc Nhẫn được sản xuất hàng loạt và được Tiên tộc thiết kế cho chính họ. Ngoài ra, Silmarillion nói rằng chính Sauron là người phân phối Bảy và Chín chứ không phải Tiên tộc. Chiếc Nhẫn mà Celebrimbor trao cho Durin là một ngoại lệ đáng chú ý, là chiếc duy nhất trong số Bảy hoặc Chín được cố ý dành cho một người không phảiTiên. Chỉ Ba Chiếc Nhẫn được tạo riêng.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[46]</a></sup>
 
-<h3><span id="Tom_Bombadil.27s_house_in_the_Old_Forest"></span><span class="mw-headline" id="Tom_Bombadil&#39;s_house_in_the_Old_Forest">Nhà của Tom Bombadil ở Khu Rừng Cổ</span></h3>
+<h3><span id="Tom_Bombadil.27s_house_in_the_Old_Forest"></span><span class="mw-headline" id="Tom_Bombadil&#39;s_house_in_the_Old_Forest">Tom Bombadil&#39;s house in the Old Forest</span></h3>
 
 Nhiều cuốn sách<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[47]</a></sup><sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[48]</a></sup><sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[49]</a></sup><sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[50]</a></sup> và các trang Web<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[51]</a></sup><sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[52]</a></sup><sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[53]</a></sup> đã nói rằng [Tom Bombadil](../T/Tom_Bombadil.md) sống trong [Khu Rừng Cổ](../O/Old_Forest.md).
 
@@ -188,7 +188,7 @@ Sau đây là những quan niệm sai lầm nảy sinh chủ yếu do việc chu
 
 ### Nam Tiên tộc tóc ngắn {#Male_Elves_have_short_hair}
 
-<dl><dd>Nữ Tiên tộc có mái tóc Dài và Nam Tiên tộc có mái tóc ngắn hơn.</dd></dl>
+<dl><dd>Female Elves have Long hair and Male Elves have shorter hair.</dd></dl>
 
 - Nguyên nhân: Yêu tinh được miêu tả trong các phiên bản chuyển thể bao gồm cả phim của Peter Jackson được miêu tả là có mái tóc dài. Tuy nhiên, đã có một số cuộc tranh luận nổ ra về việc liệu vai diễn của Peter Jackson có trung thành với Tolkien hay cách giải thích của chính ông hay không. Một số nghệ sĩ cũng đã vẽ chân dung Yêu tinh với mái tóc ngắn, làm tăng thêm sự nhầm lẫn về việc Yêu tinh có mái tóc dài hay ngắn.
 - Thực tế: Mặc dù chưa có sự rõ ràng về việc tất cả Yêu tinh đều có mái tóc dài nhưng có rất nhiều câu trích dẫn của Tolkien ngụ ý rằng mái tóc dài của cả Yêu tinh nam và nữ đều là đặc điểm riêng của Yêu tinh. Có những ví dụ rõ ràng về một số Yêu tinh được đặt tên theo quy luật có mái tóc dài. Cả [Elwë](../E/Elwë.md) và [Olwë](../O/Olwë.md) đều có mái tóc dài, cũng như [Fingon](../F/Fingon.md).<sup id="cite_ref-Shibboleth_56-0" class="reference"><a href="#cite_note-Shibboleth-56">[55]</a></sup> [Celegorm](../C/Celegorm.md) cũng được mô tả là có mái tóc dài, trong Quenta Silmarillion, mái tóc của ông được mô tả là "mái tóc dài màu vàng",<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[56]</a></sup> một cách rõ ràng, mặc dù tóc của ông không được đề cập trong *[Of Beren and Lúthien](../O/Of_Beren_and_Lúthien.md)*.<sup id="cite_ref-S|Beren_26-1" class="reference"><a href="#cite_note-S|Beren-26">[25]</a></sup> Tuy nhiên, có một số bằng chứng cho thấy Yêu tinh có mái tóc dài. Các [Teleri](../T/Teleri.md) Yêu tinh được Tolkien mô tả rõ ràng là có mái tóc dài, "*Nhưng hầu hết họ không có thói quen chèo thuyền trên những con tàu nhanh nhẹn trên vùng biển của Vịnh Elvenhome, hoặc đi trên những con sóng trên bờ với mái tóc dài lấp lánh như bọt trong ánh sáng bên kia ngọn đồi*." Quenta Silmarillion sau này phần 1. Lịch sử Trung Địa tập 10.<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[57]</a></sup>
@@ -197,35 +197,35 @@ Sau đây là những quan niệm sai lầm nảy sinh chủ yếu do việc chu
 
 ### Cái Con Mắt của Sauron {#The_Eye_of_Sauron}
 
-<dl><dd>Sau khi bị tách khỏi <a href="../T/The_One_Ring.md" title="The One Ring">Nhẫn Chúa</a>, Sauron mất đi hình dạng con người và biến thành một con mắt khổng lồ.</dd></dl>
+<dl><dd>After being separated from the <a href="../T/The_One_Ring.md" title="The One Ring">One Ring</a>, Sauron lost his humanoid shape and turned into a great eye.</dd></dl>
 
-- Nguyên nhân: Sauron được miêu tả là một con mắt khổng lồ được bao bọc trong ngọn lửa trong các bộ phim do Peter Jackson thực hiện. Ông được miêu tả tương tự trong các phiên bản chuyển thể khác như trò chơi [2002](../_/2002.md) <i><a class="external text" href="https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)" rel="noreferrer noopener" target="_blank">The Lord of the Rings: The Fellowship of the Ring</a></i> dành cho Playstation 2 và phim [1980](../_/1980.md) [*The Return of the King*](<../T/The_Return_of_the_King_(1980_film).md>) của Rankin-Bass.
-- Thực tế: Trong Thư 246 Tolkien giải thích rằng "Sauron có hình dạng giống người, to lớn nhưng không khổng lồ." Trong *[The Two Towers](../T/The_Two_Towers.md)* Gollum nhận xét rằng Sauron chỉ có bốn ngón tay trên Bàn tay đen, ngụ ý rằng Sauron đã mang hình dạng con người và bằng cách nào đó vẫn mang những vết thương mà ông phải chịu trong Cuộc chiến của Liên minh Cuối cùng.
+- Nguyên nhân: Sauron được miêu tả là một con mắt khổng lồ được bao bọc trong ngọn lửa trong các bộ phim do Peter Jackson thực hiện. Ông ta được miêu tả tương tự trong các phiên bản chuyển thể khác như trò chơi [2002](../_/2002.md) <i><a class="external text" href="https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)" rel="noreferrer noopener" target="_blank">The Lord of the Rings: The Fellowship of the Ring</a></i> dành cho Playstation 2 và phim [1980](../_/1980.md) [*The Return of the King*](<../T/The_Return_of_the_King_(1980_film).md>) của Rankin-Bass.
+- Thực tế: Trong Thư 246 Tolkien giải thích rằng "Sauron có hình dạng giống người, to lớn nhưng không khổng lồ." Trong *[The Two Towers](../T/The_Two_Towers.md)* Gollum nhận xét rằng Sauron chỉ có bốn ngón tay trên Bàn tay đen, ngụ ý rằng Sauron đã mang hình dạng con người và bằng cách nào đó vẫn mang những vết thương mà ông ta phải chịu trong Cuộc chiến của Liên minh Cuối cùng.
 
-<h3><span id="Gollum.27s_age"></span><span class="mw-headline" id="Gollum&#39;s_age">tuổi của Gollum</span></h3>
+<h3><span id="Gollum.27s_age"></span><span class="mw-headline" id="Gollum&#39;s_age">Gollum&#39;s age</span></h3>
 
-<dl><dd>Sméagol sinh vào năm <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2430.md" title="Third Age 2430">2430</a> của Kỷ Đệ Tam, được tìm thấy Nhẫn Chúa vào sinh nhật lần thứ 33 của mình tại <a href="../T/Third_Age_2463.md" title="Third Age 2463">2463</a>, và do đó ông qua đời vào năm T.A. <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a>, hưởng thọ 589 tuổi.</dd></dl>
+<dl><dd>Sméagol was born in the year <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2430.md" title="Third Age 2430">2430</a> of the Third Age, found the One Ring on his 33rd birthday in <a href="../T/Third_Age_2463.md" title="Third Age 2463">2463</a>, and thus was 589 years old when he died in T.A. <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a>.</dd></dl>
 
-- Vì: 33 là độ tuổi Shire Hobbit chính thức trở thành người lớn. Sméagol "tìm thấy" chiếc Nhẫn Chúa vào ngày sinh nhật của mình. Rõ ràng các nhà làm phim đã quyết định rằng ngày Sméagol tìm thấy Nhẫn Chúa là ngày sinh nhật thứ 33 của ông.
-- Thực tế: Sméagol không phải là Shire Hobbit, mà là [Stoor](../S/Stoors.md), và những nơi này có phong tục khác nhau - Tolkien nói rằng Stoors của [Rhovanion](../R/Rhovanion.md) đã nhận và không tặng quà vào ngày sinh nhật của họ (trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)* và *[Letters](../T/The_Letters_of_J.R.R._Tolkien.md)*); và [T.A.](../T/Third_Age.md) [2463](../T/Third_Age_2463.md) vì ngày phát hiện ra Nhẫn Chúa chỉ là ngày gần đúng chứ không phải ngày chính xác. Vì vậy, không có chỉ dẫn chính xác về tuổi của Gollum trong sách của Tolkien. <a class="external text" href="http://www.theonering.net/movie/char/smeagol.html" rel="noreferrer noopener" target="_blank">Xem http://www.theonering.net/movie/char/smeagol.html</a>
+- Vì: 33 là độ tuổi Shire Hobbit chính thức trở thành người lớn. Sméagol "tìm thấy" chiếc Nhẫn Chúa vào ngày sinh nhật của mình. Rõ ràng các nhà làm phim đã quyết định rằng ngày Sméagol tìm thấy Chiếc nhẫn Chúa là ngày sinh nhật thứ 33 của ông.
+- Thực tế: Sméagol không phải là Shire Hobbit, mà là [Stoor](../S/Stoors.md), và những nơi này có phong tục khác nhau - Tolkien nói rằng Stoors của [Rhovanion](../R/Rhovanion.md) đã nhận và không tặng quà vào ngày sinh nhật của họ (trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)* và *[Letters](../T/The_Letters_of_J.R.R._Tolkien.md)*); và [T.A.](../T/Third_Age.md) [2463](../T/Third_Age_2463.md) vì ngày phát hiện ra Chiếc nhẫn Chúa chỉ là ngày gần đúng chứ không phải ngày chính xác. Vì vậy, không có chỉ dẫn chính xác về tuổi của Gollum trong sách của Tolkien. <a class="external text" href="http://www.theonering.net/movie/char/smeagol.html" rel="noreferrer noopener" target="_blank">Xem http://www.theonering.net/movie/char/smeagol.html</a>
 
 ### Hobbit feet {#Hobbit_feet}
 
-<dl><dd>Hobbit có bàn chân tương đối to, nhiều lông.</dd></dl>
+<dl><dd>Hobbits have comparatively large, hairy feet.</dd></dl>
 
 - Lý do: Hobbit bàn chân được miêu tả là lớn và có nhiều bản chuyển thể, chẳng hạn như hình minh họa của [Anh em Hildebrandt](../B/Brothers_Hildebrandt.md) và các bộ phim, trong đó bàn chân thực sự là chân giả.
 - Thực tế: Tolkien viết: "bàn chân của họ có lòng bàn chân bằng da cứng và được phủ một lớp lông dày uốn cong, giống như tóc trên đầu họ".<sup id="cite_ref-62" class="reference"><a href="#cite_note-62">[61]</a></sup> Tuy nhiên, Tolkien không đề cập đến việc kích thước bàn chân của họ lớn một cách không cân đối.
 
-<h3><span id="Legolas.27_age"></span><span class="mw-headline" id="Legolas&#39;_age">Legolas' tuổi</span></h3>
+<h3><span id="Legolas.27_age"></span><span class="mw-headline" id="Legolas&#39;_age">Legolas&#39; age</span></h3>
 
-<dl><dd>Legolas được 2931 tuổi vào năm <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a> và do đó được sinh ra vào năm <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_87.md" title="Third Age 87">87</a>.</dd></dl>
+<dl><dd>Legolas is 2931 years old during the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>, and thus was born in <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_87.md" title="Third Age 87">87</a>.</dd></dl>
 
 - Lý do: Thông tin này cũng xuất phát từ việc quảng bá phim và chưa bao giờ được nêu trong phim hay sách. Có thể xuất phát từ việc *Aragorn* được sinh ra vào năm *year* [T.A.](../T/Third_Age.md) [2931](../T/Third_Age_2931.md). Ngày [T.A.](../T/Third_Age.md) [87](../T/Third_Age_87.md) sinh của Legolas phù hợp với một giả thuyết phổ biến khác của người hâm mộ, đó là Legolas được sinh ra trong thời kỳ hòa bình đầu Kỷ Đệ Tam.
 - Thực tế: Tolkien chưa bao giờ cung cấp ngày sinh cho Legolas.
 
-<h3><span id="Legolas.27_hair_color"></span><span class="mw-headline" id="Legolas&#39;_hair_color">Legolas' màu tóc</span></h3>
+<h3><span id="Legolas.27_hair_color"></span><span class="mw-headline" id="Legolas&#39;_hair_color">Legolas&#39; hair color</span></h3>
 
-<dl><dd>Legolas tóc vàng.</dd></dl>
+<dl><dd>Legolas is blond.</dd></dl>
 
 - Nguyên nhân: Đây là truyền thống hình ảnh có từ các tác phẩm của [Brothers Hildebrandt](../B/Brothers_Hildebrandt.md) vào những năm 1970 và tiếp nối trong cả phim [hoạt hình](<../T/The_Lord_of_the_Rings_(1978_film).md>) và [live-action](<../T/The_Lord_of_the_Rings_(film_series).md>).
 
@@ -235,7 +235,7 @@ Sau đây là những quan niệm sai lầm nảy sinh chủ yếu do việc chu
 
 <dl><dd>The names of all nine <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> are known: Er-Murazor (the <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> of <a href="../A/Angmar.md" title="Angmar">Angmar</a>), <a href="../K/Khamûl.md" title="Khamûl">Khamûl</a>, Dwar of Waw, Ji Indur Dawndeath, Akhorahil, Hoarmurath, Adunaphel the Quiet (female), Ren the Unclean and Uvatha the Horseman.</dd></dl>
 
-- Lý do: Tên của tám Nazgûl không phải Khamûl mà một số người hâm mộ cho rằng được đặt bởi Tolkien thực ra được đặt ra cho trò chơi [Middle-earth Role Playing](Middle-earth_Role_Playing.md) (MERP) do [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) (ICE) xuất bản.
+- Lý do: Tên của tám Nazgûl không phải Khamûl mà một số người hâm mộ cho rằng được đặt bởi Tolkien thực ra được đặt ra cho trò chơi [Middle-earth Role Playing](Middle-earth_Role_Playing.md) (MERP) do [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) (ICE) xuất bản.
 
 - Thực tế: Tolkien chỉ ghi tên của một Nazgûl: Khamûl, [Kỵ Sĩ Đen](../N/Nazgûl.md) người suýt bắt được [Hobbit](../H/Hobbits.md) tại [Bến phà Bucklebury](../B/Bucklebury_Ferry.md).<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">[62]</a></sup> Mặc dù tên [Vua Phù thủy](../W/Witch-king.md) của [Angmar](../A/Angmar.md) không phải do Tolkien đặt, nhưng một số người hâm mộ gọi ông là "Angmar".
 
@@ -243,36 +243,36 @@ Sau đây là những quan niệm sai lầm nảy sinh chủ yếu do việc chu
 
 - Thực tế: Tolkien luôn gọi Chín người là "Con Người" và "các vị vua" trong suốt các văn bản của mình, nhưng có đủ sự mơ hồ trong ngữ cảnh để có thể tranh luận về quan điểm này.
 
-<dl><dd>"Con Người" là từ mô tả loài người bao gồm cả phụ nữ. "Các vị vua" được sử dụng trong Ring-verse bao gồm các nữ hoàng: "ba chiếc nhẫn dành cho các vị vua yêu tinh," dường như bao gồm cả Galadriel.</dd></dl>
+<dl><dd>&#34;Men&#34; as a descriptor of the human race includes women. &#34;Kings&#34; as used in the Ring-verse includes queens: &#34;three rings for the elven kings,&#34; apparently including Galadriel.</dd></dl>
 
-<dl><dd>Trong <i>The Silmarillion</i>, trong <i><a href="../O/Of_the_Rings_of_Power_and_the_Third_Age.md" title="Of the Rings of Power and the Third Age">Of the Những Chiếc Nhẫn Quyền Năng và The Kỷ Đệ Tam</a></i>, Tolkien đã viết "Con Người tỏ ra dễ mắc bẫy hơn. Những ai sử dụng Chín chiếc nhẫn đều trở nên hùng mạnh vào thời của họ, những vị vua, phù thủy và chiến binh thời xưa." Các câu trước liên quan đến tác dụng của những chiếc nhẫn đối với Người Lùn, vì vậy "Con Người" có thể có nghĩa là "con người" chứ không phải "nam giới".</dd></dl>
+<dl><dd>In <i>The Silmarillion</i>, in <i><a href="../O/Of_the_Rings_of_Power_and_the_Third_Age.md" title="Of the Rings of Power and the Third Age">Of the Rings of Power and The Third Age</a></i>, Tolkien wrote &#34;Men proved easier to ensnare. Those who used the Nine Rings became mighty in their day, kings, sorcerers and warriors of old.&#34; The preceding sentences relate to the effect of the rings on Dwarves, so &#34;Men&#34; likely means &#34;humans&#34; and not &#34;males.&#34;</dd></dl>
 
-<dl><dd>Do <a href="../T/Tar-Aldarion.md" title="Tar-Aldarion">Tar-Aldarion</a> thay đổi luật kế vị để con gái trở thành nữ hoàng cai trị của <a href="../N/Númenor.md" title="Númenor">Númenor</a> nên có khả năng phụ nữ ở Númenor có thể vươn lên nắm quyền, nên không thể loại trừ khả năng một phụ nữ Númenórean có thể là một trong ba "Chúa tể vĩ đại của chủng tộc Númenórean" nằm trong Nazgûl.</dd></dl>
+<dl><dd>Since <a href="../T/Tar-Aldarion.md" title="Tar-Aldarion">Tar-Aldarion</a> changed the law of succession so that daughters could become ruling queens of <a href="../N/Númenor.md" title="Númenor">Númenor</a>, it is possible that women in Númenor could rise to positions of power, so it cannot be excluded that a Númenórean woman could be one of the three &#34;great Lords of Númenórean race&#34; that were among the Ringwraiths.</dd></dl>
 
-<dl><dd>Bộ phim chuyển thể của Peter Jackson <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> cho thấy tất cả chín Nazgûl đều là nam giới vào thời điểm họ nhận được <a href="../R/Rings_of_Power.md" title="Rings of Power">Những Chiếc Nhẫn Quyền Năng</a>.</dd></dl>
+<dl><dd>Peter Jackson&#39;s film adaptation <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> shows all nine Nazgûl as males at the time they received their <a href="../R/Rings_of_Power.md" title="Rings of Power">Rings of Power</a>.</dd></dl>
 
 ### Saruman, người tạo ra Uruk-hai {#Saruman,_creator_of_Uruk-hai}
 
-<dl><dd><a href="../S/Saruman.md" title="Saruman">Saruman</a> được cho là người tạo ra chủng tộc <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a> (Uruks), giống chó to lớn hơn, mạnh mẽ hơn của Orc.</dd></dl>
+<dl><dd><a href="../S/Saruman.md" title="Saruman">Saruman</a> is believed to be the creator of the race of <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a> (Uruks), the larger, stronger breed of Orcs.</dd></dl>
 
-- Nguyên nhân: Quan niệm sai lầm bắt nguồn từ việc Saruman có lẽ đã tạo ra một chủng tộc Orc men hoặc Con Người-Orc phục vụ ông.<sup id="cite_ref-64" class="reference"><a href="#cite_note-64">[63]</a></sup> Điều này được hình dung trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>) đã củng cố thêm quan điểm này. Tuy nhiên, Orc-men không giống với Uruk-hai, mà thay vào đó là lực lượng chiến đấu tinh nhuệ được sử dụng bởi Saruman. Bộ phim cũng xác định sai rằng "Uruk-hai" là chủng tộc mạnh hơn của Orc, trong khi trên thực tế, nó chỉ đơn giản là một thuật ngữ [Hắc Ngữ](../B/Black_Speech.md) chỉ bản thân Orc (không bao gồm <a class="mw-redirect mw-disambig" href="../S/Snaga.md" title="Snaga">Snaga</a>).
+- Nguyên nhân: Quan niệm sai lầm bắt nguồn từ việc Saruman có lẽ đã tạo ra một chủng tộc Orc men hoặc Con Người-Orc phục vụ ông ta.<sup id="cite_ref-64" class="reference"><a href="#cite_note-64">[63]</a></sup> Điều này được hình dung trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>) đã củng cố thêm quan điểm này. Tuy nhiên, Orc-men không giống với Uruk-hai, mà thay vào đó là lực lượng chiến đấu tinh nhuệ được sử dụng bởi Saruman. Bộ phim cũng xác định sai rằng "Uruk-hai" là chủng tộc mạnh hơn của Orc, trong khi trên thực tế, nó chỉ đơn giản là một thuật ngữ [Hắc Ngữ](../B/Black_Speech.md) chỉ bản thân Orc (không bao gồm <a class="mw-redirect mw-disambig" href="../S/Snaga.md" title="Snaga">Snaga</a>).
 
 - Thực tế: Trên thực tế, người Uruk xuất hiện lần đầu tiên ở [Mordor](Mordor.md) vào những năm cuối của Quản gia [Denethor I](../D/Denethor_I.md), trước [T.A.](../T/Third_Age.md) [2475](../T/Third_Age_2475.md) và trước khi Saruman định cư ở [Orthanc](../O/Orthanc.md).<sup id="cite_ref-65" class="reference"><a href="#cite_note-65">[64]</a></sup>
 
 ### Tengwar trên Sting {#Tengwar_on_Sting}
 
-<dl><dd>Dòng <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> "<i>Maegnas aen estar nin dagnir in yngyl im"</i> được khắc trên lưỡi kiếm của <a href="../S/Sting.md" title="Sting">Sting</a>.  Những từ được dịch là "Maegnas (Điểm sắc nét) là tên của tôi, tôi là tai ương của con nhện".</dd></dl>
+<dl><dd>The <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> words &#34;<i>Maegnas aen estar nin dagnir in yngyl im&#34;</i> are engraved on the blade of <a href="../S/Sting.md" title="Sting">Sting</a>.  The words translate as &#34;Maegnas (Sharp-point) is my name, I am the spider&#39;s bane&#34;.</dd></dl>
 
 - Nguyên nhân: Nguồn gốc của dòng chữ này là sự mô tả trong phim, trong đó Sting được mô tả là được khắc.
 
-- Thực tế: Trong sách, Tolkien mô tả Sting là một vũ khí khá đơn giản với vỏ bọc bằng da đơn giản.<sup id="cite_ref-66" class="reference"><a href="#cite_note-66">[65]</a></sup> Không giống như [Glamdring](../G/Glamdring.md) và [Orcrist](../O/Orcrist.md), nó không có chữ rune để [Elrond](../E/Elrond.md) dịch. Lần đầu tiên nó nhận được tên từ [Bilbo Baggins](../B/Bilbo_Baggins.md) sau khi ông sử dụng nó để chống lại những con nhện khổng lồ của [Mirkwood](Mirkwood.md).<sup id="cite_ref-67" class="reference"><a href="#cite_note-67">[66]</a></sup>
+- Thực tế: Trong sách, Tolkien mô tả Sting là một vũ khí khá đơn giản với vỏ bọc bằng da đơn giản.<sup id="cite_ref-66" class="reference"><a href="#cite_note-66">[65]</a></sup> Không giống như [Glamdring](../G/Glamdring.md) và [Orcrist](../O/Orcrist.md), nó không có chữ rune để [Elrond](../E/Elrond.md) dịch. Lần đầu tiên nó nhận được tên từ [Bilbo Baggins](../B/Bilbo_Baggins.md) sau khi ông ta sử dụng nó để chống lại những con nhện khổng lồ của [Mirkwood](Mirkwood.md).<sup id="cite_ref-67" class="reference"><a href="#cite_note-67">[66]</a></sup>
 
 ### Chiến tranh ở miền Bắc {#The_War_in_the_North}
 
-<dl><dd><a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a> bao gồm "Chiến tranh ở phía Bắc", liên quan đến chiến đấu ở <a href="../E/Eriador.md" title="Eriador">Eriador</a> và xung quanh <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>.</dd></dl>
+<dl><dd>The <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a> included a &#34;War in the North&#34;, which involved fighting in <a href="../E/Eriador.md" title="Eriador">Eriador</a> and around <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>.</dd></dl>
 
 - Lý do: Điều này đã được các tác giả của bộ phim nêu rõ trong phần bình luận DVD và đã tạo cơ sở cho các phần của trò chơi máy tính *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)* và *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)*.
-- Thực tế: Mặc dù Tolkien đề cập đến các sự cố bạo lực xung quanh [Bree](../B/Bree.md) trong Chiến tranh (không đề cập đến [Truy Cuộc thanh trừng Shire](../S/Scouring_of_the_Shire.md)),<sup id="cite_ref-68" class="reference"><a href="#cite_note-68">[67]</a></sup> không có chiến dịch quân sự quy mô nào ở Eriador được đề cập trong [Tale of Years](../A/Appendix_B.md) ở Phụ lục B của *The Lord of the Rings*. Vì Tale of Years có đề cập đến [Trận Dale](../B/Battle_of_Dale.md) và cuộc chiến xung quanh [Lothlórien](../L/Lothlórien.md) nên rõ ràng là nó cũng sẽ đề cập đến "Chiến tranh ở phương Bắc" nếu nó là một phần trong quan niệm của Tolkien. Hơn nữa, phần Appendix A trên Người Lùn bao gồm các nhận xét của [Gandalf](../G/Gandalf.md) cho thấy rằng giao tranh tàn khốc, diện rộng ở Eriador đã được ngăn chặn nhờ cái chết của [Smaug](../S/Smaug.md) và các Trận chiến của [Năm đạo quân](../B/Battle_of_Five_Armies.md) và của [Dale](../D/Dale.md).<sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[68]</a></sup>
+- Thực tế: Mặc dù Tolkien đề cập đến các sự cố bạo lực xung quanh [Bree](../B/Bree.md) trong Chiến tranh (không đề cập đến [Truy quét Shire](../S/Scouring_of_the_Shire.md)),<sup id="cite_ref-68" class="reference"><a href="#cite_note-68">[67]</a></sup> không có chiến dịch quân sự quy mô nào ở Eriador được đề cập trong [Tale of Years](../A/Appendix_B.md) ở Phụ lục B của *The Lord of the Rings*. Vì Tale of Years có đề cập đến [Trận Dale](../B/Battle_of_Dale.md) và cuộc chiến xung quanh [Lothlórien](../L/Lothlórien.md) nên rõ ràng là nó cũng sẽ đề cập đến "Chiến tranh ở phương Bắc" nếu nó là một phần trong quan niệm của Tolkien. Hơn nữa, phần Appendix A trên Người Lùn bao gồm các nhận xét của [Gandalf](../G/Gandalf.md) cho thấy rằng giao tranh tàn khốc, diện rộng ở Eriador đã được ngăn chặn nhờ cái chết của [Smaug](../S/Smaug.md) và các Trận chiến của [Năm đạo quân](../B/Battle_of_Five_Armies.md) và của [Dale](../D/Dale.md).<sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[68]</a></sup>
 
 ## Ghi chú {#Notes}
 

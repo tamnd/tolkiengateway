@@ -19,15 +19,15 @@ Bài viết này là bản ghi lại một cuộc hội thảo được tổ ch�
 ## Trích đoạn {#Excerpts}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>[Tolkien] rất phản đối quan điểm cho rằng ông viết sách của mình nhằm mục đích tuyên truyền Cơ đốc giáo hay bất cứ điều gì tương tự. Ông viết chúng như những câu chuyện. Đôi khi ông lôi một loạt thư hoặc bài đánh giá của Mỹ về phía mình và nói, 'Bạn biết đấy, bây giờ họ đang nói với tôi rằng...' và sau đó ông sẽ nói một số điều mà họ đã nói với ông về <i>The Lord of the Rings</i>. Ông sẽ nói, 'Bạn biết đấy, tôi chưa bao giờ nghĩ đến điều đó. Tôi nghĩ tôi đang viết nó như một câu chuyện thuần túy'. Ông dần dần tin vào một số điều mà bạn đã nói với ông.
+<p>[Tolkien] very much objected to the view that he wrote his books as Christian propaganda or anything like it. He wrote them as stories. He would sometimes pull a bunch of American letters or reviews towards him and say, &#39;You know, they&#39;re telling now telling me that...&#39; and then he would say some things they&#39;d told him about <i>The Lord of the Rings</i>. He&#39;d say, &#39;You know, I never thought of that. I thought I was writing it as pure story&#39;. He came gradually to believe some of the things that, well, you were telling him.
 </p>
 <p class="tg-quote-footer"><cite>George Sayer</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Trong bản ghi chép năm 1979 về cuộc thảo luận về J. R. R. Tolkien và C. S. Lewis, George Sayer kể một câu chuyện đáng chú ý về việc Tolkien mô tả Ireland là 'bản chất xấu xa'. Ông có thể 'cảm nhận', Sayer kể lại, 'cái ác đang đến từ trái đất, từ những đầm lầy than bùn, từ những lùm cây, thậm chí từ những vách đá, và cái ác này chỉ được kiểm soát bởi sự sùng kính to lớn của người miền nam Ireland đối với tôn giáo của họ.'"
+<p>In a 1979 transcription of a discussion on J. R. R. Tolkien and C. S. Lewis, George Sayer tells a remarkable story about Tolkien describing Ireland as &#39;naturally evil.&#39; He could &#39;feel,&#39; Sayer relates, &#39;evil coming up from the earth, from the peat bogs, from the clumps of trees, even from the cliffs, and this evil was only held in check by the great devotion of the southern Irish to their religion.&#39;&#34;
 </p>
-<p class="tg-quote-footer"><cite>George Sayer, được trích dẫn bởi <a href="../M/Marjorie_J._Burns.md" title="Marjorie J. Burns">Marjorie J. Burns</a> trong <i>Perilous Realms</i></cite></p>
+<p class="tg-quote-footer"><cite>George Sayer, quoted by <a href="../M/Marjorie_J._Burns.md" title="Marjorie J. Burns">Marjorie J. Burns</a> in <i>Perilous Realms</i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Liên kết ngoài {#External_links}

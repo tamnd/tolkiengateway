@@ -15,15 +15,15 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Things_of_Morgoth&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Things_of_Morgoth&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
 **Những thứ của Morgoth** là một nhóm sinh vật hoặc sinh vật không xác định có liên quan đến [Morgoth](../M/Morgoth.md).<sup id="cite_ref-name_1-0" class="reference"><a href="#cite_note-name-1">[1]</a></sup>
 
-Sau [Trận chiến Nước mắt Vô số](../B/Battle_of_Unnumbered_Tears.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Những thứ của Morgoth lang thang tự do bên cạnh "[những kẻ cưỡi sói](../W/Wolf-riders.md) và lang thang [Orc](../O/Orcs.md)" xuyên suốt [Beleriand](../B/Beleriand.md).<sup id="cite_ref-name_1-1" class="reference"><a href="#cite_note-name-1">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sau [Trận chiến của những giọt nước mắt không đếm được](../B/Battle_of_Unnumbered_Tears.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Những thứ của Morgoth lang thang tự do bên cạnh "[những kẻ cưỡi sói](../W/Wolf-riders.md) và lang thang [Orc](../O/Orcs.md)" xuyên suốt [Beleriand](../B/Beleriand.md).<sup id="cite_ref-name_1-1" class="reference"><a href="#cite_note-name-1">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Không được sử dụng trong ấn bản đầu tiên của The Hobbit, 1937, không có hình minh họa màu, bức tranh này xuất hiện trong ấn bản thứ hai ở Anh cùng năm, và trong ấn bản đầu tiên ở Mỹ, 1938. Trong ấn bản ở Mỹ, tiêu đề 'Rivendell' bên trong đường viền trang trí đã bị loại bỏ (trên đó J.R.R. Tolkien nhận xét: 'Tôi không thể hiểu tại sao họ lại làm đổ bức tranh [Rivendell](../../main/R/Rivendell.md) bằng cách cắt phần trên và cắt bỏ phần trang trí ở phía dưới'), nhưng cả hai đều là bản sao chép có in chú thích 'Thung lũng xinh đẹp của Rivendell' ('Ẩn đâu đó phía trước chúng ta là thung lũng xinh đẹp của Rivendell nơi [Elrond](../../main/E/Elrond.md) sống trong Ngôi nhà Cuối cùng Ấm cúng', Chương 3, Một quãng nghỉ ngắn). Bức tranh được sao chép trong Lịch J.R.R. Tolkien 1973 và 1974 và trong Lịch The Hobbit 1976.
+Không được sử dụng trong ấn bản đầu tiên của The Hobbit, 1937, không có hình minh họa màu, bức tranh này xuất hiện trong ấn bản thứ hai ở Anh cùng năm, và trong ấn bản đầu tiên ở Mỹ, 1938. Trong ấn bản ở Mỹ, tiêu đề 'Rivendell' bên trong đường viền trang trí đã bị loại bỏ (trên đó J.R.R. Tolkien nhận xét: 'Tôi không thể hiểu tại sao họ lại làm đổ bức tranh [Rivendell](../../main/R/Rivendell.md) bằng cách cắt phần trên và cắt bỏ phần trang trí ở phía dưới'), nhưng cả hai đều là bản sao chép có in chú thích 'Thung lũng xinh đẹp của Rivendell' ('Ẩn đâu đó phía trước chúng ta là thung lũng xinh đẹp của Rivendell nơi [Elrond](../../main/E/Elrond.md) sống trong Ngôi nhà giản dị cuối cùng', Chương 3, Một quãng nghỉ ngắn). Bức tranh được sao chép trong Lịch J.R.R. Tolkien 1973 và 1974 và trong Lịch The Hobbit 1976.
 
 ## Giấy phép {#Licensing}
 

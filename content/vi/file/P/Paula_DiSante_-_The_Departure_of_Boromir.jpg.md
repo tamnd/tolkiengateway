@@ -30,7 +30,7 @@ file:
 
 Nghệ thuật kỹ thuật số & Photoshop
 
-“Ở đó Boromir nằm yên tĩnh, thanh bình, lướt trên lòng dòng nước chảy. … Ông trôi theo họ, thuyền của ông từ từ khởi hành, đi đến một điểm tối trong ánh sáng vàng, rồi đột nhiên nó biến mất. Rauros gầm lên không thay đổi. Dòng sông đã cuốn đi Boromir con trai của Denethor, và ông không còn được nhìn thấy nữa ở Minas Tirith, đứng như ông thường đứng trên Tháp Trắng vào buổi sáng. Nhưng vào Gondor về sau, người ta kể rằng con thuyền thần tiên đã cưỡi thác và vũng nước sủi bọt, đưa ông đi qua Osgiliath, vượt qua nhiều cửa Anduin, ra Đại Hải vào ban đêm dưới những vì sao.”
+“Ở đó Boromir nằm yên tĩnh, thanh bình, lướt trên lòng dòng nước chảy. … Ông trôi theo họ, thuyền của ông từ từ khởi hành, đi đến một điểm tối trong ánh sáng vàng, rồi đột nhiên nó biến mất. Rauros gầm lên không thay đổi. Dòng sông đã cuốn đi Boromir con trai của Denethor, và ông không còn được nhìn thấy nữa ở Minas Tirith, đứng như ông thường đứng trên Tháp Trắng vào buổi sáng. Nhưng vào Gondor về sau, người ta kể rằng con thuyền thần tiên đã cưỡi thác và vũng nước sủi bọt, đưa ông ta đi qua Osgiliath, vượt qua nhiều cửa Anduin, ra Đại Hải vào ban đêm dưới những vì sao.”
 
 \--The Lord of the Rings: The Two Towers
 

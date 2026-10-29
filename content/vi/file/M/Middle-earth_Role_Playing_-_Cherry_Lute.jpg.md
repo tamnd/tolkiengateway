@@ -24,7 +24,7 @@ file:
   user: "Morgan"
 ---
 
-Một "Sáo anh đào" xuất hiện trong Wolfgang Baur, *[Treasures of Middle-earth (2nd edition)](<../../main/T/Treasures_of_Middle-earth_(2nd_edition).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2010, 1994). Nghệ sĩ vô danh, có thể là Kent Burles hoặc Kamran Sedaghatkish.
+Một "Sáo anh đào" xuất hiện trong Wolfgang Baur, *[Treasures of Middle-earth (2nd edition)](<../../main/T/Treasures_of_Middle-earth_(2nd_edition).md>)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2010, 1994) . Nghệ sĩ vô danh, có thể là Kent Burles hoặc Kamran Sedaghatkish.
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.ironcrown.com/" rel="noreferrer noopener" target="_blank">Iron Crown Enterprises</a>. It is believed that the limited use of this file,

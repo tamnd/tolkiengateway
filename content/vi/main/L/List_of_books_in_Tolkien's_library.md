@@ -36,7 +36,7 @@ images:
   - "Book_II_-_Faere_queene_-_at_the_Lily_Library.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Eight_books_from_Tolkien&#39;s_library.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a0/Eight_books_from_Tolkien%27s_library.jpg/300px-Eight_books_from_Tolkien%27s_library.jpg" decoding="async" loading="lazy" width="300" height="259" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a0/Eight_books_from_Tolkien%27s_library.jpg/450px-Eight_books_from_Tolkien%27s_library.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a0/Eight_books_from_Tolkien%27s_library.jpg/600px-Eight_books_from_Tolkien%27s_library.jpg 2x" data-file-width="622" data-file-height="538"/></a><figcaption>Ảnh chụp sách từ thư viện của Tolkien</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Eight_books_from_Tolkien&#39;s_library.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a0/Eight_books_from_Tolkien%27s_library.jpg/300px-Eight_books_from_Tolkien%27s_library.jpg" decoding="async" loading="lazy" width="300" height="259" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a0/Eight_books_from_Tolkien%27s_library.jpg/450px-Eight_books_from_Tolkien%27s_library.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a0/Eight_books_from_Tolkien%27s_library.jpg/600px-Eight_books_from_Tolkien%27s_library.jpg 2x" data-file-width="622" data-file-height="538"/></a><figcaption>Photograph of books from Tolkien&#39;s library</figcaption></figure>
 
 Trang này là **danh sách các sách trong thư viện của Tolkien**, tức là các sách và ấn phẩm khác được biết là thuộc sở hữu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
@@ -84,7 +84,7 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa Tiếng Anh v
 ### *Dictionary in Englysshe and Welshe* {#Dictionary_in_Englysshe_and_Welshe}
 
 - 1877: *Dictionary in Englysshe and Welshe*, bởi <a class="extiw" href="http://en.wikipedia.org/wiki/William_Salesbury" title="wikipedia:William Salesbury">Wyllyam Salesbury</a>. Luân Đôn.
-- Mô tả: Phiên bản fax, Phần I-IV. Chứa [một trang ghi chú bản thảo](../M/Manuscript_notes_in_Dictionary_in_Englysshe_and_Welshe.md) của Tolkien.<sup id="cite_ref-TW_9-0" class="reference"><a href="#cite_note-TW-9">[9]</a></sup><sup id="cite_ref-Add_10-0" class="reference"><a href="#cite_note-Add-10">[10]</a></sup> Tolkien ghi chú bên trong cuốn sách rằng nó đến với ông từ T. Shankland vào ngày [ngày 9 tháng 5](../_/9_May.md) [1907](../_/1907.md).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+- Mô tả: Phiên bản fax, Phần I-IV. Chứa [một trang ghi chú bản thảo](../M/Manuscript_notes_in_Dictionary_in_Englysshe_and_Welshe.md) của Tolkien.<sup id="cite_ref-TW_9-0" class="reference"><a href="#cite_note-TW-9">[9]</a></sup><sup id="cite_ref-Add_10-0" class="reference"><a href="#cite_note-Add-10">[10]</a></sup> Tolkien ghi chú bên trong cuốn sách rằng nó đến với ông ta từ T. Shankland vào ngày [ngày 9 tháng 5](../_/9_May.md) [1907](../_/1907.md).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
 ### *Diplomatarium Islandicum* {#Diplomatarium_Islandicum}
 
@@ -314,14 +314,14 @@ Các bản sao có chữ ký của - Tolkien hiện được lưu giữ tại Th
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/O/On_the_History_of_the_English_Present_Inflections_-_Cover.jpg.md" title="Cover"><img alt="Cover" src="https://tolkiengateway.net/w/images/thumb/e/e7/On_the_History_of_the_English_Present_Inflections_-_Cover.jpg/97px-On_the_History_of_the_English_Present_Inflections_-_Cover.jpg" decoding="async" loading="lazy" width="97" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e7/On_the_History_of_the_English_Present_Inflections_-_Cover.jpg/146px-On_the_History_of_the_English_Present_Inflections_-_Cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e7/On_the_History_of_the_English_Present_Inflections_-_Cover.jpg/195px-On_the_History_of_the_English_Present_Inflections_-_Cover.jpg 2x" data-file-width="242" data-file-height="372"/></a></span></div>
 			<div class="gallerytext">
-<p>Bìa
+<p>Cover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/O/On_the_History_of_the_English_Present_Inflections_-_Signature.jpg.md" title="Tolkien&#39;s signature"><img alt="Tolkien&#39;s signature" src="https://tolkiengateway.net/w/images/thumb/7/7c/On_the_History_of_the_English_Present_Inflections_-_Signature.jpg/200px-On_the_History_of_the_English_Present_Inflections_-_Signature.jpg" decoding="async" loading="lazy" width="200" height="142" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7c/On_the_History_of_the_English_Present_Inflections_-_Signature.jpg/300px-On_the_History_of_the_English_Present_Inflections_-_Signature.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7c/On_the_History_of_the_English_Present_Inflections_-_Signature.jpg/400px-On_the_History_of_the_English_Present_Inflections_-_Signature.jpg 2x" data-file-width="489" data-file-height="348"/></a></span></div>
 			<div class="gallerytext">
-<p>chữ ký của Tolkien
+<p>Tolkien&#39;s signature
 </p>
 			</div>
 		</li>
@@ -357,14 +357,14 @@ Các bản sao có chữ ký của - Tolkien hiện được lưu giữ tại Th
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/P/Portugais_-_Cover.jpg.md" title="Cover"><img alt="Cover" src="https://tolkiengateway.net/w/images/thumb/2/23/Portugais_-_Cover.jpg/103px-Portugais_-_Cover.jpg" decoding="async" loading="lazy" width="103" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/23/Portugais_-_Cover.jpg/154px-Portugais_-_Cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/23/Portugais_-_Cover.jpg/205px-Portugais_-_Cover.jpg 2x" data-file-width="274" data-file-height="400"/></a></span></div>
 			<div class="gallerytext">
-<p>Bìa
+<p>Cover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/P/Portugais_-_Signature.jpg.md" title="Tolkien&#39;s signature"><img alt="Tolkien&#39;s signature" src="https://tolkiengateway.net/w/images/thumb/2/2c/Portugais_-_Signature.jpg/198px-Portugais_-_Signature.jpg" decoding="async" loading="lazy" width="198" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2c/Portugais_-_Signature.jpg/297px-Portugais_-_Signature.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2c/Portugais_-_Signature.jpg/396px-Portugais_-_Signature.jpg 2x" data-file-width="400" data-file-height="303"/></a></span></div>
 			<div class="gallerytext">
-<p>chữ ký của Tolkien
+<p>Tolkien&#39;s signature
 </p>
 			</div>
 		</li>
@@ -387,14 +387,14 @@ Các bản sao có chữ ký của - Tolkien hiện được lưu giữ tại Th
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/P/Probleme_der_Englischen_Sprache_und_Kultur_-_front_matter.jpg.md" title="Cover"><img alt="Cover" src="https://tolkiengateway.net/w/images/thumb/4/49/Probleme_der_Englischen_Sprache_und_Kultur_-_front_matter.jpg/105px-Probleme_der_Englischen_Sprache_und_Kultur_-_front_matter.jpg" decoding="async" loading="lazy" width="105" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/49/Probleme_der_Englischen_Sprache_und_Kultur_-_front_matter.jpg/157px-Probleme_der_Englischen_Sprache_und_Kultur_-_front_matter.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/49/Probleme_der_Englischen_Sprache_und_Kultur_-_front_matter.jpg/210px-Probleme_der_Englischen_Sprache_und_Kultur_-_front_matter.jpg 2x" data-file-width="280" data-file-height="400"/></a></span></div>
 			<div class="gallerytext">
-<p>Bìa
+<p>Cover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/P/Probleme_der_Englischen_Sprache_und_Kultur_-_Signature.jpg.md" title="Tolkien&#39;s signature"><img alt="Tolkien&#39;s signature" src="https://tolkiengateway.net/w/images/thumb/b/ba/Probleme_der_Englischen_Sprache_und_Kultur_-_Signature.jpg/118px-Probleme_der_Englischen_Sprache_und_Kultur_-_Signature.jpg" decoding="async" loading="lazy" width="118" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/ba/Probleme_der_Englischen_Sprache_und_Kultur_-_Signature.jpg/177px-Probleme_der_Englischen_Sprache_und_Kultur_-_Signature.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/ba/Probleme_der_Englischen_Sprache_und_Kultur_-_Signature.jpg/236px-Probleme_der_Englischen_Sprache_und_Kultur_-_Signature.jpg 2x" data-file-width="315" data-file-height="400"/></a></span></div>
 			<div class="gallerytext">
-<p>chữ ký của Tolkien
+<p>Tolkien&#39;s signature
 </p>
 			</div>
 		</li>
@@ -439,35 +439,35 @@ Các bản sao có chữ ký của - Tolkien hiện được lưu giữ tại Th
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Specimens_Of_Early_English_-_Cover.jpg.md" title="Cover"><img alt="Cover" src="https://tolkiengateway.net/w/images/thumb/4/4a/Specimens_Of_Early_English_-_Cover.jpg/97px-Specimens_Of_Early_English_-_Cover.jpg" decoding="async" loading="lazy" width="97" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4a/Specimens_Of_Early_English_-_Cover.jpg/145px-Specimens_Of_Early_English_-_Cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4a/Specimens_Of_Early_English_-_Cover.jpg/193px-Specimens_Of_Early_English_-_Cover.jpg 2x" data-file-width="488" data-file-height="756"/></a></span></div>
 			<div class="gallerytext">
-<p>Bìa
+<p>Cover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Specimens_Of_Early_English_-_Signature.jpg.md" title="Tolkien&#39;s signature"><img alt="Tolkien&#39;s signature" src="https://tolkiengateway.net/w/images/thumb/1/1b/Specimens_Of_Early_English_-_Signature.jpg/195px-Specimens_Of_Early_English_-_Signature.jpg" decoding="async" loading="lazy" width="195" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1b/Specimens_Of_Early_English_-_Signature.jpg/292px-Specimens_Of_Early_English_-_Signature.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1b/Specimens_Of_Early_English_-_Signature.jpg/390px-Specimens_Of_Early_English_-_Signature.jpg 2x" data-file-width="775" data-file-height="597"/></a></span></div>
 			<div class="gallerytext">
-<p>chữ ký của Tolkien
+<p>Tolkien&#39;s signature
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Specimens_Of_Early_English_-_Notes_(1).jpg.md" title="Handwritten notes"><img alt="Handwritten notes" src="https://tolkiengateway.net/w/images/thumb/5/5e/Specimens_Of_Early_English_-_Notes_%281%29.jpg/93px-Specimens_Of_Early_English_-_Notes_%281%29.jpg" decoding="async" loading="lazy" width="93" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5e/Specimens_Of_Early_English_-_Notes_%281%29.jpg/140px-Specimens_Of_Early_English_-_Notes_%281%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5e/Specimens_Of_Early_English_-_Notes_%281%29.jpg/187px-Specimens_Of_Early_English_-_Notes_%281%29.jpg 2x" data-file-width="850" data-file-height="1361"/></a></span></div>
 			<div class="gallerytext">
-<p>Ghi chú viết tay
+<p>Handwritten notes
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Specimens_Of_Early_English_-_Notes_(2).jpg.md" title="Handwritten notes"><img alt="Handwritten notes" src="https://tolkiengateway.net/w/images/thumb/8/8e/Specimens_Of_Early_English_-_Notes_%282%29.jpg/198px-Specimens_Of_Early_English_-_Notes_%282%29.jpg" decoding="async" loading="lazy" width="198" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8e/Specimens_Of_Early_English_-_Notes_%282%29.jpg/297px-Specimens_Of_Early_English_-_Notes_%282%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8e/Specimens_Of_Early_English_-_Notes_%282%29.jpg/396px-Specimens_Of_Early_English_-_Notes_%282%29.jpg 2x" data-file-width="1753" data-file-height="1328"/></a></span></div>
 			<div class="gallerytext">
-<p>Ghi chú viết tay
+<p>Handwritten notes
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Specimens_Of_Early_English_-_Notes_(3).jpg.md" title="Handwritten notes"><img alt="Handwritten notes" src="https://tolkiengateway.net/w/images/thumb/7/70/Specimens_Of_Early_English_-_Notes_%283%29.jpg/194px-Specimens_Of_Early_English_-_Notes_%283%29.jpg" decoding="async" loading="lazy" width="194" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/70/Specimens_Of_Early_English_-_Notes_%283%29.jpg/291px-Specimens_Of_Early_English_-_Notes_%283%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/70/Specimens_Of_Early_English_-_Notes_%283%29.jpg/388px-Specimens_Of_Early_English_-_Notes_%283%29.jpg 2x" data-file-width="1734" data-file-height="1342"/></a></span></div>
 			<div class="gallerytext">
-<p>Ghi chú viết tay
+<p>Handwritten notes
 </p>
 			</div>
 		</li>

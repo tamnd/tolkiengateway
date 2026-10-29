@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Black_Pits"
 content_sha256: 2e4679d947dec8801eeca1d5c670a1351b2d76222691a04bd05f1fff382b2cbf
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Những ngục tối của Barad-dûr"
+short_description: "The dungeons of Barad-dûr"
 categories:
   - "Buildings"
   - "Mordor"
@@ -23,27 +23,27 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>các ngục tối thuộc <a href="Barad-dûr.md" title="Barad-dûr">Barad-dûr</a></b>. Đối với Hố đen (Moria), xem <b><a href="../M/Moria.md" title="Moria">Moria</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the dungeons under <a href="Barad-dûr.md" title="Barad-dûr">Barad-dûr</a></b>. For the Black Pit (Moria), see <b><a href="../M/Moria.md" title="Moria">Moria</a></b>.</div></div>
 
 **Hố đen** là ngục tối đau khổ nằm bên dưới tòa tháp [Barad-dûr](Barad-dûr.md).<sup id="cite_ref-index_1-0" class="reference"><a href="#cite_note-index-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Giữa những năm [T.A.](../T/Third_Age.md) [3009](../T/Third_Age_3009.md) và [T.A.](../T/Third_Age.md) [3017](../T/Third_Age_3017.md) của [Kỷ Đệ Tam](../T/Third_Age.md),<sup id="cite_ref-appendix_2-0" class="reference"><a href="#cite_note-appendix-2">[2]</a></sup> [Gollum](../G/Gollum.md) bị giam giữ trong Hố Đen, chỉ được đưa ra ngoài để thẩm vấn.<sup id="cite_ref-past_3-0" class="reference"><a href="#cite_note-past-3">[3]</a></sup> Có thể ông đã bị <a class="new" href="https://tolkiengateway.net/w/index.php?title=Questioner&amp;action=edit&amp;redlink=1" title="Questioner (page does not exist)">Người thẩm vấn</a><sup id="cite_ref-question_4-0" class="reference"><a href="#cite_note-question-4">[4]</a></sup>thẩm vấn.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Gollum đã được thả ra khỏi Hắc đạo Hố chỉ sau khi ông tiết lộ thông tin rằng "[Baggins](Bilbo_Baggins.md)" từ "[Shire](../T/The_Shire.md)" đã nắm giữ [One Ring](../O/One_Ring.md).<sup id="cite_ref-past_3-1" class="reference"><a href="#cite_note-past-3">[3]</a></sup>
+Giữa những năm [T.A.](../T/Third_Age.md) [3009](../T/Third_Age_3009.md) và [T.A.](../T/Third_Age.md) [3017](../T/Third_Age_3017.md) của [Kỷ Đệ Tam](../T/Third_Age.md),<sup id="cite_ref-appendix_2-0" class="reference"><a href="#cite_note-appendix-2">[2]</a></sup> [Gollum](../G/Gollum.md) bị giam giữ trong Hố Đen, chỉ được đưa ra ngoài để thẩm vấn.<sup id="cite_ref-past_3-0" class="reference"><a href="#cite_note-past-3">[3]</a></sup> Có thể ông ta đã bị <a class="new" href="https://tolkiengateway.net/w/index.php?title=Questioner&amp;action=edit&amp;redlink=1" title="Questioner (page does not exist)">Người thẩm vấn</a><sup id="cite_ref-question_4-0" class="reference"><a href="#cite_note-question-4">[4]</a></sup>thẩm vấn.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Gollum đã được thả ra khỏi Hắc đạo Hố chỉ sau khi ông ta tiết lộ thông tin rằng "[Baggins](Bilbo_Baggins.md)" từ "[Shire](../T/The_Shire.md)" đã nắm giữ [One Ring](../O/One_Ring.md).<sup id="cite_ref-past_3-1" class="reference"><a href="#cite_note-past-3">[3]</a></sup>
 
-Vào [14 tháng 3](../_/14_March.md) năm [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), Thuyền trưởng của [Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md), [Shagrat](../S/Shagrat.md), đã nguyền rủa "kẻ nổi loạn bẩn thỉu [Gorbag](../G/Gorbag.md)" tới Hố Đen sau khi một [cuộc giao tranh](Battle_of_Cirith_Ungol.md) nổ ra giữa [Orc](../O/Orcs.md) của ông và đại đội của Gorbag ​​từ [Minas Morgul](../M/Minas_Morgul.md).<sup id="cite_ref-asdf_6-0" class="reference"><a href="#cite_note-asdf-6">[6]</a></sup>
+Vào [14 tháng 3](../_/14_March.md) năm [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), Thuyền trưởng của [Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md), [Shagrat](../S/Shagrat.md), đã nguyền rủa "kẻ nổi loạn bẩn thỉu [Gorbag](../G/Gorbag.md)" tới Hố Đen sau khi một [cuộc giao tranh](Battle_of_Cirith_Ungol.md) nổ ra giữa [Orc](../O/Orcs.md) của ông ta và đại đội của Gorbag ​​từ [Minas Morgul](../M/Minas_Morgul.md).<sup id="cite_ref-asdf_6-0" class="reference"><a href="#cite_note-asdf-6">[6]</a></sup>
 
 Khi thuộc hạ của Shagrat, [Snaga](<../S/Snaga_(orc_of_Mordor).md>), thông báo với anh rằng anh không sẵn lòng báo cáo những sự việc xảy ra trong Tháp cho [Sauron](../S/Sauron.md) tại [Barad-dûr](Barad-dûr.md), Shagrat nói với anh rằng cả hai sẽ "dành cho Black Pits" nếu những tin tức đó không đến được Sauron.<sup id="cite_ref-asdf_6-1" class="reference"><a href="#cite_note-asdf-6">[6]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b><a href="../_/2020.md" title="2020">2020</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b><a href="../_/2020.md" title="2020">2020</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Trong cốt truyện giới thiệu Stout-axe, người chơi bắt đầu với tư cách là một tù nhân trong Hố đen cố gắng thoát ra khỏi <a href="../M/Mordor.md" title="Mordor">Mordor</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Sau <a href="../D/Downfall_of_Barad-dûr.md" title="Downfall of Barad-dûr">Sự sụp đổ của Barad-dûr</a>, Hố đen<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> và vực thẳm Mordath<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> bên dưới họ là tất cả những gì còn lại của tòa tháp.</dd></dl>
+<dl><dd>In the Stout-axe introduction storyline, players begin as a prisoner in the Black Pits trying to break out of <a href="../M/Mordor.md" title="Mordor">Mordor</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> After the <a href="../D/Downfall_of_Barad-dûr.md" title="Downfall of Barad-dûr">Downfall of Barad-dûr</a>, the Black Pits<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> and the abyss Mordath<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> beneath them were all that remained of the tower.</dd></dl>
 
 <b><a href="../_/2023.md" title="2023">2023</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></i>:</b>
 
-<dl><dd>Trong những chương mở đầu của trò chơi, <a href="../G/Gollum.md" title="Gollum">Gollum</a> bị ném vào Hố Đen sau khi bị Sauron tra tấn. Có nhiều địa điểm trong Black Pits được giới thiệu trong mỗi chương.</dd></dl>
+<dl><dd>During the opening chapters of the game, <a href="../G/Gollum.md" title="Gollum">Gollum</a> is thrown into the Black Pits after being tortured by Sauron. There are multiple locations within the Black Pits that are featured within each chapter.</dd></dl>
 
 <span></span>
 

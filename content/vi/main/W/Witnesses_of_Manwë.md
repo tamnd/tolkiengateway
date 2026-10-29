@@ -38,7 +38,7 @@ langlinks:
 
 <table style="margin:0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="../G/Great_Eagles.md" title="Great Eagles">Đại Bàng Vĩ Đại</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="../G/Great_Eagles.md" title="Great Eagles">Great Eagles</a></b>
 </td></tr>
 <tr>
 <td style="font-size: 90%;" align="center"><a href="../G/Great_Eagle.md" title="Great Eagle">Great Eagle</a> · <a href="../G/Gwaihir.md" title="Gwaihir">Gwaihir</a> · <a href="../L/Landroval.md" title="Landroval">Landroval</a> · <a href="../M/Meneldor.md" title="Meneldor">Meneldor</a> · <a href="../T/Thorondor.md" title="Thorondor">Thorondor</a> · <a class="mw-selflink selflink">Witnesses of Manwë</a>

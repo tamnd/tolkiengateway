@@ -31,7 +31,7 @@ Tên [Noldorin](../N/Noldorin.md) *Lhamthanc* ("lưỡi chẻ") được cho là
 
 <b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
-<dl><dd>"Biển Serpent" là một sinh vật thuộc giống Drake, có thể gây ra hai đòn tấn công.</dd></dl>
+<dl><dd>&#34;Sea Serpent&#34; is a creature of Drake-kind, able to inflict two strikes.</dd></dl>
 
 ## Xem thêm {#See_also}
 

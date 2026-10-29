@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Dwarven names"
 ---
 
-Chuyển hướng đến [Danh mục:Người Lùn tên](Dwarven_names.md).
+Chuyển hướng đến [Danh mục:Người lùn tên](Dwarven_names.md).

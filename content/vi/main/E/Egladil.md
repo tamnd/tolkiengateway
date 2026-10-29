@@ -19,7 +19,7 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Egladil.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>khu vực trong <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a></b>. Đối với vùng trong <a href="Eriador.md" title="Eriador">Eriador</a>, xem <b><a href="../A/Angle.md" title="Angle">Angle</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the region in <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a></b>. For the region in <a href="Eriador.md" title="Eriador">Eriador</a>, see <b><a href="../A/Angle.md" title="Angle">Angle</a></b>.</div></div>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Egladil.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/43/John_Howe_-_Egladil.jpg/250px-John_Howe_-_Egladil.jpg" decoding="async" loading="lazy" width="250" height="257" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/43/John_Howe_-_Egladil.jpg/375px-John_Howe_-_Egladil.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/43/John_Howe_-_Egladil.jpg/500px-John_Howe_-_Egladil.jpg 2x" data-file-width="517" data-file-height="532"/></a><figcaption>&#34;Egladil&#34; by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure>
 
@@ -43,9 +43,9 @@ Các tên ứng cử viên khác và cụ thể hơn là <i><b>Calennel</b></i> 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Cái tên "Egladil" được áp dụng cụ thể cho khu vực phía đông của Lothlorien, giáp ranh với Anduin.</dd></dl>
+<dl><dd>The name &#34;Egladil&#34; is specifically applied to the eastern area of Lothlorien, directly bordering by the Anduin.</dd></dl>
 
 <span></span>
 

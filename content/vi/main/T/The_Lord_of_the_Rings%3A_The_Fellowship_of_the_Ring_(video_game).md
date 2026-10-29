@@ -85,24 +85,24 @@ infobox:
     value: "Action-Adventure"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Lord of the Rings</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Lord of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Fellowship of the Ring</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Fellowship_of_the_Ring_(disambiguation).md" title="The Fellowship of the Ring (disambiguation)">The Fellowship of the Ring (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Fellowship of the Ring</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Fellowship_of_the_Ring_(disambiguation).md" title="The Fellowship of the Ring (disambiguation)">The Fellowship of the Ring (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/V/Vivendi&#39;s_The_Lord_of_the_Rings-_The_Fellowship_of_the_Ring_box.png.md"><img src="https://tolkiengateway.net/w/images/9/9f/Vivendi%27s_The_Lord_of_the_Rings-_The_Fellowship_of_the_Ring_box.png" decoding="async" loading="lazy" width="256" height="365" class="mw-file-element" data-file-width="256" data-file-height="365"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi điện tử</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The Fellowship of the Ring</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà phát triển</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Surreal_Software.md" title="Surreal Software">Surreal Software</a> (PS2, Windows)<br/><a href="The_Whole_Experience.md" title="The Whole Experience">The Whole Experience</a> (Xbox)<br/><a href="../P/Pocket_Studios.md" title="Pocket Studios">Pocket Studios</a> (GBA)</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><b>Xbox, PlayStation 2</b><br/><a class="mw-redirect" href="../B/Black_Label_Games.md" title="Black Label Games">Black Label Games</a>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/V/Vivendi&#39;s_The_Lord_of_the_Rings-_The_Fellowship_of_the_Ring_box.png.md"><img src="https://tolkiengateway.net/w/images/9/9f/Vivendi%27s_The_Lord_of_the_Rings-_The_Fellowship_of_the_Ring_box.png" decoding="async" loading="lazy" width="256" height="365" class="mw-file-element" data-file-width="256" data-file-height="365"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The Fellowship of the Ring</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Surreal_Software.md" title="Surreal Software">Surreal Software</a> (PS2, Windows)<br/><a href="The_Whole_Experience.md" title="The Whole Experience">The Whole Experience</a> (Xbox)<br/><a href="../P/Pocket_Studios.md" title="Pocket Studios">Pocket Studios</a> (GBA)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><b>Xbox, PlayStation 2</b><br/><a class="mw-redirect" href="../B/Black_Label_Games.md" title="Black Label Games">Black Label Games</a>
 <p><b>PC</b><br/><a class="extiw" href="http://en.wikipedia.org/wiki/North_America" title="wikipedia:North America">NA</a>: <a class="mw-redirect" href="../B/Black_Label_Games.md" title="Black Label Games">Black Label Games</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Europe" title="wikipedia:Europe">EU</a>: <a class="mw-redirect" href="../V/Vivendi_Universal.md" title="Vivendi Universal">Vivendi Universal</a>
 </p>
-<b>Game Boy Advance</b><br/><a class="extiw" href="http://en.wikipedia.org/wiki/North_America" title="wikipedia:North America">NA</a>: <a href="../S/Sierra_Entertainment.md" title="Sierra Entertainment">Sierra Entertainment</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Europe" title="wikipedia:Europe">EU</a>: <a class="mw-redirect" href="../V/Vivendi_Universal.md" title="Vivendi Universal">Vivendi Universal</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nền tảng</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Game_Boy_Advance" title="wikipedia:Game Boy Advance">Game Boy Advance</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Microsoft_Windows" title="wikipedia:Microsoft Windows">Microsoft Windows</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_2" title="wikipedia:PlayStation 2">PlayStation 2</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Xbox" title="wikipedia:Xbox">Xbox</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data"><b>Game Boy Advance</b><br/><a class="extiw" href="http://en.wikipedia.org/wiki/North_America" title="wikipedia:North America">NA</a>: <a href="../_/24_September.md" title="24 September">24 September</a> <a href="../_/2002.md" title="2002">2002</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Europe" title="wikipedia:Europe">EU</a>: <a href="../_/8_November.md" title="8 November">8 November</a> <a href="../_/2002.md" title="2002">2002</a>
+<b>Game Boy Advance</b><br/><a class="extiw" href="http://en.wikipedia.org/wiki/North_America" title="wikipedia:North America">NA</a>: <a href="../S/Sierra_Entertainment.md" title="Sierra Entertainment">Sierra Entertainment</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Europe" title="wikipedia:Europe">EU</a>: <a class="mw-redirect" href="../V/Vivendi_Universal.md" title="Vivendi Universal">Vivendi Universal</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Game_Boy_Advance" title="wikipedia:Game Boy Advance">Game Boy Advance</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Microsoft_Windows" title="wikipedia:Microsoft Windows">Microsoft Windows</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_2" title="wikipedia:PlayStation 2">PlayStation 2</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Xbox" title="wikipedia:Xbox">Xbox</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><b>Game Boy Advance</b><br/><a class="extiw" href="http://en.wikipedia.org/wiki/North_America" title="wikipedia:North America">NA</a>: <a href="../_/24_September.md" title="24 September">24 September</a> <a href="../_/2002.md" title="2002">2002</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Europe" title="wikipedia:Europe">EU</a>: <a href="../_/8_November.md" title="8 November">8 November</a> <a href="../_/2002.md" title="2002">2002</a>
 <p><b>Xbox</b><br/><a class="extiw" href="http://en.wikipedia.org/wiki/North_America" title="wikipedia:North America">NA</a>: <a href="../_/26_September.md" title="26 September">26 September</a> <a href="../_/2002.md" title="2002">2002</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Europe" title="wikipedia:Europe">EU</a>: <a href="../_/8_November.md" title="8 November">8 November</a> <a href="../_/2002.md" title="2002">2002</a>
 </p><p><b>PlayStation 2</b><br/><a class="extiw" href="http://en.wikipedia.org/wiki/North_America" title="wikipedia:North America">NA</a>: <a href="../_/16_October.md" title="16 October">16 October</a> <a href="../_/2002.md" title="2002">2002</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Europe" title="wikipedia:Europe">EU</a>: <a href="../_/6_December.md" title="6 December">6 December</a> <a href="../_/2002.md" title="2002">2002</a>
 </p>
-<b>Microsoft Windows</b><br/><a class="extiw" href="http://en.wikipedia.org/wiki/North_America" title="wikipedia:North America">NA</a>: <a href="../_/22_October.md" title="22 October">22 October</a> <a href="../_/2002.md" title="2002">2002</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Europe" title="wikipedia:Europe">EU</a>: <a href="../_/8_November.md" title="8 November">8 November</a> <a href="../_/2002.md" title="2002">2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Action-Adventure</td></tr></tbody></table>
+<b>Microsoft Windows</b><br/><a class="extiw" href="http://en.wikipedia.org/wiki/North_America" title="wikipedia:North America">NA</a>: <a href="../_/22_October.md" title="22 October">22 October</a> <a href="../_/2002.md" title="2002">2002</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Europe" title="wikipedia:Europe">EU</a>: <a href="../_/8_November.md" title="8 November">8 November</a> <a href="../_/2002.md" title="2002">2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Action-Adventure</td></tr></tbody></table>
 
 **The Lord of the Rings: The Fellowship of the Ring** là tên của một bộ [2002](../_/2002.md) trò chơi điện tử tương tự do [Vivendi Universal](../V/Vivendi_Universal.md) xuất bản, được ba nhà phát triển sản xuất cho bốn nền tảng. Mặc dù tựa đề của nó tương tự như tựa phim của [Peter Jackson](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md) nhưng nó dựa trên cuốn sách chứ không phải bộ phim.
 
@@ -118,19 +118,19 @@ Phần giới thiệu kết thúc bằng một đoạn cắt cảnh cho thấy G
 
 <dl><dt>Hobbiton</dt></dl>
 
-Frodo quyết định phải rời khỏi Shire và bán [Bag End](../B/Bag_End.md) cho [Lobelia Sackville-Baggins](../L/Lobelia_Sackville-Baggins.md). Ông thực hiện nhiều nhiệm vụ khác nhau quanh làng; chẳng hạn như sửa cánh gió cho gió của Hal Hornbutter và sửa nhà máy của [Ted Sandyman](Ted_Sandyman.md).
+Frodo quyết định phải rời khỏi Shire và bán [Bag End](../B/Bag_End.md) cho [Lobelia Sackville-Baggins](../L/Lobelia_Sackville-Baggins.md). Ông ta thực hiện nhiều nhiệm vụ khác nhau quanh làng; chẳng hạn như sửa cánh gió cho gió của Hal Hornbutter và sửa nhà máy của [Ted Sandyman](Ted_Sandyman.md).
 
 <dl><dt>Bywater</dt></dl>
 
-Frodo đề nghị chứng thư Bag End cho Lobelia. Tuy nhiên, ban đầu cô từ chối nói chuyện với Frodo cho đến khi anh rung chuông thị trấn để thông báo cho Robin Smallburrow rằng có sói ở trong Shire. Sau khi làm như vậy, ông đã bán được chứng thư cho bà.
+Frodo đề nghị chứng thư Bag End cho Lobelia. Tuy nhiên, ban đầu cô từ chối nói chuyện với Frodo cho đến khi anh rung chuông thị trấn để thông báo cho Robin Smallburrow rằng có sói ở trong Shire. Sau khi làm như vậy, ông ta đã bán được chứng thư cho bà.
 
-<dl><dt>Vùng Đồi Xanh</dt></dl>
+<dl><dt>Green Hill Country</dt></dl>
 
 Mặc dù tùy chọn, Frodo có thể chọn tìm dược liệu cho [Old Noakes](../O/Old_Noakes.md), những loại dược liệu đã bị [Sancho Proudfoot](../S/Sancho_Proudfoot.md) tinh quái phân tán. Tuy nhiên, một số loại thảo mộc này được tìm thấy trong trang trại của gia đình Maggot và Frodo phải tránh bị chó của Farmer Maggot phát hiện.
 
 <dl><dt>Night Hobbiton<sup id="cite_ref-save_1-0" class="reference"><a href="#cite_note-save-1">[1]</a></sup></dt></dl>
 
-Sau khi Frodo quay trở lại Bag End và lấy Nhẫn Chúa từ nơi cất giấu, ông đi xuống nhà Gaffer vào đêm hôm sau để đưa chìa khóa cho ông. Anh tình cờ nghe được cuộc trò chuyện giữa mình và một Kỵ Sĩ Đen bí ẩn, người đang tìm kiếm Baggins. Frodo sau khi đưa chìa khóa cho Gaffer, phải lẻn ra khỏi Hobbiton mà không bị Kỵ sĩ Đen tuần tra trên đường phố phát hiện.
+Sau khi Frodo quay trở lại Bag End và lấy Chiếc nhẫn Chúa từ nơi cất giấu, ông ta đi xuống nhà Gaffer vào đêm hôm sau để đưa chìa khóa cho ông ta. Anh tình cờ nghe được cuộc trò chuyện giữa mình và một Kỵ Sĩ Đen bí ẩn, người đang tìm kiếm Baggins. Frodo sau khi đưa chìa khóa cho Gaffer, phải lẻn ra khỏi Hobbiton mà không bị Kỵ sĩ Đen tuần tra trên đường phố phát hiện.
 
 <dl><dt>Night Bywater<sup id="cite_ref-save_1-1" class="reference"><a href="#cite_note-save-1">[1]</a></sup></dt></dl>
 
@@ -148,11 +148,11 @@ Frodo phải tìm [Merry](../M/Meriadoc_Brandybuck.md), [Sam](../S/Samwise_Gamge
 
 <dl><dt>Withywindle Path</dt></dl>
 
-Frodo tìm thấy Merry và Pippin được chụp bởi [Old Man Willow](../O/Old_Man_Willow.md). Sau khi [Tom Bombadil](Tom_Bombadil.md) đến hiện trường để giải cứu họ, ông nhờ Frodo giúp thu thập hoa loa kèn cho [Goldberry](../G/Goldberry.md). Trên đường đi, nhiều con nhện xuất hiện hơn. Như một phần thưởng, ông mang Hobbit về nhà mình, nơi họ có thể hồi phục.
+Frodo tìm thấy Merry và Pippin được chụp bởi [Old Man Willow](../O/Old_Man_Willow.md). Sau khi [Tom Bombadil](Tom_Bombadil.md) đến hiện trường để giải cứu họ, ông ta nhờ Frodo giúp thu thập hoa loa kèn cho [Goldberry](../G/Goldberry.md). Trên đường đi, nhiều con nhện xuất hiện hơn. Như một phần thưởng, ông ta mang Hobbit về nhà mình, nơi họ có thể hồi phục.
 
 <dl><dt>The Barrow-downs</dt></dl>
 
-Những người bạn đồng hành của Frodo lại bị lạc và Frodo phải tìm thấy họ trong sương mù của những ngọn núi bị ma ám. Ở chiếc xe đẩy cuối cùng Frodo tìm thấy vũ khí mới của mình, một trong những [Dao găm của Westernesse](../D/Daggers_of_Westernesse.md). Mặc dù nhật ký nhiệm vụ cho người chơi biết rằng con dao này là cần thiết để đánh bại tên Barrow-wight đóng vai trò là <a class="extiw" href="http://en.wikipedia.org/wiki/Boss_(video_games)" title="wikipedia:Boss (video games)">trùm</a>, việc ném nhiều tảng đá vào hắn từ vị trí an toàn trên cao cũng là một mẹo nhỏ. Sau khi "đánh bại" xác sống, Frodo quyết định hát một bài hát do Tom Bombadil dạy cho anh, người đã xuất hiện và hát đi xác sống. Ông đưa cho họ thêm dao găm và bảo họ ở lại qua đêm tại *[The Prancing Pony](The_Prancing_Pony.md)*.
+Những người bạn đồng hành của Frodo lại bị lạc và Frodo phải tìm thấy họ trong sương mù của những ngọn núi bị ma ám. Ở chiếc xe đẩy cuối cùng Frodo tìm thấy vũ khí mới của mình, một trong những [Dao găm của Westernesse](../D/Daggers_of_Westernesse.md). Mặc dù nhật ký nhiệm vụ cho người chơi biết rằng con dao này là cần thiết để đánh bại tên Barrow-wight đóng vai trò là <a class="extiw" href="http://en.wikipedia.org/wiki/Boss_(video_games)" title="wikipedia:Boss (video games)">trùm</a>, việc ném nhiều tảng đá vào hắn từ vị trí an toàn trên cao cũng là một mẹo nhỏ. Sau khi "đánh bại" xác sống, Frodo quyết định hát một bài hát do Tom Bombadil dạy cho anh, người đã xuất hiện và hát đi xác sống. Ông ta đưa cho họ thêm dao găm và bảo họ ở lại qua đêm tại *[The Prancing Pony](The_Prancing_Pony.md)*.
 
 ### Bree {#Bree}
 
@@ -162,21 +162,21 @@ Frodo và những người khác vào quán trọ Prancing Pony và nhận phòn
 
 <dl><dt>Town of Bree</dt></dl>
 
-Rõ ràng là Merry bị thiếu và lối chơi chuyển sang Aragorn. Sau khi tìm kiếm Merry trên những con đường đầy ánh trăng của Bree, ông săn lùng các đồ vật để tạo ra Hobbit mồi nhử nhằm đánh lừa Nazgûl vẫn đang bám theo dấu vết của chúng, chiến đấu với sói và những kẻ lưu manh trên đường đi.
+Rõ ràng là Merry bị thiếu và lối chơi chuyển sang Aragorn. Sau khi tìm kiếm Merry trên những con đường đầy ánh trăng của Bree, ông ta săn lùng các đồ vật để tạo ra Hobbit mồi nhử nhằm đánh lừa Nazgûl vẫn đang bám theo dấu vết của chúng, chiến đấu với sói và những kẻ lưu manh trên đường đi.
 
 ### Weathertop {#Weathertop}
 
 <dl><dt>Weathertop Hill</dt></dl>
 
-Sau khi phát hiện tia sét ở đỉnh [Weathertop](../W/Weathertop.md), Aragorn hộ tống Frodo và Sam lên đỉnh. Trên đường [Warg](../W/Wargs.md) và [Orc](../O/Orcs.md) lần đầu tiên được đưa vào trò chơi. Trên đỉnh đồi, Aragorn phát hiện ra dấu hiệu của một cuộc giằng co và một chữ rune mang chữ "G" và số "3". Ngay sau đó ông bị tấn công bởi một [troll](Troll.md). Sau khi đánh bại con troll, Frodo nhận thấy [Kỵ sĩ Đen](../N/Nazgûl.md) trên [phương Đông Đường](../E/East_Road.md) và họ quay trở lại khu cắm trại.
+Sau khi phát hiện tia sét ở đỉnh [Weathertop](../W/Weathertop.md), Aragorn hộ tống Frodo và Sam lên đỉnh. Trên đường [Warg](../W/Wargs.md) và [Orc](../O/Orcs.md) lần đầu tiên được đưa vào trò chơi. Trên đỉnh đồi, Aragorn phát hiện ra dấu hiệu của một cuộc giằng co và một chữ rune mang chữ "G" và số "3". Ngay sau đó ông ta bị tấn công bởi một [troll](Troll.md). Sau khi đánh bại con troll, Frodo nhận thấy [Kỵ sĩ Đen](../N/Nazgûl.md) trên [phương Đông Đường](../E/East_Road.md) và họ quay trở lại khu cắm trại.
 
-<dl><dt>Một lưỡi dao trong bóng tối</dt></dl>
+<dl><dt>A Knife in the Dark</dt></dl>
 
 Trong một đoạn cắt cảnh, Frodo bị [Vua Phù thủy](../W/Witch-king.md) đâm và Aragorn phải ngăn Nazgûl đâm Frodo nhiều hơn nữa, chống lại chúng bằng lửa.
 
 <dl><dt>Troll Shaws</dt></dl>
 
-Aragorn phải dọn sạch khu vực của kẻ thù bao gồm Orc, wargs và một số troll. Khi tất cả kẻ thù bị đánh bại [Glorfindel](../G/Glorfindel.md) xuất hiện; ông gửi Frodo đi trên [Asfaloth](../A/Asfaloth.md). Sau khi đứng ở [Ford of Bruinen](../F/Ford_of_Bruinen.md), Frodo gục xuống.
+Aragorn phải dọn sạch khu vực của kẻ thù bao gồm Orc, wargs và một số troll. Khi tất cả kẻ thù bị đánh bại [Glorfindel](../G/Glorfindel.md) xuất hiện; ông ta gửi Frodo đi trên [Asfaloth](../A/Asfaloth.md). Sau khi đứng ở [Ford of Bruinen](../F/Ford_of_Bruinen.md), Frodo gục xuống.
 
 ### Rivendell {#Rivendell}
 
@@ -200,11 +200,11 @@ Vẫn đóng vai Gandalf, người chơi phải điều khiển một chùm ánh
 
 <dl><dt>2nd Hall</dt></dl>
 
-Frodo và Gimli thấy mình bị tách khỏi phần còn lại của Hiệp hội và phải chiến đấu để vượt qua [Sảnh thứ hai](../S/Second_Hall.md). Người chơi điều khiển Frodo, người phải kéo một số đòn bẩy để nối các cây cầu và mở cửa chính. Mặc dù phần lớn cuộc chiến có thể được giao phó cho Gimli, một số kẻ thù - một số cung thủ, một số Orc - nằm ngoài tầm với của ông và phải bị Frodo tránh hoặc tiêu diệt.
+Frodo và Gimli thấy mình bị tách khỏi phần còn lại của Hiệp hội và phải chiến đấu để vượt qua [Sảnh thứ hai](../S/Second_Hall.md). Người chơi điều khiển Frodo, người phải kéo một số đòn bẩy để nối các cây cầu và mở cửa chính. Mặc dù phần lớn cuộc chiến có thể được giao phó cho Gimli, một số kẻ thù - một số cung thủ, một số Orc - nằm ngoài tầm với của ông ta và phải bị Frodo tránh hoặc tiêu diệt.
 
 <dl><dt>Abyss Fight</dt></dl>
 
-Gandalf chiến đấu với Balrog. Balrog chỉ có thể bị choáng bằng bùa sét, sau đó Gandalf phải đánh ông bằng Glamdring. Tuy nhiên, một đòn từ thanh kiếm của Balrog sẽ gây chết người.
+Gandalf chiến đấu với Balrog. Balrog chỉ có thể bị choáng bằng bùa sét, sau đó Gandalf phải đánh ông ta bằng Glamdring. Tuy nhiên, một đòn từ thanh kiếm của Balrog sẽ gây chết người.
 
 ### Lothlórien {#Lothlórien}
 
@@ -516,7 +516,7 @@ Phần tiếp theo đã được lên kế hoạch cho trò chơi này và có t
 
 <table style="margin: 0 auto; width: 100%;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Trò chơi điện tử được cấp phép lấy bối cảnh ở <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed video games set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </th></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="center"> <a href="../M/Melbourne_House.md" title="Melbourne House">Melbourne House</a>:
@@ -549,7 +549,7 @@ Phần tiếp theo đã được lên kế hoạch cho trò chơi này và có t
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>) · <i><b><a href="The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">War in the North</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>) · <i><b><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>-<a href="../_/2018.md" title="2018">2018</a>) · <i><b><a href="The_Hobbit%253A_Kingdoms_of_Middle-earth.md" title="The Hobbit: Kingdoms of Middle-earth">Kingdoms of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>)· <i><b><a href="The_Hobbit%253A_Armies_of_The_Third_Age.md" title="The Hobbit: Armies of The Third Age">Armies of The Third Age</a></b></i> (<a href="../_/2013.md" title="2013">2013</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Shadow of Mordor</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Shadow of War</a></b></i> (<a href="../_/2017.md" title="2017">2017</a>) · <i><b><a href="The_Lord_of_the_Rings%253A_Rise_to_War.md" title="The Lord of the Rings: Rise to War">Rise to War</a></b></i> (<a href="../_/2021.md" title="2021">2021</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center">Glu Games:
+<th style="background:var(--tg-color-surface-3);" align="center"> Glu Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Middle-Earth_Defense.md" title="The Lord of the Rings: Middle-Earth Defense">Middle-Earth Defense</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>)
 </td></tr>
@@ -559,7 +559,7 @@ Phần tiếp theo đã được lên kế hoạch cho trò chơi này và có t
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: The Video Game</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) · <i><b><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center">Twin Sails Interactive:
+<th style="background:var(--tg-color-surface-3);" align="center"> Twin Sails Interactive:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">The Lord of the Rings: Adventure Card Game</a></b></i> (<a href="../_/2018.md" title="2018">2018</a>)
 </td></tr>
@@ -569,7 +569,7 @@ Phần tiếp theo đã được lên kế hoạch cho trò chơi này và có t
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center">North Beach Games:
+<th style="background:var(--tg-color-surface-3);" align="center"> North Beach Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Return to Moria</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr></tbody></table>

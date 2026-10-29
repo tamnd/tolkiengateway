@@ -31,7 +31,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Ba cô con gái đáng chú ý của [Old Took](../../main/G/Gerontius_Took.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
+"Ba cô con gái đáng chú ý của [the Old Took](../../main/G/Gerontius_Took.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
 
 ## Giấy phép {#Licensing}
 

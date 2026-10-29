@@ -19,15 +19,15 @@ sort_keys:
   "Publications with contribution by J.R.R. Tolkien": "Carandaith"
 ---
 
-<i><b>Carandaith</b></i> là một tạp chí fanzine của Úc được xuất bản bởi [Hội Tolkien Úc](../A/Australian_Tolkien_Society.md) từ năm 1968 đến năm 1972. Nó được biên tập bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_Novitski&amp;action=edit&amp;redlink=1" title="Paul Novitski (page does not exist)">Paul Novitski</a> (dưới bút danh Alpajpuri).
+<i><b>Carandaith</b></i> là một tạp chí fanzine của Úc được xuất bản bởi [Hiệp hội Tolkien Úc](../A/Australian_Tolkien_Society.md) từ năm 1968 đến năm 1972. Nó được biên tập bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_Novitski&amp;action=edit&amp;redlink=1" title="Paul Novitski (page does not exist)">Paul Novitski</a> (dưới bút danh Alpajpuri).
 
 <table class="wikitable">
-<caption>Số phát hành
+<caption>Issues
 </caption>
 <tbody><tr>
 <th>Issue Number</th>
-<th>Ngày</th>
-<th>Số trang
+<th>Date</th>
+<th>No. of pages
 </th></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Carandaith_Vol._1,_No._1&amp;action=edit&amp;redlink=1" title="Carandaith Vol. 1, No. 1 (page does not exist)">1.1</a></td>
@@ -70,12 +70,12 @@ sort_keys:
 <th align="center" style="background: var(--tg-color-surface-5)" colspan="2">Fanzine <i><a class="mw-selflink selflink">Carandaith</a></i> (Australian)
 </th></tr>
 <tr>
-<th align="left" style="background: var(--tg-color-surface-3); padding-right: 4px;" width="20%">Các số phát hành thông thường
+<th align="left" style="background: var(--tg-color-surface-3); padding-right: 4px;" width="20%">Normal issues
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Carandaith_Vol._1,_No._1&amp;action=edit&amp;redlink=1" title="Carandaith Vol. 1, No. 1 (page does not exist)">1.1</a> · <a href="Carandaith_Vol._1,_No._2.md" title="Carandaith Vol. 1, No. 2">1.2</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Carandaith_Vol._1,_No._3&amp;action=edit&amp;redlink=1" title="Carandaith Vol. 1, No. 3 (page does not exist)">1.3</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Carandaith_Vol._1,_No._4&amp;action=edit&amp;redlink=1" title="Carandaith Vol. 1, No. 4 (page does not exist)">1.4</a> · <a href="Carandaith_Vol._2,_No._1.md" title="Carandaith Vol. 2, No. 1">2.1</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Carandaith_6&amp;action=edit&amp;redlink=1" title="Carandaith 6 (page does not exist)">6</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Carandaith_7&amp;action=edit&amp;redlink=1" title="Carandaith 7 (page does not exist)">7</a>
 </td></tr>
 <tr>
-<th align="left" style="background: var(--tg-color-surface-3); padding-right: 4px;" width="20%">Họ hàng
+<th align="left" style="background: var(--tg-color-surface-3); padding-right: 4px;" width="20%">Relatives
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/Australian_Tolkien_Society.md" title="Australian Tolkien Society">Australian Tolkien Society</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_Novitski&amp;action=edit&amp;redlink=1" title="Paul Novitski (page does not exist)">Alpajpuri</a>
 </td></tr></tbody></table>

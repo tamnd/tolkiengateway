@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Một cảnh trong [The Return of the King (phim năm 1980)](<../../main/T/The_Return_of_the_King_(1980_film).md>). Đây là một cảnh trong giấc mơ của [Frodo](../../main/F/Frodo_Baggins.md), khi anh tưởng tượng về một cuộc sống yên bình hơn, nơi [Orc](../../main/O/Orcs.md) là bạn bè và hàng xóm của anh thay vì kẻ thù.
+Một cảnh trong [The Return of the King (phim 1980)](<../../main/T/The_Return_of_the_King_(1980_film).md>). Đây là một cảnh trong giấc mơ của [Frodo](../../main/F/Frodo_Baggins.md), khi anh tưởng tượng về một cuộc sống yên bình hơn, nơi [Orc](../../main/O/Orcs.md) là bạn bè và hàng xóm của anh thay vì kẻ thù.
 
 ## Giấy phép {#Licensing}
 

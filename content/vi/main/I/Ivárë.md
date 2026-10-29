@@ -22,7 +22,7 @@ sort_keys:
 
 **Ivárë** là một [Tiên](../E/Elves.md) [minstrel](../M/Minstrels.md) nổi tiếng, được đặt tên cùng với [Tinfang Warble](../T/Tinfang_Warble.md) và [Dairon](../D/Daeron.md) là một trong "ba người chơi ma thuật nhất của Tiên tộc", theo [huyền thoại](../L/Legendarium.md) đầu tiên trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong *[Gnomish Lexicon](../G/Gnomish_Lexicon.md)* ông được gọi là "người thổi sáo của biển",<sup id="cite_ref-Ior_2-0" class="reference"><a href="#cite_note-Ior-2">[2]</a></sup> có thể ám chỉ rằng ông là một trong [Solosimpi](../S/Solosimpi.md), một nhóm Tiên tộc mà trong truyền thuyết sau này đã trở thành [Teleri](../F/Falmari.md) của [Aman](../A/Aman.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
+Trong *[Gnomish Lexicon](../G/Gnomish_Lexicon.md)* ông ta được gọi là "người thổi sáo của biển",<sup id="cite_ref-Ior_2-0" class="reference"><a href="#cite_note-Ior-2">[2]</a></sup> có thể ám chỉ rằng ông ta là một trong [Solosimpi](../S/Solosimpi.md), một nhóm Tiên tộc mà trong truyền thuyết sau này đã trở thành [Teleri](../F/Falmari.md) của [Aman](../A/Aman.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

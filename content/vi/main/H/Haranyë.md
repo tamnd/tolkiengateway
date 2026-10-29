@@ -18,12 +18,12 @@ langlinks:
     url: "https://kontu.wiki/Harany%C3%AB"
 ---
 
-**Haranyë** là thuật ngữ lịch được sử dụng trong bối cảnh [Lịch Tính của Nhà Vua](../K/King's_Reckoning.md). Có lẽ là tên của năm cuối cùng của thế kỷ.<sup id="cite_ref-D2_1-0" class="reference"><a href="#cite_note-D2-1">[1]</a></sup>
+**Haranyë** là thuật ngữ lịch được sử dụng trong bối cảnh [Vua Tính toán](../K/King's_Reckoning.md). Có lẽ là tên của năm cuối cùng của thế kỷ.<sup id="cite_ref-D2_1-0" class="reference"><a href="#cite_note-D2-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Cứ bốn năm một lần, trừ năm cuối thế kỷ (<i>haranyë</i>)...
+<p>In every fourth year, except the last of a century (<i>haranyë</i>)...
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-D2_1-1" class="reference"><a href="#cite_note-D2-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

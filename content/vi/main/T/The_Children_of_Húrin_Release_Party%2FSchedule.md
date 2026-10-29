@@ -31,7 +31,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>0:00
 </td>
-<td>8 giờ tối (ngày trước)
+<td>8:00pm (prev. day)
 </td>
 <td>
 </td>
@@ -44,7 +44,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>1:00
 </td>
-<td>9:00 tối (ngày trước)
+<td>9:00pm (prev. day)
 </td>
 <td>
 </td>
@@ -57,7 +57,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>2:00
 </td>
-<td>10:00 tối (ngày trước)
+<td>10:00pm (prev. day)
 </td>
 <td>
 </td>
@@ -70,7 +70,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>3:00
 </td>
-<td>23:00 (ngày hôm trước)
+<td>11:00pm (prev. day)
 </td>
 <td>
 </td>
@@ -83,7 +83,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>4:00
 </td>
-<td>12:00pm
+<td>12:00am
 </td>
 <td>
 </td>
@@ -96,7 +96,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>5:00
 </td>
-<td>1 giờ sáng
+<td>1:00am
 </td>
 <td>
 </td>
@@ -109,7 +109,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>6:00
 </td>
-<td>2 giờ sáng
+<td>2:00am
 </td>
 <td>
 </td>
@@ -122,7 +122,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>7:00
 </td>
-<td>3 giờ sáng
+<td>3:00am
 </td>
 <td>
 </td>
@@ -135,7 +135,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>8:00
 </td>
-<td>4 giờ sáng
+<td>4:00am
 </td>
 <td>
 </td>
@@ -148,7 +148,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>9:00
 </td>
-<td>5 giờ sáng
+<td>5:00am
 </td>
 <td>
 </td>
@@ -161,7 +161,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>10:00
 </td>
-<td>6 giờ sáng
+<td>6:00am
 </td>
 <td>
 </td>
@@ -174,7 +174,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>11:00
 </td>
-<td>7 giờ sáng
+<td>7:00am
 </td>
 <td>
 </td>
@@ -187,7 +187,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>12:00
 </td>
-<td>8 giờ sáng
+<td>8:00am
 </td>
 <td>
 </td>
@@ -200,7 +200,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>13:00
 </td>
-<td>9 giờ sáng
+<td>9:00am
 </td>
 <td>
 </td>
@@ -213,7 +213,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>14:00
 </td>
-<td>10 giờ sáng
+<td>10:00am
 </td>
 <td><a href="../M/Michaël_Devaux.md" title="Michaël Devaux">Michaël Devaux</a>
 </td>
@@ -226,7 +226,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>15:00
 </td>
-<td>11 giờ sáng
+<td>11:00am
 </td>
 <td>
 </td>

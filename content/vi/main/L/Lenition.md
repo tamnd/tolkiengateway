@@ -25,18 +25,18 @@ Trong quá trình phát triển âm vị học của Sindarin, sự biến đổ
 Cụ thể hơn, sự phát triển của những âm thanh này có thể được hình dung trong các ví dụ sau:
 
 <dl><dt>p &gt; b</dt>
-<dd>HĐH *<i>kele<b>p</b>e</i> &gt; S <i><a href="../C/Celeb.md" title="Celeb">celeb</a></i> "bạc"</dd>
+<dd>OS *<i>kele<b>p</b>e</i> &gt; S <i><a href="../C/Celeb.md" title="Celeb">celeb</a></i> &#34;silver&#34;</dd>
 <dt>t &gt; d</dt>
-<dd>HĐH *<i>a<b>t</b>ar</i> &gt; S <i><a href="../A/Adar.md" title="Adar">adar</a></i> "cha"</dd>
+<dd>OS *<i>a<b>t</b>ar</i> &gt; S <i><a href="../A/Adar.md" title="Adar">adar</a></i> &#34;father&#34;</dd>
 <dt>k &gt; g</dt>
-<dd>HĐH <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Beleka&amp;action=edit&amp;redlink=1" title="Beleka (page does not exist)">bele<b>k</b>a</a></i> &gt; S <i><a href="../B/Beleg.md" title="Beleg">beleg</a></i> "tuyệt vời"</dd></dl>
+<dd>OS <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Beleka&amp;action=edit&amp;redlink=1" title="Beleka (page does not exist)">bele<b>k</b>a</a></i> &gt; S <i><a href="../B/Beleg.md" title="Beleg">beleg</a></i> &#34;great&#34;</dd></dl>
 
 <dl><dt>b &gt; v</dt>
-<dd>HĐH *<i>ja<b>b</b>asse</i> &gt; S <i><a href="../I/Iavas.md" title="Iavas">Iavas</a></i> "mùa thu"<sup id="cite_ref-Q_1-0" class="reference"><a href="#cite_note-Q-1">[note 1]</a></sup></dd>
+<dd>OS *<i>ja<b>b</b>asse</i> &gt; S <i><a href="../I/Iavas.md" title="Iavas">Iavas</a></i> &#34;autumn&#34;<sup id="cite_ref-Q_1-0" class="reference"><a href="#cite_note-Q-1">[note 1]</a></sup></dd>
 <dt>d &gt; dh</dt>
 <dd>OS *<i>e<b>d</b>elo</i> &gt; S <i><a href="../E/Edhel.md" title="Edhel">Edhel</a></i> &#34;Elf&#34;</dd>
 <dt>g &gt; ∅</dt>
-<dd>HĐH *<i>khu<b>g</b>o</i> &gt; *<i>huȝo</i><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> &gt; S <i><a href="../H/Hû.md" title="Hû">hû</a></i> "con chó"<sup id="cite_ref-Q_1-1" class="reference"><a href="#cite_note-Q-1">[note 1]</a></sup></dd></dl>
+<dd>OS *<i>khu<b>g</b>o</i> &gt; *<i>huȝo</i><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> &gt; S <i><a href="../H/Hû.md" title="Hû">hû</a></i> &#34;dog&#34;<sup id="cite_ref-Q_1-1" class="reference"><a href="#cite_note-Q-1">[note 1]</a></sup></dd></dl>
 
 <dl><dt>m &gt; v</dt>
 <dd>OS *<i>A<b>m</b>ān</i> &gt; S <i><a class="mw-redirect" href="../A/Avon.md" title="Avon">Avon</a></i> &#34;Aman&#34;</dd>
@@ -61,8 +61,8 @@ Thực tế là các âm thanh trên bị đột biến khi được củng cố
 
 ## Ý nghĩa ngữ pháp và cú pháp {#Grammatical_and_Syntactical_significance}
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Lenition&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Lenition&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>

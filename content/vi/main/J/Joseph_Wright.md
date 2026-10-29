@@ -20,7 +20,7 @@ images:
   - "Joseph_Wright.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Joseph_Wright.jpg.md"><img src="https://tolkiengateway.net/w/images/5/5e/Joseph_Wright.jpg" decoding="async" loading="lazy" width="205" height="313" class="mw-file-element" data-file-width="205" data-file-height="313"/></a><figcaption>Joseph Wright, cũng nằm ở trang 33 của <i><a href="../T/The_Tolkien_Family_Album.md" title="The Tolkien Family Album">The Tolkien Family Album</a></i></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Joseph_Wright.jpg.md"><img src="https://tolkiengateway.net/w/images/5/5e/Joseph_Wright.jpg" decoding="async" loading="lazy" width="205" height="313" class="mw-file-element" data-file-width="205" data-file-height="313"/></a><figcaption>Joseph Wright, also located on page 33 of <i><a href="../T/The_Tolkien_Family_Album.md" title="The Tolkien Family Album">The Tolkien Family Album</a></i></figcaption></figure>
 
 **Joseph Wright** ([31 tháng 10](../_/31_October.md) [1855](../_/1855.md) – [27 tháng 2](../_/27_February.md) [1930](../_/1930.md)) một nhà ngữ văn người Đức gốc Anh. Ông từng là Giáo sư Ngữ văn So sánh tại [Đại học Oxford](../U/University_of_Oxford.md), nơi ông là một trong những giảng viên của [J.R.R. Tolkien](J.R.R._Tolkien.md).
 
@@ -33,7 +33,7 @@ Tuy nhiên, tác động của Wright đối với Tolkien không chỉ giới h
 Trong [1925](../_/1925.md) Wright đã viết thư giới thiệu cho Tolkien ứng tuyển vào [Rawlinson và Bosworth Professorship of Anglo-Saxon](../R/Rawlinson_and_Bosworth_Professorship_of_Anglo-Saxon.md):
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tôi đã biết rõ về Giáo sư Tolkien kể từ những ngày đầu học đại học tại Oxford và rất ngưỡng mộ sự quan tâm sâu sắc của ông đối với việc nghiên cứu ngữ văn về tiếng Latinh, tiếng Hy Lạp và đặc biệt hơn là các ngôn ngữ Đức. Ông thường xuyên tham dự các lớp học và bài giảng của tôi trong hai năm về Ngữ văn so sánh nói chung, cũng như về tiếng Latinh, tiếng Hy Lạp và tiếng Gothic, và tôi đánh giá cao thành tích của ông trong những môn học này...
+<p>I have known Professor Tolkien intimately since the beginning of his undergraduate days at Oxford, and have greatly admired his keen interest in the philological study of Latin, Greek, and more especially the Germanic Languages. He regularly attended my classes and lectures for two years on Comparative Philology in general, and on Latin, Greek, and Gothic, and I formed a high opinion of his attainments in these subjects...
 </p>
 <p class="tg-quote-footer"><cite>An Application for the Rawlinson and Bosworth Professorship of Anglo-Saxon in the University of Oxford by J.R.R. Tolkien, Professor of the English Language in the University of Leeds, June 25, 1925</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

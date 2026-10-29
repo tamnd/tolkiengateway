@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Gabriele_Quaglia"
 content_sha256: c14e5d52cd0325b80aca629c8764c4b4df27fdb44510db2dbcbf13093222f1f1
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Tác giả cuốn sách nguồn Nhẫn Chúa Trò chơi nhập vai"
+short_description: "Author of The One Ring Roleplaying Game sourcebooks"
 categories:
   - "Italian people"
   - "Authors"

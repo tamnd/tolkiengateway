@@ -42,7 +42,7 @@ images:
 <td style="text-align:center"><b><a href="../../file/C/Curufinwe.mp3.md" title="File:Curufinwe.mp3">File:Curufinwe.mp3</a></b></td>
 </tr>
 <tr>
-<td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
+<td style="font-size: small; padding-bottom: 3px; text-align:center;">By <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Media help</a>)</td>
 </tr>
 </tbody></table>
 </div>

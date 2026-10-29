@@ -18,37 +18,37 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Sundocarme&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Sundocarme&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Các gốc từ được viết bằng chữ in hoa và hoàn toàn không được dùng như những từ ngữ thông thường, mà có tác dụng giải thích các từ được xếp cùng nhóm và thể hiện mối liên hệ giữa chúng.
+<p>Roots are in capitals, and are not words in use at all, but serve as an elucidation of the words grouped together and a connection between them.
 </p>
-<p class="tg-quote-footer"><cite>ghi chú của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> trong <i><a class="mw-redirect" href="../Q/Qenya_Lexicon.md" title="Qenya Lexicon">Qenya Lexicon</a></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s note in the <i><a class="mw-redirect" href="../Q/Qenya_Lexicon.md" title="Qenya Lexicon">Qenya Lexicon</a></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Sundocarmë** hay "Cấu trúc cơ sở" là tiêu đề của một phần trong <a class="new" href="[https://tolkiengateway.net/w/index.php?title=Tengwesta_Qenderinwa&amp;action=edit&amp;redlink=1](../E/Elvish.md)" title="Tengwesta Qenderinwa (page does not exist)">Tengwesta Qenderinwa</a> (*Quendian Grammar*) bàn về ba dạng chính của các gốc từ nguyên Elvish và những biến đổi của chúng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tất cả các từ [Elvish](../E/Elvish.md) và [Mannish](../M/Mannish.md) (và theo một nghĩa nào đó, cả [Khuzdul](../K/Khuzdul.md)) đều bắt nguồn từ một gốc hoặc [sundo](Sundo.md).
+**Sundocarmë** hay "Cấu trúc cơ sở" là tiêu đề của một phần trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tengwesta_Qenderinwa&amp;action=edit&amp;redlink=1" title="Tengwesta Qenderinwa (page does not exist)">Tengwesta Qenderinwa</a> (*Quendian Grammar*) của Tolkien liên quan đến ba hình dạng chính của [Elvish](../E/Elvish.md) gốc từ nguyên và các sửa đổi của chúng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tất cả các từ [Elvish](../E/Elvish.md) và [Mannish](../M/Mannish.md) (và theo một nghĩa nào đó, cả [Khuzdul](../K/Khuzdul.md)) xuất phát từ gốc cơ sở hoặc [sundo](Sundo.md).
 
-Các căn tố không phải là những từ ngữ thực sự, mà là những dạng cơ sở chứa đựng ý nghĩa khái quát. Trong quá trình phát triển qua các thời kỳ, các từ ngữ thực sự hình thành từ những căn tố này bằng cách thêm phụ tố, hậu tố hoặc biến đổi căn tố.
+Gốc không phải là những từ thực tế mà là những cơ sở chứa đựng những ý nghĩa chung, và từ đó, trong quá trình tiến hóa và thời gian, những từ thực sự được rút ra thông qua các phụ tố, hậu tố hoặc sửa đổi.
 
-Trong giai đoạn sơ khai nhất của [Primitive Quendian](../P/Primitive_Quendian.md), các căn tố có lẽ được dùng như những từ ngữ thực sự; vào thời kỳ đó, Tiên tộc chỉ có thể nói bằng những từ không có biến tố, chưa phân biệt các thành phần của lời nói. Theo truyền thống, từ đầu tiên mà một Tiên từng thốt ra là *el-e!*, một thán từ nguyên thủy có nghĩa là “nhìn kìa!”, dùng để chỉ một ngôi sao.
+Trong giai đoạn đầu tiên của [Primitive Quendian](../P/Primitive_Quendian.md), gốc có thể được sử dụng như các từ thực tế; trong thời kỳ đó Tiên tộc chỉ có thể nói bằng những từ không biến cách, không có bất kỳ sự phân biệt nào giữa các phần của lời nói (Truyền thống nói rằng từ đầu tiên được nói bởi một Tiên là *el-e!*, một câu cảm thán nguyên thủy "nhìn!", ám chỉ một ngôi sao).
 
-Khung phụ âm của căn tố được gọi là [canta](../C/Canta.md), còn nguyên âm căn tố ở vị trí trung tâm được gọi là [sundóma](Sundóma.md).
+Khung phụ âm gốc được gọi là [canta](../C/Canta.md) và nguyên âm căn trung tâm được gọi là [sundóma](Sundóma.md).
 
 ## Danh mục {#Categories}
 
-Các căn tố thường có những dạng cấu tạo sau:
+Rễ thường có sự kết hợp xây dựng:
 
-- VC hoặc CV (ví dụ: K<sup>W</sup>E “nói”; dạng này được gọi là *đơn phụ âm*)
-- (C)VCV (ví dụ: <a class="new" href="https://tolkiengateway.net/w/index.php?title=DELE&amp;action=edit&amp;redlink=1" title="DELE (page does not exist)">DELE</a>- “đi bộ”, [ABA](../A/ABA.md)- “phủ nhận”; dạng này thường được dùng cho những nghĩa liên quan đến hành động hoặc động từ)
-- CVC(V) (ví dụ: <a class="new" href="https://tolkiengateway.net/w/index.php?title=TATA&amp;action=edit&amp;redlink=1" title="TATA (page does not exist)">TATA</a>- “hai”, [TUR](../T/TUR~21398.md)- “sức mạnh, sự kiểm soát”)
+- VC hoặc CV (ví dụ: K<sup>W</sup>E "speak"; danh mục này được gọi là *monoconsonantic*)
+- (C)VCV (ví dụ: <a class="new" href="https://tolkiengateway.net/w/index.php?title=DELE&amp;action=edit&amp;redlink=1" title="DELE (page does not exist)">DELE</a>- "walk", [ABA](../A/ABA.md)- "deny"; danh mục này được ưu tiên cho các ý nghĩa liên quan đến hành động/động từ)
+- CVC(V) (ví dụ: <a class="new" href="https://tolkiengateway.net/w/index.php?title=TATA&amp;action=edit&amp;redlink=1" title="TATA (page does not exist)">TATA</a>- "hai", [TUR](../T/TUR~21398.md)- "nguồn, điều khiển")
 
 ## Ví dụ {#Examples}
 
-Sau đây là một số căn tố cùng các dạng phái sinh của chúng trong nhiều ngôn ngữ khác nhau.
+Đây là một số từ gốc, với các dẫn xuất của chúng bằng nhiều ngôn ngữ khác nhau
 
 <dl><dt><a href="../G/GALA.md" title="GALA">GALA</a></dt>
 <dd><a href="../G/GALÁD.md" title="GALÁD">GALÁD</a>: <a class="mw-redirect" href="../P/Proto-Quendian.md" title="Proto-Quendian">Proto-Quendian</a> <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Galad%C3%A2&amp;action=edit&amp;redlink=1" title="Galadâ (page does not exist)">galadâ</a></i>, <a href="../T/Telerin.md" title="Telerin">Telerin</a> <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Galla&amp;action=edit&amp;redlink=1" title="Galla (page does not exist)">galla</a></i>, <a href="Sindarin.md" title="Sindarin">Sindarin</a> <i><a href="../G/Galadh.md" title="Galadh">galadh</a></i>, <a href="../Q/Quenya.md" title="Quenya">Quenya</a> <i><a href="../A/Alda.md" title="Alda">alda</a></i></dd>
@@ -57,13 +57,13 @@ Sau đây là một số căn tố cùng các dạng phái sinh của chúng tro
 <dd><a class="mw-redirect" href="../A/A-NÁR.md" title="A-NÁR">A-NÁR</a>: Quenya <i><a href="Sun.md" title="Sun">anar</a></i>, Sindarin <i><a href="Sun.md" title="Sun">anor</a></i></dd>
 <dt><a href="../K/KWE.md" title="KWE">K<sup>W</sup>E</a></dt>
 <dd><a class="mw-redirect" href="../K/KWETE.md" title="KWETE">K<sup>W</sup>ETE</a>: Quenya <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Quetta&amp;action=edit&amp;redlink=1" title="Quetta (page does not exist)">quetta</a>, <a href="../Q/Quenta.md" title="Quenta">quenta</a>, quet</i>, Sindarin <i><a href="../P/Peth.md" title="Peth">peth</a></i></dd>
-<dd><a class="mw-redirect" href="../K/KWENE.md" title="KWENE">K<sup>W</sup>ENE</a>: Proto-Quendian <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kwend%C3%AA&amp;action=edit&amp;redlink=1" title="Kwendê (page does not exist)">kwendê</a></i>, Quenya <i><a class="mw-redirect" href="../Q/Quendë.md" title="Quendë">quendë</a></i>, Sindarin <i><a href="../P/Pen.md" title="Pen">pen</a></i>, <a href="../A/Avarin.md" title="Avarin">Avarin</a> <i><a href="../P/Penni.md" title="Penni">penni</a></i>, v.v.</dd>
+<dd><a class="mw-redirect" href="../K/KWENE.md" title="KWENE">K<sup>W</sup>ENE</a>: Proto-Quendian <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kwend%C3%AA&amp;action=edit&amp;redlink=1" title="Kwendê (page does not exist)">kwendê</a></i>, Quenya <i><a class="mw-redirect" href="../Q/Quendë.md" title="Quendë">quendë</a></i>, Sindarin <i><a href="../P/Pen.md" title="Pen">pen</a></i>, <a href="../A/Avarin.md" title="Avarin">Avarin</a> <i><a href="../P/Penni.md" title="Penni">penni</a></i> etc.</dd>
 <dt><a href="../L/LAK.md" title="LAK">LAK</a></dt>
 <dd><a class="new" href="https://tolkiengateway.net/w/index.php?title=A-LAK&amp;action=edit&amp;redlink=1" title="A-LAK (page does not exist)">A-LAK</a>: Proto-Quendian <i>alak<sup>w</sup>â</i>, Quenya <i><a href="../A/Alqua.md" title="Alqua">alqua</a></i>, Sindarin <i><a href="../A/Alph.md" title="Alph">alph</a></i>.</dd>
 <dt><a href="../R/ROK.md" title="ROK">ROKO</a></dt>
 <dd>Quenya <i><a class="mw-redirect" href="../H/Horse.md#Names" title="Horse">rocco</a></i>, Sindarin <i><a class="mw-redirect" href="../H/Horse.md#Names" title="Horse">roch</a></i></dd></dl>
 
-Một số căn tố của [Mannish](../M/Mannish.md), đôi khi bắt nguồn từ các từ Elvish, được ghi nhận như sau:
+Một số từ gốc [Mannish](../M/Mannish.md) (đôi khi bắt nguồn từ các từ Elvish) là:
 
 <dl><dt><a href="../B/BAR~31359.md" title="BAR">BAR</a></dt>
 <dd><a href="../A/Adûnaic.md" title="Adûnaic">Adûnaic</a> <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ab%C3%A2r&amp;action=edit&amp;redlink=1" title="Abâr (page does not exist)">abâr</a></i>, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Abraz%C3%A2n&amp;action=edit&amp;redlink=1" title="Abrazân (page does not exist)">abrazân</a></i>, <a href="../W/Westron.md" title="Westron">Westron</a> <i><a href="../B/Branda.md" title="Branda">brand(a)</a></i>, <i><a href="../B/Bara.md" title="Bara">bara</a></i></dd>
@@ -74,7 +74,7 @@ Một số căn tố của [Mannish](../M/Mannish.md), đôi khi bắt nguồn t
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Root_\(linguistics\)" title="wikipedia:Root (linguistics)">Wikipedia:Gốc từ (ngôn ngữ học)</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Root_(linguistics)" title="wikipedia:Root (linguistics)">Wikipedia:Gốc (ngôn ngữ học)</a>
 
 <span></span>
 

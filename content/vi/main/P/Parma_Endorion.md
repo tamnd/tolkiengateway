@@ -63,7 +63,7 @@ Nó có một vài hình minh họa của [Anke Eißmann](../A/Anke_Eißmann.md)
 
 - ​
     - Cái [Avari](../A/Avari.md)
-    - Cái [Tiên tộc Silvan](../S/Silvan_Elves.md)
+    - Cái [Silvan Tiên tộc](../S/Silvan_Elves.md)
     - Cái [Sindar](../S/Sindar.md)
     - Cái [Noldor](../N/Noldor.md)
     - Cái [Falmari](../F/Falmari.md)

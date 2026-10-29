@@ -26,7 +26,7 @@ infobox:
     value: "Artist"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Carl Critchlow</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/29_September.md" title="29 September">29 September</a> <a href="../_/1963.md" title="1963">1963</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nghệ sĩ</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Carl Critchlow</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/29_September.md" title="29 September">29 September</a> <a href="../_/1963.md" title="1963">1963</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
 **Carl Critchlow** (sinh [29 tháng Chín](../_/29_September.md) [1963](../_/1963.md)) là một họa sĩ minh họa truyện tranh và giả tưởng người Anh.<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup> Là một nghệ sĩ [Magic: The Gathering](../M/Magic%253A_The_Gathering.md), ông đã sáng tạo nghệ thuật cho bản mở rộng [The Hobbit](../M/Magic%253A_The_Gathering_-_The_Hobbit.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

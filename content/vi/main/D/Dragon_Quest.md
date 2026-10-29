@@ -15,7 +15,7 @@ images:
   - "DragonQuestCover3.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/DragonQuestCover3.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cb/DragonQuestCover3.jpg/250px-DragonQuestCover3.jpg" decoding="async" loading="lazy" width="250" height="255" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cb/DragonQuestCover3.jpg/375px-DragonQuestCover3.jpg 1.5x, https://tolkiengateway.net/w/images/c/cb/DragonQuestCover3.jpg 2x" data-file-width="400" data-file-height="408"/></a><figcaption>Rồng Vỏ nhiệm vụ</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/DragonQuestCover3.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cb/DragonQuestCover3.jpg/250px-DragonQuestCover3.jpg" decoding="async" loading="lazy" width="250" height="255" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cb/DragonQuestCover3.jpg/375px-DragonQuestCover3.jpg 1.5x, https://tolkiengateway.net/w/images/c/cb/DragonQuestCover3.jpg 2x" data-file-width="400" data-file-height="408"/></a><figcaption>Dragon Quest cover</figcaption></figure>
 
 <i><b>Rồng Quest</b></i> là một album của [Soundestiny](../S/Soundestiny.md) được phát hành vào năm 2012.
 

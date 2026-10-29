@@ -44,9 +44,9 @@ infobox:
     value: "Platform, Adventure"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Hobbit</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Hobbit_(disambiguation).md" title="The Hobbit (disambiguation)">The Hobbit (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Hobbit</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Hobbit_(disambiguation).md" title="The Hobbit (disambiguation)">The Hobbit (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_(2003)_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/6/6a/The_Hobbit_%282003%29_cover.jpg" decoding="async" loading="lazy" width="320" height="449" class="mw-file-element" data-file-width="320" data-file-height="449"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi điện tử</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Hobbit</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà phát triển</th><td class="tg-infobox-data"><a class="mw-redirect" href="../I/Inevitable_Entertainment.md" title="Inevitable Entertainment">Inevitable Entertainment</a> (GC, PS2, Xbox)<br/>The Fizz Factor (PC)<br/>Saffire (GBA)</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../S/Sierra_Entertainment.md" title="Sierra Entertainment">Sierra Entertainment</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nền tảng</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Game_Boy_Advance" title="wikipedia:Game Boy Advance">Game Boy Advance</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/GameCube" title="wikipedia:GameCube">GameCube</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Microsoft_Windows" title="wikipedia:Microsoft Windows">Microsoft Windows</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_2" title="wikipedia:PlayStation 2">PlayStation 2</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Xbox" title="wikipedia:Xbox">Xbox</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/North_America" title="wikipedia:North America">NA</a>: <a href="../_/11_November.md" title="11 November">November 11</a> <a href="../_/2003.md" title="2003">2003</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Europe" title="wikipedia:Europe">EU</a>: <a href="../_/28_November.md" title="28 November">November 28</a> <a href="../_/2003.md" title="2003">2003</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Platform, Adventure</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_(2003)_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/6/6a/The_Hobbit_%282003%29_cover.jpg" decoding="async" loading="lazy" width="320" height="449" class="mw-file-element" data-file-width="320" data-file-height="449"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Hobbit</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a class="mw-redirect" href="../I/Inevitable_Entertainment.md" title="Inevitable Entertainment">Inevitable Entertainment</a> (GC, PS2, Xbox)<br/>The Fizz Factor (PC)<br/>Saffire (GBA)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../S/Sierra_Entertainment.md" title="Sierra Entertainment">Sierra Entertainment</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Game_Boy_Advance" title="wikipedia:Game Boy Advance">Game Boy Advance</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/GameCube" title="wikipedia:GameCube">GameCube</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Microsoft_Windows" title="wikipedia:Microsoft Windows">Microsoft Windows</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_2" title="wikipedia:PlayStation 2">PlayStation 2</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Xbox" title="wikipedia:Xbox">Xbox</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/North_America" title="wikipedia:North America">NA</a>: <a href="../_/11_November.md" title="11 November">November 11</a> <a href="../_/2003.md" title="2003">2003</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Europe" title="wikipedia:Europe">EU</a>: <a href="../_/28_November.md" title="28 November">November 28</a> <a href="../_/2003.md" title="2003">2003</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Platform, Adventure</td></tr></tbody></table>
 
 <i><b>The Hobbit: Khúc dạo đầu của The Lord of the Rings</b></i> là một trò chơi điện tử được xuất bản trên [2003](../_/2003.md) bởi [Vivendi](../V/Vivendi.md) và [Sierra Entertainment](../S/Sierra_Entertainment.md). Đây là một trò chơi nền tảng được thiết lập xung quanh các sự kiện trong *[The Hobbit](The_Hobbit.md)*. Đây là phiên bản chuyển thể tương tác thứ hai sau [Melbourne House](../M/Melbourne_House.md)'s [phiên bản 1982](<The_Hobbit_(1982_video_game).md>).
 
@@ -54,8 +54,8 @@ infobox:
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Diễn viên</th>
-<th>Vai trò
+<th>Actor</th>
+<th>Role
 </th></tr>
 <tr>
 <td><a href="../M/Michael_Beattie.md" title="Michael Beattie">Michael Beattie</a></td>
@@ -63,7 +63,7 @@ infobox:
 </td></tr>
 <tr>
 <td><a href="Tom_Kane.md" title="Tom Kane">Tom Kane</a></td>
-<td><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Người dẫn chuyện</a>
+<td><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Narrator</a>
 </td></tr>
 <tr>
 <td><a href="../J/Jim_Ward.md" title="Jim Ward">Jim Ward</a></td>
@@ -86,8 +86,8 @@ Sáu người này là những diễn viên duy nhất có vai trò được ch�
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Diễn viên</th>
-<th>Vai trò
+<th>Actor</th>
+<th>Role
 </th></tr>
 <tr>
 <td><a href="../A/Alister_Duncan.md" title="Alister Duncan">Alister Duncan</a></td>
@@ -146,7 +146,7 @@ Sáu người này là những diễn viên duy nhất có vai trò được ch�
 <td><a href="../B/Balfor.md" title="Balfor">Balfor</a>
 </td></tr>
 <tr>
-<td>Diễn viên vô danh</td>
+<td>Unknown actor</td>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Corwin&amp;action=edit&amp;redlink=1" title="Corwin (page does not exist)">Corwin</a>
 </td></tr></tbody></table>
 
@@ -160,7 +160,7 @@ Trong chuyến thăm của những người lùn tới [Bag End](../B/Bag_End.md
 
 #### Một bữa tiệc bất ngờ {#An_Unexpected_Party}
 
-Bilbo được cử đến Rồng Xanh, nhưng trước tiên ông phải thu thập đồ dự trữ cho [Bombur](../B/Bombur.md) và thực hiện các công việc khác nhau cho nhiều Hobbit khác nhau.
+Bilbo được cử đến Green Rồng, nhưng trước tiên ông ta phải thu thập đồ dự trữ cho [Bombur](../B/Bombur.md) và thực hiện các công việc khác nhau cho nhiều Hobbit khác nhau.
 
 #### Thịt cừu nướng {#Roast_Mutton}
 
@@ -168,7 +168,7 @@ Bilbo được gửi đi để điều tra đèn cháy. Màn này giới thiệu
 
 #### Hố quỷ {#Troll-hole}
 
-Bilbo phải khám phá hang troll và tìm chiếc chìa khóa troll cần thiết để mở hang. Được biết, [Vua Phù thủy](../W/Witch-king.md) của [Angmar](../A/Angmar.md) đã xây dựng nhiều hang động trong khu vực (khi nó còn được gọi là [Rhudaur](../R/Rhudaur.md)), và nhiều tay sai của hắn vẫn ẩn náu ở đó. Ông tìm thấy Lianna, một Tiên của Mirkwood và một con dao găm mà ông đặt tên là [Sting](../S/Sting.md).
+Bilbo phải khám phá hang troll và tìm chiếc chìa khóa troll cần thiết để mở hang. Được biết, [Vua Phù thủy](../W/Witch-king.md) của [Angmar](../A/Angmar.md) đã xây dựng nhiều hang động trong khu vực (khi nó còn được gọi là [Rhudaur](../R/Rhudaur.md)), và nhiều tay sai của hắn vẫn ẩn náu ở đó. Ông ta tìm thấy Lianna, một Tiên của Mirkwood và một con dao găm mà ông ta đặt tên là [Sting](../S/Sting.md).
 
 #### Trên đồi và Dưới đồi {#Over_Hill_and_Under_Hill}
 
@@ -178,11 +178,11 @@ Sau khi truy cập [Elrond](../E/Elrond.md), [Thorin và Đoàn tùy tùng](Thor
 
 Sau khi bị yêu tinh bắt, Bilbo bị tách khỏi phần còn lại của Công ty. Cấp độ này giới thiệu [Goblin-town](../G/Goblin-town.md) như một mỏ Người Lùn, hoàn chỉnh với thang máy và đường ray xe đẩy tàu lượn siêu tốc. Ở cấp độ này, Bilbo gặp [Balfor](../B/Balfor.md), một Người Lùn của [Dãy Đồi Sắt](../I/Iron_Hills.md) và Ugslap, người bảo vệ Yêu tinh. Cấp độ kết thúc với việc Bilbo tìm thấy Chiếc nhẫn.
 
-<dl><dd><i>Tại thời điểm này, một hình ảnh động bắt đầu mô tả trò chơi giải đố, theo sau là bảng câu chuyện kể về cuộc đoàn tụ của Bilbo với Người Lùn. Hoạt hình thứ hai mô tả việc trốn trên cây và cuộc giải cứu của <a class="mw-redirect" href="../E/Eagles.md" title="Eagles">Đại Bàng</a>. Sau đó, người kể chuyện tóm tắt câu chuyện từ lúc rơi xuống rìa Mirkwood (<a href="../B/Beorn.md" title="Beorn">Beorn</a> bị bỏ qua ở giai đoạn này) cho đến việc lũ nhện bắt giữ Người Lùn.</i></dd></dl>
+<dl><dd><i>At this point, an animation starts, depicting the riddle game, followed by a story board telling of Bilbo&#39;s reuniting with the Dwarves. A second animation depicts the hiding in the trees and the rescue by the <a class="mw-redirect" href="../E/Eagles.md" title="Eagles">Eagles</a>. The narrator then summarizes the story from the drop off at the edge of Mirkwood (<a href="../B/Beorn.md" title="Beorn">Beorn</a> is omitted at this stage) to the capture of the Dwarves by the spiders.</i></dd></dl>
 
 #### Ruồi và Nhện {#Flies_and_Spiders}
 
-Bilbo bị lạc và phải tìm đường vượt qua một con nhện Mirkwood bị nhiễm khuẩn (trong đó ông phải chiến đấu với nhiều con nhện độc, cũng như "tay sai của [Necromancer](../N/Necromancer.md)"). Anh gặp Corwin, một người đàn ông Thị trấn Hồ, người có trại bị tấn công. Bilbo có thể lấy lại chiếc nhẫn của anh trai mình cho ông. Sau đó, anh phải giải cứu những người lùn khỏi bị ba con nhện khổng lồ Wrath, Wicked và Wild ăn thịt.
+Bilbo bị lạc và phải tìm đường vượt qua một con nhện Mirkwood bị nhiễm khuẩn (trong đó ông ta phải chiến đấu với nhiều con nhện độc, cũng như "tay sai của [Necromancer](../N/Necromancer.md)"). Anh gặp Corwin, một người đàn ông Thị trấn Hồ, người có trại bị tấn công. Bilbo có thể lấy lại chiếc nhẫn của anh trai mình cho ông. Sau đó, anh phải giải cứu những người lùn khỏi bị ba con nhện khổng lồ Wrath, Wicked và Wild ăn thịt.
 
 #### Thùng hết hạn {#Barrels_Out_of_Bond}
 
@@ -190,23 +190,23 @@ Bilbo và những người lùn vẫn chưa an toàn khi ra khỏi Mirkwood. Nh�
 
 #### Chào mừng nồng nhiệt {#A_Warm_Welcome}
 
-Bilbo quản lý để đặt Người Lùn vào thùng và trốn thoát đến [Thị trấn Hồ](../L/Lake-town.md). Tại Laketown, [Bard](../B/Bard.md) và [Calamar](../C/Calamar.md), [Bậc thầy của Thị trấn Hồ](../M/Master_of_Lake-town.md), tuyển dụng Bilbo để thực hiện thêm các vụ trộm và gián điệp. Ông phải ngăn chặn một tổ chức tội phạm gồm Người Hồ và Orc, những kẻ đã đánh cắp [Mũi tên đen](../B/Black_Arrow~68980.md). Tất cả Người Lùn đều nằm rải rác xung quanh Thị trấn Hồ và nhiều trong số chúng xuất hiện lần đầu tiên ở đây.
+Bilbo quản lý để đặt Người Lùn vào thùng và trốn thoát đến [Thị trấn Hồ](../L/Lake-town.md). Tại Laketown, [Bard](../B/Bard.md) và [Calamar](../C/Calamar.md), [Bậc thầy của Thị trấn Hồ](../M/Master_of_Lake-town.md), tuyển dụng Bilbo để thực hiện thêm các vụ trộm và gián điệp. Ông ta phải ngăn chặn một tổ chức tội phạm gồm Người Hồ và Orc, những kẻ đã đánh cắp [Mũi tên đen](../B/Black_Arrow~68980.md). Tất cả Người Lùn đều nằm rải rác xung quanh Thị trấn Hồ và nhiều trong số chúng xuất hiện lần đầu tiên ở đây.
 
 #### Thông tin nội bộ {#Inside_Information}
 
-Sau khi rời khỏi Long Lake, Bilbo tìm thấy [lối vào bí mật](../B/Back_Door.md). Sau khi lén lút căng thẳng, Bilbo đã cướp được Cúp Thrór ngay dưới mũi [Smaug](../S/Smaug.md). Smaug nhận thấy và không mấy hài lòng, đồng thời Thorin cử Bilbo quay lại để tìm điểm yếu của con rồng. Sau khi Bilbo thể hiện với "Smaug Người tráng lệ" và tuyên bố mình là "Người cưỡi thùng", Smaug đối đầu với Bilbo và tiến đến Thị trấn Hồ, nơi ông gặp cái chết của mình. Khi Rồng không còn, Bilbo phải tìm một số vật phẩm - [Vòng cổ của Girion](../N/Necklace_of_Girion.md), những ngọn giáo của [Bladorthin](../B/Bladorthin.md), viên Ruby của [Gróin](../G/Gróin.md) và một đĩa phục vụ bằng vàng. Sau đó, ông phải vượt qua một vực sâu bằng cách làm ngập nó.
+Sau khi rời khỏi Long Lake, Bilbo tìm thấy [lối vào bí mật](../B/Back_Door.md). Sau khi lén lút căng thẳng, Bilbo đã cướp được Cúp Thrór ngay dưới mũi [Smaug](../S/Smaug.md). Smaug nhận thấy và không mấy hài lòng, đồng thời Thorin cử Bilbo quay lại để tìm điểm yếu của con rồng. Sau khi Bilbo thể hiện với "Smaug Người tráng lệ" và tuyên bố mình là "Người cưỡi thùng", Smaug đối đầu với Bilbo và tiến đến Thị trấn Hồ, nơi ông ta gặp cái chết của mình. Khi Rồng không còn, Bilbo phải tìm một số vật phẩm - [Vòng cổ của Girion](../N/Necklace_of_Girion.md), những ngọn giáo của [Bladorthin](../B/Bladorthin.md), viên Ruby của [Gróin](../G/Gróin.md) và một đĩa phục vụ bằng vàng. Sau đó, ông ta phải vượt qua một vực sâu bằng cách làm ngập nó.
 
 #### Sự tụ họp của những đám mây {#The_Gathering_of_the_Clouds}
 
 Trong Ngọn Núi Cô Đơn, Thorin chỉ có một nhiệm vụ cho Bilbo: tìm [Arkenstone](../A/Arkenstone.md). Một số câu đố [rune](../R/Runes.md) yêu cầu phải giải trước khi Bilbo phải đến Kho bạc, Lò rèn, Phòng Bánh răng và Phòng Nước. Dù có lối vào Kho Cũ nhưng Bilbo không thể vào đó vì quá hôi Rồng. Sau khi tạo khóa mới, Bilbo tìm thấy Arkenstone. Nhặt nó lên sẽ kết thúc cấp độ.
 
-<dl><dd><i>Người kể chuyện giới thiệu vấn đề tiếp theo: Con Người và Tiên tộc. Bilbo lẻn đi và đưa Arkenstone cho Thranduil và Bard, và vì điều đó, ông bị Thorin nguyền rủa. Khi <a href="../D/Dáin_Ironfoot.md" title="Dáin Ironfoot">Dáin Chân Sắt</a> đến, tất cả dường như kết thúc trong trận chiến. Nhưng một tia sét đánh dấu sự trở lại của Gandalf, người đã thông báo cho họ về Goblin. </i></dd></dl>
+<dl><dd><i>The narrator introduces the next problem: the Men and Elves. Bilbo sneaks off and gives the Arkenstone to Thranduil and Bard, and for that, he is cursed by Thorin. When <a href="../D/Dáin_Ironfoot.md" title="Dáin Ironfoot">Dáin Ironfoot</a> arrives, all seems to end in battle. But a flash of lightning marks the return of Gandalf, who informs them of Goblins. </i></dd></dl>
 
 #### Mây tan {#The_Clouds_Burst}
 
-Cấp độ này là [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md). Bilbo, người đứng cùng Gandalf và Thranduil trên [Ravenhill](../R/Ravenhill.md), tình nguyện mang tin nhắn đến Bard; ông sắp bị tấn công từ phía sau. Trong chuyến đi của mình, anh phải cứu Corwin, và Lianna cử anh đi tìm Beorn. Sau một cơn thịnh nộ ngắn, Beorn bị bắt và Bilbo phải giải thoát ông bằng cách đá vào nhiều thùng. Sau khi giải phóng Beorn, trò chơi kết thúc: Beorn giết chết Bolg, người ngồi trên một con chiến mã khổng lồ trên một đường kính không thể tiếp cận được.
+Cấp độ này là [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md). Bilbo, người đứng cùng Gandalf và Thranduil trên [Ravenhill](../R/Ravenhill.md), tình nguyện mang tin nhắn đến Bard; ông ta sắp bị tấn công từ phía sau. Trong chuyến đi của mình, anh phải cứu Corwin, và Lianna cử anh đi tìm Beorn. Sau một cơn thịnh nộ ngắn, Beorn bị bắt và Bilbo phải giải thoát ông ta bằng cách đá vào nhiều thùng. Sau khi giải phóng Beorn, trò chơi kết thúc: Beorn giết chết Bolg, người ngồi trên một con chiến mã khổng lồ trên một đường kính không thể tiếp cận được.
 
-<dl><dd><i>Sau đó, người kể chuyện bắt đầu phần kết. Laketown được xây dựng lại, Bilbo nhận được phần thưởng và trở về nhà với Beorn và Gandalf. Cả phiên đấu giá Bag End lẫn chuyến thăm <a href="../B/Balin.md" title="Balin">Balin</a> đều không được nêu bật.</i></dd></dl>
+<dl><dd><i>After this, the narrator starts the epilogue. Laketown is rebuilt, Bilbo gets a reward, and walks home with Beorn and Gandalf. Neither the auction of Bag End nor the visit of <a href="../B/Balin.md" title="Balin">Balin</a> are featured.</i></dd></dl>
 
 ## Xem thêm {#See_also}
 
@@ -219,7 +219,7 @@ Cấp độ này là [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armi
 
 <table style="margin: 0 auto; width: 100%;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Trò chơi điện tử được cấp phép lấy bối cảnh ở <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed video games set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </th></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="center"> <a href="../M/Melbourne_House.md" title="Melbourne House">Melbourne House</a>:
@@ -252,7 +252,7 @@ Cấp độ này là [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armi
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>) · <i><b><a href="The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">War in the North</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>) · <i><b><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>-<a href="../_/2018.md" title="2018">2018</a>) · <i><b><a href="The_Hobbit%253A_Kingdoms_of_Middle-earth.md" title="The Hobbit: Kingdoms of Middle-earth">Kingdoms of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>)· <i><b><a href="The_Hobbit%253A_Armies_of_The_Third_Age.md" title="The Hobbit: Armies of The Third Age">Armies of The Third Age</a></b></i> (<a href="../_/2013.md" title="2013">2013</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Shadow of Mordor</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Shadow of War</a></b></i> (<a href="../_/2017.md" title="2017">2017</a>) · <i><b><a href="The_Lord_of_the_Rings%253A_Rise_to_War.md" title="The Lord of the Rings: Rise to War">Rise to War</a></b></i> (<a href="../_/2021.md" title="2021">2021</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center">Glu Games:
+<th style="background:var(--tg-color-surface-3);" align="center"> Glu Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Middle-Earth_Defense.md" title="The Lord of the Rings: Middle-Earth Defense">Middle-Earth Defense</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>)
 </td></tr>
@@ -262,7 +262,7 @@ Cấp độ này là [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armi
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: The Video Game</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) · <i><b><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center">Twin Sails Interactive:
+<th style="background:var(--tg-color-surface-3);" align="center"> Twin Sails Interactive:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">The Lord of the Rings: Adventure Card Game</a></b></i> (<a href="../_/2018.md" title="2018">2018</a>)
 </td></tr>
@@ -272,7 +272,7 @@ Cấp độ này là [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armi
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center">North Beach Games:
+<th style="background:var(--tg-color-surface-3);" align="center"> North Beach Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Return to Moria</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr></tbody></table>

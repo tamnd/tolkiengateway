@@ -20,7 +20,7 @@ langlinks:
 
 **Thuyền trưởng của các quân chủ** là một danh hiệu quân sự [Gondor](../G/Gondor.md), có lẽ là chức vụ quân sự tối cao trong Vương quốc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Chức danh được đề cập cùng với tên của Thân vương [Tarannon](../T/Tarannon.md), người với tư cách này đã mở rộng vương quốc dọc theo bờ biển. Với tên gọi [Vua Gondor](../K/King_of_Gondor.md), sau này ông lấy tên là "Falastur".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Có thể chức vụ này được giữ bởi Người thừa kế của [Vua](../K/King's_Heir.md) hoặc một thành viên khác của [Nhà Anárion](../H/House_of_Anárion.md).
+Chức danh được đề cập cùng với tên của Thân vương [Tarannon](../T/Tarannon.md), người với tư cách này đã mở rộng vương quốc dọc theo bờ biển. Với tên gọi [Vua Gondor](../K/King_of_Gondor.md), sau này ông ta lấy tên là "Falastur".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Có thể chức vụ này được giữ bởi Người thừa kế của [Vua](../K/King's_Heir.md) hoặc một thành viên khác của [Nhà Anárion](../H/House_of_Anárion.md).
 
 ## Xem thêm {#See_also}
 

@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*Isildur* của [Liz Danforth](../../main/L/Liz_Danforth.md), xuất hiện trong Jason Beresford, Anders Blixt, Mats Blomqvist, Gunnar Brolin, Jeff Hatch, Tim Innes, Martin Rundkvist, Erik Ragvik, Olle Sahlin, [Chris Seeman](../../main/C/Chris_Seeman.md), Magnus Seter, *[Southern Gondor: The People](../../main/S/Southern_Gondor%253A_The_People.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2020, 1996).
+*Isildur* của [Liz Danforth](../../main/L/Liz_Danforth.md), xuất hiện trong Jason Beresford, Anders Blixt, Mats Blomqvist, Gunnar Brolin, Jeff Hatch, Tim Innes, Martin Rundkvist, Erik Ragvik, Olle Sahlin, [Chris Seeman](../../main/C/Chris_Seeman.md), Magnus Seter, *[Southern Gondor: The People](../../main/S/Southern_Gondor%253A_The_People.md)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2020, 1996).
 
 ## Giấy phép {#Licensing}
 

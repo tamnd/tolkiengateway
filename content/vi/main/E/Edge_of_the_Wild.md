@@ -17,7 +17,7 @@ images:
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_The_Edge_of_the_Wild.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b8/Alan_Lee_-_The_Edge_of_the_Wild.jpg/250px-Alan_Lee_-_The_Edge_of_the_Wild.jpg" decoding="async" loading="lazy" width="250" height="358" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b8/Alan_Lee_-_The_Edge_of_the_Wild.jpg/375px-Alan_Lee_-_The_Edge_of_the_Wild.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b8/Alan_Lee_-_The_Edge_of_the_Wild.jpg/500px-Alan_Lee_-_The_Edge_of_the_Wild.jpg 2x" data-file-width="837" data-file-height="1200"/></a><figcaption><i>The Edge of the Wild</i> by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a>.</figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Không có con đường an toàn nào ở phần này của thế giới. Hãy nhớ rằng bạn hiện đã vượt qua Edge of the Wild và tận hưởng mọi niềm vui ở bất cứ nơi đâu bạn đến.
+<p>There are no safe paths in this part of the world. Remember you are over the Edge of the Wild now, and in for all sorts of fun wherever you go.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

@@ -19,7 +19,7 @@ langlinks:
     url: "https://kontu.wiki/Sam_(Maamies_ja_lohik%C3%A4%C3%A4rme)"
 ---
 
-**Fabricius Cunctator** (thường được gọi là "Sunny Sam") là thợ rèn của làng [Ham](../H/Ham.md). Ông có biệt danh là vì tính tình u ám và thiên hướng tiên đoán thảm họa. Bất chấp sự miễn cưỡng của mình, anh vẫn bị thuyết phục tự chế một bộ thư cho [Farmer Giles](Farmer_Giles.md) bằng cách khâu những chiếc nhẫn kim loại bỏ đi vào một chiếc áo da và quần ống túm cũ. Người thợ rèn thậm chí còn cung cấp một khung sắt cũ của một chiếc mũ bảo hiểm được người thợ đóng giày bọc da.
+**Fabricius Cunctator** (thường được gọi là "Sunny Sam") là thợ rèn của làng [Ham](../H/Ham.md). Ông ta có biệt danh là vì tính tình u ám và thiên hướng tiên đoán thảm họa. Bất chấp sự miễn cưỡng của mình, anh vẫn bị thuyết phục tự chế một bộ thư cho [Farmer Giles](Farmer_Giles.md) bằng cách khâu những chiếc nhẫn kim loại bỏ đi vào một chiếc áo da và quần ống túm cũ. Người thợ rèn thậm chí còn cung cấp một khung sắt cũ của một chiếc mũ bảo hiểm được người thợ đóng giày bọc da.
 
 Mỗi khi rắc rối xuất hiện trong câu chuyện Sunny Sam lại trở nên vui vẻ hơn, nhưng khi mọi việc có vẻ suôn sẻ thì người thợ rèn lại trở nên khắc nghiệt. Cuối cùng, khi Farmer Giles trở thành vua, ông đã đặt những lời tiên tri khó chịu ra ngoài vòng pháp luật và Fabricius Cunctator đã thay đổi nghề nghiệp của mình thành một nghề có lẽ phù hợp hơn là người đảm nhận.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

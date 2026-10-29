@@ -20,13 +20,13 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Tolkien_studies&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Tolkien_studies&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>lĩnh vực nghiên cứu</b>. Đối với tạp chí hàng năm, xem <b><a href="Tolkien_Studies_(journal).md" title="Tolkien Studies (journal)">Tolkien Nghiên cứu (tạp chí)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the field of study</b>. For the the annual journal, see <b><a href="Tolkien_Studies_(journal).md" title="Tolkien Studies (journal)">Tolkien Studies (journal)</a></b>.</div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Most people want more (and better) maps; some wish more for geological indications than place-names; many want more specimens of Elvish, with structural and grammatical sketches; others ask for metrics and prosodies, [...] musicians want tunes and musical notations. Archaeologists enquire about ceramics, metallurgy, tools and architecture. Botanists desire more accurate descriptions of <i>mallorn</i> [...] and of <i>symbelmynë</i>.<br/>Historians require more details about the social and political structure of Gondor, and the contemporary monetary system; and the generally inquisitive wish to be told more about Drúadan, the Wainriders, the Dead Men, Harad, Khand, Dwarvish origins, the Beornings, and especially the missing two wizards.
@@ -49,9 +49,9 @@ Bài giảng *[Beowulf: The Monsters and the Critics](../B/Beowulf%253A_The_Mons
 ### Tuổi ngây thơ {#Age_of_Innocence}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tôi không nên gọi nó là mốt nhất thời; Tôi sẽ không gọi nó là dưới lòng đất. Tôi gọi nó là một trò chơi [...] bởi vì có rất nhiều thứ khiến mọi người thích thú -- bảng chữ cái, lịch sử, v.v. […] Tôi không bận tâm, miễn là nó không trở nên ám ảnh. Nó không ám ảnh <i>me</i>.
+<p>I shouldn&#39;t call it a fad; I wouldn&#39;t call it underground. I&#39;d call it a game [...] because there is a whole lot of stuff that amuses people -- alphabets, history, etc. [...] I don&#39;t mind it, as long as it doesn&#39;t become obsessive. It doesn&#39;t obsess <i>me</i>.
 </p>
-<p class="tg-quote-footer"><cite>J.R.R. Tolkien gửi Henry Resnick, "Cuộc phỏng vấn với Tolkien" được xuất bản vào <a class="new" href="https://tolkiengateway.net/w/index.php?title=Niekas_18&amp;action=edit&amp;redlink=1" title="Niekas 18 (page does not exist)"><i>Niekas</i> 18</a> (Mùa xuân <a href="../_/1967.md" title="1967">1967</a>)</cite></p>
+<p class="tg-quote-footer"><cite>J.R.R. Tolkien to Henry Resnick, &#34;An Interview with Tolkien&#34; published in <a class="new" href="https://tolkiengateway.net/w/index.php?title=Niekas_18&amp;action=edit&amp;redlink=1" title="Niekas 18 (page does not exist)"><i>Niekas</i> 18</a> (Spring <a href="../_/1967.md" title="1967">1967</a>)</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 Nhìn chung, lịch sử học bổng Tolkien được chia thành 4 khoảng thời gian:
@@ -73,7 +73,7 @@ Một bước ngoặt lớn trong lĩnh vực học thuật là việc xuất b�
 
 #### Ngôn ngữ được phát minh {#Invented_languages}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../L/Languages.md" title="Languages">Ngôn ngữ</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../L/Languages.md" title="Languages">Languages</a></b></div></div>
 
 <br>
 
@@ -87,8 +87,8 @@ Một bước ngoặt lớn trong lĩnh vực học thuật là việc xuất b�
 
 ## Khóa học {#Courses}
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Tolkien_studies&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Tolkien_studies&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>

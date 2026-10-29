@@ -43,18 +43,18 @@ infobox:
     value: "Alloyed"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>tập thứ bảy của <i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i></b>. Để biết biểu tượng của <a href="../M/Mordor.md" title="Mordor">Mordor</a>, xem <b><a href="../E/Eye_of_Sauron.md" title="Eye of Sauron">Con Mắt của Sauron</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the seventh episode of <i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i></b>. For the emblem of <a href="../M/Mordor.md" title="Mordor">Mordor</a>, see <b><a href="../E/Eye_of_Sauron.md" title="Eye of Sauron">Eye of Sauron</a></b>.</div></div>
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
-<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
+<p>We have a long way to go, and there is time ahead for thought.
 </p>
 <p class="tg-quote-footer"><cite><a href="Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Eye.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/56/The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Eye.jpg/320px-The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Eye.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/56/The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Eye.jpg/480px-The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Eye.jpg 1.5x, https://tolkiengateway.net/w/images/5/56/The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Eye.jpg 2x" data-file-width="500" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Tập phim</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Eye</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a href="../C/Charlotte_Brändström.md" title="Charlotte Brändström">Charlotte Brändström</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Jason_Cahill&amp;action=edit&amp;redlink=1" title="Jason Cahill (page does not exist)">Jason Cahill</a></td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a><br/>Main Title by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data"><a class="mw-redirect" href="../A/Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/7_October.md" title="7 October">7 October</a> <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">72 phút</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt11609046" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Điều hướng</span></th></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><i><a href="../U/Udûn_(episode).md" title="Udûn (episode)">Udûn</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><i><a href="../A/Alloyed.md" title="Alloyed">Alloyed</a></i></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Eye.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/56/The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Eye.jpg/320px-The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Eye.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/56/The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Eye.jpg/480px-The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Eye.jpg 1.5x, https://tolkiengateway.net/w/images/5/56/The_Lord_of_the_Rings_The_Rings_of_Power_-_The_Eye.jpg 2x" data-file-width="500" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Episode</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Eye</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data"><a href="../C/Charlotte_Brändström.md" title="Charlotte Brändström">Charlotte Brändström</a></td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Jason_Cahill&amp;action=edit&amp;redlink=1" title="Jason Cahill (page does not exist)">Jason Cahill</a></td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a><br/>Main Title by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Studio</th><td class="tg-infobox-data"><a class="mw-redirect" href="../A/Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/7_October.md" title="7 October">7 October</a> <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">72 minutes</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt11609046" rel="noreferrer noopener" target="_blank">Profile</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Navigation</span></th></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><i><a href="../U/Udûn_(episode).md" title="Udûn (episode)">Udûn</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><i><a href="../A/Alloyed.md" title="Alloyed">Alloyed</a></i></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p><a href="../M/Men.md" title="Men">Những người sống sót</a> sau <a href="../M/Mount_Doom.md" title="Mount Doom">thảm họa</a> cố gắng tìm kiếm <a href="../P/Pelargir.md" title="Pelargir">sự an toàn</a>; <a href="../H/Harfoots.md" title="Harfoots">Harfoots</a> đối đầu với <a href="../M/Mystics.md" title="Mystics">cái ác</a>; <a href="../D/Durin_VI.md" title="Durin VI">Durin</a> bị giằng xé giữa <a href="../E/Elrond.md" title="Elrond">tình bạn</a> và <a href="../D/Durin_III.md" title="Durin III">nghĩa vụ</a>; <a href="../A/Adar_(The_Rings_of_Power).md" title="Adar (The Rings of Power)">Adar</a> xem xét <a href="../M/Mordor.md" title="Mordor">tên</a> mới.
+<p><a href="../M/Men.md" title="Men">Survivors</a> of a <a href="../M/Mount_Doom.md" title="Mount Doom">cataclysm</a> try to find <a href="../P/Pelargir.md" title="Pelargir">safety</a>; the <a href="../H/Harfoots.md" title="Harfoots">Harfoots</a> confront <a href="../M/Mystics.md" title="Mystics">evil</a>; <a href="../D/Durin_VI.md" title="Durin VI">Durin</a> is torn between <a href="../E/Elrond.md" title="Elrond">friendship</a> and <a href="../D/Durin_III.md" title="Durin III">duty</a>; <a href="../A/Adar_(The_Rings_of_Power).md" title="Adar (The Rings of Power)">Adar</a> considers a new <a href="../M/Mordor.md" title="Mordor">name</a>.
 </p>
 <p class="tg-quote-footer"><cite>Official Synopsis, <a class="mw-redirect" href="../A/Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -65,19 +65,19 @@ infobox:
 
 ### Miền Nam {#Southlands}
 
-[Galadriel](../G/Galadriel.md) thức dậy sau vụ phun trào [Orodruin](../M/Mount_Doom.md) được bao phủ trong tro bụi và tỏa ra ánh sáng đỏ rực. Những người chết phủ đầy tro bao quanh cô và tiếng khóc tràn ngập không khí. Cô tìm thấy [Theo](Theo.md) trong làn khói. [Isildur](../I/Isildur.md) được nhìn thấy đang cố gắng kéo Valandil ra khỏi dưới mái nhà bị sập. Valandil thông báo cho ông rằng Ontamo đang ở trong tòa nhà khi nó sụp đổ. [Nữ hoàng nhiếp chính Míriel](Tar-Míriel.md) giúp Isildur nâng mái nhà, giải thoát Valandil và để lộ thi thể của người bạn của họ. Khi cả ba cố gắng giải cứu những người khỏi một tòa nhà đang cháy, cấu trúc đó sụp đổ, mắc kẹt Isildur bên trong, có lẽ đã chết. Khi người miền Nam và người Númenor rút lui, [Elendil](../E/Elendil.md) hỏi tin tức về con trai ông. Rõ ràng là Miriel đã bị mất thị lực.
+[Galadriel](../G/Galadriel.md) thức dậy sau vụ phun trào [Orodruin](../M/Mount_Doom.md) được bao phủ trong tro bụi và tỏa ra ánh sáng đỏ rực. Những người chết phủ đầy tro bao quanh cô và tiếng khóc tràn ngập không khí. Cô tìm thấy [Theo](Theo.md) trong làn khói. [Isildur](../I/Isildur.md) được nhìn thấy đang cố gắng kéo Valandil ra khỏi dưới mái nhà bị sập. Valandil thông báo cho ông ta rằng Ontamo đang ở trong tòa nhà khi nó sụp đổ. [Nữ hoàng nhiếp chính Míriel](Tar-Míriel.md) giúp Isildur nâng mái nhà, giải thoát Valandil và để lộ thi thể của người bạn của họ. Khi cả ba cố gắng giải cứu những người khỏi một tòa nhà đang cháy, cấu trúc đó sụp đổ, mắc kẹt Isildur bên trong, có lẽ đã chết. Khi người miền Nam và người Númenor rút lui, [Elendil](../E/Elendil.md) hỏi tin tức về con trai ông. Rõ ràng là Miriel đã bị mất thị lực.
 
-Galadriel phân phát sự khôn ngoan cho Theo trên hành trình của họ đến trại Númenórean và lần lượt nhận được một số từ ông. Khi người Númenor cố gắng tập hợp ngựa về trại, Berek chống lại sự chỉ huy của hắn. Elendil được thuyết phục để ông đi nhưng nói rằng lẽ ra ông không bao giờ nên để " Tiên" lên tàu. Galadriel và Theo đến trại và đoàn tụ với [Bronwyn](../B/Bronwyn.md), [Arondir](../A/Arondir.md), [Halbrand](../H/Halbrand.md) và tất cả những người khác. Elendil hỏi ý kiến ​​Miriel và họ chuẩn bị quay trở lại Númenor, bỏ lại một đồn binh để tìm nơi định cư an toàn cho người dân miền Nam. Miriel đeo băng mắt. Bà tuyên bố rằng Númenor sẽ quay trở lại, khiến Elendil thất vọng. Họ lại giương buồm vượt biển. Galadriel và Halbrand cưỡi ngựa đi Lindon và kêu lên "Sức mạnh đến Vua!" từ người miền Nam. Galadriel để lại thanh kiếm Númenórean của mình cho Theo.
+Galadriel phân phát sự khôn ngoan cho Theo trên hành trình của họ đến trại Númenórean và lần lượt nhận được một số từ ông. Khi người Númenor cố gắng tập hợp ngựa về trại, Berek chống lại sự chỉ huy của hắn. Elendil được thuyết phục để ông ta đi nhưng nói rằng lẽ ra ông ta không bao giờ nên để " Tiên" lên tàu. Galadriel và Theo đến trại và đoàn tụ với [Bronwyn](../B/Bronwyn.md), [Arondir](../A/Arondir.md), [Halbrand](../H/Halbrand.md) và tất cả những người khác. Elendil hỏi ý kiến ​​Miriel và họ chuẩn bị quay trở lại Númenor, bỏ lại một đồn binh để tìm nơi định cư an toàn cho người dân miền Nam. Miriel đeo băng mắt. Bà tuyên bố rằng Númenor sẽ quay trở lại, khiến Elendil thất vọng. Họ lại giương buồm vượt biển. Galadriel và Halbrand cưỡi ngựa đi Lindon và kêu lên "Sức mạnh đến Vua!" từ người miền Nam. Galadriel để lại thanh kiếm Númenórean của mình cho Theo.
 
 ### Harfoots {#Harfoots}
 
-[Harfoots](../H/Harfoots.md) đến [Grove](../G/Grove.md) để tìm những tảng đá phát sáng có lẽ được bắn từ một ngọn núi lửa trong lòng đất. [The Stranger](The_Stranger.md) cố gắng làm điều gì đó với cái cây bị tàn lụi và Harfoots tụ tập xung quanh, tin rằng ông sẽ cứu cái cây giống như ông đã cứu họ khỏi bầy sói trong tập trước. Thay vào đó, nó thả một chi lớn lên [Elanor Brandyfoot](../E/Elanor_Brandyfoot.md) và Dilly cùng Harfoots nhìn Người lạ bối rối với vẻ nghi ngờ. [Sadoc Burrows](../S/Sadoc_Burrows.md) khuyến khích Người lạ rời đi và ông làm theo.
+[Harfoots](../H/Harfoots.md) đến [Grove](../G/Grove.md) để tìm những tảng đá phát sáng có lẽ được bắn từ một ngọn núi lửa trong lòng đất. [The Stranger](The_Stranger.md) cố gắng làm điều gì đó với cái cây bị tàn lụi và Harfoots tụ tập xung quanh, tin rằng ông ta sẽ cứu cái cây giống như ông ta đã cứu họ khỏi bầy sói trong tập trước. Thay vào đó, nó thả một chi lớn lên [Elanor Brandyfoot](../E/Elanor_Brandyfoot.md) và Dilly cùng Harfoots nhìn Người lạ bối rối với vẻ nghi ngờ. [Sadoc Burrows](../S/Sadoc_Burrows.md) khuyến khích Người lạ rời đi và ông ta làm theo.
 
-Họ thức dậy vào sáng hôm sau và thấy khu rừng đã được khôi phục hoàn toàn và một vụ mùa bội thu. Khi đang thu hoạch ốc hoặc bò dưới suối, [Poppy Proudfellow](../P/Poppy_Proudfellow.md) tìm thấy một dấu chân người khổng lồ. [Mystics](../M/Mystics.md) đã theo dõi Harfoots và tìm thấy bằng chứng về việc The Stranger đi qua Grove. Khi Nori cố gắng chỉ họ đi sai hướng, họ lờ mờ nhìn thấy bà. [Largo Brandyfoot](../L/Largo_Brandyfoot.md) đe dọa họ bằng một ngọn đuốc nhưng họ đã chuyển hướng ngọn lửa một cách thần kỳ để đốt cháy các toa xe Harfoots'. Largo sau đó khuyến khích và hỗ trợ Harfoots nhặt quân cờ của mình và tiếp tục. Nori, Poppy, Marigold, Malva và Sadoc đều ủng hộ việc đi cảnh báo The Stranger rằng Mystics đang đến tìm ông.
+Họ thức dậy vào sáng hôm sau và thấy khu rừng đã được khôi phục hoàn toàn và một vụ mùa bội thu. Khi đang thu hoạch ốc hoặc bò dưới suối, [Poppy Proudfellow](../P/Poppy_Proudfellow.md) tìm thấy một dấu chân người khổng lồ. [Mystics](../M/Mystics.md) đã theo dõi Harfoots và tìm thấy bằng chứng về việc The Stranger đi qua Grove. Khi Nori cố gắng chỉ họ đi sai hướng, họ lờ mờ nhìn thấy bà. [Largo Brandyfoot](../L/Largo_Brandyfoot.md) đe dọa họ bằng một ngọn đuốc nhưng họ đã chuyển hướng ngọn lửa một cách thần kỳ để đốt cháy các toa xe Harfoots'. Largo sau đó khuyến khích và hỗ trợ Harfoots nhặt quân cờ của mình và tiếp tục. Nori, Poppy, Marigold, Malva và Sadoc đều ủng hộ việc đi cảnh báo The Stranger rằng Mystics đang đến tìm ông ta.
 
 ### Khazad-dûm {#Khazad-dûm}
 
-[Elrond](../E/Elrond.md) bào chữa trước Durin III, dâng ngũ cốc, thịt và gỗ từ rừng Tiên trong năm trăm năm để đổi lấy mỏ [Mithril](../M/Mithril.md). Durin III từ chối lời đề nghị, nói rằng ông sẽ không mạo hiểm mạng sống của người lùn để Tiên tộc theo đuổi cuộc sống vĩnh cửu ở Trung Địa. Durin IV báo tin cho Elrond, người để mẫu Mithril của mình trên bàn bên cạnh chiếc lá Lindon bị bệnh. Khi hai vật nằm cạnh nhau, bệnh tàn lụi sẽ biến mất và chiếc lá sẽ phục hồi. Được Disa động viên, Durin IV hét lên yêu cầu Elrond quay lại.
+[Elrond](../E/Elrond.md) bào chữa trước Durin III, dâng ngũ cốc, thịt và gỗ từ rừng Tiên trong năm trăm năm để đổi lấy mỏ [Mithril](../M/Mithril.md). Durin III từ chối lời đề nghị, nói rằng ông ta sẽ không mạo hiểm mạng sống của người lùn để Tiên tộc theo đuổi cuộc sống vĩnh cửu ở Trung Địa. Durin IV báo tin cho Elrond, người để mẫu Mithril của mình trên bàn bên cạnh chiếc lá Lindon bị bệnh. Khi hai vật nằm cạnh nhau, bệnh tàn lụi sẽ biến mất và chiếc lá sẽ phục hồi. Được Disa động viên, Durin IV hét lên yêu cầu Elrond quay lại.
 
 Durin IV đưa Elrond đến một hầm mỏ bị chặn và họ trò chuyện thân thiện khi Durin đột nhập để lộ ra một căn phòng chứa đầy mạch mithril. Elrond há hốc mồm kinh ngạc và quay lại nhìn bạn mình, chỉ để thấy rằng Vua Durin III đã bắt được họ. Nhà vua đã Elrond vứt bỏ và phế truất con trai mình khi Durin trẻ tuổi nói rằng ông coi Elrond như một người anh em.
 
@@ -91,12 +91,12 @@ Southlands chìm trong tro và lửa, giờ đây là nơi ở của loài Orc, 
 
 ### Đã ghi có {#Credited}
 
-<dl><dd><i>In order of appearance</i> (trong phần ghi công của tập)</dd></dl>
+<dl><dd><i>In order of appearance</i> (in episode credits)</dd></dl>
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Diễn viên</th>
-<th>Vai trò
+<th>Actor</th>
+<th>Role
 </th></tr>
 <tr>
 <td><a href="../M/Morfydd_Clark.md" title="Morfydd Clark">Morfydd Clark</a></td>
@@ -116,7 +116,7 @@ Southlands chìm trong tro và lửa, giờ đây là nơi ở của loài Orc, 
 </td></tr>
 <tr>
 <td><a href="../C/Cynthia_Addai-Robinson.md" title="Cynthia Addai-Robinson">Cynthia Addai-Robinson</a></td>
-<td><a href="Tar-Míriel.md" title="Tar-Míriel">Nhiếp chính vương hậu Míriel</a>
+<td><a href="Tar-Míriel.md" title="Tar-Míriel">Queen Regent Míriel</a>
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Anthony_Crum&amp;action=edit&amp;redlink=1" title="Anthony Crum (page does not exist)">Anthony Crum</a></td>
@@ -132,7 +132,7 @@ Southlands chìm trong tro và lửa, giờ đây là nơi ở của loài Orc, 
 </td></tr>
 <tr>
 <td><a href="../D/Daniel_Weyman.md" title="Daniel Weyman">Daniel Weyman</a></td>
-<td><a href="The_Stranger.md" title="The Stranger">Kẻ lạ mặt</a>
+<td><a href="The_Stranger.md" title="The Stranger">The Stranger</a>
 </td></tr>
 <tr>
 <td><a href="../S/Sara_Zwangobani.md" title="Sara Zwangobani">Sara Zwangobani</a></td>
@@ -164,19 +164,19 @@ Southlands chìm trong tro và lửa, giờ đây là nơi ở của loài Orc, 
 </td></tr>
 <tr>
 <td><a href="../O/Owain_Arthur.md" title="Owain Arthur">Owain Arthur</a></td>
-<td><a href="../D/Durin_IV.md" title="Durin IV">Thân vương Durin IV</a>
+<td><a href="../D/Durin_IV.md" title="Durin IV">Prince Durin IV</a>
 </td></tr>
 <tr>
 <td><a href="../P/Peter_Mullan.md" title="Peter Mullan">Peter Mullan</a></td>
-<td><a href="../D/Durin_III.md" title="Durin III">Vua Durin III</a>
+<td><a href="../D/Durin_III.md" title="Durin III">King Durin III</a>
 </td></tr>
 <tr>
 <td><a href="../S/Sophia_Nomvete.md" title="Sophia Nomvete">Sophia Nomvete</a></td>
-<td><a href="../D/Disa.md" title="Disa">Công chúa Disa</a>
+<td><a href="../D/Disa.md" title="Disa">Princess Disa</a>
 </td></tr>
 <tr>
 <td><a href="../L/Lloyd_Owen.md" title="Lloyd Owen">Lloyd Owen</a></td>
-<td><a href="../E/Elendil.md" title="Elendil">Thuyền trưởng Elendil</a>
+<td><a href="../E/Elendil.md" title="Elendil">Captain Elendil</a>
 </td></tr>
 <tr>
 <td><a href="../N/Nazanin_Boniadi.md" title="Nazanin Boniadi">Nazanin Boniadi</a></td>
@@ -252,20 +252,20 @@ Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amaz
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i> tập
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i> episodes
 </th></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ nhất
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season One
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/A_Shadow_of_the_Past.md" title="A Shadow of the Past">1. A Shadow of the Past</a> <b>·</b> <a href="../A/Adrift.md" title="Adrift">2. Adrift</a> <b>·</b> <a href="../A/Adar_(episode).md" title="Adar (episode)">3. Adar</a> <b>·</b> <a href="The_Great_Wave.md" title="The Great Wave">4. The Great Wave</a> <b>·</b> <a href="../P/Partings.md" title="Partings">5. Partings</a> <b>·</b> <a href="../U/Udûn_(episode).md" title="Udûn (episode)">6. Udûn</a> <b>·</b> <a class="mw-selflink selflink">7. The Eye</a> <b>·</b> <a href="../A/Alloyed.md" title="Alloyed">8. Alloyed</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ hai
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season Two
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../E/Elven_Kings_Under_the_Sky.md" title="Elven Kings Under the Sky">9. Tiên Những vị vua dưới bầu trời</a> <b>·</b> <a href="../W/Where_the_Stars_are_Strange.md" title="Where the Stars are Strange">10. Nơi những vì sao kỳ lạ</a> <b>·</b> <a href="The_Eagle_and_the_Sceptre.md" title="The Eagle and the Sceptre">11. Đại bàng và vương trượng</a> <b>·</b> <a href="../E/Eldest_(episode).md" title="Eldest (episode)">12. Anh cả</a> <b>·</b> <a href="../H/Halls_of_Stone.md" title="Halls of Stone">13. Sảnh Đá</a> <b>·</b> <a href="../W/Where_Is_He%253F.md" title="Where Is He?">14. Ông ở đâu?</a> <b>·</b> <a href="../D/Doomed_to_Die.md" title="Doomed to Die">15. Định mệnh phải chết</a> <b>·</b> <a href="../S/Shadow_and_Flame_(episode).md" title="Shadow and Flame (episode)">16. Bóng Tối và Ngọn lửa</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../E/Elven_Kings_Under_the_Sky.md" title="Elven Kings Under the Sky">9. Elven Kings Under the Sky</a> <b>·</b> <a href="../W/Where_the_Stars_are_Strange.md" title="Where the Stars are Strange">10. Where the Stars are Strange</a> <b>·</b> <a href="The_Eagle_and_the_Sceptre.md" title="The Eagle and the Sceptre">11. The Eagle and the Sceptre</a> <b>·</b> <a href="../E/Eldest_(episode).md" title="Eldest (episode)">12. Eldest</a> <b>·</b> <a href="../H/Halls_of_Stone.md" title="Halls of Stone">13. Halls of Stone</a> <b>·</b> <a href="../W/Where_Is_He%253F.md" title="Where Is He?">14. Where Is He?</a> <b>·</b> <a href="../D/Doomed_to_Die.md" title="Doomed to Die">15. Doomed to Die</a> <b>·</b> <a href="../S/Shadow_and_Flame_(episode).md" title="Shadow and Flame (episode)">16. Shadow and Flame</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ ba
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season Three
 </th>
 <td style="font-size: 90%; padding-left: 4px;">TBD <b>·</b>
 </td></tr></tbody></table>

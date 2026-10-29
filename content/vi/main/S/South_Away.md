@@ -31,7 +31,7 @@ infobox:
     value: "In Hollow Halls Beneath the Fells"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Letmortal.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/df/Letmortal.jpg/320px-Letmortal.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/df/Letmortal.jpg/480px-Letmortal.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/df/Letmortal.jpg/640px-Letmortal.jpg 2x" data-file-width="1200" data-file-height="1200"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>South Away</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../L/Let_Mortal_Heroes_Sing_Your_Fame.md" title="Let Mortal Heroes Sing Your Fame">Hãy để những anh hùng phàm trần ca tụng vinh danh ngài</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data"><a href="Summoning.md" title="Summoning">Triệu hồi</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="Summoning.md" title="Summoning">Summoning</a>, <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data">Triệu hồi</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">6:04</td></tr><tr><th scope="row" class="tg-infobox-label">Số thứ tự bản nhạc</th><td class="tg-infobox-data">2</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../A/A_New_Power_Is_Rising.md" title="A New Power Is Rising">A New Power Is Rising</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="../I/In_Hollow_Halls_Beneath_the_Fells.md" title="In Hollow Halls Beneath the Fells">In Hollow Halls Beneath the Fells</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/5JnR2dIaS1AySjjHeGCKP5"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Letmortal.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/df/Letmortal.jpg/320px-Letmortal.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/df/Letmortal.jpg/480px-Letmortal.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/df/Letmortal.jpg/640px-Letmortal.jpg 2x" data-file-width="1200" data-file-height="1200"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>South Away</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../L/Let_Mortal_Heroes_Sing_Your_Fame.md" title="Let Mortal Heroes Sing Your Fame">Let Mortal Heroes Sing Your Fame</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="Summoning.md" title="Summoning">Summoning</a></td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data"><a href="Summoning.md" title="Summoning">Summoning</a>, <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data">Summoning</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">6:04</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">2</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="../A/A_New_Power_Is_Rising.md" title="A New Power Is Rising">A New Power Is Rising</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="../I/In_Hollow_Halls_Beneath_the_Fells.md" title="In Hollow Halls Beneath the Fells">In Hollow Halls Beneath the Fells</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/5JnR2dIaS1AySjjHeGCKP5"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
@@ -40,20 +40,20 @@ infobox:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Rời khỏi các hành lang và hang động sâu <br/>
-Phải chăng rừng rộng và tối tăm <br/>
-Khom lưng trong bóng tối xám xịt và dữ tợn <br/>
+<p>Leave the halls and caverns deep <br/>
+Were the forests wide and dim <br/>
+Stoops in shadow grey and grim <br/>
 <br/>
-Bay vượt ra ngoài thế giới cây cối <br/>
-Qua cói, qua lau sậy <br/>
-Qua đầm lầy, dệt cỏ <br/>
+Float beyond the world of trees <br/>
+Past the rushes, past the reeds <br/>
+Past the marshes, weaving weeds <br/>
 <br/>
-"[...] và vương miện của bảy vị vua, và cây gậy của Năm Pháp sư." <br/>
+&#34;[...] and the crowns of seven kings, and the rods of the Five Wizards.&#34; <br/>
 <br/>
-Hướng Nam đi! Đi về phía nam ngay bây giờ! <br/>
-Xa xôi tìm kiếm ánh sáng mặt trời và ngày. <br/>
+South away! South away now! <br/>
+Far away seek the sunlight and the day. <br/>
 <br/>
-Xin chào Éomer, vua xứ Mark.
+Hail, Éomer, king of the mark.
 </p>
 </div>
 

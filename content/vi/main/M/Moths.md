@@ -20,12 +20,12 @@ images:
   - "Simona_Brunilde_Jero_-_Luthien_Tinuviel.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>con côn trùng</b>. Đối với từ <a href="../G/Gnomish.md" title="Gnomish">Gnomish</a> dành cho "cừu", xem <b><a href="../S/Sheep.md" title="Sheep">Cừu</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the insect</b>. For the the <a href="../G/Gnomish.md" title="Gnomish">Gnomish</a> word for &#34;sheep&#34;, see <b><a href="../S/Sheep.md" title="Sheep">Sheep</a></b>.</div></div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Simona_Brunilde_Jero_-_Luthien_Tinuviel.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c9/Simona_Brunilde_Jero_-_Luthien_Tinuviel.jpg/300px-Simona_Brunilde_Jero_-_Luthien_Tinuviel.jpg" decoding="async" loading="lazy" width="300" height="330" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c9/Simona_Brunilde_Jero_-_Luthien_Tinuviel.jpg/450px-Simona_Brunilde_Jero_-_Luthien_Tinuviel.jpg 1.5x, https://tolkiengateway.net/w/images/c/c9/Simona_Brunilde_Jero_-_Luthien_Tinuviel.jpg 2x" data-file-width="600" data-file-height="659"/></a><figcaption><i>Luthien Tinuviel</i> by Simona Brunilde Jero</figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>...hàng nghìn con bướm đêm màu xám đen và đen, một số to gần bằng bàn tay bạn
+<p>...thousands of dark-grey and black moths, some nearly as big as your hand
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../F/Flies_and_Spiders.md" title="Flies and Spiders">Flies and Spiders</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -44,15 +44,15 @@ Trong *[The Tale of Tinúviel](../T/The_Tale_of_Tinúviel.md)*, bướm trắng 
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>Trong phim của <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a>, bướm đêm bằng cách nào đó có liên quan đến <a class="mw-redirect" href="../E/Eagles.md" title="Eagles">Đại Bàng</a>; trong khi <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> bị mắc kẹt trên đỉnh <a href="../O/Orthanc.md" title="Orthanc">Orthanc</a>, ông bắt được một con sâu bướm và thì thầm với nó. Sau đó, khi chạm trán với <a href="../S/Saruman.md" title="Saruman">Saruman</a>, con sâu bướm lại xuất hiện; một con Đại bàng (được cho là <a href="../G/Gwaihir.md" title="Gwaihir">Gwaihir</a>) đến và Gandalf trốn thoát trên lưng nó.</dd></dl>
+<dl><dd>In <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a>&#39;s movies, moths are somehow associated with the <a class="mw-redirect" href="../E/Eagles.md" title="Eagles">Eagles</a>; while <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> is trapped on the summit of <a href="../O/Orthanc.md" title="Orthanc">Orthanc</a>, he catches a moth and whispers to it. Later, when confronted by <a href="../S/Saruman.md" title="Saruman">Saruman</a>, the moth reappears; an Eagle (supposedly <a href="../G/Gwaihir.md" title="Gwaihir">Gwaihir</a>) arrives and Gandalf escapes on its back.</dd></dl>
 
 <b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
-<dl><dd>Ngay trước <a href="../B/Battle_of_the_Morannon.md" title="Battle of the Morannon">Trận Morannon</a>, Gandalf nhận thấy một con bướm bay gần mình. Sau đó Đại Bàng xuất hiện và giúp đỡ <a class="mw-redirect" href="../F/Free_Peoples.md" title="Free Peoples">Những người dân tự do</a>.</dd></dl>
+<dl><dd>Right before the <a href="../B/Battle_of_the_Morannon.md" title="Battle of the Morannon">Battle of the Morannon</a>, Gandalf notices a moth flies near him. Then the Eagles appear and help the <a class="mw-redirect" href="../F/Free_Peoples.md" title="Free Peoples">Free Peoples</a>.</dd></dl>
 
 <b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
-<dl><dd>Khi <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin và Đoàn tùy tùng</a> bị mắc kẹt trong cây đổ bởi nhóm <a href="../A/Azog.md" title="Azog">Azog</a> và <a href="../W/Wargs.md" title="Wargs">Warg</a> của chúng, Gandalf đã sử dụng một con bướm đêm để triệu hồi Đại Bàng đến trợ giúp.</dd></dl>
+<dl><dd>As <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a> are trapped in a falling tree by the band of <a href="../A/Azog.md" title="Azog">Azog</a> and their <a href="../W/Wargs.md" title="Wargs">Wargs</a>, Gandalf uses a moth to summon the Eagles to their aid.</dd></dl>
 
 ## Liên kết ngoài {#External_links}
 

@@ -18,24 +18,24 @@ images:
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin-left:15px; border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><a href="Lay_of_Leithian.md" title="Lay of Leithian">Lay of Leithian</a> khổ
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><a href="Lay_of_Leithian.md" title="Lay of Leithian">Lay of Leithian</a> cantos
 </th></tr>
 <tr>
 <td>
-<ol><li><b><a href="Lay_of_Leithian_Canto_I.md" title="Lay of Leithian Canto I">Khúc ca I</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_II.md" title="Lay of Leithian Canto II">Khúc ca II</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_III.md" title="Lay of Leithian Canto III">Khúc ca III</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_IV.md" title="Lay of Leithian Canto IV">Khúc ca IV</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_V.md" title="Lay of Leithian Canto V">Khúc ca V</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_VI.md" title="Lay of Leithian Canto VI">Khúc ca VI</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_VII.md" title="Lay of Leithian Canto VII">Khúc ca VII</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_VIII.md" title="Lay of Leithian Canto VIII">Khúc ca VIII</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_IX.md" title="Lay of Leithian Canto IX">Khúc ca IX</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_X.md" title="Lay of Leithian Canto X">Khúc ca X</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_XI.md" title="Lay of Leithian Canto XI">Khúc ca XI</a></b></li>
-<li><b><a class="mw-selflink selflink">Khúc ca XII</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_XIII.md" title="Lay of Leithian Canto XIII">Khúc ca XIII</a></b></li>
+<ol><li><b><a href="Lay_of_Leithian_Canto_I.md" title="Lay of Leithian Canto I">Canto I</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_II.md" title="Lay of Leithian Canto II">Canto II</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_III.md" title="Lay of Leithian Canto III">Canto III</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_IV.md" title="Lay of Leithian Canto IV">Canto IV</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_V.md" title="Lay of Leithian Canto V">Canto V</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_VI.md" title="Lay of Leithian Canto VI">Canto VI</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_VII.md" title="Lay of Leithian Canto VII">Canto VII</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_VIII.md" title="Lay of Leithian Canto VIII">Canto VIII</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_IX.md" title="Lay of Leithian Canto IX">Canto IX</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_X.md" title="Lay of Leithian Canto X">Canto X</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_XI.md" title="Lay of Leithian Canto XI">Canto XI</a></b></li>
+<li><b><a class="mw-selflink selflink">Canto XII</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_XIII.md" title="Lay of Leithian Canto XIII">Canto XIII</a></b></li>
 <li><b><a href="Lay_of_Leithian_Canto_XIV.md" title="Lay of Leithian Canto XIV">Canto XIV</a></b></li></ol>
 </td></tr></tbody></table>
 
-[Canto](../C/Cantos_of_the_Lay_of_Leithian.md) này là một trong những ca khúc phổ biến nhất, do nó có 93 dòng mở đầu (3538-3631) liên quan đến cuộc đọ sức giữa [Fingolfin](../F/Fingolfin.md) và [Morgoth](../M/Morgoth.md). Sau phần tạm dừng này, mọi người bắt đầu thực hiện [Nhiệm vụ](../Q/Quest_for_the_Silmaril.md), nơi [Beren](../B/Beren.md) và [Lúthien](Lúthien.md) đến Cổng [Angband](../A/Angband.md) và gặp [người sói](../W/Werewolf.md) vĩ đại được gọi là [Carcharoth](../C/Carcharoth.md) Red Maw. Carcharoth gọi Beren là [Draugluin](../D/Draugluin.md), có hình dáng Beren, hỏi làm thế nào ông trốn thoát được. Beren trả lời rằng ông có việc khẩn cấp với [Morgoth](../M/Morgoth.md) và cầu nguyện rằng Carcharoth hãy để họ sang một bên. Con sói đồng ý một cách khó chịu nhưng lại nghi ngờ Lúthien trong hình dạng [ma cà rồng](../V/Vampire.md) của mình. Nhưng Lúthien swift ném bộ trang phục gớm ghiếc của mình sang một bên và đánh thức Carcharoth một giấc ngủ, và ông "như một tia sét/đã đốn ngã một cây sồi khổng lồ che bóng".
+[Canto](../C/Cantos_of_the_Lay_of_Leithian.md) này là một trong những ca khúc phổ biến nhất, do nó có 93 dòng mở đầu (3538-3631) liên quan đến cuộc đọ sức giữa [Fingolfin](../F/Fingolfin.md) và [Morgoth](../M/Morgoth.md). Sau phần tạm dừng này, mọi người bắt đầu thực hiện [Nhiệm vụ](../Q/Quest_for_the_Silmaril.md), nơi [Beren](../B/Beren.md) và [Lúthien](Lúthien.md) đến Cổng [Angband](../A/Angband.md) và gặp [người sói](../W/Werewolf.md) vĩ đại được gọi là [Carcharoth](../C/Carcharoth.md) Red Maw. Carcharoth gọi Beren là [Draugluin](../D/Draugluin.md), có hình dáng Beren, hỏi làm thế nào ông ta trốn thoát được. Beren trả lời rằng ông có việc khẩn cấp với [Morgoth](../M/Morgoth.md) và cầu nguyện rằng Carcharoth hãy để họ sang một bên. Con sói đồng ý một cách khó chịu nhưng lại nghi ngờ Lúthien trong hình dạng [ma cà rồng](../V/Vampire.md) của mình. Nhưng Lúthien swift ném bộ trang phục gớm ghiếc của mình sang một bên và đánh thức Carcharoth một giấc ngủ, và ông ta "như một tia sét/đã đốn ngã một cây sồi khổng lồ che bóng".

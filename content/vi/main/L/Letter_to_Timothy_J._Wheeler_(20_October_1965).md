@@ -26,7 +26,7 @@ Vào [20 tháng 10](../_/20_October.md) [1965](../_/1965.md), [J.R.R. Tolkien](.
 ## Bản ghi {#Transcript}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Kính gửi ông Wheeler,<br/><br/>Cảm ơn sự quan tâm và hỗ trợ của ông. Ballantine Books sắp cho ra mắt ấn bản bìa mềm do chính tôi hiệu đính. Điều này sẽ khiến nó xứng đáng với vài xu chênh lệch về giá, trong đó tôi sẽ nhận được khoảng một phần ba.<br/><br/>Trân trọng,<br/>Trân trọng,<br/>JRR Tolkien<br/><br/>P.S. It phải lưu ý rằng Ace Books đang hoạt động hợp pháp, dù có đạo đức hay không và người mua ấn bản của họ không có yêu cầu hoàn lại tiền theo pháp luật.
+<p>Dear Mr. Wheeler,<br/><br/>Thank you for your interest and support. Ballantine Books is about to bring out a paper-back edition revised by myself. This should make it worth the few cents difference in price, of which I shall receive about one third.<br/><br/>With kind regards,<br/>Yours sincerely,<br/>JRR Tolkien<br/><br/>P.S. It must be noted that Ace Books are acting legally, whether morally or not, and purchasers of their edition have no claim in law to a return of money.
 </p>
 </blockquote>
 

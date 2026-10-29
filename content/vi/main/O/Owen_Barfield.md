@@ -38,7 +38,7 @@ infobox:
     value: "Owen Barfield Literary Estate"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/O/Owen_Barfield.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5d/Owen_Barfield.jpg/320px-Owen_Barfield.jpg" decoding="async" loading="lazy" width="320" height="436" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5d/Owen_Barfield.jpg/480px-Owen_Barfield.jpg 1.5x, https://tolkiengateway.net/w/images/5/5d/Owen_Barfield.jpg 2x" data-file-width="551" data-file-height="750"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Owen Barfield</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/9_November.md" title="9 November">9 November</a>, <a href="../_/1898.md" title="1898">1898</a></td></tr><tr><th scope="row" class="tg-infobox-label">Qua đời</th><td class="tg-infobox-data"><a href="../_/14_December.md" title="14 December">14 December</a>, <a href="../_/1997.md" title="1997">1997</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Tác giả</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="http://owenbarfield.org/" rel="noreferrer noopener" target="_blank">Owen Barfield Literary Estate</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/O/Owen_Barfield.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5d/Owen_Barfield.jpg/320px-Owen_Barfield.jpg" decoding="async" loading="lazy" width="320" height="436" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5d/Owen_Barfield.jpg/480px-Owen_Barfield.jpg 1.5x, https://tolkiengateway.net/w/images/5/5d/Owen_Barfield.jpg 2x" data-file-width="551" data-file-height="750"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Owen Barfield</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/9_November.md" title="9 November">9 November</a>, <a href="../_/1898.md" title="1898">1898</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/14_December.md" title="14 December">14 December</a>, <a href="../_/1997.md" title="1997">1997</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://owenbarfield.org/" rel="noreferrer noopener" target="_blank">Owen Barfield Literary Estate</a></td></tr></tbody></table>
 
 **Arthur Owen Barfield** ([ngày 9 tháng 11](../_/9_November.md) [1898](../_/1898.md) - [ngày 14 tháng 12](../_/14_December.md) [1997](../_/1997.md)) là một triết gia và là đồng nghiệp [Hiểu biết](../I/Inklings.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ông không tham dự nhiều cuộc họp Inklings do sống và làm việc ở London, cách xa [Đại bàng và trẻ em](../E/Eagle_and_Child.md).
 
@@ -68,17 +68,17 @@ Tolkien rất thích các tác phẩm của Barfield và quan điểm ngôn ng�
 ## Trích đoạn {#Excerpts}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Tôi đã gặp Tolkien nhưng chưa bao giờ nói chuyện lâu với ông…Tôi ước gì mình có…Chúng tôi đã không nói chuyện được trong vài giờ. Ông là một nhân vật quan trọng trong thế giới văn học Anh thời nay. Tôi không có bất kỳ mối quan hệ nào với nó - thế giới thần thoại. Những người đam mê thực sự của xã hội Tolkien còn hơn cả thích thú với nó, họ đã trở nên sùng bái nó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<p>I met Tolkien but never had a long talk with him…I wish I had…We did not get to talk for several hours. He&#39;s an important figure in the English literary world of our time. I don&#39;t have any affinity with it – the mythical world. The real enthusiasts of the Tolkien society have more than enjoyed it they have made a kind of cult of it.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 </p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>S. - Bạn đã biết được bao xa Tolkien?<br/>
-B. - Tôi không biết rõ về ông. Tôi đã gặp ông vài lần tại các cuộc họp của Inklings - không phải lúc nào tôi cũng đi - và cả với Lewis nữa. Có lần chúng tôi có một chuyến đi bộ ngắn, Lewis, Tolkien và tôi, ngay khi chiến tranh đang đe dọa, nhưng sau đó chúng tôi chưa bao giờ nói chuyện như chúng tôi đang nói bây giờ. Và tôi chưa bao giờ trở thành người say mê Chúa tể của những chiếc nhẫn.<br/>
-S. - Tôi bị kẹt ở trang 337.<br/>
-B. - Tôi không nghĩ mình đã đi xa đến mức đó. Tôi có The Hobbit, đọc cho con trai tôi nghe.<br/>
-S. - Tolkien đã trích dẫn bạn trong một bài giảng của ông, tôi nghĩ vậy.<br/>
-B. - Ông nói với Lewis, không lâu sau khi ông đọc Từ điển thơ, rằng ở một mức độ nhất định, nó đã thay đổi ông - rằng ông nhận thấy có những điều ông không còn có thể nói trong các bài giảng của mình. Điều đó đã được Verlyn Flieger đề cập đến trong cuốn sách Ánh sáng vụn của bà.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+<p>S. - How far did you know Tolkien?<br/>
+B. - I didn&#39;t know him very well. I met him a number of times at meetings of the Inklings - I didn&#39;t go always - and also with Lewis. Once we had a short walking tour, Lewis, Tolkien, and I, just when war was threatening, but then we never talked as we are talking now. And I never became an enthusiast for The lord of the Rings.<br/>
+S. - I got stuck on page 337.<br/>
+B. - I don&#39;t think I got as far as that. I got The Hobbit, read it to my son.<br/>
+S. - Tolkien quoted you in one of his lectures, I think.<br/>
+B. - He told Lewis, not long after he had read Poetic Diction, that to a certain extent it changed him - that he found there were things he could no longer say at his lectures. That was brought up by Verlyn Flieger in her book Splintered Light.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 </p><p><br/>
 </p>
 </blockquote>
@@ -86,14 +86,14 @@ B. - Ông nói với Lewis, không lâu sau khi ông đọc Từ điển thơ, r
 Barfield nói rằng các con của Tolkien rất thích cuốn sách *The Silver Trumpet* của ông và coi nó như một loại Kinh thánh:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Các con của Tolkien một thời coi nó như một loại Kinh thánh...nhiều nhân vật, là những khẩu hiệu trong gia đình...<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+<p>Tolkien&#39;s children for a time regarded it as a kind of Bible...many of the characters, were kind of catch-words in the family...<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 </p>
 </blockquote>
 
 Trong một lá thư gửi Barfield, ngày [28 tháng 6](../J/June_28.md), [1936](../_/1936.md), Lewis đã viết:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Tôi cho Tolkien mượn The Silver Trumpet và nghe nói đây là thành công lớn nhất trong số những đứa con của ông mà họ từng biết. Những câu chuyện cổ tích rất xuất sắc của ông giờ không có thị trường: và lần đọc đầu tiên – trẻ em rất thực tế! – dẫn đến một tiếng rên rỉ chung 'Bạn sẽ không trả lại nó cho ông Lewis phải không?' Tất cả những điều mà các nhà thông thái về tâm lý trẻ em trong cộng đồng của chúng tôi đã nói khi bạn viết nó hóa ra lại vô nghĩa. 'Họ thích những phần buồn,' Tolkien nói, 'vì chúng buồn và những phần khó hiểu vì chúng gây khó hiểu, như trẻ con vẫn thường làm.' Cậu út thích Gamboy vì 'bà thông minh còn những người xấu trong sách thường không như vậy'. Các thẻ của Podger đã trở nên phổ biến đến mức gần như trở thành một mối phiền toái trong nhà. Tốt thôi, bạn đã ghi được một cú đánh trực tiếp.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+<p>I lent The Silver Trumpet to Tolkien and hear that it is the greatest success among his children that they have ever known. His own fairy-tales, which are excellent, have now no market: and its first reading – children are so practical! – led to a universal wail &#39;You&#39;re not going to give it back to Mr. Lewis, are you?&#39; All the things which the wiseacres on child psychology in our circle said when you wrote it turn out to be nonsense. &#39;They liked the sad parts,&#39; said Tolkien, &#39;because they were sad and the puzzling parts because they were puzzling, as children always do.&#39; The youngest boy liked Gamboy because &#39;she was clever and the bad people in books usually aren&#39;t.&#39; The tags of the Podger have become so popular [as] to be almost a nuisance in the house. In fine, you have scored a direct hit.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 </p>
 </blockquote>
 

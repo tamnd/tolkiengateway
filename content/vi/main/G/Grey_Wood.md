@@ -32,13 +32,13 @@ images:
 
 **Grey Wood** là một khu rừng mọc giữa [Núi Mindolluin](../M/Mount_Mindolluin.md) ở [Gondor](Gondor.md) và ngọn đồi báo hiệu của [Amon Dîn](../A/Amon_Dîn.md) ở phía bắc. Nó tạo thành một phần ngoại vi phía đông của [Rừng Drúadan](../D/Drúadan_Forest.md) lớn hơn, nơi tàn tích của [Drúedain](../D/Drúedain.md) cư trú trong [Kỷ Đệ Tam](../T/Third_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cây cối của nó che khuất lối vào phía đông dẫn đến [Thung lũng Stonewain](../S/Stonewain_Valley.md) cổ xưa và bị lãng quên xuyên qua [Dãy Núi Trắng](../W/White_Mountains.md) gần [Great West Road](Great_West_Road.md).<sup id="cite_ref-Ride_2-0" class="reference"><a href="#cite_note-Ride-2">[2]</a></sup>
 
-Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Drúedain đã chia sẻ kiến thức của họ về Thung lũng bí mật với [Rohirrim](../R/Rohirrim.md), v.v. [14 tháng 3](../_/14_March.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Théoden](../T/Théoden.md) và Con Người của ông đã đi qua Rừng Xám để giải cứu [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-Ride_2-1" class="reference"><a href="#cite_note-Ride-2">[2]</a></sup> Sau Chiến tranh, [Aragorn](../A/Aragorn.md) quay trở lại Rừng Xám, và chính tại đây ông đã chấp nhận [Ghân-buri-Ghân](Ghân-buri-Ghân.md) và người dân của ông được tự do toàn diện Rừng Drúadan.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Drúedain đã chia sẻ kiến thức của họ về Thung lũng bí mật với [Rohirrim](../R/Rohirrim.md), v.v. [14 tháng 3](../_/14_March.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Théoden](../T/Théoden.md) và Con Người của ông ta đã đi qua Rừng Xám để giải cứu [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-Ride_2-1" class="reference"><a href="#cite_note-Ride-2">[2]</a></sup> Sau Chiến tranh, [Aragorn](../A/Aragorn.md) quay trở lại Rừng Xám, và chính tại đây ông ta đã chấp nhận [Ghân-buri-Ghân](Ghân-buri-Ghân.md) và người dân của ông được tự do toàn diện Rừng Drúadan.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Rừng Xám được đặt tên như vậy vì màu sắc của thân cây: khu rừng ở nơi này đã chết hoàn toàn và Drúedain không còn ở đó nữa.</dd></dl>
+<dl><dd>The Grey Wood is named so for the color of tree trunks: the forest is completely dead in this place, and the Drúedain no longer go there.</dd></dl>
 
 <span></span>
 

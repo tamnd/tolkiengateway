@@ -17,7 +17,7 @@ images:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Piotr_Fox_Wysocki_-_Last_Elf.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9e/Piotr_Fox_Wysocki_-_Last_Elf.jpg/300px-Piotr_Fox_Wysocki_-_Last_Elf.jpg" decoding="async" loading="lazy" width="300" height="450" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9e/Piotr_Fox_Wysocki_-_Last_Elf.jpg/450px-Piotr_Fox_Wysocki_-_Last_Elf.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9e/Piotr_Fox_Wysocki_-_Last_Elf.jpg/600px-Piotr_Fox_Wysocki_-_Last_Elf.jpg 2x" data-file-width="680" data-file-height="1020"/></a><figcaption><i>Last Elf</i> by Piotr Wysocki</figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Những Tiên tộc có công việc và nỗi buồn riêng của họ, và họ ít quan tâm đến cách sống của người hobbit hoặc của bất kỳ sinh vật nào khác trên trái đất.
+<p>The Elves have their own labours and their own sorrows, and they are little concerned with the ways of hobbits, or of any other creatures upon earth.
 </p>
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../G/Gildor_Inglorion.md" title="Gildor Inglorion">Gildor Inglorion</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -42,9 +42,9 @@ Một Noldo khác có màu tóc đáng chú ý là [Glorfindel](../G/Glorfindel.
 
 ## Màu mắt {#Eye_colour}
 
-Khi Tolkien mô tả mắt Tiên, chúng có xu hướng màu xám. Điều này chắc chắn đúng với Lúthien và các hậu duệ của cô, bao gồm [Elrond](Elrond.md) và các con của ông ([Arwen](../A/Arwen.md), [Elladan](Elladan.md) và [Elrohir](Elrohir.md)).<sup id="cite_ref-Meetings_14-1" class="reference"><a href="#cite_note-Meetings-14">[14]</a></sup><sup id="cite_ref-Beren_17-0" class="reference"><a href="#cite_note-Beren-17">[17]</a></sup> [Voronwë](../V/Voronwë.md), người đã hướng dẫn người đàn ông [Tuor](../T/Tuor.md) đến Gondolin, cũng có đôi mắt màu xám.
+Khi Tolkien mô tả mắt Tiên, chúng có xu hướng màu xám. Điều này chắc chắn đúng với Lúthien và các hậu duệ của cô, bao gồm [Elrond](Elrond.md) và các con của ông ta ([Arwen](../A/Arwen.md), [Elladan](Elladan.md) và [Elrohir](Elrohir.md)).<sup id="cite_ref-Meetings_14-1" class="reference"><a href="#cite_note-Meetings-14">[14]</a></sup><sup id="cite_ref-Beren_17-0" class="reference"><a href="#cite_note-Beren-17">[17]</a></sup> [Voronwë](../V/Voronwë.md), người đã hướng dẫn người đàn ông [Tuor](../T/Tuor.md) đến Gondolin, cũng có đôi mắt màu xám.
 
-Mặc dù ông mang nửa dòng máuNoldorin nhưng [Maeglin](../M/Maeglin.md) được cho là có đôi mắt đen (có thể là từ cha anh [Eöl](Eöl.md), người không thuộc Noldor), trong khi [Olwë](../O/Olwë.md) (anh trai của cha Lúthien [Thingol](../T/Thingol.md) và một vị vua Telerin) có đôi mắt xanh. Màu mắt của hầu hết Tiên tộc khác không được đề cập và do đó sẽ khó khái quát hóa.
+Mặc dù ông ta mang nửa dòng máuNoldorin nhưng [Maeglin](../M/Maeglin.md) được cho là có đôi mắt đen (có thể là từ cha anh [Eöl](Eöl.md), người không thuộc Noldor), trong khi [Olwë](../O/Olwë.md) (anh trai của cha Lúthien [Thingol](../T/Thingol.md) và một vị vua Telerin) có đôi mắt xanh. Màu mắt của hầu hết Tiên tộc khác không được đề cập và do đó sẽ khó khái quát hóa.
 
 ## Tai nhọn {#Pointed_ears}
 

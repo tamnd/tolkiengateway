@@ -17,13 +17,13 @@ images:
   - "King's_Letter_third_version.png"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Footnotes</div></div><div class="ext-floatingui-content">Bài viết này bao gồm một danh sách các tài liệu tham khảo, nhưng nguồn của nó vẫn chưa rõ ràng vì <b>thiếu số trang</b> và/hoặc <b>trích dẫn nội tuyến</b>. Vui lòng cải thiện bài viết này bằng cách giới thiệu các trích dẫn chính xác hơn khi thích hợp.<blockquote class="tg-quote noexcerpt">
-<p>Làm thế nào bạn đến được với nó?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Footnotes</div></div><div class="ext-floatingui-content">This article includes a list of references, but its sources remain unclear because it <b>lacks page numbers</b> and/or <b>inline citations</b>. Please improve this article by introducing more precise citations where appropriate.<blockquote class="tg-quote noexcerpt">
+<p>How came you by it?
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Thorin.md" title="Thorin">Thorin</a></cite></p>
 </blockquote></div></div>
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/King&#39;s_Letter_third_version.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/af/King%27s_Letter_third_version.png/250px-King%27s_Letter_third_version.png" decoding="async" loading="lazy" width="250" height="322" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/af/King%27s_Letter_third_version.png/375px-King%27s_Letter_third_version.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/af/King%27s_Letter_third_version.png/500px-King%27s_Letter_third_version.png 2x" data-file-width="1184" data-file-height="1525"/></a><figcaption>Bản thảo Thư Vua, phiên bản thứ ba</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/King&#39;s_Letter_third_version.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/af/King%27s_Letter_third_version.png/250px-King%27s_Letter_third_version.png" decoding="async" loading="lazy" width="250" height="322" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/af/King%27s_Letter_third_version.png/375px-King%27s_Letter_third_version.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/af/King%27s_Letter_third_version.png/500px-King%27s_Letter_third_version.png 2x" data-file-width="1184" data-file-height="1525"/></a><figcaption>Manuscript of the King&#39;s Letter, third version</figcaption></figure>
 
 **Vua Thư của** là một bức thư được gửi bởi Vua [Elessar](../A/Aragorn.md), được xuất bản dưới dạng phần kết của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, nhưng đã bị lược bỏ. Đây là mẫu dài nhất được biết đến của cả [Sindarin](../S/Sindarin.md) văn xuôi và [Tengwar](../T/Tengwar.md).
 
@@ -31,7 +31,7 @@ images:
 
 Đoạn kết bị lược bỏ cuối cùng đã được xuất bản trên *[Sauron Defeated](../S/Sauron_Defeated.md)*, kể câu chuyện về [Sam](../S/Samwise_Gamgee.md) và các con của ông vào năm 16 tuổi [Kỷ Đệ Tứ](../F/Fourth_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vào thời điểm này, chỉ có tám trong số mười ba đứa con của Sam được sinh ra, [Daisy](../D/Daisy_Gardner.md) là đứa con út.
 
-Một đêm nọ, Sam tập hợp các con quanh đống lửa để kể cho chúng nghe về lá thư ông nhận được, từ Vua Elessar phương xa. Nó màu đen, chữ màu vàng và được bọc trong lụa. Trong thư, Elessar chào Samwise và các con của ông, đồng thời nói với họ rằng ông sẽ cưỡi ngựa đến [Miền Bắc](../F/Fornost_Erain.md). Ông sẽ gặp tất cả những người quan tâm trên [Cầu Baranduin](../B/Brandywine_Bridge.md). Ông sẽ không vào [vùng Shire](../T/The_Shire.md) vì bản thân ông đã cấm Con Người vào vùng đất Hobbit'.
+Một đêm nọ, Sam tập hợp các con quanh đống lửa để kể cho chúng nghe về lá thư ông nhận được, từ Vua Elessar phương xa. Nó màu đen, chữ màu vàng và được bọc trong lụa. Trong thư, Elessar chào Samwise và các con của ông, đồng thời nói với họ rằng ông sẽ cưỡi ngựa đến [Miền Bắc](../F/Fornost_Erain.md). Ông sẽ gặp tất cả những người quan tâm trên [Cầu Baranduin](../B/Brandywine_Bridge.md). Ông ta sẽ không vào [vùng Shire](../T/The_Shire.md) vì bản thân ông ta đã cấm Con Người vào vùng đất Hobbit'.
 
 ## Phiên bản {#Versions}
 
@@ -39,12 +39,12 @@ Có ba phiên bản của bức thư thực tế. Cuốn đầu tiên và cuốn
 
 ### Phiên bản đầu tiên {#First_version}
 
-Phiên bản đầu tiên được viết ở chế độ nguyên âm sử dụng tengwar cho các nguyên âm, giống như [Kiểu Beleriand](../M/Mode_of_Beleriand.md). Văn bản đi:
+Phiên bản đầu tiên được viết ở chế độ nguyên âm sử dụng tengwar cho các nguyên âm, giống như [Chế độ của Beleriand](../M/Mode_of_Beleriand.md). Văn bản đi:
 
 <table>
 <tbody><tr>
-<td>Aragorn Strider Elfstone, Vua Gondor và Chúa tể của vùng Westlands, sẽ tiếp cận Cầu Baranduin vào ngày thứ tám của Mùa xuân, hoặc vào lịch Shire ngày thứ hai của tháng Tư. Và ông mong muốn được chào đón tất cả bạn bè của mình ở đó. <i>In especial</i> ông mong muốn được gặp Ông chủ <i>Samwise</i>, Thị trưởng Shire và <i>Rose</i> vợ ông; và <i>Elanor</i>, <i>Rose</i>, <i>Goldilocks</i>, và <i>Daisy</i> các con gái của ông; và <i>Frodo</i>, <i>Merry</i>, <i>Pippin</i> và <i>Hamfast</i> các con trai của ông.<br/>
-<dl><dd>Gửi tới Samwise và Rose lời chào của Vua từ Minas Tirith, ngày thứ ba mươi mốt của Cuộc khuấy động, là ngày hai mươi ba tháng Hai theo lịch của họ.<br/><center>A•E•</center></dd></dl>
+<td>Aragorn Strider The Elfstone, King of Gondor and Lord of the Westlands, will approach the Bridge of Baranduin on the eighth day of Spring, or in the Shire-reckoning the second day of April. And he desires to greet there all his friends. <i>In especial</i> he desires to see Master <i>Samwise</i>, Mayor of the Shire, and <i>Rose</i> his wife; and <i>Elanor</i>, <i>Rose</i>, <i>Goldilocks</i>, and <i>Daisy</i> his daughters; and <i>Frodo</i>, <i>Merry</i>, <i>Pippin</i> and <i>Hamfast</i> his sons.<br/>
+<dl><dd>To Samwise and Rose the King&#39;s greeting from Minas Tirith, the thirty-first day of the Stirring, being the twenty-third of February in their reckoning.<br/><center>A•E•</center></dd></dl>
 </td>
 <td>Elessar Telcontar: Aragorn Arathornion Edhelharn, aran Gondor ar Hîr i Mbair Annui, anglennatha i Varanduiniant erin dolothen Ethuil, egor ben genediad Drannail erin Gwirith edwen. Ar e aníra ennas suilannad mhellyn în phain: <i>edregol</i> e aníra tírad i Cherdir <i>Perhael</i> (i sennui <i>Panthael</i> estathar aen) Condir i Drann, ar <i>Meril</i> bess dîn, ar <i>Elanor</i>, <i>Meril</i>, <i>Glorfinniel</i>, ar <i>Eirien</i> sellath dîn; ar <i>Iorhael</i>, <i>Gelir</i>, <i>Cordof</i>, ar <i>Baravorn</i>, ionnath dîn. <br/>
 <dl><dd>A <i>Pherhael</i> ar am <i>Meril</i> suilad uin aran o Minas Tirith nelchaenen uin Echuir.<center>A•E•</center></dd></dl>
@@ -58,7 +58,7 @@ Phiên bản thứ hai này khắc phục một số lỗi nhỏ và sửa chữ
 
 ### Phiên bản thứ ba {#Third_version}
 
-Phiên bản này, có trong bản phác thảo thứ hai của phần kết, sử dụng nguyên âm-[tehtar](../T/Tehtar.md) thay vì nguyên âm-tengwar của chế độ trước. Văn bản hơi khác so với phiên bản thứ hai. Thứ tự từ của câu đầu tiên đã được thay đổi và trong phần tái bút, năm được thêm vào: 1436 của [Lịch Shire](../S/Shire_Reckoning.md) trong phiên bản tiếng Anh và 16 trong [Tính toán của quản lý](../S/Stewards'_Reckoning.md). Chữ ký không thể bao gồm hai nguyên âm ở chế độ này được viết *Ar•El•*
+Phiên bản này, có trong bản phác thảo thứ hai của phần kết, sử dụng nguyên âm-[tehtar](../T/Tehtar.md) thay vì nguyên âm-tengwar của chế độ trước. Văn bản hơi khác so với phiên bản thứ hai. Thứ tự từ của câu đầu tiên đã được thay đổi và trong phần tái bút, năm được thêm vào: 1436 của [Shire Tính toán](../S/Shire_Reckoning.md) trong phiên bản tiếng Anh và 16 trong [Tính toán của quản lý](../S/Stewards'_Reckoning.md). Chữ ký không thể bao gồm hai nguyên âm ở chế độ này được viết *Ar•El•*
 
 ## Ý nghĩa {#Significance}
 

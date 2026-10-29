@@ -25,9 +25,9 @@ langlinks:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Gỗ của cây này có thể được khai thác bởi những người đi rừng tối cao ở <a href="../E/Eregion.md" title="Eregion">Eregion</a>, <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a>, <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a> và <a href="../E/Enedwaith.md" title="Enedwaith">Enedwaith</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
+<dl><dd>Wood of this tree can be foraged by supreme foresters in <a href="../E/Eregion.md" title="Eregion">Eregion</a>, <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a>, <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>, and <a href="../E/Enedwaith.md" title="Enedwaith">Enedwaith</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
 <span></span>
 

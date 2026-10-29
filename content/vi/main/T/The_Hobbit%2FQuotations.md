@@ -14,31 +14,31 @@ categories:
 ---
 
 <blockquote class="tg-quote noexcerpt">
-<p>Trong một cái hố trên mặt đất có một người hobbit sống. Không phải là một cái hố bẩn thỉu, bẩn thỉu, ẩm ướt, đầy những loài sâu bọ và mùi hôi thối, cũng không phải là một cái hố cát khô cằn, trần trụi và không có gì để ngồi hay ăn: đó là một cái hố hobbit, và điều đó có nghĩa là sự thoải mái.
+<p>In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the end of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing to sit down on or eat: it was a hobbit-hole, and that means comfort.
 </p>
 <p class="tg-quote-footer"><cite>&#34;<a href="../A/An_Unexpected_Party.md" title="An Unexpected Party">An Unexpected Party</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Gandalf! Nếu bạn chỉ nghe được một phần tư những gì tôi đã nghe về ông, và tôi cũng chỉ nghe được rất ít trong tất cả những gì có thể nghe được, bạn sẽ sẵn sàng đón nhận bất kỳ câu chuyện đáng chú ý nào.
+<p>Gandalf! If you had heard only a quarter of what I have heard about him, and I have only heard very little of all there is to hear, you would be prepared for any sort of remarkable tale.
 </p>
 <p class="tg-quote-footer"><cite><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>, &#34;<a href="../A/An_Unexpected_Party.md" title="An Unexpected Party">An Unexpected Party</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>"Ý anh là gì?" ông nói. "Bạn chúc tôi một buổi sáng tốt lành, hay có nghĩa là hôm nay là một buổi sáng tốt lành dù tôi có muốn hay không; hay rằng sáng nay bạn cảm thấy dễ chịu; hay rằng đây là một buổi sáng tốt lành?
+<p>&#34;What do you mean?&#34; he said. &#34;Do you wish me a good morning, or mean that it is a good morning whether I want it or not; or that you feel good this morning; or that it is a morning to be good on?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> to <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>, &#34;<a href="../A/An_Unexpected_Party.md" title="An Unexpected Party">An Unexpected Party</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Đừng bao giờ cười nhạo rồng sống.
+<p>Never laugh at live dragons.
 </p>
 <p class="tg-quote-footer"><cite><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>, &#34;<a href="../I/Inside_Information.md" title="Inside Information">Inside Information</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Bạn không thực sự cho rằng tất cả những cuộc phiêu lưu và trốn thoát của bạn đều chỉ nhờ may mắn, chỉ vì lợi ích duy nhất của bạn.
+<p>You don&#39;t really suppose, do you, that all your adventures and escapes were managed by mere luck, just for your sole benefit.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> to <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>, &#34;<a href="The_Last_Stage.md" title="The Last Stage">The Last Stage</a>&#34;</cite></p>
 </blockquote>

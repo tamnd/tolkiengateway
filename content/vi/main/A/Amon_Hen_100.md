@@ -41,7 +41,7 @@ images:
     - Bởi: [Belladonna Took](../V/Vera_Chapman.md) và [Brin Dunsire](../B/Brin_Dunsire.md)
 - Tác phẩm: Tiên Cung thủ
     - Bởi: Marian Haas
-- Lá từ Cây Hội Tiệc
+- Lá từ Cây Tiệc tùng
     - Bởi: [Belladonna Took](../V/Vera_Chapman.md)
 Danh tiếng học thuật của - Tolkien hiện nay
     - Bởi: [Tom Shippey](../T/Tom_Shippey.md)

@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Mythcon_37"
 content_sha256: 033a10bd75647bf123f0c9a10d446add894ac452c721fd85a5235af9067f6146
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Hội nghị Hiệp hội Thần thoại năm 2006"
+short_description: "2006 Mythopoeic Society conference"
 categories:
   - "Mythcon"
 hidden_categories:
@@ -28,7 +28,7 @@ infobox:
     value: "Mythcon 38"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 37</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">University of Oklahoma, Norman, Oklahoma</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Hội Mythopoeic</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">4-7 August <a href="../_/2006.md" title="2006">2006</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../T/Tolkien_2005.md" title="Tolkien 2005">Tolkien 2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Mythcon_38.md" title="Mythcon 38">Mythcon 38</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 37</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">University of Oklahoma, Norman, Oklahoma</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data">4-7 August <a href="../_/2006.md" title="2006">2006</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="../T/Tolkien_2005.md" title="Tolkien 2005">Tolkien 2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="Mythcon_38.md" title="Mythcon 38">Mythcon 38</a></td></tr></tbody></table>
 
 **Mythcon 37** là hội nghị thường niên lần thứ 37 của [Hiệp hội thần thoại](Mythopoeic_Society.md).
 

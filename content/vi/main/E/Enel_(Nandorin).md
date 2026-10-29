@@ -16,7 +16,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>một <a class="mw-redirect" href="../N/Nandorin.md" title="Nandorin">Nandorin</a> từ</b>. Đối với <a href="Elves.md" title="Elves">Tiên</a>, hãy xem <b><a href="Enel.md" title="Enel">Enel</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>a <a class="mw-redirect" href="../N/Nandorin.md" title="Nandorin">Nandorin</a> word</b>. For the <a href="Elves.md" title="Elves">Elf</a>, see <b><a href="Enel.md" title="Enel">Enel</a></b>.</div></div>
 
 <i><b>enel</b></i> là từ [Nandorin](../N/Nandorin.md) có nghĩa là "ở giữa, giữa".<sup id="cite_ref-VT47_1-0" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
 

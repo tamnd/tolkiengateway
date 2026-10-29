@@ -22,7 +22,7 @@ sort_keys:
 
 ## Lịch sử {#History}
 
-Schellen là cựu thủ quỹ và thành viên ủy ban kiểm toán của [Unquendor](../U/Unquendor.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> đồng sáng lập của [Hội Tolkien Nam Phi Haradrim](<../H/Haradrim_(Tolkien_Society).md>), nhà xuất bản Tolkien tạp chí định kỳ *Voronwë*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> chủ quán trọ của Unquendor smial [Gondolin](../U/Unquendor.md) và là người ấp ủ [Tolkien xã hội](../T/Tolkien_Societies~67099.md) ở [Slovenia](<../G/Gil-Galad_(Tolkien_Society).md>) và [Israel](../I/Israeli_Tolkien_Society.md).
+Schellen là cựu thủ quỹ và thành viên ủy ban kiểm toán của [Unquendor](../U/Unquendor.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> đồng sáng lập của [Hiệp hội Tolkien Nam Phi Haradrim](<../H/Haradrim_(Tolkien_Society).md>), nhà xuất bản Tolkien tạp chí định kỳ *Voronwë*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> chủ quán trọ của Unquendor smial [Gondolin](../U/Unquendor.md) và là người ấp ủ [Tolkien xã hội](../T/Tolkien_Societies~67099.md) ở [Slovenia](<../G/Gil-Galad_(Tolkien_Society).md>) và [Israel](../I/Israeli_Tolkien_Society.md).
 
 Ông cũng là một nhà sưu tầm và một số bài viết của ông đã xuất hiện trên *[Amon Hen](<../A/Amon_Hen_(journal).md>)* và *[Lembas](<../L/Lembas_(journal).md>)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

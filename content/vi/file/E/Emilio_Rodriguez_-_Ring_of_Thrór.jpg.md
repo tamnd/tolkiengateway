@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Nhẫn của Thrór](../../main/R/Ring_of_Thrór.md)" - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Ghost of Framsburg* minh họa của Emilio Rodriguez
+"[Chiếc nhẫn Thrór](../../main/R/Ring_of_Thrór.md)" - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Ghost of Framsburg* minh họa của Emilio Rodriguez
 
 ## Giấy phép {#Licensing}
 

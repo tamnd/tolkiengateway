@@ -19,7 +19,7 @@ infobox:
     value: "Newspaper"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Glasgow Herald</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/6_August.md" title="6 August">6 August</a> <a href="../_/1966.md" title="1966">1966</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Báo</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Glasgow Herald</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/6_August.md" title="6 August">6 August</a> <a href="../_/1966.md" title="1966">1966</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Newspaper</td></tr></tbody></table>
 
 <b><i>Glasgow Herald</i> (ngày 6 tháng 8 năm 1966)</b> là số của tờ báo <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Herald_(Glasgow)" title="wikipedia:The Herald (Glasgow)">Glasgow Herald</a></i>.
 

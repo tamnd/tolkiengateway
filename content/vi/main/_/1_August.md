@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/1._elokuuta"
 ---
 
-<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=1_August/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Thêm sự kiện được tuyển chọn</a></div><div class="tg-section-divider"><span><a href="../A/August.md" title="August">August</a></span></div>
+<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=1_August/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Add curated event</a></div><div class="tg-section-divider"><span><a href="../A/August.md" title="August">August</a></span></div>
 <div class="template-month__grid">
 <div class="template-month__day"><a class="mw-selflink selflink">1</a></div>
 <div class="template-month__day"><a href="2_August.md" title="2 August">2</a></div>
@@ -56,7 +56,7 @@ langlinks:
 <div class="template-month__day"><a href="29_August.md" title="29 August">29</a></div>
 <div class="template-month__day"><a href="30_August.md" title="30 August">30</a></div>
 <div class="template-month__day"><a href="31_August.md" title="31 August">31</a></div>
-</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Tháng 1</a></div><div class="tg-button"><a href="../F/February.md" title="February">Tháng 2</a></div><div class="tg-button"><a href="../M/March.md" title="March">Tháng 3</a></div><div class="tg-button"><a href="../A/April.md" title="April">Tháng 4</a></div><div class="tg-button"><a href="../M/May.md" title="May">Tháng 5</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Tháng 7</a></div><div class="tg-button"><a href="../A/August.md" title="August">Tháng 8</a></div><div class="tg-button"><a href="../S/September.md" title="September">Tháng 9</a></div><div class="tg-button"><a href="../O/October.md" title="October">Tháng 10</a></div><div class="tg-button"><a href="../N/November.md" title="November">Tháng 11</a></div><div class="tg-button"><a href="../D/December.md" title="December">Tháng 12</a></div></div>
+</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
 Sự kiện xảy ra vào ngày 1 tháng 8
@@ -73,7 +73,7 @@ Sự kiện xảy ra vào ngày 1 tháng 8
 - **[1969](1969.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho ông Burrows](../L/Letter_to_Mr_Burrows.md).
 - **[1988](1988.md)** - [Mythcon 19](../M/Mythcon_19.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1993](1993.md)** - [Mythcon 24](../M/Mythcon_24.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Minnesota" title="wikipedia:University of Minnesota">Đại học Minnesota</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Minneapolis" title="wikipedia:Minneapolis">Minneapolis</a>.
-- **[1997](1997.md)** - Hội Tolkien Đức [Deutsche Tolkien Gesellschaft e.V.](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) được thành lập.
+- **[1997](1997.md)** - Hiệp hội Tolkien Đức [Deutsche Tolkien Gesellschaft e.V.](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) được thành lập.
 - **[1999](1999.md)** - [Mythcon 30](../M/Mythcon_30.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Milwaukee" title="wikipedia:Milwaukee">Milwaukee</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Wisconsin" title="wikipedia:Wisconsin">Wisconsin</a>.
 - **[2004](2004.md)** - [Mythcon 35](../M/Mythcon_35.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Michigan" title="wikipedia:University of Michigan">Đại học Michigan</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Ann_Arbor,_Michigan" title="wikipedia:Ann Arbor, Michigan">Ann Arbor</a>.
 - **[2008](2008.md)** - [Pauline Baynes](../P/Pauline_Baynes.md), nghệ sĩ yêu thích của [Tolkien](../J/J.R.R._Tolkien.md) qua đời.

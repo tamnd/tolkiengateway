@@ -26,7 +26,7 @@ langlinks:
 
 <i><b>úmarth</b></i> có nghĩa là "xấu số" trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-SI_1-0" class="reference"><a href="#cite_note-SI-1">[1]</a></sup>
 
-[Túrin Turambar](../T/Túrin.md) ở [Nargothrond](../N/Nargothrond.md) muốn giấu danh tính nên tự giới thiệu mình là [Agarwaen](../A/Agarwaen.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ông dùng tên Úmarth để chỉ cha mình [Húrin](../H/Húrin.md).<sup id="cite_ref-SI_1-1" class="reference"><a href="#cite_note-SI-1">[1]</a></sup>
+[Túrin Turambar](../T/Túrin.md) ở [Nargothrond](../N/Nargothrond.md) muốn giấu danh tính nên tự giới thiệu mình là [Agarwaen](../A/Agarwaen.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ông ta dùng tên Úmarth để chỉ cha mình [Húrin](../H/Húrin.md).<sup id="cite_ref-SI_1-1" class="reference"><a href="#cite_note-SI-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

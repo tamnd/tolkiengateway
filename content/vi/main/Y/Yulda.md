@@ -22,7 +22,7 @@ categories:
 ## Ví dụ {#Examples}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Yéni ve lintë <b>yuldar</b> avánier ('Năm tháng trôi qua như cơn gió thoảng')
+<p>Yéni ve lintë <b>yuldar</b> avánier (&#39;The years have passed like swift draughts&#39;)
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../N/Namárië.md" title="Namárië">Namárië</a></i><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

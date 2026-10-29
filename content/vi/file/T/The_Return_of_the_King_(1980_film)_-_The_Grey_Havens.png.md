@@ -30,7 +30,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Bộ Cảng Xám](../../main/G/Grey_Havens.md) - [*The Return of the King* (phim năm 1980)](<../../main/T/The_Return_of_the_King_(1980_film).md>)
+[Bộ Cảng Xám](../../main/G/Grey_Havens.md) - [*The Return of the King* (phim 1980)](<../../main/T/The_Return_of_the_King_(1980_film).md>)
 
 ## Giấy phép {#Licensing}
 

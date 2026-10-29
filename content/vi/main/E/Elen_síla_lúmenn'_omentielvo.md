@@ -23,7 +23,7 @@ Khi ai đó hỏi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) *[The Lord of the Rin
 
 <b><a href="../_/2024.md" title="2024">2024</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_The_Rings_of_Power_-_Season_2&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: The Rings of Power - Season 2 (page does not exist)">S2.</a><a href="Eldest_(episode).md" title="Eldest (episode)">E4 - Anh cả</a></b>:
 
-<dl><dd>Câu này được phát âm bởi <a href="../A/Adar_(The_Rings_of_Power).md" title="Adar (The Rings of Power)">Adar</a> để chào <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a>.</dd></dl>
+<dl><dd>This sentence is pronounced by <a href="../A/Adar_(The_Rings_of_Power).md" title="Adar (The Rings of Power)">Adar</a> to greet <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a>.</dd></dl>
 
 ## Liên kết ngoài {#External_links}
 

@@ -55,6 +55,6 @@ file:
 </div>
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i>Twitter</i>, <a class="external text" href="https://x.com/ralphbakshi/status/2036248745554375003" rel="noreferrer noopener" target="_blank">The Witch-King of Angmar. Original production cels from #LOTR are now back at our ebay shop</a> by <a href="../../main/R/Ralph_Bakshi.md" title="Ralph Bakshi">Ralph Bakshi</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i>Twitter</i>, <a class="external text" href="https://x.com/ralphbakshi/status/2036248745554375003" rel="noreferrer noopener" target="_blank">The Witch-King of Angmar.  Original production cels from #LOTR are now back at our ebay shop</a> by <a href="../../main/R/Ralph_Bakshi.md" title="Ralph Bakshi">Ralph Bakshi</a></span>
 </li>
 </ol></div>

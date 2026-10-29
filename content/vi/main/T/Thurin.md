@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/Thurin"
 ---
 
-<i><b>thurin</b></i> là một tính từ có nghĩa là "bí mật" hoặc "ẩn" trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó được sử dụng làm tên riêng cho [Túrin](Túrin.md) bởi [Finduilas](../F/Finduilas.md), người nghi ngờ rằng tên thật của ông là *Agarwaen*. Sự giống nhau với tên của ông khiến ông rất băn khoăn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>thurin</b></i> là một tính từ có nghĩa là "bí mật" hoặc "ẩn" trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó được sử dụng làm tên riêng cho [Túrin](Túrin.md) bởi [Finduilas](../F/Finduilas.md), người nghi ngờ rằng tên thật của ông ta là *Agarwaen*. Sự giống nhau với tên của ông khiến ông rất băn khoăn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 

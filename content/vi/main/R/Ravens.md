@@ -38,23 +38,23 @@ Trong *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Raven_(MERP).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/ba/Raven_%28MERP%29.jpg/150px-Raven_%28MERP%29.jpg" decoding="async" loading="lazy" width="150" height="128" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/ba/Raven_%28MERP%29.jpg/225px-Raven_%28MERP%29.jpg 1.5x, https://tolkiengateway.net/w/images/b/ba/Raven_%28MERP%29.jpg 2x" data-file-width="300" data-file-height="255"/></a><figcaption>Raven được miêu tả trong <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">MERP</a></i></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Raven_(MERP).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/ba/Raven_%28MERP%29.jpg/150px-Raven_%28MERP%29.jpg" decoding="async" loading="lazy" width="150" height="128" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/ba/Raven_%28MERP%29.jpg/225px-Raven_%28MERP%29.jpg 1.5x, https://tolkiengateway.net/w/images/b/ba/Raven_%28MERP%29.jpg 2x" data-file-width="300" data-file-height="255"/></a><figcaption>Raven portrayed in <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">MERP</a></i></figcaption></figure>
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Quạ, loài chim cấp 4, rất thông minh và quyến rũ, là bạn của Nhân dân Tự do. Họ nổi tiếng là sứ giả của Vala <a href="../M/Mandos.md" title="Mandos">Mandos</a> và có thể nói nhiều thứ tiếng Mannish và Elvish.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
+<dl><dd>Ravens, level 4 birds, are enchanted and intelligent, friends of the Free Peoples. They are reputedly the messengers of the Vala <a href="../M/Mandos.md" title="Mandos">Mandos</a>, and are able to speak many Mannish and Elvish tongues.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
 <b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
 
-<dl><dd>“Quạ phương Bắc” là “<i>creatures of especially powerful magic</i>”, có khả năng hiểu được Westron và có tuổi thọ cực kỳ cao.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
+<dl><dd>&#34;Ravens of the North&#34; are &#34;<i>creatures of especially powerful magic</i>&#34;, being able to understand Westron and having extraordinarily long lives.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
 <b>2014: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i>:</b>
 
-<dl><dd>Nhiều con quạ được nhìn thấy quay trở lại <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Ngọn Núi Cô Đơn</a> sau khi <a href="../S/Smaug.md" title="Smaug">Smaug</a> bị giết. Một người sau đó được nhìn thấy đang lên đường tới <a href="../I/Iron_Hills.md" title="Iron Hills">Dãy Đồi Sắt</a> và sau đó quay trở lại ngay khi quân đội của <a href="../D/Dáin_Ironfoot.md" title="Dáin Ironfoot">Dáin Chân Sắt</a> đến. Có khả năng con quạ này sẽ đóng vai <a href="Roäc.md" title="Roäc">Roäc</a>, nhưng điều này chưa bao giờ được xác nhận. Mặc dù thực tế là quạ ngoài đời thực có thể bắt chước giọng nói của con người, nhưng chúng hoàn toàn không nói được, giống như tất cả các loài chim khác trong <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a> phim của <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a>.</dd></dl>
+<dl><dd>Many ravens are seen returning to the <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Lonely Mountain</a> after <a href="../S/Smaug.md" title="Smaug">Smaug</a> is slain. One is later seen setting out for the <a href="../I/Iron_Hills.md" title="Iron Hills">Iron Hills</a>, and then returning just as <a href="../D/Dáin_Ironfoot.md" title="Dáin Ironfoot">Dáin Ironfoot</a>&#39;s army arrives. It is possible this raven could be serving the role of <a href="Roäc.md" title="Roäc">Roäc</a>, but it is never confirmed. Despite the fact that real-life ravens can mimic human speech, they do not speak at all, as with all other birds in <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a>&#39;s <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a> films.</dd></dl>
 
 <b>2023: <i><a href="../T/The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Trở về Moria</a></i>:</b>
 
-<dl><dd><a href="../A/Aric.md" title="Aric">Aric</a> là một con quạ Erebor xuất hiện định kỳ trong trò chơi để đẩy câu chuyện về phía trước và giao nhiệm vụ cho người chơi.</dd></dl>
+<dl><dd><a href="../A/Aric.md" title="Aric">Aric</a> is a raven of Erebor who appears periodically in the game to push the story forward, and to give quests to the player.</dd></dl>
 
 <span></span>
 

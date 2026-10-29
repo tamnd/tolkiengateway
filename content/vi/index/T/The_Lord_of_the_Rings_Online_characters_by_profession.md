@@ -127,7 +127,7 @@ categories:
 - [Argirion](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Argirion)
 - [Atli Nhện độc](../../main/A/Atli_Spider-bane.md)
 - [Bolli](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Bolli)
-- [Đại úy Brackenbrook](../../main/C/Captain_Brackenbrook.md)
+- [Thuyền trưởng Brackenbrook](../../main/C/Captain_Brackenbrook.md)
 - [Cal Sprigley](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Cal_Sprigley)
 - [Calder Cob](../../main/C/Calder_Cob.md)
 - [Lông cây kế có thể điều chỉnh được](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Constable_Thistlewool)

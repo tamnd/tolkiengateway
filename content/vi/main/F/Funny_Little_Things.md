@@ -17,25 +17,25 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Mười lăm con chim trong năm cây linh sam,<br/>
-Lông của chúng tung bay trong làn gió rực lửa.<br/>
-Những chú chim nhỏ thật buồn cười - chúng không có cánh.<br/>
-Ôi, chúng ta sẽ làm gì với những điều nhỏ nhặt buồn cười đây?<br/>
-Ôi, chúng ta sẽ làm gì với những điều nhỏ nhặt buồn cười đây?<br/>
+<p>Fifteen birds in five fir-trees,<br/>
+Their feathers were fanned in a fiery breeze.<br/>
+What funny little birds - they had no wings.<br/>
+Oh, what shall we do with the funny little things?<br/>
+Oh, what shall we do with the funny little things?<br/>
 <br/>
-Nướng sống hoặc hầm chúng trong nồi!<br/>
-Chiên, luộc, ăn nóng?<br/>
-Nướng chúng đi! Hãy nâng cốc chúc mừng họ! Chiên chúng đi! Nướng chúng<br/>
-Cho đến khi râu óng và mắt đờ đẫn;<br/>
-Cho đến khi tóc phồng lên và da nứt nẻ,<br/>
-Mỡ tan xương đen<br/>
-Trong tro tàn dưới bầu trời!<br/>
-Vậy là Người Lùn sẽ chết!  (Ha ha ha...)<br/>
+Roast them alive or stew &#39;em in a pot!<br/>
+Fry them, boil them, eat them hot?<br/>
+Bake &#39;em! Toast &#39;em! Fry &#39;em! Roast &#39;em<br/>
+Till beards blaze and eyes glaze;<br/>
+Till hair swells and skins crack,<br/>
+Fat melts and bones black<br/>
+In cinders lie beneath the sky!<br/>
+So the Dwarves shall die!  (Ha ha ha...)<br/>
 <br/>
-Mười lăm con chim trong năm cây linh sam<br/>
-Lông của chúng tung bay trong làn gió rực lửa.<br/>
-Những chú chim nhỏ thật buồn cười - chúng không có cánh.<br/>
-Ôi, chúng ta sẽ làm gì với những điều nhỏ nhặt buồn cười đây?<br/>
-Ồ, chúng ta sẽ làm gì với những điều nhỏ nhặt buồn cười đây?
+Fifteen birds in five fir-trees,<br/>
+Their feathers were fanned in a fiery breeze.<br/>
+What funny little birds - they had no wings.<br/>
+Oh, what shall we do with the funny little things?<br/>
+Oh, what shall we do with the funny little things?
 </p>
 </div>

@@ -24,7 +24,7 @@ langlinks:
 
 <b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></i>:</b>
 
-<dl><dd>Gia đình này được nhắc đến bởi Barliman Butterbur, người này nói với người chơi rằng Prancing Pony đã thuộc quyền sở hữu của gia đình Butterbur trong nhiều thế hệ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
+<dl><dd>The family is mentioned by Barliman Butterbur, who tells the player that the Prancing Pony has been in possession of the Butterbur family for many generations.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 
 ## Từ nguyên {#Etymology}
 

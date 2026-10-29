@@ -17,25 +17,25 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Sông lửa, đêm chết <br/>
-Mùa đông nằm trắng lạnh <br/>
-Trên đồng bằng bùng nổ và cao. <br/>
-Màu đỏ phản chiếu trên bầu trời. <br/>
+<p>Rivers of fire, the dead of night <br/>
+In winter lying cold and white <br/>
+Upon the plain burst forth and high. <br/>
+The red was mirrored in the sky. <br/>
 <br/>
-Từ những bức tường của Hitblum họ nhìn thấy ngọn lửa, <br/>
-Hơi nước và khói trong ngọn tháp <br/>
-Hãy nhảy lên cho đến khi hỗn loạn bao la <br/>
-Các ngôi sao đều nghẹn ngào. Và thế là nó đã qua <br/>
+From Hitblum&#39;s walls they saw the fire, <br/>
+The steam and smoke in spire on spire <br/>
+Leap up, till in confusion vast <br/>
+The stars were choked. And so it past <br/>
 <br/>
-Có tiếng kèn vừa dài vừa vang, <br/>
-Và thử thách vang lên tận mây xanh <br/>
-Nó nằm trên tòa tháp phía bắc của Morgoth, <br/>
-Trong khi Morgoth chuộc lại giờ của mình. <br/>
+There trumpets sang both long and loud, <br/>
+And challenge rang unto the cloud <br/>
+That lay on Morgoth&#39;s northern tower, <br/>
+While Morgoth redeemed for his hour. <br/>
 <br/>
-Sức mạnh và vinh quang tuôn chảy cho bình minh đang đổi thay <br/>
-Sức mạnh cổ xưa lộ rõ từ chiếc vương miện sắt <br/>
+Might and glory flowing for a changing dawn <br/>
+Ancient power reveals from an iron crown <br/>
 <br/>
-Trong trẻo và lạnh lẽo và tỏa sáng xa xăm <br/>
-Nghiền nát thế giới trong một cuộc đụng độ của ánh sáng chói mắt của bạn
+Clear and cold and shining so far and bright <br/>
+Crush the world in one clash of your blinding light
 </p>
 </div>

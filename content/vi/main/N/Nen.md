@@ -16,7 +16,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>từ Sindarin</b>. Đối với dòng sông trong legendarium sơ khai, xem <b><a href="Nen_(river_in_Valinor).md" title="Nen (river in Valinor)">Nen (sông ở Valinor)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the Sindarin word</b>. For the river in the early legendarium, see <b><a href="Nen_(river_in_Valinor).md" title="Nen (river in Valinor)">Nen (river in Valinor)</a></b>.</div></div>
 
 <i><b>nen</b></i> là danh từ [Sindarin](../S/Sindarin.md) có nghĩa là "nước" (được dùng cho một vùng nước nhỏ như hồ, vũng, sông nhỏ hoặc nhánh).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

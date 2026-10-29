@@ -18,7 +18,7 @@ categories:
 ## Ví dụ {#Examples}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Bạn có đang cảm thấy khó chịu không? ('Bây giờ ai sẽ đổ đầy cốc cho tôi?')
+<p>Sí man i yulma nin enquantuva? (&#39;Who now shall refill the cup for me?&#39;)
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../N/Namárië.md" title="Namárië">Namárië</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

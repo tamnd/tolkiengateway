@@ -35,31 +35,31 @@ images:
 
 <table align="right" cellpadding="6" cellspacing="0" class="tginfobox floatright">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">Lịch sử Arda</a>
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">History of Arda</a>
 </th></tr>
 <tr>
-<td colspan="3"><b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Âm nhạc của các Ainur</a></b>
+<td colspan="3"><b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Music of the Ainur</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../T/Timeline.md" title="Timeline">Dòng thời gian Arda</a></b>
-</td></tr>
-<tr>
-<td style="padding-top: 0em; padding-bottom: 0em;">
-</td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../D/Days_before_days.md" title="Days before days">Những ngày trước thời đại</a>
+<td colspan="3"><b><a href="../T/Timeline.md" title="Timeline">Timeline of Arda</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a class="mw-selflink selflink">Thời đại Cây Hai Ngọn</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../D/Days_before_days.md" title="Days before days">Days before days</a>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="Years_of_the_Sun.md" title="Years of the Sun">Những năm Mặt Trời</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a class="mw-selflink selflink">Years of the Trees</a>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Các Kỷ nguyên của Những Người Con của Ilúvatar</a></b>
+<td style="padding-top: 0em; padding-bottom: 0em;">
+</td>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="Years_of_the_Sun.md" title="Years of the Sun">Years of the Sun</a>
+</td></tr>
+<tr>
+<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Ages of the Children of Ilúvatar</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
@@ -84,16 +84,16 @@ images:
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../L/Later_Ages.md" title="Later Ages">Các Kỷ nguyên sau</a> <small>(tính đến ngày nay)</small>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../L/Later_Ages.md" title="Later Ages">Later Ages</a> <small>(up to present day)</small>
 </td></tr>
 <tr>
 <td colspan="3"><b><a href="../D/Dagor_Dagorath.md" title="Dagor Dagorath">Dagor Dagorath</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Âm nhạc thứ hai của các Ainur</a></b>
+<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Second Music of the Ainur</a></b>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">Xem thêm: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Phiên bản Thế giới Hình cầu của hệ thống truyền thuyết</a></b>
+<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">See also: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Round World version of the legendarium</a></b>
 </td></tr></tbody></table>
 
 **Những năm của cây**, còn được gọi là **Những ngày hạnh phúc (của Valinor)** là những năm dài trải dài từ ngày thành lập [Valinor](../V/Valinor.md) đến [Tối tăm](../D/Darkening_of_Valinor.md) của nó. Trong thời gian này, Valinor được thắp sáng bởi ánh sáng của [Hai Cây](../T/Two_Trees_of_Valinor.md), nhưng [Trung Địa](../M/Middle-earth.md) nằm trong [Great Bóng Tối](../G/Great_Darkness.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
@@ -106,32 +106,32 @@ Phần lớn, [Kỷ Đệ Nhất](../F/First_Age.md) được tính vào Năm c�
 
 Rất lâu trước khi [Tiên tộc](../E/Elves.md) thức tỉnh, [Yavanna](Yavanna.md) đã tạo ra Hai Cây của Valinor để mang lại ánh sáng cho vương quốc của [Valar](../V/Valar.md). Cây ra hoa lần đầu tiên sau 3500 năm Valian (tức là gần 35.000 năm bình thường) đã trôi qua.<sup id="cite_ref-Annals_2-1" class="reference"><a href="#cite_note-Annals-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:51</sup> Thời kỳ này bắt đầu vào [Giờ khai mạc](../O/Opening_Hour.md), khi [Telperion](../T/Telperion.md) lần đầu tiên bắt đầu nở hoa một mình; vào giờ thứ hai, [Ngày đầu tiên](../F/First_Day.md) bắt đầu và cùng với đó là sự khởi đầu của [Đếm thời gian](../T/Time.md).<sup id="cite_ref-BegDays_8-0" class="reference"><a href="#cite_note-BegDays-8">[8]</a></sup>
 
-Thế là một thời kỳ thái bình bắt đầu ở Valinor, nhưng Trung Địa chỉ được chiếu sáng bằng ánh sao. [Melkor](../M/Morgoth.md) ẩn mình hoạt động sâu trong [Utumno](../U/Utumno.md), ở phía bắc Thế giới, và quyền thống trị của hắn mở rộng về phía nam; trong khi đó, [Sauron](../S/Sauron.md) được giao làm phó tướng ở [Angband](../A/Angband.md), đề phòng một cuộc tấn công từ Phương Tây.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Không có ghi chép nào cho biết thời kỳ này kéo dài bao lâu, chỉ nói rằng “năm tháng cứ thế trôi qua”; thời kỳ này hẳn đã kéo dài khoảng 10.500 năm. Chính trong thời gian ấy, [Aulë](../A/Aulë.md) đã tạo ra [Người Lùn](../D/Dwarves.md) và theo ý chỉ của [Eru](../I/Ilúvatar.md), đặt họ vào giấc ngủ cho đến khi các [ngôi sao](../S/Stars.md) được tạo ra và [Tiên tộc thức tỉnh](../A/Awakening_of_the_Elves.md). Sự kiện sau đánh dấu khởi đầu của Kỷ Đệ Nhất.<sup id="cite_ref-Annals_2-2" class="reference"><a href="#cite_note-Annals-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:51</sup><sup id="cite_ref-Nature_3-1" class="reference"><a href="#cite_note-Nature-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:123</sup>
+Thế là bắt đầu một triều đại hòa bình ở Valinor, nhưng Trung Địa chỉ được thắp sáng bằng ánh sao, và [Melkor](../M/Morgoth.md) hoạt động ở sâu trong [Utumno](../U/Utumno.md) ở phía bắc Thế giới và quyền thống trị của nó mở rộng về phía nam, trong khi [Sauron](../S/Sauron.md) được bổ nhiệm làm trung úy ở [Angband](../A/Angband.md), dự đoán một cuộc tấn công từ Phương Tây.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Người ta không cho biết thời gian này kéo dài bao lâu, chỉ là 'thời đại đã kéo dài trên'; thời kỳ này sẽ kéo dài khoảng 10.500 năm. Chính trong khoảng thời gian này [Aulë](../A/Aulë.md) đã tạo ra [Người Lùn](../D/Dwarves.md) và theo chỉ đạo của [Eru](../I/Ilúvatar.md), đặt chúng vào trạng thái ngủ cho đến khi tạo ra [các ngôi sao](../S/Stars.md) và [Sự thức tỉnh của Tiên tộc](../A/Awakening_of_the_Elves.md). Sự kiện sau đánh dấu sự khởi đầu của Kỷ Đệ Nhất.<sup id="cite_ref-Annals_2-2" class="reference"><a href="#cite_note-Annals-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:51</sup><sup id="cite_ref-Nature_3-1" class="reference"><a href="#cite_note-Nature-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:123</sup>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Oromë_espies_the_first_Elves.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg/300px-Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg" decoding="async" loading="lazy" width="300" height="168" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7d/Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg/450px-Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7d/Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg/600px-Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg 2x" data-file-width="850" data-file-height="475"/></a><figcaption><i>Oromë phát hiện những Tiên tộc đầu tiên</i> do <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Oromë_espies_the_first_Elves.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg/300px-Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg" decoding="async" loading="lazy" width="300" height="168" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7d/Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg/450px-Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7d/Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg/600px-Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg 2x" data-file-width="850" data-file-height="475"/></a><figcaption><i>Oromë espies the first Elves</i> by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
-Khi [Oromë](../O/Oromë.md) phát hiện Tiên tộc đã thức tỉnh tại [Cuiviénen](../C/Cuiviénen.md), những biến chuyển lớn bắt đầu diễn ra. Valar tiến hành [Trận chiến của các Quyền năng](../B/Battle_of_the_Powers.md) chống lại [Melkor](../M/Morgoth.md); Utumno bị phá hủy, còn Melkor bị xiềng xích giải về Valinor. Valar cũng mời Tiên tộc đến sinh sống trên vùng đất của mình, và nhiều người đã đáp lời.
+Khi [Oromë](../O/Oromë.md) phát hiện ra rằng Tiên tộc đã thức dậy vào lúc [Cuiviénen](../C/Cuiviénen.md), những thay đổi lớn đã xảy ra. Valar đã bắt đầu cuộc [Trận chiến của các Quyền năng](../B/Battle_of_the_Powers.md) chống lại [Melkor](../M/Morgoth.md); Utumno đã bị phá hủy và Melkor mang theo dây xích đến Valinor. Valar cũng triệu tập Tiên tộc đến cư trú trên vùng đất của họ và nhiều người đã đáp lại lời triệu tập này.
 
-Khi ba dòng tộc Tiên tộc quy tụ, thời kỳ **Chính Ngọ của Cõi Phúc lành** bắt đầu.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Sau đó là thời kỳ kéo dài ba thời đại (khoảng 2.900 năm). [Melkor bị giam cầm](../C/Chaining_of_Melkor.md) trong [Đại sảnh Mandos](../H/Halls_of_Mandos.md), còn Valar và [Eldar](../E/Eldar.md) cùng sinh sống dưới ánh sáng của Hai Cây. Trong bóng tối của Trung Địa, Tiên Hắc Ám, những người không lên đường đến Valinor, vẫn tiếp tục sinh sống; các Tổ phụ của người Lùn cũng bắt đầu cựa mình. Con Người chỉ xuất hiện một thời gian sau khi Những năm của Cây kết thúc.
+Kể từ thời điểm ba dòng tộc Tiên tộc tập hợp lại, bắt đầu **Buổi trưa của Cõi Phúc lành**.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Tiếp theo là thời kỳ ba thời đại (khoảng 2.900 năm). [Melkor bị giam giữ](../C/Chaining_of_Melkor.md) trong [Sảnh của Mandos](../H/Halls_of_Mandos.md), còn Valar và [Eldar](../E/Eldar.md) sống cùng nhau dưới ánh sáng của Cây cối. Trong bóng tối của Trung Địa, Tiên Hắc Ám chưa hành trình đến Valinor vẫn ở lại, và Tổ phụ của người Lùn cựa quậy. Con Người sẽ không xuất hiện cho đến một thời gian sau khi Năm Cây kết thúc.
 
-Những năm của Cây kết thúc khi [Manwë](../M/Manwë.md) thả Melkor khỏi cảnh giam cầm. Trong một thời gian, [Chúa tể Bóng tối](../D/Dark_Lord.md) giả vờ kết thân với Eldar, nhưng rồi hắn quay trở lại Bóng Tối. Sau khi chiếu sáng suốt 1495 Niên đại Valian,<sup id="cite_ref-Annals_2-3" class="reference"><a href="#cite_note-Annals-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:51</sup> Hai Cây bị [Ungoliant](../U/Ungoliant.md) hủy diệt. Trong [Đêm Dài](../L/Long_Night.md), chúng đánh cắp các [Silmaril](../S/Silmarils.md) rồi trốn về phía bắc Trung Địa. Với ý định trả thù, [Fëanor](../F/Fëanor.md) dẫn theo phần lớn [Noldor](../N/Noldor.md) rời Valinor, trở về Beleriand.
+Những năm tháng này đã kết thúc khi [Manwë](../M/Manwë.md) được trả tự do cho Melkor khỏi cảnh giam cầm. Trong một thời gian, [Chúa tể Bóng tối](../D/Dark_Lord.md) giả vờ làm bạn với Eldar nhưng anh lại quay về với bóng tối. Sau khi tỏa sáng trong 1495 Năm Valian,<sup id="cite_ref-Annals_2-3" class="reference"><a href="#cite_note-Annals-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:51</sup> cây cối đã bị phá hủy bởi [Ungoliant](../U/Ungoliant.md). Trong [Đêm dài](../L/Long_Night.md), chúng đã đánh cắp chiếc [Silmaril](../S/Silmarils.md) và bỏ trốn về phía bắc Trung Địa. Để trả thù, [Fëanor](../F/Fëanor.md) đã dẫn một phần lớn [Noldor](../N/Noldor.md) ra khỏi Valinor và quay trở lại Beleriand.
 
-Thế là Những năm của Cây kết thúc. Vào thời điểm này, Valar tạo ra [Mặt Trời](../S/Sun.md) và [Mặt Trăng](../M/Moon.md) để chiếu sáng Thế giới; sau khi 5000 Niên đại Valian trôi qua,<sup id="cite_ref-Annals_2-4" class="reference"><a href="#cite_note-Annals-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:51</sup> [Những năm của Mặt Trời](Years_of_the_Sun.md) trong Kỷ Đệ Nhất bắt đầu.<sup id="cite_ref-Atani_5-1" class="reference"><a href="#cite_note-Atani-5">[5]</a></sup>
+Thế là Năm Cây đã kết thúc. Vào thời điểm này, Valar đã tạo ra [Mặt Trời](../S/Sun.md) và [Mặt Trăng](../M/Moon.md) để mang lại ánh sáng cho Thế giới, và sau 5000 Năm Valian trôi qua,<sup id="cite_ref-Annals_2-4" class="reference"><a href="#cite_note-Annals-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:51</sup> [Những năm của Mặt Trời](Years_of_the_Sun.md) cho Kỷ Đệ Nhất đã bắt đầu.<sup id="cite_ref-Atani_5-1" class="reference"><a href="#cite_note-Atani-5">[5]</a></sup>
 
 ## Tính toán {#Reckoning}
 
-Có thể tóm tắt cách phân chia một ngày Valian như sau:<sup id="cite_ref-BegDays_8-1" class="reference"><a href="#cite_note-BegDays-8">[8]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+Lịch trình của ngày Valian có thể tóm tắt như sau:<sup id="cite_ref-BegDays_8-1" class="reference"><a href="#cite_note-BegDays-8">[8]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
 <table class="wikitable">
 <tbody><tr>
-<th>giờ Valian
+<th>Valian hour
 </th>
-<th>Sự kiện
+<th>Event
 </th></tr>
 <tr>
 <td>Hour 1
 </td>
-<td>Ngày mới bắt đầu, Telperion đã bước sang giai đoạn nở hoa thứ hai
+<td>Day begins, Telperion&#39;s blooming is already on its second phase
 </td></tr>
 <tr>
 <td>Hour 2
@@ -141,7 +141,7 @@ Có thể tóm tắt cách phân chia một ngày Valian như sau:<sup id="cite_
 <tr>
 <td>Hour 3
 </td>
-<td>Telperion nở rộ nhất
+<td>Telperion reaches his greatest bloom
 </td></tr>
 <tr>
 <td>Hour 4
@@ -156,12 +156,12 @@ Có thể tóm tắt cách phân chia một ngày Valian như sau:<sup id="cite_
 <tr>
 <td>Hour 6
 </td>
-<td>Laurelin bắt đầu nở hoa và ánh sáng của Hai Cây hòa quyện vào nhau; đến cuối giờ, Telperion tắt sáng.
+<td>Laurelin begins to bloom and the lights of the two trees are mingled; at the end of the hour, Telperion ceases.
 </td></tr>
 <tr>
 <td>Hour 7
 </td>
-<td>Laurelin tiếp tục nở hoa trong khi ánh sáng của Telperion vẫn còn lưu lại một lúc
+<td>Laurelin continues to bloom while Telperion&#39;s light remains for some time
 </td></tr>
 <tr>
 <td>Hour 8
@@ -171,7 +171,7 @@ Có thể tóm tắt cách phân chia một ngày Valian như sau:<sup id="cite_
 <tr>
 <td>Hour 9
 </td>
-<td>Laurelin nở rộ nhất
+<td>Laurelin reaches her greatest bloom
 </td></tr>
 <tr>
 <td>Hour 10
@@ -186,55 +186,55 @@ Có thể tóm tắt cách phân chia một ngày Valian như sau:<sup id="cite_
 <tr>
 <td>Hour 12
 </td>
-<td>Telperion bắt đầu nở hoa và ánh sáng từ hai Cây hòa quyện vào nhau; vào cuối giờ (và ngày), Laurelin ngừng nở.
+<td>Telperion begins to bloom and the lights of the two trees are mingled; at the end of the hour (and the day), Laurelin ceases.
 </td></tr></tbody></table>
 
-Các đơn vị thời gian theo Cây có thể tóm lược như sau:<sup id="cite_ref-Annals_2-5" class="reference"><a href="#cite_note-Annals-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:59</sup>
+Các đơn vị thời gian của Cây có thể được tóm tắt là:<sup id="cite_ref-Annals_2-5" class="reference"><a href="#cite_note-Annals-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:59</sup>
 
 <table class="wikitable">
 <tbody><tr>
-<th>Đơn vị thời gian Valian
+<th>Valian time units
 </th>
-<th>Mô tả
+<th>Description
 </th>
-<th>Quy đổi sang đơn vị thời gian của chúng ta
+<th>Conversion to our time units
 </th></tr>
 <tr>
-<td>1 giờ Valian
+<td>1 Valian hour
 </td>
-<td>Một chu kỳ nở hoa trọn vẹn của hai Cây
+<td>A single segment of the full flowering of both Trees
 </td>
-<td>7 giờ theo thời gian của chúng ta
+<td>7 hours of our time
 </td></tr>
 <tr>
-<td>1 ngày Valian
+<td>1 Valian day
 </td>
-<td>12 giờ Valian hoặc một chu kỳ nở hoa trọn vẹn của hai Cây
+<td>12 Valian hours or the full flowering of both Trees
 </td>
-<td>(7 x 12) 84 giờ theo thời gian của chúng ta hoặc 3,5 ngày theo lịch của chúng ta
+<td>(7 x 12) 84 hours of our time or 3.5 of our days
 </td></tr>
 <tr>
-<td>1 năm Valian
+<td>1 Valian year
 </td>
-<td>1000 ngày theo lịch Valian hoặc 12.000 giờ Valian
+<td>1000 Valian days or 12,000 Valian hours
 </td>
-<td>(7 x 12.000) 84.000 giờ theo thời gian của chúng ta hoặc 3500 ngày theo lịch của chúng ta, tương đương (84.000 / 8766) với 9 <a href="../C/Coranar.md" title="Coranar">năm</a>, 212 ngày, 18 giờ
+<td>(7 x 12,000) 84,000 hours of our time or 3500 of our days, corresponding (84,000 / 8766) to 9 <a href="../C/Coranar.md" title="Coranar">years</a>, 212 days, 18 hours
 </td></tr>
 <tr>
-<td>1 kỷ của Valar
+<td>1 age of the Valar
 </td>
-<td>100 năm Valian (<a class="new" href="https://tolkiengateway.net/w/index.php?title=Randa&amp;action=edit&amp;redlink=1" title="Randa (page does not exist)">randa</a>)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+<td>100 Valian years (<a class="new" href="https://tolkiengateway.net/w/index.php?title=Randa&amp;action=edit&amp;redlink=1" title="Randa (page does not exist)">randa</a>)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 </td>
-<td>958 năm 105 ngày
+<td>958 years, 105 days
 </td></tr></tbody></table>
 
-## Các phiên bản khác của huyền sử {#Other_versions_of_the_legendarium}
+## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong những tác phẩm cuối đời của Tolkien, khi Arda là một [thế giới hình cầu](../R/Round_World_version_of_the_Silmarillion.md) ngay từ thuở ban đầu, Hai Cây chứa đựng ánh sáng của Mặt Trời tinh khiết, chứ không phải ánh sáng của [Hai Ngọn Đèn](../T/Two_Lamps.md), vốn chưa từng thực sự tồn tại. Theo phiên bản lịch sử Arda này, bóng tối không bắt nguồn từ việc Mặt Trời hay Mặt Trăng vắng bóng, mà là kết quả của một bóng đen khổng lồ do Melkor tạo ra nhằm bao phủ các vùng đất phía bắc Trung Địa, che khuất ánh sáng của Mặt Trăng và các vì sao, khiến ban ngày chỉ còn là một thứ ánh sáng chạng vạng lờ mờ.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+Trong các bài viết mới nhất của Tolkien, nơi Arda là một [thế giới tròn](../R/Round_World_version_of_the_Silmarillion.md) ngay từ đầu, Hai Cây mang lại ánh sáng của Mặt Trời không bị ô nhiễm thay vì của [Hai Ngọn Đèn](../T/Two_Lamps.md), thứ chưa bao giờ thực sự tồn tại. Trong phiên bản lịch sử của Arda này, thay vì thiếu vắng Mặt Trời hay Mặt Trăng, bóng tối bao phủ Arda thay vào đó là do một cái bóng lớn do Melkor thiết kế để trải rộng trên các vùng đất phía bắc của Trung Địa, che khuất ánh sáng của Mặt Trăng và các ngôi sao và khiến ngày trở thành hoàng hôn mờ ảo.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
 ## Xem thêm {#See_also}
 
-[Dòng thời gian của Những năm của Cây](../T/Timeline%252FYears_of_the_Trees.md)
+[Dòng thời gian của Năm Cây](../T/Timeline%252FYears_of_the_Trees.md)
 
 <span></span>
 

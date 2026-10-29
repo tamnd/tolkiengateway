@@ -18,10 +18,10 @@ images:
   - "Jarreau_Wimberly_-_The_Day's_Rising.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>bài thơ sáng tác bởi <a href="../_/Éomer.md" title="Éomer">Éomer</a></b>. Về bài thơ của <a href="../G/Gléowine.md" title="Gléowine">Gléowine</a>, xem <b><a href="Out_of_doubt,_out_of_dark,_to_the_day’s_rising.md" title="Out of doubt, out of dark, to the day’s rising">Hết nghi ngờ, ra khỏi bóng tối, tới ngày mới mọc</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>poem composed by <a href="../_/Éomer.md" title="Éomer">Éomer</a></b>. For the the poem composed by <a href="../G/Gléowine.md" title="Gléowine">Gléowine</a>, see <b><a href="Out_of_doubt,_out_of_dark,_to_the_day’s_rising.md" title="Out of doubt, out of dark, to the day’s rising">Out of doubt, out of dark, to the day’s rising</a></b>.</div></div>
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jarreau_Wimberly_-_The_Day&#39;s_Rising.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/68/Jarreau_Wimberly_-_The_Day%27s_Rising.jpg/300px-Jarreau_Wimberly_-_The_Day%27s_Rising.jpg" decoding="async" loading="lazy" width="300" height="245" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/68/Jarreau_Wimberly_-_The_Day%27s_Rising.jpg 1.5x" data-file-width="352" data-file-height="287"/></a><figcaption>&#34;The Day&#39;s Rising&#34; by Jarreau Wimberly</figcaption></figure>
 
@@ -32,10 +32,10 @@ Sau đó, [Gléowine](../G/Gléowine.md), nghệ sĩ biểu diễn của [Vua's 
 ## Văn bản {#Text}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Hết nghi ngờ, ra khỏi bóng tối, đến ngày mới mọc<br/>
-Tôi đến ca hát trong nắng, kiếm tuốt vỏ.<br/>
-Để hy vọng kết thúc, tôi cưỡi ngựa và khiến trái tim tan vỡ:<br/>
-Bây giờ là cơn thịnh nộ, bây giờ là sự tàn phá và màn đêm buông xuống màu đỏ!<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<p>Out of doubt, out of dark, to the day’s rising<br/>
+I came singing in the sun, sword unsheathing.<br/>
+To hope’s end I rode and to heart’s breaking:<br/>
+Now for wrath, now for ruin and a red nightfall!<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </p>
 </div>
 

@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/Middle-earth_Collectible_Card_Game"
 content_sha256: 845dd2b50afdf0c5a8d3f24774c8346197fd180449df9ac41fabe8ccb23f3c5d
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Game bài sưu tầm của Iron Crown Enterprises"
+short_description: "Collectible card game by Iron Crown Enterprises"
 categories:
   - "Card games"
 hidden_categories:
@@ -40,50 +40,50 @@ infobox:
     value: "MECCG"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/MECCG_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4c/MECCG_logo.png/320px-MECCG_logo.png" decoding="async" loading="lazy" width="320" height="126" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4c/MECCG_logo.png/480px-MECCG_logo.png 1.5x, https://tolkiengateway.net/w/images/4/4c/MECCG_logo.png 2x" data-file-width="549" data-file-height="216"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi thẻ sưu tập</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Trò chơi thẻ bài sưu tầm Trung Địa</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà thiết kế</th><td class="tg-infobox-data"><a href="../C/Coleman_Charlton.md" title="Coleman Charlton">Coleman Charlton</a>, <a href="Mike_Reynolds.md" title="Mike Reynolds">Mike Reynolds</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data"><a href="../_/1995.md" title="1995">1995</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người chơi</th><td class="tg-infobox-data">1-5</td></tr><tr><th scope="row" class="tg-infobox-label">Abbreviation</th><td class="tg-infobox-data">MECCG</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/MECCG_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4c/MECCG_logo.png/320px-MECCG_logo.png" decoding="async" loading="lazy" width="320" height="126" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4c/MECCG_logo.png/480px-MECCG_logo.png 1.5x, https://tolkiengateway.net/w/images/4/4c/MECCG_logo.png 2x" data-file-width="549" data-file-height="216"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Collectible card game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Middle-earth Collectible Card Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data"><a href="../C/Coleman_Charlton.md" title="Coleman Charlton">Coleman Charlton</a>, <a href="Mike_Reynolds.md" title="Mike Reynolds">Mike Reynolds</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="../_/1995.md" title="1995">1995</a></td></tr><tr><th scope="row" class="tg-infobox-label">Players</th><td class="tg-infobox-data">1-5</td></tr><tr><th scope="row" class="tg-infobox-label">Abbreviation</th><td class="tg-infobox-data">MECCG</td></tr></tbody></table>
 
-<i><b>Trò chơi bài sưu tầm Trung Địa</b></i> là trò chơi bài sưu tầm do [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) phát hành vào cuối [1995](../_/1995.md). Đây là CCG đầu tiên dựa trên [Trung Địa](Middle-earth.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), với nội dung bổ sung lấy từ trò chơi [*Middle-earth Role Playing*](Middle-earth_Role_Playing.md) của [ICE](../I/Iron_Crown_Enterprises.md).
+<i><b>Trung Địa Trò chơi bài sưu tầm</b></i> là trò chơi bài sưu tầm được phát hành bởi [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) vào cuối [1995](../_/1995.md). Đây là CCG đầu tiên dựa trên [Trung Địa](Middle-earth.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), với nội dung được bổ sung từ [*Middle-earth Role Playing* trò chơi](Middle-earth_Role_Playing.md) của [ICE](../I/Iron_Crown_Enterprises.md).
 
-Các lá bài trong trò chơi có hình minh họa nguyên bản do nhiều họa sĩ thực hiện, trong đó có những họa sĩ minh họa lâu năm cho các tác phẩm của Tolkien như [John Howe](../J/John_Howe.md), [Ted Nasmith](../T/Ted_Nasmith.md), [Angus McBride](../A/Angus_McBride.md) và những người khác.
+Các thẻ được sử dụng trong trò chơi có tác phẩm nghệ thuật nguyên bản của nhiều nghệ sĩ, nhiều người trong số họ là họa sĩ minh họa Tolkien lâu năm như [John Howe](../J/John_Howe.md), [Ted Nasmith](../T/Ted_Nasmith.md), [Angus McBride](../A/Angus_McBride.md), et al.
 
-Trò chơi ngừng được sản xuất vào [1999](../_/1999.md), khi ICE mất giấy phép sử dụng nội dung trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và *[The Hobbit](../T/The_Hobbit.md)* của Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Quyền sử dụng giấy phép sau đó thuộc về [Decipher](../D/Decipher.md). Hãng này phát hành trò chơi [bài sưu tầm](../T/The_Lord_of_the_Rings_Trading_Card_Game.md) riêng, không liên quan đến trò chơi trước, vào [2001](../_/2001.md), nhân dịp các [phim chuyển thể](<../T/The_Lord_of_the_Rings_(film_series).md>) ra mắt; đồng thời đưa [Mike Reynolds](Mike_Reynolds.md), biên tập viên phụ trách dòng sản phẩm *Middle-earth CCG*, về làm việc.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Quá trình sản xuất trò chơi kết thúc vào [1999](../_/1999.md), khi ICE mất giấy phép cho phép họ sử dụng nội dung *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và *[The Hobbit](../T/The_Hobbit.md)* của Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Giấy phép thuộc về [Decipher](../D/Decipher.md), người sẽ xuất bản [trò chơi thẻ bài sưu tập](../T/The_Lord_of_the_Rings_Trading_Card_Game.md) không liên quan của riêng họ trong [2001](../_/2001.md) trùng với thời điểm phát hành [phim chuyển thể](<../T/The_Lord_of_the_Rings_(film_series).md>), mang theo *Trung Địa Trình chỉnh sửa dòng của CCG* [Mike Austin Reynolds](Mike_Reynolds.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Tổng quan {#Overview}
 
-Ở dạng cơ bản, đây là trò chơi dành cho từ một đến năm người chơi, mỗi người chọn một trong [năm pháp sư](../I/Istari.md) làm nhân vật đại diện. Một *lượt* trong trò chơi gồm việc một người chơi phiêu lưu khắp Trung Địa với sự trợ giúp của những nhân vật nổi tiếng tại đây, tìm cách tích lũy ảnh hưởng và sức mạnh để hỗ trợ cuộc chiến chống lại [Chúa tể Bóng tối](../S/Sauron.md), trong khi một người chơi khác tìm cách quấy phá và cuối cùng tiêu diệt các nhân vật của người chơi đó bằng những lá bài *hazard*. Ở lượt của mỗi người chơi, vai trò tấn công và phòng thủ luân phiên theo chiều kim đồng hồ quanh bàn: người chơi vừa di chuyển các nhân vật của mình sẽ tung các mối nguy hiểm vào người chơi bên phải. Bất kỳ người chơi nào cũng có thể giành chiến thắng bằng cách đoạt lấy và phá hủy [Nhẫn Chúa](../T/The_One_Ring.md) sau một chuỗi sự kiện phức tạp.
+Ở dạng cơ bản, đây là trò chơi dành cho từ một đến năm người chơi, mỗi người chọn một trong [năm pháp sư](../I/Istari.md) để đại diện cho mình. Một *turn* trong trò chơi bao gồm việc một người chơi lang thang khắp Trung Địa với sự giúp đỡ của các nhân vật nổi tiếng của Trung Địa, cố gắng thu thập ảnh hưởng và sức mạnh để hỗ trợ trong cuộc chiến chống lại [The Chúa tể Bóng tối](../S/Sauron.md), trong khi một người chơi khác cố gắng quấy rối và cuối cùng giết *characters* của ông ta bằng các thẻ *hazard* cụ thể. Sau đó, đến lượt của mỗi người chơi, các vai trò sẽ thay đổi theo chiều kim đồng hồ xung quanh bàn (người chơi đang di chuyển nhân vật của mình sau đó sẽ ném các mối nguy hiểm vào người chơi ở bên phải của mình). Bất kỳ người chơi nào cũng có thể giành chiến thắng bằng cách thu thập và tiêu diệt [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) sau một chuỗi sự kiện phức tạp.
 
-Các bản mở rộng sau này bổ sung khả năng nhập vai một [Nazgûl](../N/Nazgûl.md) của [Sauron](../S/Sauron.md) (bộ *[The Lidless Eye](Middle-earth%253A_The_Lidless_Eye.md)*), một pháp sư sa ngã có luật chơi riêng (bản mở rộng *[The White Hand](Middle-earth%253A_The_White_Hand.md)*), [Balrog](../B/Balrogs.md) hung ác (bản mở rộng *[The Balrog](Middle-earth%253A_The_Balrog.md)*), hoặc thậm chí chính Sauron. Trò chơi có một số điểm khác biệt so với phần lớn các CCG khác: sử dụng hai viên xúc xắc sáu mặt để tạo yếu tố ngẫu nhiên, đồng thời có bản đồ Trung Địa thực tế, bao gồm các *regions* mà các đoàn nhân vật của người chơi đi qua và các lá bài địa điểm mà họ ghé thăm.
+Các bản mở rộng sau này đã bổ sung thêm khả năng đảm nhận vai trò [Ringwraith](../N/Nazgûl.md) của [Sauron](../S/Sauron.md) (bộ*[The Lidless Eye](Middle-earth%253A_The_Lidless_Eye.md)*), một thuật sĩ hư hỏng chơi theo luật riêng của mình (bản mở rộng*[The White Hand](Middle-earth%253A_The_White_Hand.md)*), [Balrog](../B/Balrogs.md) độc ác (bản mở rộng*[The Balrog](Middle-earth%253A_The_Balrog.md)*) hoặc thậm chí là chính Sauron. Trò chơi này có phần khác biệt so với hầu hết các CCG khác ở chỗ sử dụng hai viên xúc xắc sáu mặt cho một hệ số ngẫu nhiên và cũng bởi bản đồ thực tế của Trung Địa, bao gồm *regions* công ty của bạn đi qua và *site cards* họ ghé thăm.
 
 ## Bố trí thẻ {#Card_lay-out}
 
 <figure class="mw-halign-left" typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e4/MECCG_card_schematic.svg" decoding="async" loading="lazy" width="250" height="350" class="mw-file-element" data-file-width="532" data-file-height="744"/></span><figcaption></figcaption></figure>
 
-<dl><dd><b>A</b>: Điểm quy tụ. Một ký hiệu rune được dùng để đánh dấu các nhân vật thuộc phe người chơi, chẳng hạn như Pháp sư.</dd></dl>
+<dl><dd><b>A</b>: Marshalling points. A rune is shown for player characters, such as Wizards.</dd></dl>
 
-<dl><dd><b>B</b>: Trí lực và ảnh hưởng trực tiếp (thẻ nhân vật), điều chỉnh thuộc tính (thẻ tài nguyên), các vùng và địa điểm có thể được dùng làm mục tiêu (thẻ nguy hiểm).</dd></dl>
+<dl><dd><b>B</b>: Mind &amp; direct influence (character cards), attribute modification (resource cards), keyable regions &amp; sites (hazard cards).</dd></dl>
 
-<dl><dd><b>C</b>: Sức chiến đấu / Thể lực, hoặc các giá trị điều chỉnh tương ứng trên thẻ tài nguyên. Đây là một hình chữ nhật trên thẻ địa điểm, cho biết số thẻ mà người chơi và đối thủ rút được.</dd></dl>
+<dl><dd><b>C</b>: Prowess / Body, or modifications thereof in case of resource cards. It is a rectangle on site cards, showing cards drawn by the player and the opponent.</dd></dl>
 
-<dl><dd><b>D</b>: Giá trị điều chỉnh mức tha hóa (thẻ nhân vật) hoặc điểm tha hóa (thẻ tài nguyên)</dd></dl>
+<dl><dd><b>D</b>: Corruption modifiers (character cards) or corruption points (resource cards)</dd></dl>
 
-<dl><dd><b>E</b>: Số ở đầu cột này được dùng để tạo tính ngẫu nhiên mà không cần xúc xắc. Ký hiệu bộ thẻ, nếu có in, sẽ xuất hiện ở ô thứ hai tính từ cuối.</dd></dl>
+<dl><dd><b>E</b>: The number at the top of this column is used for randomness without dice. The set symbol, if one is printed, appears in the second to last space.</dd></dl>
 
-<dl><dd>Trên thẻ địa điểm, loại thẻ sẽ hiển thị vùng thay vì loại thẻ. Trên thẻ nhân vật, các thẻ này hiển thị kỹ năng và chủng tộc.</dd></dl>
+<dl><dd>On site cards, the card type shows the region instead. On character cards, they show the skills and race.</dd></dl>
 
-<dl><dd>Đợt in <i>giới hạn</i> đầu tiên của một bộ có các thẻ viền đen. Đợt in <i>không giới hạn</i> thứ hai đã cập nhật các lỗi và đính chính, đồng thời sử dụng thẻ viền xanh.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
+<dl><dd>The first <i>limited</i> print run of a set had black-bordered cards. A second <i>unlimited</i> print run incorporated errata, and had blue-bordered cards.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
 <ul class="gallery mw-gallery-packed">
 		<li class="gallerybox" style="width: 180px">
 			<div class="thumb" style="width: 178px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MEPR_-_Fatty_Bolger.jpg.md" title="A character"><img alt="A character" src="https://tolkiengateway.net/w/images/thumb/5/51/MEPR_-_Fatty_Bolger.jpg/267px-MEPR_-_Fatty_Bolger.jpg" decoding="async" loading="lazy" width="178" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/51/MEPR_-_Fatty_Bolger.jpg/401px-MEPR_-_Fatty_Bolger.jpg 1.5x, https://tolkiengateway.net/w/images/5/51/MEPR_-_Fatty_Bolger.jpg 2x" data-file-width="420" data-file-height="590"/></a></span></div>
 			<div class="gallerytext">
-<p>Một nhân vật
+<p>A character
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 184px">
 			<div class="thumb" style="width: 182px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/METW_-_Anduril.jpg.md" title="A resource"><img alt="A resource" src="https://tolkiengateway.net/w/images/thumb/4/40/METW_-_Anduril.jpg/273px-METW_-_Anduril.jpg" decoding="async" loading="lazy" width="182" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/40/METW_-_Anduril.jpg/410px-METW_-_Anduril.jpg 1.5x, https://tolkiengateway.net/w/images/4/40/METW_-_Anduril.jpg 2x" data-file-width="420" data-file-height="576"/></a></span></div>
 			<div class="gallerytext">
-<p>Một nguồn tài nguyên
+<p>A resource
 </p>
 			</div>
 		</li>
@@ -97,7 +97,7 @@ Các bản mở rộng sau này bổ sung khả năng nhập vai một [Nazgûl]
 		<li class="gallerybox" style="width: 180px">
 			<div class="thumb" style="width: 178px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/METW_-_Bree.jpg.md" title="A site"><img alt="A site" src="https://tolkiengateway.net/w/images/thumb/7/72/METW_-_Bree.jpg/267px-METW_-_Bree.jpg" decoding="async" loading="lazy" width="178" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/72/METW_-_Bree.jpg/401px-METW_-_Bree.jpg 1.5x, https://tolkiengateway.net/w/images/7/72/METW_-_Bree.jpg 2x" data-file-width="420" data-file-height="590"/></a></span></div>
 			<div class="gallerytext">
-<p>Một trang web
+<p>A site
 </p>
 			</div>
 		</li>
@@ -105,26 +105,26 @@ Các bản mở rộng sau này bổ sung khả năng nhập vai một [Nazgûl]
 
 ### Độ hiếm {#Rarity}
 
-Giống như phần lớn các trò chơi bài sưu tầm, từng lá bài trong *Middle-earth CCG* có tần suất xuất hiện khác nhau trong các gói bài tăng cường hoặc bộ bài khởi đầu (ngoại trừ bản mở rộng *[The Balrog](Middle-earth%253A_The_Balrog.md)*). Để biểu thị độ hiếm của một lá bài, [ICE](../I/Iron_Crown_Enterprises.md) sử dụng hệ thống mã:
+Giống như phần lớn các trò chơi bài sưu tầm, các lá bài riêng lẻ trong *Middle-earth CCG* ít nhiều xuất hiện trong bộ bài tăng cường hoặc bộ bài khởi đầu (ngoại trừ trong bản mở rộng *[The Balrog](Middle-earth%253A_The_Balrog.md)*). Để mô tả độ hiếm của thẻ, [ICE](../I/Iron_Crown_Enterprises.md) đã sử dụng hệ thống mã:
 
 - **R** = Hiếm.
-- **U** = Ít phổ biến.
-- **C** = Phổ biến.
-- **F#** hoặc **Fixed#** = Thuộc bộ lá bài cố định (trong bộ bài khởi đầu).
+- **U** = Không phổ biến.
+- **C** = Chung.
+- **F#** hoặc **Fixed#** = Một phần của bộ bài cố định (của bộ bài khởi đầu).
 
-Các mã này thường được kết hợp với những mã viết tắt bổ sung (ví dụ: "CB2"). Để biết thêm thông tin về các mã viết tắt bổ sung, vốn khác nhau tùy theo từng bộ cơ bản và bản mở rộng, hãy xem các mục Danh sách lá bài của từng bộ bài bên dưới.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Những chữ viết tắt này thường được kết hợp với những chữ viết tắt thứ hai (ví dụ: "CB2"). Để biết thêm thông tin về các từ viết tắt thứ hai, khác nhau trong các bộ cơ bản và mở rộng khác nhau, hãy xem phần danh sách Thẻ cho các bộ thẻ riêng lẻ bên dưới.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Sản xuất {#Production}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/MECCG_-_Card_Back.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fd/MECCG_-_Card_Back.png/300px-MECCG_-_Card_Back.png" decoding="async" loading="lazy" width="300" height="412" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fd/MECCG_-_Card_Back.png/450px-MECCG_-_Card_Back.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/fd/MECCG_-_Card_Back.png/600px-MECCG_-_Card_Back.png 2x" data-file-width="1390" data-file-height="1907"/></a><figcaption>Mặt sau của thẻ <i>Middle-earth CCG</i></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/MECCG_-_Card_Back.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fd/MECCG_-_Card_Back.png/300px-MECCG_-_Card_Back.png" decoding="async" loading="lazy" width="300" height="412" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fd/MECCG_-_Card_Back.png/450px-MECCG_-_Card_Back.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/fd/MECCG_-_Card_Back.png/600px-MECCG_-_Card_Back.png 2x" data-file-width="1390" data-file-height="1907"/></a><figcaption>Card back of <i>Middle-earth CCG</i></figcaption></figure>
 
-Khi [Magic: The Gathering](Magic%253A_The_Gathering.md) ngày càng thành công, kế hoạch hợp tác giữa [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) và [Wizards of the Coast](../W/Wizards_of_the_Coast.md) nhằm sản xuất một trò chơi bài về Chúa tể những chiếc nhẫn đã đổ bể. Sau đó, ICE quyết định tự phát triển trò chơi. Xem xét các lựa chọn hiện có trên thị trường, họ nhanh chóng thống nhất hai ý tưởng cốt lõi: các nhân vật sẽ giữ vai trò trung tâm và trò chơi cần tạo ra “cảm giác về sự chuyển động”. Từ đó, họ quyết định lấy [Pháp sư](../W/Wizards.md) làm trọng tâm của trò chơi. [Coleman Charlton](../C/Coleman_Charlton.md) sau đó đã dành “một tháng hoặc một tháng rưỡi” để thiết kế lối chơi cơ bản, đưa trò chơi đến giai đoạn alpha, khi người chơi tiến hành các ván thử nghiệm bằng những bộ bài nguyên mẫu đã được in ra. Felon cho biết, xét trong số những nhóm tham gia chơi thử, các nhóm nước ngoài mang lại hiệu quả cao hơn, đóng góp những góc nhìn khác biệt và thể hiện tầm nhìn xa trong việc chuẩn bị cho công tác dịch nội dung thẻ sau này.<sup id="cite_ref-inquestscenes_5-0" class="reference"><a href="#cite_note-inquestscenes-5">[5]</a></sup>
+Sau sự thành công ngày càng tăng của [Magic: The Gathering](Magic%253A_The_Gathering.md), thỏa thuận [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) phải cùng sản xuất trò chơi bài Chúa tể những chiếc nhẫn với [Pháp sư of the Coast](../W/Wizards_of_the_Coast.md) đã không thành công. ICE sau đó đã quyết định tự mình làm việc đó. Nhìn vào các lựa chọn hiện có trên thị trường, họ nhanh chóng thống nhất hai ý tưởng cốt lõi: nhân vật sẽ được đặt lên hàng đầu và trò chơi sẽ cần “cảm giác chuyển động”. Từ đó, họ quyết định tập trung trò chơi vào [Pháp sư](../W/Wizards.md). [Coleman Charlton](../C/Coleman_Charlton.md) sau đó đã dành “một hoặc một tháng rưỡi” để thiết kế lối chơi cơ bản, dẫn đến giai đoạn alpha của trò chơi, trong đó các trò chơi thử nghiệm được chơi với các bộ bài nguyên mẫu được in sẵn. Felon cho biết trong số tất cả những người chơi thử, các nhóm nước ngoài đã mang lại nhiều lợi ích hơn, mang lại những quan điểm khác nhau và có tư duy tiến bộ khi cuối cùng phải dịch văn bản thẻ.<sup id="cite_ref-inquestscenes_5-0" class="reference"><a href="#cite_note-inquestscenes-5">[5]</a></sup>
 
 ### Thiết kế thiệp và tác phẩm nghệ thuật {#Card_design_and_artwork}
 
-Trong quá trình chơi thử, [Pete Fenlon](../P/Pete_Fenlon.md) đã tìm kiếm hình minh họa. Theo lời Fenlon: “Do đặc thù của bối cảnh truyện, tiếng lành đồn xa, và các họa sĩ bắt đầu chủ động tìm đến chúng tôi.” Các nhóm chơi thử ở nước ngoài đã đưa ra nhiều đề xuất về họa sĩ. Nhờ những đề xuất từ người Đức, họ tìm đến họa sĩ [Jo Hartwig](../J/Jo_Hartwig.md), người sau đó đã tạo ra một bản đồ khổng lồ về Trung Địa cùng 52 thẻ khu vực. Người Ý đề xuất [Stefano Baldo](../S/Stefano_Baldo.md) và [Angelo Montanini](../A/Angelo_Montanini.md). Trong khi đó, từ chính Hoa Kỳ, họ tuyển chọn họa sĩ [Donato Giancola](../D/Donato_Giancola.md) dựa trên hồ sơ tác phẩm trước đó. [Liz Danforth](../L/Liz_Danforth.md) đã minh họa cho [Middle-earth Role Playing](Middle-earth_Role_Playing.md) và cũng rất háo hức tham gia dự án. Giám đốc nghệ thuật [Jessica M. Ney-Grimm](../J/Jessica_M._Ney-Grimm.md) chịu trách nhiệm điều phối khối lượng công việc đồ sộ này. Có quá nhiều tác phẩm được gửi đến nên họ có vô số lựa chọn. Fenlon cho biết: “Chúng tôi đã từ chối tác phẩm của nhiều họa sĩ giỏi, yêu cầu họ chỉnh sửa và gửi lại, thậm chí chuyển tác phẩm cho một họa sĩ khác”. Các tác phẩm thường bị từ chối vì có những chi tiết không phù hợp, khiến Ney-Grimm phải gửi đi những bản mô tả bằng văn bản rõ ràng, cụ thể.<sup id="cite_ref-inquestscenes_5-1" class="reference"><a href="#cite_note-inquestscenes-5">[5]</a></sup>
+Trong các lần chơi thử, [Pete Fenlon](../P/Pete_Fenlon.md) đã đi tìm tác phẩm nghệ thuật. Theo Fenlon: “Do tính chất của bối cảnh, lời truyền miệng lan rộng khắp nơi và mọi người bắt đầu tìm đến chúng tôi.” Các nhóm chơi thử ở nước ngoài đã dẫn đến nhiều gợi ý về nghệ sĩ. Người Đức đã dẫn họ đến với nghệ sĩ [Jo Hartwig](../J/Jo_Hartwig.md), người đã tạo ra một bản đồ khổng lồ gồm Trung Địa, cũng như 52 thẻ khu vực. Người Ý đã đề xuất [Stefano Baldo](../S/Stefano_Baldo.md) và [Angelo Montanini](../A/Angelo_Montanini.md). Trong khi đó, từ United of America của chính họ, nghệ sĩ [Donato Giancola](../D/Donato_Giancola.md) đã được thuê dựa trên danh mục đầu tư cũ. [Liz Danforth](../L/Liz_Danforth.md) đã thực hiện minh họa cho [Middle-earth Role Playing](Middle-earth_Role_Playing.md) và cũng rất háo hức tham gia dự án. Giám đốc nghệ thuật [Jessica M. Ney-Grimm](../J/Jessica_M._Ney-Grimm.md) phụ trách điều phối nỗ lực to lớn này. Rất nhiều sản phẩm đã được gửi đến nên họ có rất nhiều sự lựa chọn. Fenlon cho biết: “Chúng tôi thực sự đã từ chối các tác phẩm của rất nhiều nghệ sĩ giỏi, yêu cầu họ làm lại hoặc thậm chí chuyển tác phẩm cho một nghệ sĩ khác”. Việc từ chối thường liên quan đến các chi tiết không khớp, dẫn đến việc Ney-Grimm gửi mô tả bằng văn bản tục tĩu.<sup id="cite_ref-inquestscenes_5-1" class="reference"><a href="#cite_note-inquestscenes-5">[5]</a></sup>
 
-Các nghệ sĩ đã gửi tác phẩm gốc của mình cho Iron Crown Enterprises và sau khi chụp ảnh tác phẩm sẽ được trả lại cho các nghệ sĩ. Vì máy ảnh kỹ thuật số vào những năm 1990 thiếu độ phân giải và chất lượng cần thiết nên tác phẩm nghệ thuật được chụp trên phim. Ví dụ: kích thước này có thể là <a class="extiw" href="http://en.wikipedia.org/wiki/Sheet_film" title="wikipedia:Sheet film">4 in × 5 ở định dạng phim</a>. Để đảm bảo độ chính xác của màu sắc, một thanh điều khiển có các giá trị màu đã biết đã được đưa vào ảnh. <sup id="cite_ref-processing_6-0" class="reference"><a href="#cite_note-processing-6">[6]</a></sup>
+Các nghệ sĩ đã gửi tác phẩm gốc của mình cho Vương miện Sắt Enterprises và sau khi chụp ảnh tác phẩm sẽ được trả lại cho các nghệ sĩ. Vì máy ảnh kỹ thuật số vào những năm 1990 thiếu độ phân giải và chất lượng cần thiết nên tác phẩm nghệ thuật được chụp trên phim. Ví dụ: kích thước này có thể là <a class="extiw" href="http://en.wikipedia.org/wiki/Sheet_film" title="wikipedia:Sheet film">4 in × 5 ở định dạng phim</a>. Để đảm bảo độ chính xác của màu sắc, một thanh điều khiển có các giá trị màu đã biết đã được đưa vào ảnh. <sup id="cite_ref-processing_6-0" class="reference"><a href="#cite_note-processing-6">[6]</a></sup>
 
 Bản thân thiết kế hình ảnh của thẻ do các nhà thiết kế đồ họa <a class="new" href="https://tolkiengateway.net/w/index.php?title=Derek_Carbonneau&amp;action=edit&amp;redlink=1" title="Derek Carbonneau (page does not exist)">Derek Carbonneau</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Nick_Morawitz&amp;action=edit&amp;redlink=1" title="Nick Morawitz (page does not exist)">Nick Morawitz</a>xử lý. Họ quyết định cung cấp cho mỗi loại thẻ một kết cấu đường viền riêng biệt: tài nguyên có đồng, mối nguy hiểm có sắt, địa điểm và khu vực có giấy da, trong khi nhân vật có đá. Các thẻ trang web có mặt sau được lấy từ bản đồ của Hartwig, trong khi các thẻ thông thường có [Con Mắt của Sauron](../E/Eye_of_Sauron.md), mặc dù cả hai đều có chung đường viền.<sup id="cite_ref-inquestscenes_5-2" class="reference"><a href="#cite_note-inquestscenes-5">[5]</a></sup>
 
@@ -134,7 +134,7 @@ Sau đó, phiên bản kỹ thuật số cuối cùng của hình ảnh thẻ s�
 
 ### Họa sĩ minh họa {#Illustrators}
 
-Danh sách đầy đủ các họa sĩ minh họa có tác phẩm được sử dụng trong trò chơi:
+Danh sách đầy đủ các họa sĩ minh họa có tác phẩm xuất hiện trong trò chơi:
 
 <table class="mw-collapsible mw-collapsed">
 <caption>
@@ -282,51 +282,51 @@ Danh sách đầy đủ các họa sĩ minh họa có tác phẩm được sử 
 
 ### Bộ thẻ {#Card_sets}
 
-\- [1995](../_/1995.md): <i><b><a href="Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">The Wizards</a></b></i> (METW) - bộ bài cơ bản đầu tiên
-&#x20;   \- [1996](../_/1996.md): *[The Dragons](Middle-earth%253A_The_Dragons.md)* (METD) - bộ bài mở rộng
-&#x20;   \- [1996](../_/1996.md): *[Dark Minions](Middle-earth%253A_Dark_Minions.md)* (MEDM) - bộ bài mở rộng
-\- [1997](../_/1997.md): <i><b><a href="Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">The Lidless Eye</a></b></i> (MELE) - bộ bài cơ bản thứ hai
-&#x20;   \- [1997](../_/1997.md): *[Against the Shadow](Middle-earth%253A_Against_the_Shadow.md)* (MEAS) - bộ bài mở rộng
-\- [1997](../_/1997.md): <i><b><a href="Middle-earth%253A_The_White_Hand.md" title="Middle-earth: The White Hand">The White Hand</a></b></i> (MEWH)
-\- [1998](../_/1998.md): <i><b><a href="Middle-earth%253A_The_Balrog.md" title="Middle-earth: The Balrog">The Balrog</a></b></i> (MEBA)
+- [1995](../_/1995.md): <i><b><a href="Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">Bộ Pháp sư</a></b></i> (METW) - bộ cơ bản đầu tiên
+    - [1996](../_/1996.md): *[The Dragons](Middle-earth%253A_The_Dragons.md)* (METD) - bộ mở rộng
+    - [1996](../_/1996.md): *[Dark Minions](Middle-earth%253A_Dark_Minions.md)* (MEDM) - bộ mở rộng
+- [1997](../_/1997.md): <i><b><a href="Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Mắt không mí</a></b></i> (MELE) - bộ cơ bản thứ hai
+    - [1997](../_/1997.md): *[Against the Shadow](Middle-earth%253A_Against_the_Shadow.md)* (MEAS) - bộ mở rộng
+- [1997](../_/1997.md): <i><b><a href="Middle-earth%253A_The_White_Hand.md" title="Middle-earth: The White Hand">Bàn tay trắng</a></b></i> (MEWH)
+- [1998](../_/1998.md): <i><b><a href="Middle-earth%253A_The_Balrog.md" title="Middle-earth: The Balrog"> Balrog</a></b></i> (MEBA)
 
-Hai bộ bài mở rộng khác đã được thiết kế nhưng chưa bao giờ được phát hành: *The Dwarf-lords* và *The Elf-lords*. Ngoài ra, một phiên bản cải biên toàn diện của MECCG dự kiến ra mắt năm 1999 với tên gọi *Lord of the Rings Expandable Card Game* (LORE CG).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Trước khi trò chơi bài được phát hành, một bộ mang tên *War Hosts* đã được công bố là bộ bài tiếp nối *The Dragons*.<sup id="cite_ref-inquestscenes_5-3" class="reference"><a href="#cite_note-inquestscenes-5">[5]</a></sup>
+Hai bộ mở rộng nữa đã được thiết kế nhưng chưa bao giờ được xuất bản: *The Dwarf-lords* và *The Elf-lords*. Ngoài ra, một bản sửa đổi hoàn chỉnh của MECCG đã được lên kế hoạch phát hành vào năm 1999, được đặt tên là *Trò chơi thẻ bài mở rộng Lord of the Rings* (LORE CG).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Trước khi phát hành trò chơi bài, một bộ có tựa đề *War Hosts* đã được công bố là bộ tiếp theo *The Dragons*.<sup id="cite_ref-inquestscenes_5-3" class="reference"><a href="#cite_note-inquestscenes-5">[5]</a></sup>
 
 ### Sách {#Books}
 
 - Hướng dẫn người chơi:
-  - *[Middle-earth: The Wizards Player Guide](Middle-earth%253A_The_Wizards_Player_Guide.md)*
-  - *[Middle-earth: The Dragons Player Guide](Middle-earth%253A_The_Dragons_Player_Guide.md)*
-  - *[Middle-earth: Dark Minions Player Guide](Middle-earth%253A_Dark_Minions_Player_Guide.md)*
-  - *[Middle-earth: The Lidless Eye Player Guide](Middle-earth%253A_The_Lidless_Eye_Player_Guide.md)*
-  - *[Middle-earth: Against the Shadow Player Guide](Middle-earth%253A_Against_the_Shadow_Player_Guide.md)*
-- Sách đồng hành:
-  - *[Middle-earth: The Wizards Companion](Middle-earth%253A_The_Wizards_Companion.md)*
-  - *[Middle-earth: The Lidless Eye Companion](Middle-earth%253A_The_Lidless_Eye_Companion.md)*
-- Địa điểm và kịch bản:
-  - *[A Long-Expected Party: MECCG Sites and Scenarios](../A/A_Long-Expected_Party%253A_MECCG_Sites_and_Scenarios.md)*
+    - *[Middle-earth: The Wizards Player Guide](Middle-earth%253A_The_Wizards_Player_Guide.md)*
+    - *[Middle-earth: The Dragons Player Guide](Middle-earth%253A_The_Dragons_Player_Guide.md)*
+    - *[Middle-earth: Dark Minions Player Guide](Middle-earth%253A_Dark_Minions_Player_Guide.md)*
+    - *[Middle-earth: The Lidless Eye Player Guide](Middle-earth%253A_The_Lidless_Eye_Player_Guide.md)*
+    - *[Middle-earth: Against the Shadow Player Guide](Middle-earth%253A_Against_the_Shadow_Player_Guide.md)*
+- Người bạn đồng hành:
+    - *[Middle-earth: The Wizards Companion](Middle-earth%253A_The_Wizards_Companion.md)*
+    - *[Middle-earth: The Lidless Eye Companion](Middle-earth%253A_The_Lidless_Eye_Companion.md)*
+- Địa điểm và Kịch bản:
+    - *[A Long-Expected Party: MECCG Sites and Scenarios](../A/A_Long-Expected_Party%253A_MECCG_Sites_and_Scenarios.md)*
 - Sách khác:
-  - *[Middle-earth CCG Maps](Middle-earth_CCG_Maps.md)*
-  - *[Middle-earth: The Wizards Casual Companion](Middle-earth%253A_The_Wizards_Casual_Companion.md)*
+    - *[Middle-earth CCG Maps](Middle-earth_CCG_Maps.md)*
+    - *[Middle-earth: The Wizards Casual Companion](Middle-earth%253A_The_Wizards_Casual_Companion.md)*
 
-*Cổng Đen của Mordor: Địa điểm và kịch bản MECCG* (ST #3345) đã được công bố nhưng chưa bao giờ phát hành.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+*Mordor's Cổng Đen: Địa điểm và Kịch bản MECCG* (ST #3345) đã được công bố nhưng chưa bao giờ được phát hành.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
-[Northern Waste](../T/The_Northern_Waste.md), một tài liệu bổ sung cho trò chơi [Middle-earth Role Playing](Middle-earth_Role_Playing.md), có một số địa điểm và kịch bản dành cho trò chơi bài sưu tầm.
+[Phần bổ sung Northern Waste](../T/The_Northern_Waste.md) [Middle-earth Role Playing](Middle-earth_Role_Playing.md) bao gồm một số trang web và kịch bản dành cho trò chơi bài sưu tầm.
 
 ### Thẻ cụ thể {#Specific_cards}
 
-- [Thẻ MECCG quảng bá](../P/Promotional_MECCG_cards.md)
-- [Các thẻ MECCG riêng lẻ](../../category/M/MECCG_cards.md)
+- [Thẻ MECCG khuyến mại](../P/Promotional_MECCG_cards.md)
+- [Thẻ MECCG cá nhân](../../category/M/MECCG_cards.md)
 
 ### Sản phẩm khác {#Other_products}
 
-- [Bộ khởi đầu The Wizards](Middle-earth%253A_The_Wizards_Starter_Set.md)
+- [Bộ khởi đầu Pháp sư](Middle-earth%253A_The_Wizards_Starter_Set.md)
 - [Bộ quà tặng](<../G/Gift_Set_(MECCG).md>)
 - [Bộ bài thử thách](<../C/Challenge_Decks_(MECCG).md>)
 
 ## Lễ tân {#Reception}
 
-*Middle-earth CCG* đã giành được hai Giải thưởng Origins: *Trò chơi bài hay nhất năm 1995* cho *The Wizards* và *Phần trình bày đồ họa xuất sắc nhất cho trò chơi bài hoặc bản mở rộng năm 1996* cho *The Dragons*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+*Middle-earth CCG* đã giành được hai Giải thưởng Origins: *Best Card Game of 1995* cho *The Wizards* và *Trình bày đồ họa hay nhất về trò chơi bài hoặc bản mở rộng năm 1996* cho *The Dragons*.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -373,10 +373,10 @@ Hai bộ bài mở rộng khác đã được thiết kế nhưng chưa bao gi�
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Card_game" title="wikipedia:Card game">Các trò chơi bài được cấp phép</a> lấy bối cảnh tại <a href="Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Card_game" title="wikipedia:Card game">Card Games</a> set in <a href="Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Collectible_card_game" title="wikipedia:Collectible card game">Trò chơi thẻ bài sưu tầm</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Collectible_card_game" title="wikipedia:Collectible card game">Collectible Card Games</a></b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a class="mw-selflink selflink">Middle Earth CCG</a></b></i> (<a href="../_/1995.md" title="1995">1995</a>-<a href="../_/1998.md" title="1998">1998</a>) • <i><b><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">Lord of the Rings TCG</a></b></i> (<a href="../_/2001.md" title="2001">2001</a>-<a href="../_/2007.md" title="2007">2007</a>)
@@ -388,19 +388,19 @@ Hai bộ bài mở rộng khác đã được thiết kế nhưng chưa bao gi�
 <td align="center" style="font-size: 90%;">  <i><b><a href="../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">Tales of Middle Earth</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>) • <i><b><a href="Magic%253A_The_Gathering_-_The_Hobbit.md" title="Magic: The Gathering - The Hobbit">The Hobbit</a></b></i> (<a href="../_/2026.md" title="2026">2026</a>)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Expandable_card_game" title="wikipedia:Expandable card game">Trò chơi thẻ bài Living Card Games</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Expandable_card_game" title="wikipedia:Expandable card game">Living Card Games</a></b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Card Game</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>-<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="../T/The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">Adventure Card Game</a></b></i> (<a href="../_/2022.md" title="2022">2022</a> kỹ thuật số)
+<td align="center" style="font-size: 90%;">  <i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Card Game</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>-<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="../T/The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">Adventure Card Game</a></b></i> (<a href="../_/2022.md" title="2022">2022</a> digital)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Loạt trò chơi ăn bài</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Trick-Taking Game Series</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_–_Trick-Taking_Game.md" title="The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game">Fellowship of the Ring</a></b></i> (<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_–_Trick-Taking_Game.md" title="The Lord of the Rings: The Two Towers – Trick-Taking Game">Two Towers</a></b></i> (<a href="../_/2026.md" title="2026">2026</a>)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Các trò chơi thẻ bài khác</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Other Card Games</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../T/The_Lord_of_the_Rings_Tarot.md" title="The Lord of the Rings Tarot">Tarot</a></b></i> (<a href="../_/1997.md" title="1997">1997</a>) • <i><b><a href="../T/The_Hobbit_Card_Game.md" title="The Hobbit Card Game">The Hobbit</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) • <i><b><a href="../W/War_of_the_Ring%253A_The_Card_Game.md" title="War of the Ring: The Card Game">War of the Ring</a></b></i> (<a href="../_/2022.md" title="2022">2022</a>) • <i><b><a href="../T/The_Lord_of_the_Rings%253A_Duel_for_Middle-earth.md" title="The Lord of the Rings: Duel for Middle-earth">Duel for Middle-earth</a></b></i> (<a href="../_/2024.md" title="2024">2024</a>)

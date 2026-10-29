@@ -18,15 +18,15 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_South_Undeep.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_Online_-_South_Undeep.jpg/250px-The_Lord_of_the_Rings_Online_-_South_Undeep.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_Online_-_South_Undeep.jpg/375px-The_Lord_of_the_Rings_Online_-_South_Undeep.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_Online_-_South_Undeep.jpg/500px-The_Lord_of_the_Rings_Online_-_South_Undeep.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>South Undeep in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../U/Undeeps.md" title="Undeeps">Undeeps</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../U/Undeeps.md" title="Undeeps">Undeeps</a></b></div></div>
 
 **South Undeep** là một trong hai khúc cua về phía tây của con sông [Anduin](../A/Anduin.md) nằm giữa [The Wold](../T/The_Wold.md) và [Brown Lands](../B/Brown_Lands.md) (đoạn còn lại là [North Undeep](../N/North_Undeep.md)). Vùng sâu phía Nam là phần nhỏ hơn trong hai khúc cua.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cả hai Undeeps đều có nhiều bãi nông và bãi cạn rộng tạo điều kiện cho quân đội vượt qua dễ dàng,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> đã xảy ra một số lần trong lịch sử của [Gondor](../G/Gondor.md) và [Rohan](../R/Rohan.md).
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>South Undeep nằm ở phía Bắc Wold, nối hai bờ sông qua một hòn đảo nhỏ giữa sông. Do tình hình chính trị không ổn định ở Rohan, một nhóm <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> đã vượt qua được và thiết lập một trại kiên cố ở bờ tây, từ đó họ tấn công và đốt cháy thị trấn Rohirrim <i>Langhold</i>.</dd></dl>
+<dl><dd>The South Undeep is located in the northern Wold, connecting two riverbanks through a small island in the middle of the river. Due to the unstable political situation in Rohan, a party of <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> has been able to take the crossing and establish a fortified camp on the western bank, from which they attack and burn the Rohirrim town of <i>Langhold</i>.</dd></dl>
 
 <span></span>
 

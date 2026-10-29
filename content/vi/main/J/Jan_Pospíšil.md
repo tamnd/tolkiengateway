@@ -33,9 +33,9 @@ infobox:
     value: "Artist"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Jan Pospíšil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nghệ sĩ</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Jan Pospíšil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
-**Jan Pospíšil** là một nghệ sĩ người Séc. Ông đã minh họa cho cả hai phiên bản của [The One Ring (trò chơi nhập vai)](../T/The_One_Ring.md) sau khi được [Jon Hodgson](Jon_Hodgson.md) thuê.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông cũng đã tạo tác phẩm nghệ thuật cho [Hobbit Tales from the Quán Rồng Xanh](../H/Hobbit_Tales_from_the_Green_Dragon_Inn.md).
+**Jan Pospíšil** là một nghệ sĩ người Séc. Ông đã minh họa cho cả hai phiên bản của [The One Ring (trò chơi nhập vai)](../T/The_One_Ring.md) sau khi được [Jon Hodgson](Jon_Hodgson.md) thuê.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông cũng đã tạo tác phẩm nghệ thuật cho [Hobbit Tales from the Green Rồng Inn](../H/Hobbit_Tales_from_the_Green_Dragon_Inn.md).
 
 Ngoài tác phẩm được cấp phép chính thức, ông còn thực hiện các dự án dành cho người hâm mộ như [Những ngày cuối cùng (của Kỷ Đệ Tam của Trung Địa)](<../T/The_Last_Days_(of_the_Third_Age_of_Middle-earth).md>).
 

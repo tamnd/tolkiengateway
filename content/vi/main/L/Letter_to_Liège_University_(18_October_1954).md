@@ -24,7 +24,7 @@ Vào [18 tháng 10](../_/18_October.md) [1954](../_/1954.md), [J.R.R. Tolkien](.
 ## Trích {#Excerpt}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tôi trở về từ Bỉ vì lo lắng về áp lực công việc và buộc phải đến Ireland để học tập.
+<p>I returned from Belgium to considerate pressure of business, and have been obliged to come to Ireland on academic affairs.
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien (in <i><a href="Lembas_Extra%253A_Proceedings_of_the_5th_Unquendor_Lustrum.md" title="Lembas Extra: Proceedings of the 5th Unquendor Lustrum">Lembas Extra: Proceedings of the 5th Unquendor Lustrum</a></i>, p.57)</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

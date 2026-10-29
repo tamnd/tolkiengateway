@@ -42,13 +42,13 @@ infobox:
     value: "Images of Herugrim"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Randy_Gallegos_-_Herugrim,_Sword_of_Rohan_-_Sword_of_Hearth_and_Home.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c8/Randy_Gallegos_-_Herugrim%2C_Sword_of_Rohan_-_Sword_of_Hearth_and_Home.jpg/320px-Randy_Gallegos_-_Herugrim%2C_Sword_of_Rohan_-_Sword_of_Hearth_and_Home.jpg" decoding="async" loading="lazy" width="320" height="391" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c8/Randy_Gallegos_-_Herugrim%2C_Sword_of_Rohan_-_Sword_of_Hearth_and_Home.jpg/480px-Randy_Gallegos_-_Herugrim%2C_Sword_of_Rohan_-_Sword_of_Hearth_and_Home.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c8/Randy_Gallegos_-_Herugrim%2C_Sword_of_Rohan_-_Sword_of_Hearth_and_Home.jpg/640px-Randy_Gallegos_-_Herugrim%2C_Sword_of_Rohan_-_Sword_of_Hearth_and_Home.jpg 2x" data-file-width="1229" data-file-height="1500"/></a><figcaption>&#34;Herugrim, Sword of <a href="../R/Rohan.md" title="Rohan">Rohan</a>: Sword of Hearth and Home&#34; by <a href="../R/Randy_Gallegos.md" title="Randy Gallegos">Randy Gallegos</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../category/S/Swords.md" title="Category:Swords">Kiếm</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Herugrim</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../E/Edoras.md" title="Edoras">Edoras</a></td></tr><tr><th scope="row" class="tg-infobox-label">Chủ sở hữu</th><td class="tg-infobox-data"><a href="../T/Théoden.md" title="Théoden">Théoden</a>, <a href="../G/Gríma.md" title="Gríma">Gríma Wormtongue</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngoại hình</th><td class="tg-infobox-data">Long</td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Herugrim.md" title="Category:Images of Herugrim">Images of Herugrim</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Randy_Gallegos_-_Herugrim,_Sword_of_Rohan_-_Sword_of_Hearth_and_Home.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c8/Randy_Gallegos_-_Herugrim%2C_Sword_of_Rohan_-_Sword_of_Hearth_and_Home.jpg/320px-Randy_Gallegos_-_Herugrim%2C_Sword_of_Rohan_-_Sword_of_Hearth_and_Home.jpg" decoding="async" loading="lazy" width="320" height="391" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c8/Randy_Gallegos_-_Herugrim%2C_Sword_of_Rohan_-_Sword_of_Hearth_and_Home.jpg/480px-Randy_Gallegos_-_Herugrim%2C_Sword_of_Rohan_-_Sword_of_Hearth_and_Home.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c8/Randy_Gallegos_-_Herugrim%2C_Sword_of_Rohan_-_Sword_of_Hearth_and_Home.jpg/640px-Randy_Gallegos_-_Herugrim%2C_Sword_of_Rohan_-_Sword_of_Hearth_and_Home.jpg 2x" data-file-width="1229" data-file-height="1500"/></a><figcaption>&#34;Herugrim, Sword of <a href="../R/Rohan.md" title="Rohan">Rohan</a>: Sword of Hearth and Home&#34; by <a href="../R/Randy_Gallegos.md" title="Randy Gallegos">Randy Gallegos</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../category/S/Swords.md" title="Category:Swords">Sword</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Herugrim</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../E/Edoras.md" title="Edoras">Edoras</a></td></tr><tr><th scope="row" class="tg-infobox-label">Owner</th><td class="tg-infobox-data"><a href="../T/Théoden.md" title="Théoden">Théoden</a>, <a href="../G/Gríma.md" title="Gríma">Gríma Wormtongue</a></td></tr><tr><th scope="row" class="tg-infobox-label">Appearance</th><td class="tg-infobox-data">Long</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Herugrim.md" title="Category:Images of Herugrim">Images of Herugrim</a></td></tr></tbody></table>
 
 **Herugrim** là thanh kiếm của [Théoden](../T/Théoden.md) Vua của [Rohan](../R/Rohan.md).
 
 ## Lịch sử {#History}
 
-Khi Gandalf và những người đồng hành của ông đến [Meduseld](../M/Meduseld.md) vào ngày 2 tháng 3, [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> thanh kiếm đang bị giam giữ bởi cố vấn phản bội của Théoden [Gríma Wormtongue](../G/Gríma.md). Sau khi được [Gandalf](../G/Gandalf.md) chữa lành, Théoden đã lấy lại thanh kiếm,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và mang nó đến [Trận Hornburg](../B/Battle_of_the_Hornburg.md) và [Trận chiến tại cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
+Khi Gandalf và những người đồng hành của ông ta đến [Meduseld](../M/Meduseld.md) vào ngày 2 tháng 3, [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> thanh kiếm đang bị giam giữ bởi cố vấn phản bội của Théoden [Gríma Wormtongue](../G/Gríma.md). Sau khi được [Gandalf](../G/Gandalf.md) chữa lành, Théoden đã lấy lại thanh kiếm,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và mang nó đến [Trận Hornburg](../B/Battle_of_the_Hornburg.md) và [Trận cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
 
 ## Từ nguyên {#Etymology}
 
@@ -66,7 +66,7 @@ Trong bản thảo ban đầu của [Helm's Deep](<Helm's_Deep_(chapter).md>), T
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/N/Noble_Collection_-_Herugrim.jpg.md" title="The Lord of the Rings (film series)"><img alt="The Lord of the Rings (film series)" src="https://tolkiengateway.net/w/images/thumb/e/e1/Noble_Collection_-_Herugrim.jpg/112px-Noble_Collection_-_Herugrim.jpg" decoding="async" loading="lazy" width="112" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e1/Noble_Collection_-_Herugrim.jpg/169px-Noble_Collection_-_Herugrim.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e1/Noble_Collection_-_Herugrim.jpg/225px-Noble_Collection_-_Herugrim.jpg 2x" data-file-width="450" data-file-height="600"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>
+<p><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a>
 </p>
 			</div>
 		</li>
@@ -95,23 +95,23 @@ Trong bản thảo ban đầu của [Helm's Deep](<Helm's_Deep_(chapter).md>), T
 
 **[1993](../_/1993.md)**: *[J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers](../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md)*:<b></b>
 
-<dl><dd>Herugrim có thể được tìm thấy trong <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
+<dl><dd>Herugrim can be found in <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
 <b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
-<dl><dd>Sau khi <a href="../T/Théoden.md" title="Théoden">Théoden</a> được <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> chữa lành, <a href="../W/Wizards.md" title="Wizards">Pháp sư</a> nhận xét rằng "Các ngón tay của bạn sẽ nhớ lại sức mạnh cũ của chúng tốt hơn nếu chúng nắm lấy thanh kiếm của bạn." <a href="Háma.md" title="Háma">Háma</a> bước tới và đưa ra Herugrim. Théoden rút nó ra khỏi bao và giữ nó.</dd></dl>
+<dl><dd>After <a href="../T/Théoden.md" title="Théoden">Théoden</a> is healed by <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, the <a href="../W/Wizards.md" title="Wizards">Wizard</a> remarks that &#34;Your fingers would remember their old strength better if they grasped your sword.&#34; <a href="Háma.md" title="Háma">Háma</a> steps forward and offers Herugrim. Théoden pulls it out of the scabbard and holds it.</dd></dl>
 
 <b><a href="../_/2012.md" title="2012">2012</a>: <i><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: Trò chơi điện tử</a></i>:</b>
 
-<dl><dd>Cảnh <a href="../T/Théoden.md" title="Théoden">Théoden</a> lấy lại thanh kiếm của mình được tái hiện.</dd></dl>
+<dl><dd>The scene in which <a href="../T/Théoden.md" title="Théoden">Théoden</a> reclaims his sword is replicated.</dd></dl>
 
 **[2015](../_/2015.md)**: *[The Lord of the Rings: The Card Game](../T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*:<b></b>
 
-<dl><dd>Bản mở rộng <i>The Treason of Saruman</i> của năm 2015 bao gồm thẻ Herugrim, được minh họa bởi Jason Ward.</dd></dl>
+<dl><dd>2015&#39;s <i>The Treason of Saruman</i> expansion includes a Herugrim card, illustrated by Jason Ward.</dd></dl>
 
 **[2023](../_/2023.md)**: *[The Lord of the Rings: Tales of Middle-earth](../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md)*:<b></b>
 
-<dl><dd>Herugrim được mô tả trên thẻ <i>Herugrim, Sword of Rohan: Sword of Hearth and Home</i>, được minh họa bởi <a href="../../category/I/Images_by_Randy_Gallegos.md" title="Category:Images by Randy Gallegos">Randy Gallegos</a>.</dd></dl>
+<dl><dd>Herugrim is depicted on the <i>Herugrim, Sword of Rohan: Sword of Hearth and Home</i> card, illustrated by <a href="../../category/I/Images_by_Randy_Gallegos.md" title="Category:Images by Randy Gallegos">Randy Gallegos</a>.</dd></dl>
 
 <span></span>
 
@@ -141,12 +141,12 @@ Trong bản thảo ban đầu của [Helm's Deep](<Helm's_Deep_(chapter).md>), T
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Vũ khí</a> trong <a href="../L/Legendarium.md" title="Legendarium">huyền thoại</a> của <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Weapons</a> in <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a>&#39;s <a href="../L/Legendarium.md" title="Legendarium">legendarium</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"> <a href="../../category/A/Arrows.md" title="Category:Arrows">Arrows</a>:
 </th>
-<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Mũi tên đen</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Mũi tên đỏ</a>
+<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Black arrow</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Red Arrow</a>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/A/Axes.md" title="Category:Axes">Axes</a>:

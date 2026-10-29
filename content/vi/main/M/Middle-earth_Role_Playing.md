@@ -26,33 +26,33 @@ infobox:
     value: "1984"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Merp_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/db/Merp_logo.png/320px-Merp_logo.png" decoding="async" loading="lazy" width="320" height="84" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/db/Merp_logo.png 1.5x" data-file-width="459" data-file-height="120"/></a><figcaption>Logo phiên bản thứ 2</figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">trò chơi nhập vai</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Middle-earth Role Playing</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà thiết kế</th><td class="tg-infobox-data"><a href="../C/Coleman_Charlton.md" title="Coleman Charlton">Coleman Charlton</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data">1984</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Merp_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/db/Merp_logo.png/320px-Merp_logo.png" decoding="async" loading="lazy" width="320" height="84" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/db/Merp_logo.png 1.5x" data-file-width="459" data-file-height="120"/></a><figcaption>2nd edition logotype</figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Roleplaying game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Middle-earth Role Playing</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data"><a href="../C/Coleman_Charlton.md" title="Coleman Charlton">Coleman Charlton</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data">1984</td></tr></tbody></table>
 
-**Middle-earth Role Playing** (MERP) là một phần của bộ quy tắc trò chơi nhập vai Rolemaster, lấy bối cảnh ở [Trung Địa](Middle-earth.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và do [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) xuất bản.
+**Middle-earth Role Playing** (MERP) là một tập hợp con của các quy tắc trò chơi nhập vai Rolemaster được đặt trong [Trung Địa](Middle-earth.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và được xuất bản bởi [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md).
 
 ## Mô tả {#Description}
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Middle-earth_Role_Playing_(2nd_edition,_hardcover).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d0/Middle-earth_Role_Playing_%282nd_edition%2C_hardcover%29.jpg/300px-Middle-earth_Role_Playing_%282nd_edition%2C_hardcover%29.jpg" decoding="async" loading="lazy" width="300" height="400" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/d0/Middle-earth_Role_Playing_%282nd_edition%2C_hardcover%29.jpg 1.5x" data-file-width="354" data-file-height="472"/></a><figcaption>Cover of <a class="mw-redirect" href="Middle-earth_Role_Playing_(2nd_edition,_hardcover).md" title="Middle-earth Role Playing (2nd edition, hardcover)"><i>MERP</i>, 2nd ed.</a></figcaption></figure>
 
-Hệ thống này có phần giống [Dungeons & Dragons](../D/Dungeons_and_Dragons.md), với các lớp nhân vật và cấp độ. Những lớp nhân vật có thể chọn gồm Animist (Cleric), Bard, Mage, Tuần Du Nhân, Scout (Thief) và Warrior (Fighter). Điểm khác biệt của hệ thống này là cơ chế chiến đấu và phép thuật rất chi tiết.
+Hệ thống này hơi giống [Dungeon & Rồng](../D/Dungeons_and_Dragons.md) với các lớp và cấp độ nhân vật. Các lớp có sẵn bao gồm Animist (Cleric), Bard, Mage, Ranger, Scout (Thief) và Warrior (Fighter). Hệ thống bắt đầu có hệ thống ma thuật và chiến đấu rất chi tiết.
 
-Trong hệ thống trò chơi MERP, các thuộc tính được chấm điểm trên thang từ 0 đến 100, còn kỹ năng có thể vượt ra ngoài giới hạn này (thấp hơn 0 hoặc cao hơn 100). Một lần tung xúc xắc tấn công được tính bằng kết quả tung xúc xắc theo phần trăm cộng điểm kỹ năng và điểm thuộc tính, rồi trừ điểm né tránh của mục tiêu. Kết quả này được đối chiếu với loại áo giáp của mục tiêu (giáp da hoặc giáp tấm) trên một bảng tra cứu. Hầu hết các đòn đánh trong chiến đấu đều gây ra một đòn chí mạng; người chơi tung xúc xắc để xác định kết quả rồi tra cứu trên các bảng riêng. Một số người thấy những đòn chí mạng này khá thú vị nhờ tính đa dạng và sáng tạo, nhưng với những người khác, việc cộng trừ những con số lớn rồi tra bảng chính là đỉnh cao của trò chơi dựa vào việc tung xúc xắc, chứ không phải trò chơi nhập vai.
+Trong hệ thống trò chơi MERP, các thuộc tính được xếp hạng từ 0 đến 100 và các kỹ năng có thể vượt qua các giới hạn này (dưới 0 hoặc trên 100). Một cuộn tấn công sẽ bao gồm một cuộn phần trăm + xếp hạng kỹ năng + xếp hạng thuộc tính - xếp hạng né tránh của mục tiêu. Kết quả này được tra cứu trên bàn so với loại áo giáp (da/tấm) của nạn nhân. Hầu hết các đòn đánh trong chiến đấu sẽ gây ra 'nghiêm trọng', điểm này sẽ được cuộn và tra cứu trên các bảng riêng biệt. Đối với một số người, những lời phê bình này khá thú vị do tính đa dạng và sáng tạo của chúng, nhưng đối với những người khác, nhiệm vụ cộng trừ các số cao rồi tra bảng là đỉnh cao của trò chơi cuộn chứ không phải nhập vai.
 
-Người sử dụng phép thuật có lợi thế duy nhất trong MERP là họ học được danh sách 10 phép thuật (1 phép thuật mỗi cấp độ) dưới dạng một đơn vị. Khi một nhân vật học được danh sách Chữa bệnh, ông sẽ có thể sử dụng các phép thuật chữa bệnh ngày càng tốt hơn khi cấp độ của ông tăng lên.
+Người sử dụng phép thuật có lợi thế duy nhất trong MERP là họ học được danh sách 10 phép thuật (1 phép thuật mỗi cấp độ) dưới dạng một đơn vị. Khi một nhân vật học được danh sách Chữa bệnh, ông ta sẽ có thể sử dụng các phép thuật chữa bệnh ngày càng tốt hơn khi cấp độ của ông ta tăng lên.
 
 Cài đặt cho trò chơi này có trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) khoảng 1400 năm (phần lớn các mô-đun được đặt vào những năm sau [Đại Dịch](../G/Great_Plague.md), khoảng [Kỷ Đệ Tam](../T/Third_Age.md) 1640) và do đó, nó thể hiện một phiên bản [Trung Địa](Middle-earth.md) khác với phiên bản được thấy trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* hoặc *[The Hobbit](../T/The_Hobbit.md)*.
 
-### Mô hình kim loại thu nhỏ {#Metal_miniatures}
+### Tiểu cảnh kim loại {#Metal_miniatures}
 
-Ba công ty khác nhau đã phát hành các mô hình được cấp phép để sử dụng với MERP. Năm 1985, cả [Grenadier Models](../G/Grenadier_Models_Inc..md) và [Citadel Miniatures](../C/Citadel_Miniatures.md) đều phát hành dòng mô hình *Lord of the Rings Middle Earth* của riêng mình. Năm 1987, giấy phép được chuyển giao cho [Mithril Miniatures](Mithril_Miniatures.md), công ty này hiện vẫn sản xuất các mô hình kim loại thu nhỏ về Trung Địa (mặc dù các mô hình ra mắt sau thời [ICE](../I/Iron_Crown_Enterprises.md) không còn nhắc đến MERP).
+Ba công ty khác nhau đã ban hành số liệu được ủy quyền để sử dụng với MERP. Năm 1985, cả [Mô hình Grenadier](../G/Grenadier_Models_Inc..md) và [Thành cổ thu nhỏ](../C/Citadel_Miniatures.md) đều phát hành dòng sản phẩm *Lord of the Rings Middle Earth* tương ứng của mình. Năm 1987, giấy phép được chuyển cho [Mithril Miniatures](Mithril_Miniatures.md), công ty vẫn sản xuất Trung Địa tác phẩm thu nhỏ bằng kim loại (mặc dù các số liệu sau[ICE](../I/Iron_Crown_Enterprises.md) không liên quan đến MERP).
 
 ## Ấn phẩm {#Publications}
 
 - *(Year) Stock# Title*
 
-### Loạt sản phẩm Trung Địa {#Middle-earth_Series}
+### Trung Địa Loạt {#Middle-earth_Series}
 
-Trước khi trở thành một hệ thống độc lập, loạt sản phẩm Trung Địa gồm các tài liệu bổ sung cho Rolemaster, thường được quảng bá là không phụ thuộc vào hệ thống luật chơi cụ thể.
+Trước khi trở thành hệ thống của riêng mình, dòng Trung Địa là các phần bổ sung của Rolemaster thường được tiếp thị dưới dạng bất khả tri về hệ thống.
 
 - (1982) 2100 *[An Artist's Interpretation of Middle Earth](../A/An_Artist's_Interpretation_of_Middle_Earth.md)*
 - (1982) 2200 *[A Campaign and Adventure Guidebook for Middle-earth](../A/A_Campaign_and_Adventure_Guidebook_for_Middle-earth.md)*
@@ -63,9 +63,9 @@ Trước khi trở thành một hệ thống độc lập, loạt sản phẩm T
 - (1983) 2700 *[Southern Mirkwood: Haunt of the Necromancer](../S/Southern_Mirkwood.md)*
 - (1983) 2800 *[Isengard and Northern Gondor](../I/Isengard_and_Northern_Gondor.md)*
 
-### MERP, ấn bản thứ nhất {#MERP_1st_Edition}
+### MERP Phiên bản đầu tiên {#MERP_1st_Edition}
 
-Khi bộ luật chơi chính thức được phát hành vào năm 1984, loạt sản phẩm này chuyển từ một cẩm nang chiến dịch tổng quát thành một hệ thống hoàn chỉnh, độc lập.
+Với việc phát hành bộ quy tắc thích hợp vào năm 1984, loạt bài này đã chuyển từ hướng dẫn chiến dịch chung sang một hệ thống khép kín hoàn chỉnh.
 
 - (1984) 2600 [*Northern Mirkwood* (1984)](<../N/Northern_Mirkwood_(1984).md>)
 - (1984) 2900 *[Moria: The Dwarven City](Moria%253A_The_Dwarven_City.md)*
@@ -140,28 +140,28 @@ Khi bộ luật chơi chính thức được phát hành vào năm 1984, loạt 
 - (1992) 8114 *[River Running](<../R/River_Running_(book).md>)*
 - (1994) 4001 *[Northwestern Middle-earth Map Set](../N/Northwestern_Middle-earth_Map_Set.md)*
 
-### MERP, ấn bản thứ hai {#MERP_2nd_Edition}
+### MERP Phiên bản thứ 2 {#MERP_2nd_Edition}
 
-- (1993) 2000 [*Middle-earth Role Playing* (ấn bản thứ hai, bìa cứng)](<Middle-earth_Role_Playing_(2nd_edition,_hardcover).md>)
-- (1993) 2001 [*Middle-earth Role Playing* (ấn bản thứ hai, bìa mềm)](<Middle-earth_Role_Playing_(2nd_edition,_softcover).md>)
+- (1993) 2000 [*Middle-earth Role Playing* (ấn bản thứ 2, bìa cứng)](<Middle-earth_Role_Playing_(2nd_edition,_hardcover).md>)
+- (1993) 2001 [*Middle-earth Role Playing* (ấn bản thứ 2, bìa mềm)](<Middle-earth_Role_Playing_(2nd_edition,_softcover).md>)
 - (1993) 2003 *[Middle-earth Campaign Guide](Middle-earth_Campaign_Guide.md)*
 - (1993) 2004 *[Middle-earth Role Playing Combat Screen and Reference Sheets](Middle-earth_Role_Playing_Combat_Screen_and_Reference_Sheets.md)*
 - (1993) 2006 *[Valar and Maiar](../V/Valar_and_Maiar.md)*
 - (1994) 2002 *[Middle-earth Role Playing Accessory Pack](Middle-earth_Role_Playing_Accessory_Pack.md)*
 - (1994) 2005 *[Arnor: The Realm](../A/Arnor%253A_The_Realm.md)*
-- (1994) 2007 [*Minas Tirith* (ấn bản thứ hai)](<Minas_Tirith_(1994_book).md>)
+- (1994) 2007 [*Minas Tirith* (ấn bản thứ 2)](<Minas_Tirith_(1994_book).md>)
 - (1994) 2008 *[Middle-earth Role Playing Poster Maps](Middle-earth_Role_Playing_Poster_Maps.md)*
 - (1994) 2009 *[Palantír Quest](../P/Palantír_Quest.md)*
-- (1994) 2010 [*Treasures of Middle-earth* (ấn bản thứ hai)](<../T/Treasures_of_Middle-earth_(2nd_edition).md>)
-- (1994) 2011 [*Moria* (ấn bản thứ hai)](<Moria_(1994_book).md>)
-- (1994) 2012 [*Creatures of Middle-earth* (ấn bản thứ hai)](<../C/Creatures_of_Middle-earth_(2nd_edition).md>)
+- (1994) 2010 [*Treasures of Middle-earth* (ấn bản thứ 2)](<../T/Treasures_of_Middle-earth_(2nd_edition).md>)
+- (1994) 2011 [*Moria* (ấn bản thứ 2)](<Moria_(1994_book).md>)
+- (1994) 2012 [*Creatures of Middle-earth* (ấn bản thứ 2)](<../C/Creatures_of_Middle-earth_(2nd_edition).md>)
 - (1994) 2013 [*Elves*](<../E/Elves_(book).md>)
 - (1995) 2014 [*Dol Guldur*](<../D/Dol_Guldur_(book).md>)
 - (1995) 2015 *[The Kin-strife](../T/The_Kin-strife.md)*
 - (1995) 2016 *[Lake-town](<../L/Lake-town_(book).md>)*
 - (1995) 2017 [*The Shire*](<../T/The_Shire_(book).md>)
-- (1995) 2018 [*Angmar* (ấn bản thứ hai)](<../A/Angmar_(book).md>)
-- (1995) 2019 [*Mirkwood* (ấn bản thứ hai)](<Mirkwood_(book).md>)
+- (1995) 2018 [*Angmar* (ấn bản thứ 2)](<../A/Angmar_(book).md>)
+- (1995) 2019 [*Mirkwood* (ấn bản thứ 2)](<Mirkwood_(book).md>)
 - (1996) 2020 *[Southern Gondor: The People](../S/Southern_Gondor%253A_The_People.md)*
 - (1996) 2021 *[Southern Gondor: The Land](../S/Southern_Gondor%253A_The_Land.md)*
 - (1996) 2022 *[Arnor: The People](../A/Arnor%253A_The_People.md)*
@@ -189,7 +189,7 @@ Khi bộ luật chơi chính thức được phát hành vào năm 1984, loạt 
 
 ## Những phát triển tiếp theo {#Further_developments}
 
-MERP có một cộng đồng người hâm mộ đông đảo và trung thành, thể hiện qua vô số tài liệu được biên soạn cho hệ thống kể từ khi ICE mất giấy phép xuất bản. Các kênh chính là:
+MERP có lượng người theo dõi trung thành và mạnh mẽ, điều này có thể thấy rõ trong vô số tài liệu được viết cho hệ thống kể từ khi ICE mất giấy phép. Các kênh chính là:
 
 - *[Other Hands](../O/Other_Hands.md)* (tạp chí chính thức)
 - *[Other Minds](../O/Other_Minds.md)* (tạp chí không chính thức)
@@ -204,7 +204,7 @@ MERP có một cộng đồng người hâm mộ đông đảo và trung thành,
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Role-playing_game" title="wikipedia:Role-playing game">Trò chơi nhập vai trên giấy được cấp phép</a> lấy bối cảnh ở <a href="Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Role-playing_game" title="wikipedia:Role-playing game">Pen-and-paper RPGs</a> set in <a href="Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="center"> <a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a>:

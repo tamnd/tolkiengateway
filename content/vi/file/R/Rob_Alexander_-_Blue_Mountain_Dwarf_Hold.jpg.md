@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Rob Alexander - Blue Mountain Dwarf-hold.jpg"
 ---
 
-Chuyển hướng đến [Tệp:Rob Alexander - Blue Mountain Người Lùn-hold.jpg](Rob_Alexander_-_Blue_Mountain_Dwarf-hold.jpg.md).
+Chuyển hướng đến [Tệp:Rob Alexander - Blue Mountain Người lùn-hold.jpg](Rob_Alexander_-_Blue_Mountain_Dwarf-hold.jpg.md).

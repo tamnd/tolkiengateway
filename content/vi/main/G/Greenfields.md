@@ -27,13 +27,13 @@ images:
 
 **Greenfields** hay **Green Fields** là một quận nằm giữa sông [Norbourn](../N/Norbourn.md) và [Brandywine](../B/Brandywine.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ở [Northfarthing](../N/Northfarthing.md) của [ Shire](../T/The_Shire.md).
 
-Vào năm [S.R.](../S/Shire_Reckoning.md) [1147](../T/Third_Age_2747.md) đã xảy ra [Trận chiến tại Greenfields](../B/Battle_of_Greenfields.md) giữa lũ [orc](../O/Orcs.md) xâm lược từ [Mount Gram](../M/Mount_Gram.md) và [Hobbitry-in-arms](../H/Hobbitry-in-arms.md). Người Hobbit đã giành chiến thắng sau khi thủ lĩnh của họ [Bandobras Took](../B/Bandobras_Took.md) (biệt danh *Bullroarer*) chém đứt đầu của [goblin](../O/Orcs.md) vua [Golfimbul](Golfimbul.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Đây là trận chiến duy nhất diễn ra bên trong ranh giới của Shire trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) và [Trận Bywater](../B/Battle_of_Bywater.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Vào năm [S.R.](../S/Shire_Reckoning.md) [1147](../T/Third_Age_2747.md) đã xảy ra [Trận chiến trên cánh đồng xanh](../B/Battle_of_Greenfields.md) giữa lũ [orc](../O/Orcs.md) xâm lược từ [Mount Gram](../M/Mount_Gram.md) và [Hobbitry-in-arms](../H/Hobbitry-in-arms.md). Người Hobbit đã giành chiến thắng sau khi thủ lĩnh của họ [Bandobras Took](../B/Bandobras_Took.md) (biệt danh *Bullroarer*) chém đứt đầu của [goblin](../O/Orcs.md) vua [Golfimbul](Golfimbul.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Đây là trận chiến duy nhất diễn ra bên trong ranh giới của Shire trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) và [Trận Bywater](../B/Battle_of_Bywater.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Greenfields là một vùng đồng bằng rộng lớn ở góc tây bắc của vùng Shire.</dd></dl>
+<dl><dd>The Greenfields are a large open plain in the north-western corner of the Shire region.</dd></dl>
 
 <span></span>
 

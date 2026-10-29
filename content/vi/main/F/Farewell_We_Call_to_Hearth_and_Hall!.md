@@ -18,26 +18,26 @@ images:
 
 ## Văn bản {#Text}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/c/cc/J.R.R._Tolkien_-_Farewell_We_Call_to_Hearth_and_Hall%21.mp3" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_Farewell_We_Call_to_Hearth_and_Hall!.mp3">https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_Farewell_We_Call_to_Hearth_and_Hall!.mp3</a></audio><figcaption><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> đọc Tạm biệt, chúng tôi gọi đến lò sưởi và hội trường!</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/c/cc/J.R.R._Tolkien_-_Farewell_We_Call_to_Hearth_and_Hall%21.mp3" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_Farewell_We_Call_to_Hearth_and_Hall!.mp3">https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_Farewell_We_Call_to_Hearth_and_Hall!.mp3</a></audio><figcaption><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> reads Farewell We Call to Hearth and Hall!</figcaption></figure>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Tạm biệt chúng ta gọi lò sưởi và hội trường!<br/>
-Dù gió có thổi và mưa có rơi,<br/>
-Chúng ta phải đi trước bình minh<br/>
-Vượt xa rừng núi.<br/>
+<p>Farewell we call to hearth and hall!<br/>
+Though wind may blow and rain may fall,<br/>
+We must away ere break of day<br/>
+Far over wood and mountain tall.<br/>
 <br/>
-Đến <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, nơi Tiên tộc chưa trú ngụ<br/>
-Trong trảng cỏ dưới màn sương mù,<br/>
-Qua đồng hoang và hoang mạc, chúng ta bước đi vội vã,<br/>
-Và ở đâu thì chúng tôi không thể biết được. <br/>
+To <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, where Elves yet dwell<br/>
+In glades beneath the misty fell,<br/>
+Through moor and waste we ride in haste,<br/>
+And whither then we cannot tell. <br/>
 <br/>
-Với kẻ thù phía trước, nỗi sợ hãi phía sau,<br/>
-Dưới bầu trời sẽ là chiếc giường của chúng ta,<br/>
-Cho đến khi công việc khó nhọc của chúng ta cuối cùng cũng trôi qua,<br/>
-Cuộc hành trình đã hoàn thành, nhiệm vụ của chúng ta đã tăng tốc.<br/>
+With foes ahead, behind us dread,<br/>
+Beneath the sky shall be our bed,<br/>
+Until at last our toil be passed,<br/>
+Our journey done, our errand sped.<br/>
 <br/>
-Chúng ta phải đi thôi! Chúng ta phải đi thôi!<br/>
-Chúng tôi đi xe trước giờ nghỉ trong ngày!
+We must away! We must away!<br/>
+We ride before the break of day!
 </p>
 </div>
 

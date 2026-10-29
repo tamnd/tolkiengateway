@@ -22,29 +22,29 @@ sort_keys:
 </th></tr>
 <tr>
 <td><b>Part One: The <a href="../F/First_Age.md" title="First Age">First Age</a></b>
-<ul><li><a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Của Tuor và Việc Anh Đến Với Gondolin</a></li>
+<ul><li><a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Of Tuor and his Coming to Gondolin</a></li>
 <li><a href="../N/Narn_i_Hîn_Húrin.md" title="Narn i Hîn Húrin">Narn i Hîn Húrin</a></li></ul>
 </td></tr>
 <tr>
 <td><b>Part Two: The <a href="../S/Second_Age.md" title="Second Age">Second Age</a></b>
-<ul><li><a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">Mô tả về Númenor</a></li>
+<ul><li><a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">A Description of Númenor</a></li>
 <li><a href="../A/Aldarion_and_Erendis%253A_The_Mariner&#39;s_Wife.md" title="Aldarion and Erendis: The Mariner&#39;s Wife">Aldarion and Erendis</a></li>
-<li><a href="The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">Dòng dõi Elros</a></li>
-<li><a class="mw-selflink selflink">Lịch sử Galadriel và Celeborn</a></li></ul>
+<li><a href="The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">The Line of Elros</a></li>
+<li><a class="mw-selflink selflink">History of Galadriel and Celeborn</a></li></ul>
 </td></tr>
 <tr>
 <td><b>Part Three: The <a href="Third_Age.md" title="Third Age">Third Age</a></b>
-<ul><li><a href="The_Disaster_of_the_Gladden_Fields.md" title="The Disaster of the Gladden Fields">Thảm họa Cánh đồng Gladden</a></li>
+<ul><li><a href="The_Disaster_of_the_Gladden_Fields.md" title="The Disaster of the Gladden Fields">Disaster of the Gladden Fields</a></li>
 <li><a href="../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl</a></li>
-<li><a href="The_Quest_of_Erebor.md" title="The Quest of Erebor">Cuộc truy tìm Erebor</a></li>
-<li><a href="The_Hunt_for_the_Ring.md" title="The Hunt for the Ring">Cuộc truy lùng Nhẫn</a></li>
+<li><a href="The_Quest_of_Erebor.md" title="The Quest of Erebor">The Quest of Erebor</a></li>
+<li><a href="The_Hunt_for_the_Ring.md" title="The Hunt for the Ring">The Hunt for the Ring</a></li>
 <li><a href="The_Battles_of_the_Fords_of_Isen.md" title="The Battles of the Fords of Isen">The Battles of the Fords of Isen</a></li></ul>
 </td></tr>
 <tr>
-<td><b>Phần Bốn</b>
+<td><b>Part Four</b>
 <ul><li><a href="The_Drúedain.md" title="The Drúedain">The Drúedain</a></li>
 <li><a href="The_Istari.md" title="The Istari">The Istari</a></li>
-<li><a href="The_Palantíri.md" title="The Palantíri">Palantíri</a></li></ul>
+<li><a href="The_Palantíri.md" title="The Palantíri">The Palantíri</a></li></ul>
 </td></tr></tbody></table>
 
 **Lịch sử của Galadriel và Celeborn và của Amroth Vua của Lórien** là một chương trong cuốn sách *[Unfinished Tales](../U/Unfinished_Tales.md)*, bao gồm các bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), do con trai ông, [Christopher Tolkien](../C/Christopher_Tolkien.md) xuất bản sau khi di cảo. Chương này thực ra không phải là một "lịch sử", mà là một tuyển tập các văn bản trong đó Tolkien cố gắng phát triển các câu chuyện về các vương quốc Tiên của [Kỷ Đệ Nhị](../S/Second_Age.md) và vị trí của [Galadriel](../G/Galadriel.md), [Celeborn](../C/Celeborn.md) và [Amroth](../A/Amroth.md) trong số đó. Chương này bao gồm ba tiểu mục và năm phụ lục, nhưng bản tóm tắt ở đây bao gồm nhiều tiểu mục hơn trong ngoặc vuông để phân biệt rõ hơn các văn bản được trình bày.
@@ -71,7 +71,7 @@ Galadriel bỏ rơi Lórinand cho con trai Amroth vì mong muốn được sốn
 
 ### Amroth và Nimrodel {#Amroth_and_Nimrodel}
 
-<i><b>Một phần của Truyền thuyết về Amroth và Nimrodel Được kể tóm tắt</b></i> là một câu chuyện được viết bằng [1969](../_/1969.md) trở lên, mở rộng và thay đổi đáng kể câu chuyện về Amroth. Ở đây anh không còn là con của Galadriel và Celeborn nữa mà là con của [Amdír](../A/Amdír.md), [Sindarin](../S/Sindar.md) [Vua của Lórien](../K/King_of_Lórien.md). Sau cái chết của cha mình vào [Trận Dagorlad](../B/Battle_of_Dagorlad.md), Amroth cai trị Lothlórien trong hòa bình theo phong tục của [Tiên tộc Silvan](../S/Silvan_Elves.md), như ông yêu [Nimrodel](../N/Nimrodel.md), người không thích Tiên tộc đến từ Phương Tây. Cô từ chối lấy anh và sống xa nhau cho đến khi [Orc](../O/Orcs.md) đầy [Moria](../M/Moria.md), cô phải chạy về phía nam. Amroth đi theo cô và sau khi nói chuyện, cô đã nhận lời lấy anh khi họ đến được vùng đất hòa bình. Anh đề nghị đưa cô đến [Phương Tây](../A/Aman.md) và cả hai cùng đi đến [Gondor](../G/Gondor.md), nhưng Nimrodel bị lạc và Amroth một mình đến được thiên đường Tiên. Con tàu cuối cùng đang chuẩn bị khởi hành nên sau đó sẽ không đóng thêm con tàu nào ở đó nữa. Amroth gia nhập thủy thủ đoàn và họ chờ đợi hàng tháng trời nhưng Nimrodel không đến, một ngày nọ con tàu bị một cơn bão khủng khiếp cuốn đi. Thủy thủ đoàn đang ở bên trong nên Amroth tuyệt vọng nhìn vào đất liền rồi nhảy xuống biển kêu tên Nimrodel và cuối cùng chết đuối.
+<i><b>Một phần của Truyền thuyết về Amroth và Nimrodel Được kể tóm tắt</b></i> là một câu chuyện được viết bằng [1969](../_/1969.md) trở lên, mở rộng và thay đổi đáng kể câu chuyện về Amroth. Ở đây anh không còn là con của Galadriel và Celeborn nữa mà là con của [Amdír](../A/Amdír.md), [Sindarin](../S/Sindar.md) [Vua của Lórien](../K/King_of_Lórien.md). Sau cái chết của cha mình vào [Trận Dagorlad](../B/Battle_of_Dagorlad.md), Amroth cai trị Lothlórien trong hòa bình theo phong tục của [Silvan Tiên tộc](../S/Silvan_Elves.md), như ông yêu [Nimrodel](../N/Nimrodel.md), người không thích Tiên tộc đến từ Phương Tây. Cô từ chối lấy anh và sống xa nhau cho đến khi [Orc](../O/Orcs.md) đầy [Moria](../M/Moria.md), cô phải chạy về phía nam. Amroth đi theo cô và sau khi nói chuyện, cô đã nhận lời lấy anh khi họ đến được vùng đất hòa bình. Anh đề nghị đưa cô đến [Phương Tây](../A/Aman.md) và cả hai cùng đi đến [Gondor](../G/Gondor.md), nhưng Nimrodel bị lạc và Amroth một mình đến được thiên đường Tiên. Con tàu cuối cùng đang chuẩn bị khởi hành nên sau đó sẽ không đóng thêm con tàu nào ở đó nữa. Amroth gia nhập thủy thủ đoàn và họ chờ đợi hàng tháng trời nhưng Nimrodel không đến, một ngày nọ con tàu bị một cơn bão khủng khiếp cuốn đi. Thủy thủ đoàn đang ở bên trong nên Amroth tuyệt vọng nhìn vào đất liền rồi nhảy xuống biển kêu tên Nimrodel và cuối cùng chết đuối.
 
 ### \[Từ *The Rivers and Beacon-hills of Gondor*\] {#[From_The_Rivers_and_Beacon-hills_of_Gondor]}
 
@@ -87,8 +87,8 @@ Văn bản cuối cùng của chương là <i><b>The Elessar</b></i>, một bả
 
 ### Phụ lục {#Appendices}
 
-- Appendix A, **Các Tiên tộc Silvan và Bài phát biểu của họ**: thảo luận về tên của *Galadriel*, *Celeborn* và *Lórien*, bao gồm thông tin về Tiên tộc Silvan và [bài phát biểu của họ](../S/Silvan_Elvish.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup>
-- Phụ lục B, **Các hoàng tử Sindarin của Tiên tộc Silvan**: thông tin về Tiên tộc Silvan, những người cai trị Sindarin và ngôn ngữ của họ trong thời kỳ thứ hai và Kỷ Đệ Tam.
+- Appendix A, **Các Silvan Tiên tộc và Bài phát biểu của họ**: thảo luận về tên của *Galadriel*, *Celeborn* và *Lórien*, bao gồm thông tin về Silvan Tiên tộc và [bài phát biểu của họ](../S/Silvan_Elvish.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup>
+- Phụ lục B, **Các hoàng tử Sindarin của Silvan Tiên tộc**: thông tin về Silvan Tiên tộc, những người cai trị Sindarin và ngôn ngữ của họ trong thời kỳ thứ hai và Kỷ Đệ Tam.
 - Phụ lục C, **Ranh giới của Lórien**: một số mô tả về quyền thống trị của Lothlórien.
 - Phụ lục D, **Cảng Lond Daer**: một đoạn trích khác từ tiểu luận về các con sông Gondor nêu trên, bao gồm thông tin về từ nguyên và lịch sử của các con sông [Gwathló](../G/Gwathló.md) và [Glanduin](../G/Glanduin.md).
 - Phụ lục E, **Tên Celeborn và Galadriel**: thông tin về [Tiên cách đặt tên](../E/Essë.md) trong Aman, tập trung vào Celeborn và Galadriel.

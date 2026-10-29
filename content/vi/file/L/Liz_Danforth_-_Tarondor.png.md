@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Tarondor (Vua Gondor)](<../../main/T/Tarondor_(King_of_Gondor).md>). Nghệ thuật của [Liz Danforth](../../main/L/Liz_Danforth.md), từ Graham Staplehurst, *[Minas Tirith (2nd edition)](<../../main/M/Minas_Tirith_(1994_book).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2007, 1994)
+[Tarondor (Vua Gondor)](<../../main/T/Tarondor_(King_of_Gondor).md>). Nghệ thuật của [Liz Danforth](../../main/L/Liz_Danforth.md), từ Graham Staplehurst, *[Minas Tirith (2nd edition)](<../../main/M/Minas_Tirith_(1994_book).md>)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2007, 1994)
 
 <br>
 

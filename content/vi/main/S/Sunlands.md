@@ -18,7 +18,7 @@ langlinks:
     url: "https://kontu.wiki/Aurinkomaat"
 ---
 
-<dl><dd><i>Đừng nhầm lẫn với: <b><a href="Sunlending.md" title="Sunlending">Sunlending</a></b>, tên <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a> của <a href="../A/Anórien.md" title="Anórien">Anórien</a></i></dd></dl>
+<dl><dd><i>Not to be confused with: <b><a href="Sunlending.md" title="Sunlending">Sunlending</a></b>, the <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a> name of <a href="../A/Anórien.md" title="Anórien">Anórien</a></i></dd></dl>
 
 **Sunlands** là một cái tên trong [Shire](Shire.md) để chỉ vùng đất cực nam của [Trung Địa](../M/Middle-earth.md), gần giống khu vực với [Harad](../H/Harad.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

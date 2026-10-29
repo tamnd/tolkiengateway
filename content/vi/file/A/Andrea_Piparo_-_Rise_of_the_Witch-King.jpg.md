@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Sự trỗi dậy của [Vua Phù thủy](../../main/W/Witch-king.md)" - Tác phẩm nghệ thuật của [Andrea Piparo](../../category/I/Images_by_Andrea_Piparo.md) cho *[The Lord of the Rings: Tales of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md)*
+"Sự trỗi dậy của [Witch-Vua](../../main/W/Witch-king.md)" - Tác phẩm nghệ thuật của [Andrea Piparo](../../category/I/Images_by_Andrea_Piparo.md) cho *[The Lord of the Rings: Tales of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md)*
 
 ## Giấy phép {#Licensing}
 

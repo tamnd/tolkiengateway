@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Bombur mô hình nhỏ Người Lùn](../../main/D/Dori.md) - [LEGO](../../main/L/Lego.md). Nguồn <a class="external text" href="https://www.toypro.com/us/product/5394/dori-the-dwarf" rel="noreferrer noopener" target="_blank">ToyPro</a>
+[Bombur mô hình nhỏ Người lùn](../../main/D/Dori.md) - [LEGO](../../main/L/Lego.md). Nguồn <a class="external text" href="https://www.toypro.com/us/product/5394/dori-the-dwarf" rel="noreferrer noopener" target="_blank">ToyPro</a>
 
 ## Giấy phép {#Licensing}
 

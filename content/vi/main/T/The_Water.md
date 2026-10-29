@@ -35,7 +35,7 @@ images:
 
 ## Địa lý {#Geography}
 
-The Water phát sinh ở phía tây bắc [Needlehole](../N/Needlehole.md) nơi nó chuyển hướng chảy về phía nam. Sau một khoảng cách ngắn tại [Rushock Bog](../R/Rushock_Bog.md) nó chia thành hai nhánh, nhanh chóng nối lại và sau đó rẽ về phía đông, phía nam và lại về phía đông trước [Hobbiton](../H/Hobbiton.md).<sup id="cite_ref-Part_2-1" class="reference"><a href="#cite_note-Part-2">[2]</a></sup> Trước khi chảy qua Hobbiton, Nước khá hẹp và có thể vượt qua bằng một cây cầu ván hẹp và bị cây tổng quán sủi che bóng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Từ đó, nó chảy qua Hobbiton và chảy vào [Hồ Bywater](../B/Bywater_Pool.md) tại [Bywater](../B/Bywater.md), nơi nó được nối với một dòng suối từ phía bắc. Từ đó trở đi, nó chảy về phía đông dọc theo [phương Đông Đường](../E/East_Road.md) chạy qua [Thung lũng Nước](../W/Water-valley.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Phía bắc [Frogmorton](../F/Frogmorton.md) nó lại chia thành hai nhánh và nối lại sau một đoạn ngắn. Nó tiếp tục đi về phía đông, nơi nó có thể bị làng [Budgeford](../B/Budgeford.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> vượt qua tại Budge Ford và sau đó tiếp tục đi về phía đông để nhập vào [Brandywine](../B/Baranduin.md) ngay phía bắc [Cầu Brandywine](../B/Brandywine_Bridge.md).<sup id="cite_ref-Part_2-2" class="reference"><a href="#cite_note-Part-2">[2]</a></sup>
+The Water phát sinh ở phía tây bắc [Needlehole](../N/Needlehole.md) nơi nó chuyển hướng chảy về phía nam. Sau một khoảng cách ngắn tại [Rushock Bog](../R/Rushock_Bog.md) nó chia thành hai nhánh, nhanh chóng nối lại và sau đó rẽ về phía đông, phía nam và lại về phía đông trước [Hobbiton](../H/Hobbiton.md).<sup id="cite_ref-Part_2-1" class="reference"><a href="#cite_note-Part-2">[2]</a></sup> Trước khi chảy qua Hobbiton, Nước khá hẹp và có thể vượt qua bằng một cây cầu ván hẹp và bị cây tổng quán sủi che bóng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Từ đó, nó chảy qua Hobbiton và chảy vào [Bywater Bể bơi](../B/Bywater_Pool.md) tại [Bywater](../B/Bywater.md), nơi nó được nối với một dòng suối từ phía bắc. Từ đó trở đi, nó chảy về phía đông dọc theo [phương Đông Đường](../E/East_Road.md) chạy qua [Thung lũng Nước](../W/Water-valley.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Phía bắc [Frogmorton](../F/Frogmorton.md) nó lại chia thành hai nhánh và nối lại sau một đoạn ngắn. Nó tiếp tục đi về phía đông, nơi nó có thể bị làng [Budgeford](../B/Budgeford.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> vượt qua tại Budge Ford và sau đó tiếp tục đi về phía đông để nhập vào [Brandywine](../B/Baranduin.md) ngay phía bắc [Cầu Brandywine](../B/Brandywine_Bridge.md).<sup id="cite_ref-Part_2-2" class="reference"><a href="#cite_note-Part-2">[2]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
@@ -43,9 +43,9 @@ Việc đặt tên cho Nước có thể là sự nhại lại một số loại
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Water bắt nguồn từ vùng núi phía nam <a href="../E/Evendim.md" title="Evendim">Evendim</a> và chảy qua <a href="../L/Long_Cleeve.md" title="Long Cleeve">Long Cleeve</a> và <a href="../N/Nobottle.md" title="Nobottle">Nobottle</a> trước khi đến <a href="../N/Needlehole.md" title="Needlehole">Needlehole</a>.</dd></dl>
+<dl><dd>The Water originates in the mountains of southerns <a href="../E/Evendim.md" title="Evendim">Evendim</a> and flows past <a href="../L/Long_Cleeve.md" title="Long Cleeve">Long Cleeve</a> and <a href="../N/Nobottle.md" title="Nobottle">Nobottle</a> before reaching <a href="../N/Needlehole.md" title="Needlehole">Needlehole</a>.</dd></dl>
 
 <span></span>
 

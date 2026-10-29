@@ -14,14 +14,14 @@ categories:
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin:15px;border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> chương
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> chapters
 </th></tr>
 <tr>
 <td>
 <ol><li><a href="../T/The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">The Lay of the Children of Húrin</a></li>
-<li><a class="mw-selflink selflink">Những bài thơ sớm bị từ bỏ</a></li>
+<li><a class="mw-selflink selflink">Poems Early Abandoned</a></li>
 <li><a href="../T/The_Lay_of_Leithian.md" title="The Lay of Leithian">The Lay of Leithian</a></li>
-<li><a href="../T/The_Lay_of_Leithian_Recommenced.md" title="The Lay of Leithian Recommenced">The Lay of Leithian được tiếp tục</a></li></ol>
+<li><a href="../T/The_Lay_of_Leithian_Recommenced.md" title="The Lay of Leithian Recommenced">The Lay of Leithian Recommenced</a></li></ol>
 </td></tr></tbody></table>
 
 **Những bài thơ sớm bị bỏ rơi** là chương thứ hai của *[The Lays of Beleriand](../T/The_Lays_of_Beleriand.md)*. Trong thời gian làm việc tại [Đại học Leeds](../U/University_of_Leeds.md) ([1920](../_/1920.md)-[1925](../_/1925.md)), Tolkien đã bắt tay vào thực hiện năm tác phẩm thơ có liên quan như một phần thần thoại của ông, nhưng chỉ có *[Lay of Leithian](../L/Lay_of_Leithian.md)* và *[Lay of the Children of Húrin](../L/Lay_of_the_Children_of_Húrin.md)* không chỉ là sự khởi đầu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Chương này lần lượt đề cập đến những bài thơ bị bỏ rơi đó.

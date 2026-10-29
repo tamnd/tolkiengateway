@@ -20,7 +20,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Tim</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Tim_(disambiguation).md" title="Tim (disambiguation)">Tim (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Tim</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Tim_(disambiguation).md" title="Tim (disambiguation)">Tim (disambiguation)</a></b>.</div></div>
 
 **Tim "Tatsumakisenpukyaku III" Winsky** là nhà thiết kế trò chơi và là người sáng lập [Tatsusoft](Tatsusoft.md).<sup id="cite_ref-Twinsky_1-0" class="reference"><a href="#cite_note-Twinsky-1">[1]</a></sup> Ông đã thiết kế trò chơi điện tử hành động [Lord of the Rings: The Duel](<../L/Lord_of_the_Rings%253A_The_Duel_(video_game).md>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

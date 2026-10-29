@@ -31,7 +31,7 @@ langlinks:
 
 <table class="TGtable">
 <tbody><tr>
-<th>Số tháng
+<th>Month number
 </th>
 <th>Quenya
 </th>
@@ -67,7 +67,7 @@ langlinks:
 <td>4</td>
 <td><a href="../C/Cermië.md" title="Cermië">Cermië</a></td>
 <td>Cerveth</td>
-<td>26 Tiền tố đến 22 <a href="../A/Afterlithe.md" title="Afterlithe">Hậu tố</a> (21 vào năm nhuận)
+<td>26 Forelithe to 22 <a href="../A/Afterlithe.md" title="Afterlithe">Afterlithe</a> (21 in leap years)
 </td></tr>
 <tr>
 <td>5</td>
@@ -164,4 +164,4 @@ langlinks:
 
 ## Liên kết ngoài {#External_links}
 
-- Dự án <a class="external text" href="https://psarando.github.io/shire-reckoning" rel="noreferrer noopener" target="_blank">Lịch Shire</a>, dành riêng cho việc mô phỏng và phân tích chi tiết tất cả các lịch của *The Lord of the Rings* [Phụ lục D](../A/Appendix_D.md).
+- Dự án <a class="external text" href="https://psarando.github.io/shire-reckoning" rel="noreferrer noopener" target="_blank">Shire Tính toán</a>, dành riêng cho việc mô phỏng và phân tích chi tiết tất cả các lịch của *The Lord of the Rings* [Phụ lục D](../A/Appendix_D.md).

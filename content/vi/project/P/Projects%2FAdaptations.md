@@ -16,13 +16,13 @@ Sau đây là danh sách **các bản chuyển thể được cấp phép**. Ph�
 
 ## Phim {#Films}
 
-<b>1967: <a href="../../main/T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim năm 1967)</a>:</b>
+<b>1967: <a href="../../main/T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim 1967)</a>:</b>
 
-<b>1977: <a href="../../main/T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
+<b>1977: <a href="../../main/T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
 
-<b>1978: <a href="../../main/T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
+<b>1978: <a href="../../main/T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
 
-<b>1980: <a href="../../main/T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a>:</b>
+<b>1980: <a href="../../main/T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
 
 <b>2001-03: <a href="../../main/T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>:</b>
 
@@ -88,35 +88,35 @@ Sau đây là danh sách **các bản chuyển thể được cấp phép**. Ph�
 
 <b>2003: <a href="../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md" title="The Lord of the Rings: The Return of the King (video game)"><i>The Lord of the Rings: The Return of the King</i> (trò chơi điện tử)</a>:</b>
 
-<b>2003: <i><a href="../../main/T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: War of the Ring</a></i>:</b>
+<b>2003: <i><a href="../../main/T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: Cuộc chiến Nhẫn</a></i>:</b>
 
 <b>2003: <a href="../../main/T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
 
 <b>2004: <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Third_Age.md" title="The Lord of the Rings: The Third Age">The Lord of the Rings: Kỷ Đệ Tam</a></i>:</b>
 
-<b>2004: <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
+<b>2004: <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
 
 <b>2005: <i><a href="../../main/T/The_Lord_of_the_Rings%253A_Tactics.md" title="The Lord of the Rings: Tactics">The Lord of the Rings: Chiến thuật</a></i>:</b>
 
-<b>2006: <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
+<b>2006: <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
-<b>2006: <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Lord of the Rings: The Battle for Middle-earth II: Sự trỗi dậy của Vua Phù thủy</a></i>:</b>
+<b>2006: <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Lord of the Rings: Trận chiến vì Trung Địa II: Sự trỗi dậy của Vua Phù thủy</a></i>:</b>
 
-<b>2007: <i><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">The Lord of the Rings Online: Bóng tối của Angmar</a></i>:</b>
+<b>2007: <i><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">The Lord of the Rings Trực tuyến: Bóng tối của Angmar</a></i>:</b>
 
-<b>2008: <i><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Online: Mỏ Moria</a></i>:</b>
+<b>2008: <i><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Trực tuyến: Mỏ Moria</a></i>:</b>
 
-<b>2009: <i><a href="../../main/T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Conquest</a></i>:</b>
+<b>2009: <i><a href="../../main/T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a></i>:</b>
 
-<b>2009: <i><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md" title="The Lord of the Rings Online: Siege of Mirkwood">The Lord of the Rings Online: Cuộc vây hãm Mirkwood</a></i>:</b>
+<b>2009: <i><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md" title="The Lord of the Rings Online: Siege of Mirkwood">The Lord of the Rings Trực tuyến: Cuộc vây hãm Mirkwood</a></i>:</b>
 
 <b>2010: <i><a href="../../main/T/The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">The Lord of the Rings: Nhiệm vụ của Aragorn</a></i>:</b>
 
 <b>2011: <i><a href="../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></i></b>
 
-<b>2011: <i><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">The Lord of the Rings Online: Sự trỗi dậy của Isengard</a></i>:</b>
+<b>2011: <i><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">The Lord of the Rings Trực tuyến: Sự trỗi dậy của Isengard</a></i>:</b>
 
-<b>2012: <i><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Online: Các tay đua của Rohan</a></i>:</b>
+<b>2012: <i><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Trực tuyến: Các tay đua của Rohan</a></i>:</b>
 
 <b>2012: <i><a href="../../main/L/Lego.md" title="Lego">Lego The Lord of the Rings</a></i>:</b>
 

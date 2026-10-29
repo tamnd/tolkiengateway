@@ -246,7 +246,7 @@ sort_keys:
 [2010-06-27 20:50:39] &lt;Hyarion&gt; My only concern would be if half the editors are sysops, it makes the other half feel a little left out.<br/>
 [2010-06-27 20:50:49] &lt;Mithrennaith&gt; (4 = 2 + 2)<br/>
 [2010-06-27 20:50:59] &lt;Mith&gt; It seems a bit harsh to make people sysops and then take it away?<br/>
-[2010-06-27 20:51:02] &lt;KingAragorn&gt; I wouldn&#39;t see it that way, I don&#39;t want sysops<br/>
+[2010-06-27 20:51:02] &lt;KingAragorn&gt; I wouldn&#39;t see it  that way, I don&#39;t want sysops<br/>
 [2010-06-27 20:51:06] &lt;Mith&gt; (potentially take it away)<br/>
 [2010-06-27 20:51:24] &lt;Mith&gt; Well, how do we define editors?<br/>
 [2010-06-27 20:51:31] &lt;Mith&gt; We have 2,000 members (ish)<br/>
@@ -256,7 +256,7 @@ sort_keys:
 [2010-06-27 20:52:29] &lt;Mith&gt; That&#39;s very true<br/>
 [2010-06-27 20:52:34] &lt;KingAragorn&gt; in 2020 yeah<br/>
 [2010-06-27 20:52:44] &lt;Mith&gt; Cynicism again, KA?<br/>
-[2010-06-27 20:52:45] &lt;Mithrennaith&gt; And then we&#39;ll get spammed with film-fancruft ...<br/>
+[2010-06-27 20:52:45] &lt;Mithrennaith&gt; And then  we&#39;ll get spammed with film-fancruft ...<br/>
 [2010-06-27 20:52:56] &lt;Morgan2&gt; :-)<br/>
 [2010-06-27 20:53:05] &lt;KingAragorn&gt; with more sysops ops we can ban those people<br/>
 [2010-06-27 20:53:12] &lt;Mith&gt; OK<br/>
@@ -852,7 +852,7 @@ sort_keys:
 [2010-06-27 22:59:25] &lt;KingAragorn&gt; yeah it showed you as leaving here<br/>
 [2010-06-27 22:59:29] &lt;mithrennaith_1&gt; Where are we and what has been decided, since Morgan proposed MithBot?<br/>
 [2010-06-27 22:59:36] &lt;Morgan&gt; The same for RL years, in my opinion<br/>
-[2010-06-27 22:59:36] &lt;Morgan&gt; Hellooo<br/>
+[2010-06-27 22:59:36] &lt;Morgan&gt;  Hellooo<br/>
 [2010-06-27 22:59:37] &lt;Morgan&gt; We missed you ;-)<br/>
 [2010-06-27 22:59:50] &lt;mithrennaith_1&gt; I got no notice whatsoever that I&#39;d been disconnected.<br/>
 [2010-06-27 22:59:51] &lt;Sage&gt; namarie guys<br/>

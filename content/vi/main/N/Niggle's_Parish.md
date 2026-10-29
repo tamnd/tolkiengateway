@@ -15,14 +15,14 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Niggle%27s_Parish&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Niggle%27s_Parish&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tàu tới Giáo xứ Niggle trong vịnh.
+<p>Train for Niggle&#39;s Parish in the bay.
 </p>
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../P/Porter.md" title="Porter">Porter</a>, <i><a href="../L/Leaf_by_Niggle.md" title="Leaf by Niggle">Leaf by Niggle</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -31,4 +31,4 @@ images:
 
 ## Lịch sử {#History}
 
-Sau khi Niggle bị giam giữ tại [Bệnh xá Workhouse](../W/Workhouse_Infirmary.md), Giọng nói thứ hai coi khu vực của Niggle là địa điểm nghỉ dưỡng hoàn hảo và quyết định rằng họ sẽ gửi thêm người đến đó. The First Voice đề xuất rằng họ phải đặt tên cho khu vực. Tuy nhiên, Giọng nói thứ hai khẳng định rằng Porter đã giải quyết vấn đề này được một thời gian. Khi ông thông báo về chuyến tàu đến vịnh, Giọng nói thứ hai cho biết rằng một tin nhắn đã được gửi đến Niggle và ông Parish để xem họ nghĩ gì về cái tên này. Giọng nói thứ nhất ép Giọng nói thứ hai nói ra những gì họ nghĩ, và Giọng nói thứ hai nói rằng, "Cả hai đều cười. Cười—tiếng Dãy Núi vang lên cùng với nó!".
+Sau khi Niggle bị giam giữ tại [Bệnh xá Workhouse](../W/Workhouse_Infirmary.md), Giọng nói thứ hai coi khu vực của Niggle là địa điểm nghỉ dưỡng hoàn hảo và quyết định rằng họ sẽ gửi thêm người đến đó. The First Voice đề xuất rằng họ phải đặt tên cho khu vực. Tuy nhiên, Giọng nói thứ hai khẳng định rằng Porter đã giải quyết vấn đề này được một thời gian. Khi ông ta thông báo về chuyến tàu đến vịnh, Giọng nói thứ hai cho biết rằng một tin nhắn đã được gửi đến Niggle và ông Parish để xem họ nghĩ gì về cái tên này. Giọng nói thứ nhất ép Giọng nói thứ hai nói ra những gì họ nghĩ, và Giọng nói thứ hai nói rằng, "Cả hai đều cười. Cười—tiếng Dãy Núi vang lên cùng với nó!".

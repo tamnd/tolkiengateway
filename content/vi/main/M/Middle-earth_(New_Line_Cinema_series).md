@@ -23,7 +23,7 @@ infobox:
     value: "English"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/New_Line_Cinema_Middle-earth.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f4/New_Line_Cinema_Middle-earth.png/320px-New_Line_Cinema_Middle-earth.png" decoding="async" loading="lazy" width="320" height="41" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f4/New_Line_Cinema_Middle-earth.png/480px-New_Line_Cinema_Middle-earth.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f4/New_Line_Cinema_Middle-earth.png/640px-New_Line_Cinema_Middle-earth.png 2x" data-file-width="856" data-file-height="109"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a>, <a href="../K/Kenji_Kamiyama.md" title="Kenji Kamiyama">Kenji Kamiyama</a></td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a>, <a href="../S/Stephen_Gallagher.md" title="Stephen Gallagher">Stephen Gallagher</a></td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data"><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a><br/><a href="../W/WingNut_Films.md" title="WingNut Films">WingNut Films</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/New_Line_Cinema_Middle-earth.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f4/New_Line_Cinema_Middle-earth.png/320px-New_Line_Cinema_Middle-earth.png" decoding="async" loading="lazy" width="320" height="41" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f4/New_Line_Cinema_Middle-earth.png/480px-New_Line_Cinema_Middle-earth.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f4/New_Line_Cinema_Middle-earth.png/640px-New_Line_Cinema_Middle-earth.png 2x" data-file-width="856" data-file-height="109"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data"><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a>, <a href="../K/Kenji_Kamiyama.md" title="Kenji Kamiyama">Kenji Kamiyama</a></td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a>, <a href="../S/Stephen_Gallagher.md" title="Stephen Gallagher">Stephen Gallagher</a></td></tr><tr><th scope="row" class="tg-infobox-label">Studio</th><td class="tg-infobox-data"><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a><br/><a href="../W/WingNut_Films.md" title="WingNut Films">WingNut Films</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr></tbody></table>
 
 <i><b>Trung Địa</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, còn được gọi là <i><b>The Lord of the Rings</b></i> sau mục phổ biến nhất<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>, là một loạt phim chuyển thể do [New Line Cinema](../N/New_Line_Cinema.md) sản xuất, cũng như các phần liên quan liên quan. Bộ truyện ban đầu bắt đầu với *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(film_series).md>)*của [Peter Jackson](../P/Peter_Jackson.md), sau đó được mở rộng với *[The Hobbit](<../T/The_Hobbit_(film_series).md>)*. Một bộ phim hoạt hình do [Kenji Kamiyama](../K/Kenji_Kamiyama.md) đạo diễn, *[The War of the Rohirrim](../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md)*, đã được tiếp thị rõ ràng là thuộc cùng một bộ phim.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Một bộ phim khác, *[The Hunt for Gollum](../T/The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md)*, vẫn đang được sản xuất.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
@@ -35,11 +35,11 @@ Một số phiên bản chuyển thể trước đây của Trung Địa bao g�
 
 ## [The Lord of the Rings film trilogy](<../T/The_Lord_of_the_Rings_(film_series).md>) {#The_Lord_of_the_Rings_film_trilogy}
 
-Do tình hình quyền lợi phức tạp liên quan đến *The Hobbit*, Jackson đã kết thúc việc tiếp tục vào tháng 2 năm 1997 với The Lord of the Rings. Trong quá trình phát triển, dự án dao động giữa một bộ phim dài hai tiếng và nhiều nhất là ba bộ phim, trước khi chuyển sang New Line Cinema nơi nó được bật đèn xanh thành bộ ba phim, được phát hành hàng năm bắt đầu từ tháng 12 năm 2001. Bản mở rộng của bộ phim thứ ba và cuối cùng được phát hành vào năm 2004. Thành công về mặt thương mại và phê bình của những bộ phim đó đã mở đường cho những dự án trong tương lai.
+Do tình hình quyền lợi phức tạp liên quan đến *The Hobbit*, Jackson đã kết thúc việc tiếp tục vào tháng 2 năm 1997 với The Lord of the Rings. Trong quá trình phát triển, dự án dao động giữa một bộ phim dài hai tiếng và nhiều nhất là ba bộ phim, trước khi chuyển sang New Line Cinema nơi nó được bật đèn xanh thành bộ ba phim, được phát hành hàng năm bắt đầu từ tháng 12 năm 2001. Phiên bản mở rộng của bộ phim thứ ba và cuối cùng được phát hành vào năm 2004. Thành công về mặt thương mại và phê bình của những bộ phim đó đã mở đường cho những dự án trong tương lai.
 
 ## [The Hobbit film trilogy](<../T/The_Hobbit_(film_series).md>) {#The_Hobbit_film_trilogy}
 
-Quyền đối với *The Hobbit* được phân chia giữa [Saul Zaentz](../S/Saul_Zaentz.md) (người trước đây đã thuê *Lord of the Rings* quyền cho New Line) và [Metro Goldwyn Mayer](MGM.md). Tranh chấp quyền này và các tranh chấp khác tương tự như vậy đã làm trì hoãn quá trình phát triển *The Hobbit,* ban đầu đến năm 2008 với việc Jackson chọn Guillermo del Toro làm đạo diễn, sau đó đến năm 2011 khi del Toro rời đi do bị trì hoãn và Jackson, là nhà sản xuất của bộ phim, tiếp quản. Một lần nữa, dự án lại dao động giữa hai bộ phim, bộ phim thứ hai chủ yếu sẽ là cầu nối đến *The Lord of the Rings*, tới tối đa ba bộ phim dành riêng cho *The Hobbit*. Lựa chọn thứ hai này chỉ được quyết định trong giai đoạn kết thúc của quá trình quay, dẫn đến ba bộ phim được phát hành bắt đầu từ tháng 11 năm 2012. Bản mở rộng cuối cùng được phát hành vào tháng 11 năm 2015, đúng 20 năm sau khi Jackson lần đầu tiên xem xét ý tưởng này. Mặc dù không tương xứng với sự hoan nghênh của giới phê bình *The Lord of the Rings*, *The Hobbit* vẫn là một thành công đáng kể về mặt thương mại, mở ra cánh cửa cho các bộ phim trong tương lai.
+Quyền đối với *The Hobbit* được phân chia giữa [Saul Zaentz](../S/Saul_Zaentz.md) (người trước đây đã thuê *Lord of the Rings* quyền cho New Line) và [Metro Goldwyn Mayer](MGM.md). Tranh chấp quyền này và các tranh chấp khác tương tự như vậy đã làm trì hoãn quá trình phát triển *The Hobbit,* ban đầu đến năm 2008 với việc Jackson chọn Guillermo del Toro làm đạo diễn, sau đó đến năm 2011 khi del Toro rời đi do bị trì hoãn và Jackson, là nhà sản xuất của bộ phim, tiếp quản. Một lần nữa, dự án lại dao động giữa hai bộ phim, bộ phim thứ hai chủ yếu sẽ là cầu nối đến *The Lord of the Rings*, tới tối đa ba bộ phim dành riêng cho *The Hobbit*. Lựa chọn thứ hai này chỉ được quyết định trong giai đoạn kết thúc của quá trình quay, dẫn đến ba bộ phim được phát hành bắt đầu từ tháng 11 năm 2012. Phiên bản mở rộng cuối cùng được phát hành vào tháng 11 năm 2015, đúng 20 năm sau khi Jackson lần đầu tiên xem xét ý tưởng này. Mặc dù không tương xứng với sự hoan nghênh của giới phê bình *The Lord of the Rings*, *The Hobbit* vẫn là một thành công đáng kể về mặt thương mại, mở ra cánh cửa cho các bộ phim trong tương lai.
 
 ## [Cuộc chiến Rohirrim](../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md) {#The_War_of_the_Rohirrim}
 
@@ -71,9 +71,9 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 
 <table class="wikitable">
 <tbody><tr>
-<th>Số
+<th>Number
 </th>
-<th>Vai trò
+<th>Role
 </th>
 <th>The Lord of the Rings
 </th>
@@ -83,12 +83,12 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 </th>
 <th>The Hunt for Gollum
 </th>
-<th>Các dự án khác
+<th>Other projects
 </th></tr>
 <tr>
 <td>1a
 </td>
-<td>Đạo diễn
+<td>Director
 </td>
 <td>Peter Jackson
 </td>
@@ -109,7 +109,7 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 </td>
 <td>Andy Serkis
 </td>
-<td>Không áp dụng
+<td>N/A
 </td>
 <td>
 </td>
@@ -122,7 +122,7 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 </td>
 <td>Jackson, Fran Walsh, Philippa Boyens and Stephen Sinclair
 </td>
-<td>Jackson, Walsh, Boyens và Guillermo del Toro
+<td>Jackson, Walsh, Boyens and Guillermo del Toro
 </td>
 <td>Boyens, Jeffrey Addiss, Will Matthews, Phoebe Gittins, Arty Papageorgiou
 </td>
@@ -148,7 +148,7 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 <tr>
 <td>3b
 </td>
-<td>Nhà sản xuất điều hành
+<td>Executive producers
 </td>
 <td>Robert Shaye, Michael Lynne, Mark Ordesky
 </td>
@@ -169,7 +169,7 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 </td>
 <td>Andrew Lesnie
 </td>
-<td>Không áp dụng
+<td>N/A
 </td>
 <td>Robert Richardson
 </td>
@@ -178,28 +178,28 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 <tr>
 <td>5a
 </td>
-<td>Nhà thiết kế sản xuất
+<td>Production designer
 </td>
 <td>Grant Major
 </td>
 <td>Dan Hennah (cf. 5b)
 </td>
-<td>Không áp dụng
+<td>N/A
 </td>
 <td>Hennah
 </td>
-<td>Hennah cũng giám sát các công việc bổ sung trong và xung quanh Hobbiton
+<td>Hennah also supervised additional work in and around Hobbiton
 </td></tr>
 <tr>
 <td>5b
 </td>
-<td>Giám đốc nghệ thuật
+<td>Art director
 </td>
 <td>Dan Hennah, Simon Bright
 </td>
 <td>Simon Bright
 </td>
-<td>Không áp dụng
+<td>N/A
 </td>
 <td>
 </td>
@@ -214,16 +214,16 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 </td>
 <td>Ra Vincent
 </td>
-<td>Không áp dụng
+<td>N/A
 </td>
 <td>
 </td>
-<td>Ra Vincent đã sáng tác "Beyond the Door" trong Hobbiton
+<td>Ra Vincent worked on &#34;Beyond the Door&#34; in Hobbiton
 </td></tr>
 <tr>
 <td>5d
 </td>
-<td>Họa sĩ minh họa khái niệm
+<td>Concept illustrators
 </td>
 <td>Alan Lee and John Howe
 </td>
@@ -233,12 +233,12 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 </td>
 <td>Lee and Howe
 </td>
-<td>Howe cũng đã làm việc trên Những Chiếc Nhẫn Quyền Năng
+<td>Howe also worked on Rings of Power
 </td></tr>
 <tr>
 <td>6
 </td>
-<td>Biên tập viên
+<td>Editor
 </td>
 <td>Jaime Selkirk, Jabez Olssen
 </td>
@@ -263,12 +263,12 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 </td>
 <td>Mullane
 </td>
-<td>Mullane cũng giúp chọn diễn viên Những Chiếc Nhẫn Quyền Năng
+<td>Mullane also helped cast Rings of Power
 </td></tr>
 <tr>
 <td>7b
 </td>
-<td>Diễn viên (vai chính)
+<td>Cast (main roles)
 </td>
 <td>Elijah Wood, Sean Astin, Viggo Mortensen, Ian McKellen
 </td>
@@ -283,7 +283,7 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 <tr>
 <td>7c
 </td>
-<td>Diễn viên (vai phụ)
+<td>Cast (supporting roles)
 </td>
 <td>Miranda Otto, Christopher Lee, Andy Serkis, Orlando Bloom
 </td>
@@ -319,7 +319,7 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 </td>
 <td>Taylor, Ann Maskrey, Bob Buck
 </td>
-<td>Không áp dụng
+<td>N/A
 </td>
 <td>Taylor and Buck
 </td>
@@ -334,7 +334,7 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 </td>
 <td>Peter King
 </td>
-<td>Không áp dụng
+<td>N/A
 </td>
 <td>
 </td>
@@ -349,7 +349,7 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 </td>
 <td>Glen Boswell
 </td>
-<td>Không áp dụng
+<td>N/A
 </td>
 <td>
 </td>
@@ -358,7 +358,7 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 <tr>
 <td>12a
 </td>
-<td>Người giám sát hiệu ứng hình ảnh
+<td>Visual effects supervisor
 </td>
 <td>Jim Rygiel, Joseph Letteri
 </td>
@@ -388,7 +388,7 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 <tr>
 <td>13a
 </td>
-<td>Nhà soạn nhạc
+<td>Composer
 </td>
 <td>Howard Shore
 </td>
@@ -398,12 +398,12 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 </td>
 <td>
 </td>
-<td>Shore cũng sáng tác các tựa Những Chiếc Nhẫn Quyền Năng
+<td>Shore also composed the Rings of Power titles
 </td></tr>
 <tr>
 <td>13b
 </td>
-<td>Nguồn nhạc sĩ sáng tác
+<td>Source music composers
 </td>
 <td>David Long, Billy Boyd, Walsh
 </td>
@@ -413,27 +413,27 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 </td>
 <td>
 </td>
-<td>Long cũng sáng tác cho Những Chiếc Nhẫn Quyền Năng
+<td>Long also composed for Rings of Power
 </td></tr>
 <tr>
 <td>14a
 </td>
-<td>Âm thanh cài sẵn
+<td>On-set sound
 </td>
 <td>Chris Hiles
 </td>
 <td>Hiles, Tony Johnson
 </td>
-<td>Không áp dụng
+<td>N/A
 </td>
 <td>
 </td>
-<td>Johnson cũng có trên Những Chiếc Nhẫn Quyền Năng
+<td>Johnson also on Rings of Power
 </td></tr>
 <tr>
 <td>14b
 </td>
-<td>Thiết kế âm thanh
+<td>Sound design
 </td>
 <td>David Farmer and David Whitehead
 </td>
@@ -448,7 +448,7 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 <tr>
 <td>14c
 </td>
-<td>Trộn âm thanh
+<td>Sound mixing
 </td>
 <td>Michael Semanick, Michael Hedges, Christopher Boyes
 </td>

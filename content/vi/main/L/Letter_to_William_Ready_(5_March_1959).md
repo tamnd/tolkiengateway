@@ -23,7 +23,7 @@ Vào [5 tháng 3](../_/5_March.md) [1959](../_/1959.md), [J.R.R. Tolkien](../J/J
 ## Trích {#Excerpt}
 
 <blockquote class="tg-quote noexcerpt">
-<p>[Nhận được bản sao cuốn tiểu thuyết của Ready <i><a href="List_of_books_in_Tolkien&#39;s_library.md#The_Poor_Hater" title="List of books in Tolkien&#39;s library">The Poor Hater</a></i> ngay trước khi suy sụp, anh hy vọng] sẽ sớm lấy lại đủ sự tập trung để có thể đọc nó, cùng những thứ khác
+<p>[Having received a copy of Ready&#39;s novel <i><a href="List_of_books_in_Tolkien&#39;s_library.md#The_Poor_Hater" title="List of books in Tolkien&#39;s library">The Poor Hater</a></i> just before his collapse, he hopes] to recover sufficient concentration soon to be able to read it, among other things
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-CG_1-2" class="reference"><a href="#cite_note-CG-1">[1]</a></sup></cite></p>
 </blockquote>

@@ -20,7 +20,7 @@ categories:
 Phiên bản biên tập cuối cùng của lời cầu nguyện:
 
 <dl><dd><i>Alcar mi tarmenel na Erun ar mi cemen raine i hínin</i>.</dd>
-<dd>“Vinh danh Thiên Chúa trên trời, bình an dưới thế cho dân Người”.</dd></dl>
+<dd>&#34;Glory [be] to God in the Highest, and peace to His people on earth&#34;.</dd></dl>
 
 ## Xem thêm {#See_also}
 

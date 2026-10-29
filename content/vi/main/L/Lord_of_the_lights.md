@@ -17,13 +17,13 @@ images:
   - "Steamey_-_Feanor_with_Silmaril.jpg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--red"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/3/3f/CdxIconTableMergeCells.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Hợp nhất</div></div><div class="ext-floatingui-content">Trang này nên được hợp nhất với <b><a href="../F/Fëanor.md#Other_names" title="Fëanor">Fëanor#Tên khác</a></b>.<blockquote class="tg-quote noexcerpt">
-<p>Người ta không chỉ đơn giản tìm thấy một trích dẫn cho mẫu hợp nhất.
+<div class="t-maintenance metadata t-maintenance--red"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/3/3f/CdxIconTableMergeCells.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Merge</div></div><div class="ext-floatingui-content">This page should be merged with <b><a href="../F/Fëanor.md#Other_names" title="Fëanor">Fëanor#Other names</a></b>.<blockquote class="tg-quote noexcerpt">
+<p>One does not simply find a quote for the merge template.
 </p>
 <p class="tg-quote-footer"><cite><a href="../B/Boromir.md" title="Boromir">Boromir</a></cite></p>
 </blockquote></div></div>
 
-"**chúa tể ánh sáng**" là danh hiệu tự phong được [Fëanor](../F/Fëanor.md) sử dụng vào thời [Cuộc Di Tản của người Noldor](../E/Exile_of_the_Noldor.md).<sup id="cite_ref-Concerning_1-0" class="reference"><a href="#cite_note-Concerning-1">[1]</a></sup>
+"**chúa tể ánh sáng**" là danh hiệu tự phong được [Fëanor](../F/Fëanor.md) sử dụng vào thời [Chuyến bay của Noldor](../E/Exile_of_the_Noldor.md).<sup id="cite_ref-Concerning_1-0" class="reference"><a href="#cite_note-Concerning-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -31,9 +31,9 @@ images:
 
 [Silmaril](../S/Silmarils.md) được tạo ra bởi Fëanor, người thợ thủ công Tiên vĩ đại nhất và đứng đầu ở [Kỷ Đệ Nhất](../F/First_Age.md), ban đầu không có mục đích gì ngoài việc tạo ra vẻ đẹp. Vì Fëanor đã giam cầm trong chúng ánh sáng của [Hai Cây của Valinor](../T/Two_Trees_of_Valinor.md), thứ chiếu sáng [vùng đất đó](../V/Valinor.md), nên những viên ngọc này có giá trị cực kỳ đặc biệt, và Fëanor bị ám ảnh bởi tình yêu đối với các tác phẩm nghệ thuật của ông và canh giữ chúng một cách ghen tị, hiếm khi cho phép bất kỳ ai khác, có thể ngoại trừ [bảy người con trai của ông](../S/Sons_of_Fëanor.md), nhìn vào chúng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, khi [Morgoth](../M/Morgoth.md) âm mưu phá hủy Cây bằng cách đầu độc chúng bằng chất độc. sự trợ giúp của [Ungoliant](../U/Ungoliant.md),<sup id="cite_ref-Darkening_3-0" class="reference"><a href="#cite_note-Darkening-3">[3]</a></sup> ánh sáng không tì vết của họ giờ đây chỉ được bảo quản trong Silmaril mà Morgoth đã đánh cắp từ kho bạc của Fëanor.<sup id="cite_ref-Concerning_1-1" class="reference"><a href="#cite_note-Concerning-1">[1]</a></sup>
 
-Trong [Tối của Valinor](../D/Darkening_of_Valinor.md), khi Cây sắp chết, [Valar](../V/Valar.md) đã yêu cầu Fëanor giao nộp Silmaril và bẻ gãy chúng. Bằng ánh sáng thuần khiết mà chúng chứa đựng, Cây cối, như Valar đã nói, có thể được chữa lành trở lại. Tuy nhiên, Fëanor đã từ chối lời cầu nguyện của họ, và khi Valar ra lệnh cho anh từ bỏ những viên ngọc quý (vì ánh sáng mang lại vẻ đẹp và sự thiêng liêng cho chúng là của họ và chỉ được cho anh mượn), anh trở nên ngoan cố và nổi loạn, từ bỏ lòng trung thành với [Manwë](../M/Manwë.md) với tư cách là Vị Vua Cổ Xưa của [Arda](../A/Arda.md).<sup id="cite_ref-Concerning_1-2" class="reference"><a href="#cite_note-Concerning-1">[1]</a></sup><sup id="cite_ref-Darkening_3-1" class="reference"><a href="#cite_note-Darkening-3">[3]</a></sup>
+Trong [Tối của Valinor](../D/Darkening_of_Valinor.md), khi Cây sắp chết, [Valar](../V/Valar.md) đã yêu cầu Fëanor giao nộp Silmaril và bẻ gãy chúng. Bằng ánh sáng thuần khiết mà chúng chứa đựng, Cây cối, như Valar đã nói, có thể được chữa lành trở lại. Tuy nhiên, Fëanor đã từ chối lời cầu nguyện của họ, và khi Valar ra lệnh cho anh từ bỏ những viên ngọc quý (vì ánh sáng mang lại vẻ đẹp và sự thiêng liêng cho chúng là của họ và chỉ được cho anh mượn), anh trở nên ngoan cố và nổi loạn, từ bỏ lòng trung thành với [Manwë](../M/Manwë.md) với tư cách là Trưởng lão Vua của [Arda](../A/Arda.md).<sup id="cite_ref-Concerning_1-2" class="reference"><a href="#cite_note-Concerning-1">[1]</a></sup><sup id="cite_ref-Darkening_3-1" class="reference"><a href="#cite_note-Darkening-3">[3]</a></sup>
 
-Đối với Fëanor, Silmaril đã trở thành biểu tượng và công cụ quyền lực của ông, và do đó ông tự phong cho mình danh hiệu "chúa tể ánh sáng".<sup id="cite_ref-Concerning_1-3" class="reference"><a href="#cite_note-Concerning-1">[1]</a></sup>
+Đối với Fëanor, Silmaril đã trở thành biểu tượng và công cụ quyền lực của ông ta, và do đó ông ta tự phong cho mình danh hiệu "chúa tể ánh sáng".<sup id="cite_ref-Concerning_1-3" class="reference"><a href="#cite_note-Concerning-1">[1]</a></sup>
 
 <span></span>
 

@@ -42,7 +42,7 @@ Từ [Quenya](../Q/Quenya.md) cho "cáo" là <i><b>rusco</b></i>, pl. *rusqui*.<
 
 <b>1987: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i></b>
 
-<dl><dd>Cáo đỏ <a href="../C/Calenardhon.md" title="Calenardhon">Calenardhon</a> được nhắc đến như một loài có bộ lông thực sự màu đỏ, khiến chúng trở thành mục tiêu của những kẻ săn lông thú. Chúng thông minh hơn các loài cáo khác, hiếm khi vấp phải cái chết và khéo léo tránh bẫy và <a href="../M/Men.md" title="Men">Con Người</a>. Cáo đỏ có tầm nhìn màu sắc và là những tên trộm khôn ngoan, ăn trộm gà mái, <a href="../R/Rabbits.md" title="Rabbits">thỏ</a> và những đồ vật nhỏ, có màu sắc rực rỡ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
+<dl><dd>The Red Foxes of <a href="../C/Calenardhon.md" title="Calenardhon">Calenardhon</a> are mentioned as a species with truly red fur, which made them a target for fur hunters. They were smarter than other fox species, rarely stumbling into death and cunningly avoiding traps and <a href="../M/Men.md" title="Men">Men</a>. The Red Foxes had colour vision and were canny thieves, stealing hens, <a href="../R/Rabbits.md" title="Rabbits">rabbits</a> and small, brightly coloured objects.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
 <span></span>
 

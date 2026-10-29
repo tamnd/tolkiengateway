@@ -22,7 +22,7 @@ sort_keys:
   "People by name": "Barella, Cecilia"
 ---
 
-**Cecilia Barella** là thành viên của [Hội Tolkien Ý](../I/Italian_Tolkien_Society.md). Barella cũng là biên tập viên của *A Tolkien Webliography*, một blog cố gắng ghi lại các văn bản của Tolkien trên mạng. Tuy nhiên, tính đến tháng 7 năm 2010, công việc trên blog dường như đã bị bỏ dở (không có bản cập nhật nào kể từ tháng 1 năm 2008).
+**Cecilia Barella** là thành viên của [Hiệp hội Tolkien Ý](../I/Italian_Tolkien_Society.md). Barella cũng là biên tập viên của *A Tolkien Webliography*, một blog cố gắng ghi lại các văn bản của Tolkien trên mạng. Tuy nhiên, tính đến tháng 7 năm 2010, công việc trên blog dường như đã bị bỏ dở (không có bản cập nhật nào kể từ tháng 1 năm 2008).
 
 ## Thư mục {#Bibliography}
 

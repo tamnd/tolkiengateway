@@ -26,13 +26,13 @@ images:
 
 **Đồng xu bạc** là một [tiền tệ](../M/Money.md) được sử dụng trong [Bree](../B/Bree.md) tại thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
 
-Vào sáng [30 tháng Chín](../_/30_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> người ta phát hiện ra rằng tất cả ngựa con của [Frodo](../F/Frodo_Baggins.md), [Merry](../M/Meriadoc_Brandybuck.md), [Pippin](../P/Peregrin_Took.md) và [Sam](Samwise_Gamgee.md), cũng như mọi con ngựa khác được nhốt tại [ Prancing Pony](../T/The_Prancing_Pony.md) đã bị đánh cắp trong đêm. Cuối cùng [Bill the Pony](../B/Bill_the_Pony.md) đã được mua từ [Bill Ferny](../B/Bill_Ferny.md) với giá 12 xu bạc, được coi là ít nhất gấp ba lần giá trị của nó. [Barliman Butterbur](../B/Barliman_Butterbur.md) trả tiền cho con thú và còn tặng thêm Merry mười tám xu bạc để đền bù cho những con ngựa con mà cả nhóm đã mất. Việc mất ba mươi xu bạc là một đòn giáng khá nặng nề về mặt tài chính đối với người chủ quán trọ, mặc dù ông được cho là khá giả ở [Bree](../B/Bree.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào sáng [30 tháng Chín](../_/30_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> người ta phát hiện ra rằng tất cả ngựa con của [Frodo](../F/Frodo_Baggins.md), [Merry](../M/Meriadoc_Brandybuck.md), [Pippin](../P/Peregrin_Took.md) và [Sam](Samwise_Gamgee.md), cũng như mọi con ngựa khác được nhốt tại [ Prancing Pony](../T/The_Prancing_Pony.md) đã bị đánh cắp trong đêm. Cuối cùng [Bill the Pony](../B/Bill_the_Pony.md) đã được mua từ [Bill Ferny](../B/Bill_Ferny.md) với giá 12 xu bạc, được coi là ít nhất gấp ba lần giá trị của nó. [Barliman Butterbur](../B/Barliman_Butterbur.md) trả tiền cho con thú và còn tặng thêm Merry mười tám xu bạc để đền bù cho những con ngựa con mà cả nhóm đã mất. Việc mất ba mươi xu bạc là một đòn giáng khá nặng nề về mặt tài chính đối với người chủ quán trọ, mặc dù ông ta được cho là khá giả ở [Bree](../B/Bree.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 <b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
 
-<dl><dd>Đồng xu bạc được thu thập trên khắp các phiên bản PC và console và Bilbo có thể sử dụng chúng để mua vật phẩm giữa các cấp độ tại nhà cung cấp.</dd></dl>
+<dl><dd>Silver pennies are collected throughout the PC and console versions, and Bilbo can use them to purchase items between levels at the vendor.</dd></dl>
 
 <span></span>
 

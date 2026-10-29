@@ -23,9 +23,9 @@ Vào [5 tháng 8](../_/5_August.md) [1957](../_/1957.md), [J.R.R. Tolkien](../J/
 ## Trích {#Excerpt}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Làm việc quá sức liên tục kể từ năm 1951 đã bắt đầu ảnh hưởng đến tôi; và tôi cảm thấy khá kiệt sức. Gần đây tôi bị ốm; và tôi buộc phải hủy bỏ kế hoạch đi du lịch trong kỳ nghỉ này. […] Tuy nhiên, tôi hy vọng việc nghỉ phép sẽ giúp tôi giải quyết được một số điều đang quấy rối tôi trước mùa xuân tới; và bây giờ tôi đang lên kế hoạch sơ bộ về việc sử dụng thời gian và đang cố gắng ấn định một số ngày.
+<p>Continuous over-work since 1951 has begun to tell on me; and I am feeling rather exhausted. I have recently been ill; and I am obliged to cancel plans travel this vacation. [...] Leave of absence will, however, I hope, enable me to clear off before next spring some of the things that are now harassing me; and I am now making preliminary plans for the use of the time, and am trying to fix some dates.
 </p>
-<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, Kỷ Đệ Nhị thư gửi Jerome W. Archer (5 tháng 8 năm 1957)</cite></p>
+<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, Second letter to Jerome W. Archer (5 August 1957)</cite></p>
 </blockquote>
 
 <span></span>

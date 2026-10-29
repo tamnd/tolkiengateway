@@ -44,7 +44,7 @@ infobox:
     value: "Profile"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sean_Astin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/be/Sean_Astin.jpg/320px-Sean_Astin.jpg" decoding="async" loading="lazy" width="320" height="443" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/be/Sean_Astin.jpg/480px-Sean_Astin.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/be/Sean_Astin.jpg/640px-Sean_Astin.jpg 2x" data-file-width="936" data-file-height="1297"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sean Astin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh–mất</th><td class="tg-infobox-data"><a href="../_/25_February.md" title="25 February">25 February</a> <a href="../_/1971.md" title="1971">1971</a></td></tr><tr><th scope="row" class="tg-infobox-label">Do ... thủ vai</th><td class="tg-infobox-data"><a href="Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> trong:<br/><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0000276/" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sean_Astin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/be/Sean_Astin.jpg/320px-Sean_Astin.jpg" decoding="async" loading="lazy" width="320" height="443" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/be/Sean_Astin.jpg/480px-Sean_Astin.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/be/Sean_Astin.jpg/640px-Sean_Astin.jpg 2x" data-file-width="936" data-file-height="1297"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sean Astin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/25_February.md" title="25 February">25 February</a> <a href="../_/1971.md" title="1971">1971</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> in:<br/><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0000276/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
 **Sean Patrick Astin** (tên khai sinh [1971](../_/1971.md)) là một diễn viên điện ảnh người Mỹ từng đóng [Samwise Gamgee](Samwise_Gamgee.md) trong [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>) và một số trò chơi gắn liền với nhượng quyền thương mại.
 
@@ -80,19 +80,19 @@ Cha mẹ anh đều làm việc trong lĩnh vực điện ảnh: cha anh John As
 ## Trích dẫn {#Quotes}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tôi chỉ muốn cho phép bất cứ bản chất tốt đẹp nào trong tôi bộc lộ và thể hiện vai trò của Sam, bởi vì ông chính là như vậy: ông tốt bụng, trung thành, đứng đắn; Tôi nghĩ đó là chức năng của ông trong sách.
+<p>I just wanted to allow whatever essence of goodness there is within me to come forth and to inhabit the role of Sam, because that&#39;s what he is: he&#39;s goodness, loyalty, decency; that, I think, is his function in the books.
 </p>
 <p class="tg-quote-footer"><cite>Sean Astin, <i><a href="../T/The_Lord_of_the_Rings%253A_Official_Movie_Guide.md" title="The Lord of the Rings: Official Movie Guide">The Lord of the Rings: Official Movie Guide</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The Lord of the Rings thật sự rất thú vị. Tôi đã quay phim được khoảng một năm. Đó là một trong những điều thú vị nhất mà tôi từng làm...thật xúc động.
+<p>The Lord of the Rings was just so much enjoyment. It was over about the space of a year that I was filming. It&#39;s one of the most enjoyable things I&#39;ve ever done...so emotional.
 </p>
 <p class="tg-quote-footer"><cite>Sean Astin</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Sam là người bạn tốt nhất. Dù dày hay mỏng, anh luôn ở đó. Tôi thấy mình bị thu hút bởi phẩm chất đó trong vai diễn của mình, hướng tới ý tưởng về một người nghiêm túc, trung thành và tử tế.
+<p>Sam is the best kind of friend. Through thick or thin, he is always there. I found myself gravitating toward that quality in my portrayal, toward this idea of an earnest, loyal, decent fellow.
 </p>
 <p class="tg-quote-footer"><cite>Sean Astin, lordoftherings.net</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

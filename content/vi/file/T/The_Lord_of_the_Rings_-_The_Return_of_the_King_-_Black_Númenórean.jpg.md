@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Người Númenor Đen](../../main/B/Black_Númenóreans.md) trong *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Hình ảnh từ phần mở rộng *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)* *Mount Doom*
+[Đen Númenórean](../../main/B/Black_Númenóreans.md) trong *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Hình ảnh từ phần mở rộng *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)* *Mount Doom*
 
 ## Giấy phép {#Licensing}
 

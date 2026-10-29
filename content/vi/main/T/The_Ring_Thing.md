@@ -19,14 +19,14 @@ images:
   - "Material_icon_-_Construction.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>dọn dẹp</b> để phù hợp với <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn về chất lượng bài viết</a>.<blockquote class="tg-quote noexcerpt">
-<p>Tôi sẽ không coi đó là sự kết thúc cho đến khi chúng ta dọn dẹp được mớ hỗn độn này.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
+<p>I shan&#39;t call it the end, till we&#39;ve cleared up the mess.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
-<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
+<p>We have a long way to go, and there is time ahead for thought.
 </p>
 <p class="tg-quote-footer"><cite><a href="Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
@@ -35,13 +35,13 @@ images:
 
 ## Lô đồ {#Plot}
 
-Chúa tể Bóng tối Sauraus muốn thống trị cả thế giới. Để đạt được điều này, ông nấu một món Fondue khổng lồ ở Mount Chronos. Khi việc đó hoàn thành, ông dự định sẽ nướng cả thế giới bằng pho mát.
+Chúa tể Bóng tối Sauraus muốn thống trị cả thế giới. Để đạt được điều này, ông nấu một món Fondue khổng lồ ở Mount Chronos. Khi việc đó hoàn thành, ông ta dự định sẽ nướng cả thế giới bằng pho mát.
 
-Sauraus từng là một hiệp sĩ bình thường phát điên vì cả 7 Những Chiếc Nhẫn Quyền Năng đều đã được bán hết và ông chỉ được tặng một phiếu giảm giá.
+Sauraus từng là một hiệp sĩ bình thường phát điên vì cả 7 Những Chiếc Nhẫn Quyền Năng đều đã được bán hết và ông ta chỉ được tặng một phiếu giảm giá.
 
-Sauraus "rèn" chiếc nhẫn của riêng mình bằng cách cắt nó ra khỏi pho mát. Trong trận chiến với Sauraus, một nhân vật giống Isildur đã lấy chiếc nhẫn của ông. Tuy nhiên, nhân vật này không thể sử dụng chiếc nhẫn và nghiện ma túy. Đây là lúc Stinker - một tác phẩm nhại lại [Gollum](../G/Gollum.md) - xuất hiện. Ông đánh cắp chiếc nhẫn từ chủ nhân của nó và trốn thoát.
+Sauraus "rèn" chiếc nhẫn của riêng mình bằng cách cắt nó ra khỏi pho mát. Trong trận chiến với Sauraus, một nhân vật giống Isildur đã lấy chiếc nhẫn của ông ta. Tuy nhiên, nhân vật này không thể sử dụng chiếc nhẫn và nghiện ma túy. Đây là lúc Stinker - một tác phẩm nhại lại [Gollum](../G/Gollum.md) - xuất hiện. Ông ta đánh cắp chiếc nhẫn từ chủ nhân của nó và trốn thoát.
 
-Để ngăn chặn Sauraus, hiệp hội đã biết bắt đầu nhiệm vụ của mình. Người đứng đầu luôn là pháp sư Alm Gandy. Trong tiếng Đức *Alm* có nghĩa là một đồng cỏ nằm trên cao. Người cầm nhẫn là một cựu kế toán ngân hàng tên là Freddy nhưng trong suốt bộ phim được đồng nghiệp của ông gọi là Frido.
+Để ngăn chặn Sauraus, hiệp hội đã biết bắt đầu nhiệm vụ của mình. Người đứng đầu luôn là pháp sư Alm Gandy. Trong tiếng Đức *Alm* có nghĩa là một đồng cỏ nằm trên cao. Người cầm nhẫn là một cựu kế toán ngân hàng tên là Freddy nhưng trong suốt bộ phim được đồng nghiệp của ông ta gọi là Frido.
 
 ## Sản xuất {#Production}
 
@@ -55,7 +55,7 @@ Bộ phim được quay ở dãy Alps của Thụy Sĩ và có một số ngọn
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>phim của người hâm mộ liên quan đến <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>-related fan films</b>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2003</b>
@@ -70,7 +70,7 @@ Bộ phim được quay ở dãy Alps của Thụy Sĩ và có một số ngọn
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2005</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../A/Almost_There_And_Back_Again.md" title="Almost There And Back Again">Gần đến nơi rồi lại trở về</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../A/Almost_There_And_Back_Again.md" title="Almost There And Back Again">Almost There And Back Again</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2007</b>
@@ -85,7 +85,7 @@ Bộ phim được quay ở dãy Alps của Thụy Sĩ và có một số ngọn
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2011</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Đôi cánh trên Arda: Kỷ Đệ Nhất</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Wings Over Arda: The First Age</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2013</b>
@@ -95,7 +95,7 @@ Bộ phim được quay ở dãy Alps của Thụy Sĩ và có một số ngọn
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2014</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Con đường của Tolkien</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Tolkien&#39;s Road</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2015</b>
@@ -110,7 +110,7 @@ Bộ phim được quay ở dãy Alps của Thụy Sĩ và có một số ngọn
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2017</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">Cuộc vây hãm Angband</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">The Siege of Angband</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2018</b>
@@ -125,12 +125,12 @@ Bộ phim được quay ở dãy Alps của Thụy Sĩ và có một số ngọn
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2020</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../H/Horn_of_Gondor_(fan_film).md" title="Horn of Gondor (fan film)">Tù và Gondor</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../H/Horn_of_Gondor_(fan_film).md" title="Horn of Gondor (fan film)">Horn of Gondor</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2022</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Các trận chiến tại khúc cạn Isen</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Battles of the Fords of Isen</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2024</b>
@@ -140,10 +140,10 @@ Bộ phim được quay ở dãy Alps của Thụy Sĩ và có một số ngọn
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2025</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="The_Beacons.md" title="The Beacons">Các đài hiệu</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="The_Beacons.md" title="The Beacons">The Beacons</a></i>
 </td></tr>
 <tr>
-<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Không rõ</b>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Unknown</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="The_Legend_of_Gurthang.md" title="The Legend of Gurthang">Truyền thuyết về Gurthang</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="The_Legend_of_Gurthang.md" title="The Legend of Gurthang">The Legend of Gurthang</a></i>
 </td></tr></tbody></table>

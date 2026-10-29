@@ -30,8 +30,8 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Family&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Family&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
@@ -65,7 +65,7 @@ Dòng họ đã được xác minh của J. R. R. Tolkien bắt đầu bằng **
 ## Xem thêm {#See_also}
 
 - <a class="external text" href="http://lingwe.blogspot.com.br/2007/11/new-thoughts-on-etymology-of-tolkien.html" rel="noreferrer noopener" target="_blank">Từ nguyên của 'Tolkien'</a>
-- [Album Gia đình Tolkien](The_Tolkien_Family_Album.md)
+- [Album Tolkien Gia đình](The_Tolkien_Family_Album.md)
 - <a class="external text" href="http://www.hammondandscull.com/addenda/Tolkien%20family%20trees%20rev%200310.pdf" rel="noreferrer noopener" target="_blank">Tolkien Cây gia phả</a>
 - <a class="external text" href="http://www.elendilion.pl/wp-content/uploads/2018/03/TolkienAncestry.pdf" rel="noreferrer noopener" target="_blank">Về cội nguồn của J.R.R. Tolkien ở Gdańsk</a>, bởi [Ryszard Derdziński](../R/Ryszard_Derdziński.md)
 

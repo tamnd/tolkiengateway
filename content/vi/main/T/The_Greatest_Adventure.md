@@ -33,7 +33,7 @@ infobox:
     value: "In the Valley, Ha! Ha!"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/320px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg" decoding="async" loading="lazy" width="320" height="323" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/480px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg 1.5x, https://tolkiengateway.net/w/images/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg 2x" data-file-width="574" data-file-height="579"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Greatest Adventure</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data">&#39;<b><a href="The_Hobbit%253A_The_Complete_Original_Soundtrack.md" title="The Hobbit: The Complete Original Soundtrack">The Hobbit: The Complete Original Soundtrack</a>&#39;</b></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data"><a href="../M/Maury_Laws.md" title="Maury Laws">Maury Laws</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/Jules_Bass.md" title="Jules Bass">Jules Bass</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data"><a href="../G/Glenn_Yarbrough.md" title="Glenn Yarbrough">Glenn Yarbrough</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">2:11</td></tr><tr><th scope="row" class="tg-infobox-label">Số thứ tự bản nhạc</th><td class="tg-infobox-data">19</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Journey_Ends&amp;action=edit&amp;redlink=1" title="The Journey Ends (page does not exist)">The Journey Ends</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="../I/In_the_Valley,_Ha!_Ha!.md" title="In the Valley, Ha! Ha!">In the Valley, Ha! Ha!</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="youtube" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; autoplay" modestbranding="1" allowfullscreen="true" width="288" height="80" src="//www.youtube-nocookie.com/embed/2dQ5c5SIYnc"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/320px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg" decoding="async" loading="lazy" width="320" height="323" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/480px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg 1.5x, https://tolkiengateway.net/w/images/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg 2x" data-file-width="574" data-file-height="579"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Greatest Adventure</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data">&#39;<b><a href="The_Hobbit%253A_The_Complete_Original_Soundtrack.md" title="The Hobbit: The Complete Original Soundtrack">The Hobbit: The Complete Original Soundtrack</a>&#39;</b></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../M/Maury_Laws.md" title="Maury Laws">Maury Laws</a></td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data"><a href="../J/Jules_Bass.md" title="Jules Bass">Jules Bass</a></td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data"><a href="../G/Glenn_Yarbrough.md" title="Glenn Yarbrough">Glenn Yarbrough</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">2:11</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">19</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Journey_Ends&amp;action=edit&amp;redlink=1" title="The Journey Ends (page does not exist)">The Journey Ends</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="../I/In_the_Valley,_Ha!_Ha!.md" title="In the Valley, Ha! Ha!">In the Valley, Ha! Ha!</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="youtube" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; autoplay" modestbranding="1" allowfullscreen="true" width="288" height="80" src="//www.youtube-nocookie.com/embed/2dQ5c5SIYnc"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
@@ -42,27 +42,27 @@ infobox:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Cuộc phiêu lưu vĩ đại nhất là những gì đang ở phía trước.<br/>
-Hôm nay và ngày mai còn chưa nói.<br/>
-Những cơ hội, những thay đổi đều do bạn thực hiện.<br/>
-Cái khuôn của cuộc đời bạn nằm trong tay bạn để phá vỡ.<br/>
+<p>The greatest adventure is what lies ahead.<br/>
+Today and tomorrow are yet to be said.<br/>
+The chances, the changes are all yours to make.<br/>
+The mold of your life is in your hands to break.<br/>
 <br/>
-Cuộc phiêu lưu vĩ đại nhất sẽ đến nếu bạn dũng cảm.<br/>
-Hãy buông bỏ khoảnh khắc cuộc đời bắt bạn nắm giữ.<br/>
-Đo lường ý nghĩa có thể khiến bạn trì hoãn;<br/>
-Đã đến lúc bạn ngừng suy nghĩ và lãng phí thời gian.<br/>
+The greatest adventure is there if you&#39;re bold.<br/>
+Let go of the moment that life makes you hold.<br/>
+To measure the meaning can make you delay;<br/>
+It&#39;s time you stop thinkin&#39; and wasting the day.<br/>
 <br/>
-Người đàn ông mơ mộng và không bao giờ nghỉ phép<br/>
-Ai nghĩ đến một thế giới chỉ là tưởng tượng<br/>
-Sẽ không bao giờ biết đam mê, sẽ không bao giờ biết nỗi đau.<br/>
-Ai ngồi bên cửa sổ sẽ có ngày thấy mưa.<br/>
+The man who&#39;s a dreamer and never takes leave<br/>
+Who thinks of a world that is just make-believe<br/>
+Will never know passion, will never know pain.<br/>
+Who sits by the window will one day see rain.<br/>
 <br/>
-Cuộc phiêu lưu vĩ đại nhất là những gì đang ở phía trước.<br/>
-Hôm nay và ngày mai còn chưa nói.<br/>
-Những cơ hội, những thay đổi đều do bạn thực hiện.<br/>
-Cái khuôn của cuộc đời bạn nằm trong tay bạn để phá vỡ.<br/>
+The greatest adventure is what lies ahead.<br/>
+Today and tomorrow are yet to be said.<br/>
+The chances, the changes are all yours to make.<br/>
+The mold of your life is in your hands to break.<br/>
 <br/>
-Cuộc phiêu lưu vĩ đại nhất là những gì đang ở phía trước.
+The greatest adventure is what lies ahead.
 </p>
 </div>
 

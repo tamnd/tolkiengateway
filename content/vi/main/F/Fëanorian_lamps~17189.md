@@ -32,44 +32,44 @@ infobox:
     value: "Images of Fëanorian lamps"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Fëanorian</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Fëanorian_(disambiguation).md" title="Fëanorian (disambiguation)">Fëanorian (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Fëanorian</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Fëanorian_(disambiguation).md" title="Fëanorian (disambiguation)">Fëanorian (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Peter_Xavier_Price_-_Gelmir_with_the_Noldorin_Lamp.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2a/Peter_Xavier_Price_-_Gelmir_with_the_Noldorin_Lamp.jpg/320px-Peter_Xavier_Price_-_Gelmir_with_the_Noldorin_Lamp.jpg" decoding="async" loading="lazy" width="320" height="236" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2a/Peter_Xavier_Price_-_Gelmir_with_the_Noldorin_Lamp.jpg/480px-Peter_Xavier_Price_-_Gelmir_with_the_Noldorin_Lamp.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2a/Peter_Xavier_Price_-_Gelmir_with_the_Noldorin_Lamp.jpg/640px-Peter_Xavier_Price_-_Gelmir_with_the_Noldorin_Lamp.jpg 2x" data-file-width="1200" data-file-height="884"/></a><figcaption>&#34;Gelmir with the Noldorin Lamp&#34; by <a href="../P/Peter_Xavier_Price.md" title="Peter Xavier Price">Peter Xavier Price</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Object</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Đèn Fëanorian</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../V/Valinor.md" title="Valinor">Valinor</a>, sau <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></td></tr><tr><th scope="row" class="tg-infobox-label">Chủ sở hữu</th><td class="tg-infobox-data"><a href="../N/Noldor.md" title="Noldor">Noldor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngoại hình</th><td class="tg-infobox-data">Ngọn lửa màu xanh trong một tinh thể màu trắng</td></tr><tr><th scope="row" class="tg-infobox-label">Người sáng tạo</th><td class="tg-infobox-data"><a href="Fëanor.md" title="Fëanor">Fëanor</a> (nhà phát minh)</td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Fëanorian_lamps.md" title="Category:Images of Fëanorian lamps">Hình ảnh đèn Fëanorian</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Peter_Xavier_Price_-_Gelmir_with_the_Noldorin_Lamp.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2a/Peter_Xavier_Price_-_Gelmir_with_the_Noldorin_Lamp.jpg/320px-Peter_Xavier_Price_-_Gelmir_with_the_Noldorin_Lamp.jpg" decoding="async" loading="lazy" width="320" height="236" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2a/Peter_Xavier_Price_-_Gelmir_with_the_Noldorin_Lamp.jpg/480px-Peter_Xavier_Price_-_Gelmir_with_the_Noldorin_Lamp.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2a/Peter_Xavier_Price_-_Gelmir_with_the_Noldorin_Lamp.jpg/640px-Peter_Xavier_Price_-_Gelmir_with_the_Noldorin_Lamp.jpg 2x" data-file-width="1200" data-file-height="884"/></a><figcaption>&#34;Gelmir with the Noldorin Lamp&#34; by <a href="../P/Peter_Xavier_Price.md" title="Peter Xavier Price">Peter Xavier Price</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Object</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Fëanorian lamps</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../V/Valinor.md" title="Valinor">Valinor</a>, later <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Owner</th><td class="tg-infobox-data"><a href="../N/Noldor.md" title="Noldor">Noldor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Appearance</th><td class="tg-infobox-data">Blue flame in a white crystal</td></tr><tr><th scope="row" class="tg-infobox-label">Creator</th><td class="tg-infobox-data"><a href="Fëanor.md" title="Fëanor">Fëanor</a> (inventor)</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Fëanorian_lamps.md" title="Category:Images of Fëanorian lamps">Images of Fëanorian lamps</a></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>...chúng được làm từ cũ trong <a href="../V/Valinor.md" title="Valinor">Valinor</a>, và cả gió lẫn nước đều không thể dập tắt được chúng, và khi cởi mũ ra, chúng phát ra ánh sáng xanh trong từ ngọn lửa bị nhốt trong pha lê trắng.
+<p>...they were made of old in <a href="../V/Valinor.md" title="Valinor">Valinor</a>, and neither wind nor water could quench them, and when they were unhooded they sent forth a clear blue light from a flame imprisoned in white crystal.
 </p>
-<p class="tg-quote-footer"><cite><i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, <a class="mw-redirect" href="../O/Of_Tuor_and_his_coming_to_Gondolin~17192.md" title="Of Tuor and his coming to Gondolin">Của Tuor và việc anh sắp đến Gondolin</a></cite></p>
+<p class="tg-quote-footer"><cite><i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, <a class="mw-redirect" href="../O/Of_Tuor_and_his_coming_to_Gondolin~17192.md" title="Of Tuor and his coming to Gondolin">Of Tuor and his coming to Gondolin</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 **Đèn Fëanorian** là loại đèn phát ra ánh sáng xanh từ ngọn lửa bên trong tinh thể màu trắng. Chúng được mô tả là "những tinh thể được treo trong một mạng lưới dây chuyền tinh xảo, những tinh thể luôn tỏa sáng với ánh sáng xanh lam bên trong". Những chiếc đèn được tạo ra trong [Valinor](../V/Valinor.md) và ngọn lửa không thể bị dập tắt bởi gió hoặc nước. [Noldor](../N/Noldor.md) nổi tiếng với ngọn lửa, nhưng không may chiếc tàu đã bị mất cùng với chúng. [Gelmir](<../G/Gelmir_(messenger_of_Círdan).md>) sở hữu một trong những chiếc đèn này khi gặp [Tuor](../T/Tuor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Một số Noldor bị [Morgoth](../M/Morgoth.md) bắt và đưa vào làm việc trong hầm mỏ của hắn mang theo đèn Fëanorian. [Gwindor](../G/Gwindor.md) là một trong những Tiên tộc nô lệ này, và khi trốn thoát ông đã mang theo một trong những chiếc đèn này.<sup id="cite_ref-CH9_2-0" class="reference"><a href="#cite_note-CH9-2">[2]</a></sup>
+Một số Noldor bị [Morgoth](../M/Morgoth.md) bắt và đưa vào làm việc trong hầm mỏ của hắn mang theo đèn Fëanorian. [Gwindor](../G/Gwindor.md) là một trong những Tiên tộc nô lệ này, và khi trốn thoát ông ta đã mang theo một trong những chiếc đèn này.<sup id="cite_ref-CH9_2-0" class="reference"><a href="#cite_note-CH9-2">[2]</a></sup>
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Tuor,_Gelmir,_and_Arminas.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c6/Ted_Nasmith_-_Tuor%2C_Gelmir%2C_and_Arminas.jpg/190px-Ted_Nasmith_-_Tuor%2C_Gelmir%2C_and_Arminas.jpg" decoding="async" loading="lazy" width="190" height="254" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c6/Ted_Nasmith_-_Tuor%2C_Gelmir%2C_and_Arminas.jpg/285px-Ted_Nasmith_-_Tuor%2C_Gelmir%2C_and_Arminas.jpg 1.5x, https://tolkiengateway.net/w/images/c/c6/Ted_Nasmith_-_Tuor%2C_Gelmir%2C_and_Arminas.jpg 2x" data-file-width="336" data-file-height="450"/></a><figcaption>&#34;Tuor, Gelmir, and Arminas&#34; by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
-Trong [Kỷ Đệ Tam](../T/Third_Age.md), [Tiên tộc Lothlórien](../G/Galadhrim.md) sử dụng thiết bị tương tự: những chiếc đèn nhỏ phát ra chùm tia bạc mảnh.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Kỷ Đệ Tam](../T/Third_Age.md), [Tiên tộc của Lothlórien](../G/Galadhrim.md) sử dụng thiết bị tương tự: những chiếc đèn nhỏ phát ra chùm tia bạc mảnh.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Những chiếc đèn này đã là một phần của [huyền thoại](../L/Legendarium.md) ngay từ những giai đoạn đầu, nhưng [Christopher Tolkien](../C/Christopher_Tolkien.md) đã không đề cập đến chúng trong *[Silmarillion](../S/Silmarillion.md)* đã xuất bản. Ví dụ, trong một phiên bản của câu chuyện, [Túrin Turambar](../T/Túrin_Turambar.md) đã nhận ra khuôn mặt của [Beleg](../B/Beleg.md) người mà ông đã giết chết dưới ánh đèn của Gwindor;<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> tuy nhiên trong phiên bản có trong *Silmarillion*, chính tia sét đã làm lộ ra khuôn mặt của Beleg cho Túrin.<sup id="cite_ref-CH9_2-1" class="reference"><a href="#cite_note-CH9-2">[2]</a></sup>
+Những chiếc đèn này đã là một phần của [huyền thoại](../L/Legendarium.md) ngay từ những giai đoạn đầu, nhưng [Christopher Tolkien](../C/Christopher_Tolkien.md) đã không đề cập đến chúng trong *[Silmarillion](../S/Silmarillion.md)* đã xuất bản. Ví dụ, trong một phiên bản của câu chuyện, [Túrin Turambar](../T/Túrin_Turambar.md) đã nhận ra khuôn mặt của [Beleg](../B/Beleg.md) người mà ông ta đã giết chết dưới ánh đèn của Gwindor;<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> tuy nhiên trong phiên bản có trong *Silmarillion*, chính tia sét đã làm lộ ra khuôn mặt của Beleg cho Túrin.<sup id="cite_ref-CH9_2-1" class="reference"><a href="#cite_note-CH9-2">[2]</a></sup>
 
 Mô tả chi tiết về bản chất của những chiếc đèn được mô tả ở phần đầu *[Lay of the Children of Húrin](../L/Lay_of_the_Children_of_Húrin.md)*, khi Beleg tìm thấy Gwindor trong khu rừng [Taur-nu-Fuin](<../T/Taur-nu-Fuin_(Dorthonion).md>) sau khi nhìn thấy chiếc đèn của mình tỏa sáng từ xa:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Nhưng những chiếc đèn lồng nhỏ bằng pha lê trong suốt<br/>
-và lạnh lùng   với sự xảo quyệt tinh vi nhất<br/>
-chúng được tạo hình một cách kỳ lạ,   và giữ vững ngọn lửa<br/>
-cháy không chớp mắt   có màu xanh và nhợt nhạt,<br/>
-không thể dập tắt mãi mãi.   Chiếc máy đã thắp sáng chúng<br/>
-là   bí mật đáng ghen tị nhất của những người thợ làm đồ trang sức.<br/>
-Không phải sức mạnh của Morgoth,   cũng không phải sự hành hạ hay sự hành hạ<br/>
-họ đã thề, sẵn sàng   tiết lộ truyền thuyết đó;<br/>
-nhưng ánh sáng và đèn   rực rỡ sống động,<br/>
-nhiều điều và kỳ diệu,   họ đã làm cho ông.<br/>
-Không bóng tối nào có thể làm lu mờ họ   vùng sâu lang thang;<br/>
-mạch điện của họ   hiếm khi bị thất lạc<br/>
-trong hang động không có căn cứ,   hoặc các vịnh sâu bên dưới.
+<p>But little lanterns   of lucent crystal<br/>
+and silver cold   with subtlest cunning<br/>
+they strangely fashioned,   and steadfast a flame<br/>
+burnt unblinking   there blue and pale,<br/>
+unquenched for ever.   The craft that lit them<br/>
+was the jewel-makers&#39;   most jealous secret.<br/>
+Not Morgoth&#39;s might,   nor meed nor torment<br/>
+them vowed, availed   to reveal that lore;<br/>
+yet lights and lamps   of living radiance,<br/>
+many and magical,   they made for him.<br/>
+No dark could dim them   the deeps wandering;<br/>
+whose lode they lit   was lost seldom<br/>
+in groundless grot,   or gulfs far under.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">The Lay of the Children of Húrin</a></i>, II. Beleg, vv. 787-799</cite></p>
 </blockquote>

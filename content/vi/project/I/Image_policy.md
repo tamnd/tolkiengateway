@@ -30,7 +30,7 @@ Tolkien Gateway có một số quy ước đặt tên phải được tuân theo
     - [Tệp:Tim Kirk - Gandalf và Bilbo.jpg](../../file/T/Tim_Kirk_-_Gandalf_and_Bilbo.jpg.md)
 
 - **Đối với hình ảnh từ các tác phẩm chuyển thể** - phim, trò chơi điện tử, chương trình truyền hình, trò chơi bài, v.v. - định dạng luôn là *Tên của tác phẩm chuyển thể - Mô tả hình ảnh*. Tên của bản chuyển thể giống với cả tiêu đề được sử dụng cho bài viết Tolkien Gateway. Ví dụ bao gồm:
-    - [Tệp:The Hobbit (phim năm 1977) - Bifur.png](<../../file/T/The_Hobbit_(1977_film)_-_Bifur.png.md>)
+    - [Tệp:The Hobbit (phim 1977) - Bifur.png](<../../file/T/The_Hobbit_(1977_film)_-_Bifur.png.md>)
     - [Tệp:The Lord of the Rings - The Fellowship of the Ring - Tomb2.jpg của Balin](../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Balin's_Tomb2.jpg.md)
     - [Tập tin:Sinh ra từ hy vọng - Arathorn.jpg](../../file/B/Born_of_Hope_-_Arathorn.jpg.md)
     - [Tệp:The Những Chiếc Nhẫn Quyền Năng (phim truyền hình) - Hai Cây của Valinor.png](<../../file/T/The_Rings_of_Power_(TV_series)_-_Two_Trees_of_Valinor.png.md>)

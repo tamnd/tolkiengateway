@@ -13,7 +13,7 @@ categories:
   - "Mannish titles"
 ---
 
-**Vua Dale** là người cai trị cha truyền con nối của [Dale](<../D/Dale_(Kingdom).md>), sau khi được thành lập bởi [Bard](../B/Bard.md) vào năm [T.A.](../T/Third_Age.md) [2944](../T/Third_Age_2944.md), bản thân ông là hậu duệ của [Girion](../G/Girion.md), [Lãnh chúa cuối cùng của Dale](../L/Lord_of_Dale.md).<sup id="cite_ref-great_1-0" class="reference"><a href="#cite_note-great-1">[1]</a></sup>
+**Vua của Dale** là người cai trị cha truyền con nối của [Dale](<../D/Dale_(Kingdom).md>), sau khi được thành lập bởi [Bard](../B/Bard.md) vào năm [T.A.](../T/Third_Age.md) [2944](../T/Third_Age_2944.md), bản thân ông là hậu duệ của [Girion](../G/Girion.md), [Lãnh chúa cuối cùng của Dale](../L/Lord_of_Dale.md).<sup id="cite_ref-great_1-0" class="reference"><a href="#cite_note-great-1">[1]</a></sup>
 
 ## Danh sách các vị vua {#List_of_Kings}
 

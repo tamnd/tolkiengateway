@@ -21,21 +21,21 @@ categories:
 <br/>
 Ja, lattu gammin geysa<br/>
 fram i gegnum lifsins öldur;<br/>
-thật khó để làm điều đó<br/>
+þott upp þær stundum hefji hramm<br/>
 ei hræðstu þeirra gnöldur.<br/>
-Vì vậy, hãy chia sẻ nó với sự hợp nhất<br/>
-một chấn thương tâm lý sắp xảy ra,<br/>
-ef Skipið aðeins fer i ferð<br/>
-và vui vẻ và buồn nôn.<br/>
+Sja, hvilik brotnar baru mergð<br/>
+a byrðing einum traustum,<br/>
+ef skipið aðeins fer i ferð<br/>
+en funar ekki i naustum.<br/>
 <br/>
-Trời ơi, tôi muốn bạn đi<br/>
-bạn đang tìm cách giải quyết vấn đề,<br/>
+Og mundu, ðott i votri vör<br/>
+þu velkist fyrir sandi,<br/>
 að bylgjur þær, sem brjota knör,<br/>
 þær bera þo að landi,<br/>
-và Stormur þurkar segl i svip;<br/>
+og stormur þurkar segl i svip;<br/>
 þott setji um stund i bleyti,<br/>
-og - altaf ma fa annað Skip<br/>
-và tôi đã kiếm được tiền. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+og - altaf ma fa annað skip<br/>
+og annað föruneyti. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 </p>
 </div>
 

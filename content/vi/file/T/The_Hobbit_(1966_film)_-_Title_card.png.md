@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Hobbit (1967 film) - Title card.png"
 ---
 
-Chuyển hướng tới [Tệp:The Hobbit (phim năm 1967) - Title card.png](<The_Hobbit_(1967_film)_-_Title_card.png.md>).
+Chuyển hướng tới [Tệp:The Hobbit (phim 1967) - Title card.png](<The_Hobbit_(1967_film)_-_Title_card.png.md>).

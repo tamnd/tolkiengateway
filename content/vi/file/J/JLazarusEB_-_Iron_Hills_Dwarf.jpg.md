@@ -26,7 +26,7 @@ file:
 
 ## Mô tả {#Description}
 
-"Dãy Đồi Sắt Người Lùn", bởi JLazarusEB.
+"Dãy Đồi Sắt Người lùn", bởi JLazarusEB.
 
 ## Giấy phép {#Licensing}
 

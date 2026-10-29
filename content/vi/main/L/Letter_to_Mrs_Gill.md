@@ -29,7 +29,7 @@ Vào [21 tháng 2](../_/21_February.md) [1963](../_/1963.md), [J.R.R. Tolkien](.
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Kính gửi bà Gill,<br/><br/>Cảm ơn bà rất nhiều vì lá thư của bà. Tôi rất vui vì bạn đã tìm thấy niềm vui và sự động viên trong The Lord of the Rings,...Tôi rất ngạc nhiên khi biết rằng bạn đã phải đợi hai năm mới có được Tập. III...Tôi coi đây là một lời chứng thực hài lòng nhất.<br/><br/>Với những lời chúc tốt đẹp nhất, <br/><br/>Trân trọng,<br/><br/>J.R.R.Tolkien
+<p>Dear Mrs. Gill,<br/><br/>Thank you very much for your letter. I am so glad you have found pleasure and encouragement in The Lord of the Rings,...I was surprised to learn that you had to wait two years for Vol. III...I regard this as a most gratifying testimonial.<br/><br/>With best wishes, <br/><br/>Yours sincerely,<br/><br/>J.R.R.Tolkien
 </p>
 </blockquote>
 

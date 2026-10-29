@@ -27,7 +27,7 @@ Vương quốc được tách ra khỏi [Augustus Bonifacius](../A/Augustus_Boni
 
 Theo người dịch câu chuyện, *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*, ranh giới của Tiểu Vương quốc rất khó xác định từ những bằng chứng ít ỏi. Các sự kiện trong truyền thuyết dường như đã diễn ra ở thung lũng sông Thames, với chuyến du ngoạn về phía tây bắc đến các bức tường của xứ Wales. Vương quốc dường như chưa bao giờ vươn xa tới tận sông Thames vào Phương Tây, cũng như xa hơn Otmoor về phía Bắc, và biên giới phía đông của nó rất đáng ngờ. Thủ đô của nó rõ ràng nằm ở góc đông nam, mặc dù ranh giới của nó vẫn chưa được biết rõ.<sup id="cite_ref-fw_3-0" class="reference"><a href="#cite_note-fw-3">[2]</a></sup>
 
-Một truyền thuyết rời rạc chỉ ra rằng [Georgius](../G/Georgius.md), con trai của [Giles](../F/Farmer_Giles.md) và đồng đội của ông [Suovetaurilius](../S/Suovetaurilius.md) (Suet) có một tiền đồn chống lại [Vương quốc Trung tâm](../M/Middle_Kingdom.md) được duy trì tại [Farthingho](../F/Farthingho.md).<sup id="cite_ref-fw_3-1" class="reference"><a href="#cite_note-fw-3">[2]</a></sup>
+Một truyền thuyết rời rạc chỉ ra rằng [Georgius](../G/Georgius.md), con trai của [Giles](../F/Farmer_Giles.md) và đồng đội của ông ta [Suovetaurilius](../S/Suovetaurilius.md) (Suet) có một tiền đồn chống lại [Vương quốc Trung tâm](../M/Middle_Kingdom.md) được duy trì tại [Farthingho](../F/Farthingho.md).<sup id="cite_ref-fw_3-1" class="reference"><a href="#cite_note-fw-3">[2]</a></sup>
 
 ## Ghi chú {#Notes}
 

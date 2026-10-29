@@ -15,7 +15,7 @@ images:
   - "AllThatGlitters.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AllThatGlitters.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/58/AllThatGlitters.jpg/250px-AllThatGlitters.jpg" decoding="async" loading="lazy" width="250" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/58/AllThatGlitters.jpg/375px-AllThatGlitters.jpg 1.5x, https://tolkiengateway.net/w/images/5/58/AllThatGlitters.jpg 2x" data-file-width="450" data-file-height="450"/></a><figcaption>Tất cả những gì Glitters cover</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AllThatGlitters.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/58/AllThatGlitters.jpg/250px-AllThatGlitters.jpg" decoding="async" loading="lazy" width="250" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/58/AllThatGlitters.jpg/375px-AllThatGlitters.jpg 1.5x, https://tolkiengateway.net/w/images/5/58/AllThatGlitters.jpg 2x" data-file-width="450" data-file-height="450"/></a><figcaption>All that Glitters cover</figcaption></figure>
 
 <i><b>All that Glitters</b></i> là một EP hoặc mini-album của [Soundestiny](../S/Soundestiny.md) được phát hành vào năm 2009.
 

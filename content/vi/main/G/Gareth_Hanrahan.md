@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Gareth_Hanrahan"
 content_sha256: 9fc3363a49b04a6d592e19a71cc5cc9ccf97591380e7b9245088c050c389046c
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Tác giả cuốn Thế giới của Tolkien và nhiều sách nguồn về trò chơi nhập vai Nhẫn Chúa"
+short_description: "Author of Tolkien's World and various The One Ring role-playing game sourcebooks"
 categories:
   - "Irish people"
   - "Game designers"
@@ -23,7 +23,7 @@ infobox:
     value: "Game designer"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Gareth Ryder-Hanrahan</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/1978.md" title="1978">1978</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nhà thiết kế trò chơi</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Gareth Ryder-Hanrahan</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/1978.md" title="1978">1978</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Game designer</td></tr></tbody></table>
 
 **Gareth Hanrahan** (tên khai sinh là [1978](../_/1978.md)) là một nhà thiết kế trò chơi trên máy tính bảng người Ireland, người đã viết kịch bản cho cả hai phiên bản của [*The One Ring* trò chơi nhập vai](<../T/The_One_Ring_(role-playing_game).md>). Ngoài công việc về trò chơi nhập vai được cấp phép, ông còn viết cuốn sách *[Tolkien's World](<../T/Tolkien's_World_(by_Gareth_Hanrahan).md>)*.
 

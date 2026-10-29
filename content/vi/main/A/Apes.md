@@ -13,7 +13,7 @@ categories:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Một ngày nào đó bạn sẽ ước mình đã không nói điều đó. Vượn!
+<p>One day you&#39;ll wish that you had not said that. Ape!
 </p>
 <p class="tg-quote-footer"><cite><a href="../U/Uglúk.md" title="Uglúk">Uglúk</a><sup id="cite_ref-UH_1-0" class="reference"><a href="#cite_note-UH-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -26,7 +26,7 @@ categories:
 
 <b>1995: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../C/Creatures_of_Middle-earth_(2nd_edition).md" title="Creatures of Middle-earth (2nd edition)">Sinh vật của Trung Địa</a></i></b>
 
-<dl><dd>Khỉ xám được mô tả là sống trong các khu rừng ở Pel ở cực nam. Họ được gọi là <i>Cijuvu Niavi</i> theo ngôn ngữ của Pel và <i>Peredrûgwath</i> theo <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
+<dl><dd>Grey Apes are described as living in the forests of Pel in the far south. They&#39;re called <i>Cijuvu Niavi</i> in the tongue of Pel and <i>Peredrûgwath</i> in <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
 <span></span>
 

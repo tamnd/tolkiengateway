@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Green Dragon (soundtrack)"
 ---
 
-Chuyển hướng đến [The Rồng Xanh (nhạc phim)](<../T/The_Green_Dragon_(soundtrack).md>).
+Chuyển hướng đến [The Green Rồng (nhạc phim)](<../T/The_Green_Dragon_(soundtrack).md>).

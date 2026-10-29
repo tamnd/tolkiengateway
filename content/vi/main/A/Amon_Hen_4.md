@@ -33,13 +33,13 @@ infobox:
     value: "Amon Hen 5"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 4</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data">John Martin</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">Hội Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="April.md" title="April">April</a> <a href="../_/1973.md" title="1973">1973</a></td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">19</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Amon_Hen_3.md" title="Amon Hen 3">Amon Hen 3</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Amon_Hen_5.md" title="Amon Hen 5">Amon Hen 5</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 4</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">John Martin</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="April.md" title="April">April</a> <a href="../_/1973.md" title="1973">1973</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">19</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_3.md" title="Amon Hen 3">Amon Hen 3</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_5.md" title="Amon Hen 5">Amon Hen 5</a></td></tr></tbody></table>
 
 <b><i>Amon Hen</i> 4</b> là số thứ tư của [*Amon Hen* tạp chí](<Amon_Hen_(journal).md>) của [Hội Tolkien](../T/The_Tolkien_Society.md).
 
 ## Nội dung {#Contents}
 
-<dl><dd><i>Tất cả nội dung là của John Martin trừ khi có quy định khác.</i></dd></dl>
+<dl><dd><i>All content is by John Martin unless indicated otherwise.</i></dd></dl>
 
 - "Người đàn ông này có tình yêu lớn hơn; lý do biên tập"
 - Báo cáo về cuộc họp thường niên của Hội Tolkien (có thư của Joy Chant)

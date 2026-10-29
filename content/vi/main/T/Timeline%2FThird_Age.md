@@ -18,30 +18,30 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="Timeline.md" title="Timeline">Dòng thời gian</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Timeline.md" title="Timeline">Timeline</a></b></div></div>
 
 ## [Kỷ Đệ Tam](Third_Age.md) {#Third_Age}
 
 <table class="wikitable">
 <tbody><tr>
-<th><b><a href="Third_Age.md" title="Third Age">Kỷ Đệ Tam</a></b></th>
-<th><b>Sự kiện</b>
+<th><b><a href="Third_Age.md" title="Third Age">T.A.</a></b></th>
+<th><b>Event</b>
 </th></tr>
 <tr>
 <td><a href="Third_Age_1.md" title="Third Age 1">1</a></td>
-<td>Kỷ Đệ Tam bắt đầu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<td>The Third Age begins.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2.md" title="Third Age 2">2</a></td>
-<td><a href="../I/Isildur.md" title="Isildur">Isildur</a> trồng <a href="../W/White_Tree_of_Gondor.md#Second_White_Tree" title="White Tree of Gondor">Cây non</a> của <a href="../W/White_Tree_of_Gondor.md#First_White_Tree" title="White Tree of Gondor">Cây Trắng</a> ở <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Anor</a>.<br/><b>Cái chết của <a href="../I/Isildur.md" title="Isildur">Isildur</a> và các con trai <a href="../E/Elendur_(son_of_Isildur).md" title="Elendur (son of Isildur)">Elendur</a>, <a href="../A/Aratan.md" title="Aratan">Aratan</a> và <a href="../C/Ciryon.md" title="Ciryon">Ciryon</a> ở <a href="../D/Disaster_of_the_Gladden_Fields.md" title="Disaster of the Gladden Fields">Thảm họa Cánh đồng Gladden</a>. <a href="The_One_Ring.md" title="The One Ring"> Nhẫn Chúa</a> đã mất.</b> <a href="../M/Meneldil.md" title="Meneldil">Meneldil</a>, con trai của <a href="../A/Anárion.md" title="Anárion">Anárion</a>, trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ ba của <a href="../G/Gondor.md" title="Gondor">Gondor</a> và là người cai trị duy nhất đầu tiên của vương quốc.<sup id="cite_ref-TA_2-0" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../I/Isildur.md" title="Isildur">Isildur</a> plants a <a href="../W/White_Tree_of_Gondor.md#Second_White_Tree" title="White Tree of Gondor">Sapling</a> of the <a href="../W/White_Tree_of_Gondor.md#First_White_Tree" title="White Tree of Gondor">White Tree</a> in <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Anor</a>.<br/><b>Death of <a href="../I/Isildur.md" title="Isildur">Isildur</a> and his sons <a href="../E/Elendur_(son_of_Isildur).md" title="Elendur (son of Isildur)">Elendur</a>, <a href="../A/Aratan.md" title="Aratan">Aratan</a> and <a href="../C/Ciryon.md" title="Ciryon">Ciryon</a> in the <a href="../D/Disaster_of_the_Gladden_Fields.md" title="Disaster of the Gladden Fields">Disaster of the Gladden Fields</a>. <a href="The_One_Ring.md" title="The One Ring">The One Ring</a> is lost.</b> <a href="../M/Meneldil.md" title="Meneldil">Meneldil</a>, son of <a href="../A/Anárion.md" title="Anárion">Anárion</a>, becomes the third <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a> and the first sole ruler of the kingdom.<sup id="cite_ref-TA_2-0" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_3.md" title="Third Age 3">3</a></td>
-<td><a href="../O/Ohtar.md" title="Ohtar">Ohtar</a> mang <a class="mw-redirect" href="../S/Shards_of_Narsil.md" title="Shards of Narsil">Các mảnh Narsil</a> tới <a href="../R/Rivendell.md" title="Rivendell">Imladris</a>.<sup id="cite_ref-TA_2-1" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../O/Ohtar.md" title="Ohtar">Ohtar</a> brings the <a class="mw-redirect" href="../S/Shards_of_Narsil.md" title="Shards of Narsil">Shards of Narsil</a> to <a href="../R/Rivendell.md" title="Rivendell">Imladris</a>.<sup id="cite_ref-TA_2-1" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_10.md" title="Third Age 10">10</a></td>
-<td><a href="../V/Valandil_(King_of_Arnor).md" title="Valandil (King of Arnor)">Valandil</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">Vua</a> thứ ba của <a href="../A/Arnor.md" title="Arnor">Arnor</a>.<sup id="cite_ref-TA_2-2" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../V/Valandil_(King_of_Arnor).md" title="Valandil (King of Arnor)">Valandil</a> becomes the third <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">King</a> of <a href="../A/Arnor.md" title="Arnor">Arnor</a>.<sup id="cite_ref-TA_2-2" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_48.md" title="Third Age 48">48</a></td>
@@ -53,11 +53,11 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_109.md" title="Third Age 109">109</a></td>
-<td><b><a href="../E/Elrond.md" title="Elrond">Elrond</a> và <a href="../C/Celebrían.md" title="Celebrían">Celebrían</a> kết hôn.</b><sup id="cite_ref-TA_2-3" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><b><a href="../E/Elrond.md" title="Elrond">Elrond</a> and <a href="../C/Celebrían.md" title="Celebrían">Celebrían</a> wed.</b><sup id="cite_ref-TA_2-3" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_130.md" title="Third Age 130">130</a></td>
-<td>Sinh con <a class="mw-redirect" href="../E/Elladan.md" title="Elladan">Elladan</a> và <a class="mw-redirect" href="../E/Elrohir.md" title="Elrohir">Elrohir</a>, con trai sinh đôi của <a href="../E/Elrond.md" title="Elrond">Elrond</a> và <a href="../C/Celebrían.md" title="Celebrían">Celebrían</a>.<sup id="cite_ref-TA_2-4" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td>Birth of <a class="mw-redirect" href="../E/Elladan.md" title="Elladan">Elladan</a> and <a class="mw-redirect" href="../E/Elrohir.md" title="Elrohir">Elrohir</a>, twin sons of <a href="../E/Elrond.md" title="Elrond">Elrond</a> and <a href="../C/Celebrían.md" title="Celebrían">Celebrían</a>.<sup id="cite_ref-TA_2-4" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_136.md" title="Third Age 136">136</a></td>
@@ -65,7 +65,7 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_158.md" title="Third Age 158">158</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../M/Meneldil.md" title="Meneldil">Meneldil</a>. <a href="../C/Cemendur_(King_of_Gondor).md" title="Cemendur (King of Gondor)">Cemendur</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ tư của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-0" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../M/Meneldil.md" title="Meneldil">Meneldil</a>. <a href="../C/Cemendur_(King_of_Gondor).md" title="Cemendur (King of Gondor)">Cemendur</a> becomes the fourth <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-0" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_185.md" title="Third Age 185">185</a></td>
@@ -77,15 +77,15 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_238.md" title="Third Age 238">238</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../C/Cemendur_(King_of_Gondor).md" title="Cemendur (King of Gondor)">Cemendur</a>. <a href="../E/Eärendil_(King_of_Gondor).md" title="Eärendil (King of Gondor)">Eärendil</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ năm của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-1" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../C/Cemendur_(King_of_Gondor).md" title="Cemendur (King of Gondor)">Cemendur</a>. <a href="../E/Eärendil_(King_of_Gondor).md" title="Eärendil (King of Gondor)">Eärendil</a> becomes the fifth <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-1" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_241.md" title="Third Age 241">241</a></td>
-<td><b>Sự ra đời của <a href="../A/Arwen.md" title="Arwen">Arwen Undómiel</a>, con gái của <a href="../E/Elrond.md" title="Elrond">Elrond</a> và <a href="../C/Celebrían.md" title="Celebrían">Celebrían</a>.</b><sup id="cite_ref-TA_2-5" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><b>Birth of <a href="../A/Arwen.md" title="Arwen">Arwen Undómiel</a>, daughter of <a href="../E/Elrond.md" title="Elrond">Elrond</a> and <a href="../C/Celebrían.md" title="Celebrían">Celebrían</a>.</b><sup id="cite_ref-TA_2-5" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_249.md" title="Third Age 249">249</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">Vua</a> <a href="../V/Valandil_(King_of_Arnor).md" title="Valandil (King of Arnor)">Valandil</a>. <a href="../E/Eldacar_(King_of_Arnor).md" title="Eldacar (King of Arnor)">Eldacar</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">Vua</a> thứ tư của <a href="../A/Arnor.md" title="Arnor">Arnor</a>.<sup id="cite_ref-North_6-0" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">King</a> <a href="../V/Valandil_(King_of_Arnor).md" title="Valandil (King of Arnor)">Valandil</a>. <a href="../E/Eldacar_(King_of_Arnor).md" title="Eldacar (King of Arnor)">Eldacar</a> becomes the fourth <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">King</a> of <a href="../A/Arnor.md" title="Arnor">Arnor</a>.<sup id="cite_ref-North_6-0" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_280.md" title="Third Age 280">280</a></td>
@@ -93,15 +93,15 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_310.md" title="Third Age 310">310</a></td>
-<td>Sự ra đời của <a href="../R/Rómendacil_I.md" title="Rómendacil I">Tarostar</a> (sau <i>Rómendacil I</i>) của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-Southern_3-3" class="reference"><a href="#cite_note-Southern-3">[3]</a></sup>
+<td>Birth of <a href="../R/Rómendacil_I.md" title="Rómendacil I">Tarostar</a> (later <i>Rómendacil I</i>) of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-Southern_3-3" class="reference"><a href="#cite_note-Southern-3">[3]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_324.md" title="Third Age 324">324</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../E/Eärendil_(King_of_Gondor).md" title="Eärendil (King of Gondor)">Eärendil</a>. <a href="../A/Anardil_(King_of_Gondor).md" title="Anardil (King of Gondor)">Anardil</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ sáu của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-2" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../E/Eärendil_(King_of_Gondor).md" title="Eärendil (King of Gondor)">Eärendil</a>. <a href="../A/Anardil_(King_of_Gondor).md" title="Anardil (King of Gondor)">Anardil</a> becomes the sixth <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-2" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_339.md" title="Third Age 339">339</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">Vua</a> <a href="../E/Eldacar_(King_of_Arnor).md" title="Eldacar (King of Arnor)">Eldacar</a>. <a href="../A/Arantar.md" title="Arantar">Arantar</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">Vua</a> thứ năm của <a href="../A/Arnor.md" title="Arnor">Arnor</a>.<sup id="cite_ref-North_6-1" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">King</a> <a href="../E/Eldacar_(King_of_Arnor).md" title="Eldacar (King of Arnor)">Eldacar</a>. <a href="../A/Arantar.md" title="Arantar">Arantar</a> becomes the fifth <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">King</a> of <a href="../A/Arnor.md" title="Arnor">Arnor</a>.<sup id="cite_ref-North_6-1" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_372.md" title="Third Age 372">372</a></td>
@@ -113,15 +113,15 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_411.md" title="Third Age 411">411</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../A/Anardil_(King_of_Gondor).md" title="Anardil (King of Gondor)">Anardil</a>. <a href="../O/Ostoher.md" title="Ostoher">Ostoher</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ bảy của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-3" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../A/Anardil_(King_of_Gondor).md" title="Anardil (King of Gondor)">Anardil</a>. <a href="../O/Ostoher.md" title="Ostoher">Ostoher</a> becomes the seventh <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-3" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_420.md" title="Third Age 420">420</a></td>
-<td>Ostoher xây dựng lại <a class="mw-redirect" href="../M/Minas_Anor.md" title="Minas Anor">Minas Anor</a>.<sup id="cite_ref-TA_2-6" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td>Ostoher rebuilds <a class="mw-redirect" href="../M/Minas_Anor.md" title="Minas Anor">Minas Anor</a>.<sup id="cite_ref-TA_2-6" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_435.md" title="Third Age 435">435</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">Vua</a> <a href="../A/Arantar.md" title="Arantar">Arantar</a>. <a href="Tarcil.md" title="Tarcil">Tarcil</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">Vua</a> thứ sáu của <a href="../A/Arnor.md" title="Arnor">Arnor</a>.<sup id="cite_ref-North_6-2" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">King</a> <a href="../A/Arantar.md" title="Arantar">Arantar</a>. <a href="Tarcil.md" title="Tarcil">Tarcil</a> becomes the sixth <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">King</a> of <a href="../A/Arnor.md" title="Arnor">Arnor</a>.<sup id="cite_ref-North_6-2" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_462.md" title="Third Age 462">462</a></td>
@@ -133,23 +133,23 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_490.md" title="Third Age 490">490</a></td>
-<td>Cuộc xâm lược đầu tiên của <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a>.<sup id="cite_ref-TA_2-7" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td>First invasion of the <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a>.<sup id="cite_ref-TA_2-7" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_492.md" title="Third Age 492">492</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../O/Ostoher.md" title="Ostoher">Ostoher</a>. <a href="../R/Rómendacil_I.md" title="Rómendacil I">Tarostar</a> (<i>Rómendacil I</i>) trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ tám của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-4" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../O/Ostoher.md" title="Ostoher">Ostoher</a>. <a href="../R/Rómendacil_I.md" title="Rómendacil I">Tarostar</a> (<i>Rómendacil I</i>) becomes the eighth <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-4" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_500.md" title="Third Age 500">500</a></td>
-<td><a href="../R/Rómendacil_I.md" title="Rómendacil I">Tarostar</a> đánh bại Easterlings và lấy tên <i>Rómendacil I</i>, "phương Đông-victor", để minh chứng cho điều này.<sup id="cite_ref-TA_2-8" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../R/Rómendacil_I.md" title="Rómendacil I">Tarostar</a> defeats the Easterlings and takes the name <i>Rómendacil I</i>, &#34;East-victor&#34;, in token of this.<sup id="cite_ref-TA_2-8" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_515.md" title="Third Age 515">515</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">Vua</a> <a href="Tarcil.md" title="Tarcil">Tarcil</a>. <a href="Tarondor_(King_of_Arnor).md" title="Tarondor (King of Arnor)">Tarondor</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">Vua</a> thứ bảy của <a href="../A/Arnor.md" title="Arnor">Arnor</a>.<sup id="cite_ref-North_6-3" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">King</a> <a href="Tarcil.md" title="Tarcil">Tarcil</a>. <a href="Tarondor_(King_of_Arnor).md" title="Tarondor (King of Arnor)">Tarondor</a> becomes the seventh <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">King</a> of <a href="../A/Arnor.md" title="Arnor">Arnor</a>.<sup id="cite_ref-North_6-3" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_541.md" title="Third Age 541">541</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../R/Rómendacil_I.md" title="Rómendacil I">Rómendacil I</a>.<sup id="cite_ref-TA_2-9" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="Turambar_(King_of_Gondor).md" title="Turambar (King of Gondor)">Turambar</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ chín của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-5" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../R/Rómendacil_I.md" title="Rómendacil I">Rómendacil I</a>.<sup id="cite_ref-TA_2-9" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="Turambar_(King_of_Gondor).md" title="Turambar (King of Gondor)">Turambar</a> becomes the ninth <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-5" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_552.md" title="Third Age 552">552</a></td>
@@ -161,7 +161,7 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_602.md" title="Third Age 602">602</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">Vua</a> <a href="Tarondor_(King_of_Arnor).md" title="Tarondor (King of Arnor)">Tarondor</a>. <a href="../V/Valandur.md" title="Valandur">Valandur</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">Vua</a> thứ tám của <a href="../A/Arnor.md" title="Arnor">Arnor</a>.<sup id="cite_ref-North_6-4" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">King</a> <a href="Tarondor_(King_of_Arnor).md" title="Tarondor (King of Arnor)">Tarondor</a>. <a href="../V/Valandur.md" title="Valandur">Valandur</a> becomes the eighth <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">King</a> of <a href="../A/Arnor.md" title="Arnor">Arnor</a>.<sup id="cite_ref-North_6-4" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_640.md" title="Third Age 640">640</a></td>
@@ -169,7 +169,7 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_652.md" title="Third Age 652">652</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">Vua</a> <a href="../V/Valandur.md" title="Valandur">Valandur</a>. <a href="../E/Elendur_(King_of_Arnor).md" title="Elendur (King of Arnor)">Elendur</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">Vua</a> thứ chín của <a href="../A/Arnor.md" title="Arnor">Arnor</a>.<sup id="cite_ref-North_6-5" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">King</a> <a href="../V/Valandur.md" title="Valandur">Valandur</a>. <a href="../E/Elendur_(King_of_Arnor).md" title="Elendur (King of Arnor)">Elendur</a> becomes the ninth <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">King</a> of <a href="../A/Arnor.md" title="Arnor">Arnor</a>.<sup id="cite_ref-North_6-5" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_654.md" title="Third Age 654">654</a></td>
@@ -177,7 +177,7 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_667.md" title="Third Age 667">667</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="Turambar_(King_of_Gondor).md" title="Turambar (King of Gondor)">Turambar</a>. <a href="../A/Atanatar_I.md" title="Atanatar I">Atanatar I</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ mười của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-6" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="Turambar_(King_of_Gondor).md" title="Turambar (King of Gondor)">Turambar</a>. <a href="../A/Atanatar_I.md" title="Atanatar I">Atanatar I</a> becomes the tenth <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-6" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_726.md" title="Third Age 726">726</a></td>
@@ -189,11 +189,11 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_748.md" title="Third Age 748">748</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../A/Atanatar_I.md" title="Atanatar I">Atanatar I</a> <a href="../S/Siriondil_(King_of_Gondor).md" title="Siriondil (King of Gondor)">Siriondil</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ mười một của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-7" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../A/Atanatar_I.md" title="Atanatar I">Atanatar I</a> <a href="../S/Siriondil_(King_of_Gondor).md" title="Siriondil (King of Gondor)">Siriondil</a> becomes the eleventh <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-7" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_777.md" title="Third Age 777">777</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">Vua</a> <a href="../E/Elendur_(King_of_Arnor).md" title="Elendur (King of Arnor)">Elendur</a>. <a href="../E/Eärendur_(King_of_Arnor).md" title="Eärendur (King of Arnor)">Eärendur</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">Vua</a> thứ mười và cuối cùng của <a href="../A/Arnor.md" title="Arnor">Arnor</a>.<sup id="cite_ref-North_6-6" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">King</a> <a href="../E/Elendur_(King_of_Arnor).md" title="Elendur (King of Arnor)">Elendur</a>. <a href="../E/Eärendur_(King_of_Arnor).md" title="Eärendur (King of Arnor)">Eärendur</a> becomes the tenth and last <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">King</a> of <a href="../A/Arnor.md" title="Arnor">Arnor</a>.<sup id="cite_ref-North_6-6" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_811.md" title="Third Age 811">811</a></td>
@@ -205,11 +205,11 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_830.md" title="Third Age 830">830</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../S/Siriondil_(King_of_Gondor).md" title="Siriondil (King of Gondor)">Siriondil</a>. <a href="Tarannon_Falastur.md" title="Tarannon Falastur">Tarannon Falastur</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ mười hai của <a href="../G/Gondor.md" title="Gondor">Gondor</a>, bắt đầu dòng <a href="../S/Ship-kings.md" title="Ship-kings">Ship-kings</a>.<sup id="cite_ref-TA_2-10" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-South_5-8" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../S/Siriondil_(King_of_Gondor).md" title="Siriondil (King of Gondor)">Siriondil</a>. <a href="Tarannon_Falastur.md" title="Tarannon Falastur">Tarannon Falastur</a> becomes the twelfth <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>, beginning the line of <a href="../S/Ship-kings.md" title="Ship-kings">Ship-kings</a>.<sup id="cite_ref-TA_2-10" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-South_5-8" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_861.md" title="Third Age 861">861</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">Vua</a> <a href="../E/Eärendur_(King_of_Arnor).md" title="Eärendur (King of Arnor)">Eärendur (Vua của Arnor)</a> của <a href="../A/Arnor.md" title="Arnor">Arnor</a>. <b><a href="../A/Arnor.md#Decline_and_Breakup" title="Arnor">Chia Arnor</a> thành <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>, <a href="../R/Rhudaur.md" title="Rhudaur">Rhudaur</a> và <a href="../C/Cardolan.md" title="Cardolan">Cardolan</a>.</b><sup id="cite_ref-TA_2-11" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Con trai cả của <a href="../E/Eärendur_(King_of_Arnor).md" title="Eärendur (King of Arnor)">Eärendur</a>, <a href="../A/Amlaith.md" title="Amlaith">Amlaith</a> của <a class="mw-redirect" href="../F/Fornost.md" title="Fornost">Fornost</a>, trở thành <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> đầu tiên của <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-7" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Arnor.md" title="Kings of Arnor">King</a> <a href="../E/Eärendur_(King_of_Arnor).md" title="Eärendur (King of Arnor)">Eärendur (King of Arnor)</a> of <a href="../A/Arnor.md" title="Arnor">Arnor</a>. <b><a href="../A/Arnor.md#Decline_and_Breakup" title="Arnor">Division of Arnor</a> into <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>, <a href="../R/Rhudaur.md" title="Rhudaur">Rhudaur</a>, and <a href="../C/Cardolan.md" title="Cardolan">Cardolan</a>.</b><sup id="cite_ref-TA_2-11" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> <a href="../E/Eärendur_(King_of_Arnor).md" title="Eärendur (King of Arnor)">Eärendur</a>&#39;s eldest son, <a href="../A/Amlaith.md" title="Amlaith">Amlaith</a> of <a class="mw-redirect" href="../F/Fornost.md" title="Fornost">Fornost</a>, becomes the first <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> of <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-7" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_895.md" title="Third Age 895">895</a></td>
@@ -217,23 +217,23 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_899.md" title="Third Age 899">899</a></td>
-<td>Sự ra đời của <a href="../H/Hyarmendacil_I.md" title="Hyarmendacil I">Ciryaher</a> (sau <i>Hyarmedacil I</i>) của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-Southern_3-10" class="reference"><a href="#cite_note-Southern-3">[3]</a></sup>
+<td>Birth of <a href="../H/Hyarmendacil_I.md" title="Hyarmendacil I">Ciryaher</a> (later <i>Hyarmedacil I</i>) of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-Southern_3-10" class="reference"><a href="#cite_note-Southern-3">[3]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_913.md" title="Third Age 913">913</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="Tarannon_Falastur.md" title="Tarannon Falastur">Tarannon Falastur</a>. <a href="../E/Eärnil_I.md" title="Eärnil I">Eärnil Tôi</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ mười ba của <a href="../G/Gondor.md" title="Gondor">Gondor</a> và <a href="../S/Ship-kings.md" title="Ship-kings">Vua tàu thứ hai</a>.<sup id="cite_ref-South_5-9" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="Tarannon_Falastur.md" title="Tarannon Falastur">Tarannon Falastur</a>. <a href="../E/Eärnil_I.md" title="Eärnil I">Eärnil I</a> becomes the thirteenth <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a> and second <a href="../S/Ship-kings.md" title="Ship-kings">Ship-king</a>.<sup id="cite_ref-South_5-9" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_933.md" title="Third Age 933">933</a></td>
-<td><a href="../U/Umbar.md" title="Umbar">Umbar</a> bị thu giữ bởi <a href="../E/Eärnil_I.md" title="Eärnil I">Eärnil tôi</a>.<sup id="cite_ref-TA_2-12" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../U/Umbar.md" title="Umbar">Umbar</a> seized by <a href="../E/Eärnil_I.md" title="Eärnil I">Eärnil I</a>.<sup id="cite_ref-TA_2-12" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_936.md" title="Third Age 936">936</a></td>
-<td>Vụ chết đuối của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../E/Eärnil_I.md" title="Eärnil I">Eärnil I</a>.<sup id="cite_ref-TA_2-13" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../C/Ciryandil.md" title="Ciryandil">Ciryandil</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ mười bốn của <a href="../G/Gondor.md" title="Gondor">Gondor</a> và <a href="../S/Ship-kings.md" title="Ship-kings">Vua tàu</a> thứ ba.<sup id="cite_ref-South_5-10" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Drowning of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../E/Eärnil_I.md" title="Eärnil I">Eärnil I</a>.<sup id="cite_ref-TA_2-13" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../C/Ciryandil.md" title="Ciryandil">Ciryandil</a> becomes the fourteenth <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a> and third <a href="../S/Ship-kings.md" title="Ship-kings">Ship-king</a>.<sup id="cite_ref-South_5-10" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_946.md" title="Third Age 946">946</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> <a href="../A/Amlaith.md" title="Amlaith">Amlaith</a>. <a href="../B/Beleg_(King_of_Arthedain).md" title="Beleg (King of Arthedain)">Beleg</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> thứ hai của <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-8" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> <a href="../A/Amlaith.md" title="Amlaith">Amlaith</a>. <a href="../B/Beleg_(King_of_Arthedain).md" title="Beleg (King of Arthedain)">Beleg</a> becomes the second <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> of <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-8" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_977.md" title="Third Age 977">977</a></td>
@@ -245,15 +245,15 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_1000.md" title="Third Age 1000">1000</a></td>
-<td><b>Vào khoảng thời gian này, <a class="mw-redirect" href="../I/Istari.md" title="Istari">Istari</a> xuất hiện lần đầu trong <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a>.</b>
+<td><b>About this time the <a class="mw-redirect" href="../I/Istari.md" title="Istari">Istari</a> first appear in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>.</b>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1015.md" title="Third Age 1015">1015</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../C/Ciryandil.md" title="Ciryandil">Ciryandil</a>.<sup id="cite_ref-TA_2-14" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../H/Hyarmendacil_I.md" title="Hyarmendacil I">Ciryaher</a> (sau này <i>Hyarmendacil I</i>) trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ mười lăm của <a href="../G/Gondor.md" title="Gondor">Gondor</a> và là <a href="../S/Ship-kings.md" title="Ship-kings">vua tàu</a> cuối cùng của nó.<sup id="cite_ref-South_5-11" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../C/Ciryandil.md" title="Ciryandil">Ciryandil</a>.<sup id="cite_ref-TA_2-14" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../H/Hyarmendacil_I.md" title="Hyarmendacil I">Ciryaher</a> (later <i>Hyarmendacil I</i>) becomes the fifteenth <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a> and last of its <a href="../S/Ship-kings.md" title="Ship-kings">Ship-kings</a>.<sup id="cite_ref-South_5-11" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1029.md" title="Third Age 1029">1029</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> <a href="../B/Beleg_(King_of_Arthedain).md" title="Beleg (King of Arthedain)">Beleg</a>. <a href="../M/Mallor.md" title="Mallor">Mallor</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> thứ ba của <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-9" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> <a href="../B/Beleg_(King_of_Arthedain).md" title="Beleg (King of Arthedain)">Beleg</a>. <a href="../M/Mallor.md" title="Mallor">Mallor</a> becomes the third <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> of <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-9" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1049.md" title="Third Age 1049">1049</a></td>
@@ -261,7 +261,7 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_1050.md" title="Third Age 1050">1050</a></td>
-<td><a href="../H/Hyarmendacil_I.md" title="Hyarmendacil I">Ciryaher</a> chinh phục <a href="../H/Harad.md" title="Harad">Harad</a> và lấy tên <i>Hyarmendacil</i>, "Người chiến thắng miền Nam", để minh chứng cho điều này. <a href="../G/Gondor.md" title="Gondor">Gondor</a> đạt đến đỉnh cao quyền lực.<br/>Vào khoảng thời gian này, một cái bóng đổ xuống <a href="../M/Mirkwood.md" title="Mirkwood">Rừng Xanh</a> và đàn ông bắt đầu gọi nó là <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>.<br/> <a class="mw-redirect" href="../P/Periannath.md" title="Periannath">Periannath</a> lần đầu tiên được nhắc đến trong các ghi chép khi <a href="../H/Harfoots.md" title="Harfoots">Harfoots</a> đến <a href="../E/Eriador.md" title="Eriador">Eriador</a>.<sup id="cite_ref-TA_2-15" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../H/Hyarmendacil_I.md" title="Hyarmendacil I">Ciryaher</a> conquers <a href="../H/Harad.md" title="Harad">Harad</a> and takes the name <i>Hyarmendacil</i>, &#34;South-victor&#34;, in token of this. <a href="../G/Gondor.md" title="Gondor">Gondor</a> reaches the height of its power.<br/>About this time a shadow falls on <a href="../M/Mirkwood.md" title="Mirkwood">Greenwood</a>, and men begin to call it <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>.<br/>The <a class="mw-redirect" href="../P/Periannath.md" title="Periannath">Periannath</a> are first mentioned in records with the coming of the <a href="../H/Harfoots.md" title="Harfoots">Harfoots</a> to <a href="../E/Eriador.md" title="Eriador">Eriador</a>.<sup id="cite_ref-TA_2-15" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1058.md" title="Third Age 1058">1058</a></td>
@@ -273,15 +273,15 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_1100.md" title="Third Age 1100">1100</a></td>
-<td><a href="The_Wise.md" title="The Wise">The Wise</a> (the <a href="../W/Wizards.md" title="Wizards">Istari</a> và thủ lĩnh <a href="../E/Eldar.md" title="Eldar">Eldar</a>) phát hiện ra rằng một thế lực tà ác đã tạo nên thành trì tại <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>. Nó được cho là một trong những <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a>.<sup id="cite_ref-TA_2-16" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="The_Wise.md" title="The Wise">The Wise</a> (the <a href="../W/Wizards.md" title="Wizards">Istari</a> and chief <a href="../E/Eldar.md" title="Eldar">Eldar</a>) discover that an evil power has made a stronghold at <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>. It is thought to be one of the <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a>.<sup id="cite_ref-TA_2-16" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1110.md" title="Third Age 1110">1110</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> <a href="../M/Mallor.md" title="Mallor">Mallor</a>. <a href="../C/Celepharn.md" title="Celepharn">Celepharn</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> thứ tư của <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-10" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> <a href="../M/Mallor.md" title="Mallor">Mallor</a>. <a href="../C/Celepharn.md" title="Celepharn">Celepharn</a> becomes the fourth <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> of <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-10" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1126.md" title="Third Age 1126">1126</a></td>
-<td>Sự ra đời của <a href="../R/Rómendacil_II.md" title="Rómendacil II">Minalcar</a> (sau <i>Rómendacil II</i>) của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-Southern_3-14" class="reference"><a href="#cite_note-Southern-3">[3]</a></sup>
+<td>Birth of <a href="../R/Rómendacil_II.md" title="Rómendacil II">Minalcar</a> (later <i>Rómendacil II</i>) of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-Southern_3-14" class="reference"><a href="#cite_note-Southern-3">[3]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1144.md" title="Third Age 1144">1144</a></td>
@@ -289,15 +289,15 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_1149.md" title="Third Age 1149">1149</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../H/Hyarmendacil_I.md" title="Hyarmendacil I">Hyarmendacil I</a>. <a href="../A/Atanatar_II.md" title="Atanatar II">Atanatar II Alcarin</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ mười sáu của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-TA_2-17" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-South_5-12" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../H/Hyarmendacil_I.md" title="Hyarmendacil I">Hyarmendacil I</a>. <a href="../A/Atanatar_II.md" title="Atanatar II">Atanatar II Alcarin</a> becomes the sixteenth <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-TA_2-17" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-South_5-12" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1150.md" title="Third Age 1150">1150</a></td>
-<td>Vào lúc này, <a href="../F/Fallohides.md" title="Fallohides">Fallohides</a> nhập <a href="../E/Eriador.md" title="Eriador">Eriador</a>. <a href="../S/Stoors.md" title="Stoors">Stoors</a> đi qua <a href="../C/Caradhras.md#The_Redhorn_Gate" title="Caradhras">Đèo Redhorn</a> và di chuyển đến <a class="mw-redirect" href="../A/Angle_of_Eriador.md" title="Angle of Eriador">Angle</a> hoặc tới <a href="../D/Dunland.md" title="Dunland">Dunland</a>.<sup id="cite_ref-TA_2-18" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td>About this time, the <a href="../F/Fallohides.md" title="Fallohides">Fallohides</a> enter <a href="../E/Eriador.md" title="Eriador">Eriador</a>. The <a href="../S/Stoors.md" title="Stoors">Stoors</a> come over the <a href="../C/Caradhras.md#The_Redhorn_Gate" title="Caradhras">Redhorn Pass</a> and move either to the <a class="mw-redirect" href="../A/Angle_of_Eriador.md" title="Angle of Eriador">Angle</a> or to <a href="../D/Dunland.md" title="Dunland">Dunland</a>.<sup id="cite_ref-TA_2-18" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1191.md" title="Third Age 1191">1191</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> <a href="../C/Celepharn.md" title="Celepharn">Celepharn</a>. <a href="../C/Celebrindor.md" title="Celebrindor">Celebrindor</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> thứ năm của <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-11" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> <a href="../C/Celepharn.md" title="Celepharn">Celepharn</a>. <a href="../C/Celebrindor.md" title="Celebrindor">Celebrindor</a> becomes the fifth <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> of <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-11" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1194.md" title="Third Age 1194">1194</a></td>
@@ -305,7 +305,7 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_1226.md" title="Third Age 1226">1226</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../A/Atanatar_II.md" title="Atanatar II">Atanatar II Alcarin</a>. <a href="../N/Narmacil_I.md" title="Narmacil I">Narmacil I</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ mười bảy của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-13" class="reference"><a href="#cite_note-South-5">[5]</a></sup><br/>Sự ra đời của <a href="../A/Argeleb_I.md" title="Argeleb I">Argeleb I</a> của <a href="../A/Arnor.md" title="Arnor">Arnor</a>.<sup id="cite_ref-Northern_4-13" class="reference"><a href="#cite_note-Northern-4">[4]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../A/Atanatar_II.md" title="Atanatar II">Atanatar II Alcarin</a>. <a href="../N/Narmacil_I.md" title="Narmacil I">Narmacil I</a> becomes the seventeenth <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-13" class="reference"><a href="#cite_note-South-5">[5]</a></sup><br/>Birth of <a href="../A/Argeleb_I.md" title="Argeleb I">Argeleb I</a> of <a href="../A/Arnor.md" title="Arnor">Arnor</a>.<sup id="cite_ref-Northern_4-13" class="reference"><a href="#cite_note-Northern-4">[4]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1240.md" title="Third Age 1240">1240</a></td>
@@ -313,11 +313,11 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_1248.md" title="Third Age 1248">1248</a></td>
-<td><a class="mw-redirect" href="../M/Minalcar.md" title="Minalcar">Minalcar</a> đánh bại một đội quân lớn gồm <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a>. Ông lấy tên là <i><a href="../R/Rómendacil_II.md" title="Rómendacil II">Rómendacil</a></i>.<br/>Vào khoảng thời gian này, việc xây dựng trên <a href="../A/Argonath.md" title="Argonath">Argonath</a> bắt đầu.
+<td><a class="mw-redirect" href="../M/Minalcar.md" title="Minalcar">Minalcar</a> defeats a large army of <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a>. He takes the name <i><a href="../R/Rómendacil_II.md" title="Rómendacil II">Rómendacil</a></i>.<br/>About this time, construction on the <a href="../A/Argonath.md" title="Argonath">Argonath</a> begins.
 </td></tr>
 <tr>
 <td><a href="Third_Age_1250.md" title="Third Age 1250">1250</a></td>
-<td><a href="../R/Rómendacil_II.md" title="Rómendacil II">Minalcar</a> (<i>Rómendacil II</i>) cử con trai mình, <a href="../V/Valacar.md" title="Valacar">Valacar</a>, làm đại sứ cho <a href="../K/King_of_Rhovanion.md" title="King of Rhovanion">Vua</a> tự phong của <a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a>, <a href="../V/Vidugavia.md" title="Vidugavia">Vidugavia</a>, hoàng tử của <a href="../N/Northmen.md" title="Northmen">Người phương Bắc</a>, để hiểu rõ hơn về phong tục của họ.
+<td><a href="../R/Rómendacil_II.md" title="Rómendacil II">Minalcar</a> (<i>Rómendacil II</i>) sends his son, <a href="../V/Valacar.md" title="Valacar">Valacar</a>, as an ambassador to the self-styled <a href="../K/King_of_Rhovanion.md" title="King of Rhovanion">King</a> of  <a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a>, <a href="../V/Vidugavia.md" title="Vidugavia">Vidugavia</a>, prince of the <a href="../N/Northmen.md" title="Northmen">Northmen</a>, in order to better understand their customs.
 </td></tr>
 <tr>
 <td><a href="Third_Age_1255.md" title="Third Age 1255">1255</a></td>
@@ -329,23 +329,23 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_1260.md" title="Third Age 1260">1260</a></td>
-<td><a href="../V/Valacar.md" title="Valacar">Valacar</a> được <a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a>, bởi <a href="../R/Rómendacil_II.md" title="Rómendacil II">cha anh</a> gọi về để trở về <a href="../G/Gondor.md" title="Gondor">Gondor</a>.
+<td><a href="../V/Valacar.md" title="Valacar">Valacar</a> recalled from  <a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a>, by <a href="../R/Rómendacil_II.md" title="Rómendacil II">his father</a>, to return to <a href="../G/Gondor.md" title="Gondor">Gondor</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_1272.md" title="Third Age 1272">1272</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> <a href="../C/Celebrindor.md" title="Celebrindor">Celebrindor</a>. <a href="../M/Malvegil.md" title="Malvegil">Malvegil</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> thứ sáu của <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-12" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> <a href="../C/Celebrindor.md" title="Celebrindor">Celebrindor</a>. <a href="../M/Malvegil.md" title="Malvegil">Malvegil</a> becomes the sixth <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> of <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-12" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1294.md" title="Third Age 1294">1294</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../N/Narmacil_I.md" title="Narmacil I">Narmacil I</a>. <a href="../C/Calmacil_(King_of_Gondor).md" title="Calmacil (King of Gondor)">Calmacil</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ mười tám của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-14" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../N/Narmacil_I.md" title="Narmacil I">Narmacil I</a>. <a href="../C/Calmacil_(King_of_Gondor).md" title="Calmacil (King of Gondor)">Calmacil</a> becomes the eighteenth <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-14" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1300.md" title="Third Age 1300">1300</a></td>
-<td><a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> xuất hiện lại. <a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a> thành lập <a href="../A/Angmar.md" title="Angmar">Vương quốc Angmar</a>. Orc tăng <a href="../M/Misty_Mountains.md" title="Misty Mountains">Dãy Núi Sương Mù</a> và tấn công Người Lùn. Người <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> di chuyển về phía tây và một số định cư ở <a href="../B/Bree.md" title="Bree">Bree</a>.<sup id="cite_ref-TA_2-19" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td>The <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> reappear. The <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> founds the <a href="../A/Angmar.md" title="Angmar">Kingdom of Angmar</a>. Orcs increase in the <a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a> and attack the Dwarves. The <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> move westward and some settle in <a href="../B/Bree.md" title="Bree">Bree</a>.<sup id="cite_ref-TA_2-19" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1304.md" title="Third Age 1304">1304</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../C/Calmacil_(King_of_Gondor).md" title="Calmacil (King of Gondor)">Bình tĩnh</a>. <a href="../R/Rómendacil_II.md" title="Rómendacil II">Rómendacil II</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ mười chín của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-15" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../C/Calmacil_(King_of_Gondor).md" title="Calmacil (King of Gondor)">Calmacil</a>. <a href="../R/Rómendacil_II.md" title="Rómendacil II">Rómendacil II</a> becomes the nineteenth <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-15" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1309.md" title="Third Age 1309">1309</a></td>
@@ -357,23 +357,23 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_1332.md" title="Third Age 1332">1332</a></td>
-<td>Có thể cái chết của <a href="../V/Vidumavi.md" title="Vidumavi">Vidumavi</a> (<i>Galadwen</i>), vợ của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../V/Valacar.md" title="Valacar">Valacar</a> và mẹ của <a href="../E/Eldacar_(King_of_Gondor).md" title="Eldacar (King of Gondor)">Eldacar</a>.<sup id="cite_ref-Vidumavi_8-0" class="reference"><a href="#cite_note-Vidumavi-8">[note 1]</a></sup>
+<td>Possible death of <a href="../V/Vidumavi.md" title="Vidumavi">Vidumavi</a> (<i>Galadwen</i>), wife of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../V/Valacar.md" title="Valacar">Valacar</a> and mother of <a href="../E/Eldacar_(King_of_Gondor).md" title="Eldacar (King of Gondor)">Eldacar</a>.<sup id="cite_ref-Vidumavi_8-0" class="reference"><a href="#cite_note-Vidumavi-8">[note 1]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1344.md" title="Third Age 1344">1344</a></td>
-<td>Có thể cái chết của <a href="../V/Vidumavi.md" title="Vidumavi">Vidumavi</a> (<i>Galadwen</i>), vợ của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../V/Valacar.md" title="Valacar">Valacar</a> và mẹ của <a href="../E/Eldacar_(King_of_Gondor).md" title="Eldacar (King of Gondor)">Eldacar</a>.<sup id="cite_ref-Vidumavi_8-1" class="reference"><a href="#cite_note-Vidumavi-8">[note 1]</a></sup>
+<td>Possible death of <a href="../V/Vidumavi.md" title="Vidumavi">Vidumavi</a> (<i>Galadwen</i>), wife of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../V/Valacar.md" title="Valacar">Valacar</a> and mother of <a href="../E/Eldacar_(King_of_Gondor).md" title="Eldacar (King of Gondor)">Eldacar</a>.<sup id="cite_ref-Vidumavi_8-1" class="reference"><a href="#cite_note-Vidumavi-8">[note 1]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1349.md" title="Third Age 1349">1349</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> <a href="../M/Malvegil.md" title="Malvegil">Malvegil</a>. <a href="../A/Argeleb_I.md" title="Argeleb I">Argeleb I</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> thứ bảy của <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-13" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> <a href="../M/Malvegil.md" title="Malvegil">Malvegil</a>. <a href="../A/Argeleb_I.md" title="Argeleb I">Argeleb I</a> becomes the seventh <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> of <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-13" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1356.md" title="Third Age 1356">1356</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> <a href="../A/Argeleb_I.md" title="Argeleb I">Argeleb I</a>. <a href="../A/Arveleg_I.md" title="Arveleg I">Arveleg I</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> thứ tám của <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-14" class="reference"><a href="#cite_note-North-6">[6]</a></sup> Vào khoảng thời gian này, một số <a href="../S/Stoors.md" title="Stoors">Stoors</a> quay trở lại <a href="../G/Gladden_Fields.md" title="Gladden Fields">Gladden Fields</a>.<sup id="cite_ref-TA_2-20" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> <a href="../A/Argeleb_I.md" title="Argeleb I">Argeleb I</a>. <a href="../A/Arveleg_I.md" title="Arveleg I">Arveleg I</a> becomes the eighth <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> of <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-14" class="reference"><a href="#cite_note-North-6">[6]</a></sup> About this time, some <a href="../S/Stoors.md" title="Stoors">Stoors</a> return to the <a href="../G/Gladden_Fields.md" title="Gladden Fields">Gladden Fields</a>.<sup id="cite_ref-TA_2-20" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1366.md" title="Third Age 1366">1366</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../R/Rómendacil_II.md" title="Rómendacil II">Rómendacil II</a>. <a href="../V/Valacar.md" title="Valacar">Valacar</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ hai mươi của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-16" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../R/Rómendacil_II.md" title="Rómendacil II">Rómendacil II</a>. <a href="../V/Valacar.md" title="Valacar">Valacar</a> becomes the twentieth <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-16" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1391.md" title="Third Age 1391">1391</a></td>
@@ -381,23 +381,23 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_1409.md" title="Third Age 1409">1409</a></td>
-<td><a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a> của <a href="../A/Angmar.md" title="Angmar">Angmar</a> xâm chiếm <a href="../A/Arnor.md" title="Arnor">Arnor</a>, phá hủy <a class="mw-redirect" href="Tower_of_Amon_Sûl.md" title="Tower of Amon Sûl">Tháp</a> của <a href="../W/Weathertop.md" title="Weathertop">Amon Sûl</a>, chiếm đóng <a href="../R/Rhudaur.md" title="Rhudaur">Rhudaur</a> và tàn phá <a href="../C/Cardolan.md" title="Cardolan">Cardolan</a>, giết chết <a href="../L/Last_prince_of_Cardolan.md" title="Last prince of Cardolan">hoàng tử cuối cùng</a> của nó.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup> Cái chết của <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> <a href="../A/Arveleg_I.md" title="Arveleg I">Arveleg I</a>. <a href="../A/Araphor.md" title="Araphor">Araphor</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> thứ chín của <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-15" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>The <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> of <a href="../A/Angmar.md" title="Angmar">Angmar</a> invades <a href="../A/Arnor.md" title="Arnor">Arnor</a>, destroys the <a class="mw-redirect" href="Tower_of_Amon_Sûl.md" title="Tower of Amon Sûl">Tower</a> of <a href="../W/Weathertop.md" title="Weathertop">Amon Sûl</a>, occupies <a href="../R/Rhudaur.md" title="Rhudaur">Rhudaur</a> and ravages <a href="../C/Cardolan.md" title="Cardolan">Cardolan</a>, slaying its <a href="../L/Last_prince_of_Cardolan.md" title="Last prince of Cardolan">last prince</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup> Death of <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> <a href="../A/Arveleg_I.md" title="Arveleg I">Arveleg I</a>. <a href="../A/Araphor.md" title="Araphor">Araphor</a> becomes the ninth <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> of <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-15" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1432.md" title="Third Age 1432">1432</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../V/Valacar.md" title="Valacar">Valacar</a>. <a href="../E/Eldacar_(King_of_Gondor).md" title="Eldacar (King of Gondor)">Eldacar</a> (sinh <i>Vinitharya</i>) trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ 21 của <a href="../G/Gondor.md" title="Gondor">Gondor</a>. <b>Bắt đầu <a href="../K/Kin-strife~3650.md" title="Kin-strife">Xung đột họ hàng</a>.</b><sup id="cite_ref-TA_2-21" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-South_5-17" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../V/Valacar.md" title="Valacar">Valacar</a>. <a href="../E/Eldacar_(King_of_Gondor).md" title="Eldacar (King of Gondor)">Eldacar</a> (born <i>Vinitharya</i>) becomes the twenty-first <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>. <b>Start of the <a href="../K/Kin-strife~3650.md" title="Kin-strife">Kin-strife</a>.</b><sup id="cite_ref-TA_2-21" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-South_5-17" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1437.md" title="Third Age 1437">1437</a></td>
-<td><a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../E/Eldacar_(King_of_Gondor).md" title="Eldacar (King of Gondor)">Eldacar</a> bị phế truất. <a href="../C/Castamir.md" title="Castamir">Castamir "Kẻ tiếm quyền"</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ hai mươi hai của <a href="../G/Gondor.md" title="Gondor">Gondor</a>. <a class="mw-redirect" href="../O/Osgiliath-stone.md" title="Osgiliath-stone">Osgiliath-đá</a> bị thất lạc trong <a href="../A/Anduin.md" title="Anduin">Anduin</a>.<sup id="cite_ref-TA_2-22" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-South_5-18" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td><a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../E/Eldacar_(King_of_Gondor).md" title="Eldacar (King of Gondor)">Eldacar</a> deposed. <a href="../C/Castamir.md" title="Castamir">Castamir &#34;the Usurper&#34;</a> becomes the twenty-second <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>. The <a class="mw-redirect" href="../O/Osgiliath-stone.md" title="Osgiliath-stone">Osgiliath-stone</a> is lost in the <a href="../A/Anduin.md" title="Anduin">Anduin</a>.<sup id="cite_ref-TA_2-22" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-South_5-18" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1447.md" title="Third Age 1447">1447</a></td>
-<td><a href="../B/Battle_of_the_Crossings_of_Erui.md" title="Battle of the Crossings of Erui">Trận vượt biên Erui</a> và <a href="../S/Siege_of_Pelargir.md" title="Siege of Pelargir">Cuộc vây hãm Pelargir</a>. Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../C/Castamir.md" title="Castamir">Castamir</a>. <a href="../E/Eldacar_(King_of_Gondor).md" title="Eldacar (King of Gondor)">Eldacar</a> giành lại vương quyền của <a href="../G/Gondor.md" title="Gondor">Gondor</a> với sự giúp đỡ của Người phương Bắc và <a href="../D/Dúnedain.md" title="Dúnedain">Dúnedain</a> của Gondor. <b>Kết thúc <a class="mw-redirect" href="../K/Kin-Strife.md" title="Kin-Strife">Xung đột họ tộc</a>.</b><sup id="cite_ref-TA_2-23" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../B/Battle_of_the_Crossings_of_Erui.md" title="Battle of the Crossings of Erui">Battle of the Crossings of Erui</a> and the <a href="../S/Siege_of_Pelargir.md" title="Siege of Pelargir">Siege of Pelargir</a>. Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../C/Castamir.md" title="Castamir">Castamir</a>. <a href="../E/Eldacar_(King_of_Gondor).md" title="Eldacar (King of Gondor)">Eldacar</a> regains the kingship of <a href="../G/Gondor.md" title="Gondor">Gondor</a> with the help of the Northmen and <a href="../D/Dúnedain.md" title="Dúnedain">Dúnedain</a> of Gondor. <b>End of the <a class="mw-redirect" href="../K/Kin-Strife.md" title="Kin-Strife">Kin-Strife</a>.</b><sup id="cite_ref-TA_2-23" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1448.md" title="Third Age 1448">1448</a></td>
-<td>Phiến quân của những người con trai của <a href="../C/Castamir.md" title="Castamir">Castamir</a> thoát khỏi <a href="../S/Siege_of_Pelargir.md" title="Siege of Pelargir">Cuộc vây hãm Pelargir</a> và chiếm Cảng <a href="../U/Umbar.md" title="Umbar">Umbar</a>.<sup id="cite_ref-TA_2-24" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td>Rebels of the sons of <a href="../C/Castamir.md" title="Castamir">Castamir</a> escape the <a href="../S/Siege_of_Pelargir.md" title="Siege of Pelargir">Siege of Pelargir</a> and seize the Haven of <a href="../U/Umbar.md" title="Umbar">Umbar</a>.<sup id="cite_ref-TA_2-24" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1454.md" title="Third Age 1454">1454</a></td>
@@ -409,7 +409,7 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_1490.md" title="Third Age 1490">1490</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../E/Eldacar_(King_of_Gondor).md" title="Eldacar (King of Gondor)">Eldacar</a>. <a href="../A/Aldamir.md" title="Aldamir">Aldamir</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ hai mươi ba của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-19" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../E/Eldacar_(King_of_Gondor).md" title="Eldacar (King of Gondor)">Eldacar</a>. <a href="../A/Aldamir.md" title="Aldamir">Aldamir</a> becomes the twenty-third <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-19" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1516.md" title="Third Age 1516">1516</a></td>
@@ -417,11 +417,11 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_1540.md" title="Third Age 1540">1540</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../A/Aldamir.md" title="Aldamir">Aldamir</a>.<sup id="cite_ref-TA_2-25" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../H/Hyarmendacil_II.md" title="Hyarmendacil II">Vinyarion</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> thứ 24 của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-20" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../A/Aldamir.md" title="Aldamir">Aldamir</a>.<sup id="cite_ref-TA_2-25" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../H/Hyarmendacil_II.md" title="Hyarmendacil II">Vinyarion</a> becomes the twenty-fourth <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-20" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1551.md" title="Third Age 1551">1551</a></td>
-<td><a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../H/Hyarmendacil_II.md" title="Hyarmendacil II">Vinyarion</a> đánh bại <a href="../H/Haradrim.md" title="Haradrim">Haradrim</a> và lấy tên <i>Hyarmendacil II</i>.<sup id="cite_ref-TA_2-26" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../H/Hyarmendacil_II.md" title="Hyarmendacil II">Vinyarion</a> defeats the <a href="../H/Haradrim.md" title="Haradrim">Haradrim</a> and assumes name <i>Hyarmendacil II</i>.<sup id="cite_ref-TA_2-26" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1553.md" title="Third Age 1553">1553</a></td>
@@ -433,29 +433,29 @@ images:
 </td></tr>
 <tr>
 <td><a href="Third_Age_1589.md" title="Third Age 1589">1589</a></td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> <a href="../A/Araphor.md" title="Araphor">Araphor</a>. <a href="../A/Argeleb_II.md" title="Argeleb II">Argeleb II</a> trở thành <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> thứ mười của <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-16" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> <a href="../A/Araphor.md" title="Araphor">Araphor</a>. <a href="../A/Argeleb_II.md" title="Argeleb II">Argeleb II</a> becomes the tenth <a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> of <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a>.<sup id="cite_ref-North_6-16" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr></tbody></table>
 
 <table class="wikitable">
 <tbody><tr>
-<th><b><a href="Third_Age.md" title="Third Age">Kỷ Đệ Tam</a></b></th>
+<th><b><a href="Third_Age.md" title="Third Age">T.A.</a></b></th>
 <th><b><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a></b></th>
-<th><b>Sự kiện</b>
+<th><b>Event</b>
 </th></tr>
 <tr>
 <td><a href="Third_Age_1601.md" title="Third Age 1601">1601</a></td>
 <td>1</td>
-<td><b>Tạo <a href="The_Shire.md" title="The Shire"> Shire</a>.</b> Số năm trong <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">Shire Tính toán</a> bắt đầu từ năm 1.
+<td><b>Creation of <a href="The_Shire.md" title="The Shire">the Shire</a>.</b> The count of years in <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">Shire Reckoning</a> begins with year 1.
 </td></tr>
 <tr>
 <td><a href="Third_Age_1621.md" title="Third Age 1621">1621</a></td>
 <td>21</td>
-<td>Cái chết của <a href="../H/Hyarmendacil_II.md" title="Hyarmendacil II">Hyarmendacil II</a>. <a href="../M/Minardil.md" title="Minardil">Minardil</a> trở thành <a href="../K/King_of_Gondor.md" title="King of Gondor">Vua Gondor</a> thứ 25.<sup id="cite_ref-South_5-21" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a href="../H/Hyarmendacil_II.md" title="Hyarmendacil II">Hyarmendacil II</a>. <a href="../M/Minardil.md" title="Minardil">Minardil</a> becomes the twenty-fifth <a href="../K/King_of_Gondor.md" title="King of Gondor">King of Gondor</a>.<sup id="cite_ref-South_5-21" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1630.md" title="Third Age 1630">1630</a></td>
 <td>30</td>
-<td><a href="../S/Stoors.md" title="Stoors">Stoors</a> từ <a href="../D/Dunland.md" title="Dunland">Dunland</a> định cư ở <a href="The_Shire.md" title="The Shire"> Shire</a>.<sup id="cite_ref-TA_2-27" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../S/Stoors.md" title="Stoors">Stoors</a> from <a href="../D/Dunland.md" title="Dunland">Dunland</a> settle in <a href="The_Shire.md" title="The Shire">the Shire</a>.<sup id="cite_ref-TA_2-27" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1632.md" title="Third Age 1632">1632</a></td>
@@ -470,32 +470,32 @@ images:
 <tr>
 <td><a href="Third_Age_1634.md" title="Third Age 1634">1634</a></td>
 <td>34</td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../M/Minardil.md" title="Minardil">Minardil</a>.<sup id="cite_ref-TA_2-28" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="Telemnar.md" title="Telemnar">Telemnar</a> trở thành <a href="../K/King_of_Gondor.md" title="King of Gondor">Vua Gondor</a> thứ 26.<sup id="cite_ref-South_5-22" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../M/Minardil.md" title="Minardil">Minardil</a>.<sup id="cite_ref-TA_2-28" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="Telemnar.md" title="Telemnar">Telemnar</a> becomes the twenty-sixth <a href="../K/King_of_Gondor.md" title="King of Gondor">King of Gondor</a>.<sup id="cite_ref-South_5-22" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1635.md" title="Third Age 1635">1635</a></td>
 <td>35</td>
-<td>Cú <a href="../G/Great_Plague.md" title="Great Plague">Đại Dịch</a> chạm <a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a>.
+<td>The <a href="../G/Great_Plague.md" title="Great Plague">Great Plague</a> hits <a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_1636.md" title="Third Age 1636">1636</a></td>
 <td>36</td>
-<td><a href="../G/Great_Plague.md" title="Great Plague">Đại Dịch</a> lan sang <a href="../G/Gondor.md" title="Gondor">Gondor</a>. Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="Telemnar.md" title="Telemnar">Telemnar</a> và tất cả các con của ông.<sup id="cite_ref-TA_2-29" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../W/White_Tree_of_Gondor.md#Second_White_Tree" title="White Tree of Gondor">Cây Trắng</a> khô héo và chết. <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a> bị bỏ hoang. <a href="../B/Barrow-wights.md" title="Barrow-wights">Barrow-wight</a> cư trú <a href="../B/Barrow-downs.md" title="Barrow-downs">Tyrn Gorthad</a>. <a href="Tarondor_(King_of_Gondor).md" title="Tarondor (King of Gondor)">Tarondor</a> trở thành <a href="../K/King_of_Gondor.md" title="King of Gondor">Vua Gondor</a> thứ hai mươi bảy.<sup id="cite_ref-South_5-23" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>The <a href="../G/Great_Plague.md" title="Great Plague">Great Plague</a> spreads to <a href="../G/Gondor.md" title="Gondor">Gondor</a>. Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="Telemnar.md" title="Telemnar">Telemnar</a> and all his children.<sup id="cite_ref-TA_2-29" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> The <a href="../W/White_Tree_of_Gondor.md#Second_White_Tree" title="White Tree of Gondor">White Tree</a> withers and dies. <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a> is left in ruins. <a href="../B/Barrow-wights.md" title="Barrow-wights">Barrow-wights</a> inhabit <a href="../B/Barrow-downs.md" title="Barrow-downs">Tyrn Gorthad</a>. <a href="Tarondor_(King_of_Gondor).md" title="Tarondor (King of Gondor)">Tarondor</a> becomes the twenty-seventh <a href="../K/King_of_Gondor.md" title="King of Gondor">King of Gondor</a>.<sup id="cite_ref-South_5-23" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1637.md" title="Third Age 1637">1637</a></td>
 <td>37</td>
-<td><a href="../G/Great_Plague.md" title="Great Plague">Đại Dịch</a> chạm vào <a href="The_Shire.md" title="The Shire"> Shire</a>. <a class="mw-redirect" href="../P/Periannath.md" title="Periannath">Periannath</a> sống sót nhưng chịu tổn thất lớn.
+<td>The <a href="../G/Great_Plague.md" title="Great Plague">Great Plague</a> hits <a href="The_Shire.md" title="The Shire">the Shire</a>. The <a class="mw-redirect" href="../P/Periannath.md" title="Periannath">Periannath</a> survive, but suffer great loss.
 </td></tr>
 <tr>
 <td><a href="Third_Age_1640.md" title="Third Age 1640">1640</a></td>
 <td>40</td>
-<td>Vốn của Gondor chính thức được chuyển về <a class="mw-redirect" href="../M/Minas_Anor.md" title="Minas Anor">Minas Anor</a>. <a href="../M/Mordor.md" title="Mordor">Mordor</a> không được bảo vệ. <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="Tarondor_(King_of_Gondor).md" title="Tarondor (King of Gondor)">Tarondor</a> trồng <a href="../W/White_Tree_of_Gondor.md#Third_White_Tree" title="White Tree of Gondor">Cây giống Cây Trắng</a> ở <a class="mw-redirect" href="../M/Minas_Anor.md" title="Minas Anor">Minas Anor</a>.<sup id="cite_ref-TA_2-30" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td>The capital of Gondor is offically moved to <a class="mw-redirect" href="../M/Minas_Anor.md" title="Minas Anor">Minas Anor</a>. <a href="../M/Mordor.md" title="Mordor">Mordor</a> is left unguarded. <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="Tarondor_(King_of_Gondor).md" title="Tarondor (King of Gondor)">Tarondor</a> plants the <a href="../W/White_Tree_of_Gondor.md#Third_White_Tree" title="White Tree of Gondor">Seedling of the White Tree</a> in <a class="mw-redirect" href="../M/Minas_Anor.md" title="Minas Anor">Minas Anor</a>.<sup id="cite_ref-TA_2-30" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1670.md" title="Third Age 1670">1670</a></td>
 <td>70</td>
-<td>Cái chết của <a href="../A/Argeleb_II.md" title="Argeleb II">Argeleb II</a>. <a href="../A/Arvegil.md" title="Arvegil">Arvegil</a> trở thành <a href="../K/King_of_Arthedain.md" title="King of Arthedain">Vua của Arthedain</a>.<sup id="cite_ref-North_6-17" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a href="../A/Argeleb_II.md" title="Argeleb II">Argeleb II</a>. <a href="../A/Arvegil.md" title="Arvegil">Arvegil</a> becomes <a href="../K/King_of_Arthedain.md" title="King of Arthedain">King of Arthedain</a>.<sup id="cite_ref-North_6-17" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1684.md" title="Third Age 1684">1684</a></td>
@@ -520,7 +520,7 @@ images:
 <tr>
 <td><a href="Third_Age_1743.md" title="Third Age 1743">1743</a></td>
 <td>143</td>
-<td>Cái chết của <a href="../A/Arvegil.md" title="Arvegil">Arvegil</a>. <a href="../A/Arveleg_II.md" title="Arveleg II">Arveleg II</a> trở thành <a href="../K/King_of_Arthedain.md" title="King of Arthedain">Vua của Arthedain</a>.<sup id="cite_ref-North_6-18" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a href="../A/Arvegil.md" title="Arvegil">Arvegil</a>. <a href="../A/Arveleg_II.md" title="Arveleg II">Arveleg II</a> becomes <a href="../K/King_of_Arthedain.md" title="King of Arthedain">King of Arthedain</a>.<sup id="cite_ref-North_6-18" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1787.md" title="Third Age 1787">1787</a></td>
@@ -535,17 +535,17 @@ images:
 <tr>
 <td><a href="Third_Age_1798.md" title="Third Age 1798">1798</a></td>
 <td>198</td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="Tarondor_(King_of_Gondor).md" title="Tarondor (King of Gondor)">Tarondor</a>. <a href="Telumehtar_Umbardacil.md" title="Telumehtar Umbardacil">Telumehtar</a> trở thành <a href="../K/King_of_Gondor.md" title="King of Gondor">Vua Gondor</a> thứ hai mươi tám.<sup id="cite_ref-South_5-24" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="Tarondor_(King_of_Gondor).md" title="Tarondor (King of Gondor)">Tarondor</a>. <a href="Telumehtar_Umbardacil.md" title="Telumehtar Umbardacil">Telumehtar</a> becomes the twenty-eighth <a href="../K/King_of_Gondor.md" title="King of Gondor">King of Gondor</a>.<sup id="cite_ref-South_5-24" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1810.md" title="Third Age 1810">1810</a></td>
 <td>210</td>
-<td><a href="Telumehtar_Umbardacil.md" title="Telumehtar Umbardacil">Telumehtar</a> chinh phục <a href="../U/Umbar.md" title="Umbar">Nơi trú ẩn của Umbar</a> và lấy tên là Umbardacil.<sup id="cite_ref-TA_2-31" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="Telumehtar_Umbardacil.md" title="Telumehtar Umbardacil">Telumehtar</a> conquers the <a href="../U/Umbar.md" title="Umbar">Haven of Umbar</a> and takes the name Umbardacil.<sup id="cite_ref-TA_2-31" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1813.md" title="Third Age 1813">1813</a></td>
 <td>213</td>
-<td>Cái chết của <a href="../A/Arveleg_II.md" title="Arveleg II">Arveleg II</a>, <a href="../A/Araval.md" title="Araval">Araval</a> trở thành <a href="../K/King_of_Arthedain.md" title="King of Arthedain">Vua của Arthedain</a>.<sup id="cite_ref-North_6-19" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a href="../A/Arveleg_II.md" title="Arveleg II">Arveleg II</a>, <a href="../A/Araval.md" title="Araval">Araval</a> becomes <a href="../K/King_of_Arthedain.md" title="King of Arthedain">King of Arthedain</a>.<sup id="cite_ref-North_6-19" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1832.md" title="Third Age 1832">1832</a></td>
@@ -555,17 +555,17 @@ images:
 <tr>
 <td><a href="Third_Age_1850.md" title="Third Age 1850">1850</a></td>
 <td>250</td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a class="mw-redirect" href="Telumehtar.md" title="Telumehtar">Telumehtar</a>. <a href="../N/Narmacil_II.md" title="Narmacil II">Narmacil II</a> trở thành <a href="../K/King_of_Gondor.md" title="King of Gondor">Vua Gondor</a> thứ hai mươi chín.<sup id="cite_ref-South_5-25" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a class="mw-redirect" href="Telumehtar.md" title="Telumehtar">Telumehtar</a>. <a href="../N/Narmacil_II.md" title="Narmacil II">Narmacil II</a> becomes the twenty-ninth <a href="../K/King_of_Gondor.md" title="King of Gondor">King of Gondor</a>.<sup id="cite_ref-South_5-25" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1851.md" title="Third Age 1851">1851</a></td>
 <td>251</td>
-<td><a href="../A/Angmar.md" title="Angmar">Angmar</a> tạm thời bị đánh bại. <a href="../E/Easterlings.md" title="Easterlings">Phục sinh</a> tấn công <a href="../G/Gondor.md" title="Gondor">Gondor</a>.
+<td><a href="../A/Angmar.md" title="Angmar">Angmar</a> temporarily defeated. <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> attack <a href="../G/Gondor.md" title="Gondor">Gondor</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_1856.md" title="Third Age 1856">1856</a></td>
 <td>256</td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../N/Narmacil_II.md" title="Narmacil II">Narmacil II</a> và <a href="../M/Marhari.md" title="Marhari">Marhari</a> trong <a href="../B/Battle_of_the_Plains.md" title="Battle of the Plains">Trận chiến vùng đồng bằng</a>. Mất các tỉnh phía Đông <a href="../G/Gondor.md" title="Gondor">Gondor</a>. <a href="../C/Calimehtar_(King_of_Gondor).md" title="Calimehtar (King of Gondor)">Calimehtar</a> trở thành <a href="../K/King_of_Gondor.md" title="King of Gondor">Vua Gondor</a> thứ ba mươi.<sup id="cite_ref-South_5-26" class="reference"><a href="#cite_note-South-5">[5]</a></sup> <a href="../M/Marhwini.md" title="Marhwini">Marhwini</a> dẫn <a href="../N/Northmen.md" title="Northmen">Người phương Bắc</a> người tị nạn ra khỏi <a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a> đến <a href="../V/Vales_of_Anduin.md" title="Vales of Anduin">Thung lũng Anduin</a>, nơi họ trở thành <a href="../_/Éothéod.md" title="Éothéod">Éothéod</a>.
+<td>Deaths of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../N/Narmacil_II.md" title="Narmacil II">Narmacil II</a> and <a href="../M/Marhari.md" title="Marhari">Marhari</a> in the <a href="../B/Battle_of_the_Plains.md" title="Battle of the Plains">Battle of the Plains</a>. Loss of eastern provinces of <a href="../G/Gondor.md" title="Gondor">Gondor</a>. <a href="../C/Calimehtar_(King_of_Gondor).md" title="Calimehtar (King of Gondor)">Calimehtar</a> becomes the thirtieth <a href="../K/King_of_Gondor.md" title="King of Gondor">King of Gondor</a>.<sup id="cite_ref-South_5-26" class="reference"><a href="#cite_note-South-5">[5]</a></sup> <a href="../M/Marhwini.md" title="Marhwini">Marhwini</a> leads <a href="../N/Northmen.md" title="Northmen">Northmen</a> refugees out of  <a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a> to the <a href="../V/Vales_of_Anduin.md" title="Vales of Anduin">Vales of Anduin</a>, where they become the <a href="../_/Éothéod.md" title="Éothéod">Éothéod</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_1864.md" title="Third Age 1864">1864</a></td>
@@ -585,7 +585,7 @@ images:
 <tr>
 <td><a href="Third_Age_1891.md" title="Third Age 1891">1891</a></td>
 <td>291</td>
-<td>Cái chết của <a href="../A/Araval.md" title="Araval">Araval</a>. <a href="../A/Araphant.md" title="Araphant">Araphant</a> trở thành <a href="../K/King_of_Arnor.md" title="King of Arnor">Vua của Arnor</a>.
+<td>Death of <a href="../A/Araval.md" title="Araval">Araval</a>. <a href="../A/Araphant.md" title="Araphant">Araphant</a> becomes <a href="../K/King_of_Arnor.md" title="King of Arnor">King of Arnor</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_1896.md" title="Third Age 1896">1896</a></td>
@@ -595,12 +595,12 @@ images:
 <tr>
 <td><a href="Third_Age_1899.md" title="Third Age 1899">1899</a></td>
 <td>299</td>
-<td>Hòa bình trên mặt trận phía đông của <a href="../G/Gondor.md" title="Gondor">Gondor</a> khi <a href="../E/Easterlings.md" title="Easterlings">Người phương Đông</a> bị đánh bại.<sup id="cite_ref-TA_2-32" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td>Peace on <a href="../G/Gondor.md" title="Gondor">Gondor</a>&#39;s eastern front as the <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> are defeated.<sup id="cite_ref-TA_2-32" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1900.md" title="Third Age 1900">1900</a></td>
 <td>300</td>
-<td><a href="../C/Calimehtar_(King_of_Gondor).md" title="Calimehtar (King of Gondor)">Calimehtar</a> xây dựng <a href="Tower_of_Ecthelion.md" title="Tower of Ecthelion">Tháp Trắng</a> ở <a class="mw-redirect" href="../M/Minas_Anor.md" title="Minas Anor">Minas Anor</a>.<sup id="cite_ref-TA_2-33" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../C/Calimehtar_(King_of_Gondor).md" title="Calimehtar (King of Gondor)">Calimehtar</a> builds the <a href="Tower_of_Ecthelion.md" title="Tower of Ecthelion">White Tower</a> in <a class="mw-redirect" href="../M/Minas_Anor.md" title="Minas Anor">Minas Anor</a>.<sup id="cite_ref-TA_2-33" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1919.md" title="Third Age 1919">1919</a></td>
@@ -620,27 +620,27 @@ images:
 <tr>
 <td><a href="Third_Age_1936.md" title="Third Age 1936">1936</a></td>
 <td>336</td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../C/Calimehtar_(King_of_Gondor).md" title="Calimehtar (King of Gondor)">Calimehtar</a>. <a href="../O/Ondoher.md" title="Ondoher">Ondoher</a> trở thành <a href="../K/King_of_Gondor.md" title="King of Gondor">Vua Gondor</a> thứ ba mươi mốt.<sup id="cite_ref-South_5-27" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../C/Calimehtar_(King_of_Gondor).md" title="Calimehtar (King of Gondor)">Calimehtar</a>. <a href="../O/Ondoher.md" title="Ondoher">Ondoher</a> becomes the thirty-first <a href="../K/King_of_Gondor.md" title="King of Gondor">King of Gondor</a>.<sup id="cite_ref-South_5-27" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1938.md" title="Third Age 1938">1938</a></td>
 <td>338</td>
-<td>Sự ra đời của <a href="../A/Aranarth.md" title="Aranarth">Aranarth</a>.<sup id="cite_ref-Northern_4-22" class="reference"><a href="#cite_note-Northern-4">[4]</a></sup> <a href="../V/Vorondil.md" title="Vorondil">Vorondil</a> tạo ra <a class="mw-redirect" href="../H/Horn_of_Araw.md" title="Horn of Araw">Sừng của Araw</a>.
+<td>Birth of <a href="../A/Aranarth.md" title="Aranarth">Aranarth</a>.<sup id="cite_ref-Northern_4-22" class="reference"><a href="#cite_note-Northern-4">[4]</a></sup> <a href="../V/Vorondil.md" title="Vorondil">Vorondil</a> creates the <a class="mw-redirect" href="../H/Horn_of_Araw.md" title="Horn of Araw">Horn of Araw</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_1940.md" title="Third Age 1940">1940</a></td>
 <td>340</td>
-<td><a href="../G/Gondor.md" title="Gondor">Gondor</a> và <a href="../A/Arnor.md" title="Arnor">Arnor</a> tạo thành một liên minh. <a href="../A/Arvedui.md" title="Arvedui">Arvedui</a> đám cưới <a href="../F/Fíriel.md" title="Fíriel">Fíriel</a>.<sup id="cite_ref-TA_2-34" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../G/Gondor.md" title="Gondor">Gondor</a> and <a href="../A/Arnor.md" title="Arnor">Arnor</a> form an alliance. <a href="../A/Arvedui.md" title="Arvedui">Arvedui</a> weds <a href="../F/Fíriel.md" title="Fíriel">Fíriel</a>.<sup id="cite_ref-TA_2-34" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1944.md" title="Third Age 1944">1944</a></td>
 <td>344</td>
-<td>Các cuộc tấn công của <a href="../W/Wainriders.md" title="Wainriders">Wainrider</a> tiếp tục diễn ra ở mặt trận phía đông của <a href="../G/Gondor.md" title="Gondor">Gondor</a>. Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../O/Ondoher.md" title="Ondoher">Ondoher</a>, <a href="../A/Artamir.md" title="Artamir">Artamir</a>, <a href="../F/Faramir_(son_of_Ondoher).md" title="Faramir (son of Ondoher)">Faramir</a> và <a href="../M/Minohtar.md" title="Minohtar">Minohtar</a>.<sup id="cite_ref-South_5-28" class="reference"><a href="#cite_note-South-5">[5]</a></sup> <a href="../P/Pelendur.md" title="Pelendur">Pelendur</a> trở thành Người cầm quyền giữa các khu vực <a href="../S/Steward_of_Gondor.md" title="Steward of Gondor">Quản lý của Gondor</a>. <a href="../A/Arvedui.md" title="Arvedui">Arvedui</a> đưa ra yêu cầu về quyền trượng của <a href="../G/Gondor.md" title="Gondor">Gondor</a> nhưng bị từ chối.<sup id="cite_ref-TA_2-35" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../W/Wainriders.md" title="Wainriders">Wainrider</a> attacks resume on <a href="../G/Gondor.md" title="Gondor">Gondor</a>&#39;s eastern front. Deaths of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../O/Ondoher.md" title="Ondoher">Ondoher</a>, <a href="../A/Artamir.md" title="Artamir">Artamir</a>, <a href="../F/Faramir_(son_of_Ondoher).md" title="Faramir (son of Ondoher)">Faramir</a> and <a href="../M/Minohtar.md" title="Minohtar">Minohtar</a>.<sup id="cite_ref-South_5-28" class="reference"><a href="#cite_note-South-5">[5]</a></sup> <a href="../P/Pelendur.md" title="Pelendur">Pelendur</a> becomes interregnum Ruling <a href="../S/Steward_of_Gondor.md" title="Steward of Gondor">Steward of Gondor</a>. <a href="../A/Arvedui.md" title="Arvedui">Arvedui</a> makes claim on sceptre of <a href="../G/Gondor.md" title="Gondor">Gondor</a> but is rejected.<sup id="cite_ref-TA_2-35" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1945.md" title="Third Age 1945">1945</a></td>
 <td>345</td>
-<td><a href="../E/Eärnil_II.md" title="Eärnil II">Eärnil II</a> được chọn <a href="../K/King_of_Gondor.md" title="King of Gondor">Vua Gondor</a> thứ ba mươi giây.<sup id="cite_ref-TA_2-36" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-South_5-29" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td><a href="../E/Eärnil_II.md" title="Eärnil II">Eärnil II</a> is chosen thirty-second <a href="../K/King_of_Gondor.md" title="King of Gondor">King of Gondor</a>.<sup id="cite_ref-TA_2-36" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-South_5-29" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1950.md" title="Third Age 1950">1950</a></td>
@@ -655,12 +655,12 @@ images:
 <tr>
 <td><a href="Third_Age_1964.md" title="Third Age 1964">1964</a></td>
 <td>364</td>
-<td>Cái chết của <a href="../A/Araphant.md" title="Araphant">Araphant</a>. <a href="../A/Arvedui.md" title="Arvedui">Arvedui</a> trở thành <a href="../K/King_of_Arthedain.md" title="King of Arthedain">Vua của Arthedain</a>.<sup id="cite_ref-North_6-20" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a href="../A/Araphant.md" title="Araphant">Araphant</a>. <a href="../A/Arvedui.md" title="Arvedui">Arvedui</a> becomes <a href="../K/King_of_Arthedain.md" title="King of Arthedain">King of Arthedain</a>.<sup id="cite_ref-North_6-20" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1973.md" title="Third Age 1973">1973</a></td>
 <td>373</td>
-<td><a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">Vua</a> <a href="../A/Arvedui.md" title="Arvedui">Arvedui</a> của <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a> gửi tin tới <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../E/Eärnil_II.md" title="Eärnil II">Eärnil II</a> của <a href="../G/Gondor.md" title="Gondor">Gondor</a> rằng họ đang đấu tranh chống lại mối đe dọa của <a href="../A/Angmar.md" title="Angmar">Angmar</a>. Eärnil gửi một hạm đội về phía bắc mang theo con trai ông <a href="../E/Eärnur.md" title="Eärnur">Eärnur</a> cùng một đội quân.
+<td><a class="mw-redirect" href="../K/Kings_of_Arthedain.md" title="Kings of Arthedain">King</a> <a href="../A/Arvedui.md" title="Arvedui">Arvedui</a> of <a href="../A/Arthedain.md" title="Arthedain">Arthedain</a> sends word to <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../E/Eärnil_II.md" title="Eärnil II">Eärnil II</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a> that they are struggling against the threat of <a href="../A/Angmar.md" title="Angmar">Angmar</a>. Eärnil sends a fleet north carrying his son <a href="../E/Eärnur.md" title="Eärnur">Eärnur</a> with an army.
 </td></tr>
 <tr>
 <td><a href="Third_Age_1974.md" title="Third Age 1974">1974</a></td>
@@ -670,52 +670,52 @@ images:
 <tr>
 <td><a href="Third_Age_1975.md" title="Third Age 1975">1975</a></td>
 <td>375</td>
-<td>Việc <a href="../A/Arvedui.md" title="Arvedui">Arvedui</a> chết đuối với hai <i><a href="../P/Palantíri.md" title="Palantíri">palantíri</a></i>.<sup id="cite_ref-TA_2-38" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../A/Angmar.md" title="Angmar">Angmar</a> bị tiêu diệt.<sup id="cite_ref-Southern_3-32" class="reference"><a href="#cite_note-Southern-3">[3]</a></sup> <a href="../F/Frumgar.md" title="Frumgar">Frumgar</a> trở thành <a href="../L/Lord_of_the_Éothéod.md" title="Lord of the Éothéod">Lãnh chúa của Éothéod</a>.
+<td>Drowning of <a href="../A/Arvedui.md" title="Arvedui">Arvedui</a> with two <i><a href="../P/Palantíri.md" title="Palantíri">palantíri</a></i>.<sup id="cite_ref-TA_2-38" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../A/Angmar.md" title="Angmar">Angmar</a> destroyed.<sup id="cite_ref-Southern_3-32" class="reference"><a href="#cite_note-Southern-3">[3]</a></sup> <a href="../F/Frumgar.md" title="Frumgar">Frumgar</a> becomes <a href="../L/Lord_of_the_Éothéod.md" title="Lord of the Éothéod">Lord of the Éothéod</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_1976.md" title="Third Age 1976">1976</a></td>
 <td>376</td>
-<td><a href="../A/Aranarth.md" title="Aranarth">Aranarth</a> trở thành <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Thủ lĩnh đầu tiên của Dúnedain</a>.<sup id="cite_ref-TA_2-39" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-North_6-21" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td><a href="../A/Aranarth.md" title="Aranarth">Aranarth</a> becomes the first <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Chieftain of the Dúnedain</a>.<sup id="cite_ref-TA_2-39" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-North_6-21" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1977.md" title="Third Age 1977">1977</a></td>
 <td>377</td>
-<td><a href="../F/Frumgar.md" title="Frumgar">Frumgar</a> đánh đuổi tàn quân <a href="../A/Angmar.md" title="Angmar">Angmar</a> khỏi vùng thung lũng phía bắc của <a href="../A/Anduin.md" title="Anduin">Anduin</a>.
+<td><a href="../F/Frumgar.md" title="Frumgar">Frumgar</a> drives remnant of <a href="../A/Angmar.md" title="Angmar">Angmar</a> army from the northern vales of <a href="../A/Anduin.md" title="Anduin">Anduin</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_1979.md" title="Third Age 1979">1979</a></td>
 <td>379</td>
-<td><a href="../B/Bucca_of_the_Marish.md" title="Bucca of the Marish">Bucca của Marish</a> trở thành <a href="Thain.md" title="Thain">Thain</a> đầu tiên của <a href="The_Shire.md" title="The Shire"> Shire</a>.<sup id="cite_ref-TA_2-40" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../B/Bucca_of_the_Marish.md" title="Bucca of the Marish">Bucca of the Marish</a> becomes first <a href="Thain.md" title="Thain">Thain</a> of <a href="The_Shire.md" title="The Shire">the Shire</a>.<sup id="cite_ref-TA_2-40" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_1980.md" title="Third Age 1980">1980</a></td>
 <td>380</td>
-<td><a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> tập trung tại <a href="../M/Mordor.md" title="Mordor">Mordor</a>. <b><a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Tai họa của Durin</a> thức dậy sau <a href="../M/Moria.md" title="Moria">Khazad-dûm</a>. Cái chết của <a href="../D/Durin_VI.md" title="Durin VI">Durin VI</a>.</b><sup id="cite_ref-TA_2-41" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../N/Náin_I.md" title="Náin I">Náin I</a> trở thành <a class="mw-redirect" href="../K/King_of_Durin&#39;s_folk.md" title="King of Durin&#39;s folk">Vua dân Durin</a>.
+<td><a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> gather in <a href="../M/Mordor.md" title="Mordor">Mordor</a>. <b><a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a> awakes in <a href="../M/Moria.md" title="Moria">Khazad-dûm</a>. Death of <a href="../D/Durin_VI.md" title="Durin VI">Durin VI</a>.</b><sup id="cite_ref-TA_2-41" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../N/Náin_I.md" title="Náin I">Náin I</a> becomes <a class="mw-redirect" href="../K/King_of_Durin&#39;s_folk.md" title="King of Durin&#39;s folk">King of Durin&#39;s folk</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_1981.md" title="Third Age 1981">1981</a></td>
 <td>381</td>
-<td>Cái chết của <a href="../N/Náin_I.md" title="Náin I">Náin I</a>. <b><a href="../D/Dwarves.md" title="Dwarves">Người Lùn</a> bỏ trốn <a href="../M/Moria.md" title="Moria">Moria</a>.</b> Cái chết của <a href="../A/Amroth.md" title="Amroth">Amroth</a> và <a href="../N/Nimrodel.md" title="Nimrodel">Nimrodel</a>. <a href="../S/Silvan_Elves.md" title="Silvan Elves">Tiên tộc Silvan</a> chạy trốn về phía nam.<sup id="cite_ref-TA_2-42" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> và <a class="mw-redirect" href="../C/Celeborn_(Lord_of_Lórien).md" title="Celeborn (Lord of Lórien)">Celeborn</a> quay trở lại <a href="../L/Lothlórien.md" title="Lothlórien">Laurelindórenan</a>.
+<td>Death of <a href="../N/Náin_I.md" title="Náin I">Náin I</a>. <b><a href="../D/Dwarves.md" title="Dwarves">Dwarves</a> flee <a href="../M/Moria.md" title="Moria">Moria</a>.</b> Deaths of <a href="../A/Amroth.md" title="Amroth">Amroth</a> and <a href="../N/Nimrodel.md" title="Nimrodel">Nimrodel</a>. The <a href="../S/Silvan_Elves.md" title="Silvan Elves">Silvan Elves</a> flee south.<sup id="cite_ref-TA_2-42" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> and <a class="mw-redirect" href="../C/Celeborn_(Lord_of_Lórien).md" title="Celeborn (Lord of Lórien)">Celeborn</a> return to <a href="../L/Lothlórien.md" title="Lothlórien">Laurelindórenan</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_1998.md" title="Third Age 1998">1998</a></td>
 <td>398</td>
-<td>Cái chết của <a href="../P/Pelendur.md" title="Pelendur">Pelendur</a>. Việc quản lý <a href="../G/Gondor.md" title="Gondor">Gondor</a> trở thành cha truyền con nối.
+<td>Death of <a href="../P/Pelendur.md" title="Pelendur">Pelendur</a>. Stewardship of <a href="../G/Gondor.md" title="Gondor">Gondor</a> becomes hereditary.
 </td></tr>
 <tr>
 <td><a href="Third_Age_1999.md" title="Third Age 1999">1999</a></td>
 <td>399</td>
-<td>Sự ra đời của <a href="../E/Eradan.md" title="Eradan">Eradan</a>.<sup id="cite_ref-Southern_3-33" class="reference"><a href="#cite_note-Southern-3">[3]</a></sup> <b><a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Erebor</a> thành lập.<sup id="cite_ref-TA_2-43" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../A/Arkenstone.md" title="Arkenstone">Arkenstone</a> được phát hiện.</b>
+<td>Birth of <a href="../E/Eradan.md" title="Eradan">Eradan</a>.<sup id="cite_ref-Southern_3-33" class="reference"><a href="#cite_note-Southern-3">[3]</a></sup> <b><a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Erebor</a> founded.<sup id="cite_ref-TA_2-43" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> The <a href="../A/Arkenstone.md" title="Arkenstone">Arkenstone</a> discovered.</b>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2000.md" title="Third Age 2000">2000</a></td>
 <td>400</td>
-<td><b>Vấn đề <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> từ <a href="../M/Mordor.md" title="Mordor">Mordor</a> và sự bao vây <a class="mw-redirect" href="../M/Minas_Ithil.md" title="Minas Ithil">Minas Ithil</a>.</b><sup id="cite_ref-TA_2-44" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><b>The <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> issue from <a href="../M/Mordor.md" title="Mordor">Mordor</a> and besiege <a class="mw-redirect" href="../M/Minas_Ithil.md" title="Minas Ithil">Minas Ithil</a>.</b><sup id="cite_ref-TA_2-44" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2002.md" title="Third Age 2002">2002</a></td>
 <td>402</td>
-<td><b>Việc chụp <a class="mw-redirect" href="../M/Minas_Ithil.md" title="Minas Ithil">Minas Ithil</a> và <i><a href="../P/Palantíri.md" title="Palantíri">palantír</a></i> của nó.<sup id="cite_ref-TA_2-45" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a class="mw-redirect" href="../M/Minas_Anor.md" title="Minas Anor">Minas Anor</a> được đổi tên thành <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>.</b>
+<td><b>Capture of <a class="mw-redirect" href="../M/Minas_Ithil.md" title="Minas Ithil">Minas Ithil</a> and its <i><a href="../P/Palantíri.md" title="Palantíri">palantír</a></i>.<sup id="cite_ref-TA_2-45" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a class="mw-redirect" href="../M/Minas_Anor.md" title="Minas Anor">Minas Anor</a> renamed <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>.</b>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2004.md" title="Third Age 2004">2004</a></td>
@@ -745,27 +745,27 @@ images:
 <tr>
 <td><a href="Third_Age_2043.md" title="Third Age 2043">2043</a></td>
 <td>443</td>
-<td>Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../E/Eärnil_II.md" title="Eärnil II">Eärnil II</a>. <a href="../E/Eärnur.md" title="Eärnur">Eärnur</a> trở thành cái thứ ba mươi ba, và tình cờ là cái cuối cùng, <a href="../K/King_of_Gondor.md" title="King of Gondor">Vua Gondor</a>. <a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a> đưa ra thách thức đối với <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../E/Eärnur.md" title="Eärnur">Eärnur</a>.<sup id="cite_ref-TA_2-46" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-South_5-30" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../E/Eärnil_II.md" title="Eärnil II">Eärnil II</a>. <a href="../E/Eärnur.md" title="Eärnur">Eärnur</a> becomes the thirty-third, and incidentally the last, <a href="../K/King_of_Gondor.md" title="King of Gondor">King of Gondor</a>. The <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> issues a challenge to <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../E/Eärnur.md" title="Eärnur">Eärnur</a>.<sup id="cite_ref-TA_2-46" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-South_5-30" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2050.md" title="Third Age 2050">2050</a></td>
 <td>450</td>
-<td><a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a> đưa ra thử thách thứ hai cho <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../E/Eärnur.md" title="Eärnur">Eärnur</a>. Cái chết của <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua</a> <a href="../E/Eärnur.md" title="Eärnur">Eärnur</a>. <b>Kết thúc dòng dõi <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua Gondor</a>. Triều đại của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Người quản lý</a> bắt đầu.</b> <a href="../M/Mardil.md" title="Mardil">Mardil Voronwë</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Người quản lý cầm quyền</a> đầu tiên của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-TA_2-47" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td>The <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> issues a second challenge to <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../E/Eärnur.md" title="Eärnur">Eärnur</a>. Death of <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King</a> <a href="../E/Eärnur.md" title="Eärnur">Eärnur</a>. <b>End of the line of the <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Kings of Gondor</a>. The Reign of the <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Stewards</a> begins.</b> <a href="../M/Mardil.md" title="Mardil">Mardil Voronwë</a> becomes the first <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-TA_2-47" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2059.md" title="Third Age 2059">2059</a></td>
 <td>459</td>
-<td><a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý</a> <a href="../M/Mardil.md" title="Mardil">Mardil</a> của <a href="../G/Gondor.md" title="Gondor">Gondor</a> thêm hai ngày nhuận.
+<td><a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../M/Mardil.md" title="Mardil">Mardil</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a> adds two leap days.
 </td></tr>
 <tr>
 <td><a href="Third_Age_2060.md" title="Third Age 2060">2060</a></td>
 <td>460</td>
-<td>Nỗi sợ hãi <a href="The_Wise.md" title="The Wise">The Wise</a> <a href="../S/Sauron.md" title="Sauron">Sauron</a> đang hoạt động trong <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>.<sup id="cite_ref-TA_2-48" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><br/>Sự ra đời của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ hai không tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-2" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td><a href="The_Wise.md" title="The Wise">The Wise</a> fear <a href="../S/Sauron.md" title="Sauron">Sauron</a> is active in <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>.<sup id="cite_ref-TA_2-48" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><br/>Birth of the unnamed second <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-2" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2063.md" title="Third Age 2063">2063</a></td>
 <td>463</td>
-<td><a href="../S/Sauron.md" title="Sauron">Sauron</a> bỏ trốn <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>. <a href="../W/Watchful_Peace.md" title="Watchful Peace">Hòa bình thận trọng</a> bắt đầu.<sup id="cite_ref-TA_2-49" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../S/Sauron.md" title="Sauron">Sauron</a> flees <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>. The <a href="../W/Watchful_Peace.md" title="Watchful Peace">Watchful Peace</a> begins.<sup id="cite_ref-TA_2-49" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2074.md" title="Third Age 2074">2074</a></td>
@@ -780,7 +780,7 @@ images:
 <tr>
 <td><a href="Third_Age_2080.md" title="Third Age 2080">2080</a></td>
 <td>480</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản gia</a> <a href="../M/Mardil.md" title="Mardil">Mardil Voronwë</a>. <a href="../E/Eradan.md" title="Eradan">Eradan</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Người quản lý cầm quyền</a> thứ hai của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-31" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../M/Mardil.md" title="Mardil">Mardil Voronwë</a>. <a href="../E/Eradan.md" title="Eradan">Eradan</a> becomes the second <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-31" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2084.md" title="Third Age 2084">2084</a></td>
@@ -790,17 +790,17 @@ images:
 <tr>
 <td><a href="Third_Age_2106.md" title="Third Age 2106">2106</a></td>
 <td>506</td>
-<td>Cái chết của <a href="../A/Aranarth.md" title="Aranarth">Aranarth</a>. <a href="../A/Arahael.md" title="Arahael">Arahael</a> trở thành <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Thủ lĩnh thứ hai của Dúnedain</a>.<sup id="cite_ref-North_6-22" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a href="../A/Aranarth.md" title="Aranarth">Aranarth</a>. <a href="../A/Arahael.md" title="Arahael">Arahael</a> becomes the second <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Chieftain of the Dúnedain</a>.<sup id="cite_ref-North_6-22" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2116.md" title="Third Age 2116">2116</a></td>
 <td>516</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản gia</a> <a href="../E/Eradan.md" title="Eradan">Eradan</a> <a href="../H/Herion.md" title="Herion">Herion</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý cầm quyền</a> thứ ba của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-32" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../E/Eradan.md" title="Eradan">Eradan</a> <a href="../H/Herion.md" title="Herion">Herion</a> becomes the third <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-32" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2120.md" title="Third Age 2120">2120</a></td>
 <td>520</td>
-<td>Sự ra đời của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ ba chưa được đặt tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-4" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Birth of the unnamed third <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-4" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2124.md" title="Third Age 2124">2124</a></td>
@@ -810,7 +810,7 @@ images:
 <tr>
 <td><a href="Third_Age_2129.md" title="Third Age 2129">2129</a></td>
 <td>529</td>
-<td>Cái chết của <a href="../G/Galador.md" title="Galador">Galador</a>. Đứa con trai giấu tên của <a href="../G/Galador.md" title="Galador">Galador</a> trở thành <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ hai trong <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-5" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Death of <a href="../G/Galador.md" title="Galador">Galador</a>. <a href="../G/Galador.md" title="Galador">Galador</a>&#39;s unnamed son becomes the second <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-5" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2136.md" title="Third Age 2136">2136</a></td>
@@ -820,7 +820,7 @@ images:
 <tr>
 <td><a href="Third_Age_2148.md" title="Third Age 2148">2148</a></td>
 <td>548</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản gia</a> <a href="../H/Herion.md" title="Herion">Herion</a>. <a href="../B/Belegorn.md" title="Belegorn">Belegorn</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý cầm quyền</a> thứ tư của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-33" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../H/Herion.md" title="Herion">Herion</a>. <a href="../B/Belegorn.md" title="Belegorn">Belegorn</a> becomes the fourth <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-33" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2156.md" title="Third Age 2156">2156</a></td>
@@ -835,12 +835,12 @@ images:
 <tr>
 <td><a href="Third_Age_2172.md" title="Third Age 2172">2172</a></td>
 <td>572</td>
-<td>Sự ra đời của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ tư chưa được đặt tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-6" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Birth of the unnamed fourth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-6" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2177.md" title="Third Age 2177">2177</a></td>
 <td>577</td>
-<td>Cái chết của <a href="../A/Arahael.md" title="Arahael">Arahael</a>. <a href="../A/Aranuir.md" title="Aranuir">Aranuir</a> trở thành <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Thủ lĩnh thứ ba của Dúnedain</a>.<sup id="cite_ref-North_6-23" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a href="../A/Arahael.md" title="Arahael">Arahael</a>. <a href="../A/Aranuir.md" title="Aranuir">Aranuir</a> becomes the third <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Chieftain of the Dúnedain</a>.<sup id="cite_ref-North_6-23" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2190.md" title="Third Age 2190">2190</a></td>
@@ -850,22 +850,22 @@ images:
 <tr>
 <td><a href="Third_Age_2203.md" title="Third Age 2203">2203</a></td>
 <td>603</td>
-<td>Cái chết của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ hai không tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. Người con trai giấu tên của Thân vương thứ hai trở thành <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ ba trong <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-7" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Death of the unnamed second <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. The second Prince&#39;s unnamed son becomes the third <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-7" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2204.md" title="Third Age 2204">2204</a></td>
 <td>604</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản gia</a> <a href="../B/Belegorn.md" title="Belegorn">Belegorn</a>. <a href="../H/Húrin_I.md" title="Húrin I">Húrin Tôi</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý cầm quyền</a> thứ năm của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-34" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../B/Belegorn.md" title="Belegorn">Belegorn</a>. <a href="../H/Húrin_I.md" title="Húrin I">Húrin I</a> becomes the fifth <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-34" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2210.md" title="Third Age 2210">2210</a></td>
 <td>610</td>
-<td><a href="Thorin_I.md" title="Thorin I">Thorin I</a> chuyển đến <a href="../G/Grey_Mountains.md" title="Grey Mountains">Dãy Núi Xám</a>.<sup id="cite_ref-TA_2-50" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="Thorin_I.md" title="Thorin I">Thorin I</a> goes to the <a href="../G/Grey_Mountains.md" title="Grey Mountains">Grey Mountains</a>.<sup id="cite_ref-TA_2-50" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2225.md" title="Third Age 2225">2225</a></td>
 <td>625</td>
-<td>Sự ra đời của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ năm chưa được đặt tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-8" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Birth of the unnamed fifth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-8" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2227.md" title="Third Age 2227">2227</a></td>
@@ -880,7 +880,7 @@ images:
 <tr>
 <td><a href="Third_Age_2244.md" title="Third Age 2244">2244</a></td>
 <td>644</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý</a> <a href="../H/Húrin_I.md" title="Húrin I">Húrin tôi</a>. <a href="Túrin_I.md" title="Túrin I">Túrin Tôi</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý cầm quyền</a> thứ sáu của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-35" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../H/Húrin_I.md" title="Húrin I">Húrin I</a>. <a href="Túrin_I.md" title="Túrin I">Túrin I</a> becomes the sixth <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-35" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2245.md" title="Third Age 2245">2245</a></td>
@@ -890,22 +890,22 @@ images:
 <tr>
 <td><a href="Third_Age_2247.md" title="Third Age 2247">2247</a></td>
 <td>647</td>
-<td>Cái chết của <a href="../A/Aranuir.md" title="Aranuir">Aranuir</a>. <a href="../A/Aravir.md" title="Aravir">Aravir</a> trở thành <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Thủ lĩnh thứ tư của Dúnedain</a>.<sup id="cite_ref-North_6-24" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a href="../A/Aranuir.md" title="Aranuir">Aranuir</a>. <a href="../A/Aravir.md" title="Aravir">Aravir</a> becomes the fourth <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Chieftain of the Dúnedain</a>.<sup id="cite_ref-North_6-24" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2254.md" title="Third Age 2254">2254</a></td>
 <td>654</td>
-<td>Cái chết của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ ba giấu tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. Người con trai giấu tên của Thân vương thứ ba trở thành <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ tư của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-9" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Death of the unnamed third <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. The third Prince&#39;s unnamed son becomes the fourth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-9" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2274.md" title="Third Age 2274">2274</a></td>
 <td>674</td>
-<td>Sự ra đời của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ sáu không tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-10" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Birth of the unnamed sixth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-10" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2278.md" title="Third Age 2278">2278</a></td>
 <td>678</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý</a> <a href="Túrin_I.md" title="Túrin I">Túrin tôi</a>. <a href="../H/Hador_(Steward_of_Gondor).md" title="Hador (Steward of Gondor)">Hador</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý cầm quyền</a> thứ bảy của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-36" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="Túrin_I.md" title="Túrin I">Túrin I</a>. <a href="../H/Hador_(Steward_of_Gondor).md" title="Hador (Steward of Gondor)">Hador</a> becomes the seventh <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-36" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2289.md" title="Third Age 2289">2289</a></td>
@@ -925,22 +925,22 @@ images:
 <tr>
 <td><a href="Third_Age_2299.md" title="Third Age 2299">2299</a></td>
 <td>699</td>
-<td>Cái chết của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ tư chưa được đặt tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. Người con trai giấu tên của Thân vương thứ tư trở thành <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ năm của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-11" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Death of the unnamed fourth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. The fourth Prince&#39;s unnamed son becomes the fifth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-11" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2319.md" title="Third Age 2319">2319</a></td>
 <td>719</td>
-<td>Cái chết của <a href="../A/Aravir.md" title="Aravir">Aravir</a>. <a href="../A/Aragorn_I.md" title="Aragorn I">Aragorn I</a> trở thành <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Thủ lĩnh thứ năm của Dúnedain</a>.<sup id="cite_ref-North_6-25" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a href="../A/Aravir.md" title="Aravir">Aravir</a>. <a href="../A/Aragorn_I.md" title="Aragorn I">Aragorn I</a> becomes the fifth <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Chieftain of the Dúnedain</a>.<sup id="cite_ref-North_6-25" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2324.md" title="Third Age 2324">2324</a></td>
 <td>724</td>
-<td>Sự ra đời của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ bảy không tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-12" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Birth of the unnamed seventh <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-12" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2327.md" title="Third Age 2327">2327</a></td>
 <td>727</td>
-<td>Cái chết của <a href="../A/Aragorn_I.md" title="Aragorn I">Aragorn I</a>. <a href="../A/Araglas.md" title="Araglas">Araglas</a> trở thành <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Thủ lĩnh thứ sáu của Dúnedain</a>.<sup id="cite_ref-North_6-26" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a href="../A/Aragorn_I.md" title="Aragorn I">Aragorn I</a>. <a href="../A/Araglas.md" title="Araglas">Araglas</a> becomes the sixth <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Chieftain of the Dúnedain</a>.<sup id="cite_ref-North_6-26" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2328.md" title="Third Age 2328">2328</a></td>
@@ -955,17 +955,17 @@ images:
 <tr>
 <td><a href="Third_Age_2340.md" title="Third Age 2340">2340</a></td>
 <td>740</td>
-<td><a href="../B/Buckland.md" title="Buckland">Buckland</a> đã được giải quyết. <a href="../B/Brandy_Hall.md" title="Brandy Hall">Brandy Hall</a> đã được xây dựng.<sup id="cite_ref-TA_2-51" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../B/Buckland.md" title="Buckland">Buckland</a> is settled. <a href="../B/Brandy_Hall.md" title="Brandy Hall">Brandy Hall</a> constructed.<sup id="cite_ref-TA_2-51" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2348.md" title="Third Age 2348">2348</a></td>
 <td>748</td>
-<td>Cái chết của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ năm không rõ tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. Người con trai giấu tên của Thân vương thứ năm trở thành <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ sáu của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-13" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Death of the unnamed fifth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. The fifth Prince&#39;s unnamed son becomes the sixth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-13" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2360.md" title="Third Age 2360">2360</a></td>
 <td>760</td>
-<td><a href="../H/Hador_(Steward_of_Gondor).md" title="Hador (Steward of Gondor)">Hador</a> thêm một ngày vào năm nay để điều chỉnh thâm hụt thiên niên kỷ.
+<td><a href="../H/Hador_(Steward_of_Gondor).md" title="Hador (Steward of Gondor)">Hador</a> adds a day to this year to correct for the millennial deficit.
 </td></tr>
 <tr>
 <td><a href="Third_Age_2365.md" title="Third Age 2365">2365</a></td>
@@ -975,7 +975,7 @@ images:
 <tr>
 <td><a href="Third_Age_2373.md" title="Third Age 2373">2373</a></td>
 <td>773</td>
-<td>Sự ra đời của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ tám không tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-14" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Birth of the unnamed eighth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-14" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2375.md" title="Third Age 2375">2375</a></td>
@@ -990,12 +990,12 @@ images:
 <tr>
 <td><a href="Third_Age_2395.md" title="Third Age 2395">2395</a></td>
 <td>795</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý</a> <a href="../H/Hador_(Steward_of_Gondor).md" title="Hador (Steward of Gondor)">Hador</a>. <a href="../B/Barahir_(Steward_of_Gondor).md" title="Barahir (Steward of Gondor)">Barahir</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý cầm quyền</a> thứ tám của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-37" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../H/Hador_(Steward_of_Gondor).md" title="Hador (Steward of Gondor)">Hador</a>. <a href="../B/Barahir_(Steward_of_Gondor).md" title="Barahir (Steward of Gondor)">Barahir</a> becomes the eighth <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-37" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2400.md" title="Third Age 2400">2400</a></td>
 <td>800</td>
-<td>Cái chết của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ sáu giấu tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. Người con trai giấu tên của Thân vương thứ sáu trở thành <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ bảy của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-15" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Death of the unnamed sixth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. The sixth Prince&#39;s unnamed son becomes the seventh <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-15" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2410.md" title="Third Age 2410">2410</a></td>
@@ -1005,17 +1005,17 @@ images:
 <tr>
 <td><a href="Third_Age_2412.md" title="Third Age 2412">2412</a></td>
 <td>812</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý</a> <a href="../B/Barahir_(Steward_of_Gondor).md" title="Barahir (Steward of Gondor)">Barahir</a>. <a href="../D/Dior_(Steward_of_Gondor).md" title="Dior (Steward of Gondor)">Dior</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý cầm quyền</a> thứ chín của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-38" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../B/Barahir_(Steward_of_Gondor).md" title="Barahir (Steward of Gondor)">Barahir</a>. <a href="../D/Dior_(Steward_of_Gondor).md" title="Dior (Steward of Gondor)">Dior</a> becomes the ninth <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-38" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2418.md" title="Third Age 2418">2418</a></td>
 <td>818</td>
-<td>Sự ra đời của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ chín chưa được đặt tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-16" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Birth of the unnamed ninth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-16" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2430.md" title="Third Age 2430">2430</a></td>
 <td>830</td>
-<td><b>Vào khoảng thời gian này, <a class="mw-redirect" href="../S/Sméagol.md" title="Sméagol">Sméagol</a> ra đời.</b>
+<td><b>About this time, <a class="mw-redirect" href="../S/Sméagol.md" title="Sméagol">Sméagol</a> is born.</b>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2431.md" title="Third Age 2431">2431</a></td>
@@ -1025,7 +1025,7 @@ images:
 <tr>
 <td><a href="Third_Age_2435.md" title="Third Age 2435">2435</a></td>
 <td>835</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý</a> <a href="../D/Dior_(Steward_of_Gondor).md" title="Dior (Steward of Gondor)">Dior</a>. <a href="../D/Denethor_I.md" title="Denethor I">Denethor Tôi</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý cầm quyền</a> thứ mười của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-39" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../D/Dior_(Steward_of_Gondor).md" title="Dior (Steward of Gondor)">Dior</a>. <a href="../D/Denethor_I.md" title="Denethor I">Denethor I</a> becomes the tenth <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-39" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2440.md" title="Third Age 2440">2440</a></td>
@@ -1045,12 +1045,12 @@ images:
 <tr>
 <td><a href="Third_Age_2455.md" title="Third Age 2455">2455</a></td>
 <td>855</td>
-<td>Cái chết của <a href="../A/Araglas.md" title="Araglas">Araglas</a>. <a href="../A/Arahad_I.md" title="Arahad I">Arahad I</a> trở thành <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Thủ lĩnh thứ bảy của Dúnedain</a>.<sup id="cite_ref-North_6-27" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a href="../A/Araglas.md" title="Araglas">Araglas</a>. <a href="../A/Arahad_I.md" title="Arahad I">Arahad I</a> becomes the seventh <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Chieftain of the Dúnedain</a>.<sup id="cite_ref-North_6-27" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2458.md" title="Third Age 2458">2458</a></td>
 <td>858</td>
-<td>Cái chết của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ bảy vô danh của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. Người con trai giấu tên của Thân vương thứ bảy trở thành <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ tám của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-17" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Death of the unnamed seventh <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. The seventh Prince&#39;s unnamed son becomes the eighth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-17" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2459.md" title="Third Age 2459">2459</a></td>
@@ -1060,32 +1060,32 @@ images:
 <tr>
 <td><a href="Third_Age_2460.md" title="Third Age 2460">2460</a></td>
 <td>860</td>
-<td><a href="../S/Sauron.md" title="Sauron">Sauron</a> trở về <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>. <a href="../W/Watchful_Peace.md" title="Watchful Peace">Hòa bình thận trọng</a> kết thúc.<sup id="cite_ref-TA_2-52" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../S/Sauron.md" title="Sauron">Sauron</a> returns to <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>. The <a href="../W/Watchful_Peace.md" title="Watchful Peace">Watchful Peace</a> ends.<sup id="cite_ref-TA_2-52" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2463.md" title="Third Age 2463">2463</a></td>
 <td>863</td>
-<td>Sự hình thành của <a href="../W/White_Council.md" title="White Council">Bạch Hội Đồng</a>. <b><a href="The_One_Ring.md" title="The One Ring"> Nhẫn Chúa</a> được phát hiện bởi <a href="../D/Déagol.md" title="Déagol">Déagol</a>, người đã bị giết bởi <a class="mw-redirect" href="../S/Sméagol.md" title="Sméagol">Sméagol</a>.</b><sup id="cite_ref-TA_2-53" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><br/>Sự ra đời của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười không tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-18" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Formation of the <a href="../W/White_Council.md" title="White Council">White Council</a>. <b><a href="The_One_Ring.md" title="The One Ring">The One Ring</a> discovered by <a href="../D/Déagol.md" title="Déagol">Déagol</a> who is slain by <a class="mw-redirect" href="../S/Sméagol.md" title="Sméagol">Sméagol</a>.</b><sup id="cite_ref-TA_2-53" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><br/>Birth of the unnamed tenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-18" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2470.md" title="Third Age 2470">2470</a></td>
 <td>870</td>
-<td><a class="mw-redirect" href="../S/Sméagol.md" title="Sméagol">Sméagol</a> ẩn náu trong <a href="../G/Goblin-town.md" title="Goblin-town">Thị trấn yêu tinh</a> trong <a href="../M/Misty_Mountains.md" title="Misty Mountains">Dãy Núi Sương Mù</a>.<sup id="cite_ref-TA_2-54" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a class="mw-redirect" href="../S/Sméagol.md" title="Sméagol">Sméagol</a> hides in <a href="../G/Goblin-town.md" title="Goblin-town">Goblin-town</a> within the <a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a>.<sup id="cite_ref-TA_2-54" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2475.md" title="Third Age 2475">2475</a></td>
 <td>875</td>
-<td><a href="../B/Boromir_(Steward_of_Gondor).md" title="Boromir (Steward of Gondor)">Boromir</a> phòng thủ <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a>.
+<td><a href="../B/Boromir_(Steward_of_Gondor).md" title="Boromir (Steward of Gondor)">Boromir</a> defends <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_2477.md" title="Third Age 2477">2477</a></td>
 <td>877</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý</a> <a href="../D/Denethor_I.md" title="Denethor I">Denethor tôi</a>. <a href="../B/Boromir_(Steward_of_Gondor).md" title="Boromir (Steward of Gondor)">Boromir</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý cầm quyền</a> thứ mười một của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-40" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../D/Denethor_I.md" title="Denethor I">Denethor I</a>. <a href="../B/Boromir_(Steward_of_Gondor).md" title="Boromir (Steward of Gondor)">Boromir</a> becomes the eleventh <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-40" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2480.md" title="Third Age 2480">2480</a></td>
 <td>880</td>
-<td>Sự ra đời của <a href="../H/Hallas.md" title="Hallas">Hallas</a>.<sup id="cite_ref-Southern_3-45" class="reference"><a href="#cite_note-Southern-3">[3]</a></sup> <a href="../O/Orcs.md" title="Orcs">Orc</a> tạo nên những thành trì bí mật trong <a href="../M/Misty_Mountains.md" title="Misty Mountains">Dãy Núi Sương Mù</a>. <a href="../S/Sauron.md" title="Sauron">Sauron</a> gửi <a href="../O/Orcs.md" title="Orcs">Orc</a> đến <a href="../M/Moria.md" title="Moria">Moria</a>.<sup id="cite_ref-TA_2-55" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td>Birth of <a href="../H/Hallas.md" title="Hallas">Hallas</a>.<sup id="cite_ref-Southern_3-45" class="reference"><a href="#cite_note-Southern-3">[3]</a></sup> <a href="../O/Orcs.md" title="Orcs">Orcs</a> make secret strongholds in the <a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a>. <a href="../S/Sauron.md" title="Sauron">Sauron</a> sends <a href="../O/Orcs.md" title="Orcs">Orcs</a> to <a href="../M/Moria.md" title="Moria">Moria</a>.<sup id="cite_ref-TA_2-55" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2485.md" title="Third Age 2485">2485</a></td>
@@ -1100,7 +1100,7 @@ images:
 <tr>
 <td><a href="Third_Age_2489.md" title="Third Age 2489">2489</a></td>
 <td>889</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý</a> <a href="../B/Boromir_(Steward_of_Gondor).md" title="Boromir (Steward of Gondor)">Boromir</a>. <a href="../C/Cirion.md" title="Cirion">Cirion</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý cầm quyền</a> thứ mười hai của Gondor.<sup id="cite_ref-South_5-41" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../B/Boromir_(Steward_of_Gondor).md" title="Boromir (Steward of Gondor)">Boromir</a>. <a href="../C/Cirion.md" title="Cirion">Cirion</a> becomes the twelfth <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of Gondor.<sup id="cite_ref-South_5-41" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2497.md" title="Third Age 2497">2497</a></td>
@@ -1110,27 +1110,27 @@ images:
 <tr>
 <td><a href="Third_Age_2498.md" title="Third Age 2498">2498</a></td>
 <td>898</td>
-<td>Cái chết của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ tám vô danh của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. Người con trai giấu tên của Thân vương thứ tám trở thành <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ chín của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-19" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Death of the unnamed eighth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. The eighth Prince&#39;s unnamed son becomes the ninth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-19" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2501.md" title="Third Age 2501">2501</a></td>
 <td>901</td>
-<td>Cái chết của <a href="../L/Léod.md" title="Léod">Léod</a> khi đang cố gắng thuần hóa con ngựa <a href="../F/Felaróf.md" title="Felaróf">Felaróf</a>. <a href="../E/Eorl.md" title="Eorl">Eorl</a> trở thành <a href="../L/Lord_of_the_Éothéod.md" title="Lord of the Éothéod">Lãnh chúa của Éothéod</a> ở tuổi mười sáu và thuần hóa Felaróf, người đầu tiên trong <a href="../M/Mearas.md" title="Mearas">Mearas</a>.
+<td>Death of <a href="../L/Léod.md" title="Léod">Léod</a> whilst trying to tame the horse <a href="../F/Felaróf.md" title="Felaróf">Felaróf</a>. <a href="../E/Eorl.md" title="Eorl">Eorl</a> becomes <a href="../L/Lord_of_the_Éothéod.md" title="Lord of the Éothéod">Lord of the Éothéod</a> at age sixteen and tames Felaróf, first of the <a href="../M/Mearas.md" title="Mearas">Mearas</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_2505.md" title="Third Age 2505">2505</a></td>
 <td>905</td>
-<td>Sự ra đời của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười một không tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-20" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Birth of the unnamed eleventh <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-20" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2509.md" title="Third Age 2509">2509</a></td>
 <td>909</td>
-<td><a href="../C/Celebrían.md" title="Celebrían">Celebrían</a> bị đầu độc bởi một lưỡi kiếm <a href="../O/Orcs.md" title="Orcs">Orc</a>.<sup id="cite_ref-TA_2-56" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../C/Celebrían.md" title="Celebrían">Celebrían</a> poisoned by an <a href="../O/Orcs.md" title="Orcs">Orc</a> blade.<sup id="cite_ref-TA_2-56" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2510.md" title="Third Age 2510">2510</a></td>
 <td>910</td>
-<td><a href="../C/Celebrían.md" title="Celebrían">Celebrían</a> đi qua <a href="../B/Belegaer.md" title="Belegaer">Biển</a>. <a href="../B/Battle_of_the_Field_of_Celebrant.md" title="Battle of the Field of Celebrant">Trận chiến trên Cánh đồng Celebrant</a>. <a href="../O/Oath_of_Eorl.md" title="Oath of Eorl">Lời thề</a> của Cirion và Eorl. <a href="../C/Calenardhon.md" title="Calenardhon">Calenardhon</a> được nhượng lại cho <a href="../_/Éothéod.md" title="Éothéod">Éothéod</a> và <a href="../R/Rohan.md" title="Rohan">Rohan</a> được tạo. <a href="../E/Eorl.md" title="Eorl">Eorl</a> trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a> đầu tiên.<sup id="cite_ref-TA_2-57" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../C/Cirion.md" title="Cirion">Cirion</a> di chuyển <a href="Tomb_of_Elendil.md" title="Tomb of Elendil">Ngôi mộ của Elendil</a> đến <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>.
+<td><a href="../C/Celebrían.md" title="Celebrían">Celebrían</a> sails over the <a href="../B/Belegaer.md" title="Belegaer">Sea</a>. <a href="../B/Battle_of_the_Field_of_Celebrant.md" title="Battle of the Field of Celebrant">Battle of the Field of Celebrant</a>. <a href="../O/Oath_of_Eorl.md" title="Oath of Eorl">Oaths</a> of Cirion and Eorl. <a href="../C/Calenardhon.md" title="Calenardhon">Calenardhon</a> ceded to <a href="../_/Éothéod.md" title="Éothéod">Éothéod</a> and <a href="../R/Rohan.md" title="Rohan">Rohan</a> is created. <a href="../E/Eorl.md" title="Eorl">Eorl</a> becomes the first <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a>.<sup id="cite_ref-TA_2-57" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../C/Cirion.md" title="Cirion">Cirion</a> moves the <a href="Tomb_of_Elendil.md" title="Tomb of Elendil">Tomb of Elendil</a> to <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_2512.md" title="Third Age 2512">2512</a></td>
@@ -1145,12 +1145,12 @@ images:
 <tr>
 <td><a href="Third_Age_2523.md" title="Third Age 2523">2523</a></td>
 <td>923</td>
-<td>Cái chết của <a href="../A/Arahad_I.md" title="Arahad I">Arahad I</a>. <a href="../A/Aragost.md" title="Aragost">Aragost</a> trở thành <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Thủ lĩnh thứ tám của Dúnedain</a>.<sup id="cite_ref-North_6-28" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a href="../A/Arahad_I.md" title="Arahad I">Arahad I</a>. <a href="../A/Aragost.md" title="Aragost">Aragost</a> becomes the eighth <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Chieftain of the Dúnedain</a>.<sup id="cite_ref-North_6-28" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2540.md" title="Third Age 2540">2540</a></td>
 <td>940</td>
-<td>Cái chết của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ chín chưa được đặt tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. Người con trai giấu tên của Thân vương thứ chín trở thành <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-21" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Death of the unnamed ninth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. The ninth Prince&#39;s unnamed son becomes the tenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-21" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2542.md" title="Third Age 2542">2542</a></td>
@@ -1165,12 +1165,12 @@ images:
 <tr>
 <td><a href="Third_Age_2545.md" title="Third Age 2545">2545</a></td>
 <td>945</td>
-<td>Cái chết của <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua</a> <a href="../E/Eorl.md" title="Eorl">Eorl</a>. <sup id="cite_ref-TA_2-58" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><a href="../B/Brego.md" title="Brego">Brego</a> trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a> <a href="../R/Rohan.md" title="Rohan">Rohan</a> thứ hai.<sup id="cite_ref-Mark_12-3" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup> Sự ra đời của <a href="../B/Belecthor_I.md" title="Belecthor I">Belecthor I</a>.<sup id="cite_ref-Southern_3-47" class="reference"><a href="#cite_note-Southern-3">[3]</a></sup>
+<td>Death of <a href="../K/King_of_Rohan.md" title="King of Rohan">King</a> <a href="../E/Eorl.md" title="Eorl">Eorl</a>. <sup id="cite_ref-TA_2-58" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><a href="../B/Brego.md" title="Brego">Brego</a> becomes the second <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a> <a href="../R/Rohan.md" title="Rohan">Rohan</a>.<sup id="cite_ref-Mark_12-3" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup> Birth of <a href="../B/Belecthor_I.md" title="Belecthor I">Belecthor I</a>.<sup id="cite_ref-Southern_3-47" class="reference"><a href="#cite_note-Southern-3">[3]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2546.md" title="Third Age 2546">2546</a></td>
 <td>946</td>
-<td>Sự ra đời của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười hai không tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-22" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Birth of the unnamed twelfth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-22" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2552.md" title="Third Age 2552">2552</a></td>
@@ -1190,17 +1190,17 @@ images:
 <tr>
 <td><a href="Third_Age_2567.md" title="Third Age 2567">2567</a></td>
 <td>967</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý</a> <a href="../C/Cirion.md" title="Cirion">Cirion</a>. <a href="../H/Hallas.md" title="Hallas">Hallas</a> trở thành <a href="../S/Steward_of_Gondor.md" title="Steward of Gondor">Quản gia thứ mười ba của Gondor</a>.<sup id="cite_ref-South_5-42" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../C/Cirion.md" title="Cirion">Cirion</a>. <a href="../H/Hallas.md" title="Hallas">Hallas</a> becomes the thirteenth <a href="../S/Steward_of_Gondor.md" title="Steward of Gondor">Steward of Gondor</a>.<sup id="cite_ref-South_5-42" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2569.md" title="Third Age 2569">2569</a></td>
 <td>969</td>
-<td><a href="../K/King_of_Rohan.md" title="King of Rohan">Vua</a> <a href="../B/Brego.md" title="Brego">Brego</a> hoàn thành <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>.<sup id="cite_ref-TA_2-59" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../K/King_of_Rohan.md" title="King of Rohan">King</a> <a href="../B/Brego.md" title="Brego">Brego</a> completes <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>.<sup id="cite_ref-TA_2-59" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2570.md" title="Third Age 2570">2570</a></td>
 <td>970</td>
-<td><a href="../B/Baldor.md" title="Baldor">Baldor</a> đi vào <a href="../P/Paths_of_the_Dead.md" title="Paths of the Dead">Con đường của người chết</a>. Cái chết của <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua</a> <a href="../B/Brego.md" title="Brego">Brego</a>. <a href="../A/Aldor.md" title="Aldor">Aldor</a> trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a> thứ ba. Sự ra đời của <a href="../F/Fréa.md" title="Fréa">Fréa</a>.<sup id="cite_ref-Mark_12-4" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup> <a href="../D/Dragons.md" title="Dragons">Rồng</a> xuất hiện trở lại vào <a class="mw-redirect" href="../E/Ered_Mithrin.md" title="Ered Mithrin">Ered Mithrin</a>.<sup id="cite_ref-TA_2-60" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../B/Baldor.md" title="Baldor">Baldor</a> enters the <a href="../P/Paths_of_the_Dead.md" title="Paths of the Dead">Paths of the Dead</a>. Death of <a href="../K/King_of_Rohan.md" title="King of Rohan">King</a> <a href="../B/Brego.md" title="Brego">Brego</a>. <a href="../A/Aldor.md" title="Aldor">Aldor</a> becomes the third <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a>. Birth of <a href="../F/Fréa.md" title="Fréa">Fréa</a>.<sup id="cite_ref-Mark_12-4" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup> <a href="../D/Dragons.md" title="Dragons">Dragons</a> reappear in <a class="mw-redirect" href="../E/Ered_Mithrin.md" title="Ered Mithrin">Ered Mithrin</a>.<sup id="cite_ref-TA_2-60" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2576.md" title="Third Age 2576">2576</a></td>
@@ -1210,7 +1210,7 @@ images:
 <tr>
 <td><a href="Third_Age_2582.md" title="Third Age 2582">2582</a></td>
 <td>982</td>
-<td>Cái chết của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười chưa được đặt tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. Người con trai giấu tên của Thân vương thứ mười trở thành <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười một của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-23" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Death of the unnamed tenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. The tenth Prince&#39;s unnamed son becomes the eleventh <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-23" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2585.md" title="Third Age 2585">2585</a></td>
@@ -1220,7 +1220,7 @@ images:
 <tr>
 <td><a href="Third_Age_2588.md" title="Third Age 2588">2588</a></td>
 <td>988</td>
-<td>Cái chết của <a href="../A/Aragost.md" title="Aragost">Aragost</a>. <a href="../A/Aravorn.md" title="Aravorn">Aravorn</a> trở thành <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Thủ lĩnh thứ chín của Dúnedain</a>.<sup id="cite_ref-North_6-29" class="reference"><a href="#cite_note-North-6">[6]</a></sup><br/>Sự ra đời của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười ba vô danh của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-24" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Death of <a href="../A/Aragost.md" title="Aragost">Aragost</a>. <a href="../A/Aravorn.md" title="Aravorn">Aravorn</a> becomes the ninth <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Chieftain of the Dúnedain</a>.<sup id="cite_ref-North_6-29" class="reference"><a href="#cite_note-North-6">[6]</a></sup><br/>Birth of the unnamed thirteenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-24" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2589.md" title="Third Age 2589">2589</a></td>
@@ -1230,7 +1230,7 @@ images:
 <tr>
 <td><a href="Third_Age_2590.md" title="Third Age 2590">2590</a></td>
 <td>990</td>
-<td><b><a href="Thrór.md" title="Thrór">Thrór</a> quay lại <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Erebor</a> và trở thành <a href="../K/King_under_the_Mountain.md" title="King under the Mountain">Vua Dưới Núi</a>.</b><sup id="cite_ref-Durin_10-13" class="reference"><a href="#cite_note-Durin-10">[9]</a></sup> <a href="../G/Grór.md" title="Grór">Grór</a> chuyển đến <a href="../I/Iron_Hills.md" title="Iron Hills">Dãy Đồi Sắt</a>.<sup id="cite_ref-TA_2-62" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><b><a href="Thrór.md" title="Thrór">Thrór</a> returns to <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Erebor</a> and becomes <a href="../K/King_under_the_Mountain.md" title="King under the Mountain">King under the Mountain</a>.</b><sup id="cite_ref-Durin_10-13" class="reference"><a href="#cite_note-Durin-10">[9]</a></sup> <a href="../G/Grór.md" title="Grór">Grór</a> goes to the <a href="../I/Iron_Hills.md" title="Iron Hills">Iron Hills</a>.<sup id="cite_ref-TA_2-62" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2594.md" title="Third Age 2594">2594</a></td>
@@ -1245,7 +1245,7 @@ images:
 <tr>
 <td><a href="Third_Age_2605.md" title="Third Age 2605">2605</a></td>
 <td>1005</td>
-<td>Cái chết của <a href="../S/Steward_of_Gondor.md" title="Steward of Gondor">Quản gia</a> <a href="../H/Hallas.md" title="Hallas">Hallas</a>. <a href="../H/Húrin_II.md" title="Húrin II">Húrin II</a> trở thành <a href="../S/Steward_of_Gondor.md" title="Steward of Gondor">Quản gia thứ mười bốn của Gondor</a>.<sup id="cite_ref-South_5-43" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a href="../S/Steward_of_Gondor.md" title="Steward of Gondor">Steward</a> <a href="../H/Hallas.md" title="Hallas">Hallas</a>. <a href="../H/Húrin_II.md" title="Húrin II">Húrin II</a> becomes the fourteenth <a href="../S/Steward_of_Gondor.md" title="Steward of Gondor">Steward of Gondor</a>.<sup id="cite_ref-South_5-43" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2619.md" title="Third Age 2619">2619</a></td>
@@ -1260,7 +1260,7 @@ images:
 <tr>
 <td><a href="Third_Age_2623.md" title="Third Age 2623">2623</a></td>
 <td>1023</td>
-<td>Cái chết của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười một vô danh của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. Người con trai giấu tên của Thân vương thứ mười một trở thành <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười hai của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-25" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Death of the unnamed eleventh <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. The eleventh Prince&#39;s unnamed son becomes the twelfth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-25" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2626.md" title="Third Age 2626">2626</a></td>
@@ -1270,42 +1270,42 @@ images:
 <tr>
 <td><a href="Third_Age_2627.md" title="Third Age 2627">2627</a></td>
 <td>1027</td>
-<td>Sự ra đời của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười bốn không tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-26" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Birth of the unnamed fourteenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-26" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2628.md" title="Third Age 2628">2628</a></td>
 <td>1028</td>
-<td>Sự ra đời của <a href="../A/Arassuil.md" title="Arassuil">Arassuil</a>.<sup id="cite_ref-Northern_4-32" class="reference"><a href="#cite_note-Northern-4">[4]</a></sup> Cái chết của <a href="../S/Steward_of_Gondor.md" title="Steward of Gondor">Quản gia</a> <a href="../H/Húrin_II.md" title="Húrin II">Húrin II</a>. <a href="../B/Belecthor_I.md" title="Belecthor I">Belecthor I</a> trở thành <a href="../S/Steward_of_Gondor.md" title="Steward of Gondor">Quản gia thứ mười lăm của Gondor</a>.<sup id="cite_ref-South_5-44" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Birth of <a href="../A/Arassuil.md" title="Arassuil">Arassuil</a>.<sup id="cite_ref-Northern_4-32" class="reference"><a href="#cite_note-Northern-4">[4]</a></sup> Death of <a href="../S/Steward_of_Gondor.md" title="Steward of Gondor">Steward</a> <a href="../H/Húrin_II.md" title="Húrin II">Húrin II</a>. <a href="../B/Belecthor_I.md" title="Belecthor I">Belecthor I</a> becomes the fifteenth <a href="../S/Steward_of_Gondor.md" title="Steward of Gondor">Steward of Gondor</a>.<sup id="cite_ref-South_5-44" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2644.md" title="Third Age 2644">2644</a></td>
 <td>1044</td>
-<td><b><a href="Thráin.md" title="Thráin">Thráin II</a> sinh.</b><sup id="cite_ref-Durin_10-14" class="reference"><a href="#cite_note-Durin-10">[9]</a></sup> <a href="../D/Déor.md" title="Déor">Déor</a> sinh.<sup id="cite_ref-Mark_12-7" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
+<td><b><a href="Thráin.md" title="Thráin">Thráin II</a> born.</b><sup id="cite_ref-Durin_10-14" class="reference"><a href="#cite_note-Durin-10">[9]</a></sup> <a href="../D/Déor.md" title="Déor">Déor</a> born.<sup id="cite_ref-Mark_12-7" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2645.md" title="Third Age 2645">2645</a></td>
 <td>1045</td>
-<td>Cái chết của <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua</a> <a href="../A/Aldor.md" title="Aldor">Aldor</a>. <a href="../F/Fréa.md" title="Fréa">Fréa</a> trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a> thứ tư.<sup id="cite_ref-Mark_12-8" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
+<td>Death of <a href="../K/King_of_Rohan.md" title="King of Rohan">King</a> <a href="../A/Aldor.md" title="Aldor">Aldor</a>. <a href="../F/Fréa.md" title="Fréa">Fréa</a> becomes the fourth <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a>.<sup id="cite_ref-Mark_12-8" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2654.md" title="Third Age 2654">2654</a></td>
 <td>1054</td>
-<td>Cái chết của <a href="../A/Aravorn.md" title="Aravorn">Aravorn</a>. <a href="../A/Arahad_II.md" title="Arahad II">Arahad II</a> trở thành <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Thủ lĩnh của Dúnedain</a>.<sup id="cite_ref-North_6-30" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a href="../A/Aravorn.md" title="Aravorn">Aravorn</a>. <a href="../A/Arahad_II.md" title="Arahad II">Arahad II</a> becomes <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Chieftain of the Dúnedain</a>.<sup id="cite_ref-North_6-30" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2655.md" title="Third Age 2655">2655</a></td>
 <td>1055</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản gia</a> <a href="../B/Belecthor_I.md" title="Belecthor I">Belecthor I</a>. <a href="../O/Orodreth_(Steward_of_Gondor).md" title="Orodreth (Steward of Gondor)">Orodreth</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Người quản lý cầm quyền</a> thứ mười sáu của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-45" class="reference"><a href="#cite_note-South-5">[5]</a></sup> Ngày sinh của <a href="../B/Beren_(Steward_of_Gondor).md" title="Beren (Steward of Gondor)">Beren</a>.<sup id="cite_ref-Southern_3-51" class="reference"><a href="#cite_note-Southern-3">[3]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../B/Belecthor_I.md" title="Belecthor I">Belecthor I</a>. <a href="../O/Orodreth_(Steward_of_Gondor).md" title="Orodreth (Steward of Gondor)">Orodreth</a> becomes the sixteenth <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-45" class="reference"><a href="#cite_note-South-5">[5]</a></sup> Birth of <a href="../B/Beren_(Steward_of_Gondor).md" title="Beren (Steward of Gondor)">Beren</a>.<sup id="cite_ref-Southern_3-51" class="reference"><a href="#cite_note-Southern-3">[3]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2659.md" title="Third Age 2659">2659</a></td>
 <td>1059</td>
-<td>Cái chết của <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua</a> <a href="../F/Fréa.md" title="Fréa">Fréa</a>. <a href="../F/Fréawine.md" title="Fréawine">Fréawin</a> trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a> thứ năm.<sup id="cite_ref-Mark_12-9" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
+<td>Death of <a href="../K/King_of_Rohan.md" title="King of Rohan">King</a> <a href="../F/Fréa.md" title="Fréa">Fréa</a>. <a href="../F/Fréawine.md" title="Fréawine">Fréawine</a> becomes the fifth <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a>.<sup id="cite_ref-Mark_12-9" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2660.md" title="Third Age 2660">2660</a></td>
 <td>1060</td>
-<td>Cái chết của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười hai vô danh của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. Người con trai giấu tên của Thân vương thứ mười hai trở thành <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười ba của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-27" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Death of the unnamed twelfth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. The twelfth Prince&#39;s unnamed son becomes the thirteenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-27" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2662.md" title="Third Age 2662">2662</a></td>
@@ -1330,27 +1330,27 @@ images:
 <tr>
 <td><a href="Third_Age_2670.md" title="Third Age 2670">2670</a></td>
 <td>1070</td>
-<td><a href="Tobold_Hornblower.md" title="Tobold Hornblower">Cây Tobold Hornbold</a> <a href="../P/Pipe-weed.md" title="Pipe-weed">Cỏ dại</a>.<sup id="cite_ref-TA_2-63" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="Tobold_Hornblower.md" title="Tobold Hornblower">Tobold Hornblower</a> plants <a href="../P/Pipe-weed.md" title="Pipe-weed">Pipe-weed</a>.<sup id="cite_ref-TA_2-63" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2671.md" title="Third Age 2671">2671</a></td>
 <td>1071</td>
-<td>Sự ra đời của <a href="../G/Gróin.md" title="Gróin">Gróin</a>.<sup id="cite_ref-Durin_10-17" class="reference"><a href="#cite_note-Durin-10">[9]</a></sup><br/>Sự ra đời của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười lăm vô danh của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-28" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Birth of <a href="../G/Gróin.md" title="Gróin">Gróin</a>.<sup id="cite_ref-Durin_10-17" class="reference"><a href="#cite_note-Durin-10">[9]</a></sup><br/>Birth of the unnamed fifteenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-28" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2680.md" title="Third Age 2680">2680</a></td>
 <td>1080</td>
-<td>Cái chết của <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua</a> <a href="../F/Fréawine.md" title="Fréawine">Fréawin</a>. <a href="../G/Goldwine.md" title="Goldwine">Goldwine</a> trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a> thứ sáu.<sup id="cite_ref-Mark_12-11" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
+<td>Death of <a href="../K/King_of_Rohan.md" title="King of Rohan">King</a> <a href="../F/Fréawine.md" title="Fréawine">Fréawine</a>. <a href="../G/Goldwine.md" title="Goldwine">Goldwine</a> becomes the sixth <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a>.<sup id="cite_ref-Mark_12-11" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2683.md" title="Third Age 2683">2683</a></td>
 <td>1083</td>
-<td>Đã xây dựng <a href="../S/Smials.md" title="Smials">Nụ cười</a> tuyệt vời.<sup id="cite_ref-TA_2-64" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td>Great <a href="../S/Smials.md" title="Smials">Smials</a> constructed.<sup id="cite_ref-TA_2-64" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2685.md" title="Third Age 2685">2685</a></td>
 <td>1085</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý</a> <a href="../O/Orodreth_(Steward_of_Gondor).md" title="Orodreth (Steward of Gondor)">Orodreth</a>. <a href="../E/Ecthelion_I.md" title="Ecthelion I">Ecthelion Tôi</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý cầm quyền</a> thứ mười bảy của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-46" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../O/Orodreth_(Steward_of_Gondor).md" title="Orodreth (Steward of Gondor)">Orodreth</a>. <a href="../E/Ecthelion_I.md" title="Ecthelion I">Ecthelion I</a> becomes the seventeenth <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-46" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2691.md" title="Third Age 2691">2691</a></td>
@@ -1365,12 +1365,12 @@ images:
 <tr>
 <td><a href="Third_Age_2698.md" title="Third Age 2698">2698</a></td>
 <td>1098</td>
-<td><a href="../E/Ecthelion_I.md" title="Ecthelion I">Ecthelion Tôi</a> xây dựng lại <a href="Tower_of_Ecthelion.md" title="Tower of Ecthelion">Tháp Trắng</a> ở <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>.<sup id="cite_ref-TA_2-65" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản gia</a> <a href="../E/Ecthelion_I.md" title="Ecthelion I">Ecthelion I</a>. <a href="../E/Egalmoth_(Steward_of_Gondor).md" title="Egalmoth (Steward of Gondor)">Egalmoth</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý cầm quyền</a> thứ mười tám của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-47" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td><a href="../E/Ecthelion_I.md" title="Ecthelion I">Ecthelion I</a> rebuilds the <a href="Tower_of_Ecthelion.md" title="Tower of Ecthelion">White Tower</a> in <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>.<sup id="cite_ref-TA_2-65" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../E/Ecthelion_I.md" title="Ecthelion I">Ecthelion I</a>. <a href="../E/Egalmoth_(Steward_of_Gondor).md" title="Egalmoth (Steward of Gondor)">Egalmoth</a> becomes the eighteenth <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-47" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2699.md" title="Third Age 2699">2699</a></td>
 <td>1099</td>
-<td>Cái chết của <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua</a> <a href="../G/Goldwine.md" title="Goldwine">Goldwine</a>. <a href="../D/Déor.md" title="Déor">Déor</a> trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a> thứ bảy.<sup id="cite_ref-Mark_12-13" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
+<td>Death of <a href="../K/King_of_Rohan.md" title="King of Rohan">King</a> <a href="../G/Goldwine.md" title="Goldwine">Goldwine</a>. <a href="../D/Déor.md" title="Déor">Déor</a> becomes the seventh <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a>.<sup id="cite_ref-Mark_12-13" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2700.md" title="Third Age 2700">2700</a></td>
@@ -1380,7 +1380,7 @@ images:
 <tr>
 <td><a href="Third_Age_2701.md" title="Third Age 2701">2701</a></td>
 <td>1101</td>
-<td>Sự ra đời của <a href="../F/Ferumbras_Took_II.md" title="Ferumbras Took II">Ferumbras Took II</a>.<sup id="cite_ref-Took_13-2" class="reference"><a href="#cite_note-Took-13">[12]</a></sup><br/>Cái chết của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười ba vô danh của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. Người con trai giấu tên của Thân vương thứ mười ba trở thành <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười bốn của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-29" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Birth of <a href="../F/Ferumbras_Took_II.md" title="Ferumbras Took II">Ferumbras Took II</a>.<sup id="cite_ref-Took_13-2" class="reference"><a href="#cite_note-Took-13">[12]</a></sup><br/>Death of the unnamed thirteenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. The thirteenth Prince&#39;s unnamed son becomes the fourteenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-29" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2704.md" title="Third Age 2704">2704</a></td>
@@ -1390,12 +1390,12 @@ images:
 <tr>
 <td><a href="Third_Age_2709.md" title="Third Age 2709">2709</a></td>
 <td>1109</td>
-<td>Sự ra đời của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười sáu không tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-30" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Birth of the unnamed sixteenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-30" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2710.md" title="Third Age 2710">2710</a></td>
 <td>1110</td>
-<td><a href="../D/Dunlendings.md" title="Dunlendings">Dunlending</a> chụp <a href="../I/Isengard.md" title="Isengard">Isengard</a>.
+<td><a href="../D/Dunlendings.md" title="Dunlendings">Dunlendings</a> capture <a href="../I/Isengard.md" title="Isengard">Isengard</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_2711.md" title="Third Age 2711">2711</a></td>
@@ -1405,17 +1405,17 @@ images:
 <tr>
 <td><a href="Third_Age_2718.md" title="Third Age 2718">2718</a></td>
 <td>1118</td>
-<td>Cái chết của <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua</a> <a href="../D/Déor.md" title="Déor">Déor</a>. <a href="../G/Gram.md" title="Gram">Gram</a> trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a> thứ tám.<sup id="cite_ref-Mark_12-14" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
+<td>Death of <a href="../K/King_of_Rohan.md" title="King of Rohan">King</a> <a href="../D/Déor.md" title="Déor">Déor</a>. <a href="../G/Gram.md" title="Gram">Gram</a> becomes the eighth <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a>.<sup id="cite_ref-Mark_12-14" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2719.md" title="Third Age 2719">2719</a></td>
 <td>1119</td>
-<td>Cái chết của <a href="../A/Arahad_II.md" title="Arahad II">Arahad II</a>. <a href="../A/Arassuil.md" title="Arassuil">Arassuil</a> trở thành <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Thủ lĩnh của Dúnedain</a>.<sup id="cite_ref-North_6-31" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a href="../A/Arahad_II.md" title="Arahad II">Arahad II</a>. <a href="../A/Arassuil.md" title="Arassuil">Arassuil</a> becomes <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Chieftain of the Dúnedain</a>.<sup id="cite_ref-North_6-31" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2722.md" title="Third Age 2722">2722</a></td>
 <td>1122</td>
-<td>Cái chết của <a href="../I/Isengrim_Took_II.md" title="Isengrim Took II">Isengrim Took II</a>. <a href="../I/Isumbras_Took_III.md" title="Isumbras Took III">Isumbras Took III</a> trở thành <a href="Thain.md" title="Thain">Thain</a> của <a href="The_Shire.md" title="The Shire"> Shire</a>.<sup id="cite_ref-Took_13-4" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
+<td>Death of <a href="../I/Isengrim_Took_II.md" title="Isengrim Took II">Isengrim Took II</a>. <a href="../I/Isumbras_Took_III.md" title="Isumbras Took III">Isumbras Took III</a> becomes <a href="Thain.md" title="Thain">Thain</a> of <a href="The_Shire.md" title="The Shire">the Shire</a>.<sup id="cite_ref-Took_13-4" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2726.md" title="Third Age 2726">2726</a></td>
@@ -1430,7 +1430,7 @@ images:
 <tr>
 <td><a href="Third_Age_2733.md" title="Third Age 2733">2733</a></td>
 <td>1133</td>
-<td>Cái chết của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười bốn vô danh của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. Người con trai giấu tên của Thân vương thứ mười bốn trở thành <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười lăm của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-31" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Death of the unnamed fourteenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. The fourteenth Prince&#39;s unnamed son becomes the fifteenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-31" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2734.md" title="Third Age 2734">2734</a></td>
@@ -1440,17 +1440,17 @@ images:
 <tr>
 <td><a href="Third_Age_2740.md" title="Third Age 2740">2740</a></td>
 <td>1140</td>
-<td><a href="../O/Orcs.md" title="Orcs">Orc</a> xâm chiếm <a href="../E/Eriador.md" title="Eriador">Eriador</a>.
+<td><a href="../O/Orcs.md" title="Orcs">Orcs</a> invade <a href="../E/Eriador.md" title="Eriador">Eriador</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_2741.md" title="Third Age 2741">2741</a></td>
 <td>1141</td>
-<td>Cái chết của <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua</a> <a href="../G/Gram.md" title="Gram">Gram</a>. <a href="../H/Helm.md" title="Helm">Helm</a> trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a> thứ chín.<sup id="cite_ref-Mark_12-16" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
+<td>Death of <a href="../K/King_of_Rohan.md" title="King of Rohan">King</a> <a href="../G/Gram.md" title="Gram">Gram</a>. <a href="../H/Helm.md" title="Helm">Helm</a> becomes the ninth <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a>.<sup id="cite_ref-Mark_12-16" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2743.md" title="Third Age 2743">2743</a></td>
 <td>1143</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý</a> <a href="../E/Egalmoth_(Steward_of_Gondor).md" title="Egalmoth (Steward of Gondor)">Egalmoth</a>. <a href="../B/Beren_(Steward_of_Gondor).md" title="Beren (Steward of Gondor)">Beren</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý cầm quyền</a> thứ mười chín của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-48" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../E/Egalmoth_(Steward_of_Gondor).md" title="Egalmoth (Steward of Gondor)">Egalmoth</a>. <a href="../B/Beren_(Steward_of_Gondor).md" title="Beren (Steward of Gondor)">Beren</a> becomes the nineteenth <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-48" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2745.md" title="Third Age 2745">2745</a></td>
@@ -1460,7 +1460,7 @@ images:
 <tr>
 <td><a href="Third_Age_2746.md" title="Third Age 2746">2746</a></td>
 <td>1146</td>
-<td><b>Sự ra đời của <a class="mw-redirect" href="Thorin_II_Oakenshield.md" title="Thorin II Oakenshield">Thorin II Oakenshield</a>.</b><sup id="cite_ref-Durin_10-18" class="reference"><a href="#cite_note-Durin-10">[9]</a></sup><br/> <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười lăm giấu tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a> bị giết bởi <a class="mw-redirect" href="../C/Corsairs.md" title="Corsairs">Corsairs</a> của <a href="../U/Umbar.md" title="Umbar">Umbar</a>. Đứa con trai giấu tên của Thân vương thứ mười lăm trở thành <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười sáu của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<br/>Sự ra đời của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười bảy không tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-32" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td><b>Birth of <a class="mw-redirect" href="Thorin_II_Oakenshield.md" title="Thorin II Oakenshield">Thorin II Oakenshield</a>.</b><sup id="cite_ref-Durin_10-18" class="reference"><a href="#cite_note-Durin-10">[9]</a></sup><br/>The unnamed fifteenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a> is killed by the <a class="mw-redirect" href="../C/Corsairs.md" title="Corsairs">Corsairs</a> of <a href="../U/Umbar.md" title="Umbar">Umbar</a>. The fifteenth Prince&#39;s unnamed son becomes the sixteenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<br/>Birth of the unnamed seventeenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-32" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2747.md" title="Third Age 2747">2747</a></td>
@@ -1470,7 +1470,7 @@ images:
 <tr>
 <td><a href="Third_Age_2748.md" title="Third Age 2748">2748</a></td>
 <td>1148</td>
-<td><a href="../O/Orcs.md" title="Orcs">Orc</a> được điều khiển từ <a href="../E/Eriador.md" title="Eriador">Eriador</a>.
+<td><a href="../O/Orcs.md" title="Orcs">Orcs</a> driven from <a href="../E/Eriador.md" title="Eriador">Eriador</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_2751.md" title="Third Age 2751">2751</a></td>
@@ -1495,12 +1495,12 @@ images:
 <tr>
 <td><a href="Third_Age_2758.md" title="Third Age 2758">2758</a></td>
 <td>1158</td>
-<td><a href="../U/Umbar.md" title="Umbar">Umbar</a> tấn công <a href="../G/Gondor.md" title="Gondor">Gondor</a>. <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> và <a href="../D/Dunlendings.md" title="Dunlendings">Dunlending</a> xâm chiếm <a href="../R/Rohan.md" title="Rohan">Rohan</a>. <a href="../E/Edoras.md" title="Edoras">Edoras</a> bị bao vây. <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> hỗ trợ <a href="The_Shire.md" title="The Shire"> Shire</a>. <a href="../L/Long_Winter.md" title="Long Winter">Mùa Đông Dài</a> bắt đầu.<sup id="cite_ref-TA_2-67" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Cái chết của <a class="mw-redirect" href="../H/Haleth_son_of_Helm.md" title="Haleth son of Helm">Haleth</a> và <a class="mw-redirect" href="../H/Háma_son_of_Helm.md" title="Háma son of Helm">Háma</a>.
+<td><a href="../U/Umbar.md" title="Umbar">Umbar</a> attacks <a href="../G/Gondor.md" title="Gondor">Gondor</a>. <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> and <a href="../D/Dunlendings.md" title="Dunlendings">Dunlendings</a> invade <a href="../R/Rohan.md" title="Rohan">Rohan</a>. <a href="../E/Edoras.md" title="Edoras">Edoras</a> siezed. <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> aids <a href="The_Shire.md" title="The Shire">the Shire</a>. The <a href="../L/Long_Winter.md" title="Long Winter">Long Winter</a> begins.<sup id="cite_ref-TA_2-67" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Deaths of <a class="mw-redirect" href="../H/Haleth_son_of_Helm.md" title="Haleth son of Helm">Haleth</a> and <a class="mw-redirect" href="../H/Háma_son_of_Helm.md" title="Háma son of Helm">Háma</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_2759.md" title="Third Age 2759">2759</a></td>
 <td>1159</td>
-<td><b><a href="../S/Saruman.md" title="Saruman">Saruman</a> lấy được chìa khóa của <a href="../O/Orthanc.md" title="Orthanc">Orthanc</a>.</b> <a href="../E/Edoras.md" title="Edoras">Edoras</a> đã lấy lại được.<sup id="cite_ref-TA_2-68" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Kết thúc <a href="../L/Long_Winter.md" title="Long Winter">Mùa Đông Dài</a>. Cái chết của <a href="../I/Isumbras_Took_III.md" title="Isumbras Took III">Isumbras Took III</a>. <a href="../F/Ferumbras_Took_II.md" title="Ferumbras Took II">Ferumbras Took II</a> trở thành <a href="Thain.md" title="Thain">Thain</a> của <a href="The_Shire.md" title="The Shire"> Shire</a>.<sup id="cite_ref-Took_13-6" class="reference"><a href="#cite_note-Took-13">[12]</a></sup> Cái chết của <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua</a> <a href="../H/Helm.md" title="Helm">Helm Hammerhand</a>. <a href="../F/Fréaláf.md" title="Fréaláf">Fréaláf</a> (con trai của <a href="../H/Hild.md" title="Hild">Hild</a>, em gái của <a href="../H/Helm.md" title="Helm">Helm</a>) trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a> thứ mười.<sup id="cite_ref-Mark_12-18" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
+<td><b><a href="../S/Saruman.md" title="Saruman">Saruman</a> gains the keys to <a href="../O/Orthanc.md" title="Orthanc">Orthanc</a>.</b> <a href="../E/Edoras.md" title="Edoras">Edoras</a> recaptured.<sup id="cite_ref-TA_2-68" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> End of the <a href="../L/Long_Winter.md" title="Long Winter">Long Winter</a>. Death of <a href="../I/Isumbras_Took_III.md" title="Isumbras Took III">Isumbras Took III</a>. <a href="../F/Ferumbras_Took_II.md" title="Ferumbras Took II">Ferumbras Took II</a> becomes <a href="Thain.md" title="Thain">Thain</a> of <a href="The_Shire.md" title="The Shire">the Shire</a>.<sup id="cite_ref-Took_13-6" class="reference"><a href="#cite_note-Took-13">[12]</a></sup> Death of <a href="../K/King_of_Rohan.md" title="King of Rohan">King</a> <a href="../H/Helm.md" title="Helm">Helm Hammerhand</a>. <a href="../F/Fréaláf.md" title="Fréaláf">Fréaláf</a> (son of <a href="../H/Hild.md" title="Hild">Hild</a>, sister of <a href="../H/Helm.md" title="Helm">Helm</a>) becomes the tenth <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a>.<sup id="cite_ref-Mark_12-18" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2760.md" title="Third Age 2760">2760</a></td>
@@ -1510,7 +1510,7 @@ images:
 <tr>
 <td><a href="Third_Age_2763.md" title="Third Age 2763">2763</a></td>
 <td>1163</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý</a> <a href="../B/Beren_(Steward_of_Gondor).md" title="Beren (Steward of Gondor)">Beren</a>. <a href="../B/Beregond_(Steward_of_Gondor).md" title="Beregond (Steward of Gondor)">Beregond</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Người quản lý cầm quyền</a> thứ hai mươi của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-49" class="reference"><a href="#cite_note-South-5">[5]</a></sup> Ngày sinh của <a href="../B/Balin.md" title="Balin">Balin</a>.<sup id="cite_ref-Durin_10-21" class="reference"><a href="#cite_note-Durin-10">[9]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../B/Beren_(Steward_of_Gondor).md" title="Beren (Steward of Gondor)">Beren</a>. <a href="../B/Beregond_(Steward_of_Gondor).md" title="Beregond (Steward of Gondor)">Beregond</a> becomes the twentieth <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-49" class="reference"><a href="#cite_note-South-5">[5]</a></sup> Birth of <a href="../B/Balin.md" title="Balin">Balin</a>.<sup id="cite_ref-Durin_10-21" class="reference"><a href="#cite_note-Durin-10">[9]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2767.md" title="Third Age 2767">2767</a></td>
@@ -1525,7 +1525,7 @@ images:
 <tr>
 <td><a href="Third_Age_2770.md" title="Third Age 2770">2770</a></td>
 <td>1170</td>
-<td><b>Tiêu hủy <a href="../D/Dale.md" title="Dale">Dale</a>. <a href="../S/Smaug.md" title="Smaug">Smaug</a> mất <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Erebor</a>.</b><sup id="cite_ref-TA_2-69" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Sự ra đời của <a href="../B/Briffo_Boffin.md" title="Briffo Boffin">Briffo Boffin</a>.<sup id="cite_ref-Boffin_18-2" class="reference"><a href="#cite_note-Boffin-18">[17]</a></sup>
+<td><b>Destruction of <a href="../D/Dale.md" title="Dale">Dale</a>. <a href="../S/Smaug.md" title="Smaug">Smaug</a> takes <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Erebor</a>.</b><sup id="cite_ref-TA_2-69" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Birth of <a href="../B/Briffo_Boffin.md" title="Briffo Boffin">Briffo Boffin</a>.<sup id="cite_ref-Boffin_18-2" class="reference"><a href="#cite_note-Boffin-18">[17]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2772.md" title="Third Age 2772">2772</a></td>
@@ -1570,12 +1570,12 @@ images:
 <tr>
 <td><a href="Third_Age_2784.md" title="Third Age 2784">2784</a></td>
 <td>1184</td>
-<td>Cái chết của <a href="../A/Arassuil.md" title="Arassuil">Arassuil</a>. <a href="../A/Arathorn_I.md" title="Arathorn I">Arathorn I</a> trở thành <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Thủ lĩnh của Dúnedain</a>.<sup id="cite_ref-North_6-32" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
+<td>Death of <a href="../A/Arassuil.md" title="Arassuil">Arassuil</a>. <a href="../A/Arathorn_I.md" title="Arathorn I">Arathorn I</a> becomes <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Chieftain of the Dúnedain</a>.<sup id="cite_ref-North_6-32" class="reference"><a href="#cite_note-North-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2785.md" title="Third Age 2785">2785</a></td>
 <td>1185</td>
-<td>Sự ra đời của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười tám vô danh của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-33" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Birth of the unnamed eighteenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-33" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2788.md" title="Third Age 2788">2788</a></td>
@@ -1585,42 +1585,42 @@ images:
 <tr>
 <td><a href="Third_Age_2790.md" title="Third Age 2790">2790</a></td>
 <td>1190</td>
-<td>Cái chết của <a href="Thrór.md" title="Thrór">Thrór</a>. <a href="../D/Dwarves.md" title="Dwarves">Người Lùn</a> chuẩn bị chiến tranh. <a href="../G/Gerontius_Took.md" title="Gerontius Took">Gerontius Took</a> sinh ra.<sup id="cite_ref-TA_2-70" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-Took_13-7" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
+<td>Death of <a href="Thrór.md" title="Thrór">Thrór</a>. <a href="../D/Dwarves.md" title="Dwarves">Dwarves</a> prepare for war. <a href="../G/Gerontius_Took.md" title="Gerontius Took">Gerontius Took</a> born.<sup id="cite_ref-TA_2-70" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-Took_13-7" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2793.md" title="Third Age 2793">2793</a></td>
 <td>1193</td>
-<td><b> <a href="../W/War_of_the_Dwarves_and_Orcs.md" title="War of the Dwarves and Orcs">Cuộc chiến giữa Người Lùn và Orc</a> bắt đầu.</b><sup id="cite_ref-TA_2-71" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><b>The <a href="../W/War_of_the_Dwarves_and_Orcs.md" title="War of the Dwarves and Orcs">War of the Dwarves and Orcs</a> begins.</b><sup id="cite_ref-TA_2-71" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2795.md" title="Third Age 2795">2795</a></td>
 <td>1195</td>
-<td><a href="../B/Basso_Boffin.md" title="Basso Boffin">Basso Boffin</a> rời <a href="The_Shire.md" title="The Shire"> Shire</a> và được cho là sẽ ra biển.<sup id="cite_ref-Boffin_18-4" class="reference"><a href="#cite_note-Boffin-18">[17]</a></sup>
+<td><a href="../B/Basso_Boffin.md" title="Basso Boffin">Basso Boffin</a> leaves <a href="The_Shire.md" title="The Shire">the Shire</a> and supposedly goes to sea.<sup id="cite_ref-Boffin_18-4" class="reference"><a href="#cite_note-Boffin-18">[17]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2798.md" title="Third Age 2798">2798</a></td>
 <td>1198</td>
-<td>Cái chết của <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua</a> <a href="../F/Fréaláf.md" title="Fréaláf">Fréaláf Hildeson</a>. <a class="mw-redirect" href="../B/Brytta_Léofa.md" title="Brytta Léofa">Brytta</a> trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a> thứ mười một.<sup id="cite_ref-Mark_12-20" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
+<td>Death of <a href="../K/King_of_Rohan.md" title="King of Rohan">King</a> <a href="../F/Fréaláf.md" title="Fréaláf">Fréaláf Hildeson</a>. <a class="mw-redirect" href="../B/Brytta_Léofa.md" title="Brytta Léofa">Brytta</a> becomes the eleventh <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a>.<sup id="cite_ref-Mark_12-20" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2799.md" title="Third Age 2799">2799</a></td>
 <td>1199</td>
-<td><b><a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Trận Nanduhirion</a>.</b><sup id="cite_ref-TA_2-72" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Cái chết của <a href="../A/Azog.md" title="Azog">Azog</a>, <a class="mw-redirect" href="../N/Náin_son_of_Grór.md" title="Náin son of Grór">Náin</a>, <a href="../F/Frerin.md" title="Frerin">Frerin</a> và <a href="../F/Fundin.md" title="Fundin">Fundin</a>. <b><a href="../W/War_of_the_Dwarves_and_Orcs.md" title="War of the Dwarves and Orcs">Cuộc chiến giữa Người Lùn và Orc</a> kết thúc.</b><br/>Người thứ mười sáu giấu tên <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a> đã bị giết trong trận chiến. Người con trai giấu tên của Thân vương thứ mười sáu trở thành <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười bảy của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-34" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td><b><a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Battle of Nanduhirion</a>.</b><sup id="cite_ref-TA_2-72" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Deaths of <a href="../A/Azog.md" title="Azog">Azog</a>, <a class="mw-redirect" href="../N/Náin_son_of_Grór.md" title="Náin son of Grór">Náin</a>, <a href="../F/Frerin.md" title="Frerin">Frerin</a> and <a href="../F/Fundin.md" title="Fundin">Fundin</a>. <b><a href="../W/War_of_the_Dwarves_and_Orcs.md" title="War of the Dwarves and Orcs">War of the Dwarves and Orcs</a> ends.</b><br/>The unnamed sixteenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a> is slain in battle. The sixteenth Prince&#39;s unnamed son becomes the seventeenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-34" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2800.md" title="Third Age 2800">2800</a></td>
 <td>1200</td>
-<td><a href="../O/Orcs.md" title="Orcs">Orc</a> xâm lược <a href="../R/Rohan.md" title="Rohan">Rohan</a>.<sup id="cite_ref-TA_2-73" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../W/Wiseman_Gamwich.md" title="Wiseman Gamwich">Wiseman Gamwich</a> ra đời.<sup id="cite_ref-Gamgee_16-1" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup>
+<td><a href="../O/Orcs.md" title="Orcs">Orcs</a> invade <a href="../R/Rohan.md" title="Rohan">Rohan</a>.<sup id="cite_ref-TA_2-73" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../W/Wiseman_Gamwich.md" title="Wiseman Gamwich">Wiseman Gamwich</a> born.<sup id="cite_ref-Gamgee_16-1" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2801.md" title="Third Age 2801">2801</a></td>
 <td>1201</td>
-<td>Cái chết của <a href="../F/Ferumbras_Took_II.md" title="Ferumbras Took II">Ferumbras Took II</a>. <a href="../F/Fortinbras_Took_I.md" title="Fortinbras Took I">Fortinbras Took I</a> trở thành <a href="Thain.md" title="Thain">Thain</a> của <a href="The_Shire.md" title="The Shire"> Shire</a>.<sup id="cite_ref-Took_13-8" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
+<td>Death of <a href="../F/Ferumbras_Took_II.md" title="Ferumbras Took II">Ferumbras Took II</a>. <a href="../F/Fortinbras_Took_I.md" title="Fortinbras Took I">Fortinbras Took I</a> becomes <a href="Thain.md" title="Thain">Thain</a> of <a href="The_Shire.md" title="The Shire">the Shire</a>.<sup id="cite_ref-Took_13-8" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2802.md" title="Third Age 2802">2802</a></td>
 <td>1202</td>
-<td><a href="Thráin.md" title="Thráin">Thráin II</a> và <a class="mw-redirect" href="Thorin_II_Oakenshield.md" title="Thorin II Oakenshield">Thorin II Oakenshield</a> đến <a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered Luin</a>.
+<td><a href="Thráin.md" title="Thráin">Thráin II</a> and <a class="mw-redirect" href="Thorin_II_Oakenshield.md" title="Thorin II Oakenshield">Thorin II Oakenshield</a> come to <a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered Luin</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_2803.md" title="Third Age 2803">2803</a></td>
@@ -1650,12 +1650,12 @@ images:
 <tr>
 <td><a href="Third_Age_2810.md" title="Third Age 2810">2810</a></td>
 <td>1210</td>
-<td>Sự ra đời của <a href="../F/Fastolph_Bolger.md" title="Fastolph Bolger">Fastolph Bolger</a><sup id="cite_ref-Bolger_14-4" class="reference"><a href="#cite_note-Bolger-14">[13]</a></sup> và <a href="../H/Holman_the_greenhanded.md" title="Holman the greenhanded">Holman tay xanh</a>.<sup id="cite_ref-Gamgee_16-2" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup>
+<td>Birth of <a href="../F/Fastolph_Bolger.md" title="Fastolph Bolger">Fastolph Bolger</a><sup id="cite_ref-Bolger_14-4" class="reference"><a href="#cite_note-Bolger-14">[13]</a></sup> and <a href="../H/Holman_the_greenhanded.md" title="Holman the greenhanded">Holman the greenhanded</a>.<sup id="cite_ref-Gamgee_16-2" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2811.md" title="Third Age 2811">2811</a></td>
 <td>1211</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý</a> <a href="../B/Beregond_(Steward_of_Gondor).md" title="Beregond (Steward of Gondor)">Beregond</a>. <a href="../B/Belecthor_II.md" title="Belecthor II">Belecthor II</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý cầm quyền</a> thứ 21 của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-50" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../B/Beregond_(Steward_of_Gondor).md" title="Beregond (Steward of Gondor)">Beregond</a>. <a href="../B/Belecthor_II.md" title="Belecthor II">Belecthor II</a> becomes twenty-first <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-50" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2812.md" title="Third Age 2812">2812</a></td>
@@ -1690,7 +1690,7 @@ images:
 <tr>
 <td><a href="Third_Age_2820.md" title="Third Age 2820">2820</a></td>
 <td>1220</td>
-<td>Sự ra đời của <a href="../A/Arador.md" title="Arador">Arador</a>,<sup id="cite_ref-Northern_4-35" class="reference"><a href="#cite_note-Northern-4">[4]</a></sup> <a href="../L/Largo_Baggins.md" title="Largo Baggins">Largo Baggins</a>,<sup id="cite_ref-Baggins_17-4" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup> và <a href="../C/Cottar.md" title="Cottar">Cottar</a> (đàn ông của <a class="mw-redirect" href="../C/Cotton_Family~66362.md" title="Cotton Family">Bông</a>).<sup id="cite_ref-Gamgee_16-3" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup>
+<td>Births of <a href="../A/Arador.md" title="Arador">Arador</a>,<sup id="cite_ref-Northern_4-35" class="reference"><a href="#cite_note-Northern-4">[4]</a></sup> <a href="../L/Largo_Baggins.md" title="Largo Baggins">Largo Baggins</a>,<sup id="cite_ref-Baggins_17-4" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup> and <a href="../C/Cottar.md" title="Cottar">Cottar</a> (sire of the <a class="mw-redirect" href="../C/Cotton_Family~66362.md" title="Cotton Family">Cottons</a>).<sup id="cite_ref-Gamgee_16-3" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2822.md" title="Third Age 2822">2822</a></td>
@@ -1720,7 +1720,7 @@ images:
 <tr>
 <td><a href="Third_Age_2836.md" title="Third Age 2836">2836</a></td>
 <td>1236</td>
-<td>Cái chết của <a href="../G/Gormadoc_Brandybuck.md" title="Gormadoc Brandybuck">Gormadoc Brandybuck</a>. <a href="../M/Madoc_Brandybuck.md" title="Madoc Brandybuck">Madoc Brandybuck</a> trở thành <a href="../M/Master_of_Buckland.md" title="Master of Buckland">Bậc thầy Buckland</a>.<sup id="cite_ref-Brandybuck_15-5" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup>
+<td>Death of <a href="../G/Gormadoc_Brandybuck.md" title="Gormadoc Brandybuck">Gormadoc Brandybuck</a>. <a href="../M/Madoc_Brandybuck.md" title="Madoc Brandybuck">Madoc Brandybuck</a> becomes <a href="../M/Master_of_Buckland.md" title="Master of Buckland">Master of Buckland</a>.<sup id="cite_ref-Brandybuck_15-5" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2838.md" title="Third Age 2838">2838</a></td>
@@ -1735,12 +1735,12 @@ images:
 <tr>
 <td><a href="Third_Age_2841.md" title="Third Age 2841">2841</a></td>
 <td>1241</td>
-<td><a href="Thráin.md" title="Thráin">Thráin II</a> lên đường thăm lại <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a>.<sup id="cite_ref-TA_2-74" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="Thráin.md" title="Thráin">Thráin II</a> sets out to revisit <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a>.<sup id="cite_ref-TA_2-74" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2842.md" title="Third Age 2842">2842</a></td>
 <td>1242</td>
-<td>Sự ra đời của <a href="../I/Isembold_Took.md" title="Isembold Took">Isembold Took</a>.<sup id="cite_ref-Took_13-13" class="reference"><a href="#cite_note-Took-13">[12]</a></sup> Cái chết của <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua</a> <a class="mw-redirect" href="../B/Brytta_Léofa.md" title="Brytta Léofa">Brytta</a>. <a href="../W/Walda.md" title="Walda">Walda</a> trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a> thứ mười hai.<sup id="cite_ref-Mark_12-23" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
+<td>Birth of <a href="../I/Isembold_Took.md" title="Isembold Took">Isembold Took</a>.<sup id="cite_ref-Took_13-13" class="reference"><a href="#cite_note-Took-13">[12]</a></sup> Death of <a href="../K/King_of_Rohan.md" title="King of Rohan">King</a> <a class="mw-redirect" href="../B/Brytta_Léofa.md" title="Brytta Léofa">Brytta</a>. <a href="../W/Walda.md" title="Walda">Walda</a> becomes the twelfth <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a>.<sup id="cite_ref-Mark_12-23" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2844.md" title="Third Age 2844">2844</a></td>
@@ -1750,7 +1750,7 @@ images:
 <tr>
 <td><a href="Third_Age_2845.md" title="Third Age 2845">2845</a></td>
 <td>1245</td>
-<td><a href="Thráin.md" title="Thráin">Thráin II</a> đã bị bắt và <a class="mw-redirect" href="../R/Ring_of_Durin.md" title="Ring of Durin">Chiếc nhẫn Durin</a> bị chiếm.<sup id="cite_ref-TA_2-75" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> tiến vào <a href="../M/Moria.md" title="Moria">Moria</a>.
+<td><a href="Thráin.md" title="Thráin">Thráin II</a> captured and <a class="mw-redirect" href="../R/Ring_of_Durin.md" title="Ring of Durin">Ring of Durin</a> taken.<sup id="cite_ref-TA_2-75" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> enters <a href="../M/Moria.md" title="Moria">Moria</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_2846.md" title="Third Age 2846">2846</a></td>
@@ -1765,7 +1765,7 @@ images:
 <tr>
 <td><a href="Third_Age_2848.md" title="Third Age 2848">2848</a></td>
 <td>1248</td>
-<td>Cái chết của <a href="../A/Arathorn_I.md" title="Arathorn I">Arathorn I</a>. <a href="../A/Argonui.md" title="Argonui">Argonui</a> trở thành <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Thủ lĩnh của Dúnedain</a>.<sup id="cite_ref-North_6-33" class="reference"><a href="#cite_note-North-6">[6]</a></sup> Cái chết của <a href="../F/Fortinbras_Took_I.md" title="Fortinbras Took I">Fortinbras Took I</a>. <a href="../G/Gerontius_Took.md" title="Gerontius Took">Gerontius Took</a> trở thành <a href="Thain.md" title="Thain">Thain</a> của <a href="The_Shire.md" title="The Shire"> Shire</a>.<sup id="cite_ref-Took_13-16" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
+<td>Death of <a href="../A/Arathorn_I.md" title="Arathorn I">Arathorn I</a>. <a href="../A/Argonui.md" title="Argonui">Argonui</a> becomes <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Chieftain of the Dúnedain</a>.<sup id="cite_ref-North_6-33" class="reference"><a href="#cite_note-North-6">[6]</a></sup> Death of <a href="../F/Fortinbras_Took_I.md" title="Fortinbras Took I">Fortinbras Took I</a>. <a href="../G/Gerontius_Took.md" title="Gerontius Took">Gerontius Took</a> becomes <a href="Thain.md" title="Thain">Thain</a> of <a href="The_Shire.md" title="The Shire">the Shire</a>.<sup id="cite_ref-Took_13-16" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2849.md" title="Third Age 2849">2849</a></td>
@@ -1775,12 +1775,12 @@ images:
 <tr>
 <td><a href="Third_Age_2850.md" title="Third Age 2850">2850</a></td>
 <td>1250</td>
-<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> bí mật vào <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>. Cái chết của <a href="Thráin.md" title="Thráin">Thráin II</a>.<sup id="cite_ref-TA_2-76" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> secretly enters <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>. Death of <a href="Thráin.md" title="Thráin">Thráin II</a>.<sup id="cite_ref-TA_2-76" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2851.md" title="Third Age 2851">2851</a></td>
 <td>1251</td>
-<td><a href="../W/White_Council.md" title="White Council">Bạch Hội Đồng</a> gặp nhau để thảo luận về <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>.<sup id="cite_ref-TA_2-77" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../S/Saruman.md" title="Saruman">Saruman</a> tìm hiểu về <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a>. Sự ra đời của <a href="../H/Halfred_Greenhand.md" title="Halfred Greenhand">Halfred Greenhand</a>.<sup id="cite_ref-Gamgee_16-6" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup> Cái chết của <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua</a> <a href="../W/Walda.md" title="Walda">Walda</a>. <a href="../F/Folca.md" title="Folca">Folca</a> trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a> thứ mười ba.<sup id="cite_ref-Mark_12-24" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
+<td>The <a href="../W/White_Council.md" title="White Council">White Council</a> meets to discuss <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>.<sup id="cite_ref-TA_2-77" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../S/Saruman.md" title="Saruman">Saruman</a> learns of <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a>. Birth of <a href="../H/Halfred_Greenhand.md" title="Halfred Greenhand">Halfred Greenhand</a>.<sup id="cite_ref-Gamgee_16-6" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup> Death of <a href="../K/King_of_Rohan.md" title="King of Rohan">King</a> <a href="../W/Walda.md" title="Walda">Walda</a>. <a href="../F/Folca.md" title="Folca">Folca</a> becomes the thirteenth <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a>.<sup id="cite_ref-Mark_12-24" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2852.md" title="Third Age 2852">2852</a></td>
@@ -1815,7 +1815,7 @@ images:
 <tr>
 <td><a href="Third_Age_2859.md" title="Third Age 2859">2859</a></td>
 <td>1259</td>
-<td>Sự ra đời của <a href="../F/Fíli.md" title="Fíli">Fíli</a><sup id="cite_ref-Durin_10-26" class="reference"><a href="#cite_note-Durin-10">[9]</a></sup> và <a href="../H/Hending.md" title="Hending">Hending</a>.<sup id="cite_ref-Gamgee_16-8" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup><br/>Cái chết của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười bảy chưa được đặt tên của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. Người con trai giấu tên của Thân vương thứ mười bảy trở thành <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười tám của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-36" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Births of <a href="../F/Fíli.md" title="Fíli">Fíli</a><sup id="cite_ref-Durin_10-26" class="reference"><a href="#cite_note-Durin-10">[9]</a></sup> and <a href="../H/Hending.md" title="Hending">Hending</a>.<sup id="cite_ref-Gamgee_16-8" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup><br/>Death of the unnamed seventeenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. The seventeenth Prince&#39;s unnamed son becomes the eighteenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-36" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2860.md" title="Third Age 2860">2860</a></td>
@@ -1840,7 +1840,7 @@ images:
 <tr>
 <td><a href="Third_Age_2864.md" title="Third Age 2864">2864</a></td>
 <td>1264</td>
-<td><a href="../O/Orcs.md" title="Orcs">Orc</a> các cuộc đột kích sau <a href="../R/Rohan.md" title="Rohan">Rohan</a> chấm dứt. Sự ra đời của <a href="../K/Kíli.md" title="Kíli">Kíli</a>,<sup id="cite_ref-Durin_10-27" class="reference"><a href="#cite_note-Durin-10">[9]</a></sup> <a href="../B/Bingo_Baggins.md" title="Bingo Baggins">Bingo Baggins</a>, <a href="../R/Ruby_Bolger.md" title="Ruby Bolger">Ruby Bolger</a> (<a class="mw-redirect" href="../B/Baggins_Family~66343.md" title="Baggins Family">Baggins</a>),<sup id="cite_ref-Bolger_14-12" class="reference"><a href="#cite_note-Bolger-14">[13]</a></sup> và <a href="../F/Fosco_Baggins.md" title="Fosco Baggins">Fosco Baggins</a>.<sup id="cite_ref-Baggins_17-10" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup> Cái chết của <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua</a> <a href="../F/Folca.md" title="Folca">Folca</a>. <a href="../F/Folcwine.md" title="Folcwine">Folcwine</a> trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a> thứ mười bốn.<sup id="cite_ref-Mark_12-25" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
+<td><a href="../O/Orcs.md" title="Orcs">Orc</a> raids in <a href="../R/Rohan.md" title="Rohan">Rohan</a> cease. Births of <a href="../K/Kíli.md" title="Kíli">Kíli</a>,<sup id="cite_ref-Durin_10-27" class="reference"><a href="#cite_note-Durin-10">[9]</a></sup> <a href="../B/Bingo_Baggins.md" title="Bingo Baggins">Bingo Baggins</a>, <a href="../R/Ruby_Bolger.md" title="Ruby Bolger">Ruby Bolger</a> (<a class="mw-redirect" href="../B/Baggins_Family~66343.md" title="Baggins Family">Baggins</a>),<sup id="cite_ref-Bolger_14-12" class="reference"><a href="#cite_note-Bolger-14">[13]</a></sup> and <a href="../F/Fosco_Baggins.md" title="Fosco Baggins">Fosco Baggins</a>.<sup id="cite_ref-Baggins_17-10" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup> Death of <a href="../K/King_of_Rohan.md" title="King of Rohan">King</a> <a href="../F/Folca.md" title="Folca">Folca</a>. <a href="../F/Folcwine.md" title="Folcwine">Folcwine</a> becomes the fourteenth <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a>.<sup id="cite_ref-Mark_12-25" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2865.md" title="Third Age 2865">2865</a></td>
@@ -1865,7 +1865,7 @@ images:
 <tr>
 <td><a href="Third_Age_2872.md" title="Third Age 2872">2872</a></td>
 <td>1272</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản gia</a> <a href="../B/Belecthor_II.md" title="Belecthor II">Belecthor II</a>.<sup id="cite_ref-TA_2-78" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="Thorondir.md" title="Thorondir">Thorondir</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý cầm quyền</a> thứ 22 của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-51" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../B/Belecthor_II.md" title="Belecthor II">Belecthor II</a>.<sup id="cite_ref-TA_2-78" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="Thorondir.md" title="Thorondir">Thorondir</a> becomes the twenty-second <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-51" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2873.md" title="Third Age 2873">2873</a></td>
@@ -1880,7 +1880,7 @@ images:
 <tr>
 <td><a href="Third_Age_2877.md" title="Third Age 2877">2877</a></td>
 <td>1277</td>
-<td>Cái chết của <a href="../M/Madoc_Brandybuck.md" title="Madoc Brandybuck">Madoc Brandybuck</a>. <a href="../M/Marmadoc_Brandybuck.md" title="Marmadoc Brandybuck">Marmadoc Brandybuck</a> trở thành <a href="../M/Master_of_Buckland.md" title="Master of Buckland">Bậc thầy về Buckland</a>.<sup id="cite_ref-Brandybuck_15-8" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup>
+<td>Death of <a href="../M/Madoc_Brandybuck.md" title="Madoc Brandybuck">Madoc Brandybuck</a>. <a href="../M/Marmadoc_Brandybuck.md" title="Marmadoc Brandybuck">Marmadoc Brandybuck</a> becomes <a href="../M/Master_of_Buckland.md" title="Master of Buckland">Master of Buckland</a>.<sup id="cite_ref-Brandybuck_15-8" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2878.md" title="Third Age 2878">2878</a></td>
@@ -1900,7 +1900,7 @@ images:
 <tr>
 <td><a href="Third_Age_2882.md" title="Third Age 2882">2882</a></td>
 <td>1282</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Tiếp viên</a> <a href="Thorondir.md" title="Thorondir">Thorondir</a>. <a href="Túrin_II.md" title="Túrin II">Túrin II</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý cầm quyền</a> thứ hai mươi ba của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-52" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="Thorondir.md" title="Thorondir">Thorondir</a>. <a href="Túrin_II.md" title="Túrin II">Túrin II</a> becomes the twenty-third <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-52" class="reference"><a href="#cite_note-South-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2883.md" title="Third Age 2883">2883</a></td>
@@ -1910,7 +1910,7 @@ images:
 <tr>
 <td><a href="Third_Age_2885.md" title="Third Age 2885">2885</a></td>
 <td>1285</td>
-<td><a href="../H/Haradrim.md" title="Haradrim">Haradrim</a> tấn công. Cái chết của <a class="mw-redirect" href="../F/Folcred.md" title="Folcred">Folcred</a> và <a class="mw-redirect" href="../F/Fastred_(son_of_Folcwine).md" title="Fastred (son of Folcwine)">Fastred</a>.<sup id="cite_ref-TA_2-79" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Sự ra đời của <a href="../H/Hobson.md" title="Hobson">Hobson Gamgee</a>.<sup id="cite_ref-Gamgee_16-11" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup>
+<td><a href="../H/Haradrim.md" title="Haradrim">Haradrim</a> attack. Deaths of <a class="mw-redirect" href="../F/Folcred.md" title="Folcred">Folcred</a> and <a class="mw-redirect" href="../F/Fastred_(son_of_Folcwine).md" title="Fastred (son of Folcwine)">Fastred</a>.<sup id="cite_ref-TA_2-79" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Birth of <a href="../H/Hobson.md" title="Hobson">Hobson Gamgee</a>.<sup id="cite_ref-Gamgee_16-11" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2886.md" title="Third Age 2886">2886</a></td>
@@ -1950,7 +1950,7 @@ images:
 <tr>
 <td><a href="Third_Age_2899.md" title="Third Age 2899">2899</a></td>
 <td>1299</td>
-<td>Cái chết của <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười tám vô danh của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. Con trai của Thân vương thứ mười tám, <a href="../A/Aglahad.md" title="Aglahad">Aglahad</a>, trở thành <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Thân vương</a> thứ mười chín của <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-38" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Death of the unnamed eighteenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>. The eighteenth Prince&#39;s son, <a href="../A/Aglahad.md" title="Aglahad">Aglahad</a>, becomes the nineteenth <a class="mw-redirect" href="../P/Princes_of_Dol_Amroth.md" title="Princes of Dol Amroth">Prince</a> of <a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-38" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2900.md" title="Third Age 2900">2900</a></td>
@@ -1960,7 +1960,7 @@ images:
 <tr>
 <td><a href="Third_Age_2901.md" title="Third Age 2901">2901</a></td>
 <td>1301</td>
-<td><a href="../I/Ithilien.md" title="Ithilien">Ithilien</a> bỏ hoang. <a href="../H/Henneth_Annûn.md" title="Henneth Annûn">Henneth Annûn</a> được xây dựng.<sup id="cite_ref-TA_2-81" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Sự ra đời của <a href="../A/Adalbert_Bolger.md" title="Adalbert Bolger">Adalbert Bolger</a>.<sup id="cite_ref-Bolger_14-15" class="reference"><a href="#cite_note-Bolger-14">[13]</a></sup>
+<td><a href="../I/Ithilien.md" title="Ithilien">Ithilien</a> deserted. <a href="../H/Henneth_Annûn.md" title="Henneth Annûn">Henneth Annûn</a> constructed.<sup id="cite_ref-TA_2-81" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Birth of <a href="../A/Adalbert_Bolger.md" title="Adalbert Bolger">Adalbert Bolger</a>.<sup id="cite_ref-Bolger_14-15" class="reference"><a href="#cite_note-Bolger-14">[13]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2902.md" title="Third Age 2902">2902</a></td>
@@ -1970,7 +1970,7 @@ images:
 <tr>
 <td><a href="Third_Age_2903.md" title="Third Age 2903">2903</a></td>
 <td>1303</td>
-<td>Sự ra đời của <a href="../F/Falco_Chubb-Baggins.md" title="Falco Chubb-Baggins">Falco Chubb-Baggins</a>.<sup id="cite_ref-Baggins_17-14" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup> Cái chết của <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua</a> <a href="../F/Folcwine.md" title="Folcwine">Folcwine</a>. <a href="../F/Fengel.md" title="Fengel">Fengel</a> trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a> thứ mười lăm.<sup id="cite_ref-Mark_12-27" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
+<td>Birth of <a href="../F/Falco_Chubb-Baggins.md" title="Falco Chubb-Baggins">Falco Chubb-Baggins</a>.<sup id="cite_ref-Baggins_17-14" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup> Death of <a href="../K/King_of_Rohan.md" title="King of Rohan">King</a> <a href="../F/Folcwine.md" title="Folcwine">Folcwine</a>. <a href="../F/Fengel.md" title="Fengel">Fengel</a> becomes the fifteenth <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a>.<sup id="cite_ref-Mark_12-27" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2904.md" title="Third Age 2904">2904</a></td>
@@ -2000,17 +2000,17 @@ images:
 <tr>
 <td><a href="Third_Age_2910.md" title="Third Age 2910">2910</a></td>
 <td>1310</td>
-<td>Sự ra đời của <a href="../O/Otho_Sackville-Baggins.md" title="Otho Sackville-Baggins">Otho Sackville-Baggins</a>.<sup id="cite_ref-Baggins_17-18" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup> Cái chết của <a href="../M/Marmadoc_Brandybuck.md" title="Marmadoc Brandybuck">Marmadoc Brandybuck</a>. <a href="../G/Gorbadoc_Brandybuck.md" title="Gorbadoc Brandybuck">Gorbadoc Brandybuck</a> trở thành <a href="../M/Master_of_Buckland.md" title="Master of Buckland">Bậc thầy Buckland</a>.<sup id="cite_ref-Brandybuck_15-12" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup>
+<td>Birth of <a href="../O/Otho_Sackville-Baggins.md" title="Otho Sackville-Baggins">Otho Sackville-Baggins</a>.<sup id="cite_ref-Baggins_17-18" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup> Death of <a href="../M/Marmadoc_Brandybuck.md" title="Marmadoc Brandybuck">Marmadoc Brandybuck</a>. <a href="../G/Gorbadoc_Brandybuck.md" title="Gorbadoc Brandybuck">Gorbadoc Brandybuck</a> becomes <a href="../M/Master_of_Buckland.md" title="Master of Buckland">Master of Buckland</a>.<sup id="cite_ref-Brandybuck_15-12" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2911.md" title="Third Age 2911">2911</a></td>
 <td>1311</td>
-<td>Sự ra đời của <a href="../D/Dudo_Baggins.md" title="Dudo Baggins">Dudo Baggins</a><sup id="cite_ref-Baggins_17-19" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup> và <a href="../D/Dodinas_Brandybuck.md" title="Dodinas Brandybuck">Dodinas Brandybuck</a>. Cái chết của <a href="../P/Ponto_Baggins_I.md" title="Ponto Baggins I">Ponto Baggins tôi</a>.<sup id="cite_ref-Baggins_17-20" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup> <a href="../F/Fell_Winter_(Third_Age).md" title="Fell Winter (Third Age)">Mùa Đông Khắc Nghiệt</a>. <a href="../W/Wolves.md" title="Wolves">Sói</a> xâm chiếm <a href="../E/Eriador.md" title="Eriador">Eriador</a>.<sup id="cite_ref-TA_2-83" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td>Births of <a href="../D/Dudo_Baggins.md" title="Dudo Baggins">Dudo Baggins</a><sup id="cite_ref-Baggins_17-19" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup> and <a href="../D/Dodinas_Brandybuck.md" title="Dodinas Brandybuck">Dodinas Brandybuck</a>. Death of <a href="../P/Ponto_Baggins_I.md" title="Ponto Baggins I">Ponto Baggins I</a>.<sup id="cite_ref-Baggins_17-20" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup> The <a href="../F/Fell_Winter_(Third_Age).md" title="Fell Winter (Third Age)">Fell Winter</a>. <a href="../W/Wolves.md" title="Wolves">Wolves</a> invade <a href="../E/Eriador.md" title="Eriador">Eriador</a>.<sup id="cite_ref-TA_2-83" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2912.md" title="Third Age 2912">2912</a></td>
 <td>1312</td>
-<td>Lũ lụt tàn khốc ở <a href="../M/Minhiriath.md" title="Minhiriath">Minhiriath</a> và <a href="../E/Enedwaith.md" title="Enedwaith">Enedwaith</a>. Cái chết của <a href="../A/Argonui.md" title="Argonui">Argonui</a>. <a href="../A/Arador.md" title="Arador">Arador</a> trở thành <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Thủ lĩnh của Dúnedain</a>.<sup id="cite_ref-North_6-34" class="reference"><a href="#cite_note-North-6">[6]</a></sup> <a href="Tharbad.md" title="Tharbad">Tharbad</a> bỏ hoang.<sup id="cite_ref-TA_2-84" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Cái chết của <a href="../L/Largo_Baggins.md" title="Largo Baggins">Largo Baggins</a> và <a href="../L/Lily_Baggins.md" title="Lily Baggins">Lily Baggins</a> (<a class="mw-redirect" href="../G/Goodbody_Family~66371.md" title="Goodbody Family">Goodbody</a>).<sup id="cite_ref-Baggins_17-21" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup>
+<td>Devastating floods in <a href="../M/Minhiriath.md" title="Minhiriath">Minhiriath</a> and <a href="../E/Enedwaith.md" title="Enedwaith">Enedwaith</a>. Death of <a href="../A/Argonui.md" title="Argonui">Argonui</a>. <a href="../A/Arador.md" title="Arador">Arador</a> becomes <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Chieftain of the Dúnedain</a>.<sup id="cite_ref-North_6-34" class="reference"><a href="#cite_note-North-6">[6]</a></sup> <a href="Tharbad.md" title="Tharbad">Tharbad</a> deserted.<sup id="cite_ref-TA_2-84" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Deaths of <a href="../L/Largo_Baggins.md" title="Largo Baggins">Largo Baggins</a> and <a href="../L/Lily_Baggins.md" title="Lily Baggins">Lily Baggins</a> (<a class="mw-redirect" href="../G/Goodbody_Family~66371.md" title="Goodbody Family">Goodbody</a>).<sup id="cite_ref-Baggins_17-21" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2913.md" title="Third Age 2913">2913</a></td>
@@ -2020,7 +2020,7 @@ images:
 <tr>
 <td><a href="Third_Age_2914.md" title="Third Age 2914">2914</a></td>
 <td>1314</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý</a> <a href="Túrin_II.md" title="Túrin II">Túrin II</a>. <a href="Turgon_(Steward_of_Gondor).md" title="Turgon (Steward of Gondor)">Turgon</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Người quản lý cầm quyền</a> thứ hai mươi bốn của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-53" class="reference"><a href="#cite_note-South-5">[5]</a></sup> Cái chết của <a href="../A/Adalgar_Bolger.md" title="Adalgar Bolger">Adalgar Bolger</a>.<sup id="cite_ref-Bolger_14-17" class="reference"><a href="#cite_note-Bolger-14">[13]</a></sup>
+<td>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="Túrin_II.md" title="Túrin II">Túrin II</a>. <a href="Turgon_(Steward_of_Gondor).md" title="Turgon (Steward of Gondor)">Turgon</a> becomes the twenty-fourth <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-53" class="reference"><a href="#cite_note-South-5">[5]</a></sup> Death of <a href="../A/Adalgar_Bolger.md" title="Adalgar Bolger">Adalgar Bolger</a>.<sup id="cite_ref-Bolger_14-17" class="reference"><a href="#cite_note-Bolger-14">[13]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2916.md" title="Third Age 2916">2916</a></td>
@@ -2040,7 +2040,7 @@ images:
 <tr>
 <td><a href="Third_Age_2920.md" title="Third Age 2920">2920</a></td>
 <td>1320</td>
-<td>Cái chết của <a href="../G/Gerontius_Took.md" title="Gerontius Took">Gerontius Took</a>.<sup id="cite_ref-TA_2-85" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../I/Isengrim_Took_III.md" title="Isengrim Took III">Isengrim Took III</a> trở thành <a href="Thain.md" title="Thain">Thain</a> của <a href="The_Shire.md" title="The Shire">người Shire</a>.<sup id="cite_ref-Took_13-27" class="reference"><a href="#cite_note-Took-13">[12]</a></sup> Sự ra đời của <a href="../P/Primula_Brandybuck.md" title="Primula Brandybuck">Primula Brandybuck</a> (<a class="mw-redirect" href="../B/Baggins_Family~66343.md" title="Baggins Family">Baggins</a>).<sup id="cite_ref-Brandybuck_15-14" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup>
+<td>Death of <a href="../G/Gerontius_Took.md" title="Gerontius Took">Gerontius Took</a>.<sup id="cite_ref-TA_2-85" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../I/Isengrim_Took_III.md" title="Isengrim Took III">Isengrim Took III</a> becomes <a href="Thain.md" title="Thain">Thain</a> of <a href="The_Shire.md" title="The Shire">the Shire</a>.<sup id="cite_ref-Took_13-27" class="reference"><a href="#cite_note-Took-13">[12]</a></sup> Birth of <a href="../P/Primula_Brandybuck.md" title="Primula Brandybuck">Primula Brandybuck</a> (<a class="mw-redirect" href="../B/Baggins_Family~66343.md" title="Baggins Family">Baggins</a>).<sup id="cite_ref-Brandybuck_15-14" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2922.md" title="Third Age 2922">2922</a></td>
@@ -2065,12 +2065,12 @@ images:
 <tr>
 <td><a href="Third_Age_2929.md" title="Third Age 2929">2929</a></td>
 <td>1329</td>
-<td><a href="../A/Arathorn_II.md" title="Arathorn II">Arathorn II</a> đám cưới <a href="../G/Gilraen.md" title="Gilraen">Gilraen</a>.<sup id="cite_ref-TA_2-86" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../A/Arathorn_II.md" title="Arathorn II">Arathorn II</a> weds <a href="../G/Gilraen.md" title="Gilraen">Gilraen</a>.<sup id="cite_ref-TA_2-86" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2930.md" title="Third Age 2930">2930</a></td>
 <td>1330</td>
-<td>Cái chết của <a href="../A/Arador.md" title="Arador">Arador</a>. <a href="../A/Arathorn_II.md" title="Arathorn II">Arathorn II</a> trở thành <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Thủ lĩnh của Dúnedain</a>.<sup id="cite_ref-North_6-35" class="reference"><a href="#cite_note-North-6">[6]</a></sup> Sự ra đời của <a href="../D/Denethor.md" title="Denethor">Denethor II</a>.<sup id="cite_ref-TA_2-87" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Cái chết của <a href="../I/Isengrim_Took_III.md" title="Isengrim Took III">Isengrim Took III</a>. <a href="../I/Isumbras_Took_IV.md" title="Isumbras Took IV">Isumbras Took IV</a> trở thành <a href="Thain.md" title="Thain">Thain</a> của <a href="The_Shire.md" title="The Shire"> Shire</a>.<sup id="cite_ref-Took_13-29" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
+<td>Death of <a href="../A/Arador.md" title="Arador">Arador</a>. <a href="../A/Arathorn_II.md" title="Arathorn II">Arathorn II</a> becomes <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Chieftain of the Dúnedain</a>.<sup id="cite_ref-North_6-35" class="reference"><a href="#cite_note-North-6">[6]</a></sup> Birth of <a href="../D/Denethor.md" title="Denethor">Denethor II</a>.<sup id="cite_ref-TA_2-87" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Death of <a href="../I/Isengrim_Took_III.md" title="Isengrim Took III">Isengrim Took III</a>. <a href="../I/Isumbras_Took_IV.md" title="Isumbras Took IV">Isumbras Took IV</a> becomes <a href="Thain.md" title="Thain">Thain</a> of <a href="The_Shire.md" title="The Shire">the Shire</a>.<sup id="cite_ref-Took_13-29" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2931.md" title="Third Age 2931">2931</a></td>
@@ -2080,12 +2080,12 @@ images:
 <tr>
 <td><a href="Third_Age_2932.md" title="Third Age 2932">2932</a></td>
 <td>1332</td>
-<td>Sự ra đời của <a href="../H/Halfred_of_Overhill.md" title="Halfred of Overhill">Halfred of Overhill</a>.<sup id="cite_ref-Gamgee_16-17" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup><br/>Cái chết của <a href="../A/Aglahad.md" title="Aglahad">Aglahad</a>. <a href="../A/Angelimir.md" title="Angelimir">Angelimir</a> trở thành <a href="../P/Prince_of_Dol_Amroth.md" title="Prince of Dol Amroth">Thân vương Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-40" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Birth of <a href="../H/Halfred_of_Overhill.md" title="Halfred of Overhill">Halfred of Overhill</a>.<sup id="cite_ref-Gamgee_16-17" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup><br/>Death of <a href="../A/Aglahad.md" title="Aglahad">Aglahad</a>. <a href="../A/Angelimir.md" title="Angelimir">Angelimir</a> becomes <a href="../P/Prince_of_Dol_Amroth.md" title="Prince of Dol Amroth">Prince of Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-40" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2933.md" title="Third Age 2933">2933</a></td>
 <td>1333</td>
-<td>Cái chết của <a href="../A/Arathorn_II.md" title="Arathorn II">Arathorn II</a>.<sup id="cite_ref-TA_2-89" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> trở thành <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Thủ lĩnh của Dúnedain</a>.<sup id="cite_ref-North_6-36" class="reference"><a href="#cite_note-North-6">[6]</a></sup> Sự ra đời của <a href="../P/Paladin_Took_II.md" title="Paladin Took II">Paladin Took II</a>.<sup id="cite_ref-Took_13-30" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
+<td>Death of <a href="../A/Arathorn_II.md" title="Arathorn II">Arathorn II</a>.<sup id="cite_ref-TA_2-89" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> becomes <a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Chieftain of the Dúnedain</a>.<sup id="cite_ref-North_6-36" class="reference"><a href="#cite_note-North-6">[6]</a></sup> Birth of <a href="../P/Paladin_Took_II.md" title="Paladin Took II">Paladin Took II</a>.<sup id="cite_ref-Took_13-30" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2934.md" title="Third Age 2934">2934</a></td>
@@ -2115,7 +2115,7 @@ images:
 <tr>
 <td><a href="Third_Age_2939.md" title="Third Age 2939">2939</a></td>
 <td>1339</td>
-<td><a href="../S/Saruman.md" title="Saruman">Saruman</a> phát hiện ra <a href="../S/Sauron.md" title="Sauron">Sauron</a> đang tìm kiếm <a href="../G/Gladden_Fields.md" title="Gladden Fields">Gladden Fields</a>.<sup id="cite_ref-TA_2-90" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Cái chết của <a href="../I/Isumbras_Took_IV.md" title="Isumbras Took IV">Isumbras Took IV</a>. <a href="../F/Fortinbras_Took_II.md" title="Fortinbras Took II">Fortinbras Took II</a> trở thành <a href="Thain.md" title="Thain">Thain</a> của <a href="The_Shire.md" title="The Shire"> Shire</a>.<sup id="cite_ref-Took_13-34" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
+<td><a href="../S/Saruman.md" title="Saruman">Saruman</a> discovers <a href="../S/Sauron.md" title="Sauron">Sauron</a> is searching the <a href="../G/Gladden_Fields.md" title="Gladden Fields">Gladden Fields</a>.<sup id="cite_ref-TA_2-90" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Death of <a href="../I/Isumbras_Took_IV.md" title="Isumbras Took IV">Isumbras Took IV</a>. <a href="../F/Fortinbras_Took_II.md" title="Fortinbras Took II">Fortinbras Took II</a> becomes <a href="Thain.md" title="Thain">Thain</a> of <a href="The_Shire.md" title="The Shire">the Shire</a>.<sup id="cite_ref-Took_13-34" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2940.md" title="Third Age 2940">2940</a></td>
@@ -2125,22 +2125,22 @@ images:
 <tr>
 <td><a href="Third_Age_2941.md" title="Third Age 2941">2941</a></td>
 <td>1341</td>
-<td><b>Nhiệm vụ <a href="../Q/Quest_of_Erebor.md" title="Quest of Erebor">Nhiệm vụ của Erebor</a>.</b> <b><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> nhận được <a href="The_One_Ring.md" title="The One Ring">Nhẫn Chúa</a>.</b> <a href="../S/Sauron.md" title="Sauron">Sauron</a> được điều khiển từ <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>. <a class="mw-redirect" href="Thorin_II_Oakenshield.md" title="Thorin II Oakenshield">Thorin II Oakenshield</a> trở thành <a class="mw-redirect" href="../K/King_of_Erebor.md" title="King of Erebor">Vua của Erebor</a>. <b><a href="../B/Battle_of_Five_Armies.md" title="Battle of Five Armies">Trận chiến Năm Đạo quân</a>.</b> Tử vong của <a href="../F/Fíli.md" title="Fíli">Fíli</a>, <a href="../K/Kíli.md" title="Kíli">Kíli</a>, <a href="../B/Bolg.md" title="Bolg">Bolg</a>, <a href="../S/Smaug.md" title="Smaug">Smaug</a> và <a class="mw-redirect" href="Thorin_II_Oakenshield.md" title="Thorin II Oakenshield">Thorin II Oakenshield</a>. <a class="mw-redirect" href="../D/Dáin_II.md" title="Dáin II">Dáin II</a> trở thành <a class="mw-redirect" href="../K/King_of_Erebor.md" title="King of Erebor">Vua của Erebor</a>.<sup id="cite_ref-TA_2-91" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><br/> Sự ra đời của <a class="mw-redirect" href="Tolman_Cotton_Senior.md" title="Tolman Cotton Senior">Tolman Cotton</a>.<sup id="cite_ref-Gamgee_16-18" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup> Cái chết của <a href="../H/Hildigrim_Took.md" title="Hildigrim Took">Hildigrim Took</a>.<sup id="cite_ref-Took_13-36" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
+<td><b>The <a href="../Q/Quest_of_Erebor.md" title="Quest of Erebor">Quest of Erebor</a>.</b> <b><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> gains the <a href="The_One_Ring.md" title="The One Ring">One Ring</a>.</b> <a href="../S/Sauron.md" title="Sauron">Sauron</a> driven from <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>. <a class="mw-redirect" href="Thorin_II_Oakenshield.md" title="Thorin II Oakenshield">Thorin II Oakenshield</a> becomes <a class="mw-redirect" href="../K/King_of_Erebor.md" title="King of Erebor">King of Erebor</a>. <b><a href="../B/Battle_of_Five_Armies.md" title="Battle of Five Armies">Battle of Five Armies</a>.</b> Deaths of <a href="../F/Fíli.md" title="Fíli">Fíli</a>, <a href="../K/Kíli.md" title="Kíli">Kíli</a>, <a href="../B/Bolg.md" title="Bolg">Bolg</a>, <a href="../S/Smaug.md" title="Smaug">Smaug</a> and <a class="mw-redirect" href="Thorin_II_Oakenshield.md" title="Thorin II Oakenshield">Thorin II Oakenshield</a>. <a class="mw-redirect" href="../D/Dáin_II.md" title="Dáin II">Dáin II</a> becomes <a class="mw-redirect" href="../K/King_of_Erebor.md" title="King of Erebor">King of Erebor</a>.<sup id="cite_ref-TA_2-91" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><br/> Birth of <a class="mw-redirect" href="Tolman_Cotton_Senior.md" title="Tolman Cotton Senior">Tolman Cotton</a>.<sup id="cite_ref-Gamgee_16-18" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup> Death of <a href="../H/Hildigrim_Took.md" title="Hildigrim Took">Hildigrim Took</a>.<sup id="cite_ref-Took_13-36" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2942.md" title="Third Age 2942">2942</a></td>
 <td>1342</td>
-<td><b><a href="../S/Sauron.md" title="Sauron">Sauron</a> quay lại <a href="../M/Mordor.md" title="Mordor">Mordor</a>.</b><sup id="cite_ref-TA_2-92" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Sự ra đời của <a href="../M/Merimac_Brandybuck.md" title="Merimac Brandybuck">Merimac Brandybuck</a><sup id="cite_ref-Brandybuck_15-16" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup> và <a href="../F/Filibert_Bolger.md" title="Filibert Bolger">Filibert Bolger</a>.<sup id="cite_ref-Bolger_14-18" class="reference"><a href="#cite_note-Bolger-14">[13]</a></sup>
+<td><b><a href="../S/Sauron.md" title="Sauron">Sauron</a> returns to <a href="../M/Mordor.md" title="Mordor">Mordor</a>.</b><sup id="cite_ref-TA_2-92" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Births of <a href="../M/Merimac_Brandybuck.md" title="Merimac Brandybuck">Merimac Brandybuck</a><sup id="cite_ref-Brandybuck_15-16" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup> and <a href="../F/Filibert_Bolger.md" title="Filibert Bolger">Filibert Bolger</a>.<sup id="cite_ref-Bolger_14-18" class="reference"><a href="#cite_note-Bolger-14">[13]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2943.md" title="Third Age 2943">2943</a></td>
 <td>1343</td>
-<td>Sự ra đời của <a href="../M/Marmadas_Brandybuck.md" title="Marmadas Brandybuck">Marmadas Brandybuck</a>.<sup id="cite_ref-Brandybuck_15-17" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup> <a href="Thengel.md" title="Thengel">Thengel</a> kết hôn <a href="../M/Morwen_Steelsheen.md" title="Morwen Steelsheen">Morwen</a>.
+<td>Birth of <a href="../M/Marmadas_Brandybuck.md" title="Marmadas Brandybuck">Marmadas Brandybuck</a>.<sup id="cite_ref-Brandybuck_15-17" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup> <a href="Thengel.md" title="Thengel">Thengel</a> weds <a href="../M/Morwen_Steelsheen.md" title="Morwen Steelsheen">Morwen</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_2944.md" title="Third Age 2944">2944</a></td>
 <td>1344</td>
-<td><a href="../D/Dale.md" title="Dale">Dale</a> được xây dựng lại. <a href="../G/Gollum.md" title="Gollum">Gollum</a> bắt đầu cuộc săn lùng <a href="The_One_Ring.md" title="The One Ring"> Nhẫn Chúa</a>.<sup id="cite_ref-TA_2-93" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Sự ra đời của <a href="../P/Poppy_Chubb-Baggins.md" title="Poppy Chubb-Baggins">Poppy Chubb-Baggins</a><sup id="cite_ref-Baggins_17-23" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup> (<a class="mw-redirect" href="../B/Bolger_Family~66348.md" title="Bolger Family">Bolger</a>) và <a href="../G/Griffo_Boffin.md" title="Griffo Boffin">Griffo Boffin</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[18]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[19]</a></sup>
+<td><a href="../D/Dale.md" title="Dale">Dale</a> rebuilt. <a href="../G/Gollum.md" title="Gollum">Gollum</a> begins his hunt for <a href="The_One_Ring.md" title="The One Ring">the One Ring</a>.<sup id="cite_ref-TA_2-93" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Birth of <a href="../P/Poppy_Chubb-Baggins.md" title="Poppy Chubb-Baggins">Poppy Chubb-Baggins</a><sup id="cite_ref-Baggins_17-23" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup> (<a class="mw-redirect" href="../B/Bolger_Family~66348.md" title="Bolger Family">Bolger</a>) and <a href="../G/Griffo_Boffin.md" title="Griffo Boffin">Griffo Boffin</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[18]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[19]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2945.md" title="Third Age 2945">2945</a></td>
@@ -2165,7 +2165,7 @@ images:
 <tr>
 <td><a href="Third_Age_2949.md" title="Third Age 2949">2949</a></td>
 <td>1349</td>
-<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> và <a href="../B/Balin.md" title="Balin">Balin</a> ghé thăm <a href="The_Shire.md" title="The Shire"> Shire</a>.<sup id="cite_ref-TA_2-95" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> and <a href="../B/Balin.md" title="Balin">Balin</a> visit <a href="The_Shire.md" title="The Shire">the Shire</a>.<sup id="cite_ref-TA_2-95" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2950.md" title="Third Age 2950">2950</a></td>
@@ -2175,22 +2175,22 @@ images:
 <tr>
 <td><a href="Third_Age_2951.md" title="Third Age 2951">2951</a></td>
 <td>1351</td>
-<td><a href="../S/Sauron.md" title="Sauron">Sauron</a> gửi ba <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> để chiếm lại <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>. Việc xây dựng bắt đầu vào <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>.<sup id="cite_ref-TA_2-97" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Ngày sinh của <a href="../H/Heribald_Bolger.md" title="Heribald Bolger">Heribald Bolger</a>.<sup id="cite_ref-Bolger_14-21" class="reference"><a href="#cite_note-Bolger-14">[13]</a></sup>
+<td><a href="../S/Sauron.md" title="Sauron">Sauron</a> sends three <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> to reoccupy <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>. Construction begins on <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>.<sup id="cite_ref-TA_2-97" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Birth of <a href="../H/Heribald_Bolger.md" title="Heribald Bolger">Heribald Bolger</a>.<sup id="cite_ref-Bolger_14-21" class="reference"><a href="#cite_note-Bolger-14">[13]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2952.md" title="Third Age 2952">2952</a></td>
 <td>1352</td>
-<td><a href="../E/Elrond.md" title="Elrond">Elrond</a> tiết lộ cho 'Estel' tên thật và tổ tiên của mình. Ông đưa <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> <a class="mw-redirect" href="../S/Shards_of_Narsil.md" title="Shards of Narsil">Mảnh vỡ Narsil</a>. Trong rừng <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> gặp <a href="../A/Arwen.md" title="Arwen">Arwen</a>. <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> đi vào Wild.
+<td><a href="../E/Elrond.md" title="Elrond">Elrond</a> reveals to &#39;Estel&#39; his true name and ancestry. He gives <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> the <a class="mw-redirect" href="../S/Shards_of_Narsil.md" title="Shards of Narsil">Shards of Narsil</a>. In the woods of <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> meets <a href="../A/Arwen.md" title="Arwen">Arwen</a>. <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> goes into the Wild.
 </td></tr>
 <tr>
 <td><a href="Third_Age_2953.md" title="Third Age 2953">2953</a></td>
 <td>1353</td>
-<td><b>Cuộc gặp cuối cùng của <a href="../W/White_Council.md" title="White Council">Bạch Hội Đồng</a></b><br/>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Quản lý</a> <a href="Turgon_(Steward_of_Gondor).md" title="Turgon (Steward of Gondor)">Turgon</a>. <a href="../E/Ecthelion_II.md" title="Ecthelion II">Ecthelion II</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Người quản lý cầm quyền</a> của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-54" class="reference"><a href="#cite_note-South-5">[5]</a></sup> <a href="../S/Saruman.md" title="Saruman">Saruman</a> bắt đầu củng cố <a href="../I/Isengard.md" title="Isengard">Isengard</a>.<sup id="cite_ref-TA_2-98" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Cái chết của <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua</a> <a href="../F/Fengel.md" title="Fengel">Fengel</a>. <a href="Thengel.md" title="Thengel">Thengel</a> trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a> thứ mười sáu.<sup id="cite_ref-Mark_12-29" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
+<td><b>Last meeting of the <a href="../W/White_Council.md" title="White Council">White Council</a></b><br/>Death of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="Turgon_(Steward_of_Gondor).md" title="Turgon (Steward of Gondor)">Turgon</a>. <a href="../E/Ecthelion_II.md" title="Ecthelion II">Ecthelion II</a> becomes <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-South_5-54" class="reference"><a href="#cite_note-South-5">[5]</a></sup> <a href="../S/Saruman.md" title="Saruman">Saruman</a> begins to fortify <a href="../I/Isengard.md" title="Isengard">Isengard</a>.<sup id="cite_ref-TA_2-98" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Death of <a href="../K/King_of_Rohan.md" title="King of Rohan">King</a> <a href="../F/Fengel.md" title="Fengel">Fengel</a>. <a href="Thengel.md" title="Thengel">Thengel</a> becomes the sixteenth <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a>.<sup id="cite_ref-Mark_12-29" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2954.md" title="Third Age 2954">2954</a></td>
 <td>1354</td>
-<td><a class="mw-redirect" href="../O/Orodruin.md" title="Orodruin">Orodruin</a> thức tỉnh trở lại.<sup id="cite_ref-TA_2-99" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Sự ra đời của <a href="../H/Hilda_Bracegirdle.md" title="Hilda Bracegirdle">Hilda Bracegirdle</a> (<a class="mw-redirect" href="../B/Brandybuck_Family~66350.md" title="Brandybuck Family">Brandybuck</a>).<sup id="cite_ref-Boffin_18-20" class="reference"><a href="#cite_note-Boffin-18">[17]</a></sup>
+<td><a class="mw-redirect" href="../O/Orodruin.md" title="Orodruin">Orodruin</a> re-awakens.<sup id="cite_ref-TA_2-99" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Birth of <a href="../H/Hilda_Bracegirdle.md" title="Hilda Bracegirdle">Hilda Bracegirdle</a> (<a class="mw-redirect" href="../B/Brandybuck_Family~66350.md" title="Brandybuck Family">Brandybuck</a>).<sup id="cite_ref-Boffin_18-20" class="reference"><a href="#cite_note-Boffin-18">[17]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2955.md" title="Third Age 2955">2955</a></td>
@@ -2200,12 +2200,12 @@ images:
 <tr>
 <td><a href="Third_Age_2956.md" title="Third Age 2956">2956</a></td>
 <td>1356</td>
-<td><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> gặp <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>.<sup id="cite_ref-TA_2-100" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Cái chết của <a href="../B/Belba_Baggins.md" title="Belba Baggins">Belba Baggins</a> (<a class="mw-redirect" href="../B/Bolger_Family~66348.md" title="Bolger Family">Bolger</a>).<sup id="cite_ref-Baggins_17-27" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup>
+<td><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> meets <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>.<sup id="cite_ref-TA_2-100" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Death of <a href="../B/Belba_Baggins.md" title="Belba Baggins">Belba Baggins</a> (<a class="mw-redirect" href="../B/Bolger_Family~66348.md" title="Bolger Family">Bolger</a>).<sup id="cite_ref-Baggins_17-27" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2957.md" title="Third Age 2957">2957</a></td>
 <td>1357</td>
-<td><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> bắt đầu cuộc hành trình vĩ đại của mình với tư cách là <a href="Thorongil.md" title="Thorongil">Thorongil</a>.<sup id="cite_ref-TA_2-101" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> begins his great journeys as <a href="Thorongil.md" title="Thorongil">Thorongil</a>.<sup id="cite_ref-TA_2-101" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2960.md" title="Third Age 2960">2960</a></td>
@@ -2220,7 +2220,7 @@ images:
 <tr>
 <td><a href="Third_Age_2963.md" title="Third Age 2963">2963</a></td>
 <td>1363</td>
-<td>Sự ra đời của <a href="Théodwyn.md" title="Théodwyn">Théodwyn</a>. Cái chết của <a class="mw-redirect" href="../L/Linda_Proudfoot.md" title="Linda Proudfoot">Linda Baggins</a> (<a href="../P/Proudfoot_Family.md" title="Proudfoot Family">Proudfoot</a>) và <a href="../G/Gorbadoc_Brandybuck.md" title="Gorbadoc Brandybuck">Gorbadoc Brandybuck</a>. <a href="../R/Rorimac_Brandybuck.md" title="Rorimac Brandybuck">Rorimac Brandybuck</a> trở thành <a href="../M/Master_of_Buckland.md" title="Master of Buckland">Chủ nhân Buckland</a>.<sup id="cite_ref-Brandybuck_15-20" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup>
+<td>Birth of <a href="Théodwyn.md" title="Théodwyn">Théodwyn</a>. Deaths of <a class="mw-redirect" href="../L/Linda_Proudfoot.md" title="Linda Proudfoot">Linda Baggins</a> (<a href="../P/Proudfoot_Family.md" title="Proudfoot Family">Proudfoot</a>) and <a href="../G/Gorbadoc_Brandybuck.md" title="Gorbadoc Brandybuck">Gorbadoc Brandybuck</a>. <a href="../R/Rorimac_Brandybuck.md" title="Rorimac Brandybuck">Rorimac Brandybuck</a> becomes <a href="../M/Master_of_Buckland.md" title="Master of Buckland">Master of Buckland</a>.<sup id="cite_ref-Brandybuck_15-20" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2964.md" title="Third Age 2964">2964</a></td>
@@ -2255,12 +2255,12 @@ images:
 <tr>
 <td><a href="Third_Age_2976.md" title="Third Age 2976">2976</a></td>
 <td>1376</td>
-<td><a href="../D/Denethor.md" title="Denethor">Denethor II</a> kết hôn <a href="../F/Finduilas_(wife_of_Denethor).md" title="Finduilas (wife of Denethor)">Finduilas</a>.<sup id="cite_ref-TA_2-103" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Ngày sinh của <a href="../M/May_Gamgee.md" title="May Gamgee">May Gamgee</a>.<sup id="cite_ref-Gamgee_16-24" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup>
+<td><a href="../D/Denethor.md" title="Denethor">Denethor II</a> weds <a href="../F/Finduilas_(wife_of_Denethor).md" title="Finduilas (wife of Denethor)">Finduilas</a>.<sup id="cite_ref-TA_2-103" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Birth of <a href="../M/May_Gamgee.md" title="May Gamgee">May Gamgee</a>.<sup id="cite_ref-Gamgee_16-24" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2977.md" title="Third Age 2977">2977</a></td>
 <td>1377</td>
-<td>Cái chết của <a class="mw-redirect" href="../B/Bard_I.md" title="Bard I">Bard tôi</a>. <a href="../B/Bain.md" title="Bain">Bain</a> trở thành <a href="../K/King_of_Dale.md" title="King of Dale">Vua của Dale</a>.<sup id="cite_ref-TA_2-104" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><br/>Cái chết của <a href="../A/Angelimir.md" title="Angelimir">Angelimir</a>. <a class="mw-redirect" href="../A/Adrahil_II.md" title="Adrahil II">Adrahil II</a> trở thành <a href="../P/Prince_of_Dol_Amroth.md" title="Prince of Dol Amroth">Thân vương Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-42" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Death of <a class="mw-redirect" href="../B/Bard_I.md" title="Bard I">Bard I</a>. <a href="../B/Bain.md" title="Bain">Bain</a> becomes <a href="../K/King_of_Dale.md" title="King of Dale">King of Dale</a>.<sup id="cite_ref-TA_2-104" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><br/>Death of <a href="../A/Angelimir.md" title="Angelimir">Angelimir</a>. <a class="mw-redirect" href="../A/Adrahil_II.md" title="Adrahil II">Adrahil II</a> becomes <a href="../P/Prince_of_Dol_Amroth.md" title="Prince of Dol Amroth">Prince of Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-42" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2978.md" title="Third Age 2978">2978</a></td>
@@ -2275,7 +2275,7 @@ images:
 <tr>
 <td><a href="Third_Age_2980.md" title="Third Age 2980">2980</a></td>
 <td>1380</td>
-<td>Cuộc phiêu lưu của <a href="Thorongil.md" title="Thorongil">Thorongil</a> kết thúc. <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> và <a href="../A/Arwen.md" title="Arwen">Arwen</a> đã đính hôn. <a href="../G/Gollum.md" title="Gollum">Gollum</a> gặp <a href="../S/Shelob.md" title="Shelob">Shelob</a>. Cái chết của <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua</a> <a href="Thengel.md" title="Thengel">Thengel</a>, <a href="../F/Fortinbras_Took_II.md" title="Fortinbras Took II">Fortinbras Took II</a>,<sup id="cite_ref-Took_13-43" class="reference"><a href="#cite_note-Took-13">[12]</a></sup> <a href="../D/Drogo_Baggins.md" title="Drogo Baggins">Drogo Baggins</a>,<sup id="cite_ref-Baggins_17-30" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup> và <a href="../P/Primula_Brandybuck.md" title="Primula Brandybuck">Primula Brandybuck</a> (<a class="mw-redirect" href="../B/Baggins_Family~66343.md" title="Baggins Family">Baggins</a>). <b><a href="Théoden.md" title="Théoden">Théoden</a> trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a> thứ mười bảy.</b><sup id="cite_ref-TA_2-106" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Sự ra đời của <a href="../F/Fredegar_Bolger.md" title="Fredegar Bolger">Fredegar Bolger</a>,<sup id="cite_ref-Bolger_14-23" class="reference"><a href="#cite_note-Bolger-14">[13]</a></sup> <b><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a></b>,<sup id="cite_ref-Gamgee_16-25" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup> <a href="../E/Everard_Took.md" title="Everard Took">Everard Took</a>,<sup id="cite_ref-Took_13-44" class="reference"><a href="#cite_note-Took-13">[12]</a></sup> <a href="../B/Berilac_Brandybuck.md" title="Berilac Brandybuck">Berilac Brandybuck</a>,<sup id="cite_ref-Brandybuck_15-21" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup> và <a href="Tolman_Cotton_Junior.md" title="Tolman Cotton Junior">Tolman Cotton Junior</a>.<sup id="cite_ref-Gamgee_16-26" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup> <a href="../F/Ferumbras_Took_III.md" title="Ferumbras Took III">Ferumbras Took III</a> trở thành <a href="Thain.md" title="Thain">Thain</a> của <a href="The_Shire.md" title="The Shire"> Shire</a>.<sup id="cite_ref-Took_13-45" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
+<td>Adventures of <a href="Thorongil.md" title="Thorongil">Thorongil</a> end. <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> and <a href="../A/Arwen.md" title="Arwen">Arwen</a> are betrothed. <a href="../G/Gollum.md" title="Gollum">Gollum</a> meets <a href="../S/Shelob.md" title="Shelob">Shelob</a>. Deaths of <a href="../K/King_of_Rohan.md" title="King of Rohan">King</a> <a href="Thengel.md" title="Thengel">Thengel</a>, <a href="../F/Fortinbras_Took_II.md" title="Fortinbras Took II">Fortinbras Took II</a>,<sup id="cite_ref-Took_13-43" class="reference"><a href="#cite_note-Took-13">[12]</a></sup> <a href="../D/Drogo_Baggins.md" title="Drogo Baggins">Drogo Baggins</a>,<sup id="cite_ref-Baggins_17-30" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup> and <a href="../P/Primula_Brandybuck.md" title="Primula Brandybuck">Primula Brandybuck</a> (<a class="mw-redirect" href="../B/Baggins_Family~66343.md" title="Baggins Family">Baggins</a>). <b><a href="Théoden.md" title="Théoden">Théoden</a> becomes the seventeenth <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a>.</b><sup id="cite_ref-TA_2-106" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Births of <a href="../F/Fredegar_Bolger.md" title="Fredegar Bolger">Fredegar Bolger</a>,<sup id="cite_ref-Bolger_14-23" class="reference"><a href="#cite_note-Bolger-14">[13]</a></sup> <b><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a></b>,<sup id="cite_ref-Gamgee_16-25" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup> <a href="../E/Everard_Took.md" title="Everard Took">Everard Took</a>,<sup id="cite_ref-Took_13-44" class="reference"><a href="#cite_note-Took-13">[12]</a></sup> <a href="../B/Berilac_Brandybuck.md" title="Berilac Brandybuck">Berilac Brandybuck</a>,<sup id="cite_ref-Brandybuck_15-21" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup> and <a href="Tolman_Cotton_Junior.md" title="Tolman Cotton Junior">Tolman Cotton Junior</a>.<sup id="cite_ref-Gamgee_16-26" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup> <a href="../F/Ferumbras_Took_III.md" title="Ferumbras Took III">Ferumbras Took III</a> becomes <a href="Thain.md" title="Thain">Thain</a> of <a href="The_Shire.md" title="The Shire">the Shire</a>.<sup id="cite_ref-Took_13-45" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2981.md" title="Third Age 2981">2981</a></td>
@@ -2295,7 +2295,7 @@ images:
 <tr>
 <td><a href="Third_Age_2984.md" title="Third Age 2984">2984</a></td>
 <td>1384</td>
-<td>Cái chết của <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Tiếp viên</a> <a href="../E/Ecthelion_II.md" title="Ecthelion II">Ecthelion II</a> và <a href="../H/Hobson.md" title="Hobson">Hobson Gamgee</a>. <a href="../D/Denethor.md" title="Denethor">Denethor</a> trở thành <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Người quản lý cầm quyền</a> của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-TA_2-108" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-South_5-55" class="reference"><a href="#cite_note-South-5">[5]</a></sup> Sự ra đời của <a href="../R/Rose_Cotton.md" title="Rose Cotton">Rose Cotton</a> (<a class="mw-redirect" href="../G/Gamgee_Family~66365.md" title="Gamgee Family">Gamgee</a>) và <a href="../W/Wilcome_Cotton_II.md" title="Wilcome Cotton II">Wilcome Cotton II</a>.<sup id="cite_ref-Gamgee_16-28" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup> <a href="../D/Denethor.md" title="Denethor">Denethor II</a> bắt đầu sử dụng <a href="../A/Anor-stone.md" title="Anor-stone">Anor-stone</a>.
+<td>Deaths of <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Steward</a> <a href="../E/Ecthelion_II.md" title="Ecthelion II">Ecthelion II</a> and <a href="../H/Hobson.md" title="Hobson">Hobson Gamgee</a>. <a href="../D/Denethor.md" title="Denethor">Denethor</a> becomes <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward</a> of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-TA_2-108" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-South_5-55" class="reference"><a href="#cite_note-South-5">[5]</a></sup> Births of <a href="../R/Rose_Cotton.md" title="Rose Cotton">Rose Cotton</a> (<a class="mw-redirect" href="../G/Gamgee_Family~66365.md" title="Gamgee Family">Gamgee</a>) and <a href="../W/Wilcome_Cotton_II.md" title="Wilcome Cotton II">Wilcome Cotton II</a>.<sup id="cite_ref-Gamgee_16-28" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup> <a href="../D/Denethor.md" title="Denethor">Denethor II</a> begins to use the <a href="../A/Anor-stone.md" title="Anor-stone">Anor-stone</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_2985.md" title="Third Age 2985">2985</a></td>
@@ -2320,12 +2320,12 @@ images:
 <tr>
 <td><a href="Third_Age_2989.md" title="Third Age 2989">2989</a></td>
 <td>1389</td>
-<td>Cái chết của <a href="../F/Flambard_Took.md" title="Flambard Took">Flambard Took</a>.<sup id="cite_ref-Took_13-49" class="reference"><a href="#cite_note-Took-13">[12]</a></sup> Sự ra đời của <a href="../D/Doderic_Brandybuck.md" title="Doderic Brandybuck">Doderic Brandybuck</a><sup id="cite_ref-Brandybuck_15-26" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup> và <a href="../C/Carl_Cotton.md" title="Carl Cotton">Carl 'Nibs' Cotton</a>.<sup id="cite_ref-Gamgee_16-30" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup> <a href="../_/Éomund.md" title="Éomund">Éomund</a> kết thúc <a href="Théodwyn.md" title="Théodwyn">Théodwyn</a>.<sup id="cite_ref-Mark_12-30" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup> <a href="../B/Balin.md" title="Balin">Balin</a> chuyến thám hiểm tới <a href="../M/Moria.md" title="Moria">Moria</a> bắt đầu.<sup id="cite_ref-TA_2-110" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td>Death of <a href="../F/Flambard_Took.md" title="Flambard Took">Flambard Took</a>.<sup id="cite_ref-Took_13-49" class="reference"><a href="#cite_note-Took-13">[12]</a></sup> Births of <a href="../D/Doderic_Brandybuck.md" title="Doderic Brandybuck">Doderic Brandybuck</a><sup id="cite_ref-Brandybuck_15-26" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup> and <a href="../C/Carl_Cotton.md" title="Carl Cotton">Carl &#39;Nibs&#39; Cotton</a>.<sup id="cite_ref-Gamgee_16-30" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup> <a href="../_/Éomund.md" title="Éomund">Éomund</a> weds <a href="Théodwyn.md" title="Théodwyn">Théodwyn</a>.<sup id="cite_ref-Mark_12-30" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup> <a href="../B/Balin.md" title="Balin">Balin</a>&#39;s expedition to <a href="../M/Moria.md" title="Moria">Moria</a> begins.<sup id="cite_ref-TA_2-110" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2990.md" title="Third Age 2990">2990</a></td>
 <td>1390</td>
-<td><a href="../S/Saruman.md" title="Saruman">Saruman</a> bắt đầu sinh sản <a href="../O/Orcs.md" title="Orcs">Orc</a>. Sự ra đời của <a href="../E/Erchirion.md" title="Erchirion">Ercirion</a>, <a href="../S/Sancho_Proudfoot.md" title="Sancho Proudfoot">Sancho Proudfoot</a>,<sup id="cite_ref-Baggins_17-33" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup> và <b><a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a>.</b><sup id="cite_ref-Took_13-50" class="reference"><a href="#cite_note-Took-13">[12]</a></sup> Cái chết của <a href="../H/Herugar_Bolger.md" title="Herugar Bolger">Herugar Bolger</a>.<sup id="cite_ref-Bolger_14-25" class="reference"><a href="#cite_note-Bolger-14">[13]</a></sup>
+<td><a href="../S/Saruman.md" title="Saruman">Saruman</a> begins breeding <a href="../O/Orcs.md" title="Orcs">Orcs</a>. Births of <a href="../E/Erchirion.md" title="Erchirion">Erchirion</a>, <a href="../S/Sancho_Proudfoot.md" title="Sancho Proudfoot">Sancho Proudfoot</a>,<sup id="cite_ref-Baggins_17-33" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup> and <b><a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a>.</b><sup id="cite_ref-Took_13-50" class="reference"><a href="#cite_note-Took-13">[12]</a></sup> Death of <a href="../H/Herugar_Bolger.md" title="Herugar Bolger">Herugar Bolger</a>.<sup id="cite_ref-Bolger_14-25" class="reference"><a href="#cite_note-Bolger-14">[13]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2991.md" title="Third Age 2991">2991</a></td>
@@ -2340,7 +2340,7 @@ images:
 <tr>
 <td><a href="Third_Age_2994.md" title="Third Age 2994">2994</a></td>
 <td>1394</td>
-<td>Phá hủy thuộc địa của Balin tại <a href="../M/Moria.md" title="Moria">Moria</a>. Tử vong của <a href="../B/Balin.md" title="Balin">Balin</a>,<sup id="cite_ref-TA_2-112" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../_/Óin.md" title="Óin">Óin</a>, <a href="../O/Ori.md" title="Ori">Ori</a>, <a href="../F/Flói.md" title="Flói">Flói</a>, <a href="../F/Frár.md" title="Frár">Frár</a>, <a href="../L/Lóni.md" title="Lóni">Lóni</a> và <a href="../N/Náli.md" title="Náli">Náli</a>. Sự ra đời của <a href="../A/Amrothos.md" title="Amrothos">Amrothos</a> và <a href="../C/Celandine_Brandybuck.md" title="Celandine Brandybuck">Celandine Brandybuck</a>.<sup id="cite_ref-Brandybuck_15-28" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup>
+<td>Destruction of Balin&#39;s colony in <a href="../M/Moria.md" title="Moria">Moria</a>. Deaths of <a href="../B/Balin.md" title="Balin">Balin</a>,<sup id="cite_ref-TA_2-112" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../_/Óin.md" title="Óin">Óin</a>, <a href="../O/Ori.md" title="Ori">Ori</a>, <a href="../F/Flói.md" title="Flói">Flói</a>, <a href="../F/Frár.md" title="Frár">Frár</a>, <a href="../L/Lóni.md" title="Lóni">Lóni</a>, and <a href="../N/Náli.md" title="Náli">Náli</a>. Births of <a href="../A/Amrothos.md" title="Amrothos">Amrothos</a> and <a href="../C/Celandine_Brandybuck.md" title="Celandine Brandybuck">Celandine Brandybuck</a>.<sup id="cite_ref-Brandybuck_15-28" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_2995.md" title="Third Age 2995">2995</a></td>
@@ -2370,27 +2370,27 @@ images:
 <tr>
 <td><a href="Third_Age_3000.md" title="Third Age 3000">3000</a></td>
 <td>1400</td>
-<td><a href="../S/Saruman.md" title="Saruman">Saruman</a> bị mắc bẫy bởi <a href="../S/Sauron.md" title="Sauron">Sauron</a>.<sup id="cite_ref-TA_2-114" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Cái chết của <a href="../W/Wilibald_Bolger.md" title="Wilibald Bolger">Wilibald Bolger</a>.<sup id="cite_ref-Bolger_14-27" class="reference"><a href="#cite_note-Bolger-14">[13]</a></sup>
+<td><a href="../S/Saruman.md" title="Saruman">Saruman</a> ensnared by <a href="../S/Sauron.md" title="Sauron">Sauron</a>.<sup id="cite_ref-TA_2-114" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Death of <a href="../W/Wilibald_Bolger.md" title="Wilibald Bolger">Wilibald Bolger</a>.<sup id="cite_ref-Bolger_14-27" class="reference"><a href="#cite_note-Bolger-14">[13]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_3001.md" title="Third Age 3001">3001</a></td>
 <td>1401</td>
-<td><b><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> bắt đầu nghi ngờ <a href="The_One_Ring.md" title="The One Ring"> Nhẫn Chúa</a> nằm trong <a href="The_Shire.md" title="The Shire"> Shire</a>. Tiệc sinh nhật của <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a>.<sup id="cite_ref-TA_2-115" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a> sở hữu <a href="The_One_Ring.md" title="The One Ring"> Nhẫn Chúa</a>.</b>
+<td><b><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> begins to suspect <a href="The_One_Ring.md" title="The One Ring">the One Ring</a> is in <a href="The_Shire.md" title="The Shire">the Shire</a>. <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a>&#39;s birthday feast.<sup id="cite_ref-TA_2-115" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a> comes in possession of <a href="The_One_Ring.md" title="The One Ring">the One Ring</a>.</b>
 </td></tr>
 <tr>
 <td><a href="Third_Age_3002.md" title="Third Age 3002">3002</a></td>
 <td>1402</td>
-<td>Cái chết của <a href="../_/Éomund.md" title="Éomund">Éomund</a>, <a href="Théodwyn.md" title="Théodwyn">Théodwyn</a>, và <a href="../L/Lalia_Clayhanger.md" title="Lalia Clayhanger">Lalia Clayhanger</a>. <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> đến <a href="../R/Rivendell.md" title="Rivendell">Imladris</a>.<sup id="cite_ref-TA_2-116" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td>Deaths of <a href="../_/Éomund.md" title="Éomund">Éomund</a>, <a href="Théodwyn.md" title="Théodwyn">Théodwyn</a>, and <a href="../L/Lalia_Clayhanger.md" title="Lalia Clayhanger">Lalia Clayhanger</a>. <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> comes to <a href="../R/Rivendell.md" title="Rivendell">Imladris</a>.<sup id="cite_ref-TA_2-116" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_3003.md" title="Third Age 3003">3003</a></td>
 <td>1403</td>
-<td><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> bắt đầu công việc <a href="Translations_from_the_Elvish.md" title="Translations from the Elvish">Bản dịch từ Elvish</a> của mình.
+<td><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> begins work on his <a href="Translations_from_the_Elvish.md" title="Translations from the Elvish">Translations from the Elvish</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_3004.md" title="Third Age 3004">3004</a></td>
 <td>1404</td>
-<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> bắt đầu đến thăm <a href="The_Shire.md" title="The Shire"> Shire</a> một cách thường xuyên.<sup id="cite_ref-TA_2-117" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Cái chết của <a href="../G/Gerda_Boffin.md" title="Gerda Boffin">Gerda Boffin</a> (<a class="mw-redirect" href="../B/Bolger_Family~66348.md" title="Bolger Family">Bolger</a>).<sup id="cite_ref-Boffin_18-25" class="reference"><a href="#cite_note-Boffin-18">[17]</a></sup>
+<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> begins to visit <a href="The_Shire.md" title="The Shire">the Shire</a> on a regular basis.<sup id="cite_ref-TA_2-117" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Death of <a href="../G/Gerda_Boffin.md" title="Gerda Boffin">Gerda Boffin</a> (<a class="mw-redirect" href="../B/Bolger_Family~66348.md" title="Bolger Family">Bolger</a>).<sup id="cite_ref-Boffin_18-25" class="reference"><a href="#cite_note-Boffin-18">[17]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_3005.md" title="Third Age 3005">3005</a></td>
@@ -2405,22 +2405,22 @@ images:
 <tr>
 <td><a href="Third_Age_3007.md" title="Third Age 3007">3007</a></td>
 <td>1407</td>
-<td><a href="../B/Brand.md" title="Brand">Brand</a> nhận quyền trượng của <a href="../D/Dale.md" title="Dale">Dale</a> sau cái chết của cha mình <a href="../B/Bain.md" title="Bain">Bain</a>. Cái chết của <a href="../G/Gilraen.md" title="Gilraen">Gilraen</a><sup id="cite_ref-TA_2-118" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> và <a href="../S/Saradas_Brandybuck.md" title="Saradas Brandybuck">Saradas Brandybuck</a>.<sup id="cite_ref-Brandybuck_15-29" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup>
+<td><a href="../B/Brand.md" title="Brand">Brand</a> takes the sceptre of <a href="../D/Dale.md" title="Dale">Dale</a> after the death of his father <a href="../B/Bain.md" title="Bain">Bain</a>. Death of <a href="../G/Gilraen.md" title="Gilraen">Gilraen</a><sup id="cite_ref-TA_2-118" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> and <a href="../S/Saradas_Brandybuck.md" title="Saradas Brandybuck">Saradas Brandybuck</a>.<sup id="cite_ref-Brandybuck_15-29" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_3008.md" title="Third Age 3008">3008</a></td>
 <td>1408</td>
-<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> chuyến thăm thường xuyên của <a href="The_Shire.md" title="The Shire">kết thúc Shire</a>.<sup id="cite_ref-TA_2-119" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Cái chết của <a href="../R/Rorimac_Brandybuck.md" title="Rorimac Brandybuck">Rorimac Brandybuck</a>. <a href="../S/Saradoc_Brandybuck.md" title="Saradoc Brandybuck">Saradoc Brandybuck</a> trở thành <a href="../M/Master_of_Buckland.md" title="Master of Buckland">Bậc thầy Buckland</a>.<sup id="cite_ref-Brandybuck_15-30" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup>
+<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>&#39;s regular visits to <a href="The_Shire.md" title="The Shire">the Shire</a> end.<sup id="cite_ref-TA_2-119" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Death of <a href="../R/Rorimac_Brandybuck.md" title="Rorimac Brandybuck">Rorimac Brandybuck</a>. <a href="../S/Saradoc_Brandybuck.md" title="Saradoc Brandybuck">Saradoc Brandybuck</a> becomes <a href="../M/Master_of_Buckland.md" title="Master of Buckland">Master of Buckland</a>.<sup id="cite_ref-Brandybuck_15-30" class="reference"><a href="#cite_note-Brandybuck-15">[14]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_3009.md" title="Third Age 3009">3009</a></td>
 <td>1409</td>
-<td><b>Gandalf và <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> truy lùng <a href="../G/Gollum.md" title="Gollum">Gollum</a>.</b><sup id="cite_ref-TA_2-120" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Cái chết của <a href="../D/Dudo_Baggins.md" title="Dudo Baggins">Dudo Baggins</a>.<sup id="cite_ref-Baggins_17-40" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup>
+<td><b>Gandalf and <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> hunt for <a href="../G/Gollum.md" title="Gollum">Gollum</a>.</b><sup id="cite_ref-TA_2-120" class="reference"><a href="#cite_note-TA-2">[2]</a></sup> Death of <a href="../D/Dudo_Baggins.md" title="Dudo Baggins">Dudo Baggins</a>.<sup id="cite_ref-Baggins_17-40" class="reference"><a href="#cite_note-Baggins-17">[16]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_3010.md" title="Third Age 3010">3010</a></td>
 <td>1410</td>
-<td>Cái chết của <a class="mw-redirect" href="../A/Adrahil_II.md" title="Adrahil II">Adrahil II</a>, <a href="../B/Bruno_Bracegirdle.md" title="Bruno Bracegirdle">Bruno Bracegirdle</a>,<sup id="cite_ref-Boffin_18-26" class="reference"><a href="#cite_note-Boffin-18">[17]</a></sup> và <a href="../D/Dinodas_Brandybuck.md" title="Dinodas Brandybuck">Dinodas Brandybuck</a>. <a href="../I/Imrahil.md" title="Imrahil">Imrahil</a> trở thành <a href="../P/Prince_of_Dol_Amroth.md" title="Prince of Dol Amroth">Thân vương Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-44" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
+<td>Deaths of <a class="mw-redirect" href="../A/Adrahil_II.md" title="Adrahil II">Adrahil II</a>, <a href="../B/Bruno_Bracegirdle.md" title="Bruno Bracegirdle">Bruno Bracegirdle</a>,<sup id="cite_ref-Boffin_18-26" class="reference"><a href="#cite_note-Boffin-18">[17]</a></sup> and <a href="../D/Dinodas_Brandybuck.md" title="Dinodas Brandybuck">Dinodas Brandybuck</a>. <a href="../I/Imrahil.md" title="Imrahil">Imrahil</a> becomes <a href="../P/Prince_of_Dol_Amroth.md" title="Prince of Dol Amroth">Prince of Dol Amroth</a>.<sup id="cite_ref-Dol_Amroth_11-44" class="reference"><a href="#cite_note-Dol_Amroth-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_3012.md" title="Third Age 3012">3012</a></td>
@@ -2430,47 +2430,47 @@ images:
 <tr>
 <td><a href="Third_Age_3013.md" title="Third Age 3013">3013</a></td>
 <td>1413</td>
-<td><a href="../W/Will_Whitfoot.md" title="Will Whitfoot">Will Whitfoot</a> được bầu <a href="../M/Mayor_of_Michel_Delving.md" title="Mayor of Michel Delving">Thị trưởng Michel Delving</a>.
+<td><a href="../W/Will_Whitfoot.md" title="Will Whitfoot">Will Whitfoot</a> is elected <a href="../M/Mayor_of_Michel_Delving.md" title="Mayor of Michel Delving">Mayor of Michel Delving</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_3014.md" title="Third Age 3014">3014</a></td>
 <td>1414</td>
-<td><a href="../G/Gríma.md" title="Gríma">Gríma Wormtongue</a> trở thành cố vấn trưởng cho <a href="Théoden.md" title="Théoden">Théoden</a>.
+<td><a href="../G/Gríma.md" title="Gríma">Gríma Wormtongue</a> becomes chief counsellor for <a href="Théoden.md" title="Théoden">Théoden</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_3015.md" title="Third Age 3015">3015</a></td>
 <td>1415</td>
-<td>Cái chết của <a href="../F/Ferumbras_Took_III.md" title="Ferumbras Took III">Ferumbras III</a>. <a href="../P/Paladin_Took_II.md" title="Paladin Took II">Paladin Took II</a> trở thành <a href="Thain.md" title="Thain">Thain</a> của <a href="The_Shire.md" title="The Shire"> Shire</a>.<sup id="cite_ref-Took_13-53" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
+<td>Death of <a href="../F/Ferumbras_Took_III.md" title="Ferumbras Took III">Ferumbras Took III</a>. <a href="../P/Paladin_Took_II.md" title="Paladin Took II">Paladin Took II</a> becomes <a href="Thain.md" title="Thain">Thain</a> of <a href="The_Shire.md" title="The Shire">the Shire</a>.<sup id="cite_ref-Took_13-53" class="reference"><a href="#cite_note-Took-13">[12]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_3016.md" title="Third Age 3016">3016</a></td>
 <td>1416</td>
-<td><a href="../A/Arwen.md" title="Arwen">Arwen</a> trở về <a href="../R/Rivendell.md" title="Rivendell">Imladris</a>.
+<td><a href="../A/Arwen.md" title="Arwen">Arwen</a> returns to <a href="../R/Rivendell.md" title="Rivendell">Imladris</a>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_3017.md" title="Third Age 3017">3017</a></td>
 <td>1417</td>
-<td><b><a href="../G/Gollum.md" title="Gollum">Gollum</a> bị bắt và đưa về <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>.</b> Sự ra đời của <a href="../A/Alphros.md" title="Alphros">Alphros</a>. <a href="../_/Éomer.md" title="Éomer">Éomer</a> trở thành <a class="mw-redirect" href="../M/Marshal.md" title="Marshal">Thống chế</a>.<sup id="cite_ref-Mark_12-31" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup> <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> đọc cuộn <a href="../I/Isildur.md" title="Isildur">Isildur</a> trong <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>. <sup id="cite_ref-TA_2-121" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+<td><b><a href="../G/Gollum.md" title="Gollum">Gollum</a> captured and taken to <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>.</b> Birth of <a href="../A/Alphros.md" title="Alphros">Alphros</a>. <a href="../_/Éomer.md" title="Éomer">Éomer</a> becomes <a class="mw-redirect" href="../M/Marshal.md" title="Marshal">Marshal</a>.<sup id="cite_ref-Mark_12-31" class="reference"><a href="#cite_note-Mark-12">[11]</a></sup> <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> reads the scroll of <a href="../I/Isildur.md" title="Isildur">Isildur</a> in <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>. <sup id="cite_ref-TA_2-121" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_3018.md" title="Third Age 3018">3018</a></td>
 <td>1418</td>
-<td><b>Vương quốc <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a> bắt đầu.</b> <a href="Thranduil.md" title="Thranduil">Thranduil</a> ở <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a> bị tấn công bởi <a href="../O/Orcs.md" title="Orcs">Orc</a>. <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a>, và phần lớn đất đai ở phía đông của <a href="../A/Anduin.md" title="Anduin">Anduin</a>, nằm dưới sự kiểm soát của <a href="../M/Mordor.md" title="Mordor">Mordor</a>. <a href="../G/Gollum.md" title="Gollum">Gollum</a> ẩn trong <a href="../M/Moria.md" title="Moria">Moria</a>. <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> biết được sự phản bội của <a href="../S/Saruman.md" title="Saruman">Saruman</a>. <b><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> đạt <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>. <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Hội đồng Elrond</a> được giữ và <a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Đoàn Hộ Nhẫn</a> được hình thành.</b>
+<td><b>The <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a> begins.</b> <a href="Thranduil.md" title="Thranduil">Thranduil</a>&#39;s kingdom in <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a> assailed by <a href="../O/Orcs.md" title="Orcs">Orcs</a>. <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a>, and much land east of the <a href="../A/Anduin.md" title="Anduin">Anduin</a>, is taken under control of <a href="../M/Mordor.md" title="Mordor">Mordor</a>. <a href="../G/Gollum.md" title="Gollum">Gollum</a> hides in <a href="../M/Moria.md" title="Moria">Moria</a>. <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> learns of the treachery of <a href="../S/Saruman.md" title="Saruman">Saruman</a>. <b><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> reaches <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>. The <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Council of Elrond</a> is held and the <a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Fellowship of the Ring</a> formed.</b>
 </td></tr>
 <tr>
 <td><a href="Third_Age_3019.md" title="Third Age 3019">3019</a></td>
 <td>1419</td>
-<td><b> <a href="../Q/Quest_of_the_Ring.md" title="Quest of the Ring">Nhiệm vụ của chiếc nhẫn</a>.</b> <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> rơi vào tay một <a class="mw-redirect" href="../B/Balrog.md" title="Balrog">Balrog</a> trong Mỏ <a href="../M/Moria.md" title="Moria">Moria</a>. <a href="../B/Boromir.md" title="Boromir">Boromir</a> chết khi bảo vệ <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> và <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> khỏi <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a> của <a href="../S/Saruman.md" title="Saruman">Saruman</a>. <a href="../B/Breaking_of_the_Fellowship.md" title="Breaking of the Fellowship">Sự tan rã của mối quan hệ thông công</a>. <a href="../G/Gollum.md" title="Gollum">Gollum</a> dẫn <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> và <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> vào <a href="../M/Mordor.md" title="Mordor">Mordor</a>. <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> trả về dưới dạng Gandalf the White và giải phóng <a href="Théoden.md" title="Théoden">Théoden</a> khỏi việc giữ <a href="../S/Saruman.md" title="Saruman">Saruman</a>. <b>Trận <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Trận Helm&#39;s Deep</a>.</b> Trận <a href="../E/Ents.md" title="Ents">Ent</a> trận <b><a href="../B/Battle_of_Isengard.md" title="Battle of Isengard">Trận Isengard</a></b>. <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> đi trên <a href="../P/Paths_of_the_Dead.md" title="Paths of the Dead">Con đường của người chết</a>. Tấn công đồng thời vào <a href="Thranduil.md" title="Thranduil">Thranduil</a>, <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a> và <a href="../G/Gondor.md" title="Gondor">Gondor</a>. <b>Trận <a class="mw-redirect" href="../B/Battle_of_Pelennor_Fields.md" title="Battle of Pelennor Fields">Trận cánh đồng Pelennor</a></b>. Tử vong của <a href="../D/Denethor.md" title="Denethor">Denethor II</a>, <a href="Théoden.md" title="Théoden">Théoden</a> và <a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a> của Angmar. Tấn công <a href="../D/Dale.md" title="Dale">Dale</a> và <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a>. Cái chết của <a class="mw-redirect" href="../D/Dáin_II_Ironfoot.md" title="Dáin II Ironfoot">Dáin II</a> và <a href="../B/Brand.md" title="Brand">Brand</a>. <b>Cái <a href="../B/Battle_of_the_Morannon.md" title="Battle of the Morannon">Trận Morannon</a>. <a href="The_One_Ring.md" title="The One Ring">Cái Nhẫn Chúa</a> bị phá hủy. Kết thúc <a href="../S/Sauron.md" title="Sauron">Sauron</a>.</b> <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> bị phá hủy. Cái chết của <a href="../G/Gollum.md" title="Gollum">Gollum</a>. <a href="../B/Bard_II.md" title="Bard II">Bard II</a> trở thành <a href="../K/King_of_Dale.md" title="King of Dale">Vua của Dale</a>. <a class="mw-redirect" href="Thorin_III_Stonehelm.md" title="Thorin III Stonehelm">Thorin III Stonehelm</a> trở thành <a class="mw-redirect" href="../K/King_of_Erebor.md" title="King of Erebor">Vua của Erebor</a>. <a href="../_/Éomer.md" title="Éomer">Éomer</a> trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a> thứ mười tám. <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> lấy tên <i>Elessar</i> và đăng quang vị trí thứ ba mươi tư <a href="../K/King_of_Gondor.md" title="King of Gondor">Vua Gondor</a>. Ông nhận được [[Quyền trượng Annúmina], trở thành Đại Vương đầu tiên của <a href="../R/Reunited_Kingdom.md" title="Reunited Kingdom">Vương quốc Thống nhất</a> và kết hôn với <a href="../A/Arwen.md" title="Arwen">Arwen</a>. <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a> được đổi tên thành <a href="../E/Eryn_Lasgalen.md" title="Eryn Lasgalen">Eryn Lasgalen</a>. <a href="../E/East_Lórien.md" title="East Lórien">Đông Lórien</a> được thành lập. <b> <a href="../B/Battle_of_Bywater.md" title="Battle of Bywater">Sự truy quét của Shire</a>.</b> Cái chết của <a href="../L/Lotho_Sackville-Baggins.md" title="Lotho Sackville-Baggins">Lotho Sackville-Baggins</a>, <a href="../S/Saruman.md" title="Saruman">Saruman</a> và <a href="../G/Gríma.md" title="Gríma">Gríma</a> Wormtongue. <b>Kết thúc <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a></b>.
+<td><b>The <a href="../Q/Quest_of_the_Ring.md" title="Quest of the Ring">Quest of the Ring</a>.</b> <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> falls at the hand of a <a class="mw-redirect" href="../B/Balrog.md" title="Balrog">Balrog</a> in the Mines of <a href="../M/Moria.md" title="Moria">Moria</a>. <a href="../B/Boromir.md" title="Boromir">Boromir</a> dies defending <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> and <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> from <a href="../S/Saruman.md" title="Saruman">Saruman</a>&#39;s <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a>. The <a href="../B/Breaking_of_the_Fellowship.md" title="Breaking of the Fellowship">Breaking of the Fellowship</a>. <a href="../G/Gollum.md" title="Gollum">Gollum</a> leads <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> and <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> into <a href="../M/Mordor.md" title="Mordor">Mordor</a>. <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> returns as Gandalf the White and frees <a href="Théoden.md" title="Théoden">Théoden</a> from the hold of <a href="../S/Saruman.md" title="Saruman">Saruman</a>. <b>The <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Battle of Helm&#39;s Deep</a>.</b> The <a href="../E/Ents.md" title="Ents">Ents</a> fight the <b><a href="../B/Battle_of_Isengard.md" title="Battle of Isengard">Battle of Isengard</a></b>. <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> walks the <a href="../P/Paths_of_the_Dead.md" title="Paths of the Dead">Paths of the Dead</a>. Simultaneous attacks on <a href="Thranduil.md" title="Thranduil">Thranduil</a>, <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a> and <a href="../G/Gondor.md" title="Gondor">Gondor</a>. <b>The <a class="mw-redirect" href="../B/Battle_of_Pelennor_Fields.md" title="Battle of Pelennor Fields">Battle of Pelennor Fields</a></b>. Deaths of <a href="../D/Denethor.md" title="Denethor">Denethor II</a>, <a href="Théoden.md" title="Théoden">Théoden</a> and the <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> of Angmar. Assault upon <a href="../D/Dale.md" title="Dale">Dale</a> and <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a>. Deaths of <a class="mw-redirect" href="../D/Dáin_II_Ironfoot.md" title="Dáin II Ironfoot">Dáin II</a> and <a href="../B/Brand.md" title="Brand">Brand</a>. <b>The <a href="../B/Battle_of_the_Morannon.md" title="Battle of the Morannon">Battle of the Morannon</a>. <a href="The_One_Ring.md" title="The One Ring">The One Ring</a> destroyed. End of <a href="../S/Sauron.md" title="Sauron">Sauron</a>.</b> <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> destroyed. Death of <a href="../G/Gollum.md" title="Gollum">Gollum</a>. <a href="../B/Bard_II.md" title="Bard II">Bard II</a> becomes <a href="../K/King_of_Dale.md" title="King of Dale">King of Dale</a>. <a class="mw-redirect" href="Thorin_III_Stonehelm.md" title="Thorin III Stonehelm">Thorin III Stonehelm</a> becomes <a class="mw-redirect" href="../K/King_of_Erebor.md" title="King of Erebor">King of Erebor</a>. <a href="../_/Éomer.md" title="Éomer">Éomer</a> becomes the eighteenth <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a>. <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> takes the name <i>Elessar</i> and is crowned the thirty-fourth <a href="../K/King_of_Gondor.md" title="King of Gondor">King of Gondor</a>. He receives the [[Sceptre of Annúmina], becoming the first High King of the <a href="../R/Reunited_Kingdom.md" title="Reunited Kingdom">Reunited Kingdom</a>, and marries <a href="../A/Arwen.md" title="Arwen">Arwen</a>. <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a> renamed <a href="../E/Eryn_Lasgalen.md" title="Eryn Lasgalen">Eryn Lasgalen</a>. <a href="../E/East_Lórien.md" title="East Lórien">East Lórien</a> founded. <b>The <a href="../B/Battle_of_Bywater.md" title="Battle of Bywater">Scouring of the Shire</a>.</b> Deaths of <a href="../L/Lotho_Sackville-Baggins.md" title="Lotho Sackville-Baggins">Lotho Sackville-Baggins</a>, <a href="../S/Saruman.md" title="Saruman">Saruman</a>, and <a href="../G/Gríma.md" title="Gríma">Gríma</a> Wormtongue. <b>End of the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a></b>.
 </td></tr>
 <tr>
 <td><a href="Third_Age_3020.md" title="Third Age 3020">3020</a></td>
 <td>1420</td>
-<td><a href="../D/Drúedain.md" title="Drúedain">Drúedain</a> tiêu diệt phần còn lại của <a href="../O/Orcs.md" title="Orcs">Orc</a> của <a href="../S/Saruman.md" title="Saruman">Saruman</a>. <a href="../F/Faramir.md" title="Faramir">Faramir</a> và <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> kết hôn.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[20]</a></sup> <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> kết hôn <a href="../R/Rose_Cotton.md" title="Rose Cotton">Rose Cotton</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[21]</a></sup> Cái chết của <a href="../L/Lobelia_Sackville-Baggins.md" title="Lobelia Sackville-Baggins">Lobelia Bracegirdle</a> (<a href="../S/Sackville-Baggins_Family.md" title="Sackville-Baggins Family">Sackville-Baggins</a>).<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[22]</a></sup>
+<td><a href="../D/Drúedain.md" title="Drúedain">Drúedain</a> destroy remnant of <a href="../S/Saruman.md" title="Saruman">Saruman</a>&#39;s <a href="../O/Orcs.md" title="Orcs">Orcs</a>. <a href="../F/Faramir.md" title="Faramir">Faramir</a> and <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> wed.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[20]</a></sup> <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> weds <a href="../R/Rose_Cotton.md" title="Rose Cotton">Rose Cotton</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[21]</a></sup> Death of <a href="../L/Lobelia_Sackville-Baggins.md" title="Lobelia Sackville-Baggins">Lobelia Bracegirdle</a> (<a href="../S/Sackville-Baggins_Family.md" title="Sackville-Baggins Family">Sackville-Baggins</a>).<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[22]</a></sup>
 </td></tr>
 <tr>
 <td><a href="Third_Age_3021.md" title="Third Age 3021">3021</a></td>
 <td>1421</td>
-<td>Sự ra đời của <a class="mw-redirect" href="../E/Elanor_Gamgee.md" title="Elanor Gamgee">Elanor Gamgee</a>.<sup id="cite_ref-Gamgee_16-31" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup> <a href="../_/Éomer.md" title="Éomer">Éomer</a> và <a href="../L/Lothíriel.md" title="Lothíriel">Lothíriel</a> kết hôn.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[23]</a></sup> <b><a href="../E/Elrond.md" title="Elrond">Elrond</a>, <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a>, <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> và <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> vượt qua <a href="../B/Belegaer.md" title="Belegaer">Biển</a>.</b><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[24]</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[25]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[note 3]</a></sup>
+<td>Birth of <a class="mw-redirect" href="../E/Elanor_Gamgee.md" title="Elanor Gamgee">Elanor Gamgee</a>.<sup id="cite_ref-Gamgee_16-31" class="reference"><a href="#cite_note-Gamgee-16">[15]</a></sup> <a href="../_/Éomer.md" title="Éomer">Éomer</a> and <a href="../L/Lothíriel.md" title="Lothíriel">Lothíriel</a> wed.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[23]</a></sup> <b><a href="../E/Elrond.md" title="Elrond">Elrond</a>, <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a>, <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> and <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> pass over the <a href="../B/Belegaer.md" title="Belegaer">Sea</a>.</b><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[24]</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[25]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[note 3]</a></sup>
 </td></tr></tbody></table>
 
 ## Ghi chú {#Notes}
@@ -2542,5 +2542,5 @@ images:
 <br>
 
 <div class="tg-seq"><table class="tg-seq-table wikitable wikitable--border">
-<tbody><tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a href="Timeline%252FSecond_Age.md" title="Timeline/Second Age">Kỷ Đệ Nhị</a></div></td><td width="45%"><div class="tg-seq-value">Kỷ Đệ Tam</div><div class="tg-seq-label"><a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_1.md" title="Third Age 1">1</a> - <a href="Third_Age_3021.md" title="Third Age 3021">3021</a></div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="Timeline%252FFourth_Age.md" title="Timeline/Fourth Age">Kỷ Đệ Tứ</a></div></td></tr>
+<tbody><tr><td width="27.5%"><div class="tg-seq-label">Preceded by</div><div class="tg-seq-value"><a href="Timeline%252FSecond_Age.md" title="Timeline/Second Age">Second Age</a></div></td><td width="45%"><div class="tg-seq-value">Third Age</div><div class="tg-seq-label"><a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_1.md" title="Third Age 1">1</a> - <a href="Third_Age_3021.md" title="Third Age 3021">3021</a></div></td><td width="27.5%"><div class="tg-seq-label">Followed by</div><div class="tg-seq-value"><a href="Timeline%252FFourth_Age.md" title="Timeline/Fourth Age">Fourth Age</a></div></td></tr>
 </tbody></table></div>

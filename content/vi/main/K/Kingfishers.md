@@ -15,7 +15,7 @@ images:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Nói ít đi, Fisher Blue! Hãy giữ những lời chúc tốt đẹp của bạn<br/>Hãy bay đi và rỉa lông bằng xương cá!
+<p>Talk less, Fisher Blue! Keep your kindly wishes<br/>Fly off and preen yourself with the bones of fishes!
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a><sup id="cite_ref-Boat_1-0" class="reference"><a href="#cite_note-Boat-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -28,7 +28,7 @@ images:
 
 Chim bói cá sống ở ven biển, ăn [cá](../F/Fish.md). Theo truyện dân gian [Hobbit](../H/Hobbits.md), một loài chim bói cá đáng chú ý đã sống ở [Khu Rừng Cổ](../O/Old_Forest.md). Nó trêu chọc [Tom Bombadil](../T/Tom_Bombadil.md), người này so sánh nó với một chiếc chong chóng thời tiết và nhận xét rằng, mặc dù có vẻ ngoài quý phái nhưng nó sống trong một ngôi nhà bẩn thỉu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> Khi bay đi, nó bị mất một chiếc lông vũ màu xanh sáng mà Tom đã thay thế chiếc lông [thiên nga](../S/Swans.md) cũ kỹ trong mũ của mình.<sup id="cite_ref-Boat_1-1" class="reference"><a href="#cite_note-Boat-1">[1]</a></sup> Tom vẫn mang một chiếc lông vũ lớn màu xanh lam đáng chú ý trên mũ khi gặp [Frodo](../F/Frodo_Baggins.md) và những người bạn đồng hành của mình.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
-[Gondor](../G/Gondor.md) cũng quen thuộc với Bói cá; khi [Faramir](../F/Faramir.md) nhìn thấy thứ mà ông nghĩ là sóc đen hoặc chim bói cá, ông hỏi [Anborn](../A/Anborn.md) liệu có con chim bói cá đen nào trong [Mirkwood](../M/Mirkwood.md),<sup id="cite_ref-Pool_4-0" class="reference"><a href="#cite_note-Pool-4">[3]</a></sup> một khu rừng nổi tiếng với các loài động vật màu đen hay không.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> Anborn nhìn thấy sinh vật bí ẩn có bốn chi và nhanh chóng bác bỏ cả hai ý kiến. Hóa ra là [Gollum](../G/Gollum.md), đang ẩn náu trong [Hồ Cấm](../F/Forbidden_Pool.md).<sup id="cite_ref-Pool_4-1" class="reference"><a href="#cite_note-Pool-4">[3]</a></sup>
+[Gondor](../G/Gondor.md) cũng quen thuộc với Bói cá; khi [Faramir](../F/Faramir.md) nhìn thấy thứ mà ông nghĩ là sóc đen hoặc chim bói cá, ông hỏi [Anborn](../A/Anborn.md) liệu có con chim bói cá đen nào trong [Mirkwood](../M/Mirkwood.md),<sup id="cite_ref-Pool_4-0" class="reference"><a href="#cite_note-Pool-4">[3]</a></sup> một khu rừng nổi tiếng với các loài động vật màu đen hay không.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> Anborn nhìn thấy sinh vật bí ẩn có bốn chi và nhanh chóng bác bỏ cả hai ý kiến. Hóa ra là [Gollum](../G/Gollum.md), đang ẩn náu trong [Bể Cấm](../F/Forbidden_Pool.md).<sup id="cite_ref-Pool_4-1" class="reference"><a href="#cite_note-Pool-4">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

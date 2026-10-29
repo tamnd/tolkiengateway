@@ -15,8 +15,8 @@ images:
   - "CdxIconReference.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
-<p>Ai đã nói với bạn và ai đã gửi cho bạn?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
+<p>Who told you, and who sent you?
 </p>
 <p class="tg-quote-footer"><cite><a href="Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
@@ -28,16 +28,16 @@ Là câu mở đầu của *Songs*, nó rất phù hợp với phong cách của
 ## Bài hát {#The_song}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p><b>Duyên dáng</b><br/>
+<p><b>Grace</b><br/>
 <br/>
-Nếu tôi uống nước trong thời gian này,<br/>
-    Cầu mong tôi không bao giờ uống rượu nữa:<br/>
-Bởi làm sao một người đàn ông, trong cuộc đời có thể,<br/>
-    Còn gì tuyệt vời hơn việc ăn tối?<br/>
+If I drink water while this does last,<br/>
+    May I never again drink wine:<br/>
+For how can a man, in his life of a span,<br/>
+    Do anything better than dine?<br/>
 <br/>
-Chúng ta sẽ ăn tối và uống rượu và nói xem chúng ta có nghĩ gì không<br/>
-    Rằng bất cứ điều gì tốt hơn có thể được;<br/>
-Và khi chúng ta dùng bữa xong, chúc mọi người<br/>
-    Có thể ăn tối cũng như chúng tôi.
+We&#39;ll dine and drink, and say if we think<br/>
+    That anything better can be;<br/>
+And when we have dined, wish all mankind<br/>
+    May dine as well as we.
 </p>
 </div>

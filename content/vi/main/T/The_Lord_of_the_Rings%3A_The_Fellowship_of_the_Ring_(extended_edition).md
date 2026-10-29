@@ -16,13 +16,13 @@ images:
   - "Fellowship_extended.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Fellowship_extended.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6a/Fellowship_extended.jpg/250px-Fellowship_extended.jpg" decoding="async" loading="lazy" width="250" height="341" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/6a/Fellowship_extended.jpg 1.5x" data-file-width="367" data-file-height="500"/></a><figcaption>Bìa của phiên bản mở rộng <table class="TGtable" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; margin:0 auto; clear: both;">  <tbody><tr style="text-align: center;"> <td width="30%">Preceded by:<br/><b>-</b> </td> <td width="40%"><b>The Lord of the Rings Extended Edition <br/> The Fellowship of the Ring</b> </td> <td width="30%">Followed by:<br/><b><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">The Two Towers Extended Edition</a></b> </td></tr></tbody></table></figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Fellowship_extended.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6a/Fellowship_extended.jpg/250px-Fellowship_extended.jpg" decoding="async" loading="lazy" width="250" height="341" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/6a/Fellowship_extended.jpg 1.5x" data-file-width="367" data-file-height="500"/></a><figcaption>Cover of the Extended edition <table class="TGtable" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; margin:0 auto; clear: both;">  <tbody><tr style="text-align: center;"> <td width="30%">Preceded by:<br/><b>-</b> </td> <td width="40%"><b>The Lord of the Rings Extended Edition <br/> The Fellowship of the Ring</b> </td> <td width="30%">Followed by:<br/><b><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">The Two Towers Extended Edition</a></b> </td></tr></tbody></table></figcaption></figure>
 
 <b><i>The Lord of the Rings: The Fellowship of the Ring</i> (phiên bản mở rộng)</b> là phiên bản mở rộng của *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*. Nó có 30 phút cảnh quay bổ sung được thêm lại vào phim (nâng tổng thời lượng chiếu lên 208 phút), cũng như nhiều phim tài liệu về quá trình làm phim dưới dạng phần bổ sung.
 
 Ấn bản này được tạo ra từ sự thành công của bộ phim được chiếu rạp và được phát hành dưới dạng DVD [12 tháng 11](../_/12_November.md), [2002](../_/2002.md) cùng với bốn bài bình luận và hàng giờ tài liệu bổ sung. Nó thành công đến mức các phần tiếp theo đều được phát hành tương tự. Đặc điểm chính của nó là, thay vì chỉ chèn những cảnh đã xóa, [Peter Jackson](../P/Peter_Jackson.md) tiếp cận phiên bản này như thể ông đang tạo ra một phiên bản hoàn toàn mới của bộ phim. Ông và người biên tập, John Gilbert, đã đánh giá tài liệu chưa được phát hành và làm việc để hoàn thiện nó giống như phần còn lại của tính năng. Hiệu ứng hình ảnh đã được hoàn thiện, lời thoại được ghi âm, hiệu ứng âm thanh được tạo ra và để đảm bảo tất cả các cảnh quay đều trôi chảy, [Howard Shore](../H/Howard_Shore.md) đã sáng tác và ghi âm bản nhạc mới cùng với Dàn nhạc Giao hưởng London.
 
-## Bản mở rộng đặc biệt - Phần thứ nhất (đĩa 1) {#Special_Extended_Edition_-_Part_One_(disc_1)}
+## Phiên bản mở rộng đặc biệt - Phần thứ nhất (đĩa 1) {#Special_Extended_Edition_-_Part_One_(disc_1)}
 
 Đĩa đầu tiên chứa phiên bản mở rộng của phim với phần bình luận bằng âm thanh sau:
 
@@ -49,7 +49,7 @@ images:
 - 25\. [Thanh kiếm đã gãy](The_Sword_that_Was_Broken.md)
 - 27\. [Cái Hội đồng Elrond](<The_Council_of_Elrond_(scene).md>)
 
-## Bản mở rộng đặc biệt - Phần thứ hai (đĩa 2) {#Special_Extended_Edition_-_Part_Two_(disc_2)}
+## Phiên bản mở rộng đặc biệt - Phần thứ hai (đĩa 2) {#Special_Extended_Edition_-_Part_Two_(disc_2)}
 
 Đĩa này là sự tiếp nối của đĩa đầu tiên.
 
@@ -70,7 +70,7 @@ images:
 - 38\. [Caras Galadhon](<../C/Caras_Galadhon_(scene).md>)
 - 39\. [Tấm gương Galadriel](<The_Mirror_of_Galadriel_(scene).md>)
 - 41\. [Tạm biệt Lórien](<../F/Farewell_to_Lórien_(scene).md>)
-- 42\. [Đại Hà](<The_Great_River_(scene).md>)
+- 42\. [Sông Lớn](<The_Great_River_(scene).md>)
 - 44\. [Sự tan vỡ của tình bạn](<The_Breaking_of_the_Fellowship_(scene).md>)
 - 45\. [Sự khởi hành của Boromir](<The_Departure_of_Boromir_(scene).md>)
 
@@ -115,23 +115,23 @@ images:
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt phim</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i> film series</a></b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Nguồn tư liệu: <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Source material: <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Phim
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Films
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (<a class="mw-selflink selflink">ấn bản mở rộng</a>)· <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">ấn bản mở rộng</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">ấn bản mở rộng</a>)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (<a class="mw-selflink selflink">extended edition</a>)· <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">extended edition</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">extended edition</a>)
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Âm nhạc
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Music
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack">The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings">The Complete Recordings</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Two Towers - The Complete Recordings">The Complete Recordings</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Return of the King - The Complete Recordings">The Complete Recordings</a>) · &#34;<a href="../M/May_It_Be.md" title="May It Be">May It Be</a>&#34; · &#34;<a href="../G/Gollum&#39;s_Song.md" title="Gollum&#39;s Song">Gollum&#39;s Song</a>&#34; · &#34;<a href="../I/Into_the_West.md" title="Into the West">Into the West</a>&#34;
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Sách ăn theo
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Tie-in books
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_Official_Movie_Guide.md" title="The Lord of the Rings: Official Movie Guide">Official Movie Guide</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Making_of_the_Movie_Trilogy.md" title="The Lord of the Rings: The Making of the Movie Trilogy">The Making of the Movie Trilogy</a></i> · <i><a href="The_Lord_of_the_Rings_Complete_Visual_Companion.md" title="The Lord of the Rings Complete Visual Companion">Complete Visual Companion</a></i>  · <i><a href="The_Lord_of_the_Rings_Trilogy_Photo_Guide.md" title="The Lord of the Rings Trilogy Photo Guide">Photo Guide</a></i> · <i><a href="../G/Gollum%253A_How_We_Made_Movie_Magic.md" title="Gollum: How We Made Movie Magic">Gollum: How We Made Movie Magic</a></i> · <i><a href="There_and_Back_Again%253A_An_Actor&#39;s_Tale.md" title="There and Back Again: An Actor&#39;s Tale">There and Back Again: An Actor&#39;s Tale</a></i> · <i><a href="The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md" title="The Lord of the Rings: Weapons and Warfare">Weapons and Warfare</a></i> · <i><a href="The_Art_of_The_Lord_of_the_Rings_(film_book).md" title="The Art of The Lord of the Rings (film book)">The Art of The Lord of the Rings</a></i> · <i><a href="The_Music_of_the_Lord_of_the_Rings_Films.md" title="The Music of the Lord of the Rings Films">The Music of the Lord of the Rings Films</a></i> · <i><a href="The_Lord_of_the_Rings_Location_Guidebook.md" title="The Lord of the Rings Location Guidebook">The Lord of the Rings Location Guidebook</a></i> · <i><a href="The_Lord_of_the_Rings_Location_Guidebook%253A_Travel_Diary.md" title="The Lord of the Rings Location Guidebook: Travel Diary">Travel Diary</a></i> · <i><a href="The_Lord_of_the_Rings_Sketchbook.md" title="The Lord of the Rings Sketchbook">Sketchbook</a></i>
 </td></tr>
@@ -151,12 +151,12 @@ images:
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_Visual_Companion.md" title="The Lord of the Rings: The Return of the King Visual Companion">Visual Companion</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_Photo_Guide.md" title="The Lord of the Rings: The Return of the King Photo Guide">Photo Guide</a></i> · <i><a href="The_Art_of_The_Return_of_the_King.md" title="The Art of The Return of the King">The Art of The Return of the King</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Trò chơi điện tử
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Video games
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md" title="The Lord of the Rings: The Two Towers (video game)">The Two Towers</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md" title="The Lord of the Rings: The Return of the King (video game)">The Return of the King</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Third_Age.md" title="The Lord of the Rings: The Third Age">The Third Age</a></i> · <i><a href="The_Lord_of_the_Rings%253A_Tactics.md" title="The Lord of the Rings: Tactics">Tactics</a></i> · <i><a href="The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">Conquest</a></i> ·  <i><a href="The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></i> · <i><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Nhân vật
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Characters
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> · <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> · <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> · <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> · <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> · <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> · <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> · <a href="../B/Boromir.md" title="Boromir">Boromir</a> · <a href="../L/Legolas.md" title="Legolas">Legolas</a> · <a href="../G/Gimli.md" title="Gimli">Gimli</a> · <a href="../E/Elrond.md" title="Elrond">Elrond</a> · <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> · <a href="Théoden.md" title="Théoden">Théoden</a> · <a href="../_/Éomer.md" title="Éomer">Éomer</a> · <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> · <a href="../S/Saruman.md" title="Saruman">Saruman</a> · <a href="../S/Sauron.md" title="Sauron">Sauron</a> · <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> · <a href="../D/Denethor.md" title="Denethor">Denethor</a> · <a href="../F/Faramir.md" title="Faramir">Faramir</a> · <a href="../G/Gollum.md" title="Gollum">Gollum</a> · <a href="../G/Gríma.md" title="Gríma">Gríma</a> · <a href="Treebeard.md" title="Treebeard">Treebeard</a> · <a href="../C/Celeborn.md" title="Celeborn">Celeborn</a> · <a href="../H/Haldir.md" title="Haldir">Haldir</a> · <a href="../L/Lurtz.md" title="Lurtz">Lurtz</a> · <a href="../S/Sharku.md" title="Sharku">Sharku</a> · <a href="../G/Grishnákh.md" title="Grishnákh">Grishnákh</a>
 </td></tr></tbody></table>

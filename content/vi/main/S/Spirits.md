@@ -15,7 +15,7 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Cái tên <b>Spirit</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Spirit_(disambiguation).md" title="Spirit (disambiguation)">Tinh thần (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Spirit</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Spirit_(disambiguation).md" title="Spirit (disambiguation)">Spirit (disambiguation)</a></b>.</div></div>
 
 **Tinh thần** là những sinh vật thiết yếu thường cư trú trong [Vô hình](../U/Unseen.md) và bản chất của chúng thường không bao gồm một cơ thể hữu hình.
 
@@ -25,7 +25,7 @@ images:
 
 ### Ainur {#Ainur}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../A/Ainur.md" title="Ainur">Ainur</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../A/Ainur.md" title="Ainur">Ainur</a></b></div></div>
 
 Trước [Eä](../E/Eä.md), [Eru](../I/Ilúvatar.md) [đã tạo ra](../C/Creation_of_the_Ainur.md) những linh hồn được gọi là [Ainur](../A/Ainur.md), Thánh nhân. Cái lớn hơn được gọi là [Valar](../V/Valar.md) và cái nhỏ hơn là [Maiar](../M/Maiar.md).<sup id="cite_ref-SII_2-0" class="reference"><a href="#cite_note-SII-2">[2]</a></sup>
 
@@ -33,13 +33,13 @@ Một số linh hồn được liên kết với một <a class="extiw" href="ht
 
 - *Air spirits*: Những linh hồn có hình dạng [diều hâu](../H/Hawks.md) và [đại bàng](../E/Eagles.md) đã gửi thông điệp tới [Manwë](../M/Manwë.md) khi ngài ngồi trên ngai vàng của mình ở [Ilmarin](../I/Ilmarin.md) trên [Taniquetil](../T/Taniquetil.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - *Fire spirits*: Maia [Arien](../A/Arien.md) được cho là "*ngay từ đầu đã là một linh hồn lửa*".<sup id="cite_ref-S11_4-0" class="reference"><a href="#cite_note-S11-4">[4]</a></sup> Melkor đã quyến rũ một số linh hồn lửa, được gọi là [Balrog](../B/Balrogs.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
-- *Water spirits*: Một loạt các linh hồn đi theo [Ulmo](../U/Ulmo.md) để duy trì vùng nước của [Arda](../A/Arda.md), trong đó Maiar [Ossë](../O/Ossë.md) và [Uinen](../U/Uinen.md) là lớn nhất.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Có lẽ [Salmar](Salmar.md), [Goldberry](../G/Goldberry.md) và [Người đàn bà Sông](../R/River-woman.md) là những linh hồn nước như vậy.
+- *Water spirits*: Một loạt các linh hồn đi theo [Ulmo](../U/Ulmo.md) để duy trì vùng nước của [Arda](../A/Arda.md), trong đó Maiar [Ossë](../O/Ossë.md) và [Uinen](../U/Uinen.md) là lớn nhất.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Có lẽ [Salmar](Salmar.md), [Goldberry](../G/Goldberry.md) và [Người phụ nữ sông](../R/River-woman.md) là những linh hồn nước như vậy.
 
 ### Ác quỷ {#Evil_spirits}
 
-Tất cả Ainur ban đầu đều tuân theo Eru, nhưng Vala [Melkor](../M/Morgoth.md) đã trở nên hư hỏng và mất đi sự ân sủng của [Eru](../I/Ilúvatar.md).<sup id="cite_ref-SII_2-1" class="reference"><a href="#cite_note-SII-2">[2]</a></sup> Khi tạo ra [Arda](../A/Arda.md), Melkor "*đã tập hợp lại những linh hồn từ khoảng trống của Eä mà ông đã biến thành dịch vụ của mình*", và những điều này được gọi là [Úmaiar](../_/Úmaiar.md) hoặc [quỷ](../D/Demons.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Tất cả Ainur ban đầu đều tuân theo Eru, nhưng Vala [Melkor](../M/Morgoth.md) đã trở nên hư hỏng và mất đi sự ân sủng của [Eru](../I/Ilúvatar.md).<sup id="cite_ref-SII_2-1" class="reference"><a href="#cite_note-SII-2">[2]</a></sup> Khi tạo ra [Arda](../A/Arda.md), Melkor "*đã tập hợp lại những linh hồn từ khoảng trống của Eä mà ông ta đã biến thành dịch vụ của mình*", và những điều này được gọi là [Úmaiar](../_/Úmaiar.md) hoặc [quỷ](../D/Demons.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Người ta kể rằng [Morgoth](../M/Morgoth.md) đã gửi "*[spirits of shadows](Spirits_of_shadows.md)*" chống lại [Tilion](../T/Tilion.md) và kim khí của [Mặt Trăng](../M/Moon.md), vì ông ghét ánh sáng của [Mặt Trời](Sun.md) và [Mặt Trăng](../M/Moon.md).<sup id="cite_ref-S11_4-1" class="reference"><a href="#cite_note-S11-4">[4]</a></sup> Đã xảy ra xung đột ở [Ilmen](../I/Ilmen.md), nhưng Tilion đã chiến thắng những linh hồn ma quỷ này.<sup id="cite_ref-S11_4-2" class="reference"><a href="#cite_note-S11-4">[4]</a></sup> Họ có thể nằm trong số những linh hồn Morgoth tập hợp để phục vụ ông.
+Người ta kể rằng [Morgoth](../M/Morgoth.md) đã gửi "*[spirits of shadows](Spirits_of_shadows.md)*" chống lại [Tilion](../T/Tilion.md) và kim khí của [Mặt Trăng](../M/Moon.md), vì ông ta ghét ánh sáng của [Mặt Trời](Sun.md) và [Mặt Trăng](../M/Moon.md).<sup id="cite_ref-S11_4-1" class="reference"><a href="#cite_note-S11-4">[4]</a></sup> Đã xảy ra xung đột ở [Ilmen](../I/Ilmen.md), nhưng Tilion đã chiến thắng những linh hồn ma quỷ này.<sup id="cite_ref-S11_4-2" class="reference"><a href="#cite_note-S11-4">[4]</a></sup> Họ có thể nằm trong số những linh hồn Morgoth tập hợp để phục vụ ông ta.
 
 Vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), linh hồn của "*evil vigilance*" được cho là trú ngụ trong [Two Watchers](../T/Two_Watchers.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Hơn nữa, [Barrow-wight](../B/Barrow-wights.md) còn được cho là linh hồn ma quỷ đã xâm nhập vào các gò đất hoang, khuấy động xương người chết.<sup id="cite_ref-Eriador_9-0" class="reference"><a href="#cite_note-Eriador-9">[9]</a></sup>
 
@@ -74,7 +74,7 @@ Trong bản thảo của *[In the House of Tom Bombadil](../I/In_the_House_of_To
 <tr>
 <td align="right" style="background: var(--tg-color-surface-4); width: 110px; padding-right: 4px;" rowspan="2"><b><a href="../V/Valar.md" title="Valar">Valar</a></b>
 </td>
-<td align="right" style="background: var(--tg-color-surface-3); width: 60px; font-size: 95%; padding-right: 4px;"><b><a class="mw-redirect" href="../L/Lords_of_the_Valar.md" title="Lords of the Valar">Các chúa tể</a></b>
+<td align="right" style="background: var(--tg-color-surface-3); width: 60px; font-size: 95%; padding-right: 4px;"><b><a class="mw-redirect" href="../L/Lords_of_the_Valar.md" title="Lords of the Valar">Lords</a></b>
 </td>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="../M/Manwë.md" title="Manwë">Manwë</a></i> · <i><a href="../U/Ulmo.md" title="Ulmo">Ulmo</a></i> · <i><a href="../A/Aulë.md" title="Aulë">Aulë</a></i> · <i><a href="../O/Oromë.md" title="Oromë">Oromë</a></i> · <i><a href="../M/Mandos.md" title="Mandos">Mandos</a></i> · <a href="../I/Irmo.md" title="Irmo">Irmo</a> · <a href="../T/Tulkas.md" title="Tulkas">Tulkas</a> · <s><i><a href="../M/Morgoth.md" title="Morgoth">Melkor</a></i></s>
 </td></tr>
@@ -94,9 +94,9 @@ Trong bản thảo của *[In the House of Tom Bombadil](../I/In_the_House_of_To
 <td style="font-size: 90%; padding-left: 4px;"><a href="Sauron.md" title="Sauron">Sauron</a> · <a href="../B/Balrogs.md" title="Balrogs">Balrogs</a> (<a href="../G/Gothmog_(balrog).md" title="Gothmog (balrog)">Gothmog</a> · <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>) · <a href="../B/Boldog.md" title="Boldog">Boldogs</a> · <a href="../T/Thuringwethil.md" title="Thuringwethil">Thuringwethil</a> · <a href="../G/Gothrog.md" title="Gothrog">Gothrog</a>
 </td></tr>
 <tr>
-<td align="right" style="background: var(--tg-color-surface-4); width: 110px; padding-right: 4px;" rowspan="2"><b>Khái niệm và địa điểm</b>
+<td align="right" style="background: var(--tg-color-surface-4); width: 110px; padding-right: 4px;" rowspan="2"><b>Concepts and locations</b>
 </td>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Almaren.md" title="Almaren">Almaren</a> · <a href="../A/Aratar.md" title="Aratar">Aratar</a> (được chỉ định trong <i>italics</i>) · <a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Sự tạo ra Ainur</a> · <a href="../F/Fana.md" title="Fana">Fana</a> · <a href="../M/Máhanaxar.md" title="Máhanaxar">Máhanaxar</a> · <a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Ainulindalë</a> · <a class="mw-redirect" href="../O/Order_of_Wizards.md" title="Order of Wizards">Thứ tự của Pháp sư</a> (được chỉ định trong <b>bold</b>) · <a href="Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Âm nhạc thứ hai của các Ainur</a> · <a href="../T/Timeless_Halls.md" title="Timeless Halls">Hội trường vượt thời gian</a> · <a href="../V/Valarin.md" title="Valarin">Valarin</a> · <a href="../V/Valinor.md" title="Valinor">Valinor</a> · <a href="../V/Valimar.md" title="Valimar">Valimar</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Almaren.md" title="Almaren">Almaren</a> · <a href="../A/Aratar.md" title="Aratar">Aratar</a> (indicated in <i>italics</i>) · <a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Creation of the Ainur</a> · <a href="../F/Fana.md" title="Fana">Fana</a> · <a href="../M/Máhanaxar.md" title="Máhanaxar">Máhanaxar</a> · <a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Ainulindalë</a> · <a class="mw-redirect" href="../O/Order_of_Wizards.md" title="Order of Wizards">Order of Wizards</a> (indicated in <b>bold</b>) · <a href="Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Second Music of the Ainur</a> · <a href="../T/Timeless_Halls.md" title="Timeless Halls">Timeless Halls</a> · <a href="../V/Valarin.md" title="Valarin">Valarin</a> · <a href="../V/Valinor.md" title="Valinor">Valinor</a> · <a href="../V/Valimar.md" title="Valimar">Valimar</a>
 </td></tr></tbody></table>
 
 <span></span>
