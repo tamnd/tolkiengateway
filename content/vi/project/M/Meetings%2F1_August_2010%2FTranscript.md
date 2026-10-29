@@ -57,7 +57,7 @@ sort_keys:
 [2010-08-01 20:09:06] &lt;Morgan&gt; not that I can think of<br/>
 [2010-08-01 20:09:17] &lt;Morgan&gt; Tengwar generator is important, of course<br/>
 [2010-08-01 20:09:36] &lt;mithrennaith&gt; I notice the forum isn’t working properly, I wonder whether that is because of one or two missing extensions.<br/>
-[2010-08-01 20:09:45] &lt;Morgan&gt; I would say more important than, e.g., Who&#39;s online<br/>
+[2010-08-01 20:09:45] &lt;Morgan&gt; I would say more  important than, e.g., Who&#39;s online<br/>
 [2010-08-01 20:09:58] &lt;mithrennaith&gt; Agree with Morgan.<br/>
 [2010-08-01 20:10:13] &lt;Morgan&gt; Is the forum an extension, KingA?<br/>
 [2010-08-01 20:10:32] &lt;Hyarion2&gt; hi guys, sorry, just finishing up a couple other things, I should be back in 10mins<br/>
@@ -230,7 +230,7 @@ sort_keys:
 [2010-08-01 21:21:45] &lt;mithrennaith&gt; #2 forum tech problems.<br/>
 [2010-08-01 21:21:47] &lt;Morgan&gt; I would say when the server issues are solved<br/>
 [2010-08-01 21:21:54] &lt;Morgan&gt; for 1<br/>
-[2010-08-01 21:22:19] &lt;mithrennaith&gt; Can we entice Hyarion back in the discussion for this?<br/>
+[2010-08-01 21:22:19] &lt;mithrennaith&gt; Can we entice Hyarion back in the discussion  for this?<br/>
 [2010-08-01 21:22:29] &lt;Morgan&gt; Mithr: do you mean &#34;forum&#34; as a verb?<br/>
 [2010-08-01 21:22:36] &lt;mithrennaith&gt; No.<br/>
 [2010-08-01 21:22:55] &lt;Morgan&gt; ok - sorry :)<br/>

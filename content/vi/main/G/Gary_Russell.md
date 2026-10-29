@@ -23,9 +23,9 @@ sort_keys:
 ## Trích dẫn {#Quotes}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Đối với tôi, nó bắt đầu với nghệ thuật khái niệm, những bản phác thảo và bản vẽ sớm nhất được thực hiện vào năm 1996/7. Sau đó, nó tiếp tục thông qua nội dung <a class="mw-redirect" href="../W/Weta_Workshop.md" title="Weta Workshop">Weta</a>, với các bức tranh, mô hình và mọi thứ cho đến khi bắt đầu quay phim - và hơn thế nữa. Tôi cố tình tránh tập trung vào bộ phim thực sự đã hoàn thành vì cuốn sách của <a href="../B/Brian_Sibley.md" title="Brian Sibley">Brian Sibley</a> đã trình bày rất rõ điều đó.
+<p>To me, it starts with the conceptual art, the earliest sketches and drawings done back in 1996/7. Then it goes on through the <a class="mw-redirect" href="../W/Weta_Workshop.md" title="Weta Workshop">Weta</a> stuff, with paintings, maquettes and everything right up to the commencement of filming - and beyond. I deliberately wanted to avoid focussing on the actual finished film itself as <a href="../B/Brian_Sibley.md" title="Brian Sibley">Brian Sibley</a>&#39;s book covered that so well.
 </p>
-<p class="tg-quote-footer"><cite>Gary Russell, <a class="external text" href="http://archives.theonering.net/features/newsroom/files/053102_gary.html" rel="noreferrer noopener" target="_blank">Trò chuyện TheOneRing.net</a>.</cite></p>
+<p class="tg-quote-footer"><cite>Gary Russell, <a class="external text" href="http://archives.theonering.net/features/newsroom/files/053102_gary.html" rel="noreferrer noopener" target="_blank">TheOneRing.net chat</a>.</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Thư mục {#Bibliography}

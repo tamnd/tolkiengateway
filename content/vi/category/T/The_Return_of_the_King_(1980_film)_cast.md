@@ -12,4 +12,4 @@ categories:
   - "The Return of the King (1980 film)"
 ---
 
-Thể loại này liệt kê **The Return of the King diễn viên (phim năm 1980)**.
+Thể loại này liệt kê **The Return of the King diễn viên (phim 1980)**.

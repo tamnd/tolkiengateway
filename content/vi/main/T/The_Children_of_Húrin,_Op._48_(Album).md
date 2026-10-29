@@ -14,7 +14,7 @@ images:
   - "Hurin_CD_Cover.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hurin_CD_Cover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/300px-Hurin_CD_Cover.png" decoding="async" loading="lazy" width="300" height="315" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/450px-Hurin_CD_Cover.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/600px-Hurin_CD_Cover.png 2x" data-file-width="1405" data-file-height="1474"/></a><figcaption>Tác phẩm nghệ thuật từ bản phát hành CD với sự cho phép của Ted Nasmith.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hurin_CD_Cover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/300px-Hurin_CD_Cover.png" decoding="async" loading="lazy" width="300" height="315" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/450px-Hurin_CD_Cover.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/600px-Hurin_CD_Cover.png 2x" data-file-width="1405" data-file-height="1474"/></a><figcaption>Artwork from the CD release with permission from Ted Nasmith.</figcaption></figure>
 
 Bản ghi demo hoàn chỉnh về tác phẩm opera của nhà soạn nhạc Paul Corfield Godfrey *[The Children of Húrin, Op. 48 (Opera)](<The_Children_of_Húrin,_Op._48_(Opera).md>)* từ vở kịch *Những cảnh sử thi từ The Silmarillion sau thần thoại J. R. R. Tolkien* do Volante Opera Productions ghi lại và được Prima Facie phát hành dưới dạng CD và bản tải xuống kỹ thuật số vào năm 2020.
 
@@ -32,7 +32,7 @@ Saeros, ủy viên hội đồng của Doriath (Tenor): Michael Clifton-Thompson
 
 Mablung của Heavy Hand, Thuyền trưởng của Doriath (Bass): Stephen Wells
 
-Beleg Cúthalion, Đội trưởng Doriath (Baritone): Philip Lloyd-Evans
+Beleg Cúthalion, Đội trưởng của Doriath (Baritone): Philip Lloyd-Evans
 
 Gwindor, Lãnh chúa của Nargothrond (Baritone): Julian Boyce
 
@@ -60,97 +60,97 @@ Michael Clifton-Thompson/Simon Crosby Buttle/Julian Boyce/Jasey Hall
 <tbody><tr>
 <td>1
 </td>
-<td>Mở đầu: Tôi là Trưởng Lão Vua
+<td>Prologue: I am the Elder King
 </td></tr>
 <tr>
 <td>2
 </td>
-<td>Cảnh 1: Morwen vợ của Húrin ở lại một mình, im lặng đau buồn
+<td>Scene One: Morwen the wife of Húrin remained alone, silent in grief
 </td></tr>
 <tr>
 <td>3
 </td>
-<td>Bây giờ ai biết được lời khuyên của Morgoth?
+<td>Who knows now the counsels of Morgoth?
 </td></tr>
 <tr>
 <td>4
 </td>
-<td>Khó quá Túrin con ơi
+<td>It is hard, Túrin my son
 </td></tr>
 <tr>
 <td>5
 </td>
-<td>Cảnh 2: Và Morwen sinh con
+<td>Scene Two: And Morwen gave birth to her child
 </td></tr>
 <tr>
 <td>6
 </td>
-<td>Vua phải phán xét những hành động này
+<td>The King must judge these deeds
 </td></tr>
 <tr>
 <td>7
 </td>
-<td>Sau đó tất cả đã được tìm kiếm và nói
+<td>Then all was searched and told
 </td></tr>
 <tr>
 <td>8
 </td>
-<td>Cảnh 3: Thế là Beleg khởi hành từ Doriath
+<td>Scene Three: So Beleg departed from Doriath
 </td></tr>
 <tr>
 <td>9
 </td>
-<td>Cơn bão di chuyển từ phía tây
+<td>The storm rode up out of the west
 </td></tr>
 <tr>
 <td>10
 </td>
-<td>Bạn là ai?
+<td>Who are you?
 </td></tr>
 <tr>
 <td>11
 </td>
-<td>Cảnh Bốn: Túrin đã đến Nargothrond như vậy
+<td>Scene Four: Thus did Túrin come to Nargothrond
 </td></tr>
 <tr>
 <td>12
 </td>
-<td>Và Finduilas, con gái của Orodreth Vua
+<td>And Finduilas, daughter of Orodreth the King
 </td></tr>
 <tr>
 <td>13
 </td>
-<td>Gwindor bạn ơi, bạn lại rơi vào nỗi buồn
+<td>Gwindor, dear friend, you are falling back into sadness
 </td></tr>
 <tr>
 <td>14
 </td>
-<td>Con gái của Vua, đừng để nỗi đau nào nằm giữa chúng ta
+<td>Daughter of the King, let no grief lie between us
 </td></tr>
 <tr>
 <td>15
 </td>
-<td>Vì anh yêu em, Gwindor, và anh xấu hổ vì đã không còn yêu em nữa
+<td>For I love you, Gwindor, and I am ashamed that I love you not more
 </td></tr>
 <tr>
 <td>16
 </td>
-<td>Cảnh 5: Sau đó các chiến binh của Nargothrond tiến lên
+<td>Scene Five: Then the warriors of Nargothrond went forth
 </td></tr>
 <tr>
 <td>17
 </td>
-<td>Lá rơi khỏi cây trong gió lạnh
+<td>Leaves fall from the trees in a cold wind
 </td></tr>
 <tr>
 <td>18
 </td>
-<td>Cảnh thứ sáu: Sau đó Morwen quẫn trí và cô cưỡi ngựa đi cùng Niënor
+<td>Scene Six: Then Morwen was distraught and she rode forth with Niënor
 </td></tr>
 <tr>
 <td>19
 </td>
-<td>Thế là các quý cô đã bị lạc
+<td>Thus the ladies were lost
 </td></tr></tbody></table>
 
 #### Đĩa: 2 {#Disc:_2}
@@ -164,42 +164,42 @@ Michael Clifton-Thompson/Simon Crosby Buttle/Julian Boyce/Jasey Hall
 <tr>
 <td>2
 </td>
-<td>Bạn là ai và bạn làm gì ở đây?
+<td>Who are you, and what do you here?
 </td></tr>
 <tr>
 <td>3
 </td>
-<td>Tất cả những việc làm và những ngày qua của tôi
+<td>All my deeds and past days
 </td></tr>
 <tr>
 <td>4
 </td>
-<td>Cảnh thứ tám: Xung quanh u ám tụ tập; bóng tối lan khắp biển
+<td>Scene Eight: Around the gloom gathers; darkness grows across the sea
 </td></tr>
 <tr>
 <td>5
 </td>
-<td>Và tất cả những điều cô nhìn thấy đều có vẻ mới mẻ và xa lạ đối với cô.
+<td>And all things that she saw seemed new to her and strange
 </td></tr>
 <tr>
 <td>6
 </td>
-<td>Cảnh Chín: Dù tất cả đều hủy hoại thế giới
+<td>Scene Nine: Though all to ruin fell the world
 </td></tr>
 <tr>
 <td>7
 </td>
-<td>Khi hoàng hôn buông xuống, chúng ta phải bò ra sông
+<td>When dusk falls, we must creep to the river
 </td></tr>
 <tr>
 <td>8
 </td>
-<td>Niniel, đừng sợ điều tồi tệ nhất
+<td>Niniel, fear not the worst
 </td></tr>
 <tr>
 <td>9
 </td>
-<td>Bạn đã nhìn thấy bà chưa?
+<td>Have you seen her?
 </td></tr>
 <tr>
 <td>10
@@ -214,5 +214,5 @@ Michael Clifton-Thompson/Simon Crosby Buttle/Julian Boyce/Jasey Hall
 <tr>
 <td>12
 </td>
-<td>Cuối cùng bạn đã đến
+<td>You have come at last
 </td></tr></tbody></table>

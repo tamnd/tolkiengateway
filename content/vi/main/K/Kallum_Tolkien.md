@@ -23,7 +23,7 @@ infobox:
     value: "IMDb profile"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Kallum Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Do ... thủ vai</th><td class="tg-infobox-data">Second Soldier in:<br/><i><a href="../T/Tolkien_(film).md" title="Tolkien (film)">Tolkien</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm10678351/" rel="noreferrer noopener" target="_blank">hồ sơ IMDb</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Kallum Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data">Second Soldier in:<br/><i><a href="../T/Tolkien_(film).md" title="Tolkien (film)">Tolkien</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm10678351/" rel="noreferrer noopener" target="_blank">IMDb profile</a></td></tr></tbody></table>
 
 **Kallum Tolkien** được cho là chắt của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh đóng vai Người lính thứ hai trong *[Tolkien](<../T/Tolkien_(film).md>)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 

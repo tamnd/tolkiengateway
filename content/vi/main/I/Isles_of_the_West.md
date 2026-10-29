@@ -15,14 +15,14 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Isles_of_the_West&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Isles_of_the_West&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Sau đó, hơn bất kỳ vị vua nào của Con Người, ông xuất hiện và dường như là một lãnh chúa Tiên đến từ Quần đảo Phương Tây.
+<p>Then more than any king of Men he appeared, and seemed rather an Elf-lord from the Isles of the West.
 </p>
 <p class="tg-quote-footer"><cite>From <i><a href="../T/The_Tale_of_Aragorn_and_Arwen.md" title="The Tale of Aragorn and Arwen">The Tale of Aragorn and Arwen</a></i><sup id="cite_ref-tale_1-0" class="reference"><a href="#cite_note-tale-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

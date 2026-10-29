@@ -17,9 +17,9 @@ images:
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Eric_Faure-Brac_-_Tuor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3d/Eric_Faure-Brac_-_Tuor.jpg/250px-Eric_Faure-Brac_-_Tuor.jpg" decoding="async" loading="lazy" width="250" height="188" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3d/Eric_Faure-Brac_-_Tuor.jpg/375px-Eric_Faure-Brac_-_Tuor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3d/Eric_Faure-Brac_-_Tuor.jpg/500px-Eric_Faure-Brac_-_Tuor.jpg 2x" data-file-width="1024" data-file-height="769"/></a><figcaption><i>Tuor</i> by <a href="../../category/I/Images_by_Eric_Faure-Brac.md" title="Category:Images by Eric Faure-Brac">Eric Faure-Brac</a></figcaption></figure>
 
 <center><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tới Biển, tới Biển! Chim hải âu trắng kêu<br/>Gió thổi tung bọt trắng xóa.
+<p>To the Sea, to the Sea! The white gulls are crying,<br/>The wind is blowing, and the white foam is flying.
 </p>
-<p class="tg-quote-footer"><cite>Từ <a href="../T/To_the_Sea,_to_the_Sea!_The_white_gulls_are_crying.md" title="To the Sea, to the Sea! The white gulls are crying">bài thơ</a> được hát bởi <a href="../L/Legolas.md" title="Legolas">Legolas</a> trong <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, "<a href="../T/The_Field_of_Cormallen.md" title="The Field of Cormallen">The Cánh đồng Cormallen</a>"</cite></p>
+<p class="tg-quote-footer"><cite>From <a href="../T/To_the_Sea,_to_the_Sea!_The_white_gulls_are_crying.md" title="To the Sea, to the Sea! The white gulls are crying">the poem</a> sung by <a href="../L/Legolas.md" title="Legolas">Legolas</a> in <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Field_of_Cormallen.md" title="The Field of Cormallen">The Field of Cormallen</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
 **Mòng biển** hoặc **mews** là những loài chim được tìm thấy trên tất cả các bờ biển ở [Arda](../A/Arda.md).

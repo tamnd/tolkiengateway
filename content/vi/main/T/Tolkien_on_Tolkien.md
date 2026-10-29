@@ -20,7 +20,7 @@ categories:
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">In ở <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>, <a href="../L/Letter_165.md" title="Letter 165">Thư 165</a>, (không ghi ngày tháng, viết <a href="../J/June.md" title="June">Tháng 6</a> <a href="../_/1955.md" title="1955">1955</a>).</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">In ở <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">Những bức thư của J.R.R. Tolkien</a></i>, <a href="../L/Letter_165.md" title="Letter 165">Thư 165</a>, (không ghi ngày tháng, viết <a href="../J/June.md" title="June">Tháng 6</a> <a href="../_/1955.md" title="1955">1955</a>).</span>
 </li>
 </ol></div></span>
 

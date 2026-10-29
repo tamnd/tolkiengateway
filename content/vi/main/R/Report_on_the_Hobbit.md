@@ -17,12 +17,12 @@ categories:
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Đánh giá về "The Hobbit"<br/>
-30 tháng 10 năm 1936<br/>
+<p>Review of &#34;The Hobbit&#34;<br/>
+30 October 1936<br/>
 <br/>
-Bilbo Baggins là một Hobbit sống trong cái hang Hobbit của mình và chưa bao giờ phiêu lưu, cuối cùng Gandalf thuật sĩ và Người Lùn của ông đã thuyết phục được ông đi. Ông đã có một khoảng thời gian rất thú vị (sic) khi chiến đấu với lũ yêu tinh và lũ chiến binh. Cuối cùng họ cũng đến được ngọn núi cô đơn; Smaug, con rồng canh giữ nó đã bị giết và sau một trận chiến kinh hoàng với lũ yêu tinh, nó trở về nhà — giàu có!<br/>
+Bilbo Baggins was a Hobbit who lived in his Hobbit hole and neverwent for adventures, at last Gandalf the wizard and his Dwarves persuaded him to go. He had a very exiting (sic) time fighting goblins and wargs. At last they get to the lonely mountain; Smaug, the dragon who guards it is killed and after a terrific battle with the goblins he returned home — rich!<br/>
 <br/>
-Cuốn sách này, với sự hỗ trợ của bản đồ, không cần bất kỳ hình ảnh minh họa nào, rất hay và hấp dẫn tất cả trẻ em từ 5 đến 9 tuổi.<br/>
+This book, with the help of maps, does not need any illustrations it is good and should appeal to all children between the ages of 5 and 9.<br/>
 Rayner Unwin
 </p>
 </blockquote>

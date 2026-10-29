@@ -18,13 +18,13 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
-<p>Ai đã nói với bạn và ai đã gửi cho bạn?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
+<p>Who told you, and who sent you?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
 **thrall-Noldoli** là những người [Noldoli](../N/Noldoli.md) đã trở thành nô lệ của [Morgoth](../M/Morgoth.md).
@@ -33,7 +33,7 @@ images:
 
 Trong những quan niệm trước đó về những gì sẽ trở thành *[The Silmarillion](The_Silmarillion.md)*, tất cả các vương quốc Tiên của [Beleriand](../B/Beleriand.md) đã bị phá hủy sớm hơn nhiều so với trong tác phẩm cuối cùng và hầu như tất cả Noldoli đều bị Melko bắt làm nô lệ, làm việc trong các khu mỏ [Angband](../A/Angband.md) thực hiện công việc của mình. Những Noldoli miễn phí duy nhất là những nô lệ trốn thoát, những người bị [Sindar](../S/Sindar.md) nghi ngờ.
 
-Quyền lực của Melko trong những tác phẩm đầu tiên này được cho là rất lớn: ông có thể thống trị tâm trí của Tiên tộc bất cứ nơi nào họ đến, bằng cách gieo rắc nỗi sợ hãi của mình vào họ. Do đó, ngay cả những nô lệ đã trốn thoát cũng không thực sự được tự do. Không thể tưởng tượng được rằng trong quan niệm ban đầu này, Thrall-Noldoli đã được sử dụng để nhân giống [Orc](../O/Orcs.md).
+Quyền lực của Melko trong những tác phẩm đầu tiên này được cho là rất lớn: ông ta có thể thống trị tâm trí của Tiên tộc bất cứ nơi nào họ đến, bằng cách gieo rắc nỗi sợ hãi của mình vào họ. Do đó, ngay cả những nô lệ đã trốn thoát cũng không thực sự được tự do. Không thể tưởng tượng được rằng trong quan niệm ban đầu này, Thrall-Noldoli đã được sử dụng để nhân giống [Orc](../O/Orcs.md).
 
 Trong tài liệu sau này mà *Silmarillion* được xuất bản dựa trên đó, có tương đối ít tài liệu tham khảo về các thần tượng của Morgoth. Không có đề cập rõ ràng về điều gì xảy ra với các vụ bắt giữ Tiên tộc Morgoth (chính xác là nơi [Finduilas](../F/Finduilas.md) và những người phụ nữ khác của [Nargothrond](../N/Nargothrond.md) bị bắt đến chưa bao giờ được nói đến), nhưng ý tưởng vẫn hiện diện ở phần cuối của *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)*, trong đó đề cập rằng [Valar](../V/Valar.md) đã giải phóng nô lệ của Morgoth.
 

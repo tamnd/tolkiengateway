@@ -48,11 +48,11 @@ infobox:
     value: "Action"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Lord of the Rings</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Lord of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Return of the King</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Return_of_the_King_(disambiguation).md" title="The Return of the King (disambiguation)">The Return of the King (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Return of the King</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Return_of_the_King_(disambiguation).md" title="The Return of the King (disambiguation)">The Return of the King (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/EA&#39;s_The_Lord_of_the_Rings-_The_Return_of_the_King_box.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dc/EA%27s_The_Lord_of_the_Rings-_The_Return_of_the_King_box.jpg/320px-EA%27s_The_Lord_of_the_Rings-_The_Return_of_the_King_box.jpg" decoding="async" loading="lazy" width="320" height="456" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/dc/EA%27s_The_Lord_of_the_Rings-_The_Return_of_the_King_box.jpg 1.5x" data-file-width="351" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi điện tử</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The Return of the King</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà phát triển</th><td class="tg-infobox-data">EA Redwood Shores (PS2 &amp; PC) <br/>Hypnos Entertainment (GC &amp; Xbox)<br/>Griptonite Games (GBA)<br/>JAMDAT (Mobile)<br/>Beenox (Mac)</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../E/Electronic_Arts.md" title="Electronic Arts">Electronic Arts</a><br/>Aspyr (Mac)</td></tr><tr><th scope="row" class="tg-infobox-label">Nền tảng</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Game_Boy_Advance" title="wikipedia:Game Boy Advance">Game Boy Advance</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/GameCube" title="wikipedia:GameCube">GameCube</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/OS_X" title="wikipedia:OS X">Mac OS X</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Microsoft_Windows" title="wikipedia:Microsoft Windows">Microsoft Windows</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Mobile_games" title="wikipedia:Mobile games">Mobile</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_2" title="wikipedia:PlayStation 2">PlayStation 2</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Xbox" title="wikipedia:Xbox">Xbox</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data"><b>GameCube, PS2:</b><br/>  NA: 5 November 2003<br/>  EUR: 14 November 2003<br/>  JPN: 8 January 2004<br/><b>Xbox:</b><br/>  NA: 5 November 2003<br/>  EUR: 14 November 2003<br/><b>PC:</b><br/>  NA: 31 October 2003<br/>  EUR: 14 November 2003</td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Action</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/EA&#39;s_The_Lord_of_the_Rings-_The_Return_of_the_King_box.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dc/EA%27s_The_Lord_of_the_Rings-_The_Return_of_the_King_box.jpg/320px-EA%27s_The_Lord_of_the_Rings-_The_Return_of_the_King_box.jpg" decoding="async" loading="lazy" width="320" height="456" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/dc/EA%27s_The_Lord_of_the_Rings-_The_Return_of_the_King_box.jpg 1.5x" data-file-width="351" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The Return of the King</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data">EA Redwood Shores (PS2 &amp; PC) <br/>Hypnos Entertainment (GC &amp; Xbox)<br/>Griptonite Games (GBA)<br/>JAMDAT (Mobile)<br/>Beenox (Mac)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Electronic_Arts.md" title="Electronic Arts">Electronic Arts</a><br/>Aspyr (Mac)</td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Game_Boy_Advance" title="wikipedia:Game Boy Advance">Game Boy Advance</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/GameCube" title="wikipedia:GameCube">GameCube</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/OS_X" title="wikipedia:OS X">Mac OS X</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Microsoft_Windows" title="wikipedia:Microsoft Windows">Microsoft Windows</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Mobile_games" title="wikipedia:Mobile games">Mobile</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_2" title="wikipedia:PlayStation 2">PlayStation 2</a><br/><a class="extiw" href="http://en.wikipedia.org/wiki/Xbox" title="wikipedia:Xbox">Xbox</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><b>GameCube, PS2:</b><br/>  NA: 5 November 2003<br/>  EUR: 14 November 2003<br/>  JPN: 8 January 2004<br/><b>Xbox:</b><br/>  NA: 5 November 2003<br/>  EUR: 14 November 2003<br/><b>PC:</b><br/>  NA: 31 October 2003<br/>  EUR: 14 November 2003</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Action</td></tr></tbody></table>
 
 **The Lord of the Rings: The Return of the King** là một trò chơi điện tử hành động của [Electronic Arts](../E/Electronic_Arts.md) phát hành năm 2003, dựa trên [bộ phim cùng tên](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
 
@@ -74,8 +74,8 @@ Dàn diễn viên không được xác định theo vai diễn, ngoại trừ nh
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Vai trò</th>
-<th>Diễn viên
+<th>Role</th>
+<th>Actor
 </th></tr>
 <tr>
 <td><a href="../S/Sean_Astin.md" title="Sean Astin">Sean Astin</a></td>
@@ -115,47 +115,47 @@ Dàn diễn viên không được xác định theo vai diễn, ngoại trừ nh
 </td></tr>
 <tr>
 <td><a href="../A/Andrew_Chaikin.md" title="Andrew Chaikin">Andrew Chaikin</a></td>
-<td>Diễn viên lồng tiếng bổ sung
+<td>Additional voice talent
 </td></tr>
 <tr>
 <td>Tom Chantler</td>
-<td>Diễn viên lồng tiếng bổ sung
+<td>Additional voice talent
 </td></tr>
 <tr>
 <td><a href="../C/Chris_Edgerly.md" title="Chris Edgerly">Chris Edgerly</a></td>
-<td>Tài năng lồng tiếng bổ sung, <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>
+<td>Additional voice talent, <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>
 </td></tr>
 <tr>
 <td><a href="../L/Lorri_Holt.md" title="Lorri Holt">Lorri Holt</a></td>
-<td>Diễn viên lồng tiếng bổ sung
+<td>Additional voice talent
 </td></tr>
 <tr>
 <td><a href="../R/Roger_Jackson.md" title="Roger Jackson">Roger Jackson</a></td>
-<td>Diễn viên lồng tiếng bổ sung
+<td>Additional voice talent
 </td></tr>
 <tr>
 <td>Anni Long</td>
-<td>Diễn viên lồng tiếng bổ sung
+<td>Additional voice talent
 </td></tr>
 <tr>
 <td>Charles Martinet</td>
-<td>Diễn viên lồng tiếng bổ sung
+<td>Additional voice talent
 </td></tr>
 <tr>
 <td><a href="../J/Jarion_Monroe.md" title="Jarion Monroe">Jarion Monroe</a></td>
-<td>Diễn viên lồng tiếng bổ sung
+<td>Additional voice talent
 </td></tr>
 <tr>
 <td>Bruce Robertson</td>
-<td>Diễn viên lồng tiếng bổ sung
+<td>Additional voice talent
 </td></tr>
 <tr>
 <td><a href="../S/Stephen_Stanton.md" title="Stephen Stanton">Stephen Stanton</a></td>
-<td>Diễn viên lồng tiếng bổ sung
+<td>Additional voice talent
 </td></tr>
 <tr>
 <td>Nick Tagas</td>
-<td>Diễn viên lồng tiếng bổ sung
+<td>Additional voice talent
 </td></tr></tbody></table>
 
 ## Tóm tắt cấp độ {#Level_Summaries}
@@ -176,7 +176,7 @@ Người chơi truy đuổi lũ Orc và Uruk-hai xuyên qua khu rừng Fangorn. 
 
 #### Minas Tirith - Đỉnh Tường {#Minas_Tirith_-_Top_of_the_Wall}
 
-Người chơi phải di chuyển lên xuống các bức tường của Minas Tirith, đánh sập các thang bao vây (sử dụng nút O) và tiêu diệt bất kỳ kẻ thù nào trên đỉnh bức tường. Ông luôn phải đảm bảo rằng đồng hồ vượt mức càng thấp càng tốt, bởi vì người chơi sẽ thất bại nếu có quá nhiều kẻ thù bám trên tường. Thỉnh thoảng, các tháp bao vây sẽ xuất hiện và người chơi phải bắn máy phóng vào (chỉ các tháp bên trái) hoặc bắn trực tiếp. Khi người chơi phá hủy tháp bao vây thứ tư (tháp này sẽ đáp xuống tường bất kể thế nào), một đoạn cắt cảnh sẽ hiển thị những kẻ troll sử dụng Grond. Cấp độ kết thúc khi người chơi đi xuống cầu thang xuống sân.
+Người chơi phải di chuyển lên xuống các bức tường của Minas Tirith, đánh sập các thang bao vây (sử dụng nút O) và tiêu diệt bất kỳ kẻ thù nào trên đỉnh bức tường. Ông ta luôn phải đảm bảo rằng đồng hồ vượt mức càng thấp càng tốt, bởi vì người chơi sẽ thất bại nếu có quá nhiều kẻ thù bám trên tường. Thỉnh thoảng, các tháp bao vây sẽ xuất hiện và người chơi phải bắn máy phóng vào (chỉ các tháp bên trái) hoặc bắn trực tiếp. Khi người chơi phá hủy tháp bao vây thứ tư (tháp này sẽ đáp xuống tường bất kể thế nào), một đoạn cắt cảnh sẽ hiển thị những kẻ troll sử dụng Grond. Cấp độ kết thúc khi người chơi đi xuống cầu thang xuống sân.
 
 **Thất bại như thế nào:** Người chơi chết hoặc tường bị tràn.
 
@@ -196,19 +196,19 @@ Người chơi, với tư cách là Aragorn, Legolas hoặc Gimli, phải tìm �
 
 #### Vua của Người Chết {#King_of_the_Dead}
 
-Bây giờ người chơi phải một mình chiến đấu với Vua của Người chết. Vua tấn công bằng đòn tấn công ba đòn hoặc bằng cách triệu hồi binh lính chết. Sau khi cạn kiệt khoảng một nửa sức khỏe, ông bắt đầu thổi một luồng gió cực mạnh vào người chơi (người phải cúi xuống sau những tảng đá) và đòn tấn công ba đòn của ông trở thành đòn tấn công năm đòn. Sau khi Vua bị đánh bại, người chơi phải thoát khỏi ngọn núi đang sụp đổ và đánh bại bất kỳ bóng ma nào trên đường đi của mình.
+Bây giờ người chơi phải một mình chiến đấu với Vua của Người chết. Vua tấn công bằng đòn tấn công ba đòn hoặc bằng cách triệu hồi binh lính chết. Sau khi cạn kiệt khoảng một nửa sức khỏe, ông ta bắt đầu thổi một luồng gió cực mạnh vào người chơi (người phải cúi xuống sau những tảng đá) và đòn tấn công ba đòn của ông ta trở thành đòn tấn công năm đòn. Sau khi Vua bị đánh bại, người chơi phải thoát khỏi ngọn núi đang sụp đổ và đánh bại bất kỳ bóng ma nào trên đường đi của mình.
 
 **Thất bại như thế nào:** Người chơi chết hoặc hang động đổ sập vào người chơi.
 
 #### Cổng phía Nam {#The_Southern_Gate}
 
-Người chơi phải vượt qua cổng phía Nam để giúp đỡ Rohirrim tại [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Tuy nhiên, thật không may, ông phải chiến đấu chống lại hàng trăm Uruk và Orc đang phục kích. Hai con quỷ lùn cũng đang rình rập. Người chơi phải bắn ba máy phóng, hai máy vào tháp và một máy vào con troll để lên đến đỉnh cổng. Sau khi đánh bại con quỷ khổng lồ ở trên đỉnh, ông phải tiêu diệt [Mumak](../M/Mûmak.md) bằng cách bắn vào áo giáp của nó và cho nổ tung nó. Sau đó ông phải mở cổng. Cấp độ kết thúc khi người chơi sống sót qua được cổng.
+Người chơi phải vượt qua cổng phía Nam để giúp đỡ Rohirrim tại [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Tuy nhiên, thật không may, ông ta phải chiến đấu chống lại hàng trăm Uruk và Orc đang phục kích. Hai con quỷ lùn cũng đang rình rập. Người chơi phải bắn ba máy phóng, hai máy vào tháp và một máy vào con troll để lên đến đỉnh cổng. Sau khi đánh bại con quỷ khổng lồ ở trên đỉnh, ông ta phải tiêu diệt [Mumak](../M/Mûmak.md) bằng cách bắn vào áo giáp của nó và cho nổ tung nó. Sau đó ông ta phải mở cổng. Cấp độ kết thúc khi người chơi sống sót qua được cổng.
 
 **Thất bại như thế nào:** Người chơi chết.
 
 #### cánh đồng Pelennor {#Pelennor_Fields}
 
-Người chơi ngay lập tức được đưa vào trận chiến toàn diện chiến đấu với nhiều [Easterlings](../E/Easterlings.md) và [Uruks](../U/Uruk.md) cùng với [Rohirrim](../R/Rohirrim.md). Họ phải chiến đấu cho đến khi 60 kẻ thù bị tiêu diệt. Sau đó, [Merry](../M/Meriadoc_Brandybuck.md) và [Éowyn](../_/Éowyn.md) sẽ tham gia cuộc chiến. [Mumakil](../M/Mumakil.md) cũng sẽ tham gia chiến trường. Người chơi phải tiêu diệt Mumakil đang đến tìm Éowyn và Merry (Mumak sẽ tự động giết họ nếu nó đến đó và nhiệm vụ sẽ thất bại) bằng cách phá hủy áo giáp của nó và cho nổ tung nó trước khi quá muộn. Theo định kỳ, [Vua Phù thủy](../W/Witch-king.md) sẽ cưỡi [Thú vật ngã](../F/Fell_Beast~21258.md) của mình xuống để tấn công Merry và Éowyn. Người chơi phải bắn Vua Phù thủy cho đến khi nó bay đi. Quá trình này sẽ lặp lại cho đến khi Fell Beast của Vua Phù thủy bị tiêu diệt. Éowyn sẽ giết chết ông, và người chết sẽ đến tiêu diệt đội quân tà ác.
+Người chơi ngay lập tức được đưa vào trận chiến toàn diện chiến đấu với nhiều [Easterlings](../E/Easterlings.md) và [Uruks](../U/Uruk.md) cùng với [Rohirrim](../R/Rohirrim.md). Họ phải chiến đấu cho đến khi 60 kẻ thù bị tiêu diệt. Sau đó, [Merry](../M/Meriadoc_Brandybuck.md) và [Éowyn](../_/Éowyn.md) sẽ tham gia cuộc chiến. [Mumakil](../M/Mumakil.md) cũng sẽ tham gia chiến trường. Người chơi phải tiêu diệt Mumakil đang đến tìm Éowyn và Merry (Mumak sẽ tự động giết họ nếu nó đến đó và nhiệm vụ sẽ thất bại) bằng cách phá hủy áo giáp của nó và cho nổ tung nó trước khi quá muộn. Theo định kỳ, [Vua Phù thủy](../W/Witch-king.md) sẽ cưỡi [Thú vật ngã](../F/Fell_Beast~21258.md) của mình xuống để tấn công Merry và Éowyn. Người chơi phải bắn Vua Phù thủy cho đến khi nó bay đi. Quá trình này sẽ lặp lại cho đến khi Fell Beast của Vua Phù thủy bị tiêu diệt. Éowyn sẽ giết chết ông ta, và người chết sẽ đến tiêu diệt đội quân tà ác.
 
 **Cách thất bại:** Người chơi chết, Vua Phù thủy giết Éowyn và Merry hoặc Mumak nghiền nát họ.
 
@@ -226,35 +226,35 @@ Người chơi phải vượt qua thành phố [Osgiliath](../O/Osgiliath.md) b�
 
 **Cách thất bại:** Người chơi chết hoặc bị Nazgul bắt Frodo.
 
-<h4><span id="Shelob.27s_Lair"></span><span class="mw-headline" id="Shelob&#39;s_Lair">Hang ổ của Shelob</span></h4>
+<h4><span id="Shelob.27s_Lair"></span><span class="mw-headline" id="Shelob&#39;s_Lair">Shelob&#39;s Lair</span></h4>
 
 Cấp độ này được chia thành ba cấp độ, mỗi cấp độ được phân tách bằng một điểm kiểm tra.
 
-<dl><dt>Phần đầu tiên</dt></dl>
+<dl><dt>The first part</dt></dl>
 
 Phần đầu tiên là một mê cung khổng lồ, có rất ít con đường dẫn đến đúng vị trí. Mặc dù một số con đường sẽ dẫn đến đá thưởng EXP, nhưng chúng cũng chứa các cuộc phục kích của nhện. Một vài con Orc cũng trú ngụ trong hang ổ. Mục tiêu cơ bản của người chơi trong màn này là đến được một cây cầu hình vòm khổng lồ, nơi có trạm kiểm soát sẽ báo hiệu sự kết thúc.
 
-<dl><dt>Phần thứ hai</dt></dl>
+<dl><dt>The second part</dt></dl>
 
 Phần thứ hai đơn giản hơn nhưng khó hơn; chỉ có một con đường từ thời điểm này trở đi, nhưng có nhiều kẻ thù hơn và nhiều cuộc phong tỏa nhện con hơn cần phải ngăn cách bằng một ngọn đuốc. Mục tiêu, thậm chí còn đơn giản hơn mục tiêu trước, là ra khỏi hang ổ để đến một đấu trường đá khổng lồ.
 
-<dl><dt>Phần thứ ba</dt></dl>
+<dl><dt>The third part</dt></dl>
 
-Người chơi bây giờ phải chiến đấu với Shelob. Bà bắt đầu bằng những cú đâm có thể đỡ đòn, nhưng đôi khi sẽ lao vào một góc và triệu hồi nhện để tấn công người chơi. Cách duy nhất (và cách dễ dàng nhất) là tấn công Shelob cho đến khi bà bị đánh bại. Frodo sẽ bị bắt bởi hai con Orc, kết thúc màn chơi.
+Người chơi bây giờ phải chiến đấu với Shelob. Bà bắt đầu bằng những cú đâm có thể đỡ đòn, nhưng đôi khi sẽ lao vào một góc và triệu hồi nhện để tấn công người chơi. Cách duy nhất (và cách dễ dàng nhất) là tấn công Shelob cho đến khi bà ta bị đánh bại. Frodo sẽ bị bắt bởi hai con Orc, kết thúc màn chơi.
 
 **Thất bại như thế nào:** Người chơi chết.
 
 #### Cirith Ungol {#Cirith_Ungol}
 
-Người chơi phải chiến đấu với nhiều đám Orc, những kẻ đang gây chiến với nhau nhưng sẽ tập trung sự chú ý vào người chơi khi họ phát hiện ra ông (Lưu ý: Kẻ thù dường như không thực sự giết nhau, vì vậy người chơi có quyền làm như vậy nếu muốn.) Phần đầu tiên của nhiệm vụ liên quan đến việc tiêu diệt ít nhất 80 kẻ thù, có thể được thực hiện thông qua nhiều con đường và chuỗi hành động khác nhau. Sau khi hoàn thành việc này, người chơi phải điều hướng cấp độ cho đến khi hiển thị một cảnh ngắn cho thấy những con Orc còn lại đang chạy trốn đến một cây cầu. Sau khi bắn một ballista và phá hủy một phần của cấp độ, người chơi phải lao qua cầu, bắt đầu phần thứ hai của cấp độ (nếu người chơi qua cầu quá chậm, người chơi sẽ chết.)
+Người chơi phải chiến đấu với nhiều đám Orc, những kẻ đang gây chiến với nhau nhưng sẽ tập trung sự chú ý vào người chơi khi họ phát hiện ra ông ta (Lưu ý: Kẻ thù dường như không thực sự giết nhau, vì vậy người chơi có quyền làm như vậy nếu muốn.) Phần đầu tiên của nhiệm vụ liên quan đến việc tiêu diệt ít nhất 80 kẻ thù, có thể được thực hiện thông qua nhiều con đường và chuỗi hành động khác nhau. Sau khi hoàn thành việc này, người chơi phải điều hướng cấp độ cho đến khi hiển thị một cảnh ngắn cho thấy những con Orc còn lại đang chạy trốn đến một cây cầu. Sau khi bắn một ballista và phá hủy một phần của cấp độ, người chơi phải lao qua cầu, bắt đầu phần thứ hai của cấp độ (nếu người chơi qua cầu quá chậm, người chơi sẽ chết.)
 
-Phần thứ hai là trận đấu trùm ngắn với Gorbag. Ban đầu, người chơi không thể gây sát thương cho ông, nhưng bằng cách sử dụng những ngọn giáo trong phòng, người chơi có thể ném một ngọn giáo để phá vỡ khiên của ông và một ngọn giáo khác để làm ông choáng váng, trong thời gian đó đồng hồ đo mạng sống của ông sẽ xuất hiện. Lưu ý rằng có thể hạ gục ông và sử dụng chiêu thức kết liễu, nhưng nó sẽ không giết chết ngay lập tức (nó sẽ chỉ gây sát thương). Khi Gorbag ​​bị đánh bại, cấp độ sẽ kết thúc.
+Phần thứ hai là trận đấu trùm ngắn với Gorbag. Ban đầu, người chơi không thể gây sát thương cho ông ta, nhưng bằng cách sử dụng những ngọn giáo trong phòng, người chơi có thể ném một ngọn giáo để phá vỡ khiên của ông ta và một ngọn giáo khác để làm ông ta choáng váng, trong thời gian đó đồng hồ đo mạng sống của ông ta sẽ xuất hiện. Lưu ý rằng có thể hạ gục ông ta và sử dụng chiêu thức kết liễu, nhưng nó sẽ không giết chết ngay lập tức (nó sẽ chỉ gây sát thương). Khi Gorbag ​​bị đánh bại, cấp độ sẽ kết thúc.
 
 **Cách thất bại:** Người chơi chết hoặc người chơi rơi ở cây cầu dẫn đến phần thứ hai của màn chơi.
 
 #### Crack of Doom {#Crack_of_Doom}
 
-Cấp độ này về cơ bản là một trận đấu trùm: đó là Sam và Frodo chống lại Gollum. Gollum chỉ có các đòn tấn công cận chiến, nhưng các đòn tấn công vuốt và nhảy của ông có thể khá nguy hiểm nếu không kịp phòng thủ. Để gây sát thương Gollum, người chơi phải dụ ông đến rìa của bục, chém ông, hạ gục ông bằng đòn tấn công O và kết thúc combo bằng một chiêu thức kết liễu. (Lưu ý: Điều này tương tự như chiêu thức Phán xét cuối cùng.) Người chơi phải sử dụng quy trình này tổng cộng sáu lần; mỗi lần, lại có thêm chướng ngại vật như đá rơi và dung nham chảy ra trên nền tảng. Sau khi hoàn thành combo tiêu diệt Gollum thứ sáu, Gollum rơi xuống dung nham và Chiếc nhẫn bị phá hủy.
+Cấp độ này về cơ bản là một trận đấu trùm: đó là Sam và Frodo chống lại Gollum. Gollum chỉ có các đòn tấn công cận chiến, nhưng các đòn tấn công vuốt và nhảy của ông ta có thể khá nguy hiểm nếu không kịp phòng thủ. Để gây sát thương Gollum, người chơi phải dụ ông ta đến rìa của bục, chém ông ta, hạ gục ông ta bằng đòn tấn công O và kết thúc combo bằng một chiêu thức kết liễu. (Lưu ý: Điều này tương tự như chiêu thức Phán xét cuối cùng.) Người chơi phải sử dụng quy trình này tổng cộng sáu lần; mỗi lần, lại có thêm chướng ngại vật như đá rơi và dung nham chảy ra trên nền tảng. Sau khi hoàn thành combo tiêu diệt Gollum thứ sáu, Gollum rơi xuống dung nham và Chiếc nhẫn bị phá hủy.
 
 **Thất bại như thế nào:** Người chơi chết.
 
@@ -273,7 +273,7 @@ Cấp độ này về cơ bản là một trận đấu trùm: đó là Sam và 
 
 <table style="margin: 0 auto; width: 100%;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Trò chơi điện tử được cấp phép lấy bối cảnh ở <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed video games set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </th></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="center"> <a href="../M/Melbourne_House.md" title="Melbourne House">Melbourne House</a>:
@@ -306,7 +306,7 @@ Cấp độ này về cơ bản là một trận đấu trùm: đó là Sam và 
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>) · <i><b><a href="The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">War in the North</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>) · <i><b><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>-<a href="../_/2018.md" title="2018">2018</a>) · <i><b><a href="The_Hobbit%253A_Kingdoms_of_Middle-earth.md" title="The Hobbit: Kingdoms of Middle-earth">Kingdoms of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>)· <i><b><a href="The_Hobbit%253A_Armies_of_The_Third_Age.md" title="The Hobbit: Armies of The Third Age">Armies of The Third Age</a></b></i> (<a href="../_/2013.md" title="2013">2013</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Shadow of Mordor</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Shadow of War</a></b></i> (<a href="../_/2017.md" title="2017">2017</a>) · <i><b><a href="The_Lord_of_the_Rings%253A_Rise_to_War.md" title="The Lord of the Rings: Rise to War">Rise to War</a></b></i> (<a href="../_/2021.md" title="2021">2021</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center">Glu Games:
+<th style="background:var(--tg-color-surface-3);" align="center"> Glu Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Middle-Earth_Defense.md" title="The Lord of the Rings: Middle-Earth Defense">Middle-Earth Defense</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>)
 </td></tr>
@@ -316,7 +316,7 @@ Cấp độ này về cơ bản là một trận đấu trùm: đó là Sam và 
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: The Video Game</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) · <i><b><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center">Twin Sails Interactive:
+<th style="background:var(--tg-color-surface-3);" align="center"> Twin Sails Interactive:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">The Lord of the Rings: Adventure Card Game</a></b></i> (<a href="../_/2018.md" title="2018">2018</a>)
 </td></tr>
@@ -326,30 +326,30 @@ Cấp độ này về cơ bản là một trận đấu trùm: đó là Sam và 
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center">North Beach Games:
+<th style="background:var(--tg-color-surface-3);" align="center"> North Beach Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Return to Moria</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt phim</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i> film series</a></b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Nguồn tư liệu: <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Source material: <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Phim
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Films
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">ấn bản mở rộng</a>)· <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">ấn bản mở rộng</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">ấn bản mở rộng</a>)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">extended edition</a>)· <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">extended edition</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">extended edition</a>)
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Âm nhạc
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Music
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack">The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings">The Complete Recordings</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Two Towers - The Complete Recordings">The Complete Recordings</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Return of the King - The Complete Recordings">The Complete Recordings</a>) · &#34;<a href="../M/May_It_Be.md" title="May It Be">May It Be</a>&#34; · &#34;<a href="../G/Gollum&#39;s_Song.md" title="Gollum&#39;s Song">Gollum&#39;s Song</a>&#34; · &#34;<a href="../I/Into_the_West.md" title="Into the West">Into the West</a>&#34;
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Sách ăn theo
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Tie-in books
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_Official_Movie_Guide.md" title="The Lord of the Rings: Official Movie Guide">Official Movie Guide</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Making_of_the_Movie_Trilogy.md" title="The Lord of the Rings: The Making of the Movie Trilogy">The Making of the Movie Trilogy</a></i> · <i><a href="The_Lord_of_the_Rings_Complete_Visual_Companion.md" title="The Lord of the Rings Complete Visual Companion">Complete Visual Companion</a></i>  · <i><a href="The_Lord_of_the_Rings_Trilogy_Photo_Guide.md" title="The Lord of the Rings Trilogy Photo Guide">Photo Guide</a></i> · <i><a href="../G/Gollum%253A_How_We_Made_Movie_Magic.md" title="Gollum: How We Made Movie Magic">Gollum: How We Made Movie Magic</a></i> · <i><a href="There_and_Back_Again%253A_An_Actor&#39;s_Tale.md" title="There and Back Again: An Actor&#39;s Tale">There and Back Again: An Actor&#39;s Tale</a></i> · <i><a href="The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md" title="The Lord of the Rings: Weapons and Warfare">Weapons and Warfare</a></i> · <i><a href="The_Art_of_The_Lord_of_the_Rings_(film_book).md" title="The Art of The Lord of the Rings (film book)">The Art of The Lord of the Rings</a></i> · <i><a href="The_Music_of_the_Lord_of_the_Rings_Films.md" title="The Music of the Lord of the Rings Films">The Music of the Lord of the Rings Films</a></i> · <i><a href="The_Lord_of_the_Rings_Location_Guidebook.md" title="The Lord of the Rings Location Guidebook">The Lord of the Rings Location Guidebook</a></i> · <i><a href="The_Lord_of_the_Rings_Location_Guidebook%253A_Travel_Diary.md" title="The Lord of the Rings Location Guidebook: Travel Diary">Travel Diary</a></i> · <i><a href="The_Lord_of_the_Rings_Sketchbook.md" title="The Lord of the Rings Sketchbook">Sketchbook</a></i>
 </td></tr>
@@ -369,12 +369,12 @@ Cấp độ này về cơ bản là một trận đấu trùm: đó là Sam và 
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_Visual_Companion.md" title="The Lord of the Rings: The Return of the King Visual Companion">Visual Companion</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_Photo_Guide.md" title="The Lord of the Rings: The Return of the King Photo Guide">Photo Guide</a></i> · <i><a href="The_Art_of_The_Return_of_the_King.md" title="The Art of The Return of the King">The Art of The Return of the King</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Trò chơi điện tử
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Video games
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md" title="The Lord of the Rings: The Two Towers (video game)">The Two Towers</a></i> · <i><a class="mw-selflink selflink">The Return of the King</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Third_Age.md" title="The Lord of the Rings: The Third Age">The Third Age</a></i> · <i><a href="The_Lord_of_the_Rings%253A_Tactics.md" title="The Lord of the Rings: Tactics">Tactics</a></i> · <i><a href="The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">Conquest</a></i> ·  <i><a href="The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></i> · <i><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Nhân vật
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Characters
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> · <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> · <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> · <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> · <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> · <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> · <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> · <a href="../B/Boromir.md" title="Boromir">Boromir</a> · <a href="../L/Legolas.md" title="Legolas">Legolas</a> · <a href="../G/Gimli.md" title="Gimli">Gimli</a> · <a href="../E/Elrond.md" title="Elrond">Elrond</a> · <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> · <a href="Théoden.md" title="Théoden">Théoden</a> · <a href="../_/Éomer.md" title="Éomer">Éomer</a> · <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> · <a href="../S/Saruman.md" title="Saruman">Saruman</a> · <a href="../S/Sauron.md" title="Sauron">Sauron</a> · <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> · <a href="../D/Denethor.md" title="Denethor">Denethor</a> · <a href="../F/Faramir.md" title="Faramir">Faramir</a> · <a href="../G/Gollum.md" title="Gollum">Gollum</a> · <a href="../G/Gríma.md" title="Gríma">Gríma</a> · <a href="Treebeard.md" title="Treebeard">Treebeard</a> · <a href="../C/Celeborn.md" title="Celeborn">Celeborn</a> · <a href="../H/Haldir.md" title="Haldir">Haldir</a> · <a href="../L/Lurtz.md" title="Lurtz">Lurtz</a> · <a href="../S/Sharku.md" title="Sharku">Sharku</a> · <a href="../G/Grishnákh.md" title="Grishnákh">Grishnákh</a>
 </td></tr></tbody></table>

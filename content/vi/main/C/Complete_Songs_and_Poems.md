@@ -22,7 +22,7 @@ infobox:
     value: "Membran"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Complete_Songs_and_Poems.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2f/Complete_Songs_and_Poems.jpg/272px-Complete_Songs_and_Poems.jpg" decoding="async" loading="lazy" width="272" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2f/Complete_Songs_and_Poems.jpg/408px-Complete_Songs_and_Poems.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2f/Complete_Songs_and_Poems.jpg/543px-Complete_Songs_and_Poems.jpg 2x" data-file-width="2182" data-file-height="3853"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tuyển tập đầy đủ các khúc ca và bài thơ</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Album tổng hợp của <a href="../T/Tolkien_Ensemble.md" title="Tolkien Ensemble">Tolkien Ensemble</a> &amp; <a href="Christopher_Lee.md" title="Christopher Lee">Christopher Lee</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/2006.md" title="2006">2006</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Cổ điển</td></tr><tr><th scope="row" class="tg-infobox-label">Nhãn</th><td class="tg-infobox-data">Membran</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Complete_Songs_and_Poems.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2f/Complete_Songs_and_Poems.jpg/272px-Complete_Songs_and_Poems.jpg" decoding="async" loading="lazy" width="272" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2f/Complete_Songs_and_Poems.jpg/408px-Complete_Songs_and_Poems.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2f/Complete_Songs_and_Poems.jpg/543px-Complete_Songs_and_Poems.jpg 2x" data-file-width="2182" data-file-height="3853"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Complete Songs and Poems</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Compilation album by <a href="../T/Tolkien_Ensemble.md" title="Tolkien Ensemble">Tolkien Ensemble</a> &amp; <a href="Christopher_Lee.md" title="Christopher Lee">Christopher Lee</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2006.md" title="2006">2006</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Classical</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data">Membran</td></tr></tbody></table>
 
 <i><b>Bài hát & bài thơ hoàn chỉnh</b></i> là một album tổng hợp của [Tolkien Ensemble](../T/Tolkien_Ensemble.md). Nó bao gồm tất cả 69 bài hát đã được phát hành trong 4 album trước của họ. Bộ sưu tập còn bao gồm một tập sách nhỏ 112 trang.
 
@@ -37,8 +37,8 @@ CD 1: The Fellowship of the Ring</th>
     </tr>
     <tr>
       <th class="tlheader" style="width: 20px; text-align: right;">#</th>
-      <th class="tlheader" style="width: 40%;">Danh hiệu</th><th style="width: 30%;">Âm nhạc</th><th style="width: 30%;">Vocals</th>
-      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Chiều dài</th>
+      <th class="tlheader" style="width: 40%;">Title</th><th style="width: 30%;">Music</th><th style="width: 30%;">Vocals</th>
+      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Length</th>
     </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">1.</td>
@@ -127,7 +127,7 @@ CD 1: The Fellowship of the Ring</th>
 </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">18.</td>
-  <td style="text-align: left;">"Có một quán trọ, một quán trọ cũ vui vẻ..."</td><td>Caspar Reiff</td><td>Peter Hall</td>
+  <td style="text-align: left;">&#34;There is an inn, a merry old inn...&#34;  </td><td>Caspar Reiff</td><td>Peter Hall</td>
   <td style="padding-right: 10px; text-align: right;">4:59</td>
 </tr>
         <tr style="background-color: {{{color}}};">
@@ -150,12 +150,12 @@ CD 1: The Fellowship of the Ring</th>
 <table class="tracklist wikitable wikitable--stripe mw-collapsible mw-collapsed">
     <tbody><tr>
         <th class="tlheader" colspan="10">
-CD 2: The Fellowship of the Ring (tiếp theo)</th>
+CD 2: The Fellowship of the Ring (continued)</th>
     </tr>
     <tr>
       <th class="tlheader" style="width: 20px; text-align: right;">#</th>
-      <th class="tlheader" style="width: 40%;">Danh hiệu</th><th style="width: 30%;">Âm nhạc</th><th style="width: 30%;">Vocals</th>
-      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Chiều dài</th>
+      <th class="tlheader" style="width: 40%;">Title</th><th style="width: 30%;">Music</th><th style="width: 30%;">Vocals</th>
+      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Length</th>
     </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">1.</td>
@@ -224,7 +224,7 @@ CD 2: The Fellowship of the Ring (tiếp theo)</th>
 </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">14.</td>
-  <td style="text-align: left;">"Bài hát của Tiên tộc Vượt xa Biển / Galadriel Bài hát của Eldamar (II) (bản dịch)"</td><td>Caspar Reiff</td><td>Christopher Lee</td>
+  <td style="text-align: left;">&#34;Song of the Elves Beyond the Sea / Galadriel&#39;s Song of Eldamar (II) (translation)&#34;  </td><td>Caspar Reiff</td><td>Christopher Lee</td>
   <td style="padding-right: 10px; text-align: right;">2:17</td>
 </tr>
 </tbody></table>
@@ -236,8 +236,8 @@ CD 3: The Two Towers</th>
     </tr>
     <tr>
       <th class="tlheader" style="width: 20px; text-align: right;">#</th>
-      <th class="tlheader" style="width: 40%;">Danh hiệu</th><th style="width: 30%;">Âm nhạc</th><th style="width: 30%;">Vocals</th>
-      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Chiều dài</th>
+      <th class="tlheader" style="width: 40%;">Title</th><th style="width: 30%;">Music</th><th style="width: 30%;">Vocals</th>
+      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Length</th>
     </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">1.</td>
@@ -333,8 +333,8 @@ CD 4: The Return of the King</th>
     </tr>
     <tr>
       <th class="tlheader" style="width: 20px; text-align: right;">#</th>
-      <th class="tlheader" style="width: 40%;">Danh hiệu</th><th style="width: 30%;">Âm nhạc</th><th style="width: 30%;">Vocals</th>
-      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Chiều dài</th>
+      <th class="tlheader" style="width: 40%;">Title</th><th style="width: 30%;">Music</th><th style="width: 30%;">Vocals</th>
+      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Length</th>
     </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">1.</td>

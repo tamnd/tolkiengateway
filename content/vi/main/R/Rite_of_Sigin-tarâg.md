@@ -24,7 +24,7 @@ Nghi thức này là Người Lùn bài kiểm tra sức bền được [Durin I
 
 Vào cuối [Kỷ Đệ Nhị](../S/Second_Age.md), [Elrond](../E/Elrond.md) thực hiện nghi thức để được phép vào Khazad-dûm. Khi ông đến phòng thi, vương miện bắt đầu hô vang trong khi một chiếc tù và báo hiệu bắt đầu nghi thức khi Thân vương bước vào phòng kết thúc việc tụng kinh khi ông hét lên "*Khazad*" và đám đông đáp lại bằng "*dûm*". Durin đi trước để giải thích các điều khoản và điều kiện của bài kiểm tra cho Elrond. Hai đối thủ sẽ cùng đập những tảng đá khổng lồ bằng những chiếc búa lớn. Nếu người thách đấu bỏ cuộc hoặc mệt mỏi, họ sẽ bị trục xuất khỏi tất cả các vùng đất Người Lùn. Nếu người thách đấu chịu đựng được thì họ sẽ được hưởng một lợi ích duy nhất.
 
-Sau nhiều giờ đập đá, chiếc búa của Elrond bị gãy nhưng ông thà bỏ cuộc còn hơn là được trao một chiếc búa mới để tiếp tục. Sau đó ông yêu cầu Durin đích thân hộ tống ông ra ngoài.
+Sau nhiều giờ đập đá, chiếc búa của Elrond bị gãy nhưng ông ta thà bỏ cuộc còn hơn là được trao một chiếc búa mới để tiếp tục. Sau đó ông ta yêu cầu Durin đích thân hộ tống ông ta ra ngoài.
 
 ## Từ nguyên {#Etymology}
 

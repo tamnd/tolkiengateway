@@ -32,7 +32,7 @@ infobox:
     value: "Udul-folk"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Ngôi làng</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Udul</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Xa trong đất liền từ <a href="../A/Agar.md" title="Agar">Agar</a></td></tr><tr><th scope="row" class="tg-infobox-label">Loại</th><td class="tg-infobox-data">Ngôi làng</td></tr><tr><th scope="row" class="tg-infobox-label">Mô tả</th><td class="tg-infobox-data">Khu định cư nhỏ có nhiều người bệnh</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Nhân vật và lịch sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Cư dân</th><td class="tg-infobox-data"><a href="../P/Pre-Númenóreans.md" title="Pre-Númenóreans">Udul-folk</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Village</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Udul</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Far inland from <a href="../A/Agar.md" title="Agar">Agar</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Village</td></tr><tr><th scope="row" class="tg-infobox-label">Description</th><td class="tg-infobox-data">Small settlement populated with sick folk</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../P/Pre-Númenóreans.md" title="Pre-Númenóreans">Udul-folk</a></td></tr></tbody></table>
 
 **Udul** là tên của một ngôi làng đã đe dọa thị trấn [Agar](../A/Agar.md) bởi những kẻ cướp bóc trong [Kỷ Đệ Nhị](../S/Second_Age.md).
 
@@ -40,7 +40,7 @@ infobox:
 
 Tất cả những gì được biết về vị trí của Udul là nó nằm "xa trong đất liền" so với [Agar](../A/Agar.md), cách bờ biển của [Đại Hải](../B/Belegaer.md)"ba giải đấu".
 
-Khi [Tal-Elmar](<../T/Tal-Elmar_(character).md>) mười bảy tuổi, anh được chọn đến Udul để do thám vùng đất. Chàng trai trẻ đã thành công trong việc tìm ra ngôi làng và bò đến gần một trong những túp lều của những người canh gác ở đó đến mức ông có thể nghe thấy cuộc trò chuyện của họ. Tuy nhiên, anh không thể hiểu được lời nói của họ mặc dù giọng điệu của họ gợi lên sự sợ hãi và đau buồn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi [Tal-Elmar](<../T/Tal-Elmar_(character).md>) mười bảy tuổi, anh được chọn đến Udul để do thám vùng đất. Chàng trai trẻ đã thành công trong việc tìm ra ngôi làng và bò đến gần một trong những túp lều của những người canh gác ở đó đến mức ông ta có thể nghe thấy cuộc trò chuyện của họ. Tuy nhiên, anh không thể hiểu được lời nói của họ mặc dù giọng điệu của họ gợi lên sự sợ hãi và đau buồn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Điều mà Tal-Elmar không biết là người dân Udul, được gọi là dân gian Udul, đang chết vì dịch bệnh và những kẻ cướp bóc đã đến Agar đang tìm kiếm thức ăn trong tuyệt vọng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

@@ -17,7 +17,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Míriel</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Míriel_(disambiguation).md" title="Míriel (disambiguation)">Míriel (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Míriel</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Míriel_(disambiguation).md" title="Míriel (disambiguation)">Míriel (disambiguation)</a></b>.</div></div>
 
 <i><b>míriel</b></i> có nghĩa là "lấp lánh như ngọc" trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

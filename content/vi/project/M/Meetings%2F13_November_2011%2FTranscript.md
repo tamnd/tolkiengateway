@@ -262,10 +262,10 @@ sort_keys:
 [2011-11-13 21:01:59] =-= Mode #Wiki +v Morgan by Mith<br/>
 [2011-11-13 21:02:02] &lt;Morgan&gt; sure<br/>
 [2011-11-13 21:02:21] &lt;Icarus&gt; Miiith!<br/>
-[2011-11-13 21:02:22] =-= Mode #Wiki +V by Mith<br/>
+[2011-11-13 21:02:22] =-= Mode #Wiki +V  by Mith<br/>
 [2011-11-13 21:02:38] &lt;mithrennaith&gt; Gagged ...<br/>
 [2011-11-13 21:03:01] &lt;Mith&gt; Gettign back to discussion.<br/>
-[2011-11-13 21:03:23] =-= Mode #Wiki +m by Mith<br/>
+[2011-11-13 21:03:23] =-= Mode #Wiki +m  by Mith<br/>
 [2011-11-13 21:03:52] &lt;KingAragorn&gt; Good<br/>
 [2011-11-13 21:03:55] &lt;KingAragorn&gt; Now then<br/>
 [2011-11-13 21:04:10] &lt;Mith&gt; If we add {{rewrite}} it signals that we are aware of the problem<br/>

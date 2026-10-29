@@ -15,7 +15,7 @@ images:
   - "ShadowRising.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/ShadowRising.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/af/ShadowRising.jpg/250px-ShadowRising.jpg" decoding="async" loading="lazy" width="250" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/af/ShadowRising.jpg/375px-ShadowRising.jpg 1.5x, https://tolkiengateway.net/w/images/a/af/ShadowRising.jpg 2x" data-file-width="450" data-file-height="450"/></a><figcaption>Bóng Tối Vỏ bọc nâng lên</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/ShadowRising.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/af/ShadowRising.jpg/250px-ShadowRising.jpg" decoding="async" loading="lazy" width="250" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/af/ShadowRising.jpg/375px-ShadowRising.jpg 1.5x, https://tolkiengateway.net/w/images/a/af/ShadowRising.jpg 2x" data-file-width="450" data-file-height="450"/></a><figcaption>Shadow Rising cover</figcaption></figure>
 
 <i><b>Bóng Tối Rising</b></i> là một album của [Soundestiny](Soundestiny.md) được phát hành vào năm 2004.
 

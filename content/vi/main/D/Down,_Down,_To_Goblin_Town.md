@@ -17,34 +17,34 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Đè bẹp, đập! Roi quất!<br/>
-Đập, tóm lấy! Kẹp, bắt!<br/>
-Đi thôi chàng trai của tôi!<br/>
-Hô, hô! chàng trai của tôi!<br/>
+<p>Crush, smack! Whip crack!<br/>
+Smash, grab! Pinch, nab!<br/>
+You go, my lad!<br/>
+Ho, ho! my lad!<br/>
 <br/>
-Vết nứt đen! vết nứt đen!<br/>
-Vết nứt đen! vết nứt đen!<br/>
-Xuống tới thị trấn yêu tinh<br/>
-Xuống tới thị trấn yêu tinh<br/>
-Xuống tới thị trấn yêu tinh<br/>
-Đi thôi chàng trai của tôi!<br/>
-Hô, hô! chàng trai của tôi!<br/>
+The black crack! the black crack!<br/>
+The black crack! the black crack!<br/>
+Down down to Goblin-town<br/>
+Down down to Goblin-town<br/>
+Down down to Goblin-town<br/>
+You go, my lad!<br/>
+Ho, ho! my lad!<br/>
 <br/>
-Goblin khập khiễng và Goblin nhịp<br/>
-Goblin cười và Goblin be be<br/>
-Đánh đập, nói nhảm, roi và búa hoooooo!<br/>
-Đi thôi chàng trai của tôi!<br/>
-Hô, hô! chàng trai của tôi!<br/>
+Goblins quaff, and Goblins beat<br/>
+Goblins laugh, and Goblins bleat<br/>
+Batter, jabber, whip and hammer hoooooo!<br/>
+You go, my lad!<br/>
+Ho, ho! my lad!<br/>
 <br/>
-Bên dưới nhé chàng trai của tôi!<br/>
-Hô, hô! chàng trai của tôi!<br/>
+Below, my lad!<br/>
+Ho, ho! my lad!<br/>
 <br/>
-Vết nứt đen! vết nứt đen!<br/>
-Vết nứt đen! vết nứt đen!<br/>
-Xuống, xuống thị trấn yêu tinh<br/>
-Xuống, xuống thị trấn yêu tinh<br/>
-Xuống, xuống thị trấn yêu tinh<br/>
-Đi thôi chàng trai của tôi!<br/>
-Hô, hô! chàng trai của tôi!
+The black crack! the black crack!<br/>
+The black crack! the black crack!<br/>
+Down, down to Goblin-town<br/>
+Down, down to Goblin-town<br/>
+Down, down to Goblin-town<br/>
+You go, my lad!<br/>
+Ho, ho! my lad!
 </p>
 </div>

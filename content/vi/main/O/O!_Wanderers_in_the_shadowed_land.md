@@ -19,12 +19,12 @@ categories:
 
 <div class="poem">
 <p><i>O! Wanderers in the shadowed land </i><br/>
-<i>đừng tuyệt vọng! Vì dù tối tăm họ vẫn đứng vững,</i><br/>
-<i>cuối cùng mọi khu rừng đều phải kết thúc,</i><br/>
-<i>và nhìn mặt trời ló rạng đi qua:</i><br/>
+<i>despair not! For though dark they stand, </i><br/>
+<i>all woods there be must end at last, </i><br/>
+<i>and see the open sun go past: </i><br/>
 <i>the setting sun, the rising sun,</i><br/>
-<i>ngày kết thúc hoặc ngày bắt đầu.</i><br/>
-<i>Đông hay tây rừng nào cũng phải thất bại...</i>
+<i>the day&#39;s end, or the day begun. </i><br/>
+<i>For east or west all woods must fail... </i>
 </p>
 </div>
 
@@ -34,7 +34,7 @@ categories:
 
 <b>2004: <i><a href="../A/A_Night_in_Rivendell.md" title="A Night in Rivendell">Một đêm ở Rivendell</a></i>:</b>
 
-<dl><dd>Bài thơ được phổ nhạc trong album <i>A Night in Rivendell</i> của <a href="../T/Tolkien_Ensemble.md" title="Tolkien Ensemble">Tolkien Ensemble</a>, có tên <b>Bài hát trong rừng</b>.</dd></dl>
+<dl><dd>The poem is set to music on the <a href="../T/Tolkien_Ensemble.md" title="Tolkien Ensemble">Tolkien Ensemble</a>&#39;s album <i>A Night in Rivendell</i>, called <b>Song in the Woods</b>.</dd></dl>
 
 ## Xem thêm {#See_also}
 

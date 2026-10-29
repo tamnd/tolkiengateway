@@ -17,79 +17,79 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Nơi suối rừng đi qua, xuyên rừng<br/>
-Và im lặng tất cả thân cây, im lặng tất cả thân cây đứng đó<br/>
-Của cây cao, bất động, treo lủng lẳng, cây treo tối<br/>
-Với những bóng lốm đốm, với những bóng lốm đốm trên vỏ cây<br/>
+<p>Where forest stream went through, went through the wood<br/>
+And silent all the stems, silent all the stems there stood<br/>
+Of tall trees, moveless, hanging, trees hanging dark<br/>
+With mottled shadows on, with mottled shadows on their bark<br/>
 <br/>
-Không có Mặt Trăng, không có giọng nói, không có âm thanh<br/>
-Tim đập mạnh, thở dài<br/>
-Một lần là mỗi tuổi (khi mỗi tuổi chết), khi mỗi tuổi chết<br/>
-Một mình được nghe thấy; nó nằm xa, xa (theo từng thời đại chết đi)<br/>
+No Moon is there, no voice, no sound<br/>
+Of beating heart, a sigh profound<br/>
+Once is each age (as each age dies), as each age dies<br/>
+Alone is heard; far, far it lies (as each age dies)<br/>
 <br/>
-Không có Mặt Trăng, không có giọng nói, không có âm thanh<br/>
-Tim đập, thở dài<br/>
-Một lần là mỗi tuổi (khi mỗi tuổi chết), khi mỗi tuổi chết<br/>
-Một mình được nghe thấy; nó nằm xa, xa (theo từng thời đại chết đi)<br/>
+No Moon is there, no voice, no sound<br/>
+Of beating heart, a sigh profound<br/>
+Once is each age (as each age dies), as each age dies<br/>
+Alone is heard; far, far it lies (as each age dies)<br/>
 <br/>
-Yếu ớt như hơi thở của người ngủ sâu nhất,<br/>
-Một tiếng vọng lạnh lùng, một tiếng vang lạnh như chết<br/>
-Con đường của bóng tối dài lắm, của bóng tối<br/>
-Nơi không có dấu chân… nơi không có dấu chân<br/>
+As faint as deepest sleeper’s, deepest sleeper’s breath<br/>
+An echo came as cold, an echo came as cold as death<br/>
+Long are the paths of shadow, of shadow made<br/>
+Where no foot’s print is ever … where no foot’s print is ever laid<br/>
 <br/>
-Không có Mặt Trăng, không có giọng nói, không có âm thanh<br/>
-Tim đập, thở dài<br/>
-Một lần là mỗi tuổi (khi mỗi tuổi chết), khi mỗi tuổi chết<br/>
-Một mình được nghe thấy; nó nằm xa, xa (theo từng thời đại chết đi)<br/>
+No Moon is there, no voice, no sound<br/>
+Of beating heart, a sigh profound<br/>
+Once is each age (as each age dies), as each age dies<br/>
+Alone is heard; far, far it lies (as each age dies)<br/>
 <br/>
-Không có Mặt Trăng, không có giọng nói, không có âm thanh<br/>
-Tim đập, thở dài<br/>
-Một lần là mỗi tuổi (khi mỗi tuổi chết), khi mỗi tuổi chết<br/>
-Một mình được nghe thấy; nó nằm xa, xa (theo từng thời đại chết đi)<br/>
+No Moon is there, no voice, no sound<br/>
+Of beating heart, a sigh profound<br/>
+Once is each age (as each age dies), as each age dies<br/>
+Alone is heard; far, far it lies (as each age dies)<br/>
 <br/>
-Trên đồng bằng, có lao tới và cao<br/>
-Bóng tối trong đêm khuya và phản chiếu trên bầu trời<br/>
-Xa, xa quá sức mạnh của ngày<br/>
-Và ở đó là vùng đất chết chóc của sự phân hủy lạnh lẽo<br/>
+Upon the plain, there rushed forth and high<br/>
+Shadows at the dead of night and mirrored in the skies<br/>
+Far, far away beyond might of day<br/>
+And there lay the land of the dead of mortal cold decay<br/>
 <br/>
-Trên đồng bằng, có lao tới và cao<br/>
-Bóng tối trong đêm khuya và phản chiếu trên bầu trời<br/>
-Xa, xa quá sức mạnh của ngày<br/>
-Và ở đó là vùng đất chết chóc của sự phân hủy lạnh lẽo<br/>
+Upon the plain, there rushed forth and high<br/>
+Shadows at the dead of night and mirrored in the skies<br/>
+Far, far away beyond might of day<br/>
+And there lay the land of the dead of mortal cold decay<br/>
 <br/>
-Không có Mặt Trăng, không có giọng nói, không có âm thanh<br/>
-Tim đập, thở dài<br/>
-Một lần là mỗi tuổi (khi mỗi tuổi chết), khi mỗi tuổi chết<br/>
-Một mình được nghe thấy; nó nằm xa, xa (theo từng thời đại chết đi)<br/>
+No Moon is there, no voice, no sound<br/>
+Of beating heart, a sigh profound<br/>
+Once is each age (as each age dies), as each age dies<br/>
+Alone is heard; far, far it lies (as each age dies)<br/>
 <br/>
-Không có Mặt Trăng, không có giọng nói, không có âm thanh<br/>
-Tim đập, thở dài<br/>
-Một lần là mỗi tuổi (mỗi tuổi chết), mỗi tuổi chết<br/>
-Một mình được nghe thấy; nó nằm xa, xa (theo từng thời đại chết đi)<br/>
+No Moon is there, no voice, no sound<br/>
+Of beating heart, a sigh profound<br/>
+Once is each age (as each age dies), as each age dies<br/>
+Alone is heard; far, far it lies (as each age dies)<br/>
 <br/>
-Trên đồng bằng, có lao tới và cao<br/>
-Bóng tối trong đêm khuya và phản chiếu trên bầu trời<br/>
-Xa, xa quá sức mạnh của ngày<br/>
-Và ở đó là vùng đất chết chóc của sự phân hủy lạnh lẽo<br/>
+Upon the plain, there rushed forth and high<br/>
+Shadows at the dead of night and mirrored in the skies<br/>
+Far, far away beyond might of day<br/>
+And there lay the land of the dead of mortal cold decay<br/>
 <br/>
-Trên đồng bằng, có lao tới và cao<br/>
-Bóng tối trong đêm khuya và phản chiếu trên bầu trời<br/>
-Xa, xa quá sức mạnh của ngày<br/>
-Và ở đó là vùng đất chết chóc của sự phân hủy lạnh lẽo<br/>
+Upon the plain, there rushed forth and high<br/>
+Shadows at the dead of night and mirrored in the skies<br/>
+Far, far away beyond might of day<br/>
+And there lay the land of the dead of mortal cold decay<br/>
 <br/>
-Trên đồng bằng, có lao tới và cao<br/>
-Bóng tối trong đêm khuya và phản chiếu trên bầu trời<br/>
-Xa, xa quá sức mạnh của ngày<br/>
-Và ở đó là vùng đất chết chóc của sự phân hủy lạnh lẽo<br/>
+Upon the plain, there rushed forth and high<br/>
+Shadows at the dead of night and mirrored in the skies<br/>
+Far, far away beyond might of day<br/>
+And there lay the land of the dead of mortal cold decay<br/>
 <br/>
-Trên đồng bằng, có lao tới và cao<br/>
-Bóng tối trong đêm khuya và phản chiếu trên bầu trời<br/>
-Xa, xa quá sức mạnh của ngày<br/>
-Và ở đó là vùng đất chết chóc của sự phân hủy lạnh lẽo<br/>
+Upon the plain, there rushed forth and high<br/>
+Shadows at the dead of night and mirrored in the skies<br/>
+Far, far away beyond might of day<br/>
+And there lay the land of the dead of mortal cold decay<br/>
 <br/>
-Trên đồng bằng, có lao tới và cao<br/>
-Bóng tối trong đêm khuya và phản chiếu trên bầu trời<br/>
-Xa, xa quá sức mạnh của ngày<br/>
-Và nơi đó là vùng đất chết chóc của sự phân hủy giá lạnh chết người
+Upon the plain, there rushed forth and high<br/>
+Shadows at the dead of night and mirrored in the skies<br/>
+Far, far away beyond might of day<br/>
+And there lay the land of the dead of mortal cold decay
 </p>
 </div>

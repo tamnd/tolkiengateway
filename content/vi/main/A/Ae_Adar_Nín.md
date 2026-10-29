@@ -18,9 +18,9 @@ images:
   - "J.R.R._Tolkien_-_Ae_Adar_Nin_2.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Ae_Adar_Nin_2.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8f/J.R.R._Tolkien_-_Ae_Adar_Nin_2.png/300px-J.R.R._Tolkien_-_Ae_Adar_Nin_2.png" decoding="async" loading="lazy" width="300" height="459" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8f/J.R.R._Tolkien_-_Ae_Adar_Nin_2.png/450px-J.R.R._Tolkien_-_Ae_Adar_Nin_2.png 1.5x, https://tolkiengateway.net/w/images/thumb/8/8f/J.R.R._Tolkien_-_Ae_Adar_Nin_2.png/600px-J.R.R._Tolkien_-_Ae_Adar_Nin_2.png 2x" data-file-width="740" data-file-height="1132"/></a><figcaption>Ghi chú của Tolkien trên <i>Ae Adar Nín</i></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Ae_Adar_Nin_2.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8f/J.R.R._Tolkien_-_Ae_Adar_Nin_2.png/300px-J.R.R._Tolkien_-_Ae_Adar_Nin_2.png" decoding="async" loading="lazy" width="300" height="459" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8f/J.R.R._Tolkien_-_Ae_Adar_Nin_2.png/450px-J.R.R._Tolkien_-_Ae_Adar_Nin_2.png 1.5x, https://tolkiengateway.net/w/images/thumb/8/8f/J.R.R._Tolkien_-_Ae_Adar_Nin_2.png/600px-J.R.R._Tolkien_-_Ae_Adar_Nin_2.png 2x" data-file-width="740" data-file-height="1132"/></a><figcaption>Tolkien&#39;s notes on <i>Ae Adar Nín</i></figcaption></figure>
 
-**Ae Adar Nín: Kinh Lạy Cha trong Sindarin** ("Pater noster" trong [Sindarin](../S/Sindarin.md)) là bản dịch Sindarin của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) phần lớn phần lớn <a class="mw-disambig" href="../L/Lord&#39;s_Prayer_(disambiguation).md" title="Lord&#39;s Prayer (disambiguation)">Kinh Lạy Cha</a>. Ông để nguyên hai dòng cuối cùng không được dịch, nhưng ghi chú của ông cho thấy rằng ông có ý định sử dụng <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%9Athaes&amp;action=edit&amp;redlink=1" title="Úthaes (page does not exist)">úthaes</a></i> làm từ "cám dỗ" (cùng nguồn gốc với [Q.](../Q/Quenya.md) *úsahtië*). Bài thơ có thể đọc ở *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)*, [no. 44](../V/Vinyar_Tengwar_44.md) trên trang 21–30, do [Bill Welden](../B/Bill_Welden.md) biên tập.
+**Ae Adar Nín: Kinh Lạy Cha trong Sindarin** ("Pater noster" trong [Sindarin](../S/Sindarin.md)) là bản dịch Sindarin của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) phần lớn phần lớn <a class="mw-disambig" href="../L/Lord&#39;s_Prayer_(disambiguation).md" title="Lord&#39;s Prayer (disambiguation)">Kinh Lạy Cha</a>. Ông ta để nguyên hai dòng cuối cùng không được dịch, nhưng ghi chú của ông ta cho thấy rằng ông ta có ý định sử dụng <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%9Athaes&amp;action=edit&amp;redlink=1" title="Úthaes (page does not exist)">úthaes</a></i> làm từ "cám dỗ" (cùng nguồn gốc với [Q.](../Q/Quenya.md) *úsahtië*). Bài thơ có thể đọc ở *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)*, [no. 44](../V/Vinyar_Tengwar_44.md) trên trang 21–30, do [Bill Welden](../B/Bill_Welden.md) biên tập.
 
 Những ghi chú của Tolkien trên bài thơ viết ở mặt sau tấm bưu thiếp được in lại trên bìa [*Tolkien Studies*: Tập 4](../T/Tolkien_Studies%253A_Volume_4.md).<sup id="cite_ref-TB_1-0" class="reference"><a href="#cite_note-TB-1">[1]</a></sup>
 
@@ -30,7 +30,7 @@ Những ghi chú của Tolkien trên bài thơ viết ở mặt sau tấm bưu t
 <tbody><tr>
 <td>
 <dl><dd><i>Ae Adar nín i vi Menel</i></dd>
-<dd><i>không aer i eneth lín</i></dd>
+<dd><i>no aer i eneth lín</i></dd>
 <dd><i>tolo i arnad lín</i></dd>
 <dd><i>caro den i innas lín</i></dd>
 <dd><i>bo Ceven sui vi Menel.</i></dd>
@@ -39,14 +39,14 @@ Những ghi chú của Tolkien trên bài thơ viết ở mặt sau tấm bưu t
 <dd><i>sui mín i gohenam di ai gerir úgerth ammen.</i></dd></dl>
 </td>
 <td>
-<dl><dd><dl><dd>Lạy Cha chúng con ở trên trời,</dd>
-<dd>được thánh hóa tên Ngài.</dd>
-<dd>Vương quốc của Ngài đến,</dd>
-<dd>Ý Cha được nên,</dd>
-<dd>trên Trái đất cũng như trên Thiên đường.</dd>
-<dd>Xin cho chúng con hôm nay lương thực hằng ngày,</dd>
-<dd>và tha thứ cho chúng tôi những lỗi lầm của chúng tôi,</dd>
-<dd>như chúng tôi tha thứ cho những ai có lỗi với chúng tôi.</dd></dl></dd></dl>
+<dl><dd><dl><dd>Our Father, who art in Heaven,</dd>
+<dd>hallowed be Thy Name.</dd>
+<dd>Thy Kingdom come,</dd>
+<dd>Thy Will be done,</dd>
+<dd>on Earth, as it is in Heaven.</dd>
+<dd>Give us this day our daily bread,</dd>
+<dd>and forgive us our trespasses,</dd>
+<dd>as we forgive those who trespass against us.</dd></dl></dd></dl>
 </td></tr></tbody></table>
 
 ## Xem thêm {#See_also}

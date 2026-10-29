@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*Salmar* của Kent Burles, xuất hiện trong [Peter C. Fenlon, Jr.](../../main/P/Pete_Fenlon.md), *[Valar and Maiar](../../main/V/Valar_and_Maiar.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2006, 1993) .
+*Salmar* của Kent Burles, xuất hiện trong [Peter C. Fenlon, Jr.](../../main/P/Pete_Fenlon.md), *[Valar and Maiar](../../main/V/Valar_and_Maiar.md)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2006, 1993) .
 
 ## Giấy phép {#Licensing}
 

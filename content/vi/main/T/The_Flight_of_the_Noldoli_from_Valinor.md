@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/The_Flight_of_the_Noldoli_from_Vali
 content_sha256: 00e2a8be1cb4beb7ef8e8288e6597c95eaab5053a4d6992aafeaea62fe3910a5
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Bài thơ bị bỏ rơi c. 1925"
+short_description: "Abandoned poem c. 1925"
 categories:
   - "The Lays of Beleriand chapters"
   - "Poems in The Lays of Beleriand"
@@ -18,14 +18,14 @@ hidden_categories:
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin:15px;border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> chương
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> chapters
 </th></tr>
 <tr>
 <td>
 <ol><li><a href="The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">The Lay of the Children of Húrin</a></li>
-<li><a href="../P/Poems_Early_Abandoned.md" title="Poems Early Abandoned">Những bài thơ sớm bị từ bỏ</a></li>
+<li><a href="../P/Poems_Early_Abandoned.md" title="Poems Early Abandoned">Poems Early Abandoned</a></li>
 <li><a href="The_Lay_of_Leithian.md" title="The Lay of Leithian">The Lay of Leithian</a></li>
-<li><a href="The_Lay_of_Leithian_Recommenced.md" title="The Lay of Leithian Recommenced">The Lay of Leithian được tiếp tục</a></li></ol>
+<li><a href="The_Lay_of_Leithian_Recommenced.md" title="The Lay of Leithian Recommenced">The Lay of Leithian Recommenced</a></li></ol>
 </td></tr></tbody></table>
 
 **Chuyến bay của Noldoli từ Valinor** là bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), nằm trong chương "[Những bài thơ sớm bị bỏ rơi](../P/Poems_Early_Abandoned.md)" trong *[The Lays of Beleriand](The_Lays_of_Beleriand.md)*. Nó được viết và chưa hoàn thành trong thời gian ông làm việc tại [Đại học Leeds](../U/University_of_Leeds.md). [Christopher Tolkien](../C/Christopher_Tolkien.md) giải thích rằng nó có thể xuất hiện từ phần đầu của [1925](../_/1925.md) và bị bỏ rơi vì cha anh đã sáng tác những bài thơ khác. Bài thơ có ba bản viết tay, mỗi bản chỉ có một vài sửa đổi nhưng có tựa đề khác nhau: *Chuyến bay của Gnomes được hát trong Sảnh Thingol*, *Flight of the Gnomes* và *Chuyến bay của Noldoli từ Valinor*.<sup id="cite_ref-LB_1-0" class="reference"><a href="#cite_note-LB-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:131</sup>

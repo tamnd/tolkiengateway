@@ -15,9 +15,9 @@ images:
   - "Bri.png"
 ---
 
-<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/B/Bri.png.md"><img src="https://tolkiengateway.net/w/images/1/1b/Bri.png" decoding="async" loading="lazy" width="77" height="120" class="mw-file-element" data-file-width="77" data-file-height="120"/></a><figcaption>Thiết bị huy hiệu của Bri</figcaption></figure>
+<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/B/Bri.png.md"><img src="https://tolkiengateway.net/w/images/1/1b/Bri.png" decoding="async" loading="lazy" width="77" height="120" class="mw-file-element" data-file-width="77" data-file-height="120"/></a><figcaption>Heraldic device of Bri</figcaption></figure>
 
-**Bri, Tolkienselskabet i København** ("Bree, Hiệp hội Copenhagen Tolkien") là một Hội Tolkien của Đan Mạch.
+**Bri, Tolkienselskabet i København** ("Bree, Hiệp hội Copenhagen Tolkien") là một Hiệp hội Tolkien của Đan Mạch.
 
 Bri được thành lập vào [1996](../_/1996.md) với tư cách là thành viên của [Imladris](../I/Imladris,_Danmarks_Tolkienforening.md) và [Tolkiens Følge](../T/Tolkiens_Følge.md) hiện đã tuyệt chủng cảm thấy rằng Đan Mạch thiếu một xã hội nơi các thành viên cùng nhau tham gia nhiều hoạt động liên quan đến Tolkien như tiệc chiêu đãi, thảo luận và hội nhóm.
 
@@ -29,7 +29,7 @@ Bri có một số bang hội dành cho các thành viên của mình:
 
 Hội Arda: Dành cho các cuộc thảo luận văn học về tác phẩm của Tolkien
 
-Hiệp hội Bắn cung: Dành cho các cung thủ, chủ yếu là để đánh bại các Hội Tolkien Thụy Điển trong một cuộc thi thường niên
+Hiệp hội Bắn cung: Dành cho các cung thủ, chủ yếu là để đánh bại các Hiệp hội Tolkien Thụy Điển trong một cuộc thi thường niên
 
 Bri by Night: Rất bí mật nên không thể tiết lộ gì ở đây.
 

@@ -16,8 +16,8 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Silver_flow_the_streams_from_Celos_to_Erui&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Silver_flow_the_streams_from_Celos_to_Erui&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
@@ -27,13 +27,13 @@ images:
 ## Văn bản {#Text}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Dòng bạc chảy từ <a href="../C/Celos.md" title="Celos">Celos</a> đến <a href="../E/Erui.md" title="Erui">Erui</a><br/>
-Trên cánh đồng xanh của <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a>!<br/>
-Cao mọc cỏ ở đó. Trong cơn gió từ <a href="../B/Belegaer.md" title="Belegaer">Biển</a><br/>
-Hoa loa kèn trắng đung đưa<br/>
-Và những chiếc chuông vàng rung chuyển <a href="../M/Mallos.md" title="Mallos">mallos</a> và <a href="../A/Alfirin.md" title="Alfirin">alfirin</a><br/>
-Trong các trường màu xanh lá cây của Lebennin,<br/>
-Trong cơn gió từ Biển!
+<p>Silver flow the streams from <a href="../C/Celos.md" title="Celos">Celos</a> to <a href="../E/Erui.md" title="Erui">Erui</a><br/>
+In the green fields of <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a>!<br/>
+Tall grows the grass there. In the wind from the <a href="../B/Belegaer.md" title="Belegaer">Sea</a><br/>
+The white lilies sway,<br/>
+And the golden bells are shaken of <a href="../M/Mallos.md" title="Mallos">mallos</a> and <a href="../A/Alfirin.md" title="Alfirin">alfirin</a><br/>
+In the green fields of Lebennin,<br/>
+In the wind from the Sea!
 </p>
 </div>
 

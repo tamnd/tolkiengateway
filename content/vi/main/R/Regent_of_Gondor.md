@@ -25,7 +25,7 @@ Trước thời [Tar-Aldarion](../T/Tar-Aldarion.md), chưa có [Vua](../K/Kings
 
 ## [Gondor](../G/Gondor.md) {#Gondor}
 
-Trong toàn bộ lịch sử của [Các Vua Gondor](../K/Kings_of_Gondor.md), chỉ có một Nhiếp chính thuộc loại này được bổ nhiệm, [Minalcar](../M/Minalcar.md).
+Trong toàn bộ lịch sử của [Các vị vua của Gondor](../K/Kings_of_Gondor.md), chỉ có một Nhiếp chính thuộc loại này được bổ nhiệm, [Minalcar](../M/Minalcar.md).
 
 Minalcar là cháu trai của [Atanatar II Alcarin](../A/Atanatar_II.md) và con trai của [Calmacil](<../C/Calmacil_(King_of_Gondor).md>). Trong những năm cuối cùng dưới sự cai trị của ông nội, ông đã trở thành một người hiện diện mạnh mẽ trong các hội đồng hoàng gia vì cả hai con trai của Vua, [Narmacil](../N/Narmacil_I.md) và Calmacil, đều không tỏ ra quan tâm nhiều đến các vấn đề nhà nước. Chỉ vài năm ngắn ngủi sau khi chú của ông là Narmacil kế vị Vua, ông đã phong chức Karma-kundo cho Minalcar; kể từ thời điểm đó, ông đã cai trị [Gondor](../G/Gondor.md) một cách hiệu quả không dưới sáu mươi bốn năm, mặc dù chính thức làm điều đó dưới danh nghĩa của Vua.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Minalcar cuối cùng sẽ tự mình lên ngôi Gondor dưới cái tên nổi tiếng hơn [Rómendacil II](Rómendacil_II.md).
 

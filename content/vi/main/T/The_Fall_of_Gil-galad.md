@@ -29,29 +29,29 @@ images:
   - "J.R.R._Tolkien_-_The_Fall_of_Gil-galad.mp3"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Cái tên <b>The Fall</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Fall_(disambiguation).md" title="The Fall (disambiguation)">The Fall (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Fall</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Fall_(disambiguation).md" title="The Fall (disambiguation)">The Fall (disambiguation)</a></b>.</div></div>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_For_into_darkness_fell_his_star.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c3/Miriam_Ellis_-_For_into_darkness_fell_his_star.jpg/300px-Miriam_Ellis_-_For_into_darkness_fell_his_star.jpg" decoding="async" loading="lazy" width="300" height="419" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/c3/Miriam_Ellis_-_For_into_darkness_fell_his_star.jpg 1.5x" data-file-width="450" data-file-height="629"/></a><figcaption><i>For into darkness fell his star</i> của <a href="../M/Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_For_into_darkness_fell_his_star.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c3/Miriam_Ellis_-_For_into_darkness_fell_his_star.jpg/300px-Miriam_Ellis_-_For_into_darkness_fell_his_star.jpg" decoding="async" loading="lazy" width="300" height="419" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/c3/Miriam_Ellis_-_For_into_darkness_fell_his_star.jpg 1.5x" data-file-width="450" data-file-height="629"/></a><figcaption><i>For into darkness fell his star</i> by <a href="../M/Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure>
 
 <i><b>Sự sụp đổ của Gil-galad</b></i> là một đoạn kể về sự mất mát của [Ereinion Gil-galad](../G/Gil-galad.md), vị vua Tiên vĩ đại cuối cùng của Trung Địa, trong [Cuộc vây hãm Barad-dûr](../S/Siege_of_Barad-dûr.md) ở cuối [Cuộc chiến của Liên minh Cuối cùng](../W/War_of_the_Last_Alliance.md).
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Gil-galad là một vị vua yêu tinh.<br/>
-Về anh, những người chơi đàn hạc buồn hát;<br/>
-người cuối cùng có vương quốc công bằng và tự do<br/>
-giữa Dãy Núi và Biển.
+<p>Gil-galad was an elven-king.<br/>
+Of him the harpers sadly sing;<br/>
+the last whose realm was fair and free<br/>
+between the Mountains and the Sea.
 </p>
 </div>
 
-<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/d/d0/J.R.R._Tolkien_-_The_Fall_of_Gil-galad.mp3" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_The_Fall_of_Gil-galad.mp3">https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_The_Fall_of_Gil-galad.mp3</a></audio><figcaption><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> đọc Sự sụp đổ của Gil-galad</figcaption></figure>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/d/d0/J.R.R._Tolkien_-_The_Fall_of_Gil-galad.mp3" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_The_Fall_of_Gil-galad.mp3">https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_The_Fall_of_Gil-galad.mp3</a></audio><figcaption><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> reads The Fall of Gil-galad</figcaption></figure>
 
 <br><br><br><br><br>
 
 ## Lịch sử {#History}
 
-Theo [Aragorn](../A/Aragorn.md), ban đầu nó được viết bằng ngôn ngữ cổ. Nó có vẻ là một bài thơ dài, kể lại câu chuyện của [Cuộc chiến của Liên minh Cuối cùng](../W/War_of_the_Last_Alliance.md), ít nhất là đến mức [Gil-galad](../G/Gil-galad.md) hỗ trợ lật đổ [Sauron](../S/Sauron.md), và chính ông đã bị giết.
+Theo [Aragorn](../A/Aragorn.md), ban đầu nó được viết bằng ngôn ngữ cổ. Nó có vẻ là một bài thơ dài, kể lại câu chuyện của [Cuộc chiến của Liên minh Cuối cùng](../W/War_of_the_Last_Alliance.md), ít nhất là đến mức [Gil-galad](../G/Gil-galad.md) hỗ trợ lật đổ [Sauron](../S/Sauron.md), và chính ông ta đã bị giết.
 
 [Bilbo Baggins](../B/Bilbo_Baggins.md) sau đó đã dịch nó sang [tiếng phổ thông](../W/Westron.md) và dạy nó cho [Samwise Gamgee](../S/Samwise_Gamgee.md) khi còn trẻ, người đã nhầm tưởng rằng Bilbo là người sáng tác.
 
@@ -61,7 +61,7 @@ Sam thuật lại ba khổ thơ mở đầu khi đến gần [Weathertop](../W/W
 
 <b>1981: <a href="The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
-<dl><dd>Sam đã hát bài hát này trong chuyến đi tới Rivendell.</dd></dl>
+<dl><dd>Sam sang the song during his trip to Rivendell.</dd></dl>
 
 ## Liên kết ngoài {#External_links}
 

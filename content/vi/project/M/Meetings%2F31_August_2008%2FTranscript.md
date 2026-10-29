@@ -158,7 +158,7 @@ sort_keys:
 &lt;Hyarion&gt;	one day I believe we&#39;ll start our own Tolkien forum, but we will wait until the community is large enough.<br/>
 &lt;Ederchil&gt;	what&#39;s the diff between TOR.net and TOR.com?<br/>
 &lt;Hyarion&gt;	Mith, I would unfortunatley have to agree.<br/>
-&lt;KingAragorn&gt;	tbh I&#39;d never heard of LOTRPlaza before now<br/>
+&lt;KingAragorn&gt;	tbh I&#39;d never heard of  LOTRPlaza before now<br/>
 &lt;Ederchil&gt;	what&#39;s wrong with Plaza?<br/>
 &lt;Hyarion&gt;	Ederchil, not related at all, theonering.com tends to focus more on the books<br/>
 &lt;Ederchil&gt;	ah<br/>
@@ -210,7 +210,7 @@ sort_keys:
 &lt;Mith&gt;	But people who are really into fora (like I used to be), will pay attention to each other, and, in general, aren&#39;t hostile to each other.<br/>
 &lt;Hyarion&gt;	I agree.<br/>
 &lt;Mith&gt;	Each forum tends to form it&#39;s own identity and they accept others alongside their own.<br/>
-&lt;KingAragorn&gt;	ok so let&#39;s outline what we&#39;re gonna do with marketing and then we can move on<br/>
+&lt;KingAragorn&gt;	ok so let&#39;s outline what we&#39;re gonna do with marketing     and then we can move on<br/>
 &lt;Mith&gt;	Terrible apostrophic error. its*<br/>
 &lt;Hyarion&gt;	I think our first goal before doing a forum would be offering something unique<br/>
 &lt;Hyarion&gt;	yea let&#39;s try and stay on track with our agenda or we could be here forever :)<br/>
@@ -520,7 +520,7 @@ sort_keys:
 &lt;Theoden1&gt;	I see<br/>
 &lt;Ederchil&gt;	brb<br/>
 &lt;Theoden1&gt;	we should have some form of recognition<br/>
-&lt;KingAragorn&gt;	ah ye I had the article attack award at one wiki but I stole that idea from Lostpedia<br/>
+&lt;KingAragorn&gt;	ah ye I had the article attack award at one wiki     but I stole that idea from Lostpedia<br/>
 &lt;Theoden1&gt;	can we raise barnstars off the back shelf and start looking at it hard again?<br/>
 &lt;Mith&gt;	What about, Hyarion<br/>
 &lt;Mith&gt;	A group below administrators, stewards if you like<br/>

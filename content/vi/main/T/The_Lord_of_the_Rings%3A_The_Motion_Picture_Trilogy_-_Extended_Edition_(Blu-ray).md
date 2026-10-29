@@ -15,13 +15,13 @@ images:
   - "Material_icon_-_Construction.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
-<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
+<p>We have a long way to go, and there is time ahead for thought.
 </p>
 <p class="tg-quote-footer"><cite><a href="Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-**The Lord of the Rings: Bộ ba phim điện ảnh - Bản mở rộng** là gói Blu-ray của [*The Lord of the Rings* loạt phim](<The_Lord_of_the_Rings_(film_series).md>) được phát hành vào ngày 28 tháng 6 năm 2011 bởi [New Line Cinema](../N/New_Line_Cinema.md). Nó bao gồm các phiên bản mở rộng của phim ở độ phân giải cao và chín DVD có thêm các tính năng bổ sung. *[The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* cũng nhận được bản remaster từ các tệp kỹ thuật số 2K, được giám sát bởi đạo diễn [Peter Jackson](../P/Peter_Jackson.md) và nhà quay phim [Andrew Lesnie](../A/Andrew_Lesnie.md). Nó đã nhận được đánh giá hoàn hảo của người dùng trên nhiều trang web, bao gồm cả blu-ray.com.
+**The Lord of the Rings: Bộ ba phim điện ảnh - Phiên bản mở rộng** là gói Blu-ray của [*The Lord of the Rings* loạt phim](<The_Lord_of_the_Rings_(film_series).md>) được phát hành vào ngày 28 tháng 6 năm 2011 bởi [New Line Cinema](../N/New_Line_Cinema.md). Nó bao gồm các phiên bản mở rộng của phim ở độ phân giải cao và chín DVD có thêm các tính năng bổ sung. *[The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* cũng nhận được bản remaster từ các tệp kỹ thuật số 2K, được giám sát bởi đạo diễn [Peter Jackson](../P/Peter_Jackson.md) và nhà quay phim [Andrew Lesnie](../A/Andrew_Lesnie.md). Nó đã nhận được đánh giá hoàn hảo của người dùng trên nhiều trang web, bao gồm cả blu-ray.com.
 
 ## Xem thêm {#See_also}
 

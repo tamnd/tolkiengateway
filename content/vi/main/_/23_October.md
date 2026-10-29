@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/23._lokakuuta"
 ---
 
-<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=23_October/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Thêm sự kiện được tuyển chọn</a></div><div class="tg-section-divider"><span><a href="../O/October.md" title="October">October</a></span></div>
+<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=23_October/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Add curated event</a></div><div class="tg-section-divider"><span><a href="../O/October.md" title="October">October</a></span></div>
 <div class="template-month__grid">
 <div class="template-month__day"><a href="1_October.md" title="1 October">1</a></div>
 <div class="template-month__day"><a href="2_October.md" title="2 October">2</a></div>
@@ -56,7 +56,7 @@ langlinks:
 <div class="template-month__day"><a href="29_October.md" title="29 October">29</a></div>
 <div class="template-month__day"><a href="30_October.md" title="30 October">30</a></div>
 <div class="template-month__day"><a href="31_October.md" title="31 October">31</a></div>
-</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Tháng 1</a></div><div class="tg-button"><a href="../F/February.md" title="February">Tháng 2</a></div><div class="tg-button"><a href="../M/March.md" title="March">Tháng 3</a></div><div class="tg-button"><a href="../A/April.md" title="April">Tháng 4</a></div><div class="tg-button"><a href="../M/May.md" title="May">Tháng 5</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Tháng 7</a></div><div class="tg-button"><a href="../A/August.md" title="August">Tháng 8</a></div><div class="tg-button"><a href="../S/September.md" title="September">Tháng 9</a></div><div class="tg-button"><a href="../O/October.md" title="October">Tháng 10</a></div><div class="tg-button"><a href="../N/November.md" title="November">Tháng 11</a></div><div class="tg-button"><a href="../D/December.md" title="December">Tháng 12</a></div></div>
+</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
 Sự kiện xảy ra vào ngày 23 tháng 10
@@ -76,5 +76,5 @@ Sự kiện xảy ra vào ngày 23 tháng 10
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
     - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) hồi phục sau vết thương trong [Rivendell](../R/Rivendell.md). [Elrond](../E/Elrond.md) tìm thấy mảnh lưỡi kiếm trên vai ông và lấy nó ra.
+    - [Frodo](../F/Frodo_Baggins.md) hồi phục sau vết thương trong [Rivendell](../R/Rivendell.md). [Elrond](../E/Elrond.md) tìm thấy mảnh lưỡi kiếm trên vai ông ta và lấy nó ra.
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

@@ -16,7 +16,7 @@ images:
   - "Grenadier_Isengard.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Grenadier_Isengard.jpg.md"><img src="https://tolkiengateway.net/w/images/5/5b/Grenadier_Isengard.jpg" decoding="async" loading="lazy" width="262" height="500" class="mw-file-element" data-file-width="262" data-file-height="500"/></a><figcaption>Hộp Isengard của Grenadier</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Grenadier_Isengard.jpg.md"><img src="https://tolkiengateway.net/w/images/5/5b/Grenadier_Isengard.jpg" decoding="async" loading="lazy" width="262" height="500" class="mw-file-element" data-file-width="262" data-file-height="500"/></a><figcaption>Grenadier&#39;s Isengard box</figcaption></figure>
 
 **Grenadier Models Inc.** là một công ty của Mỹ chuyên sản xuất các nhân vật thu nhỏ cho trò chơi chiến tranh và trò chơi nhập vai có chủ đề giả tưởng, khoa học viễn tưởng và anh hùng giữa [1975](../_/1975.md) và [1996](../_/1996.md).
 
@@ -64,7 +64,7 @@ Trung Địa — Vương quốc huyền thoại của Pháp sư và Hobbit, nguy
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Miniature_figure_(gaming)" title="wikipedia:Miniature figure (gaming)">các tác phẩm thu nhỏ</a> được cấp phép để chơi game trong <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Miniature_figure_(gaming)" title="wikipedia:Miniature figure (gaming)">miniatures</a> for gaming in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </td></tr>
 <tr>
 <td style="font-size: 90%;">  <b><a href="../H/Heritage_Models.md" title="Heritage Models">Heritage Models</a></b> (<a href="../_/1978.md" title="1978">1978</a>)

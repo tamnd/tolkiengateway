@@ -18,7 +18,7 @@ images:
 <figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/G/Gentle_Giant_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/6/61/Gentle_Giant_logo.jpg" decoding="async" loading="lazy" width="200" height="205" class="mw-file-element" data-file-width="133" data-file-height="136"/></a><figcaption></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Họ sẽ đưa bạn vào một căn phòng tối, <a href="../T/Théoden.md" title="Théoden">Chúa ơi</a>, quét hộp sọ của bạn. Họ sẽ làm đồ chơi cho ngài, ít nhất là mười nghìn, cho trẻ con chơi những trò ngu ngốc.
+<p>They will take you into a dark room, <a href="../T/Théoden.md" title="Théoden">my Lord</a>, an scan your very skull. They will make toys of your Lordship, ten thousand at least, for children to play stupid games with.
 </p>
 <p class="tg-quote-footer"><cite><a href="../V/Viggo_Mortensen.md" title="Viggo Mortensen">Viggo Mortensen</a>, <a class="external text" href="http://tinyurl.com/6mr9vr" rel="noreferrer noopener" target="_blank">YouTube</a>.</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

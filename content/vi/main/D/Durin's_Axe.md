@@ -28,11 +28,11 @@ Chiếc rìu vẫn bị mất ở [Khazad-dûm](../M/Moria.md) sau khi nó bị 
 
 <b>2023: <i><a href="../T/The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Trở về Moria</a></i>:</b>
 
-<dl><dd>Chiếc rìu bị vỡ thành nhiều mảnh mà người chơi phải tìm lại để có thể rèn lại chiếc rìu.</dd></dl>
+<dl><dd>The axe is broken into several fragments that must be recovered by the player in order for the axe to be reforged.</dd></dl>
 
 <b>2024: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a> — <a href="../M/Moria_-_Through_the_Doors_of_Durin.md" title="Moria - Through the Doors of Durin">Moria: Qua cánh cửa của Durin</a></i>:</b>
 
-<dl><dd>Ở <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2965.md" title="Third Age 2965">2965</a>, chiếc rìu vẫn còn ở Hạ Armory của <a href="../T/Third_Deep.md" title="Third Deep">Kỷ Đệ Tam Deep</a>, được khóa bằng một chiếc chìa khóa đặc biệt.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
+<dl><dd>In <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2965.md" title="Third Age 2965">2965</a>, the axe was still in the Lower Armoury of the <a href="../T/Third_Deep.md" title="Third Deep">Third Deep</a>, which was locked with a special key.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 
 <span></span>
 
@@ -48,12 +48,12 @@ Chiếc rìu vẫn bị mất ở [Khazad-dûm](../M/Moria.md) sau khi nó bị 
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Vũ khí</a> trong <a href="../L/Legendarium.md" title="Legendarium">huyền thoại</a> của <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Weapons</a> in <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a>&#39;s <a href="../L/Legendarium.md" title="Legendarium">legendarium</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"> <a href="../../category/A/Arrows.md" title="Category:Arrows">Arrows</a>:
 </th>
-<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Mũi tên đen</a> · <a href="Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Mũi tên đỏ</a>
+<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Black arrow</a> · <a href="Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Red Arrow</a>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/A/Axes.md" title="Category:Axes">Axes</a>:

@@ -22,13 +22,13 @@ infobox:
     value: "Game designer"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Michael Reynolds</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nhà thiết kế trò chơi</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Michael Reynolds</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Game designer</td></tr></tbody></table>
 
 **Mike Austin Reynold** là nhà thiết kế trò chơi, người đã làm việc trên [Trung Địa Trò chơi thẻ sưu tập](Middle-earth_Collectible_Card_Game.md) và [The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md).
 
 ## Lịch sử {#History}
 
-Reynolds gặp <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Curtis&amp;action=edit&amp;redlink=1" title="John Curtis (page does not exist)">John Curtis</a> của Iron Crown Enterprises thông qua một hội nghị trò chơi mà họ cùng nhau thành lập và được thuê làm người hiệu đính cho Rolemaster vào tháng 12 năm 1993. Sau đó, ông đồng phát triển [Trung Địa Trò chơi bài sưu tập](Middle-earth_Collectible_Card_Game.md) với [Coleman Charlton](../C/Coleman_Charlton.md) và trở thành người biên tập loạt trò chơi này. Với tư cách đó, anh đã viết ra những khái niệm mà nhóm thiết kế đặt ra vào nội dung tấm thiệp.
+Reynolds gặp <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Curtis&amp;action=edit&amp;redlink=1" title="John Curtis (page does not exist)">John Curtis</a> của Vương miện Sắt Enterprises thông qua một hội nghị trò chơi mà họ cùng nhau thành lập và được thuê làm người hiệu đính cho Rolemaster vào tháng 12 năm 1993. Sau đó, ông đồng phát triển [Trung Địa Trò chơi bài sưu tập](Middle-earth_Collectible_Card_Game.md) với [Coleman Charlton](../C/Coleman_Charlton.md) và trở thành người biên tập loạt trò chơi này. Với tư cách đó, anh đã viết ra những khái niệm mà nhóm thiết kế đặt ra vào nội dung tấm thiệp.
 
 Sau khi rời ICE, Reynolds làm việc cho trò chơi thẻ giao dịch Star Wars của [Decipher](../D/Decipher.md). Anh làm kỹ sư phần mềm cho trò chơi EA một thời gian nhưng quay lại Decipher sau khi bị sa thải, nơi anh đồng thiết kế [The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 

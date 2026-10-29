@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"[Glorfindel](../../main/G/Glorfindel.md) và [Elrond](../../main/E/Elrond.md) tại [Hội đồng](../../main/C/Council_of_Elrond.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
+"[Glorfindel](../../main/G/Glorfindel.md) và [Elrond](../../main/E/Elrond.md) tại [the Hội đồng](../../main/C/Council_of_Elrond.md)" của [Miriam Ellis](../../main/M/Miriam_Ellis.md)
 
 ## Giấy phép {#Licensing}
 

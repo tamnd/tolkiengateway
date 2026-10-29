@@ -23,7 +23,7 @@ images:
   - "Ground_Bee.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Ground_Bee.png.md"><img src="https://tolkiengateway.net/w/images/4/4d/Ground_Bee.png" decoding="async" loading="lazy" width="250" height="187" class="mw-file-element" data-file-width="250" data-file-height="187"/></a><figcaption><i>Ground Bee</i> được mô tả trong <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">MERP</a></i></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Ground_Bee.png.md"><img src="https://tolkiengateway.net/w/images/4/4d/Ground_Bee.png" decoding="async" loading="lazy" width="250" height="187" class="mw-file-element" data-file-width="250" data-file-height="187"/></a><figcaption><i>Ground Bee</i> portrayed in <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">MERP</a></i></figcaption></figure>
 
 Ở [Trung Địa](../M/Middle-earth.md), **những con ong** là loài côn trùng vo ve trong nhà được nuôi dưỡng vì khả năng tạo mật của chúng. Đặc biệt nổi tiếng là những con [Beorn](Beorn.md) có kích thước khổng lồ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Thời tiết [Shire](../T/The_Shire.md) đẹp của mùa hè và mùa thu ở [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md) đến mức "mật ong nhỏ giọt trong tổ ong".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -33,7 +33,7 @@ Trong [Qenya](../Q/Qenya.md), từ dành cho "ong mật" là *nier* (*nies*-), v
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Ong đất, loài sản xuất mật ong, là họ hàng của ong vàng và ong thật. Do số lượng lớn nên Ong đất là mối đe dọa đối với các nhân vật.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
+<dl><dd>Ground Bees, producers of honey, are relatives of the yellow jackets and true bees. Due to their large numbers, the Ground Bees pose a threat to characters.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
 <b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
 

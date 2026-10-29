@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh Fëanor từ cảnh: "Sau đó, sự căm ghét đã vượt qua nỗi sợ hãi của Fëanor, hắn nguyền rủa Melkor và đuổi ông đi và nói: 'Biến khỏi cổng của ta, đồ quạ giam giữ Mandos!' Và ông đóng cửa nhà mình trước mặt kẻ mạnh nhất trong số những cư dân ở Eä.” - *The Silmarillion* "Của Silmaril"
+Hình ảnh Fëanor từ cảnh: "Sau đó, sự căm ghét đã vượt qua nỗi sợ hãi của Fëanor, hắn nguyền rủa Melkor và đuổi ông ta đi và nói: 'Biến khỏi cổng của ta, đồ quạ giam giữ Mandos!' Và ông ta đóng cửa nhà mình trước mặt kẻ mạnh nhất trong số những cư dân ở Eä.” - *The Silmarillion* "Của Silmaril"
 
 ## Giấy phép {#Licensing}
 

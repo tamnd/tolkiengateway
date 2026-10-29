@@ -27,9 +27,9 @@ Xung quanh họ, lễ hội [Yuletide](Yuledays.md) kéo dài sáu ngày đã đ
 ## Từ nguyên {#Etymology}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Những lời chúc tốt đẹp nhất dành cho Yule - J. R. R. Tolkien
+<p>Very best wishes for Yule - J. R. R. Tolkien
 </p>
-<p class="tg-quote-footer"><cite>Tolkien gửi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Richard_Jeffery&amp;action=edit&amp;redlink=1" title="Richard Jeffery (page does not exist)">Richard Jeffery</a> trong <a href="../L/Letter_347.md" title="Letter 347">Thư 347</a>, (ngày <a href="../_/17_December.md" title="17 December">17 tháng 12</a> <a href="../_/1972.md" title="1972">1972</a>)</cite></p>
+<p class="tg-quote-footer"><cite>Tolkien to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Richard_Jeffery&amp;action=edit&amp;redlink=1" title="Richard Jeffery (page does not exist)">Richard Jeffery</a> in <a href="../L/Letter_347.md" title="Letter 347">Letter 347</a>, (dated <a href="../_/17_December.md" title="17 December">17 December</a> <a href="../_/1972.md" title="1972">1972</a>)</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 Yule đại diện cho một "bản dịch" của một từ [Hobbitish](../H/Hobbitish.md), nhưng bản thân từ đó không xuất hiện trong [Westron](../W/Westron.md).<sup id="cite_ref-Nomen_4-0" class="reference"><a href="#cite_note-Nomen-4">[3]</a></sup>
@@ -40,7 +40,7 @@ Từ [Quenya](../Q/Quenya.md) cho "Yule và sự khởi đầu của sự trở 
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../T/Turuhalmë.md" title="Turuhalmë">Turuhalmë</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../T/Turuhalmë.md" title="Turuhalmë">Turuhalmë</a></b></div></div>
 
 Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md) về ngôn ngữ [Tiên](../E/Elvish.md), từ "Yule(night), tức là Log-night" là *durufui*. *Tanfui* có nghĩa là "Đêm Yule".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 

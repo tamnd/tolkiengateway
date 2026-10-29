@@ -14,9 +14,9 @@ images:
   - "Mep.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mep.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a7/Mep.jpg/250px-Mep.jpg" decoding="async" loading="lazy" width="250" height="114" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/Mep.jpg/375px-Mep.jpg 1.5x, https://tolkiengateway.net/w/images/a/a7/Mep.jpg 2x" data-file-width="450" data-file-height="205"/></a><figcaption>biểu tượng <i>Middle-earth Puzzles</i></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mep.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a7/Mep.jpg/250px-Mep.jpg" decoding="async" loading="lazy" width="250" height="114" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/Mep.jpg/375px-Mep.jpg 1.5x, https://tolkiengateway.net/w/images/a/a7/Mep.jpg 2x" data-file-width="450" data-file-height="205"/></a><figcaption><i>Middle-earth Puzzles</i> logo</figcaption></figure>
 
-**Trung Địa Puzzles** (MEP) là một chuỗi trò chơi ghép hình do [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) phát hành trong [1997](../_/1997.md), có hình ảnh của các nghệ sĩ lấy cảm hứng từ Tolkien.
+**Trung Địa Puzzles** (MEP) là một chuỗi trò chơi ghép hình do [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) phát hành trong [1997](../_/1997.md), có hình ảnh của các nghệ sĩ lấy cảm hứng từ Tolkien.
 
 ## Sản phẩm {#Products}
 

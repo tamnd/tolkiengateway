@@ -436,11 +436,11 @@ Theoden1 (Brian@TG-5CC562F1.hsd1.ct.comcast.net) has left #Wiki (I&#39;m battlin
 &lt;Hyarion&gt;	J.R.R. Tolkien, Christopher Tolkien (editor), <i><a href="../../main/T/The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i><br/>
 &lt;Hyarion&gt;	+ the chapter<br/>
 &lt;Ederchil&gt;	me likes<br/>
-&lt;Hyarion&gt;	at least with these will only be listed once at the bottom<br/>
+&lt;Hyarion&gt;	at least with  these will only be listed once at the bottom<br/>
 &lt;Mith&gt;	IS that quote marks round the book?<br/>
 &lt;Hyarion&gt;	no, sorry that&#39;s double single quotes for italics<br/>
 &lt;Ederchil&gt;	no, italics<br/>
-&lt;Mith&gt;	Also, with regards to the, could we not have a smaller font<br/>
+&lt;Mith&gt;	Also, with regards to the , could we not have a smaller font<br/>
 &lt;Mith&gt;	Some of these references are going to get larger<br/>
 &lt;Mith&gt;	It doesn&#39;t seem necessary to have them in the same font as the rest of the text<br/>
 &lt;Ederchil&gt;	does <small></small> work?<br/>
@@ -467,7 +467,7 @@ Theoden1 (Brian@TG-5CC562F1.hsd1.ct.comcast.net) has left #Wiki (I&#39;m battlin
 &lt;Mith&gt;	On pain of death<br/>
 &lt;Mith&gt;	Similarly with book titles in italics<br/>
 &lt;Ederchil&gt;	not on death here. just flunkage<br/>
-&lt;Hyarion&gt;	I also need to work on a template so we can have span two or three columns for the larger lists<br/>
+&lt;Hyarion&gt;	I also need to work on a template so we can have  span two or three columns for the larger lists<br/>
 &lt;Ederchil&gt;	or maybe a scroll-list like wookieepedia has<br/>
 &lt;Hyarion&gt;	ooh yea, which do we like better?<br/>
 &lt;Ederchil&gt;	scroll<br/>

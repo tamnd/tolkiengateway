@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/2._hein%C3%A4kuuta"
 ---
 
-<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=2_July/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Thêm sự kiện được tuyển chọn</a></div><div class="tg-section-divider"><span><a href="../J/July.md" title="July">July</a></span></div>
+<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=2_July/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Add curated event</a></div><div class="tg-section-divider"><span><a href="../J/July.md" title="July">July</a></span></div>
 <div class="template-month__grid">
 <div class="template-month__day"><a href="1_July.md" title="1 July">1</a></div>
 <div class="template-month__day"><a class="mw-selflink selflink">2</a></div>
@@ -56,7 +56,7 @@ langlinks:
 <div class="template-month__day"><a href="29_July.md" title="29 July">29</a></div>
 <div class="template-month__day"><a href="30_July.md" title="30 July">30</a></div>
 <div class="template-month__day"><a href="31_July.md" title="31 July">31</a></div>
-</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Tháng 1</a></div><div class="tg-button"><a href="../F/February.md" title="February">Tháng 2</a></div><div class="tg-button"><a href="../M/March.md" title="March">Tháng 3</a></div><div class="tg-button"><a href="../A/April.md" title="April">Tháng 4</a></div><div class="tg-button"><a href="../M/May.md" title="May">Tháng 5</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Tháng 7</a></div><div class="tg-button"><a href="../A/August.md" title="August">Tháng 8</a></div><div class="tg-button"><a href="../S/September.md" title="September">Tháng 9</a></div><div class="tg-button"><a href="../O/October.md" title="October">Tháng 10</a></div><div class="tg-button"><a href="../N/November.md" title="November">Tháng 11</a></div><div class="tg-button"><a href="../D/December.md" title="December">Tháng 12</a></div></div>
+</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
 Sự kiện xảy ra vào ngày 2 tháng 7.
@@ -70,7 +70,7 @@ Sự kiện xảy ra vào ngày 2 tháng 7.
 - **[2003](2003.md)** - "Ent of Fangorn", bộ thứ sáu trong *[The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)*, được phát hành.
 - **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) tại Jones Hall ở <a class="extiw" href="http://en.wikipedia.org/wiki/Houston" title="wikipedia:Houston">Houston</a>.
 - **[2006](2006.md)** - [Hội nghị tập hợp các học bổng](../T/The_Gathering_of_the_Fellowship.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Toronto" title="wikipedia:Toronto">Toronto</a>.
-- **[2006](2006.md)** - [Pieter Collier](../P/Pieter_Collier.md) được trao *Giải thưởng [Hội Tolkien Đông Bắc](../N/North_East_Tolkien_Society.md) Ngọn lửa bất diệt năm 2006* thường niên lần thứ nhất cho bộ sưu tập đồ sộ của ông.
+- **[2006](2006.md)** - [Pieter Collier](../P/Pieter_Collier.md) được trao *Giải thưởng [Hiệp hội Tolkien Đông Bắc](../N/North_East_Tolkien_Society.md) Ngọn lửa bất diệt năm 2006* thường niên lần thứ nhất cho bộ sưu tập đồ sộ của ông.
 - **[2020](2020.md)** - [Andy Serkis](../A/Andy_Serkis.md) xuất bản *The Hobbit* dưới dạng sách nói. Nó hiện có sẵn trên Audible.
 
 ## Trong Arda {#In_Arda}

@@ -15,7 +15,7 @@ images:
   - "Complete_Silmarillion_Artwork.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Complete_Silmarillion_Artwork.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6c/Complete_Silmarillion_Artwork.jpg/300px-Complete_Silmarillion_Artwork.jpg" decoding="async" loading="lazy" width="300" height="262" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6c/Complete_Silmarillion_Artwork.jpg/450px-Complete_Silmarillion_Artwork.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6c/Complete_Silmarillion_Artwork.jpg/600px-Complete_Silmarillion_Artwork.jpg 2x" data-file-width="1159" data-file-height="1012"/></a><figcaption>Tác phẩm nghệ thuật từ bộ hộp. Được sự cho phép của Ted Nasmith</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Complete_Silmarillion_Artwork.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6c/Complete_Silmarillion_Artwork.jpg/300px-Complete_Silmarillion_Artwork.jpg" decoding="async" loading="lazy" width="300" height="262" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6c/Complete_Silmarillion_Artwork.jpg/450px-Complete_Silmarillion_Artwork.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6c/Complete_Silmarillion_Artwork.jpg/600px-Complete_Silmarillion_Artwork.jpg 2x" data-file-width="1159" data-file-height="1012"/></a><figcaption>Artwork from the box set. By permission of Ted Nasmith</figcaption></figure>
 
 Bộ hộp hoàn chỉnh gồm các bản ghi demo của bản chuyển thể opera *[The Silmarillion](../T/The_Silmarillion.md)* của nhà soạn nhạc [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md) được Volante Opera Productions thu âm từ năm 2017 đến năm 2023. Vào tháng 6 năm 2023, bộ này được phát hành dưới dạng bộ hộp mười đĩa với một tập sách nhỏ 128 trang chứa bản tóm tắt đầy đủ, văn bản hoàn chỉnh, bản dịch của Elvish và hướng dẫn về phiên bản huyền thoại này.
 
@@ -35,7 +35,7 @@ Mandos, Kẻ thống trị cõi chết (Baritone): Julian Boyce
 
 Elbereth, Nữ hoàng ánh sáng (Giọng nữ cao): Emma Mary Llewellyn
 
-Vị Vua Cổ Xưa, Chúa tể của Valar (Bass): George Newton-Fitzgerald
+Trưởng lão Vua, Chúa tể của Valar (Bass): George Newton-Fitzgerald
 
 Maedhros, Con trai của Fëanor (Bass-Baritone): Stephen Wells
 
@@ -97,7 +97,7 @@ Saeros, ủy viên hội đồng của Doriath (Tenor): Michael Clifton-Thompson
 
 Mablung của Heavy Hand, Thuyền trưởng của Doriath (Bass): Stephen Wells
 
-Beleg Cúthalion, Đội trưởng Doriath (Baritone): Philip Lloyd-Evans
+Beleg Cúthalion, Đội trưởng của Doriath (Baritone): Philip Lloyd-Evans
 
 Gwindor, Lãnh chúa của Nargothrond (Baritone): Julian Boyce
 
@@ -119,9 +119,9 @@ Michael Clifton-Thompson/Simon Crosby Buttle/Julian Boyce/Jasey Hall
 
 <br> **[Tác phẩm. 49 - The Fall of Gondolin](<../T/The_Fall_of_Gondolin,_Op.49_(Opera).md>)**
 
-Ulmo, Chúa tể các dòng nước (Bass):  Martin Lloyd
+Ulmo, Chúa tể vùng nước (Bass):  Martin Lloyd
 
-Turgon, Vua Gondolin (Bass):  George Newton-Fitzgerald
+Turgon, Vua của Gondolin (Bass):  George Newton-Fitzgerald
 
 Aredhel, em gái ông (Mezzo-Soprano):  Louise Ratcliffe
 

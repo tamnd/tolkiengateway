@@ -16,10 +16,10 @@ images:
   - "David_T._Wenzel_-_Raft-elves.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/David_T._Wenzel_-_Raft-elves.jpg.md"><img src="https://tolkiengateway.net/w/images/7/76/David_T._Wenzel_-_Raft-elves.jpg" decoding="async" loading="lazy" width="287" height="300" class="mw-file-element" data-file-width="287" data-file-height="300"/></a><figcaption>Một chiếc bè-Tiên do <a href="../D/David_T._Wenzel.md" title="David T. Wenzel">David miêu tả T. Wenzel</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/David_T._Wenzel_-_Raft-elves.jpg.md"><img src="https://tolkiengateway.net/w/images/7/76/David_T._Wenzel_-_Raft-elves.jpg" decoding="async" loading="lazy" width="287" height="300" class="mw-file-element" data-file-width="287" data-file-height="300"/></a><figcaption>A raft-elf portrayed by <a href="../D/David_T._Wenzel.md" title="David T. Wenzel">David T. Wenzel</a></figcaption></figure>
 
 **bè-Tiên tộc** có lẽ là một nhóm [Mirkwood Tiên tộc](../E/Elves_of_Mirkwood.md) sống trong một tập hợp các [túp lều](../H/Huts_of_the_raft-elves.md).<sup id="cite_ref-H9_1-0" class="reference"><a href="#cite_note-H9-1">[1]</a></sup>
 
@@ -31,15 +31,15 @@ Chiếc bè-Tiên tộc chở hàng trên [Forest River](../F/Forest_River.md) g
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Raft-Tiên tộc là một bộ tộc riêng biệt gồm Nando và Sindar Tiên tộc, cư trú tại làng Celebannon trên Forest River.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
+<dl><dd>The Raft-elves are a separate tribe of Nando and Sindar Elves, residing in the village of Celebannon upon the Forest River.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 
 <b>1989: <i><a href="../T/The_Hobbit_(comic_book).md" title="The Hobbit (comic book)">The Hobbit</a></i>:</b>
 
-<dl><dd><a href="../D/David_T._Wenzel.md" title="David T. Wenzel">David T. Wenzel</a> miêu tả chiếc bè-Tiên tộc rắn chắc Tiên tộc mặc trang phục có nhiều tông màu xanh lá cây.</dd></dl>
+<dl><dd><a href="../D/David_T._Wenzel.md" title="David T. Wenzel">David T. Wenzel</a> portrayed the raft-elves as sturdy elves wearing garments in various tones of green.</dd></dl>
 
-<b>2007- : <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007- : <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Raft-Tiên tộc sống trong khu định cư của loài yêu tinh được gọi là "Loeglond", nơi tiếp tục vận chuyển hàng hóa từ <a href="../E/Elvenking&#39;s_Halls.md" title="Elvenking&#39;s Halls">Vua Tiên Đại sảnh</a> của Felegoth đến <a href="../L/Lake-town.md" title="Lake-town">Thị trấn Hồ</a> mới trong suốt và sau các sự kiện của <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>.</dd></dl>
+<dl><dd>The Raft-elves live in the elven-settlement known as &#34;Loeglond&#34;, which continued to ferry goods from the <a href="../E/Elvenking&#39;s_Halls.md" title="Elvenking&#39;s Halls">Elvenking&#39;s Halls</a> of Felegoth, to the new <a href="../L/Lake-town.md" title="Lake-town">Lake-town</a> throughout and after the events of the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>.</dd></dl>
 
 <span></span>
 

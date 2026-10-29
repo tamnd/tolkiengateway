@@ -31,7 +31,7 @@ images:
 Vào tháng 7 [1964](../_/1964.md), de Camp đã gửi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) một bản sao tuyển tập của ông *[Swords &amp; Sorcery](../S/Swords_&_Sorcery.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tolkien đã gửi [một lá thư cho de Camp vào tháng 8 năm 1964](Letter_to_L._Sprague_de_Camp.md), bày tỏ quan điểm của mình về những câu chuyện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Vào tháng 2 [1967](../_/1967.md), de Camp và <a class="extiw" href="http://en.wikipedia.org/wiki/Alan_E._Nourse" title="wikipedia:Alan E. Nourse">Alan E. Nourse</a> đã đến thăm Tolkien để tham quan phỏng vấn:<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>[Tolkien] nói rằng ông thấy [tuyển tập] thú vị nhưng không thích những câu chuyện trong đó […] Chúng tôi ngồi trong gara vài giờ, hút tẩu, uống bia và nói về nhiều thứ. Thực tế là bất cứ thứ gì trong văn học Anh, từ Beowulf trở xuống, Tolkien đều đã đọc và có thể nói một cách thông minh. Ông chỉ ra rằng ông 'khá thích' truyện Conan của Howard.
+<p>[Tolkien] said he found [the anthology] interesting but did not much like the stories in it [...] We sat in the garage for a couple of hours, smoking pipes, drinking beer, and talking about a variety of things. Practically anything in English literature, from Beowulf down, Tolkien had read and could talk intelligently about. He indicated that he &#39;rather liked&#39; Howard&#39;s Conan stories.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="Literary_Swordsmen_and_Sorcerers.md" title="Literary Swordsmen and Sorcerers">Literary Swordsmen and Sorcerers</a></i>, pp. 243-4</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -39,7 +39,7 @@ Vào tháng 7 [1964](../_/1964.md), de Camp đã gửi [J.R.R. Tolkien](../J/J.R
 Một lá thư năm 1983 từ de Camp gửi John Rateliff ngụ ý rằng de Camp sẽ không sẵn sàng chấp nhận đề nghị trước đó của ông về việc Tolkien đã đọc nhiều truyện Conan. Rateliff trích dẫn de Camp:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Trong cuộc trò chuyện của chúng tôi, tôi đã nói điều gì đó bình thường với Tolkien về việc tôi tham gia vào các câu chuyện Conan của Howard, và ông nói rằng ông 'khá thích chúng'. Chỉ thế thôi: chúng tôi chuyển sang những chủ đề khác. Tôi biết ông đã đọc Swords and Sorcery vì tôi đã gửi cho ông một bản. Tôi không biết liệu ông có đọc Conan nào khác ngoài 'Shadows in the Moonlight' hay không, nhưng tôi khá nghi ngờ về điều đó. 
+<p>During our conversation, I said something casual to Tolkien about my involvement with Howard&#39;s Conan stories, and he said he &#39;rather liked them&#39;. That was all: we went on to other subjects. I know he had read Swords and Sorcery because I had sent him a copy. I don&#39;t know if he had read any other Conan besides &#39;Shadows in the Moonlight&#39;, but I rather doubt it. 
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md" title="J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment">J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment</a></i>, pp. 287</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -58,7 +58,7 @@ Một lá thư năm 1983 từ de Camp gửi John Rateliff ngụ ý rằng de Cam
 - [1973](../_/1973.md): [*Locus* #149](Locus_149.md) (14 tháng Chín 1973)
     - \[bài viết ngắn gọn về cuộc gặp gỡ của ông với Tolkien\]
 - [1976](../_/1976.md): [*Fantastic* (Tháng 11, Tập 25, Số 5)](../F/Fantastic_November_1976.md)
-    - "Pháp sư Trắng vải Tweed"
+    - "Trắng Pháp sư vải Tweed"
 - [1987](../_/1987.md): [*Mythlore* 50](../M/Mythlore_50.md)
     - Thư gửi biên tập viên
 

@@ -36,7 +36,7 @@ infobox:
     value: "Sauron"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Donato_Giancola_-_The_One_Ring.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/78/Donato_Giancola_-_The_One_Ring.jpeg/320px-Donato_Giancola_-_The_One_Ring.jpeg" decoding="async" loading="lazy" width="320" height="270" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/78/Donato_Giancola_-_The_One_Ring.jpeg/480px-Donato_Giancola_-_The_One_Ring.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/7/78/Donato_Giancola_-_The_One_Ring.jpeg/640px-Donato_Giancola_-_The_One_Ring.jpeg 2x" data-file-width="1600" data-file-height="1352"/></a><figcaption>&#34;The One Ring&#34; by <a href="../D/Donato_Giancola.md" title="Donato Giancola">Donato Giancola</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Inscription</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ring-inscription</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">Bài thơ vòng, bài thơ vòng</td></tr><tr><th scope="row" class="tg-infobox-label">Ngoại hình</th><td class="tg-infobox-data"><a href="../B/Black_Speech.md" title="Black Speech">Hắc Ngữ</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người sáng tạo</th><td class="tg-infobox-data"><a href="../S/Sauron.md" title="Sauron">Sauron</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Âm thanh</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><span class="mw-default-size" typeof="mw:File"><audio src="https://tolkiengateway.net/w/images/b/bf/J.R.R._Tolkien_-_The_Ring_Verse.mp3" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_The_Ring_Verse.mp3">https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_The_Ring_Verse.mp3</a></audio></span></td></tr><tr><td colspan="2" class="tg-infobox-caption"><i>Verse of the Rings</i>, được đọc bởi <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Donato_Giancola_-_The_One_Ring.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/78/Donato_Giancola_-_The_One_Ring.jpeg/320px-Donato_Giancola_-_The_One_Ring.jpeg" decoding="async" loading="lazy" width="320" height="270" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/78/Donato_Giancola_-_The_One_Ring.jpeg/480px-Donato_Giancola_-_The_One_Ring.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/7/78/Donato_Giancola_-_The_One_Ring.jpeg/640px-Donato_Giancola_-_The_One_Ring.jpeg 2x" data-file-width="1600" data-file-height="1352"/></a><figcaption>&#34;The One Ring&#34; by <a href="../D/Donato_Giancola.md" title="Donato Giancola">Donato Giancola</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Inscription</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ring-inscription</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Ring-verse, Ring poem</td></tr><tr><th scope="row" class="tg-infobox-label">Appearance</th><td class="tg-infobox-data"><a href="../B/Black_Speech.md" title="Black Speech">Black Speech</a></td></tr><tr><th scope="row" class="tg-infobox-label">Creator</th><td class="tg-infobox-data"><a href="../S/Sauron.md" title="Sauron">Sauron</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Audio</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><span class="mw-default-size" typeof="mw:File"><audio src="https://tolkiengateway.net/w/images/b/bf/J.R.R._Tolkien_-_The_Ring_Verse.mp3" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_The_Ring_Verse.mp3">https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_The_Ring_Verse.mp3</a></audio></span></td></tr><tr><td colspan="2" class="tg-infobox-caption"><i>Verse of the Rings</i>, recited by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</td></tr></tbody></table>
 
 **Dòng chữ trên chiếc nhẫn**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một dòng chữ [Hắc Ngữ](../B/Black_Speech.md)<sup id="cite_ref-Council_2-0" class="reference"><a href="#cite_note-Council-2">[2]</a></sup> trong [Tengwar](../T/Tengwar.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> trên [Một chiếc nhẫn](../O/One_Ring.md), tượng trưng cho sức mạnh của chiếc nhẫn trong việc kiểm soát [Những Chiếc Nhẫn Quyền Năng](Rings_of_Power.md) chiếc kia và có lẽ là một phần thực sự trong sức mạnh của nó.
 
@@ -50,11 +50,11 @@ Khi [Isildur](../I/Isildur.md) cắt chiếc nhẫn ra khỏi tay Sauron, nó r�
 
 [Gandalf](../G/Gandalf.md) lần đầu tiên biết đến dòng chữ này khi anh đọc [tài khoản](../S/Scroll_of_Isildur.md) mà Isildur đã viết trước khi hành quân về phía bắc đến [cái chết](../D/Disaster_of_the_Gladden_Fields.md) và sự mất mát của Chiếc nhẫn.<sup id="cite_ref-Council_2-2" class="reference"><a href="#cite_note-Council-2">[2]</a></sup> Sau đó, khi Gandalf đốt nóng chiếc nhẫn [Bilbo Baggins](../B/Bilbo_Baggins.md) đã tìm thấy và chuyển cho [Frodo](../F/Frodo_Baggins.md), dòng chữ xuất hiện, khiến anh không còn nghi ngờ gì rằng đó chính là Chiếc nhẫn Một.<sup id="cite_ref-Shadow_5-1" class="reference"><a href="#cite_note-Shadow-5">[5]</a></sup>
 
-Rất lâu trước đó, khi tạo ra Chiếc Nhẫn Chúa, những người thợ rèn [Eregion](../E/Eregion.md) đã rèn [Những Chiếc Nhẫn Quyền Năng](Rings_of_Power.md) chiếc kia đã nghe thấy trong tâm trí họ giọng nói của [Sauron](../S/Sauron.md), đọc thuộc lòng các từ đó. Sau đó, họ nhận ra kế hoạch của ông, tháo nhẫn ra khỏi ngón tay của họ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Rất lâu trước đó, khi tạo ra Chiếc Nhẫn Chúa, những người thợ rèn [Eregion](../E/Eregion.md) đã rèn [Những Chiếc Nhẫn Quyền Năng](Rings_of_Power.md) chiếc kia đã nghe thấy trong tâm trí họ giọng nói của [Sauron](../S/Sauron.md), đọc thuộc lòng các từ đó. Sau đó, họ nhận ra kế hoạch của ông ta, tháo nhẫn ra khỏi ngón tay của họ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Bản dịch {#Translation}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/8/85/Christopher_Lee_-_Ring_Poem_Black_Speech.mp3" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:Christopher_Lee_-_Ring_Poem_Black_Speech.mp3">https://tolkiengateway.net/wiki/File:Christopher_Lee_-_Ring_Poem_Black_Speech.mp3</a></audio><figcaption><a href="../C/Christopher_Lee.md" title="Christopher Lee">Christopher Lee</a> đọc <a href="../B/Black_Speech.md" title="Black Speech">Hắc Ngữ</a> khắc trên Nhẫn</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/8/85/Christopher_Lee_-_Ring_Poem_Black_Speech.mp3" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:Christopher_Lee_-_Ring_Poem_Black_Speech.mp3">https://tolkiengateway.net/wiki/File:Christopher_Lee_-_Ring_Poem_Black_Speech.mp3</a></audio><figcaption><a href="../C/Christopher_Lee.md" title="Christopher Lee">Christopher Lee</a> reads the <a href="../B/Black_Speech.md" title="Black Speech">Black Speech</a> of the Ring-inscription</figcaption></figure>
 
 Dòng chữ ghi:<sup id="cite_ref-Council_2-3" class="reference"><a href="#cite_note-Council-2">[2]</a></sup>
 
@@ -71,14 +71,14 @@ Dịch đại khái những từ này có nghĩa là:<sup id="cite_ref-Shadow_5-
 Tại một thời điểm nào đó sau khi trao nhẫn, một câu thơ đã được viết và lưu giữ như một phần của Tiên-lore:<sup id="cite_ref-Shadow_5-4" class="reference"><a href="#cite_note-Shadow-5">[5]</a></sup>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Ba Chiếc Nhẫn dành cho Tiên-vị vua dưới bầu trời,<br/>
-Bảy cho các Người Lùn-lãnh chúa trong đại sảnh bằng đá của họ,<br/>
-Chín cho phàm nhân Con Người phải chết,<br/>
-Một cho Chúa tể Bóng tối trên ngai vàng đen tối của hắn<br/>
-Ở Vùng đất Mordor nơi Bóng tối ngự trị.<br/>
-   Nhẫn Chúa để thống trị tất cả, Nhẫn Chúa để tìm ra chúng,<br/>
-   Nhẫn Chúa để mang tất cả bọn họ đi và trói họ lại trong bóng tối<br/>
-Ở Vùng đất Mordor nơi Bóng tối ngự trị.<i></i>
+<p>Three Rings for the Elven-kings under the sky,<br/>
+Seven for the Dwarf-lords in their halls of stone,<br/>
+Nine for Mortal Men doomed to die,<br/>
+One for the Dark Lord on his dark throne<br/>
+In the Land of Mordor where the Shadows lie.<br/>
+   One Ring to rule them all, One Ring to find them,<br/>
+   One Ring to bring them all, and in the darkness bind them<br/>
+In the Land of Mordor where the Shadows lie.<i></i>
 </p>
 </div>
 
@@ -91,11 +91,11 @@ Một cho Chúa tể Bóng tối trên ngai vàng đen tối của hắn<br/>
 [Christopher Tolkien](../C/Christopher_Tolkien.md) cung cấp các phiên bản đầu tiên của Ring-verse, thể hiện các cách bố trí khác nhau của Những Chiếc Nhẫn Quyền Năng:<sup id="cite_ref-Note14_9-0" class="reference"><a href="#cite_note-Note14-9">[8]</a></sup>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Chín cho Tiên-vị vua dưới trăng và sao,<br/>
-Bảy cho các Người Lùn-lãnh chúa trong đại sảnh bằng đá của họ,<br/>
-Ba cho phàm nhân Con Người lang thang xa,<br/>
-Một cho Chúa tể Bóng tối trên ngai vàng đen tối của hắn<br/>
-Ở Vùng đất Mor-dor, nơi bóng tối ngự trị.<br/>
+<p>Nine for the Elven-kings under moon and star,<br/>
+Seven for the Dwarf-lords in their halls of stone,<br/>
+Three for Mortal Men that wander far,<br/>
+One for the Dark Lord on his dark throne<br/>
+In the Land of Mor-dor where the shadows are.<br/>
 ...
 </p>
 </div>
@@ -103,9 +103,9 @@ Một cho Chúa tể Bóng tối trên ngai vàng đen tối của hắn<br/>
 Và
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Mười hai cho phàm nhân Con Người phải chết,<br/>
-Chín cho các Người Lùn-lãnh chúa trong đại sảnh bằng đá của họ,<br/>
-Ba vị dành cho Tiên-vị vua của đất, biển và bầu trời<br/>
+<p>Twelve for Mortal Men doomed to die,<br/>
+Nine for the Dwarf-lords in their halls of stone,<br/>
+Three for the Elven-kings of earth, sea, and sky<br/>
 ...
 </p>
 </div>
@@ -114,39 +114,39 @@ Ba vị dành cho Tiên-vị vua của đất, biển và bầu trời<br/>
 
 <b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
-<dl><dd>Dòng chữ trên chiếc nhẫn đặt ra một lỗ hổng cốt truyện trong phim. Gandalf khiến Frodo ném Chiếc nhẫn vào lò sưởi, và sau đó cả hai đều nhận thấy trời lạnh. Chữ khắc trên Nhẫn không xuất hiện và cũng không được đề cập đến, mặc dù Gandalf có đọc câu kệ; tất cả những điều này vẫn tồn tại mà không đưa ra bất kỳ lời giải thích nào tại sao Chiếc nhẫn lại bị ném vào lò sưởi ngay từ đầu, vì dòng chữ không tồn tại không phải là vấn đề.</dd></dl>
+<dl><dd>The Ring-inscription poses a plot gap in the movie. Gandalf makes Frodo throw the Ring in the fireplace, and later they both notice it is cold. The Ring-inscription does not appear nor is mentioned, although Gandalf recites the verse; all these remain without giving any explanation why the Ring was thrown in the fireplace in the first place, since the non-existent inscription was not the point.</dd></dl>
 
 <b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
-<dl><dd>Các từ Hắc Ngữ tạo thành âm thanh "nền" trong nhiều cảnh khác nhau về Chiếc nhẫn và Gandalf nói chúng tại Hội đồng Elrond.</dd></dl>
+<dl><dd>The Black Speech words form the &#34;background&#34; sound in various scenes about the Ring, and Gandalf speaks them at the Council of Elrond.</dd></dl>
 
 <b>2001-2003: <a class="mw-redirect" href="../P/Pán_prsteňov_(2001-2003_Slovak_radio_series).md" title="Pán prsteňov (2001-2003 Slovak radio series)"><i>Pán prsteňov</i> (Loạt đài tiếng Slovak 2001-2003)</a>:</b>
 
-<dl><dd>Ring-verse được nghe trong chủ đề mở đầu và kết thúc chính của loạt phim phát thanh, do Soňa Norisová (người cũng đóng vai Galadriel) hát. Phiên bản tiêu đề mở đầu của chúng cũng bao gồm lời tường thuật mở đầu của bộ truyện, bởi Bilbo Baggins (Marián Labuda) với tư cách là người biên niên sử của Cuộc chiến Nhẫn. Chủ đề do Peter Mankovecký sáng tác và <a class="extiw" href="http://en.wikipedia.org/wiki/Slovak_Radio_Symphonic_Orchestra" title="wikipedia:Slovak Radio Symphonic Orchestra">Dàn nhạc giao hưởng đài phát thanh Slovakia</a> và dàn hợp xướng của dàn nhạc chuyển thể.</dd></dl>
+<dl><dd>The Ring-verse is heard in the main opening and closing theme of the radio series, sung by Soňa Norisová (who also portrays Galadriel). The opening titles version of the them also includes the opening narration of the series, by Bilbo Baggins (Marián Labuda) as the chronicler of the War of the Ring. The theme was composed by Peter Mankovecký and adapted by the <a class="extiw" href="http://en.wikipedia.org/wiki/Slovak_Radio_Symphonic_Orchestra" title="wikipedia:Slovak Radio Symphonic Orchestra">Slovak Radio Symphonic Orchestra</a> and its choir.</dd></dl>
 
 <b>2001-03: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>:</b>
 
-<dl><dd>Trong cuốn sách, Gandalf đề cập đến cụm từ Hắc Ngữ trong <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Hội đồng Elrond</a> để chứng minh mối quan tâm của mình về Chiếc nhẫn, bầu không khí u ám và Tiên tộc dường như đau khổ khi nghe những lời đó. Trong <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">bộ phim đầu tiên</a> ông thốt ra những lời đó trong khi những người tham gia bắt đầu tranh cãi và la hét nhằm "làm tối" bầu không khí và khiến họ dừng lại. Nó không được đề cập ở bất cứ đâu trong bối cảnh rằng những dòng này là dòng chữ của Chiếc nhẫn và ông trông giống như đang tạo ra một "bùa chú". Sự kiện đó gây ra một chút tranh cãi đối với những người hâm mộ sách, vì nó giống như bằng cách nào đó Gandalf đã sử dụng Bóng Tối để lập lại trật tự, thực hiện " <a href="../M/Magic.md" title="Magic">ma thuật đen tối</a>"<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>.</dd></dl>
+<dl><dd>In the book, Gandalf mentions the Black Speech phrase in the <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Council of Elrond</a> in order to prove his concerns about the Ring, the atmosphere darkens and the Elves seem to suffer to hear the words. In <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">the first film</a> he utters the words while the participants begin to argue and shout in order to &#34;darken&#34; the atmosphere and make them stop. It is not mentioned anywhere in the context that these lines were the inscription of the Ring and he appeared like as he was conjuring a &#34;spell&#34;. That event was a bit controversial to the fans of the books, since it was like somehow Gandalf made use of the Shadow in order to restore order, performing thus &#34;dark <a href="../M/Magic.md" title="Magic">magic</a>&#34;<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>.</dd></dl>
 
 <b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 
-<dl><dd>Dòng chữ trên chiếc nhẫn chỉ được tìm thấy ở mặt ngoài của chiếc nhẫn. Gandalf nói các từ này nhiều lần, cả bằng Bag End và Rivendell. Phiên bản Hắc Ngữ cũng có thể được tìm thấy trên bìa và đĩa, tuy nhiên, nó được viết với chất lượng kém <a href="../A/Angerthas_Erebor.md" title="Angerthas Erebor">Angerthas Erebor</a>. Một người viết không quen với <a class="mw-redirect" href="../D/Daniel_Steven_Smith.md#Keymapping" title="Daniel Steven Smith">giá trị bàn phím</a> của hầu hết các <a href="../F/Fonts.md" title="Fonts">Elvish phông chữ</a> chỉ cần gõ "a-s-h n-a-z-g (et cetera)", do đó rune đọc là "l-lh-ng ô-l-e-s (et cetera)" theo đúng Angerthas Erebor.</dd></dl>
+<dl><dd>The Ring-inscription is found only on the outer side of the ring. Gandalf speaks the words several times, both in Bag End and Rivendell. The Black Speech version can also be found on the cover art and disc, however, it is written in poor quality <a href="../A/Angerthas_Erebor.md" title="Angerthas Erebor">Angerthas Erebor</a>. A writer who was unfamiliar with the <a class="mw-redirect" href="../D/Daniel_Steven_Smith.md#Keymapping" title="Daniel Steven Smith">keyboard values</a> of most <a href="../F/Fonts.md" title="Fonts">Elvish fonts</a> simply typed &#34;a-s-h n-a-z-g (et cetera)&#34;, so the runes read &#34;l-lh-ng ô-l-e-s (et cetera)&#34; in proper Angerthas Erebor.</dd></dl>
 
 <b>2014: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i>:</b>
 
-<dl><dd>Hai dòng đầu tiên của Ring-verse được nói bằng Hắc Ngữ bởi <a href="../S/Sauron.md" title="Sauron">Necromancer</a> trong Dol Guldur, sau đó Galadriel nói dòng thứ ba trong Westron khi chín <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> xuất hiện và bao quanh bà.</dd></dl>
+<dl><dd>The first two lines of the Ring-verse are spoken in Black Speech by the <a href="../S/Sauron.md" title="Sauron">Necromancer</a> in Dol Guldur, then Galadriel speaks the third line in Westron as the nine <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> appear and surround her.</dd></dl>
 
 <b>2014: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a></i>:</b>
 
-<dl><dd>Những lời của Dòng chữ trên chiếc nhẫn trong Hắc Ngữ được hô vang trong đoạn phim mở đầu và được trích dẫn nhiều lần trong suốt trò chơi, đặc biệt là khi đánh lạc hướng kẻ thù khi có thể nghe thấy từ "Ash Nazg" đang được Wraith thì thầm.</dd></dl>
+<dl><dd>The words of the Ring-inscription in the Black Speech are chanted in the opening cinematic and are quoted several times throughout the game, especially when distracting enemies where the words &#34;Ash Nazg&#34; can be heard being whispered by the Wraith.</dd></dl>
 
-<b>2017: <i><a class="mw-redirect" href="../L/Lord_of_the_Rings_Online.md#Mordor_Expansion" title="Lord of the Rings Online">The Lord of the Rings Online: Mordor</a></i>:</b>
+<b>2017: <i><a class="mw-redirect" href="../L/Lord_of_the_Rings_Online.md#Mordor_Expansion" title="Lord of the Rings Online">The Lord of the Rings Trực tuyến: Mordor</a></i>:</b>
 
-<dl><dd>Lời của Ring-verse trong Hắc Ngữ, cùng với tên Sauron được sử dụng làm lời bài hát trong ca khúc "Chant for Sauron", sáng tác bởi <a href="../C/Chance_Thomas.md" title="Chance Thomas">Chance Thomas</a>. Bản thân bài hát này đã có trong trò chơi kể từ bản mở rộng <i><a class="mw-redirect" href="../L/Lord_of_the_Rings_Online.md#Mines_of_Moria_Expansion" title="Lord of the Rings Online">Mines of Moria</a></i>, được sử dụng làm nhạc nền trong trận đấu trùm chống lại Caerlûg ở Nala-dûm, nhưng lần đầu tiên được phát hành dưới dạng nhạc nền chính thức với bản mở rộng <i>Mordor</i>.</dd></dl>
+<dl><dd>The words of the Ring-verse in the Black Speech, along with Sauron&#39;s name are used as lyrics in the track &#34;Chant for Sauron&#34;, composed by <a href="../C/Chance_Thomas.md" title="Chance Thomas">Chance Thomas</a>. The track itself has been in the game ever since the <i><a class="mw-redirect" href="../L/Lord_of_the_Rings_Online.md#Mines_of_Moria_Expansion" title="Lord of the Rings Online">Mines of Moria</a></i> expansion, used as background music during the boss fight against Caerlûg in Nala-dûm, but was first released in an official soundtrack with the <i>Mordor</i> expansion.</dd></dl>
 
 <b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
 
-<dl><dd>Ring-verse được hát trong phần credit cuối của <i><a href="../A/Alloyed.md" title="Alloyed">Alloyed</a></i>. Theo <a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a>, các chủ đề dẫn đến bài hát được xây dựng xuyên suốt mùa đầu tiên.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup></dd></dl>
+<dl><dd>The Ring-verse is sung during the end credits of <i><a href="../A/Alloyed.md" title="Alloyed">Alloyed</a></i>. According to <a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a>, there is a build-up in themes that lead to the song throughout the first season.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup></dd></dl>
 
 ## Xem thêm {#See_also}
 

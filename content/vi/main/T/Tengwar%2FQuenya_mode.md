@@ -14,7 +14,7 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="Tengwar.md" title="Tengwar">Tengwar</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Tengwar.md" title="Tengwar">Tengwar</a></b></div></div>
 
 **Quenya chế độ** là tên phương thức viết của [Quenya](../Q/Quenya.md) sử dụng [Tengwar](Tengwar.md).
 
@@ -26,7 +26,7 @@ Khác với Rúmil, Fëanor coi nguyên âm là âm thanh độc lập chứ kh�
 
 Tuy nhiên Fëanor cũng sử dụng một hệ thống 'bảo thủ' hơn mà dường như đã được chứng minh là phổ biến hơn nhiều; ông giữ ý tưởng của Rúmil về phân tích âm tiết các từ của người Sarati và cũng sử dụng [tehtar](Tehtar.md) (thay vì các chữ cái đầy đủ).<sup id="cite_ref-ApD_2-2" class="reference"><a href="#cite_note-ApD-2">[2]</a></sup>
 
-Mặc dù Fëanor là người nói Quenya nhưng có thể ông đã không phát minh ra Tengwar với mục đích cụ thể là Quenya, vì âm vị học Quenya nghiêm ngặt không hoàn toàn phù hợp một cách nhất quán. Nhiều khả năng là Tengwar được tạo ra dưới dạng [mẫu âm vị học chung](Tengwar.md#Structure),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> mà sau này ông "khớp" các âm thanh Quenya một cách nhất quán nhất có thể
+Mặc dù Fëanor là người nói Quenya nhưng có thể ông ta đã không phát minh ra Tengwar với mục đích cụ thể là Quenya, vì âm vị học Quenya nghiêm ngặt không hoàn toàn phù hợp một cách nhất quán. Nhiều khả năng là Tengwar được tạo ra dưới dạng [mẫu âm vị học chung](Tengwar.md#Structure),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> mà sau này ông ta "khớp" các âm thanh Quenya một cách nhất quán nhất có thể
 
 ## Lịch sử và sự tiến hóa {#History_and_evolution}
 
@@ -78,23 +78,23 @@ Những cái tên này chỉ được biết đến từ bảng Thời đại th
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">!</span>
 </td>
-<td>t<sup>h</sup><br/>lớp mở rộng<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[1 2]</a></sup>
+<td>t<sup>h</sup><br/>extended grade<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[1 2]</a></sup>
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">!Ö</span>
 </td>
-<td>t<sup>h</sup><br/>lớp mở rộng
+<td>t<sup>h</sup><br/>extended grade
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">Q</span>
 </td>
-<td>p<sup>h</sup><br/>lớp mở rộng
+<td>p<sup>h</sup><br/>extended grade
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">A</span>
 </td>
-<td>k<sup>h</sup><br/>lớp mở rộng
+<td>k<sup>h</sup><br/>extended grade
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">Z</span>
 </td>
-<td>k<sup>h</sup>w<br/>lớp mở rộng
+<td>k<sup>h</sup>w<br/>extended grade
 </td></tr>
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">2</span>
@@ -202,7 +202,7 @@ Những cái tên này chỉ được biết đến từ bảng Thời đại th
 <td>w<br/>Wilya
 </td></tr>
 <tr>
-<th colspan="10"><b>Tengwar bổ sung:</b>
+<th colspan="10"><b>Additional Tengwar:</b>
 </th></tr>
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">7</span>
@@ -265,12 +265,12 @@ Những cái tên này chỉ được biết đến từ bảng Thời đại th
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">`</span>
 </td>
-<td>*(nhà mạng ngắn)<br/>?Telco
+<td>*(short carrier)<br/>?Telco
 </td></tr>
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">~</span>
 </td>
-<td>(tàu chở hàng dài)
+<td>(long carrier)
 </td>
 <td colspan="10">
 </td></tr>
@@ -279,7 +279,7 @@ Những cái tên này chỉ được biết đến từ bảng Thời đại th
 #### Ghi chú {#Notes}
 
 <small><div class="mw-references-wrap mw-references-columns"><ol class="references">
-<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Quenya cũng sử dụng chuỗi vòm, Tyelpetéma. Christopher Tolkien, người đã công bố những cái tên, lưu ý rằng những cái tên này được đưa ra theo một số công thức khác nhau và ông không thể xác định đâu là công thức tiêu chuẩn. Sự khác biệt duy nhất so với Tincotéma là các chấm ở dưới (đối với tengwar có thân nhô cao) và các chấm quá đậm (đối với tengwar có thân hạ thấp). Những tengwar đó, không có trong bảng, chắc chắn đã bị loại bỏ khỏi các chữ cái tiêu chuẩn.</span>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Quenya cũng sử dụng chuỗi vòm, Tyelpetéma. Christopher Tolkien, người đã công bố những cái tên, lưu ý rằng những cái tên này được đưa ra theo một số công thức khác nhau và ông ta không thể xác định đâu là công thức tiêu chuẩn. Sự khác biệt duy nhất so với Tincotéma là các chấm ở dưới (đối với tengwar có thân nhô cao) và các chấm quá đậm (đối với tengwar có thân hạ thấp). Những tengwar đó, không có trong bảng, chắc chắn đã bị loại bỏ khỏi các chữ cái tiêu chuẩn.</span>
 </li>
 <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Bảng chữ cái Fëanore ban đầu chứa một Lớp thân "mở rộng", cả nâng lên và hạ xuống. Việc sử dụng những tengwar đó (nếu có tên thì tất nhiên là không rõ) là để biểu thị những âm thanh có âm thanh. Như chúng ta đã biết, không có ngôn ngữ Amanya nào sở hữu các âm xát, vì các âm xát Nguyên thủy <i>th, ph</i>và <i>kh</i> đã trở thành <i>th, f</i> và <i>ch</i> trong Quenya. Có thể chúng đã được sử dụng để ghi lại Valarin hoặc có thể là các dạng cổ xưa.</span>
 </li>
@@ -299,7 +299,7 @@ Những cái tên này chỉ được biết đến từ bảng Thời đại th
 </li>
 <li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">Hình dạng của Yanta gợi nhớ đến chữ cái Rúmilian cho <i>y</i>. Nó cũng có thể đại diện cho âm này (Yanta có thể viết *<span class="tg-tengwar tg-tengwar--tengwar_eldamar">lD4#</span>, trong khi từ này nên đọc **<i>ainta</i> trong cách đánh vần Thời đại thứ 3). Trong các ví dụ đã được chứng thực của chúng tôi về các văn bản Thời đại thứ 3, nó chỉ xuất hiện dưới dạng -<i>i</i> của các âm đôi (trong <span class="tg-tengwar tg-tengwar--tengwar_eldamar">lE</span>, <span class="tg-tengwar tg-tengwar--tengwar_eldamar">lH</span> <i>ai</i>, <i>oi</i>, v.v.). Có lẽ ví dụ. <i>tuilë</i> ban đầu được đánh vần là *<span class="tg-tengwar tg-tengwar--tengwar_eldamar">1UlUj$</span> (<i>tuyulë</i>) giống như trong chính tả tiếng Rúmilian, trước khi được đơn giản hóa thành <span class="tg-tengwar tg-tengwar--tengwar_eldamar">1lUj$</span>. Cf. Úre.</span>
 </li>
-<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">Bên cạnh đó, trong các ví dụ được chứng thực ở Thời đại thứ 3, Úre xuất hiện với tư cách là -<i>u</i> của các cặp đôi (<span class="tg-tengwar tg-tengwar--tengwar_eldamar">.D</span>, <span class="tg-tengwar tg-tengwar--tengwar_eldamar">.F</span> <i>au</i>, <i>eu</i> v.v.), bản thân cách sử dụng ban đầu và mối quan hệ từ nguyên với từ <i>úrë</i> vẫn chưa được biết. Vì nó được chứng thực bằng nguyên âm đôi trong các mẫu của chúng tôi giống như Yanta, nên chúng tôi có thể cho rằng nó được sử dụng cho âm liên thanh <i>w</i>, sau này trở thành <i>v</i>. Có lẽ <i>taurë</i> ban đầu được đánh vần là *<span class="tg-tengwar tg-tengwar--tengwar_eldamar">1D.D7R</span> (<i>tawarë</i>) trước khi được đơn giản hóa thành <span class="tg-tengwar tg-tengwar--tengwar_eldamar">1.D7R</span>, trong khi đối với <i>w</i>ban đầu, chỉ có Wilya được sử dụng. Jim Allan gợi ý rằng <i>úre</i> nên được viết là <span class="tg-tengwar tg-tengwar--tengwar_eldamar">.J7R</span>, một hàm gợi nhớ đến cách viết tiếng Rúmilian của từ dài <i>u</i>… – hoặc có thể nó được sử dụng như <i>u</i> trong Quanta Sarme, giống như trong Kiểu Beleriand? Cf. Yanta.</span>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">Bên cạnh đó, trong các ví dụ được chứng thực ở Thời đại thứ 3, Úre xuất hiện với tư cách là -<i>u</i> của các cặp đôi (<span class="tg-tengwar tg-tengwar--tengwar_eldamar">.D</span>, <span class="tg-tengwar tg-tengwar--tengwar_eldamar">.F</span> <i>au</i>, <i>eu</i> v.v.), bản thân cách sử dụng ban đầu và mối quan hệ từ nguyên với từ <i>úrë</i> vẫn chưa được biết. Vì nó được chứng thực bằng nguyên âm đôi trong các mẫu của chúng tôi giống như Yanta, nên chúng tôi có thể cho rằng nó được sử dụng cho âm liên thanh <i>w</i>, sau này trở thành <i>v</i>. Có lẽ <i>taurë</i> ban đầu được đánh vần là *<span class="tg-tengwar tg-tengwar--tengwar_eldamar">1D.D7R</span> (<i>tawarë</i>) trước khi được đơn giản hóa thành <span class="tg-tengwar tg-tengwar--tengwar_eldamar">1.D7R</span>, trong khi đối với <i>w</i>ban đầu, chỉ có Wilya được sử dụng. Jim Allan gợi ý rằng <i>úre</i> nên được viết là <span class="tg-tengwar tg-tengwar--tengwar_eldamar">.J7R</span>, một hàm gợi nhớ đến cách viết tiếng Rúmilian của từ dài <i>u</i>… – hoặc có thể nó được sử dụng như <i>u</i> trong Quanta Sarme, giống như trong Chế độ của Beleriand? Cf. Yanta.</span>
 </li>
 <li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><b>Halla</b> đại diện cho hơi thở cổ xưa <i>h</i>, tồn tại từ chữ H nguyên thủy chỉ trong các ngôn ngữ Amanye, trong khi Charma đại diện cho <i>ch</i>, bắt nguồn từ nguyên thủy KH. Vấn đề là <i>h</i> của từ <i>halla</i> phát triển từ âm sau: KHAL > <i>*khallâ > halla</i>, do đó được phát âm là <i>*challa</i> trong thời của Fëanor. Chúng tôi đi đến kết luận rằng phải có một cái tên cổ xưa khác không được ghi lại cho bức thư này có âm thanh hơi thở <i>h</i>!</span>
 </li>
@@ -452,7 +452,7 @@ Trong [Kỷ Đệ Nhị](../S/Second_Age.md), Quenya được nói và viết b�
 <td>w-<br/>Wilya
 </td></tr>
 <tr>
-<th colspan="10">Tengwar bổ sung:
+<th colspan="10">Additional Tengwar:
 </th></tr>
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">7</span>
@@ -503,11 +503,11 @@ Trong [Kỷ Đệ Nhị](../S/Second_Age.md), Quenya được nói và viết b�
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">`</span>
 </td>
-<td>(nhà cung cấp dịch vụ)<br/>Telco
+<td>(carrier)<br/>Telco
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">~</span>
 </td>
-<td>(người vận chuyển)<br/>Ára
+<td>(carrier)<br/>Ára
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">i</span>
 </td>
@@ -572,7 +572,7 @@ Trong [Kỷ Đệ Nhị](../S/Second_Age.md), Quenya được nói và viết b�
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5);" colspan="2"><a href="../L/Languages.md" title="Languages">Ngôn ngữ</a> và chữ viết trong tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a>
+<th align="center" style="background:var(--tg-color-surface-5);" colspan="2"><a href="../L/Languages.md" title="Languages">Languages</a> and scripts in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a>&#39;s works
 </th></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../E/Elvish.md" title="Elvish">Elvish</a>
@@ -580,7 +580,7 @@ Trong [Kỷ Đệ Nhị](../S/Second_Age.md), Quenya được nói và viết b�
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/Angerthas.md" title="Angerthas">Angerthas</a> (<a href="../A/Angerthas_Daeron.md" title="Angerthas Daeron">Angerthas Daeron</a>) · <a href="../A/Avarin.md" title="Avarin">Avarin</a> (<a class="mw-redirect" href="../E/East_Avarin.md" title="East Avarin">East</a> · <a class="mw-redirect" href="../N/North_Avarin.md" title="North Avarin">North</a> · <a class="mw-redirect" href="../W/West_Avarin.md" title="West Avarin">West</a>) · <a href="../C/Cirth.md" title="Cirth">Cirth</a> (<a href="../C/Certhas_Daeron.md" title="Certhas Daeron">Certhas Daeron</a>) · <a href="../C/Common_Eldarin.md" title="Common Eldarin">Common Eldarin</a> · <a href="../M/Mátengwië.md" title="Mátengwië">Mátengwië</a> · <a href="../M/Moon-letters.md" title="Moon-letters">Moon-letters</a> · <a class="mw-redirect" href="../N/Nandorin.md" title="Nandorin">Nandorin</a> · <a href="../P/Primitive_Quendian.md" title="Primitive Quendian">Primitive Quendian</a> · <a href="../Q/Quenya.md" title="Quenya">Quenya</a> (<a href="../E/Exilic_Quenya.md" title="Exilic Quenya">Exilic</a> · <a href="../V/Valinorean_Quenya.md" title="Valinorean Quenya">Valinorean</a> · <a class="mw-redirect" href="../V/Vanyarin_Quenya.md" title="Vanyarin Quenya">Vanyarin</a>) · <a href="../S/Sarati.md" title="Sarati">Sarati</a> · <a href="../S/Silvan_Elvish.md" title="Silvan Elvish">Silvan Elvish</a> · <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> (<a href="../D/Doriathrin.md" title="Doriathrin">Doriathrin</a> · <a href="../F/Falathrin.md" title="Falathrin">Falathrin</a> · <a href="../N/Númenórean_Sindarin.md" title="Númenórean Sindarin">Númenórean</a> · <a href="../N/North_Sindarin.md" title="North Sindarin">Mithrimin</a> · <a href="../O/Old_Sindarin.md" title="Old Sindarin">Old</a>) · <a href="Telerin.md" title="Telerin">Telerin</a> (<a href="../C/Common_Telerin.md" title="Common Telerin">Common</a>) · <a href="Tengwar.md" title="Tengwar">Tengwar</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../M/Mannish.md" title="Mannish">Thuộc về Con Người</a>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../M/Mannish.md" title="Mannish">Mannish</a>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/Adûnaic.md" title="Adûnaic">Adûnaic</a> · <a href="../D/Drúadan_language.md" title="Drúadan language">Drúadan</a> · <a href="../D/Dunlendish.md" title="Dunlendish">Dunlendish</a> · <a href="../H/Halethian.md" title="Halethian">Halethian</a> · <a href="../N/Northern_Mannish.md" title="Northern Mannish">Northern Mannish</a> (<a href="../L/Language_of_Dale.md" title="Language of Dale">Language of Dale</a> · <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a>) · <a href="../P/Pre-Númenórean.md" title="Pre-Númenórean">Pre-Númenórean</a> · <a href="Taliska.md" title="Taliska">Taliska</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Skirditaila&amp;action=edit&amp;redlink=1" title="Skirditaila (page does not exist)">Taliskan skirditaila</a> · <a href="../W/Westron.md" title="Westron">Westron</a> (<a href="../B/Bucklandish.md" title="Bucklandish">Bucklandish</a> · <a href="../H/Hobbitish.md" title="Hobbitish">Hobbitish</a>)
 </td></tr>
@@ -590,25 +590,25 @@ Trong [Kỷ Đệ Nhị](../S/Second_Age.md), Quenya được nói và viết b�
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/Angerthas.md" title="Angerthas">Angerthas</a> (<a href="../A/Angerthas_Erebor.md" title="Angerthas Erebor">Erebor</a> · <a href="../A/Angerthas_Moria.md" title="Angerthas Moria">Moria</a>) · <a href="../A/Aulëan.md" title="Aulëan">Aulëan</a> · <a href="../I/Iglishmêk.md" title="Iglishmêk">Iglishmêk</a> · <a href="../K/Khuzdul.md" title="Khuzdul">Khuzdul</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Khác
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Other
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../B/Black_Speech.md" title="Black Speech">Black Speech</a> · <a href="../M/Melkian.md" title="Melkian">Melkian</a> · <a href="../E/Entish.md" title="Entish">Old Entish</a> · <a href="../O/Orkish.md" title="Orkish">Orkish</a> · <a href="../V/Valarin.md" title="Valarin">Valarin</a> · <a href="../W/Wolf-language.md" title="Wolf-language">Wolf-language</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Huyền sử thời kỳ đầu
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Earlier legendarium
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../G/Gnomish.md" title="Gnomish">Gnomish</a> · <a href="../G/Gnomic_Letters.md" title="Gnomic Letters">Chữ Gnomic</a> · <a href="../G/Gondolinic_Runes.md" title="Gondolinic Runes">Rune Gondolinic</a> · <a href="../I/Ilkorin.md" title="Ilkorin">Ilkorin</a> · <a href="../K/Keladian.md" title="Keladian">Keladian</a> · <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> (<a href="../F/Fëanorian_dialect.md" title="Fëanorian dialect">Phương ngữ Fëanorian</a> · <a href="../K/Kornoldorin.md" title="Kornoldorin">Kornoldorin</a>) · <a href="../O/Oromëan.md" title="Oromëan">Oromëan</a> · <a href="../Q/Qenya.md" title="Qenya">Qenya</a> · <a href="../V/Valmaric_script.md" title="Valmaric script">Chữ Valmaric</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../G/Gnomish.md" title="Gnomish">Gnomish</a> · <a href="../G/Gnomic_Letters.md" title="Gnomic Letters">Gnomic Letters</a> · <a href="../G/Gondolinic_Runes.md" title="Gondolinic Runes">Gondolinic Runes</a> · <a href="../I/Ilkorin.md" title="Ilkorin">Ilkorin</a> · <a href="../K/Keladian.md" title="Keladian">Keladian</a> · <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> (<a href="../F/Fëanorian_dialect.md" title="Fëanorian dialect">Fëanorian dialect</a> · <a href="../K/Kornoldorin.md" title="Kornoldorin">Kornoldorin</a>) · <a href="../O/Oromëan.md" title="Oromëan">Oromëan</a> · <a href="../Q/Qenya.md" title="Qenya">Qenya</a> · <a href="../V/Valmaric_script.md" title="Valmaric script">Valmaric script</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Ngoài huyền sử
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Outside the legendarium
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/Animalic.md" title="Animalic">Animalic</a> · <a href="../A/Arktik.md" title="Arktik">Arktik</a> · <a href="../G/Gautisk.md" title="Gautisk">Gautisk</a> · <a href="../G/Goblin_Alphabet.md" title="Goblin Alphabet">Goblin Alphabet</a> · <a href="../M/Mágol.md" title="Mágol">Mágol</a> · <a href="../N/Naffarin.md" title="Naffarin">Naffarin</a> · <a href="../N/New_English_Alphabet.md" title="New English Alphabet">New English Alphabet</a> · <a href="../N/Nevbosh.md" title="Nevbosh">Nevbosh</a> · <a href="../P/Privata_Kodo_Skauta.md" title="Privata Kodo Skauta">Privata Kodo Skauta</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Thế giới thực
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Real-world
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../C/Celtic.md" title="Celtic">Celtic</a> · <a href="../M/Modern_English.md" title="Modern English">Tiếng Anh</a> (<a href="../O/Old_English.md" title="Old English">Cổ</a> · <a href="../M/Middle_English.md" title="Middle English">Trung</a> · <a href="../A/AB_language.md" title="AB language">AB</a>) · <a href="../F/Finnish.md" title="Finnish">Tiếng Phần Lan</a> · <a href="../N/North_Germanic_languages.md" title="North Germanic languages">Tiếng Đức</a> · <a href="../G/Gothic.md" title="Gothic">Tiếng Gothic</a> · <a href="../H/Hebrew.md" title="Hebrew">tiếng Hebrew</a> · <a href="../L/Latin.md" title="Latin">Tiếng Latinh</a> · <a href="../R/Runes.md" title="Runes">Bảng chữ cái runic</a> · <a href="../W/Welsh.md" title="Welsh">tiếng Wales</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../C/Celtic.md" title="Celtic">Celtic</a> · <a href="../M/Modern_English.md" title="Modern English">English</a> (<a href="../O/Old_English.md" title="Old English">Old</a> · <a href="../M/Middle_English.md" title="Middle English">Middle</a> · <a href="../A/AB_language.md" title="AB language">AB</a>) · <a href="../F/Finnish.md" title="Finnish">Finnish</a> · <a href="../N/North_Germanic_languages.md" title="North Germanic languages">Germanic</a> · <a href="../G/Gothic.md" title="Gothic">Gothic</a> · <a href="../H/Hebrew.md" title="Hebrew">Hebrew</a> · <a href="../L/Latin.md" title="Latin">Latin</a> · <a href="../R/Runes.md" title="Runes">Runic alphabet</a> · <a href="../W/Welsh.md" title="Welsh">Welsh</a>
 </td></tr>
 <tr>
-<td align="center" style="background: var(--tg-color-surface-3); font-size: 90%;" colspan="2"><i><a href="../A/Alphabet_of_Fëanor%253A_Numenian,_or_Westron,_Mode.md" title="Alphabet of Fëanor: Numenian, or Westron, Mode">Alphabet of Fëanor: Numenian, or Westron, Mode</a></i> · "<a href="../A/A_Secret_Vice.md" title="A Secret Vice">Một phó tướng bí mật</a>" (<i><a class="mw-redirect" href="../A/A_Secret_Vice_(book).md" title="A Secret Vice (book)">book</a></i>) · "<a href="The_Lhammas.md" title="The Lhammas">The Lhammas</a>" · "<a href="The_Tree_of_Tongues.md" title="The Tree of Tongues">Cây lưỡi</a>" · <a href="../S/Sub-creation.md" title="Sub-creation">Sáng tạo phụ</a>
+<td align="center" style="background: var(--tg-color-surface-3); font-size: 90%;" colspan="2"><i><a href="../A/Alphabet_of_Fëanor%253A_Numenian,_or_Westron,_Mode.md" title="Alphabet of Fëanor: Numenian, or Westron, Mode">Alphabet of Fëanor: Numenian, or Westron, Mode</a></i> · &#34;<a href="../A/A_Secret_Vice.md" title="A Secret Vice">A Secret Vice</a>&#34; (<i><a class="mw-redirect" href="../A/A_Secret_Vice_(book).md" title="A Secret Vice (book)">book</a></i>) · &#34;<a href="The_Lhammas.md" title="The Lhammas">The Lhammas</a>&#34; · &#34;<a href="The_Tree_of_Tongues.md" title="The Tree of Tongues">The Tree of Tongues</a>&#34; · <a href="../S/Sub-creation.md" title="Sub-creation">Sub-creation</a>
 </td></tr></tbody></table>

@@ -22,7 +22,7 @@ Vào [8 tháng 3](../_/8_March.md) [1956](../_/1956.md), [J.R.R. Tolkien](../J/J
 ## Nội dung {#Contents}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Nhận được thư của William Galbraith đề ngày <a href="../_/7_March.md" title="7 March">7 tháng 3</a> có thắc mắc về <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, Tolkien lập tức viết thư trả lời nhưng để nhầm và mãi đến <a href="../_/13_April.md" title="13 April">ngày 13 tháng 4</a> mới gửi đi. Ông hy vọng rằng có thể xuất bản chỉ mục mà ông đã bắt đầu, cũng như những thứ khác bị lược bỏ trong <i>The Lord of the Rings</i> vì lý do không gian và chi phí. Tất cả những gì cản trở việc xuất bản <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> là việc ông tìm được thời gian để chuẩn bị nó.
+<p>Having received a letter from William Galbraith dated <a href="../_/7_March.md" title="7 March">7 March</a> with questions about <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, Tolkien immediately writes a reply, but mislays it and does not send it until <a href="../_/13_April.md" title="13 April">13 April</a>. He hopes that it may be possible to publish the index he had begun, as well as other things omitted from <i>The Lord of the Rings</i> for reasons of space and cost. All that now impedes the publication of <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> is his finding time to prepare it.
 </p>
 <p class="tg-quote-footer"><cite><sup id="cite_ref-hammond_1-1" class="reference"><a href="#cite_note-hammond-1">[1]</a></sup></cite></p>
 </blockquote>

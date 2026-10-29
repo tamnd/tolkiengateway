@@ -30,9 +30,9 @@ infobox:
     value: "12+"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Cuộc chiến Nhẫn</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="War_of_the_Ring_(disambiguation).md" title="War of the Ring (disambiguation)">Cuộc chiến Nhẫn (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>War of the Ring</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="War_of_the_Ring_(disambiguation).md" title="War of the Ring (disambiguation)">War of the Ring (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/WotR_BoardGame_2011.webp.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a3/WotR_BoardGame_2011.webp/320px-WotR_BoardGame_2011.webp.png" decoding="async" loading="lazy" width="320" height="217" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a3/WotR_BoardGame_2011.webp/480px-WotR_BoardGame_2011.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a3/WotR_BoardGame_2011.webp/640px-WotR_BoardGame_2011.webp.png 2x" data-file-width="1200" data-file-height="814"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi bàn</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>War of the Ring: Second Edition</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà thiết kế</th><td class="tg-infobox-data">Roberto Di Meglio, Marco Maggi, <a href="../F/Francesco_Nepitello.md" title="Francesco Nepitello">Francesco Nepitello</a></td></tr><tr><th scope="row" class="tg-infobox-label">Họa sĩ minh họa</th><td class="tg-infobox-data">John Howe</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a class="mw-redirect" href="../A/ARES_Games~73366.md" title="ARES Games">ARES Games</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data"><a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người chơi</th><td class="tg-infobox-data">2-4</td></tr><tr><th scope="row" class="tg-infobox-label">Kỷ nguyên</th><td class="tg-infobox-data">12+</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/WotR_BoardGame_2011.webp.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a3/WotR_BoardGame_2011.webp/320px-WotR_BoardGame_2011.webp.png" decoding="async" loading="lazy" width="320" height="217" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a3/WotR_BoardGame_2011.webp/480px-WotR_BoardGame_2011.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a3/WotR_BoardGame_2011.webp/640px-WotR_BoardGame_2011.webp.png 2x" data-file-width="1200" data-file-height="814"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Board game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>War of the Ring: Second Edition</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data">Roberto Di Meglio, Marco Maggi, <a href="../F/Francesco_Nepitello.md" title="Francesco Nepitello">Francesco Nepitello</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">John Howe</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../A/ARES_Games~73366.md" title="ARES Games">ARES Games</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Players</th><td class="tg-infobox-data">2-4</td></tr><tr><th scope="row" class="tg-infobox-label">Ages</th><td class="tg-infobox-data">12+</td></tr></tbody></table>
 
 **Cuộc chiến Nhẫn: Phiên bản thứ hai** là phiên bản nâng cao và cập nhật của [trò chơi board game cùng tên năm 2004](<War_of_the_Ring_(2004_board_game).md>).
 
@@ -42,7 +42,7 @@ Cuộc chiến Nhẫn là trò chơi cờ hay nhất lấy cảm hứng từ THE
 
 Với tư cách là người chơi [Dân tộc Tự do](../F/Free_Peoples.md), bạn chỉ huy đội quân đáng tự hào của các vương quốc quan trọng nhất [Kỷ Đệ Tam](../T/Third_Age.md). Từ các chúa tể kỵ mã của Rohan đến những người lính của [Gondor](../G/Gondor.md) và các lãnh chúa Tiên của [Rivendell](../R/Rivendell.md), bạn sẽ lãnh đạo việc bảo vệ các vương quốc tự do cuối cùng của Trung Địa. Đối mặt với lũ tay sai độc ác của [Sauron](../S/Sauron.md) trên chiến trường trong nỗ lực tuyệt vọng nhằm trì hoãn cuộc tấn công dữ dội của chúng, trong khi bạn dẫn đầu Đoàn Hộ Nhẫn trong Nhiệm vụ tìm kiếm [Núi Diệt Vong](../M/Mount_Doom.md).
 
-Với tư cách là người chơi Bóng Tối, bạn sẽ lãnh đạo đám Chúa tể Bóng tối và tay sai mạnh nhất của hắn khi chúng cố gắng mang bóng tối đến Trung Địa. Quân đoàn [Orc](../O/Orcs.md), [Troll](../T/Trolls.md), [Wolfriders](Wolfriders.md) và [Nazgûl](../R/Ringwraiths.md) đáng sợ đang chờ lệnh của bạn. Săn [Người Mang Nhẫn](../R/Ring-bearer.md) và mang Chiếc nhẫn quý giá về cho Chủ nhân của ông hoặc tiêu diệt kẻ thù bằng đội quân không thể ngăn cản của bạn.
+Với tư cách là người chơi Bóng Tối, bạn sẽ lãnh đạo đám Chúa tể Bóng tối và tay sai mạnh nhất của hắn khi chúng cố gắng mang bóng tối đến Trung Địa. Quân đoàn [Orc](../O/Orcs.md), [Troll](../T/Trolls.md), [Wolfriders](Wolfriders.md) và [Nazgûl](../R/Ringwraiths.md) đáng sợ đang chờ lệnh của bạn. Săn [Người Mang Nhẫn](../R/Ring-bearer.md) và mang Chiếc nhẫn quý giá về cho Chủ nhân của ông ta hoặc tiêu diệt kẻ thù bằng đội quân không thể ngăn cản của bạn.
 
 ## Cách chơi {#Gameplay}
 
@@ -62,25 +62,25 @@ Mặc dù trò chơi là cuộc thi giữa các Dân tộc Tự do và Bóng T�
 <table>
 <tbody><tr>
 <td valign="top" align="center" style="font-size:20px;" colspan="2">Free-Peoples</td>
-<td align="center" style="font-size:20px;">Bóng Tối
+<td align="center" style="font-size:20px;">Shadow
 </td></tr>
 <tr>
 <td>
 <table class="wikitable" style="padding: 2px;" width="300px">
 <tbody><tr style="background:var(--tg-color-surface-3)">
-<th style="font-size:18px"><a href="../D/Dwarves.md" title="Dwarves">Người Lùn</a>
+<th style="font-size:18px"><a href="../D/Dwarves.md" title="Dwarves">Dwarves</a>
 </th></tr>
 <tr>
-<td>4 × Thủ lĩnh
+<td>4 x Leader
 <p>5 x Elite<br/>
 5 x Regular
 </p>
 </td></tr>
 <tr style="background:var(--tg-color-surface-3)">
-<th style="font-size:18px"><a href="../E/Elves.md" title="Elves">Tiên tộc</a>
+<th style="font-size:18px"><a href="../E/Elves.md" title="Elves">Elves</a>
 </th></tr>
 <tr>
-<td>4 × Thủ lĩnh
+<td>4 x Leader
 <p>10 x Elite<br/>
 5 x Regular
 </p>
@@ -89,7 +89,7 @@ Mặc dù trò chơi là cuộc thi giữa các Dân tộc Tự do và Bóng T�
 <th style="font-size:18px"><a href="../G/Gondor.md" title="Gondor">Gondor</a>
 </th></tr>
 <tr>
-<td>4 × Thủ lĩnh
+<td>4 x Leader
 <p>5 x Elite<br/>
 15 x Regular
 </p>
@@ -101,7 +101,7 @@ Mặc dù trò chơi là cuộc thi giữa các Dân tộc Tự do và Bóng T�
 <th style="font-size:18px"><a href="../N/Northmen.md" title="Northmen">The North</a>
 </th></tr>
 <tr>
-<td>4 × Thủ lĩnh
+<td>4 x Leader
 <p>5 x Elite<br/>
 10 x Regular
 </p>
@@ -110,7 +110,7 @@ Mặc dù trò chơi là cuộc thi giữa các Dân tộc Tự do và Bóng T�
 <th style="font-size:18px"><a href="../R/Rohan.md" title="Rohan">Rohan</a>
 </th></tr>
 <tr>
-<td>4 × Thủ lĩnh
+<td>4 x Leader
 <p>5 x Elite<br/>
 10 x Regular
 </p>
@@ -146,7 +146,7 @@ Mặc dù trò chơi là cuộc thi giữa các Dân tộc Tự do và Bóng T�
 
 ### Nhân vật {#Characters}
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/War_of_the_Ring_2011_Components.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/War_of_the_Ring_2011_Components.jpg/300px-War_of_the_Ring_2011_Components.jpg" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7d/War_of_the_Ring_2011_Components.jpg/450px-War_of_the_Ring_2011_Components.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7d/War_of_the_Ring_2011_Components.jpg/600px-War_of_the_Ring_2011_Components.jpg 2x" data-file-width="800" data-file-height="600"/></a><figcaption>Lựa chọn các mô hình nhân vật và thẻ bài</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/War_of_the_Ring_2011_Components.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/War_of_the_Ring_2011_Components.jpg/300px-War_of_the_Ring_2011_Components.jpg" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7d/War_of_the_Ring_2011_Components.jpg/450px-War_of_the_Ring_2011_Components.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7d/War_of_the_Ring_2011_Components.jpg/600px-War_of_the_Ring_2011_Components.jpg 2x" data-file-width="800" data-file-height="600"/></a><figcaption>Selection of character miniatures and cards</figcaption></figure>
 
 Ngoài quân đội dành riêng cho Quốc gia, cả Nhân dân Tự do và Lực lượng Bóng Tối đều phải bố trí các nhân vật độc đáo của mình một cách chiến lược.
 
@@ -158,7 +158,7 @@ Giống như trong văn bản nguồn, [The Fellowship of the Ring](../T/The_Fel
 Lực lượng Bóng Tối chỉ có một số ít nhân vật nhưng mạnh mẽ không kém. Ngoài Ring-wraith, Minion của Bóng Tối không bắt đầu trò chơi khi đang chơi mà thay vào đó được chiêu mộ khi hoàn cảnh yêu cầu.
 
 - Tám [Nazgûl](../N/Nazgûl.md) có thể nhanh chóng di chuyển khắp bản đồ theo yêu cầu, một số trong số đó được đặt sẵn khi trò chơi bắt đầu
-- Cô [Vua Phù thủy](Witch_King.md)
+- Cô [Phù thủy Vua](Witch_King.md)
 - [Saruman](../S/Saruman.md)
 - [Cái Miệng của Sauron](../T/The_Mouth_of_Sauron~36612.md)
 
@@ -229,7 +229,7 @@ Danh sách các địa điểm được nhóm lại một cách đại khái v�
 <td>North <a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered Luin</a> [Dwarves]
 </td></tr>
 <tr>
-<td><a href="../O/Old_Forest.md" title="Old Forest">Khu Rừng Cổ</a>
+<td><a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a>
 </td></tr>
 <tr>
 <td><a href="../R/Rivendell.md" title="Rivendell">Rivendell</a> [Elves SH]
@@ -264,7 +264,7 @@ Danh sách các địa điểm được nhóm lại một cách đại khái v�
 <td><a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a> [Gondor SH]
 </td></tr>
 <tr>
-<td><a href="../D/Dimrill_Dale.md" title="Dimrill Dale">Thung lũng Dimrill</a>
+<td><a href="../D/Dimrill_Dale.md" title="Dimrill Dale">Dimrill Dale</a>
 </td></tr>
 <tr>
 <td><a href="../D/Drúadan_Forest.md" title="Drúadan Forest">Drúadan Forest</a> [Gondor]
@@ -431,7 +431,7 @@ Danh sách các địa điểm được nhóm lại một cách đại khái v�
 <td>Western <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>
 </td></tr>
 <tr>
-<td><a href="Withered_Heath.md" title="Withered Heath">Hoang mạc Cằn Cỗi</a>
+<td><a href="Withered_Heath.md" title="Withered Heath">Withered Heath</a>
 </td></tr>
 <tr>
 <td><a href="Woodland_Realm.md" title="Woodland Realm">Woodland Realm</a> [Elves SH]
@@ -442,7 +442,7 @@ Danh sách các địa điểm được nhóm lại một cách đại khái v�
 </p>
 <table class="wikitable" style="padding: 2px;" width="250px">
 <tbody><tr>
-<td><a class="mw-redirect" href="../A/Ash_Mountains.md" title="Ash Mountains">Dãy Núi Tro Tàn</a>
+<td><a class="mw-redirect" href="../A/Ash_Mountains.md" title="Ash Mountains">Ash Mountains</a>
 </td></tr>
 <tr>
 <td><a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a> [Sauron SH]
@@ -451,7 +451,7 @@ Danh sách các địa điểm được nhóm lại một cách đại khái v�
 <td><a href="../D/Dagorlad.md" title="Dagorlad">Dagorlad</a>
 </td></tr>
 <tr>
-<td><a href="../D/Dead_Marshes.md" title="Dead Marshes">Đầm lầy Chết</a>
+<td><a href="../D/Dead_Marshes.md" title="Dead Marshes">Dead Marshes</a>
 </td></tr>
 <tr>
 <td>East <a class="mw-redirect" href="../H/Harondor.md" title="Harondor">Harondor</a>
@@ -466,7 +466,7 @@ Danh sách các địa điểm được nhóm lại một cách đại khái v�
 <td><a class="mw-redirect" href="../G/Gorgoroth.md" title="Gorgoroth">Gorgoroth</a> [Sauron]
 </td></tr>
 <tr>
-<td><a href="../H/High_Pass.md" title="High Pass">Đèo Cao</a>
+<td><a href="../H/High_Pass.md" title="High Pass">High Pass</a>
 </td></tr>
 <tr>
 <td><a href="../K/Khand.md" title="Khand">Khand</a> [S&amp;E]
@@ -531,13 +531,13 @@ Danh sách các địa điểm được nhóm lại một cách đại khái v�
 
 - [Tiên Nhẫn](../T/Three_Rings.md), những vật phẩm mạnh mẽ mà mỗi vật phẩm sẽ cấp thêm một viên xúc xắc Hành động trong khi chơi trò chơi, nhưng chỉ khi Thủ môn tương ứng của chúng đang hoạt động và ngay cả khi đó, sức mạnh của chúng cũng chỉ thoáng qua. Người canh giữ là:
     - Quý cô [Galadriel](../G/Galadriel.md), Người giữ [Nenya](../N/Nenya.md), người mà nếu Sauron hoặc Tiên tộc đang tham chiến, có thể chơi ở Lorien, nơi bà phải ở lại.
-    - Chúa [Elrond](../E/Elrond.md), Người canh giữ [Vilya](../V/Vilya.md), người nếu Sauron hoặc Tiên tộc đang tham chiến, có thể được chơi ở Rivendell, nơi ông phải ở lại.
+    - Chúa [Elrond](../E/Elrond.md), Người canh giữ [Vilya](../V/Vilya.md), người nếu Sauron hoặc Tiên tộc đang tham chiến, có thể được chơi ở Rivendell, nơi ông ta phải ở lại.
     - [Gandalf the Grey](../G/Gandalf_the_Grey.md), Người giữ [Narya](../N/Narya.md). Một phiên bản thay thế của Gandalf the Grey từ trò chơi cốt lõi, khám phá một thực tế thay thế nơi Gandalf sử dụng một cách công khai hơn sức mạnh của Chiếc nhẫn Tiên.
 - Nhân vật mới cho Lực lượng Bóng Tối:
-    - [Balrog Moria](../B/Balrog_of_Moria.md), có thể không hoạt động trong Moria, nhưng sau khi được giải phóng có thể đi lang thang trên bản đồ. Nó bổ sung một Xúc xắc Hành động Minion Nhỏ hơn đặc biệt vào nhóm Xúc xắc Bóng Tối của Người chơi.
-    - <a class="mw-redirect mw-disambig" href="../G/Gothmog.md" title="Gothmog">Gothmog</a>, Trung úy của [Morgul](../M/Morgul.md), có thể chơi trong Minas Morgul, nhưng chỉ khi Vua Phù thủy chưa xuất hiện. Nó bổ sung một Xúc xắc hành động Minion nhỏ hơn đặc biệt vào nhóm xúc xắc Bóng Tối của Người chơi.
+    - [Balrog của Moria](../B/Balrog_of_Moria.md), có thể không hoạt động trong Moria, nhưng sau khi được giải phóng có thể đi lang thang trên bản đồ. Nó bổ sung một Xúc xắc Hành động Minion Nhỏ hơn đặc biệt vào nhóm Xúc xắc Bóng Tối của Người chơi.
+    - <a class="mw-redirect mw-disambig" href="../G/Gothmog.md" title="Gothmog">Gothmog</a>, Trung úy của [Morgul](../M/Morgul.md), có thể chơi trong Minas Morgul, nhưng chỉ khi Phù thủy Vua chưa xuất hiện. Nó bổ sung một Xúc xắc hành động Minion nhỏ hơn đặc biệt vào nhóm xúc xắc Bóng Tối của Người chơi.
     - The Miệng của Sauron, Black Numenorean, một phiên bản thay thế của nhân vật trong trò chơi cơ bản, có thể mở rộng các cuộc vây hãm và tăng tốc độ tập trung quân đội.
-    - The Vua Phù thủy, Chief of Nazgûl, một phiên bản thay thế cho phép rút thẻ nhanh hơn cũng như phản ứng nhanh chóng với các chuyển động đã được tuyên bố của Hiệp hội. Phiên bản này có thể thay thế phiên bản trò chơi cơ bản của nhân vật ở giữa trò chơi khi Bóng Tối Người chơi thấy phù hợp (hoặc ngược lại, một lần mỗi trò chơi).
+    - The Witch-Vua, Chief of Nazgûl, một phiên bản thay thế cho phép rút thẻ nhanh hơn cũng như phản ứng nhanh chóng với các chuyển động đã được tuyên bố của Hiệp hội. Phiên bản này có thể thay thế phiên bản trò chơi cơ bản của nhân vật ở giữa trò chơi khi Bóng Tối Người chơi thấy phù hợp (hoặc ngược lại, một lần mỗi trò chơi).
 - Ngoài ra, [Sméagol](../S/Sméagol.md) đã được thêm làm hướng dẫn hữu ích cho Người Tự do cho Hiệp hội miễn là Gollum chưa xuất hiện. Tuy nhiên, Sméagol đã chờ đợi thời cơ của mình cho đến khi Hiệp hội chỉ còn lại hai người Hobbit...
 - Các phiên bản thay thế của Boromir, Gandalf, Gimli, Legolas, Meriadoc, Peregrin và Strider cũng cung cấp biến thể trò chơi *Council of Rivendell*, cho phép Người đồng hành bắt đầu tại ngôi nhà ban đầu của họ thay vì tất cả đều bắt đầu tại Rivendell.
 
@@ -601,7 +601,7 @@ Một bản mở rộng khuyến mãi nhỏ được phát hành vào năm 2016,
 
 Những người cai trị những người tự do được gọi là "Những người có chủ quyền". Họ bắt đầu trò chơi với tư cách là những Người lãnh đạo bình thường, nhưng trong quá trình chơi có thể bị Người dân Tự do "Đánh thức" hoặc Người chơi Bóng Tối "Hư hỏng". Tham nhũng có thể được loại bỏ thông qua các hành động nhưng một khi Chủ quyền hoàn toàn Tham nhũng, nó phải bị xóa hoàn toàn khỏi trò chơi bằng cách người chơi của Dân Tự do gửi Nhân vật đến đó để xử lý chúng.
 
-- **[Brand](../B/Brand.md)**, *King of Dale* - Bắt đầu sau [Dale](../D/Dale.md), Có thể được đánh thức nếu Bắc Quốc hoạt động. Nhận phần thưởng trong Trận chiến khi sát cánh cùng Quân đội phía Bắc. Khi bị hỏng, các đơn vị Quân đội phía Bắc không thể được tuyển mộ bình thường và ông cản trở các Trận chiến liên quan đến Quân đội phía Bắc.
+- **[Brand](../B/Brand.md)**, *King of Dale* - Bắt đầu sau [Dale](../D/Dale.md), Có thể được đánh thức nếu Bắc Quốc hoạt động. Nhận phần thưởng trong Trận chiến khi sát cánh cùng Quân đội phía Bắc. Khi bị hỏng, các đơn vị Quân đội phía Bắc không thể được tuyển mộ bình thường và ông ta cản trở các Trận chiến liên quan đến Quân đội phía Bắc.
 - **[Dáin Chân Sắt](../D/Dáin_I.md)**, *King Under the Mountain* - Bắt đầu sau [Erebor](../E/Erebor.md), Có thể được đánh thức nếu Người Lùn đang hoạt động và Erebor không bị chinh phục. Có thể nâng cấp và chiêu mộ các đơn vị Người Lùn. Khi bị hỏng, các đơn vị không thể được chiêu mộ bình thường trong Erebor và Bóng Tối Cuộc vây hãm Erebor có thể được kéo dài.
 - **[Denethor](../D/Denethor.md)**, *Lord Steward of Gondor* - Bắt đầu sau [Minas Tirith](../M/Minas_Tirith.md), Có thể Đánh thức nếu Minas Tirith không bị chinh phục. Nâng cấp Gondor Đơn vị Quân đội và rút thêm thẻ Sự kiện sau khi sử dụng. Khi bị hỏng, các Đơn vị không thể được chiêu mộ bình thường vào Minas Tirith và Bóng Tối cuộc vây hãm có thể được kéo dài.
 - **[Théoden](../T/Théoden.md)**, *King of the Riddermark* - Bắt đầu sau [Edoras](../E/Edoras.md), Có thể được đánh thức nếu Rohan đang hoạt động và Edoras không bị chinh phục. Mang lại khả năng lãnh đạo cao hơn trong các trận chiến và tăng tốc tuyển mộ Rohan Quân đội. Khi bị hỏng, các đơn vị Rohan không thể được chiêu mộ bình thường và Helm's Deep được coi là Thành trì Isengard.

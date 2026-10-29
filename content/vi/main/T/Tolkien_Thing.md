@@ -17,9 +17,9 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Tolkien_Thing"
 ---
 
-**Tolkien Thing** (tiếng Anh: Tolkien Moot) là sự kiện thường niên chính của [Hội Tolkien Đức](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) và diễn ra lần đầu tiên vào [1999](../_/1999.md). Tính đến năm nay, khoảng 125 thành viên của GTS và bạn bè tham gia vào các bài giảng, hội thảo và lễ hội cuối tuần về Trung Địa và người tạo ra nó [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+**Tolkien Thing** (tiếng Anh: Tolkien Moot) là sự kiện thường niên chính của [Hiệp hội Tolkien Đức](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) và diễn ra lần đầu tiên vào [1999](../_/1999.md). Tính đến năm nay, khoảng 125 thành viên của GTS và bạn bè tham gia vào các bài giảng, hội thảo và lễ hội cuối tuần về Trung Địa và người tạo ra nó [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Theo truyền thống, Đại hội thường niên của GTS diễn ra vào thứ Sáu, mang đến cho các thành viên khả năng tham gia tích cực vào tương lai của xã hội họ. Từ năm 2003, GTS đã mời các nữ chủ tịch và chủ tịch từ các Hội Tolkien trên toàn thế giới nhằm nỗ lực thúc đẩy các mối quan hệ quốc tế. Kể từ năm 2006, GTS đã bắt đầu bổ sung thêm nhiều khách mời vào danh sách với [Alan Lee](../A/Alan_Lee.md) là khách mời danh dự đầu tiên.
+Theo truyền thống, Đại hội thường niên của GTS diễn ra vào thứ Sáu, mang đến cho các thành viên khả năng tham gia tích cực vào tương lai của xã hội họ. Từ năm 2003, GTS đã mời các nữ chủ tịch và chủ tịch từ các Hiệp hội Tolkien trên toàn thế giới nhằm nỗ lực thúc đẩy các mối quan hệ quốc tế. Kể từ năm 2006, GTS đã bắt đầu bổ sung thêm nhiều khách mời vào danh sách với [Alan Lee](../A/Alan_Lee.md) là khách mời danh dự đầu tiên.
 
 - [1999](../_/1999.md): Nhà trọ St. George, Cologne.
 - [2000](../_/2000.md): Nhà trọ St. George, Cologne.

@@ -24,39 +24,39 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Valian_Years&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Valian_Years&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
 <table align="right" cellpadding="6" cellspacing="0" class="tginfobox floatright">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">Lịch sử Arda</a>
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">History of Arda</a>
 </th></tr>
 <tr>
-<td colspan="3"><b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Âm nhạc của các Ainur</a></b>
+<td colspan="3"><b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Music of the Ainur</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../T/Timeline.md" title="Timeline">Dòng thời gian Arda</a></b>
-</td></tr>
-<tr>
-<td style="padding-top: 0em; padding-bottom: 0em;">
-</td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../D/Days_before_days.md" title="Days before days">Những ngày trước thời đại</a>
+<td colspan="3"><b><a href="../T/Timeline.md" title="Timeline">Timeline of Arda</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Thời đại Cây Hai Ngọn</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../D/Days_before_days.md" title="Days before days">Days before days</a>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Những năm Mặt Trời</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Years of the Trees</a>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Các Kỷ nguyên của Những Người Con của Ilúvatar</a></b>
+<td style="padding-top: 0em; padding-bottom: 0em;">
+</td>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Years of the Sun</a>
+</td></tr>
+<tr>
+<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Ages of the Children of Ilúvatar</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
@@ -81,16 +81,16 @@ images:
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../L/Later_Ages.md" title="Later Ages">Sau Kỷ nguyên</a> <small>(tính đến thời điểm hiện tại)</small>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../L/Later_Ages.md" title="Later Ages">Later Ages</a> <small>(up to present day)</small>
 </td></tr>
 <tr>
 <td colspan="3"><b><a href="../D/Dagor_Dagorath.md" title="Dagor Dagorath">Dagor Dagorath</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Âm nhạc thứ hai của các Ainur</a></b>
+<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Second Music of the Ainur</a></b>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">Xem thêm: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Truyền thuyết phiên bản Round World</a></b>
+<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">See also: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Round World version of the legendarium</a></b>
 </td></tr></tbody></table>
 
 **Năm Valian** là tham chiếu đến thời gian trôi qua trong [Arda](../A/Arda.md), sau khi [Ainur](../A/Ainur.md) xuất hiện trong đó và trước khi [Hai Cây](../T/Two_Trees_of_Valinor.md) của [Valinor](Valinor.md) bị phá hủy bởi [Melkor](../M/Morgoth.md) và [Ungoliant](../U/Ungoliant.md). Năm Valian cuối cùng cũng kết thúc với sự trỗi dậy đầu tiên của [Mặt Trời](../S/Sun.md) vào cuối [Kỷ Đệ Nhất](../F/First_Age.md).

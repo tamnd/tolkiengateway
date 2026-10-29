@@ -19,38 +19,38 @@ images:
   - "David_T._Wenzel_-_The_King_Beneath_The_Mountains.jpeg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_King_beneath_the_mountains&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_King_beneath_the_mountains&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/David_T._Wenzel_-_The_King_Beneath_The_Mountains.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7e/David_T._Wenzel_-_The_King_Beneath_The_Mountains.jpeg/300px-David_T._Wenzel_-_The_King_Beneath_The_Mountains.jpeg" decoding="async" loading="lazy" width="300" height="215" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7e/David_T._Wenzel_-_The_King_Beneath_The_Mountains.jpeg/450px-David_T._Wenzel_-_The_King_Beneath_The_Mountains.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7e/David_T._Wenzel_-_The_King_Beneath_The_Mountains.jpeg/600px-David_T._Wenzel_-_The_King_Beneath_The_Mountains.jpeg 2x" data-file-width="827" data-file-height="592"/></a><figcaption><a href="../L/Lake-men.md" title="Lake-men">Người Hồ</a> hát - Nghệ thuật của <a href="../D/David_T._Wenzel.md" title="David T. Wenzel">David T. Wenzel</a> cho <a href="The_Hobbit_(comic_book).md" title="The Hobbit (comic book)"><i>The Hobbit</i> (truyện tranh)</a></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/David_T._Wenzel_-_The_King_Beneath_The_Mountains.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7e/David_T._Wenzel_-_The_King_Beneath_The_Mountains.jpeg/300px-David_T._Wenzel_-_The_King_Beneath_The_Mountains.jpeg" decoding="async" loading="lazy" width="300" height="215" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7e/David_T._Wenzel_-_The_King_Beneath_The_Mountains.jpeg/450px-David_T._Wenzel_-_The_King_Beneath_The_Mountains.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7e/David_T._Wenzel_-_The_King_Beneath_The_Mountains.jpeg/600px-David_T._Wenzel_-_The_King_Beneath_The_Mountains.jpeg 2x" data-file-width="827" data-file-height="592"/></a><figcaption><a href="../L/Lake-men.md" title="Lake-men">Lake-men</a> singing - Art by <a href="../D/David_T._Wenzel.md" title="David T. Wenzel">David T. Wenzel</a> for <a href="The_Hobbit_(comic_book).md" title="The Hobbit (comic book)"><i>The Hobbit</i> (comic book)</a></figcaption></figure>
 
 ** Vua dưới những ngọn núi** là một bài thơ về [Vua Dưới Núi](../K/King_under_the_Mountain.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bài hát này được hát bởi [những người](../L/Lake-men.md) của [Thị trấn Hồ](../L/Lake-town.md) khi [Thorin Oakenshield](Thorin_Oakenshield.md) và [Công ty](Thorin_and_Company.md) đến. Đó là lời tiên tri được đưa ra sau sự [sự sụp đổ](../S/Sack_of_Erebor.md) của [Erebor](../E/Erebor.md) và [Dale](../D/Dale.md) về [Thrór](Thrór.md) và [Thráin](Thráin.md).
 
 ## Văn bản {#Text}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Vua bên dưới những ngọn núi,<br/>
-     Vua đá chạm khắc,<br/>
-Chúa tể của những dòng suối bạc<br/>
-    Sẽ trở thành của riêng mình!<br/>
+<p>The King beneath the mountains,<br/>
+    The King of carven stone,<br/>
+The lord of silver fountains<br/>
+    Shall come into his own!<br/>
 <br/>
-Vương miện của ông sẽ được giữ vững,<br/>
-    Đàn hạc của ông sẽ được căng dây lại,<br/>
-Hội trường của ông sẽ vang vọng vàng<br/>
-    Để hát lại những bài hát ngày xưa.<br/>
+His crown shall be upholden,<br/>
+    His harp shall be restrung,<br/>
+His halls shall echo golden<br/>
+    To songs of yore re-sung.<br/>
 <br/>
-Rừng sẽ sóng trên núi<br/>
-    Và cỏ dưới ánh mặt trời;<br/>
-Sự giàu có của ông sẽ chảy như suối<br/>
-    Và dòng sông vàng chảy.<br/>
+The woods shall wave on mountains<br/>
+    And grass beneath the sun;<br/>
+His wealth shall flow in fountains<br/>
+    And the rivers golden run.<br/>
 <br/>
-Dòng suối sẽ vui mừng tuôn chảy<br/>
-    Những hồ nước sẽ tỏa sáng và cháy bỏng,<br/>
-Mọi ưu phiền đều thất bại và buồn bã<br/>
-    Khi Vua Núi trở về!
+The streams shall run in gladness,<br/>
+    The lakes shall shine and burn,<br/>
+All sorrow fail and sadness<br/>
+    At the Mountain-king&#39;s return!
 </p>
 </div>
 
@@ -59,16 +59,16 @@ Mọi ưu phiền đều thất bại và buồn bã<br/>
 Rồi đột nhiên một ánh sáng lớn xuất hiện ở nơi thấp trên đồi và đầu phía bắc của hồ chuyển sang màu vàng.
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>" Vua bên dưới ngọn núi!"
+<p>&#34;The King beneath the mountain!&#34;
 </p>
 </div>
 
 Họ hét lên.
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>"Sự giàu có của ông giống như Mặt Trời,<br/>
-Bạc của anh như một đài phun nước,<br/>
-    Dòng sông vàng của anh chảy dài!"
+<p>    &#34;His wealth is like the Sun,<br/>
+His silver like a fountain,<br/>
+    His rivers golden run!&#34;
 </p>
 </div>
 
@@ -82,49 +82,49 @@ Họ kêu la, khắp nơi cửa sổ đều mở ra và đôi chân vội vã.
 
 <b>1977: <a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
-<dl><dd>Bài hát được chuyển thể thành "<a href="The_Mountain_King&#39;s_Return.md" title="The Mountain King&#39;s Return">The Mountain Vua's Return</a>" phát trong nền khi <a href="Thorin_and_Company.md" title="Thorin and Company">Thorin và Đoàn tùy tùng</a> gặp nhau <a href="../B/Bard.md" title="Bard">Bard the Bowman</a> ở <a href="../L/Lake-town.md" title="Lake-town">Thị trấn Hồ</a>.</dd></dl>
+<dl><dd>The song, adapted as &#34;<a href="The_Mountain_King&#39;s_Return.md" title="The Mountain King&#39;s Return">The Mountain King&#39;s Return</a>&#34; plays in the background as <a href="Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a> meet <a href="../B/Bard.md" title="Bard"> Bard the Bowman</a> in <a href="../L/Lake-town.md" title="Lake-town">Lake-town</a>.</dd></dl>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Dòng suối sẽ vui mừng tuôn chảy<br/>
-Những hồ nước sẽ tỏa sáng và cháy bỏng.<br/>
-Mọi ưu phiền đều thất bại và buồn bã<br/>
-Khi ngọn núi Vua trở lại!<br/>
+<p>The streams shall run in gladness,<br/>
+The lakes shall shine and burn.<br/>
+All sorrow fail and sadness<br/>
+At the Mountain King&#39;s return!<br/>
 <br/>
-Vua bên dưới ngọn núi,<br/>
-Vua đá chạm khắc,<br/>
-Chúa tể của những dòng suối bạc<br/>
-Sẽ trở thành của riêng mình!<br/>
+The King beneath the mountain,<br/>
+The King of carven stone,<br/>
+The lord of silver fountains<br/>
+Shall come into his own!<br/>
 <br/>
-Dòng suối sẽ vui mừng tuôn chảy<br/>
-Những hồ nước sẽ tỏa sáng và cháy bỏng.<br/>
-Mọi phiền muộn đều thất bại và buồn bã<br/>
-Khi ngọn núi Vua trở lại!<br/>
+The streams shall run in gladness,<br/>
+The lakes shall shine and burn.<br/>
+All sorrow fail and sadness<br/>
+At the Mountain King&#39;s return!<br/>
 <br/>
-Vương miện của ông sẽ được giữ vững,<br/>
-Đàn hạc của ông sẽ được căng dây lại.<br/>
-Hội trường của ông sẽ vang vọng vàng<br/>
-Những bài hát ngày xưa được hát lại.
+His crown shall be upholden,<br/>
+His harp shall be restrung.<br/>
+His halls shall echo golden<br/>
+To songs of yore re-sung.
 </p>
 </div>
 
 <b>1985: <a href="The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>The Hobbit</i> (phim truyền hình năm 1985)</a></b>
 
-<dl><dd>Ba câu đầu tiên được hát trong phim, với những thay đổi đáng kể so với bản dịch sách mà bộ phim dựa trên.</dd></dl>
+<dl><dd>The first three verses are sang in the movie, with considerable changes from the book translation the movie is based upon.</dd></dl>
 
 <b><a href="../_/2013.md" title="2013">2013</a>: <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Hobbit: The Desolation of Smaug</a></i></b>
 
-<dl><dd><a href="../B/Bard.md" title="Bard">Bard</a> nhận thấy rằng một trong những <a href="../D/Dwarves.md" title="Dwarves">Người Lùn</a> ông đang tổ chức có tên là <a href="Thorin.md" title="Thorin">Thorin</a> và nhận ra danh tính của họ sau khi tham khảo một tấm thảm cũ có Đường của Vua. Khi nghe ai đó nhắc đến 'Chúa tể của những suối nước bạc', ông nhớ đến "lời tiên tri". Những lời tiên tri trong phim phản ánh khổ thơ đầu tiên và thứ tư của bài thơ nhưng được sắp xếp lại và trọng tâm của phần thứ hai được thay đổi để biến nó thành một lời tiên tri về nỗi kinh hoàng hơn là một lễ kỷ niệm niềm vui:</dd></dl>
+<dl><dd><a href="../B/Bard.md" title="Bard">Bard</a> notices that one of the <a href="../D/Dwarves.md" title="Dwarves">Dwarves</a> he is hosting is named <a href="Thorin.md" title="Thorin">Thorin</a>, and realizes their identity after consulting an old tapestry showing the King&#39;s Line. Upon hearing someone mention the &#39;Lord of Silver Fountains&#39;, he remembers the &#34;prophecy&#34;. The words of the prophecy in the film mirror the first and fourth stanza of the poem but re-arranged and with the focus of the second part altered to make it a prophecy of dread rather than a celebration of joy:</dd></dl>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Chúa tể của những dòng suối bạc<br/>
-     Vua đá chạm khắc,<br/>
-Vua bên dưới những ngọn núi,<br/>
-    Sẽ trở thành của riêng mình!<br/>
+<p>The lord of silver fountains<br/>
+    The King of carven stone,<br/>
+The King beneath the mountains,<br/>
+    Shall come into his own!<br/>
 <br/>
-Và tiếng chuông sẽ vang lên trong niềm vui<br/>
-    Khi Vua Núi trở về!<br/>
-Nhưng tất cả sẽ thất bại trong đau buồn<br/>
-    Và hồ sẽ tỏa sáng và cháy bỏng,
+And the bells shall ring in gladness,<br/>
+    At the Mountain-king&#39;s return!<br/>
+But all shall fail in sadness<br/>
+    And the lake will shine and burn,
 </p>
 </div>
 

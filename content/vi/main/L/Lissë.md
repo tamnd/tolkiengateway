@@ -20,7 +20,7 @@ sort_keys:
 ## Ví dụ {#Examples}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>mi oromardi lissë-miruvóreva ('của đồng cỏ ngọt ngào trong hội trường cao cả')<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<p>mi oromardi lissë-miruvóreva (&#39;of the sweet mead in lofty halls&#39;)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../N/Namárië.md" title="Namárië">Namárië</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

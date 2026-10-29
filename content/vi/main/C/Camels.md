@@ -18,7 +18,7 @@ images:
   - "Pauline_Baynes_-_Camels_(excerpt).png"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>các loài động vật</b>. Đối với ban nhạc, xem <b><a href="Camel_(band).md" title="Camel (band)">Camel (ban nhạc)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the animals</b>. For the music band, see <b><a href="Camel_(band).md" title="Camel (band)">Camel (band)</a></b>.</div></div>
 
 <figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/P/Pauline_Baynes_-_Camels_(excerpt).png.md"><img src="https://tolkiengateway.net/w/images/5/56/Pauline_Baynes_-_Camels_%28excerpt%29.png" decoding="async" loading="lazy" width="286" height="182" class="mw-file-element" data-file-width="286" data-file-height="182"/></a><figcaption>Excerpt from <a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a>&#39;s <i><a href="../A/A_Map_of_Middle-earth.md" title="A Map of Middle-earth">A Map of Middle-earth</a></i></figcaption></figure>
 
@@ -36,7 +36,7 @@ Tên [Qenya](../Q/Qenya.md) của "lạc đà" là <i><b>ulun(t)</b></i>.<sup id
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/Angus_McBride_-_The_Bridges_of_Charnesra_(cropped).jpg.md" title="War Camel portrayed by Angus McBride for MERP"><img alt="War Camel portrayed by Angus McBride for MERP" src="https://tolkiengateway.net/w/images/thumb/d/d8/Angus_McBride_-_The_Bridges_of_Charnesra_%28cropped%29.jpg/202px-Angus_McBride_-_The_Bridges_of_Charnesra_%28cropped%29.jpg" decoding="async" loading="lazy" width="202" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d8/Angus_McBride_-_The_Bridges_of_Charnesra_%28cropped%29.jpg/303px-Angus_McBride_-_The_Bridges_of_Charnesra_%28cropped%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d8/Angus_McBride_-_The_Bridges_of_Charnesra_%28cropped%29.jpg/404px-Angus_McBride_-_The_Bridges_of_Charnesra_%28cropped%29.jpg 2x" data-file-width="686" data-file-height="510"/></a></span></div>
 			<div class="gallerytext">
-<p>War Camel do <a href="../A/Angus_McBride.md" title="Angus McBride">Angus McBride</a> thể hiện cho <a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">MERP</a>
+<p>War Camel portrayed by <a href="../A/Angus_McBride.md" title="Angus McBride">Angus McBride</a> for <a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">MERP</a>
 </p>
 			</div>
 		</li>
@@ -58,15 +58,15 @@ Tên [Qenya](../Q/Qenya.md) của "lạc đà" là <i><b>ulun(t)</b></i>.<sup id
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Lạc đà, loài động vật cấp 4, được gọi là <i>devevi</i> (hát. <i>deve</i>) trong tiếng Apysaic (một ngôn ngữ của miền Tây Nam Endor). Có cả hai biến thể một và hai bướu của quái thú.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Staibir là tên của Lạc đà chiến xuất hiện trong một cuộc phiêu lưu lấy bối cảnh ở Tây Nam Trung Địa.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup></dd></dl>
+<dl><dd>Camels, level 4 animals, are called <i>devevi</i> (sing. <i>deve</i>) in Apysaic (a language of south-western Endor). There are both one- and two-humped variants of the beast.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Staibir is the name of a War Camel appearing in an adventure set in Southwestern Middle-earth.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup></dd></dl>
 
 <b>1987-: <i><a href="../M/Mithril_Miniatures.md" title="Mithril Miniatures">Tác phẩm thu nhỏ Mithril</a></i>:</b>
 
-<dl><dd>Một chú lạc đà được ra mắt như một phần của figure 32mm "Haradrian Champion on War Camel".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup></dd></dl>
+<dl><dd>A camel was released as part of the 32mm scale figure &#34;Haradrian Champion on War Camel&#34;.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup></dd></dl>
 
 <b>2001-: <i><a class="mw-redirect" href="../T/The_Lord_of_the_Rings_Strategy_Battle_Game.md" title="The Lord of the Rings Strategy Battle Game">The Lord of the Rings Trò chơi chiến đấu chiến lược</a></i>:</b>
 
-<dl><dd>Lạc đà được sử dụng làm vật cưỡi bởi Đội đột kích Mahud của vùng đất cằn cỗi Nafarat.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup></dd></dl>
+<dl><dd>Camels are used as mounts by the Mahud Raiders of the barren lands of the Nafarat.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup></dd></dl>
 
 ## Xem thêm {#See_also}
 

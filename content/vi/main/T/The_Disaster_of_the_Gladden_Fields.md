@@ -27,29 +27,29 @@ langlinks:
 </th></tr>
 <tr>
 <td><b>Part One: The <a href="../F/First_Age.md" title="First Age">First Age</a></b>
-<ul><li><a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Của Tuor và Việc Anh Đến Với Gondolin</a></li>
+<ul><li><a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Of Tuor and his Coming to Gondolin</a></li>
 <li><a href="../N/Narn_i_Hîn_Húrin.md" title="Narn i Hîn Húrin">Narn i Hîn Húrin</a></li></ul>
 </td></tr>
 <tr>
 <td><b>Part Two: The <a href="../S/Second_Age.md" title="Second Age">Second Age</a></b>
-<ul><li><a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">Mô tả về Númenor</a></li>
+<ul><li><a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">A Description of Númenor</a></li>
 <li><a href="../A/Aldarion_and_Erendis%253A_The_Mariner&#39;s_Wife.md" title="Aldarion and Erendis: The Mariner&#39;s Wife">Aldarion and Erendis</a></li>
-<li><a href="The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">Dòng dõi Elros</a></li>
-<li><a href="The_History_of_Galadriel_and_Celeborn.md" title="The History of Galadriel and Celeborn">Lịch sử Galadriel và Celeborn</a></li></ul>
+<li><a href="The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">The Line of Elros</a></li>
+<li><a href="The_History_of_Galadriel_and_Celeborn.md" title="The History of Galadriel and Celeborn">History of Galadriel and Celeborn</a></li></ul>
 </td></tr>
 <tr>
 <td><b>Part Three: The <a href="Third_Age.md" title="Third Age">Third Age</a></b>
-<ul><li><a class="mw-selflink selflink">Thảm họa Cánh đồng Gladden</a></li>
+<ul><li><a class="mw-selflink selflink">Disaster of the Gladden Fields</a></li>
 <li><a href="../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl</a></li>
-<li><a href="The_Quest_of_Erebor.md" title="The Quest of Erebor">Cuộc truy tìm Erebor</a></li>
-<li><a href="The_Hunt_for_the_Ring.md" title="The Hunt for the Ring">Cuộc truy lùng Nhẫn</a></li>
+<li><a href="The_Quest_of_Erebor.md" title="The Quest of Erebor">The Quest of Erebor</a></li>
+<li><a href="The_Hunt_for_the_Ring.md" title="The Hunt for the Ring">The Hunt for the Ring</a></li>
 <li><a href="The_Battles_of_the_Fords_of_Isen.md" title="The Battles of the Fords of Isen">The Battles of the Fords of Isen</a></li></ul>
 </td></tr>
 <tr>
-<td><b>Phần Bốn</b>
+<td><b>Part Four</b>
 <ul><li><a href="The_Drúedain.md" title="The Drúedain">The Drúedain</a></li>
 <li><a href="The_Istari.md" title="The Istari">The Istari</a></li>
-<li><a href="The_Palantíri.md" title="The Palantíri">Palantíri</a></li></ul>
+<li><a href="The_Palantíri.md" title="The Palantíri">The Palantíri</a></li></ul>
 </td></tr></tbody></table>
 
 ** Thảm họa Cánh đồng Gladden** là một chương trong *[Unfinished Tales](../U/Unfinished_Tales.md)*, một tác phẩm được xuất bản sau khi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được biên tập và xuất bản bởi [Christopher Tolkien](../C/Christopher_Tolkien.md). Theo Christopher Tolkien, đây là câu chuyện 'muộn' của [Giáo sư](../J/J.R.R._Tolkien.md) được viết sau khi xuất bản [The Lord of the Rings](The_Lord_of_the_Rings.md) và trong cùng khung thời gian với các câu chuyện như [Cirion và Eorl](../C/Cirion_and_Eorl.md), [Trận vượt sông Isen](../B/Battles_of_the_Fords_of_Isen.md), [the Drúedain](The_Drúedain.md) và các tiểu luận ngữ văn được trích dẫn trong [Lịch sử của Galadriel và Celeborn](The_History_of_Galadriel_and_Celeborn.md).
@@ -66,23 +66,23 @@ Elendur, người được cha mình khuyên bảo, đã hỏi Isildur liệu an
 
 Isildur đeo chiếc Nhẫn vào với tiếng kêu đau đớn tột độ, nhưng Elendilmir của Phương Tây lại bùng cháy. Vì thế Isildur phải đội mũ trùm kín đầu mới biến mất. Elendur, người giống ông nội [Elendil](../E/Elendil.md) nhất của anh, đã bỏ mạng trong trận chiến.
 
-Isildur chạy một quãng đường rất xa và đến được bờ [Great River](../A/Anduin.md), nơi anh trút bỏ toàn bộ áo giáp và chỉ với một thanh đoản kiếm ở thắt lưng lao xuống sông. Ngay cả khi anh đang bơi, dòng nước đã cuốn anh về phía mớ hỗn độn của Gladden Fields nơi chiếc Nhẫn đã phản bội anh. Sự tuyệt vọng đột ngột ập đến với anh và anh suýt chết đuối, nhưng tâm trạng đó trôi qua trong anh như thể một gánh nặng lớn đã được trút bỏ. Ông ra khỏi nước, nhưng bị bắn xuyên tim và cổ họng bằng những mũi tên độc bởi những cung thủ Orc ẩn nấp ở bờ tây. Ông ngã xuống nước mà không kêu một tiếng nào, với Elendilmir vẫn còn trên trán. Thi thể của ông chưa bao giờ được người ta hoặc Tiên tộc tìm thấy.
+Isildur chạy một quãng đường rất xa và đến được bờ [Great River](../A/Anduin.md), nơi anh trút bỏ toàn bộ áo giáp và chỉ với một thanh đoản kiếm ở thắt lưng lao xuống sông. Ngay cả khi anh đang bơi, dòng nước đã cuốn anh về phía mớ hỗn độn của Gladden Fields nơi chiếc Nhẫn đã phản bội anh. Sự tuyệt vọng đột ngột ập đến với anh và anh suýt chết đuối, nhưng tâm trạng đó trôi qua trong anh như thể một gánh nặng lớn đã được trút bỏ. Ông ta ra khỏi nước, nhưng bị bắn xuyên tim và cổ họng bằng những mũi tên độc bởi những cung thủ Orc ẩn nấp ở bờ tây. Ông ta ngã xuống nước mà không kêu một tiếng nào, với Elendilmir vẫn còn trên trán. Thi thể của ông chưa bao giờ được người ta hoặc Tiên tộc tìm thấy.
 
 Để biết thêm chi tiết về trận chiến, xem *[Disaster of the Gladden Fields](../D/Disaster_of_the_Gladden_Fields.md).*
 
-<h3><span id="The_sources_of_the_legend_of_Isildur.27s_death"></span><span class="mw-headline" id="The_sources_of_the_legend_of_Isildur&#39;s_death">Nguồn gốc của truyền thuyết về cái chết của Isildur</span></h3>
+<h3><span id="The_sources_of_the_legend_of_Isildur.27s_death"></span><span class="mw-headline" id="The_sources_of_the_legend_of_Isildur&#39;s_death">The sources of the legend of Isildur&#39;s death</span></h3>
 
 Tolkien cũng khám phá khả năng các sự kiện trên được các nhà sử học của Gondor biết đến như thế nào, vì tất cả mọi người đều bị giết.
 
-Có ba nhân chứng tận mắt về truyền thuyết này. Ohtar, người đã giao các mảnh Narsil, và người bạn đồng hành của ông là hai người trong số họ. Người thứ ba là cận vệ [Estelmo](../E/Estelmo.md) của Elendur, người đã nghe lời khuyên giữa hai cha con khi Isildur chia tay. Estelmo được tìm thấy còn sống dưới xác Elendur. Tất cả những người khác trong đại đội của Isildur đều thiệt mạng trong trận chiến. [Người Rừng](../W/Woodmen.md) đã có thể đến và làm phiền lũ Orc trước khi chúng có thể xẻo xác người chết.
+Có ba nhân chứng tận mắt về truyền thuyết này. Ohtar, người đã giao các mảnh Narsil, và người bạn đồng hành của ông ta là hai người trong số họ. Người thứ ba là cận vệ [Estelmo](../E/Estelmo.md) của Elendur, người đã nghe lời khuyên giữa hai cha con khi Isildur chia tay. Estelmo được tìm thấy còn sống dưới xác Elendur. Tất cả những người khác trong đại đội của Isildur đều thiệt mạng trong trận chiến. [Người Rừng](../W/Woodmen.md) đã có thể đến và làm phiền lũ Orc trước khi chúng có thể xẻo xác người chết.
 
-Truyền thuyết về cái chết của Isildur chỉ được hình thành dưới triều đại của [Aragorn II](../A/Aragorn.md) vào đầu thời [Kỷ Đệ Tứ](../F/Fourth_Age.md). Những phỏng đoán như Isildur có chiếc Nhẫn và đã chạy trốn về phía sông, áo giáp và thanh đại kiếm của ông được tìm thấy ở bờ sông cách đó không xa Gladden Fields và rằng có những cung thủ Orc ở bờ tây để chặn những kẻ trốn chạy khỏi trận chiến sang sông đã được biết. Phỏng đoán thứ tư xung quanh truyền thuyết là Isildur và Chiếc nhẫn phải bị thất lạc trên Sông cùng nhau hoặc riêng lẻ. Nếu Isildur vẫn còn chiếc Nhẫn khi đến bờ tây, ông có thể dễ dàng trốn tránh các cung thủ Orc và đi đến [Moria](../M/Moria.md) hoặc [Lórien](../L/Lothlórien.md) với nguồn cung cấp bánh mì và rượu bổ mà mỗi Dúnedain mang theo trong một chiếc ví kín ở thắt lưng. Thắt lưng và ví không nằm trong số những đồ đạc bỏ đi được tìm thấy ở bờ đông.
+Truyền thuyết về cái chết của Isildur chỉ được hình thành dưới triều đại của [Aragorn II](../A/Aragorn.md) vào đầu thời [Kỷ Đệ Tứ](../F/Fourth_Age.md). Những phỏng đoán như Isildur có chiếc Nhẫn và đã chạy trốn về phía sông, áo giáp và thanh đại kiếm của ông ta được tìm thấy ở bờ sông cách đó không xa Gladden Fields và rằng có những cung thủ Orc ở bờ tây để chặn những kẻ trốn chạy khỏi trận chiến sang sông đã được biết. Phỏng đoán thứ tư xung quanh truyền thuyết là Isildur và Chiếc nhẫn phải bị thất lạc trên Sông cùng nhau hoặc riêng lẻ. Nếu Isildur vẫn còn chiếc Nhẫn khi đến bờ tây, ông ta có thể dễ dàng trốn tránh các cung thủ Orc và đi đến [Moria](../M/Moria.md) hoặc [Lórien](../L/Lothlórien.md) với nguồn cung cấp bánh mì và rượu bổ mà mỗi Dúnedain mang theo trong một chiếc ví kín ở thắt lưng. Thắt lưng và ví không nằm trong số những đồ đạc bỏ đi được tìm thấy ở bờ đông.
 
 Tại [Hội đồng Elrond](../C/Council_of_Elrond.md) người ta tiết lộ rằng Chiếc Nhẫn đã được tìm thấy, bị chìm gần rìa của Gladden Fields gần bờ phía Tây và không tìm thấy dấu vết nào của thi thể Isildur. Vào thời điểm đó người ta cũng biết rằng [Saruman](../S/Saruman.md) đã bí mật tìm kiếm khu vực đó.
 
 Khi Aragorn II lên ngôi, một trong những nhiệm vụ đầu tiên anh đảm nhận là khôi phục [palantír](../P/Palantíri.md) đã được khôi phục từ Saruman lúc [Orthanc](../O/Orthanc.md). Khi Orthanc được tìm kiếm những bí mật của nó, những kho báu được phát hiện. Elendilmir và một chiếc hộp vàng gắn với một sợi dây chuyền tinh xảo được tìm thấy trong số đó, được cất giữ trong một chiếc tủ thép chắc chắn được giấu kín. Elendilmir (một ngôi sao màu trắng bằng pha lê Elvish đặt trên *[mithril](../M/Mithril.md)* phi lê) bắt nguồn từ [Silmariën](../S/Silmariën.md) đến Elendil, là dấu hiệu hoàng gia của Vương quốc Bắc được Elendil đảm nhận. Tiên thợ rèn của Rivendell đã tạo một bản sao của Elendilmir cho Valandil và được sinh ra bởi mọi Vua và các Thủ lĩnh phía Bắc bao gồm Elessar, nhưng nó không thể phù hợp với tiềm năng và tổ tiên của Elendilmir của Phương Tây. Aragorn không bao giờ gặp nguy hiểm Elendilmir sau khi được khôi phục.
 
-Với việc phát hiện ra kho báu của Saruman, rõ ràng Isildur chỉ có thể rơi xuống vùng nước nông. Vì nếu rơi xuống vùng nước sâu, nước Đại Hà sẽ cuốn thi thể anh đi rất xa và Elendilmir sẽ không bao giờ bị phát hiện. Nhưng tàn tích của thi thể Isildur không bao giờ được tìm thấy trong Orthanc. Khả năng Saruman có thể đã làm nhục họ tại một trong những lò luyện của ông vẫn còn đó.
+Với việc phát hiện ra kho báu của Saruman, rõ ràng Isildur chỉ có thể rơi xuống vùng nước nông. Vì nếu rơi xuống vùng nước sâu, nước sông Lớn sẽ cuốn thi thể anh đi rất xa và Elendilmir sẽ không bao giờ bị phát hiện. Nhưng tàn tích của thi thể Isildur không bao giờ được tìm thấy trong Orthanc. Khả năng Saruman có thể đã làm nhục họ tại một trong những lò luyện của ông ta vẫn còn đó.
 
 ### Phụ lục {#Appendix}
 

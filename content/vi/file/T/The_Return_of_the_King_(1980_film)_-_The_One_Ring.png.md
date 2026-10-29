@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Chiếc nhẫn duy nhất](../../main/T/The_One_Ring.md) - [*The Return of the King* (phim năm 1980)](<../../main/T/The_Return_of_the_King_(1980_film).md>)
+[Chiếc nhẫn duy nhất](../../main/T/The_One_Ring.md) - [*The Return of the King* (phim 1980)](<../../main/T/The_Return_of_the_King_(1980_film).md>)
 
 ## Giấy phép {#Licensing}
 

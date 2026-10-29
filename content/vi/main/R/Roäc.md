@@ -50,7 +50,7 @@ infobox:
     value: "Images of Roäc"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Thorin_and_Roac.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/99/John_Howe_-_Thorin_and_Roac.jpg/320px-John_Howe_-_Thorin_and_Roac.jpg" decoding="async" loading="lazy" width="320" height="365" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/99/John_Howe_-_Thorin_and_Roac.jpg/480px-John_Howe_-_Thorin_and_Roac.jpg 1.5x, https://tolkiengateway.net/w/images/9/99/John_Howe_-_Thorin_and_Roac.jpg 2x" data-file-width="521" data-file-height="595"/></a><figcaption>"Roac, con trai của Carc" của <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Ravens.md" title="Ravens">Raven</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Roäc</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="Ravenhill.md" title="Ravenhill">Ravenhill</a>, <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data"><a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2788.md" title="Third Age 2788">2788</a></td></tr><tr><th scope="row" class="tg-infobox-label">Mất</th><td class="tg-infobox-data">sau <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2941.md" title="Third Age 2941">2941</a><br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Gia đình</span></th></tr><tr><th scope="row" class="tg-infobox-label">Cha mẹ</th><td class="tg-infobox-data"><a href="../C/Carc.md" title="Carc">Carc</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nam</td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Roäc.md" title="Category:Images of Roäc">Images of Roäc</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Thorin_and_Roac.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/99/John_Howe_-_Thorin_and_Roac.jpg/320px-John_Howe_-_Thorin_and_Roac.jpg" decoding="async" loading="lazy" width="320" height="365" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/99/John_Howe_-_Thorin_and_Roac.jpg/480px-John_Howe_-_Thorin_and_Roac.jpg 1.5x, https://tolkiengateway.net/w/images/9/99/John_Howe_-_Thorin_and_Roac.jpg 2x" data-file-width="521" data-file-height="595"/></a><figcaption>&#34;Roac, son of Carc&#34; by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Ravens.md" title="Ravens">Raven</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Roäc</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="Ravenhill.md" title="Ravenhill">Ravenhill</a>, <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2788.md" title="Third Age 2788">2788</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data">after <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2941.md" title="Third Age 2941">2941</a><br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../C/Carc.md" title="Carc">Carc</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Roäc.md" title="Category:Images of Roäc">Images of Roäc</a></td></tr></tbody></table>
 
 **Roäc** (b. [T.A.](../T/Third_Age.md) [2788](../T/Third_Age_2788.md)<sup id="cite_ref-H15_1-0" class="reference"><a href="#cite_note-H15-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>) là thủ lĩnh của [quạ](Ravens.md) của [Ravenhill](Ravenhill.md) gần [Erebor](../L/Lonely_Mountain.md).<sup id="cite_ref-H15_1-1" class="reference"><a href="#cite_note-H15-1">[1]</a></sup>
 
@@ -68,7 +68,7 @@ Có khả năng nói [Westron](../W/Westron.md), con quạ báo tin [Smaug](../S
 
 ## Cảm hứng {#Inspiration}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="Ravens.md#Inspiration" title="Ravens">Ravens#Inspirs</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="Ravens.md#Inspiration" title="Ravens">Ravens#Inspiration</a></div></div>
 
 Trong thần thoại [Celtic](../C/Celtic.md) (đặc biệt là Ailen), quạ thường gắn liền với chiến tranh và chiến trường. Trong [tiếng Wales](../W/Welsh.md) thần thoại, quạ được coi là đội quân của Vua hiệp sĩ Owain của Arthur.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
@@ -88,7 +88,7 @@ Trong *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/David_T._Wenzel_-_Roäc.jpeg.md" title="Roäc in The Hobbit (comic book)"><img alt="Roäc in The Hobbit (comic book)" src="https://tolkiengateway.net/w/images/thumb/9/91/David_T._Wenzel_-_Ro%C3%A4c.jpeg/120px-David_T._Wenzel_-_Ro%C3%A4c.jpeg" decoding="async" loading="lazy" width="120" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/91/David_T._Wenzel_-_Ro%C3%A4c.jpeg/181px-David_T._Wenzel_-_Ro%C3%A4c.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/9/91/David_T._Wenzel_-_Ro%C3%A4c.jpeg/241px-David_T._Wenzel_-_Ro%C3%A4c.jpeg 2x" data-file-width="601" data-file-height="748"/></a></span></div>
 			<div class="gallerytext">
-<p>Roäc trong <a href="../T/The_Hobbit_(comic_book).md" title="The Hobbit (comic book)"><i>The Hobbit</i> (truyện tranh)</a>
+<p>Roäc in <a href="../T/The_Hobbit_(comic_book).md" title="The Hobbit (comic book)"><i>The Hobbit</i> (comic book)</a>
 </p>
 			</div>
 		</li>
@@ -102,7 +102,7 @@ Trong *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_(2003_video_game)_-_Roäc.png.md" title="Roäc in The Hobbit (2003 video game)"><img alt="Roäc in The Hobbit (2003 video game)" src="https://tolkiengateway.net/w/images/thumb/1/1c/The_Hobbit_%282003_video_game%29_-_Ro%C3%A4c.png/241px-The_Hobbit_%282003_video_game%29_-_Ro%C3%A4c.png" decoding="async" loading="lazy" width="241" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1c/The_Hobbit_%282003_video_game%29_-_Ro%C3%A4c.png/361px-The_Hobbit_%282003_video_game%29_-_Ro%C3%A4c.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/1c/The_Hobbit_%282003_video_game%29_-_Ro%C3%A4c.png/482px-The_Hobbit_%282003_video_game%29_-_Ro%C3%A4c.png 2x" data-file-width="618" data-file-height="385"/></a></span></div>
 			<div class="gallerytext">
-<p>Roäc trong <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>
+<p>Roäc in <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (2003 video game)</a>
 </p>
 			</div>
 		</li>
@@ -110,27 +110,27 @@ Trong *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.
 
 <b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>The Hobbit</i> (loạt phim phát thanh 1968)</a>:</b>
 
-<dl><dd>Roäc đến Người Lùn sau cái chết của Smaug. Ông được lồng tiếng bởi <a href="../J/John_Wyse.md" title="John Wyse">John Wyse</a>.</dd></dl>
+<dl><dd>Roäc comes to the Dwarves after Smaug&#39;s death. He is voiced by <a href="../J/John_Wyse.md" title="John Wyse">John Wyse</a>.</dd></dl>
 
 <b>1979: <a href="../T/The_Hobbit_(1979_radio_series).md" title="The Hobbit (1979 radio series)"><i>The Hobbit</i> (loạt phim phát thanh 1979)</a>:</b>
 
-<dl><dd>Roäc thông báo cho Người Lùn về cái chết của Smaug. Ông được lồng tiếng bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Pat_Franklyn&amp;action=edit&amp;redlink=1" title="Pat Franklyn (page does not exist)">Pat Franklyn</a> không được công nhận.</dd></dl>
+<dl><dd>Roäc informs the Dwarves of Smaug&#39;s demise. He is voiced by an uncredited <a class="new" href="https://tolkiengateway.net/w/index.php?title=Pat_Franklyn&amp;action=edit&amp;redlink=1" title="Pat Franklyn (page does not exist)">Pat Franklyn</a>.</dd></dl>
 
 <b>1980: <a href="../D/Der_Hobbit_(1980_German_radio_series).md" title="Der Hobbit (1980 German radio series)"><i>Der Hobbit</i> (loạt phim phát thanh Đức năm 1980)</a>:</b>
 
-<dl><dd>Roäc do Friedrich W. Bauschulle thủ vai.</dd></dl>
+<dl><dd>Roäc is played by Friedrich W. Bauschulle.</dd></dl>
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Roäc, Raven cấp 6, được cung cấp số liệu thống kê trò chơi và mô tả ngắn.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup></dd></dl>
+<dl><dd>Roäc, a level 6 Raven, is given game statistics and a short description.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup></dd></dl>
 
 <b>1989: <a href="../H/Hobit_(1989_Slovak_radio_series).md" title="Hobit (1989 Slovak radio series)"><i>Hobit</i> (loạt đài phát thanh Slovakia năm 1989)</a>:</b>
 
-<dl><dd>Giọng của Roäc được cung cấp bởi Ivan Krivosudský.</dd></dl>
+<dl><dd>The voice of Roäc is provided by Ivan Krivosudský.</dd></dl>
 
 <b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
-<dl><dd>"Roäc the Raven" là Đồng minh ngoại giao, có thể chơi được tại bất kỳ địa điểm nào ở miền Bắc Rhovanion.</dd></dl>
+<dl><dd>&#34;Roäc the Raven&#34; is a Diplomat Ally, playable at any site in Northern Rhovanion.</dd></dl>
 
 <b>2014: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i>:</b>
 

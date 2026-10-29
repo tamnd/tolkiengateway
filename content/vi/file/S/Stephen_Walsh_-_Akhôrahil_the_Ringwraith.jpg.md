@@ -31,9 +31,9 @@ file:
 <div class="fileinfotpl">
 <table class="wikitable" style="width: 100%; direction: ltr;" cellpadding="4">
 <tbody><tr style="vertical-align: top">
-<th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Stephen Walsh - Akhôrahil Ringwraith.jpg</span></th>
+<th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Stephen Walsh - Akhôrahil the Ringwraith.jpg</span></th>
 <td class="description">
-<p><i>Akhôrahil Ringwraith</i>. 
+<p><i>Akhôrahil the Ringwraith</i>. 
 Created for <a href="../../main/M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a> of
 the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>

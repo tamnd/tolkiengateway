@@ -19,8 +19,8 @@ categories:
 <table class="tracklist wikitable wikitable--stripe">
     <tbody><tr>
       <th class="tlheader" style="width: 20px; text-align: right;">#</th>
-      <th class="tlheader" style="width: 100%;">Danh hiệu</th>
-      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Chiều dài</th>
+      <th class="tlheader" style="width: 100%;">Title</th>
+      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Length</th>
     </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">1.</td>
@@ -89,7 +89,7 @@ categories:
 </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">14.</td>
-  <td style="text-align: left;">"Quái vật giữa đống đổ nát"</td>
+  <td style="text-align: left;">&#34;Beast among the Ruins&#34;  </td>
   <td style="padding-right: 10px; text-align: right;">01:41</td>
 </tr>
         <tr style="background-color: {{{color}}};">

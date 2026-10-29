@@ -29,7 +29,7 @@ Bức thư có chữ ký đẹp được ký về [Walt Disney](../W/Walt_Disney
 
 *"\[...\] Tôi nhận ra tài năng của ông, nhưng đối với tôi, nó dường như luôn bị hư hỏng một cách vô vọng. Mặc dù trong hầu hết các 'bức tranh' từ studio của ông đều có những đoạn đáng ngưỡng mộ hoặc quyến rũ, nhưng tác động của tất cả chúng đối với tôi thật kinh tởm. Một số khiến tôi buồn nôn \[...\]"*
 
-Ông cũng cáo buộc Disney thực hiện hoạt động kinh doanh của ông "chỉ đơn giản là một kẻ lừa đảo: sẵn sàng và thậm chí mong muốn lừa gạt những người ít kinh nghiệm hơn bằng những thủ đoạn đủ 'hợp pháp' để giúp ông thoát khỏi tù"; ông nói thêm rằng công việc riêng của ông nằm trong tay Allen &amp; Unwin ("một công ty có danh tiếng cao nhất"); rằng bản thân ông "không có động cơ lợi nhuận" (mặc dù "đáng ra tôi không nên cân nhắc bất kỳ đề nghị nào từ Disney. Tôi không đến nỗi nghèo đến mức \[...\]"; và rằng ông đã bị trì hoãn vài tuần trong việc hoàn thành bức thư này vì bệnh tật và thiếu thư ký.
+Ông ta cũng cáo buộc Disney thực hiện hoạt động kinh doanh của ông ta "chỉ đơn giản là một kẻ lừa đảo: sẵn sàng và thậm chí mong muốn lừa gạt những người ít kinh nghiệm hơn bằng những thủ đoạn đủ 'hợp pháp' để giúp ông ta thoát khỏi tù"; ông ta nói thêm rằng công việc riêng của ông ta nằm trong tay Allen &amp; Unwin ("một công ty có danh tiếng cao nhất"); rằng bản thân ông "không có động cơ lợi nhuận" (mặc dù "đáng ra tôi không nên cân nhắc bất kỳ đề nghị nào từ Disney. Tôi không đến nỗi nghèo đến mức \[...\]"; và rằng ông đã bị trì hoãn vài tuần trong việc hoàn thành bức thư này vì bệnh tật và thiếu thư ký.
 
 <span></span>
 

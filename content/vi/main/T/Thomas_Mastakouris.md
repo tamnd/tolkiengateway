@@ -24,7 +24,7 @@ sort_keys:
 
 Ông đã dịch một số cuốn sách của [Tolkien](../J/J.R.R._Tolkien.md) cũng như những cuốn sách liên quan đến ông hoặc [Trung Địa](../M/Middle-earth.md). Ông cũng là tác giả của ít nhất một cuốn sách liên quan đến [huyền thoại](../L/Legendarium.md) của Tolkien.
 
-Ông là thành viên của [Hội Tolkien Hy Lạp](../G/Greek_Tolkien_Society.md).
+Ông là thành viên của [Hiệp hội Tolkien Hy Lạp](../G/Greek_Tolkien_Society.md).
 
 ## Thư mục {#Bibliography}
 

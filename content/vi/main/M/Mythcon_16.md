@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Mythcon_16"
 content_sha256: 0484f4cbabf6b5da4ac5366d6d72f118fbd3be5e93a11e5cc07246f704e395a9
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Hội nghị Hiệp hội Thần thoại năm 1985"
+short_description: "1985 Mythopoeic Society conference"
 categories:
   - "Mythcon"
 hidden_categories:
@@ -28,7 +28,7 @@ infobox:
     value: "Mythcon 17"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 16</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Wheaton College, Wheaton, Illinois</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Hội Mythopoeic</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">26-29 July <a href="../_/1985.md" title="1985">1985</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Mythcon_15.md" title="Mythcon 15">Mythcon 15</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Mythcon_17.md" title="Mythcon 17">Mythcon 17</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 16</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Wheaton College, Wheaton, Illinois</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data">26-29 July <a href="../_/1985.md" title="1985">1985</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="Mythcon_15.md" title="Mythcon 15">Mythcon 15</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="Mythcon_17.md" title="Mythcon 17">Mythcon 17</a></td></tr></tbody></table>
 
 **Mythcon 16** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ mười sáu.
 

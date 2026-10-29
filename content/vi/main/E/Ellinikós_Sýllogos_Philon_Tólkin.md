@@ -15,7 +15,7 @@ images:
   - "PP_banner.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/PP_banner.jpg.md"><img src="https://tolkiengateway.net/w/images/1/11/PP_banner.jpg" decoding="async" loading="lazy" width="200" height="283" class="mw-file-element" data-file-width="200" data-file-height="283"/></a><figcaption>Biểu ngữ và logo của GTS; dòng chữ <a href="../T/Tengwar.md" title="Tengwar">tengwar</a> ghi "Mellonath Tolchin Ellennin"</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/PP_banner.jpg.md"><img src="https://tolkiengateway.net/w/images/1/11/PP_banner.jpg" decoding="async" loading="lazy" width="200" height="283" class="mw-file-element" data-file-width="200" data-file-height="283"/></a><figcaption>Banner and logo of the GTS; the <a href="../T/Tengwar.md" title="Tengwar">tengwar</a> inscription reads &#34;Mellonath Tolchin Ellennin&#34;</figcaption></figure>
 
 **Ellinikós Sýllogos Philon Tólkin** (tiếng Hy Lạp: **Ελληνικός Σύλλογος Φίλων Τόλκιν**, *Greek Society of Tolkien Friends*), còn được gọi là **tiếng Hy Lạp Tolkien Society** và **The Prancing Pony**, là một [Tolkien Society](../T/Tolkien_Societies~67099.md) có trụ sở tại Hy Lạp.
 
@@ -25,7 +25,7 @@ Xã hội được chia thành hai "smials" một cách không chính thức, m�
 
 Một số hoạt động của GTS là vấn đề của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=News_from_Bree&amp;action=edit&amp;redlink=1" title="News from Bree (page does not exist)">Tin tức từ Bree</a></i> fanzine, cũng như hợp tác để phụ đề *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* tại các rạp chiếu ở Hy Lạp. Ngoài ra, Hiệp hội còn tham gia [Học bổng Tolkien quốc tế](../I/International_Tolkien_Fellowship.md) và các thành viên của Hiệp hội thường có mặt trong các sự kiện Tolkien trên khắp Châu Âu.
 
-Vào tháng 10 [2007](../_/2007.md), GTS đã tổ chức cuộc tụ họp Tolkien trên biển đầu tiên trên đất Hy Lạp trên đảo <a class="extiw" href="http://en.wikipedia.org/wiki/Andros" title="wikipedia:Andros">Andros</a> với [Marcel Bülles](../M/Marcel_Bülles.md) chủ tịch của [Hội Tolkien Đức](../G/German_Tolkien_Society.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Caspar_Reiff&amp;action=edit&amp;redlink=1" title="Caspar Reiff (page does not exist)">Caspar Reiff</a> của *[Tolkien Ensemble](../T/Tolkien_Ensemble.md)* là những vị khách đặc biệt. Sự việc được đặt tên thuận tiện là "Cair Andros".
+Vào tháng 10 [2007](../_/2007.md), GTS đã tổ chức cuộc tụ họp Tolkien trên biển đầu tiên trên đất Hy Lạp trên đảo <a class="extiw" href="http://en.wikipedia.org/wiki/Andros" title="wikipedia:Andros">Andros</a> với [Marcel Bülles](../M/Marcel_Bülles.md) chủ tịch của [Hiệp hội Tolkien Đức](../G/German_Tolkien_Society.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Caspar_Reiff&amp;action=edit&amp;redlink=1" title="Caspar Reiff (page does not exist)">Caspar Reiff</a> của *[Tolkien Ensemble](../T/Tolkien_Ensemble.md)* là những vị khách đặc biệt. Sự việc được đặt tên thuận tiện là "Cair Andros".
 
 ## Liên kết ngoài {#External_links}
 

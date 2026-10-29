@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/Medui"
 content_sha256: 2385621917044ce247ea7cd5d09c799a5e8bb67ec83a294067f29f8ac02953a9
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Sindarin từ"
+short_description: "Sindarin word"
 categories:
   - "Sindarin adjectives"
 hidden_categories:

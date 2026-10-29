@@ -21,7 +21,7 @@ infobox:
     value: "Female"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Fluithuin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Gia đình</span></th></tr><tr><th scope="row" class="tg-infobox-label">Vợ/chồng</th><td class="tg-infobox-data"><a class="mw-redirect" href="../M/Melko.md" title="Melko">Melko</a></td></tr><tr><th scope="row" class="tg-infobox-label">Con cái</th><td class="tg-infobox-data"><a class="mw-redirect" href="../K/Kalimbo.md" title="Kalimbo">Kalimbo</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nữ</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Fluithuin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a class="mw-redirect" href="../M/Melko.md" title="Melko">Melko</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a class="mw-redirect" href="../K/Kalimbo.md" title="Kalimbo">Kalimbo</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr></tbody></table>
 
 **Fluithuin** là một [con hổ cái](../O/Ogres.md) theo phiên bản đầu tiên của [Legendarium](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 

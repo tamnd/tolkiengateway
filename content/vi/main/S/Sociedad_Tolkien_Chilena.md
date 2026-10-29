@@ -12,7 +12,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Sociedad Tolkien Chilena** ("Hội Tolkien Chile") hay **STC**, là [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) ở Chile. Nó được thành lập vào năm 1998.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Sociedad Tolkien Chilena** ("Hiệp hội Tolkien Chile") hay **STC**, là [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) ở Chile. Nó được thành lập vào năm 1998.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ấn phẩm {#Publications}
 

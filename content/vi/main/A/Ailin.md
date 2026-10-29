@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>từ Quenya</b>. Đối với hồ trong truyền thuyết sơ khai, xem <b><a href="Ailin_(lake_in_Valinor).md" title="Ailin (lake in Valinor)">Ailin (hồ ở Valinor)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the Quenya word</b>. For the lake in the early legendarium, see <b><a href="Ailin_(lake_in_Valinor).md" title="Ailin (lake in Valinor)">Ailin (lake in Valinor)</a></b>.</div></div>
 
 <i><b>ailin</b></i> có nghĩa là "hồ, hồ"<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup> hoặc "hồ lớn"<sup id="cite_ref-PE_2-0" class="reference"><a href="#cite_note-PE-2">[2]</a></sup> trong [Quenya](../Q/Quenya.md).
 

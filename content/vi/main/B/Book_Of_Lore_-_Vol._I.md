@@ -21,7 +21,7 @@ infobox:
     value: "In"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Book Of Lore - Vol. I</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">by <a href="../L/Lord_Lovidicus.md" title="Lord Lovidicus">Lord Lovidicus</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">3 June <a href="../_/2015.md" title="2015">2015</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Dungeon Synth</td></tr><tr><th scope="row" class="tg-infobox-label">Chiều dài</th><td class="tg-infobox-data">01:02:35</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">In</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Book Of Lore - Vol. I</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">by <a href="../L/Lord_Lovidicus.md" title="Lord Lovidicus">Lord Lovidicus</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">3 June <a href="../_/2015.md" title="2015">2015</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Dungeon Synth</td></tr><tr><th scope="row" class="tg-infobox-label">Length</th><td class="tg-infobox-data">01:02:35</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">In</td></tr></tbody></table>
 
 <i><b>Sách Truyền Thuyết - Tập. I</b></i> là album thứ 14 của [Lord Lovidicus](../L/Lord_Lovidicus.md) được phát hành trên Bandcamp vào ngày 3 tháng 6 năm 2015.
 
@@ -36,4 +36,4 @@ infobox:
 7. Rèn Vương miện Sắt - *05:02*
 8. Số Rồng Helm Của Dor-lómin - *04:45*
 9. Glaurung Vàng - *07:44*
-10. Tiên Bóng tối Của Nan Elmoth - *06:40*
+10. Bóng tối Tiên Của Nan Elmoth - *06:40*

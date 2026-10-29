@@ -39,9 +39,9 @@ A *dingle* là một "thung lũng có bóng cây". Phần tử cổ xưa *dern* 
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Derndingle.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ee/The_Lord_of_the_Rings_Online_-_Derndingle.jpg/250px-The_Lord_of_the_Rings_Online_-_Derndingle.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ee/The_Lord_of_the_Rings_Online_-_Derndingle.jpg/375px-The_Lord_of_the_Rings_Online_-_Derndingle.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ee/The_Lord_of_the_Rings_Online_-_Derndingle.jpg/500px-The_Lord_of_the_Rings_Online_-_Derndingle.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Entmoot at Derndingle in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Sau sự sụp đổ của <a href="../I/Isengard.md" title="Isengard">Isengard</a>, <a href="../Q/Quickbeam.md" title="Quickbeam">Quickbeam</a> quay trở lại Derndingle, nơi ông giao cho người chơi nhiều nhiệm vụ khác nhau để chăm sóc khu rừng.</dd></dl>
+<dl><dd>After the fall of <a href="../I/Isengard.md" title="Isengard">Isengard</a>, <a href="../Q/Quickbeam.md" title="Quickbeam">Quickbeam</a> returns to Derndingle where he gives the player various tasks for tending the forest.</dd></dl>
 
 <span></span>
 

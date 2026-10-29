@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/An"
 content_sha256: 10f7ccc2abddd6e385ce5357978895c9095c1ff91ba6d25db93250d48d8d6d62
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Sindarin, Quenya và Adûnaic từ"
+short_description: "Sindarin, Quenya, and Adûnaic word"
 categories:
   - "Quenya prepositions"
   - "Sindarin prepositions"

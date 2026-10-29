@@ -30,33 +30,33 @@ Vào [28 tháng 7](../_/28_July.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J/
 <p>July 28th 1973<br/><br/>
 Dear Professor Campbell,<br/><br/>
 </p>
-<dl><dd>Bây giờ tôi đã quay lại Oxford sau</dd></dl>
-<p>đi du lịch xa hơn và viết, khá muộn-<br/>
-ly để cảm ơn bạn đã tham gia vào các sự kiện của<br/> 
-Ngày 11 và 12 tháng 7, cả ngày lễ và<br/>
-trong nghi lễ đối với tôi họ là người rực rỡ nhất<br/>
-dịp học thuật mà tôi đã tham gia.<br/>
-Những dịp lễ hội thật bất ngờ, tôi sur-<br/>
-sống với niềm vui trọn vẹn nhờ<br/>
-thay thế rượu whisky bằng rượu vang một cách hào phóng, và<br/>
-Tôi khẳng định lời khuyên của bác sĩ: 'bạn<br/>
-phải chuyển toàn bộ lòng trung thành của bạn từ<br/>
-Bacchus tới Ceres'. Tại lễ trao giải tôi<br/>
-cảm giác như một người Hobbit sẽ: như được trưng bày trong<br/>
-'The Lord of the Rings', đặc biệt là bởi Merry<br/>
-và Pippin: niềm tự hào và vui mừng tột độ về sự tái-<br/>
-lễ đón nhận danh dự và danh hiệu cao, kết hợp<br/>
-với (và theo cách được nâng cao bởi) một khó khăn<br/>
-^khi tin rằng^ điều đó đã thực sự xảy ra với tôi, hoặc thực sự<br/>
-xứng đáng ngoại trừ sự hào phóng của cấp trên.<br/>
-Lời của Địa chỉ khiến tôi choáng ngợp.<br/>
-Đặc biệt là dòng chữ 'khiến ông trở thành một trong chúng ta'.<br/>
-Tôi đảm bảo với bạn rằng Edinburgh đã thu hút tôi<br/>
-nhanh chóng; và mặc dù 81 năm của tôi đã bắt đầu<br/>
-làm tôi ngần ngại một chuyến đi xa, một chuyến về<br/>
-miền bắc, nếu cơ hội và sức khoẻ cho phép, sẽ<br/>
-đừng miễn cưỡng.<br/><br/>
-Trân trọng<br/><br/>
+<dl><dd>I have now returned to Oxford after</dd></dl>
+<p>some further travelling, and write, rather belated-<br/>
+ly to thank you for your part in the events of<br/> 
+July 11th and 12th, which both in feasting and<br/>
+in ceremonial were to me the most resplendent<br/>
+academic occasion in which I have taken part.<br/>
+The festive occasions to my own surprise I sur-<br/>
+vived with unmarred pleasure, owing to the<br/>
+generous substitution of whisky for wine, and<br/>
+I am confirmed in my doctor&#39;s advice: &#39;you<br/>
+must transfer your allegiance wholly from<br/>
+Bacchus to Ceres&#39;. At the laureation I<br/>
+felt like a hobbit would: as is exhibited in<br/>
+&#39;The Lord of the Rings&#39;, especially by Merry<br/>
+and Pippin: great pride and delight in the re-<br/>
+ception of high honour and title, combined<br/>
+with (and in a way enhanced by) a difficulty<br/>
+^in believing that^ it was really happening to me, or was really<br/>
+deserved except by the generosity of my superiors.<br/>
+The words of the Address left me overwhelmed.<br/>
+Especially the words &#39;making him one of us&#39;.<br/>
+I assure you that Edinburgh has gripped me<br/>
+fast; and though my 81 years had begun to<br/>
+make me reluctant to travel far, a journey back<br/>
+north, if opportunity and health allows, will<br/>
+not be reluctant.<br/><br/>
+Yours sincerely<br/><br/>
 J R R Tolkien<br/><br/>
 </p>
 </blockquote>

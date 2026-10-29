@@ -12,7 +12,7 @@ categories:
   - "Calendars"
 ---
 
-**Lịch của Imladris** hoặc **Lịch Rivendell** (trong [Sách Đỏ](Red_Book.md)) là lịch [Elvish](../E/Elves.md) và có lẽ là lịch Elvish duy nhất được biết đến bởi [Hobbit](../H/Hobbits.md).
+**Lịch của Imladris** hoặc **Tính toán của Rivendell** (trong [Sách Đỏ](Red_Book.md)) là lịch [Elvish](../E/Elves.md) và có lẽ là lịch Elvish duy nhất được biết đến bởi [Hobbit](../H/Hobbits.md).
 
 ## Cấu trúc {#Structure}
 
@@ -27,15 +27,15 @@ Tên của sáu mùa và những ngày bổ sung của *coranar* là:
 
 <table class="TGtable">
 <tbody><tr>
-<th><a href="../Q/Quenya.md" title="Quenya">Quenya</a> tên
+<th><a href="../Q/Quenya.md" title="Quenya">Quenya</a> name
 </th>
-<th><a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> tên
+<th><a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> name
 </th>
 <th>English Translation
 </th>
 <th>Length in Days
 </th>
-<th>Mối quan hệ với <a href="../S/Shire_Calendar.md" title="Shire Calendar">Lịch Shire</a> ít nhiều<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
+<th>Relationship to the <a href="../S/Shire_Calendar.md" title="Shire Calendar">Shire Calendar</a>, more or less<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
 </th></tr>
 <tr>
 <td><a href="../Y/Yestarë.md" title="Yestarë">Yestarë</a></td>
@@ -47,51 +47,51 @@ Tên của sáu mùa và những ngày bổ sung của *coranar* là:
 <tr>
 <td><a href="../T/Tuilë.md" title="Tuilë">Tuilë</a></td>
 <td><a href="../E/Ethuil.md" title="Ethuil">Ethuil</a></td>
-<td>Mùa xuân</td>
+<td>Spring</td>
 <td>54</td>
-<td><a href="../_/7_April.md" title="7 April">7 tháng 4</a> đến <a href="../_/30_May.md" title="30 May">30 tháng 5</a>
+<td><a href="../_/7_April.md" title="7 April">7 April</a> through <a href="../_/30_May.md" title="30 May">30 May</a>
 </td></tr>
 <tr>
 <td><a href="../L/Lairë.md" title="Lairë">Lairë</a></td>
 <td><a href="../L/Laer.md" title="Laer">Laer</a></td>
 <td>Summer</td>
 <td>72</td>
-<td><a href="../_/1_June.md" title="1 June">1 tháng 6</a> đến <a href="../_/9_August.md" title="9 August">9 tháng 8</a>
+<td><a href="../_/1_June.md" title="1 June">1 June</a> through <a href="../_/9_August.md" title="9 August">9 August</a>
 </td></tr>
 <tr>
 <td><a href="../Y/Yávië.md" title="Yávië">Yávië</a></td>
 <td><a href="../I/Iavas.md" title="Iavas">Iavas</a></td>
 <td>Autumn</td>
 <td>54</td>
-<td><a href="../_/10_August.md" title="10 August">10 tháng 8</a> đến <a href="../_/3_October.md" title="3 October">3 tháng 10</a>
+<td><a href="../_/10_August.md" title="10 August">10 August</a> through <a href="../_/3_October.md" title="3 October">3 October</a>
 </td></tr>
 <tr>
 <td><a href="../E/Enderi.md" title="Enderi">Enderi</a></td>
 <td></td>
 <td>Middle Days</td>
 <td>3 or 6</td>
-<td><a href="../_/4_October.md" title="4 October">4 tháng 10</a> đến <a href="../_/6_October.md" title="6 October">6 tháng 10</a>
+<td><a href="../_/4_October.md" title="4 October">4 October</a> through <a href="../_/6_October.md" title="6 October">6 October</a>
 </td></tr>
 <tr>
 <td><a href="../Q/Quellë.md" title="Quellë">Quellë</a></td>
 <td><a href="../F/Firith.md" title="Firith">Firith</a></td>
 <td>Fading</td>
 <td>54</td>
-<td><a href="../_/7_October.md" title="7 October">7 tháng 10</a> đến <a href="../_/30_November.md" title="30 November">30 tháng 11</a>
+<td><a href="../_/7_October.md" title="7 October">7 October</a> through <a href="../_/30_November.md" title="30 November">30 November</a>
 </td></tr>
 <tr>
 <td><a href="../H/Hrívë.md" title="Hrívë">Hrívë</a></td>
 <td><a href="Rhîw.md" title="Rhîw">Rhîw</a></td>
 <td>Winter</td>
 <td>72</td>
-<td><a href="../_/1_December.md" title="1 December">1 tháng 12</a> đến <a href="../_/10_February.md" title="10 February">10 tháng 2</a>
+<td><a href="../_/1_December.md" title="1 December">1 December</a> through <a href="../_/10_February.md" title="10 February">10 February</a>
 </td></tr>
 <tr>
 <td><a href="../C/Coirë.md" title="Coirë">Coirë</a></td>
 <td><a href="../E/Echuir.md" title="Echuir">Echuir</a></td>
 <td>Stirring</td>
 <td>54</td>
-<td><a href="../_/11_February.md" title="11 February">11 tháng 2</a> đến <a href="../_/4_April.md" title="4 April">4 tháng 4</a>
+<td><a href="../_/11_February.md" title="11 February">11 February</a> through <a href="../_/4_April.md" title="4 April">4 April</a>
 </td></tr>
 <tr>
 <td><a href="../M/Mettarë.md" title="Mettarë">Mettarë</a></td>
@@ -103,7 +103,7 @@ Tên của sáu mùa và những ngày bổ sung của *coranar* là:
 
 *Quellë* còn được gọi là *[Lasse-lanta](../L/Lasse-lanta.md)* ("lá rơi") hoặc, trong Sindarin, [Narbeleth](../N/Narbeleth.md) ("Mặt Trời-waning").
 
-Một *yén* sẽ quá dài hơn 1 ngày khi so sánh với độ dài 144 <a class="extiw" href="http://en.wikipedia.org/wiki/Tropical_year" title="wikipedia:Tropical year">năm dương lịch</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup> Có một ghi chú trong [Sách Đỏ](Red_Book.md) về **Lịch Rivendell** rằng năm cuối cùng của mỗi phần ba *yén* đã bỏ qua việc nhân đôi *enderi* của nó; nói cách khác, cứ năm thứ 432 chỉ có 3 *enderi* và bỏ đi 3 ngày nhuận trong năm đó (xem: *[haranyë](../H/Haranyë.md)*). Ghi chú cũng đề cập rằng việc bỏ đi 3 ngày nhuận cứ sau 432 năm “không hề xảy ra ở thời đại chúng ta” (thời điểm viết [Sách Đỏ](Red_Book.md)). Bất kỳ phương pháp điều chỉnh nào khác đều chưa được biết.<sup id="cite_ref-D2_4-0" class="reference"><a href="#cite_note-D2-4">[1]</a></sup>
+Một *yén* sẽ quá dài hơn 1 ngày khi so sánh với độ dài 144 <a class="extiw" href="http://en.wikipedia.org/wiki/Tropical_year" title="wikipedia:Tropical year">năm dương lịch</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup> Có một ghi chú trong [Sách Đỏ](Red_Book.md) về **Tính toán của Rivendell** rằng năm cuối cùng của mỗi phần ba *yén* đã bỏ qua việc nhân đôi *enderi* của nó; nói cách khác, cứ năm thứ 432 chỉ có 3 *enderi* và bỏ đi 3 ngày nhuận trong năm đó (xem: *[haranyë](../H/Haranyë.md)*). Ghi chú cũng đề cập rằng việc bỏ đi 3 ngày nhuận cứ sau 432 năm “không hề xảy ra ở thời đại chúng ta” (thời điểm viết [Sách Đỏ](Red_Book.md)). Bất kỳ phương pháp điều chỉnh nào khác đều chưa được biết.<sup id="cite_ref-D2_4-0" class="reference"><a href="#cite_note-D2-4">[1]</a></sup>
 
 ## Các ngày trong tuần {#Days_of_the_week}
 
@@ -143,4 +143,4 @@ Mặc dù không nêu rõ lịch Imladris được thành lập khi nào hoặc 
 
 ## Liên kết ngoài {#External_links}
 
-- Dự án <a class="external text" href="http://psarando.github.io/shire-reckoning" rel="noreferrer noopener" target="_blank">Lịch Shire</a>, dành riêng cho việc mô phỏng và phân tích chi tiết tất cả các lịch của *The Lord of the Rings* [Phụ lục D](../A/Appendix_D.md).
+- Dự án <a class="external text" href="http://psarando.github.io/shire-reckoning" rel="noreferrer noopener" target="_blank">Shire Tính toán</a>, dành riêng cho việc mô phỏng và phân tích chi tiết tất cả các lịch của *The Lord of the Rings* [Phụ lục D](../A/Appendix_D.md).

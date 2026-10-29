@@ -19,7 +19,7 @@ categories:
 
 ## Lịch sử {#History}
 
-Ông là một thane của [Tevildo](../T/Tevildo.md), được mô tả là hiếu chiến và hung dữ, nhưng ông đã bị giết bởi [Huan](../H/Huan.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Huan đã đưa chiếc áo khoác của Oikeroi cho [Lúthien](../L/Lúthien.md), người đã sử dụng nó để ngụy trang [Beren](../B/Beren.md) trong [nhiệm vụ](../Q/Quest_for_the_Silmaril.md) của họ để lấy [Silmaril](../S/Silmaril.md) từ [Melko](../M/Melko.md). Oikeroi trước đó đã dành rất nhiều thời gian ở sảnh Melko, cho phép Beren đi qua mà không bị chú ý.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ông ta là một thane của [Tevildo](../T/Tevildo.md), được mô tả là hiếu chiến và hung dữ, nhưng ông ta đã bị giết bởi [Huan](../H/Huan.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Huan đã đưa chiếc áo khoác của Oikeroi cho [Lúthien](../L/Lúthien.md), người đã sử dụng nó để ngụy trang [Beren](../B/Beren.md) trong [nhiệm vụ](../Q/Quest_for_the_Silmaril.md) của họ để lấy [Silmaril](../S/Silmaril.md) từ [Melko](../M/Melko.md). Oikeroi trước đó đã dành rất nhiều thời gian ở sảnh Melko, cho phép Beren đi qua mà không bị chú ý.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Trong các tác phẩm sau này, Beren đã cải trang trong bộ lông của con sói lớn [Draugluin](../D/Draugluin.md), thay vì bộ lông của Oikeroi.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

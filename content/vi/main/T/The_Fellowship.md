@@ -18,7 +18,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>cộng đồng Tolkien người Hà Lan</b>. Đối với công ty được thành lập trong sự kiện <i>The Lord of the Rings</i>, xem <b><a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Đoàn Hộ Nhẫn</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>a Dutch Tolkien community</b>. For the company formed during the events of <i>The Lord of the Rings</i>, see <b><a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Fellowship of the Ring</a></b>.</div></div>
 
 **The Fellowship** was a web-based Dutch language Tolkien community, with real life meetings, centred around [Peter Jackson](../P/Peter_Jackson.md)'s [*The Lord of the Rings* films](<The_Lord_of_the_Rings_(film_series).md>).
 

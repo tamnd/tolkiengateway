@@ -20,8 +20,8 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Audiobooks&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Audiobooks&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
@@ -60,7 +60,7 @@ images:
 ## *[The Silmarillion](../T/The_Silmarillion.md)* {#The_Silmarillion}
 
 - [1977](../_/1977.md) - *[Of Beren and Lúthien](../O/Of_Beren_and_Lúthien.md)*, được đọc bởi [Christopher Tolkien](../C/Christopher_Tolkien.md). (được xuất bản bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Caedmon&amp;action=edit&amp;redlink=1" title="Caedmon (page does not exist)">Caedmon</a>)
-- [1978](../_/1978.md) - *[Về bóng tối của Valinor](../O/Of_the_Darkening_of_Valinor.md) và [Về Cuộc Di Tản của người Noldor](../O/Of_the_Flight_of_the_Noldor.md)*, đọc bởi [Christopher Tolkien](../C/Christopher_Tolkien.md). (được xuất bản bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Caedmon&amp;action=edit&amp;redlink=1" title="Caedmon (page does not exist)">Caedmon</a>)
+- [1978](../_/1978.md) - *[Về bóng tối của Valinor](../O/Of_the_Darkening_of_Valinor.md) và [Về chuyến bay của Noldor](../O/Of_the_Flight_of_the_Noldor.md)*, đọc bởi [Christopher Tolkien](../C/Christopher_Tolkien.md). (được xuất bản bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Caedmon&amp;action=edit&amp;redlink=1" title="Caedmon (page does not exist)">Caedmon</a>)
 - [2002](../_/2002.md) - [Martin Shaw](../M/Martin_Shaw.md), không tóm tắt. (được xuất bản bởi [HarperCollins](../H/HarperCollins.md))
 - [2023](../_/2023.md) - [Andy Serkis](Andy_Serkis.md), không tóm tắt. (được xuất bản bởi [HarperCollins](../H/HarperCollins.md)
 

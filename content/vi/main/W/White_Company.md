@@ -25,15 +25,15 @@ images:
 
 ## Lịch sử {#History}
 
-Công ty được thành lập bởi Vua [Elessar](../A/Aragorn.md) vào [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) để giải quyết vụ án phức tạp của [Beregond](../B/Beregond.md), vì ông đã bỏ chức vụ và đổ máu nhưng đã cứu [Faramir](../F/Faramir.md) khỏi [cái chết sớm](../T/The_Pyre_of_Denethor.md) khi làm như vậy. Elessar đày Beregond khỏi [Minas Tirith](../M/Minas_Tirith.md), nhưng bổ nhiệm ông làm **Đội trưởng đội cận vệ** đầu tiên của Thân vương Faramir<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> cư trú trong những ngọn đồi của [Emyn Arnen](../E/Emyn_Arnen.md) trước mắt Minas Tirith.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Công ty được thành lập bởi Vua [Elessar](../A/Aragorn.md) vào [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) để giải quyết vụ án phức tạp của [Beregond](../B/Beregond.md), vì ông ta đã bỏ chức vụ và đổ máu nhưng đã cứu [Faramir](../F/Faramir.md) khỏi [cái chết sớm](../T/The_Pyre_of_Denethor.md) khi làm như vậy. Elessar đày Beregond khỏi [Minas Tirith](../M/Minas_Tirith.md), nhưng bổ nhiệm ông ta làm **Đội trưởng đội cận vệ** đầu tiên của Thân vương Faramir<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> cư trú trong những ngọn đồi của [Emyn Arnen](../E/Emyn_Arnen.md) trước mắt Minas Tirith.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Vào thời kỳ đầu [Kỷ Đệ Tứ](../F/Fourth_Age.md), [Borlas](../B/Borlas.md) và hai người hầu cũ đã nghỉ hưu ở [Pen-arduin](../P/Pen-arduin.md) từ đội bảo vệ của **Thân vương**.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online: Minas Morgul</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến: Minas Morgul</a></i>:</b>
 
-<dl><dd>Sau khi Vua Elessar buộc tội Quản gia <a href="../F/Faramir.md" title="Faramir">Faramir</a> thanh tẩy tà ác của <a href="../M/Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a>, Faramir dẫn Đại đội Trắng tiến vào <a href="../M/Morgul_Vale.md" title="Morgul Vale">Thung lũng Morgul</a>, nơi họ và <a href="../R/Rangers_of_Ithilien.md" title="Rangers of Ithilien">Rangers của Ithilien</a> thành lập một số trại bên ngoài Thành phố Chết.</dd></dl>
+<dl><dd>After King Elessar charges Steward <a href="../F/Faramir.md" title="Faramir">Faramir</a> with cleansing the evil of <a href="../M/Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a>, Faramir leads the White Company into the <a href="../M/Morgul_Vale.md" title="Morgul Vale">Morgul Vale</a>, where they and the <a href="../R/Rangers_of_Ithilien.md" title="Rangers of Ithilien">Rangers of Ithilien</a> establish several camps outside the Dead City.</dd></dl>
 
 <span></span>
 

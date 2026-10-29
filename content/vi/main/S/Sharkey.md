@@ -25,7 +25,7 @@ Chú thích cuối trang của "[The Scouring of the Shire](../T/The_Scouring_of
 
 ## Phát triển {#Development}
 
-Trong phiên bản đầu tiên của "The Scouring of the Shire", cái tên Sharkey được đặt bởi một trong những kẻ côn đồ đã tiếp cận Frodo và bạn bè của ông tại [Bywater](../B/Bywater.md). Sau đó, Tolkien áp dụng tên này cho một tên côn đồ đứng đầu cư trú tại [Bag End](../B/Bag_End.md). Tên côn đồ đứng đầu đã được thay thế trong phiên bản cuối cùng của chương bởi Saruman, người sau đó đã lấy tên này.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong phiên bản đầu tiên của "The Scouring of the Shire", cái tên Sharkey được đặt bởi một trong những kẻ côn đồ đã tiếp cận Frodo và bạn bè của ông ta tại [Bywater](../B/Bywater.md). Sau đó, Tolkien áp dụng tên này cho một tên côn đồ đứng đầu cư trú tại [Bag End](../B/Bag_End.md). Tên côn đồ đứng đầu đã được thay thế trong phiên bản cuối cùng của chương bởi Saruman, người sau đó đã lấy tên này.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

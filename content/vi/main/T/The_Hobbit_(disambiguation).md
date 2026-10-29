@@ -62,7 +62,7 @@ images:
 ### Trò chơi {#Games}
 
 - [*The Hobbit* (trò chơi điện tử năm 1982)](<The_Hobbit_(1982_video_game).md>), trò chơi điện tử dựa trên cuốn sách.
-- *[The Hobbit Adventure Boardgame](The_Hobbit_Adventure_Boardgame.md)*, một trò chơi bảng [1994](../_/1994.md) của [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md).
+- *[The Hobbit Adventure Boardgame](The_Hobbit_Adventure_Boardgame.md)*, một trò chơi bảng [1994](../_/1994.md) của [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md).
 - *[The Hobbit (action game)](<The_Hobbit_(action_game).md>)*, một trò chơi điện tử chưa được phát hành dựa trên cuốn sách.
 - [*The Hobbit* (trò chơi điện tử năm 2003)](<The_Hobbit_(2003_video_game).md>), trò chơi điện tử dựa trên cuốn sách.
 - *[Lego The Hobbit: The Video Game](../L/Lego_The_Hobbit%253A_The_Video_Game.md)*, một trò chơi điện tử [Lego](../L/Lego.md) dựa trên hai bộ phim đầu tiên trong The Hobbit](<The_Hobbit_(film_series).md>) của [Peter Jackson.
@@ -79,6 +79,6 @@ images:
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
 <p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>Trang định hướng này là danh sách các bài viết có cùng tiêu đề. Điều này phù hợp với <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Chính sách đặt tên</a> của <a href="Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>.</i>
-<span style="display:block;font-size: 85%;">Nếu <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:The_Hobbit_(disambiguation)" title="Special:WhatLinksHere/:The Hobbit (disambiguation)">liên kết nội bộ</a> giới thiệu bạn đến trang này, bạn có thể muốn thay đổi liên kết để trỏ trực tiếp đến bài viết dự định.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:The_Hobbit_(disambiguation)" title="Special:WhatLinksHere/:The Hobbit (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

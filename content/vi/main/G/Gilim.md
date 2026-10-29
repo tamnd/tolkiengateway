@@ -14,7 +14,7 @@ categories:
   - "Gnomish names"
 ---
 
-**Gilim** là một [người khổng lồ](Giants.md) của [Eruman](../A/Araman.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có vẻ đáng chú ý vì cái cổ của ông. [Lúthien](../L/Lúthien.md) đặt tên cho ông trong câu thần chú tăng trưởng của cô.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Gilim** là một [người khổng lồ](Giants.md) của [Eruman](../A/Araman.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có vẻ đáng chú ý vì cái cổ của ông ta. [Lúthien](../L/Lúthien.md) đặt tên cho ông ta trong câu thần chú tăng trưởng của cô.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Trong [Gnomish](Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md) về ngôn ngữ [Tiên](../E/Elvish.md), *Gilim* được dịch là "mùa đông".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

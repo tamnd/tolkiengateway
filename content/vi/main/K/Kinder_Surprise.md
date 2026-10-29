@@ -25,7 +25,7 @@ Mặc dù Kinder Sur ngạc nhiên có sẵn ở tất cả các quốc gia ngo�
 - [Aragorn](../A/Aragorn.md)
 - [Arwen](../A/Arwen.md)
 - [Boromir](../B/Boromir.md) (với [Sừng Lớn](../G/Great_Horn.md))
-- [Frodo](../F/Frodo_Baggins.md) (với [Nhẫn Chúa](../T/The_One_Ring.md))
+- [Frodo](../F/Frodo_Baggins.md) (với [Chiếc Nhẫn Một](../T/The_One_Ring.md))
 - [Galadriel](../G/Galadriel.md) (có [Gương Galadriel](../M/Mirror_of_Galadriel.md))
 - [Gandalf](../G/Gandalf.md)
 - [Gimli](../G/Gimli.md)

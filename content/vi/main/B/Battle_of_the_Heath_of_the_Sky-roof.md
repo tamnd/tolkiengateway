@@ -22,7 +22,7 @@ Nó diễn ra tại [Heath of the Sky-roof](../H/Heath_of_the_Sky-roof.md), khô
 
 Theo một phác thảo, thủy thủ người Mannish [Eriol](../E/Eriol.md) đã chứng kiến ​​trận chiến và cuối cùng bỏ chạy cùng với Tiên tộc, đồng thời viết những lời cuối cùng của *[Golden Book](../G/Golden_Book.md)* trong đống đổ nát của Tavrobel.<sup id="cite_ref-High_2-0" class="reference"><a href="#cite_note-High-2">[2]</a></sup>
 
-Sau trận chiến, tàn tích cuối cùng của Tiên tộc Tol Eressëa và Vùng Đất Lớn đã ẩn náu, cuối cùng mờ dần và không còn hiển thị với hầu hết Con Người.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sau trận chiến, tàn tích cuối cùng của Tiên tộc của Tol Eressëa và Vùng Đất Lớn đã ẩn náu, cuối cùng mờ dần và không còn hiển thị với hầu hết Con Người.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Tên khác {#Other_names}
 

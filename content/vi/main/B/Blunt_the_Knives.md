@@ -16,7 +16,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>nhạc phim từ <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">An Unexpected Journey</a></i></b>. Đối với bài thơ, xem <b><a href="../C/Chip_the_glasses_and_crack_the_plates!.md" title="Chip the glasses and crack the plates!">Đập kính và đập vỡ đĩa!</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the soundtrack from <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">An Unexpected Journey</a></i></b>. For the poem, see <b><a href="../C/Chip_the_glasses_and_crack_the_plates!.md" title="Chip the glasses and crack the plates!">Chip the glasses and crack the plates!</a></b>.</div></div>
 
 **Blunt the Knives** là bài hát thứ tư của đĩa một trong *[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition](../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md)*. Nó dựa trên [](../T/The_Hobbit.md) của cuốn sách "[Đập kính và đập vỡ đĩa!](../C/Chip_the_glasses_and_crack_the_plates!.md)"
 
@@ -24,25 +24,25 @@ images:
 
 <blockquote class="tg-quote noexcerpt">
 <div class="poem">
-<p>Làm cùn dao, bẻ cong nĩa<br/>
-Đập chai và đốt nút chai<br/>
-Đục kính và đập vỡ đĩa<br/>
-Đó chính là điều mà <a href="Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> ghét!<br/>
+<p>Blunt the knives, bend the forks<br/>
+Smash the bottles and burn the corks<br/>
+Chip the glasses and crack the plates<br/>
+That&#39;s what <a href="Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> hates!<br/>
 <br/>
-Cắt vải, dẫm lên mỡ<br/>
-Để xương trên chiếu phòng ngủ<br/>
-Đổ sữa xuống sàn tủ đựng thức ăn<br/>
-Tưới rượu vào từng cửa!<br/>
+Cut the cloth, tread on the fat<br/>
+Leave the bones on the bedroom mat<br/>
+Pour the milk on the pantry floor<br/>
+Splash the wine on every door!<br/>
 <br/>
-Đổ sành vào tô nước sôi<br/>
-Đập chúng lên bằng một cây sào<br/>
-Khi bạn hoàn thành nếu chúng còn nguyên<br/>
-Đưa họ xuống hành lang để lăn<br/>
+Dump the crocks in a boiling bowl<br/>
+Pound them up with a thumping pole<br/>
+When you&#39;re finished if they are whole<br/>
+Send them down the hall to roll<br/>
 <br/>
-Đó chính là điều mà Bilbo Baggins ghét!
+That&#39;s what Bilbo Baggins hates!
 </p>
 </div>
-<p class="tg-quote-footer"><cite>tập <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition">The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition</a></i></cite></p>
+<p class="tg-quote-footer"><cite><i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition">The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition</a></i> booklet</cite></p>
 </blockquote>
 
 ## Xem thêm {#See_also}

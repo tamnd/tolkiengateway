@@ -14,10 +14,10 @@ images:
   - "Anke_Eißmann_-_Tuor's_first_view_of_the_sea.jpeg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Tuor&#39;s_first_view_of_the_sea.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/09/Anke_Ei%C3%9Fmann_-_Tuor%27s_first_view_of_the_sea.jpeg/300px-Anke_Ei%C3%9Fmann_-_Tuor%27s_first_view_of_the_sea.jpeg" decoding="async" loading="lazy" width="300" height="227" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/09/Anke_Ei%C3%9Fmann_-_Tuor%27s_first_view_of_the_sea.jpeg/450px-Anke_Ei%C3%9Fmann_-_Tuor%27s_first_view_of_the_sea.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/0/09/Anke_Ei%C3%9Fmann_-_Tuor%27s_first_view_of_the_sea.jpeg/600px-Anke_Ei%C3%9Fmann_-_Tuor%27s_first_view_of_the_sea.jpeg 2x" data-file-width="1122" data-file-height="850"/></a><figcaption><i>Tuor&#39;s first view of the sea</i> của <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Tuor&#39;s_first_view_of_the_sea.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/09/Anke_Ei%C3%9Fmann_-_Tuor%27s_first_view_of_the_sea.jpeg/300px-Anke_Ei%C3%9Fmann_-_Tuor%27s_first_view_of_the_sea.jpeg" decoding="async" loading="lazy" width="300" height="227" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/09/Anke_Ei%C3%9Fmann_-_Tuor%27s_first_view_of_the_sea.jpeg/450px-Anke_Ei%C3%9Fmann_-_Tuor%27s_first_view_of_the_sea.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/0/09/Anke_Ei%C3%9Fmann_-_Tuor%27s_first_view_of_the_sea.jpeg/600px-Anke_Ei%C3%9Fmann_-_Tuor%27s_first_view_of_the_sea.jpeg 2x" data-file-width="1122" data-file-height="850"/></a><figcaption><i>Tuor&#39;s first view of the sea</i> by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Biển! Than ôi! Tôi vẫn chưa nhìn thấy nó. Nhưng sâu thẳm trong trái tim của tất cả những người thân của tôi là niềm khao khát biển cả, thật nguy hiểm khi khơi dậy. Than ôi! cho những con mòng biển. Tôi sẽ không còn có được sự bình yên dưới cây sồi hay cây du nữa.
+<p>The Sea! Alas! I have not yet beheld it. But deep in the hearts of all my kindred lies the sea-longing, which it is perilous to stir. Alas! for the gulls. No peace shall I have again under beech or under elm.
 </p>
 <p class="tg-quote-footer"><cite><a href="../L/Legolas.md" title="Legolas">Legolas</a> in <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Last_Debate.md" title="The Last Debate">The Last Debate</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -35,7 +35,7 @@ Khái niệm thèm biển đã có trong dự thảo *[The Tale of Eärendel](..
 ## Cảm hứng {#Inspiration}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>'Chính ở <a class="mw-redirect" href="../L/Land_of_Willows.md" title="Land of Willows">Vùng đất của những cây liễu</a>, tôi đã nghe thấy' hơi thở không thể dò được<br/>của <a href="../U/Ulumúri.md" title="Ulumúri">Những chiếc sừng của Ylmir</a> đang kêu gọi—và sẽ nghe thấy chúng cho đến khi tôi chết.
+<p>&#39;Twas in the <a class="mw-redirect" href="../L/Land_of_Willows.md" title="Land of Willows">Land of Willows</a> that I heard th&#39; unfathomed breath<br/>Of the <a href="../U/Ulumúri.md" title="Ulumúri">Horns of Ylmir</a> calling—and shall hear them till my death.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Horns_of_Ylmir.md" title="The Horns of Ylmir">The Horns of Ylmir</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

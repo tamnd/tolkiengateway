@@ -23,7 +23,7 @@ Vào [26 tháng 1](../_/26_January.md) [1925](../_/1925.md), [J.R.R. Tolkien](..
 ## Trích xuất {#Extract}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Trước hết, tôi hy vọng rằng bây giờ bạn không nghỉ hưu vì sức khỏe mới tái phát hoặc bệnh tật gia tăng, mà chỉ để tận hưởng một thời gian dài nghỉ ngơi và hạnh phúc xứng đáng. Tôi hy vọng tôi có thể gửi cho bạn những lời chúc tốt đẹp nhất của tôi, cho chính bạn và cho bà Wright, với tư cách là một đệ tử biết ơn (chính các tác phẩm của bạn, đã đến với tôi một cách tình cờ khi còn là một cậu học sinh, lần đầu tiên tiết lộ cho tôi môn ngữ văn mà tôi yêu thích) mà bạn đã thể hiện nhờ rất nhiều lòng tốt.
+<p>In the first place I hope that you are not retiring now because of renewed or increased ill-health, but only to enjoy a very long period of well-earned rest and happiness. I hope I may send you my very best wishes, to yourself and to Mrs. Wright, as a grateful disciple (it was your works, that came into my hands by chance as a schoolboy, that first revealed to me the philology I love) to whom you have shown since so many kindnesses.
 </p>
 </blockquote>
 

@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*Fell beast* của [Liz Danforth](../../main/L/Liz_Danforth.md), xuất hiện trong Ruth Sochard Pitt, Jeff O'Hare, [Peter C. Fenlon, Jr.](../../main/P/Pete_Fenlon.md), *[Creatures of Middle-earth (2nd edition)](<../../main/C/Creatures_of_Middle-earth_(2nd_edition).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2012, 1994) .
+*Fell beast* của [Liz Danforth](../../main/L/Liz_Danforth.md), xuất hiện trong Ruth Sochard Pitt, Jeff O'Hare, [Peter C. Fenlon, Jr.](../../main/P/Pete_Fenlon.md), *[Creatures of Middle-earth (2nd edition)](<../../main/C/Creatures_of_Middle-earth_(2nd_edition).md>)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2012, 1994) .
 
 ## Giấy phép {#Licensing}
 

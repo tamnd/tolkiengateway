@@ -35,7 +35,7 @@ Tính đến tháng 8 năm 2023, bản mod vẫn đang được phát triển v�
 
 <table style="margin: 0 auto; width: 100%;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Các bản mod trò chơi điện tử miễn phí do người hâm mộ tạo ra và trò chơi dành cho người hâm mộ được cài đặt trong <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Fan-made freeware video game mods and fan games set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </th></tr>
 <tr>
 <th style="background: var(--tg-color-surface-3);" align="center"> <i><a class="extiw" href="http://en.wikipedia.org/wiki/Civilization_IV" title="wikipedia:Civilization IV">Civilization IV</a></i> (2005)

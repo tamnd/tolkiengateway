@@ -18,36 +18,36 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Ngàn năm hòa bình <br/>
-Họ đã sống cùng nhau <br/>
-Không hận thù cũng không tham lam <br/>
-Không có thì tốt hơn <br/>
-Nghệ nhân người lùn <br/>
-Những thợ rèn yêu tinh vĩ đại nhất <br/>
-Hội trường trên núi đông đúc <br/>
-Và thành phố Ost-in-Edhil <br/>
+<p>Thousand years of peace <br/>
+They lived together <br/>
+No grudge nor greed <br/>
+Without was heavenly better <br/>
+Dwarvens artisans <br/>
+The greatest elven smiths <br/>
+Crowded the mountain halls <br/>
+And city of Ost-in-Edhil <br/>
 <br/>
-Những người thợ kim hoàn <br/>
+People of the jewel smiths <br/>
 Gwaith-i-Mírdain <br/>
-Những người thợ kim hoàn <br/>
+People of the jewel smiths <br/>
 Gwaith-i-Mírdain <br/>
 <br/>
-Ngàn năm hòa bình <br/>
-Họ đã sống cùng nhau <br/>
-Không hận thù cũng không tham lam <br/>
-Không có thì tốt hơn <br/>
-Hai truyền thuyết như một <br/>
-Khơi dậy những ngày ngỡ ngàng <br/>
-Thi triển bùa chú <br/>
-Giải phóng sức mạnh thần thánh <br/>
+Thousand years of peace <br/>
+They lived together <br/>
+No grudge nor greed <br/>
+Without was heavenly better <br/>
+Two lores as one <br/>
+Aroused the days of wonder <br/>
+Casted the spells and charms <br/>
+Unleashed the power of god <br/>
 <br/>
-Một lần nữa họ sẽ tiết lộ <br/>
-Tâm hồn của họ <br/>
-Một lần nữa họ sẽ thấy <br/>
-Ngoài nghệ thuật cao cấp <br/>
-Chính bàn tay của họ đã tạo ra <br/>
-Tất cả mọi thứ <br/>
-Vương miện ngọc <br/>
-Sự mê hoặc của những chiếc nhẫn
+Once again they&#39;ll reveal <br/>
+Their souls <br/>
+Once again they&#39;ll see <br/>
+Beyond the higher arts <br/>
+By their hands were made <br/>
+All the things <br/>
+Crown of the Jewels <br/>
+Enchantment of the Rings
 </p>
 </div>

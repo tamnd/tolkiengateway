@@ -26,7 +26,7 @@ Trong [1963](../_/1963.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết
 ## Từ cuộc đấu giá {#From_the_auction}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Trong thư Tolkien xin lỗi 'rằng <a href="../F/Farmer_Giles_of_Ham.md" title="Farmer Giles of Ham">cái này</a> chỉ mới là nửa cuốn sách. Dù vậy tôi vẫn phải chịu nhiều đau đớn.” Ông tiếp tục đề cập đến sức khỏe của mình 'Tôi sẽ đi vắng vào thứ Sáu tới theo lệnh của Bác sĩ <i>me</i> không được <a href="../E/Edith_Tolkien.md" title="Edith Tolkien">Edith</a>, mặc dù bà khá lảo đảo. Bây giờ tôi gần như cạn kiệt năng lượng: tinh thần hoặc thể chất.'
+<p>In the letter Tolkien apologises &#39;that <a href="../F/Farmer_Giles_of_Ham.md" title="Farmer Giles of Ham">this</a> is only half a book. Even so it cost me great pains.&#39; He goes on to mention his health &#39;Am going away on Friday next by Doctor&#39;s orders to <i>me</i> not to <a href="../E/Edith_Tolkien.md" title="Edith Tolkien">Edith</a>, though she is pretty groggy. I am now nearly out of juice: mental, or physical.&#39;
 </p>
 <p class="tg-quote-footer"><cite>Bloomsbury Auctions<sup id="cite_ref-Bloom_2-2" class="reference"><a href="#cite_note-Bloom-2">[2]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

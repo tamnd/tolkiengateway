@@ -34,7 +34,7 @@ sort_keys:
 ## Ví dụ {#Examples}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Yéni únótimë ve rámar aldaron! ('năm dài vô số như cánh cây!')<sup id="cite_ref-Namarie_5-0" class="reference"><a href="#cite_note-Namarie-5">[5]</a></sup>
+<p>Yéni únótimë ve rámar aldaron! (&#39;long years numberless as the wings of trees!&#39;)<sup id="cite_ref-Namarie_5-0" class="reference"><a href="#cite_note-Namarie-5">[5]</a></sup>
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../N/Namárië.md" title="Namárië">Namárië</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

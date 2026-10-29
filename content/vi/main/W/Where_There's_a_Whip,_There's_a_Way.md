@@ -19,44 +19,44 @@ Bài hát được hát trong chuyến đi [Frodo](../F/Frodo_Baggins.md) và [S
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Ở đâu có roi ở đó có đường đi.<br/>
-Ở đâu có roi, ở đó có đường.<br/>
-Ở đâu có roi...<i>[continues in second voice]</i><br/>
+<p>Where there&#39;s a whip, there&#39;s a way.<br/>
+Where there&#39;s a whip, there&#39;s a way.<br/>
+Where there&#39;s a whip...<i>[continues in second voice]</i><br/>
 <br/>
-Hôm nay chúng ta không muốn gây chiến<br/>
-Nhưng Chúa tể của roi nói: "không, không, không!"<br/>
-Chúng ta sẽ hành quân cả ngày, cả ngày, cả ngày!<br/>
-Ở đâu có roi ở đó có đường đi!<br/>
+We don&#39;t wanna go to war today<br/>
+But the Lord of the Lash says: &#34;nay, nay, nay!&#34;<br/>
+We&#39;re gonna march all day, all day, all day!<br/>
+Where there&#39;s a whip there&#39;s a way!<br/>
 <br/>
-Ở đâu có roi, ở đó có đường!<br/>
-Ở đâu có roi, ở đó có đường!<br/>
-Ở đâu có roi, ở đó có đường!<br/>
-Trái, phải, trái, phải, trái<br/>
-Ở đâu có roi, ở đó có đường!<br/>
-Trái, phải<br/>
+Where there&#39;s a whip, there&#39;s a way!<br/>
+Where there&#39;s a whip, there&#39;s a way!<br/>
+Where there&#39;s a whip, there&#39;s a way!<br/>
+Left, right, left, right, left<br/>
+Where there&#39;s a whip, there&#39;s a way!<br/>
+Left, right<br/>
 <br/>
-Vết nứt ở phía sau cho biết chúng ta sẽ chiến đấu<br/>
-Chúng ta sẽ hành quân cả ngày lẫn đêm và hơn thế nữa<br/>
-Vì chúng ta là nô lệ của cuộc chiến Chúa tể Bóng tối.<br/>
-Trái, phải, trái, phải, trái, phải<br/>
+The crack on the back says we&#39;re gonna fight<br/>
+We&#39;re gonna march all day and night and more<br/>
+For we are the slaves of the Dark Lord&#39;s war.<br/>
+Left, right, left, right, left, right<br/>
 <br/>
-Ở đâu có roi, ở đó có đường!<br/>
-Ở đâu có roi, ở đó có đường.<br/>
-Đâu có roi...<i>[continues in second voice]</i><br/>
+Where there&#39;s a whip, there&#39;s a way!<br/>
+Where there&#39;s a whip, there&#39;s a way.<br/>
+Where there&#39;s a whip...<i>[continues in second voice]</i><br/>
 <br/>
-Hôm nay chúng tôi không muốn gây chiến!<br/>
-Nhưng Chúa tể của roi nói: "không, không, không!"<br/>
-Chúng ta sẽ hành quân cả ngày, cả ngày, cả ngày!<br/>
-Ở đâu có roi ở đó có đường đi!<br/>
-Trái, phải, trái phải!<br/>
+We don&#39;t wanna go to war today!<br/>
+But the Lord of the Lash says: &#34;nay, nay, nay!&#34;<br/>
+We&#39;re gonna march all day, all day, all day!<br/>
+Where there&#39;s a whip there&#39;s a way!<br/>
+Left, right, left right!<br/>
 <br/>
 <i>[scene of Frodo and Sam]</i><br/>
 <br/>
-Ở đâu có roi!<br/>
-Hôm nay chúng tôi không muốn gây chiến!<br/>
-Nhưng Chúa tể của roi nói: "không, không, không!"<br/>
-Chúng ta sẽ hành quân cả ngày, cả ngày, cả ngày!<br/>
-Ở đâu có roi ở đó có đường đi!<br/>
+Where there&#39;s a whip!<br/>
+We don&#39;t wanna go to war today!<br/>
+But the Lord of the Lash says: &#34;nay, nay, nay!&#34;<br/>
+We&#39;re gonna march all day, all day, all day!<br/>
+Where there&#39;s a whip there&#39;s a way!<br/>
 </p>
 </div>
 

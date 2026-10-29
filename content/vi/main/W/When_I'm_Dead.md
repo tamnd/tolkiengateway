@@ -19,30 +19,30 @@ Nó được trình bày bằng ba ngôn ngữ: [tiếng Anh cổ](../O/Old_Engl
 ## Trong tiếng Anh cổ {#In_Old_English}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Þa ic beo chết rồi.<br/>
-không byrgaþ lic min,<br/>
-tại doð min ban<br/>
-trên chiến thắng đọc máu.<br/>
+<p>Þa ic beo dead.<br/>
+no byrgaþ lic min,<br/>
+at doð min ban<br/>
+on blod-read win.<br/>
 <br/>
 Sete fullne belg<br/>
-æt đầu và thai nhi,<br/>
-chào mừng bạn có chấy rận<br/>
-brosnung cá cược.
+æt heafd&#39; and fet,<br/>
+wel þæt mines lices<br/>
+brosnung bett.
 </p>
 </div>
 
 ## Ở Scotland {#In_Scots}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Quhan đã bảo vệ tôi,<br/>
-Ôi trời ơi,<br/>
-bot đã giải quyết xong việc này <br/>
-ở cleir clarré.<br/>
+<p>Quhan deid me tais,<br/>
+O biri nocht me,<br/>
+bot sett ilk a bain <br/>
+in cleir clarré.<br/>
 <br/>
-Đặt một chai rượu vang<br/>
-tại mi heid và mi foit,<br/>
-và trong trạng thái nghỉ ngơi và trong ro<br/>
-tôi luôn luôn cảm thấy như vậy.
+Sett ane bottel o bouse<br/>
+at mi heid and mi foit,<br/>
+and in rest and in ro<br/>
+everma i moit.
 </p>
 </div>
 

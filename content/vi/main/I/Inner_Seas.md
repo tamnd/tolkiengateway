@@ -21,9 +21,9 @@ langlinks:
 
 ## Biển Nội vào thời kỳ sớm nhất Arda {#Inner_Seas_in_the_earliest_times_of_Arda}
 
-Ngay từ đầu Arda, Biển Nội đã đề cập đến [Belegaer](../B/Belegaer.md) và [Biển Đông](../E/East_Sea.md), các đại dương giữa hai lục địa bên ngoài ([Aman](../A/Aman.md) ở Phương Tây và [Vùng đất của Mặt Trời](../L/Land_of_the_Sun.md) ở phương Đông) và [Trung Địa](../M/Middle-earth.md) riêng biệt, trái ngược với [Biển Ngoài](../O/Outer_Sea.md) mở rộng từ các cạnh tới cạnh dưới của Arda.
+Ngay từ đầu Arda, Biển Nội đã đề cập đến [Belegaer](../B/Belegaer.md) và [phương Đông Biển](../E/East_Sea.md), các đại dương giữa hai lục địa bên ngoài ([Aman](../A/Aman.md) ở Phương Tây và [Vùng đất của Mặt Trời](../L/Land_of_the_Sun.md) ở phương Đông) và [Trung Địa](../M/Middle-earth.md) riêng biệt, trái ngược với [Bên ngoài Biển](../O/Outer_Sea.md) mở rộng từ các cạnh tới cạnh dưới của Arda.
 
-Khi [Ulmo](../U/Ulmo.md) đến Arda cùng với [Maiar](../M/Maiar.md) của mình, ông đã trao cho [Ossë](../O/Ossë.md) và [Uinen](../U/Uinen.md) "sự cai trị của sóng và sự chuyển động của Biển Nội", trong khi cá nhân ông cư trú ở Ngoại Biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi [Ulmo](../U/Ulmo.md) đến Arda cùng với [Maiar](../M/Maiar.md) của mình, ông ta đã trao cho [Ossë](../O/Ossë.md) và [Uinen](../U/Uinen.md) "sự cai trị của sóng và sự chuyển động của Biển Nội", trong khi cá nhân ông ta cư trú ở Ngoại Biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Ở [Ambarkanta](../A/Ambarkanta.md), Biển Nội, hay "biển cổ", được mô tả là nằm "trong vùng trũng" giữa lục địa trung tâm với vùng đất phía tây và phía đông, và nước của chúng chỉ tràn vào vực sâu ở phía bắc và phía nam, nơi chúng không có bờ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -33,9 +33,9 @@ Khi [Dúnedain](../D/Dúnedain.md) không thể đi quá xa đến Phương Tây
 
 Những "biển nội địa" này đã đạt tới *from* Belegaer và do đó chắc chắn phải ám chỉ một thứ gì đó khác ngoài Biển Nội vĩ đại vào thời kỳ đầu của những ngày đầu.
 
-Câu trả lời có thể được tìm thấy từ [Ambarkanta Bản đồ V](../A/Ambarkanta_maps.md) mô tả địa lý của Arda sau khi [Những ngọn đèn của Valar](../L/Lamps_of_the_Valar.md) bị phá hủy:<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> ở những nơi mà những Ngọn đèn đứng, hai khối nước lớn đã hình thành, "Biển Nội Địa" hay [Biển Helcar](../S/Sea_of_Helcar.md) ở phía Bắc và "Biển Đông" ở miền Nam. Biển Đông, ở phía nam là [Vùng đất tối](../D/Dark_Land.md), cung cấp một tuyến đường từ Belegaer đến đại dương phía đông – còn được đặt tên là [Biển Đông](../E/East_Sea.md), trong Ambarkanta Bản đồ IV.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Câu trả lời có thể được tìm thấy từ [Ambarkanta Bản đồ V](../A/Ambarkanta_maps.md) mô tả địa lý của Arda sau khi [Những ngọn đèn của Valar](../L/Lamps_of_the_Valar.md) bị phá hủy:<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> ở những nơi mà những Ngọn đèn đứng, hai khối nước lớn đã hình thành, "Inland Biển" hay [Biển Helcar](../S/Sea_of_Helcar.md) ở phía Bắc và "phương Đông Biển" ở miền Nam. phương Đông Biển, ở phía nam là [Vùng đất tối](../D/Dark_Land.md), cung cấp một tuyến đường từ Belegaer đến đại dương phía đông – còn được đặt tên là [phương Đông Biển](../E/East_Sea.md), trong Ambarkanta Bản đồ IV.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Lưu ý rằng "Biển Đông" của Ambarkanta Bản đồ V được [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) đặt tên là "Biển Nội" trong bản đồ mô tả các chuyến đi của Dúnedain trong Kỷ Đệ Nhị, rõ ràng là dựa trên việc đề cập đến trong *[Akallabêth](../A/Akallabêth.md)* và bỏ qua cái tên Tolkien mà chính ông đặt cho biển.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Lưu ý rằng "phương Đông Biển" của Ambarkanta Bản đồ V được [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) đặt tên là "Biển Nội" trong bản đồ mô tả các chuyến đi của Dúnedain trong Kỷ Đệ Nhị, rõ ràng là dựa trên việc đề cập đến trong *[Akallabêth](../A/Akallabêth.md)* và bỏ qua cái tên Tolkien mà chính ông ta đặt cho biển.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

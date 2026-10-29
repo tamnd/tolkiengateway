@@ -26,22 +26,22 @@ categories:
 </th></tr>
 <tr>
 <td><i>Poldórien</i></td>
-<td>Poldor ("sức mạnh"); <i>Poldórëa</i> là tên gọi ban đầu của <a href="../T/Tulkas.md" title="Tulkas">Tulkas</a></td>
+<td>Poldor (&#34;strength&#34;); <i>Poldórëa</i> being an early epithet of <a href="../T/Tulkas.md" title="Tulkas">Tulkas</a></td>
 <td>&#34;Sunday&#34;
 </td></tr>
 <tr>
-<td><i>Múrien</i> (đã thay thế <i>Olórien</i> trước đó)</td>
-<td>Ngủ hay mơ</td>
+<td><i>Múrien</i> (replaced earlier <i>Olórien</i>)</td>
+<td>Sleep or dreams</td>
 <td>&#34;Monday&#34;
 </td></tr>
 <tr>
 <td><i>Fuinen</i></td>
-<td>Cái chết hay nỗi buồn, <i>Fui</i> là tên ban đầu của <a href="../N/Nienna.md" title="Nienna">Nienna</a></td>
+<td>Death or sorrow, <i>Fui</i> being an early name of <a href="../N/Nienna.md" title="Nienna">Nienna</a></td>
 <td>&#34;Tuesday&#34;
 </td></tr>
 <tr>
 <td><i>Taimoinen</i></td>
-<td>Taime ("bầu trời"); <i>Taimo</i> là tên ban đầu của <a class="mw-redirect" href="../M/Manwe.md" title="Manwe">Manwe</a></td>
+<td>Taime (&#34;sky&#34;); <i>Taimo</i> being an early name of <a class="mw-redirect" href="../M/Manwe.md" title="Manwe">Manwe</a></td>
 <td>&#34;Wednesday&#34;
 </td></tr>
 <tr>
@@ -51,12 +51,12 @@ categories:
 </td></tr>
 <tr>
 <td><i>Palúrien</i></td>
-<td>Trái đất rộng lớn; Palúrien cũng là tên gọi ban đầu của <a href="../Y/Yavanna.md" title="Yavanna">Yavanna</a></td>
+<td>The wide earth; Palúrien being also an early epithet of <a href="../Y/Yavanna.md" title="Yavanna">Yavanna</a></td>
 <td>&#34;Friday&#34;
 </td></tr>
 <tr>
 <td><i>Sainen</i></td>
-<td>Sá ("lửa")</td>
+<td>Sá (&#34;fire&#34;)</td>
 <td>&#34;Saturday&#34;
 </td></tr></tbody></table>
 

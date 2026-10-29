@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:John Howe - The Witch King.jpg"
 ---
 
-Chuyển hướng đến [Tệp:John Howe - Vua Phù thủy.jpg](John_Howe_-_The_Witch_King.jpg.md).
+Chuyển hướng đến [Tệp:John Howe - Phù thủy Vua.jpg](John_Howe_-_The_Witch_King.jpg.md).

@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Boromir](../../main/B/Boromir.md) thổi [Sừng lớn](../../main/G/Great_Horn.md). Ảnh chụp màn hình từ [*The Lord of the Rings* (phim năm 1978)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
+[Boromir](../../main/B/Boromir.md) thổi [Sừng lớn](../../main/G/Great_Horn.md). Ảnh chụp màn hình từ [*The Lord of the Rings* (phim 1978)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Giấy phép {#Licensing}
 

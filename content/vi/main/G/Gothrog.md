@@ -24,7 +24,7 @@ sort_keys:
   "Servants of Melkor": "Gothrog"
 ---
 
-**Gothrog** là một [Quỷ](../_/Úmaiar.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Etymologies](../T/The_Etymologies.md)* có từ [những năm 1930](../_/1930.md). Không có thông tin gì thêm về ông vì ông chỉ xuất hiện dưới dạng tên trong một mục từ vựng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Gothrog** là một [Quỷ](../_/Úmaiar.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Etymologies](../T/The_Etymologies.md)* có từ [những năm 1930](../_/1930.md). Không có thông tin gì thêm về ông ta vì ông ta chỉ xuất hiện dưới dạng tên trong một mục từ vựng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Thậm chí còn không biết tên *Gothrog* đề cập đến một cá nhân riêng biệt hay là tên khác của một nhân vật đã tồn tại trước đó.
 
@@ -52,7 +52,7 @@ Thậm chí còn không biết tên *Gothrog* đề cập đến một cá nhân
 <tr>
 <td align="right" style="background: var(--tg-color-surface-4); width: 110px; padding-right: 4px;" rowspan="2"><b><a href="../V/Valar.md" title="Valar">Valar</a></b>
 </td>
-<td align="right" style="background: var(--tg-color-surface-3); width: 60px; font-size: 95%; padding-right: 4px;"><b><a class="mw-redirect" href="../L/Lords_of_the_Valar.md" title="Lords of the Valar">Các chúa tể</a></b>
+<td align="right" style="background: var(--tg-color-surface-3); width: 60px; font-size: 95%; padding-right: 4px;"><b><a class="mw-redirect" href="../L/Lords_of_the_Valar.md" title="Lords of the Valar">Lords</a></b>
 </td>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="../M/Manwë.md" title="Manwë">Manwë</a></i> · <i><a href="../U/Ulmo.md" title="Ulmo">Ulmo</a></i> · <i><a href="../A/Aulë.md" title="Aulë">Aulë</a></i> · <i><a href="../O/Oromë.md" title="Oromë">Oromë</a></i> · <i><a href="../M/Mandos.md" title="Mandos">Mandos</a></i> · <a href="../I/Irmo.md" title="Irmo">Irmo</a> · <a href="../T/Tulkas.md" title="Tulkas">Tulkas</a> · <s><i><a href="../M/Morgoth.md" title="Morgoth">Melkor</a></i></s>
 </td></tr>
@@ -72,7 +72,7 @@ Thậm chí còn không biết tên *Gothrog* đề cập đến một cá nhân
 <td style="font-size: 90%; padding-left: 4px;"><a href="../S/Sauron.md" title="Sauron">Sauron</a> · <a href="../B/Balrogs.md" title="Balrogs">Balrogs</a> (<a href="Gothmog_(balrog).md" title="Gothmog (balrog)">Gothmog</a> · <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>) · <a href="../B/Boldog.md" title="Boldog">Boldogs</a> · <a href="../T/Thuringwethil.md" title="Thuringwethil">Thuringwethil</a> · <a class="mw-selflink selflink">Gothrog</a>
 </td></tr>
 <tr>
-<td align="right" style="background: var(--tg-color-surface-4); width: 110px; padding-right: 4px;" rowspan="2"><b>Khái niệm và địa điểm</b>
+<td align="right" style="background: var(--tg-color-surface-4); width: 110px; padding-right: 4px;" rowspan="2"><b>Concepts and locations</b>
 </td>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Almaren.md" title="Almaren">Almaren</a> · <a href="../A/Aratar.md" title="Aratar">Aratar</a> (được chỉ định trong <i>italics</i>) · <a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Sự tạo ra Ainur</a> · <a href="../F/Fana.md" title="Fana">Fana</a> · <a href="../M/Máhanaxar.md" title="Máhanaxar">Máhanaxar</a> · <a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Ainulindalë</a> · <a class="mw-redirect" href="../O/Order_of_Wizards.md" title="Order of Wizards">Thứ tự của Pháp sư</a> (được chỉ định trong <b>bold</b>) · <a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Âm nhạc thứ hai của các Ainur</a> · <a href="../T/Timeless_Halls.md" title="Timeless Halls">Hội trường vượt thời gian</a> · <a href="../V/Valarin.md" title="Valarin">Valarin</a> · <a href="../V/Valinor.md" title="Valinor">Valinor</a> · <a href="../V/Valimar.md" title="Valimar">Valimar</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Almaren.md" title="Almaren">Almaren</a> · <a href="../A/Aratar.md" title="Aratar">Aratar</a> (indicated in <i>italics</i>) · <a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Creation of the Ainur</a> · <a href="../F/Fana.md" title="Fana">Fana</a> · <a href="../M/Máhanaxar.md" title="Máhanaxar">Máhanaxar</a> · <a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Ainulindalë</a> · <a class="mw-redirect" href="../O/Order_of_Wizards.md" title="Order of Wizards">Order of Wizards</a> (indicated in <b>bold</b>) · <a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Second Music of the Ainur</a> · <a href="../T/Timeless_Halls.md" title="Timeless Halls">Timeless Halls</a> · <a href="../V/Valarin.md" title="Valarin">Valarin</a> · <a href="../V/Valinor.md" title="Valinor">Valinor</a> · <a href="../V/Valimar.md" title="Valimar">Valimar</a>
 </td></tr></tbody></table>

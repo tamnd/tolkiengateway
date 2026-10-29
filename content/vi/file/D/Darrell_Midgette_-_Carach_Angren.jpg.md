@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Carach Angren](../../main/C/Carach_Angren.md). [Peter C. Fenlon](../../main/P/Pete_Fenlon.md), [Coleman Charlton](../../main/C/Coleman_Charlton.md), [Jessica Ney](../../main/J/Jessica_M._Ney-Grimm.md), John Croudis, Keith Robley, Anders Blixt, *[Gorgoroth](<../../main/G/Gorgoroth_(book).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #3112, 1990)
+[Carach Angren](../../main/C/Carach_Angren.md). [Peter C. Fenlon](../../main/P/Pete_Fenlon.md), [Coleman Charlton](../../main/C/Coleman_Charlton.md), [Jessica Ney](../../main/J/Jessica_M._Ney-Grimm.md), John Croudis, Keith Robley, Anders Blixt, *[Gorgoroth](<../../main/G/Gorgoroth_(book).md>)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #3112, 1990)
 
 <br>
 

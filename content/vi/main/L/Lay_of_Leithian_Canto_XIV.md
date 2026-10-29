@@ -18,27 +18,27 @@ images:
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin-left:15px; border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><a href="Lay_of_Leithian.md" title="Lay of Leithian">Lay of Leithian</a> khổ
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><a href="Lay_of_Leithian.md" title="Lay of Leithian">Lay of Leithian</a> cantos
 </th></tr>
 <tr>
 <td>
-<ol><li><b><a href="Lay_of_Leithian_Canto_I.md" title="Lay of Leithian Canto I">Khúc ca I</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_II.md" title="Lay of Leithian Canto II">Khúc ca II</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_III.md" title="Lay of Leithian Canto III">Khúc ca III</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_IV.md" title="Lay of Leithian Canto IV">Khúc ca IV</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_V.md" title="Lay of Leithian Canto V">Khúc ca V</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_VI.md" title="Lay of Leithian Canto VI">Khúc ca VI</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_VII.md" title="Lay of Leithian Canto VII">Khúc ca VII</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_VIII.md" title="Lay of Leithian Canto VIII">Khúc ca VIII</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_IX.md" title="Lay of Leithian Canto IX">Khúc ca IX</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_X.md" title="Lay of Leithian Canto X">Khúc ca X</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_XI.md" title="Lay of Leithian Canto XI">Khúc ca XI</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_XII.md" title="Lay of Leithian Canto XII">Khúc ca XII</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_XIII.md" title="Lay of Leithian Canto XIII">Khúc ca XIII</a></b></li>
+<ol><li><b><a href="Lay_of_Leithian_Canto_I.md" title="Lay of Leithian Canto I">Canto I</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_II.md" title="Lay of Leithian Canto II">Canto II</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_III.md" title="Lay of Leithian Canto III">Canto III</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_IV.md" title="Lay of Leithian Canto IV">Canto IV</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_V.md" title="Lay of Leithian Canto V">Canto V</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_VI.md" title="Lay of Leithian Canto VI">Canto VI</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_VII.md" title="Lay of Leithian Canto VII">Canto VII</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_VIII.md" title="Lay of Leithian Canto VIII">Canto VIII</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_IX.md" title="Lay of Leithian Canto IX">Canto IX</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_X.md" title="Lay of Leithian Canto X">Canto X</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_XI.md" title="Lay of Leithian Canto XI">Canto XI</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_XII.md" title="Lay of Leithian Canto XII">Canto XII</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_XIII.md" title="Lay of Leithian Canto XIII">Canto XIII</a></b></li>
 <li><b><a class="mw-selflink selflink">Canto XIV</a></b></li></ol>
 </td></tr></tbody></table>
 
-Canto XIV là [Canto](../C/Cantos_of_the_Lay_of_Leithian.md) cuối cùng, chưa hoàn thành của *[Lay of Leithian](Lay_of_Leithian.md)*. Nó bắt đầu với việc [Beren](../B/Beren.md) và [Lúthien](Lúthien.md) chạy trốn cùng với [Silmaril](../S/Silmarils.md) thông qua [Angband](../A/Angband.md) trong giấc ngủ. Nhưng đến cổng [Carcharoth](../C/Carcharoth.md) đã tỉnh dậy sau cơn mê. Ông lao vào chúng trước khi Lúthien kịp tạo ra một câu thần chú khác, và Beren đứng trước mặt người mình yêu, dùng tay trái tóm lấy cổ họng con sói và dùng tay phải đâm Silmaril vào mắt con sói. Những chiếc răng nanh của Carcahroth "đập vào nhau như một cái bẫy" và cướp đi bàn tay của Beren, Silmaril các thứ. Ở đó Lay kết thúc, dang dở.
+Canto XIV là [Canto](../C/Cantos_of_the_Lay_of_Leithian.md) cuối cùng, chưa hoàn thành của *[Lay of Leithian](Lay_of_Leithian.md)*. Nó bắt đầu với việc [Beren](../B/Beren.md) và [Lúthien](Lúthien.md) chạy trốn cùng với [Silmaril](../S/Silmarils.md) thông qua [Angband](../A/Angband.md) trong giấc ngủ. Nhưng đến cổng [Carcharoth](../C/Carcharoth.md) đã tỉnh dậy sau cơn mê. Ông ta lao vào chúng trước khi Lúthien kịp tạo ra một câu thần chú khác, và Beren đứng trước mặt người mình yêu, dùng tay trái tóm lấy cổ họng con sói và dùng tay phải đâm Silmaril vào mắt con sói. Những chiếc răng nanh của Carcahroth "đập vào nhau như một cái bẫy" và cướp đi bàn tay của Beren, Silmaril các thứ. Ở đó Lay kết thúc, dang dở.
 
 ## Xem thêm {#See_also}
 

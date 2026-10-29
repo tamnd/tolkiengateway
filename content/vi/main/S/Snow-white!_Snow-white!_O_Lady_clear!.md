@@ -18,38 +18,38 @@ images:
   - "J.R.R._Tolkien_-_Snow-white!_Snow-white!_O_Lady_clear!.mp3"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Elbereth</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../E/Elbereth_(disambiguation).md" title="Elbereth (disambiguation)">Elbereth (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Elbereth</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../E/Elbereth_(disambiguation).md" title="Elbereth (disambiguation)">Elbereth (disambiguation)</a></b>.</div></div>
 
 **Tuyết trắng! Bạch Tuyết! O Lady clear!** là bài hát được hát bởi [công ty](../W/Wandering_Companies.md) của [Tiên tộc](../E/Elves.md), dẫn đầu bởi [Gildor Inglorion](../G/Gildor.md), khi họ đi qua [ Shire](../T/The_Shire.md) vào cuối [Kỷ Đệ Tam](../T/Third_Age.md). Nó đã bị [Frodo Baggins](../F/Frodo_Baggins.md), [Samwise Gamgee](Samwise_Gamgee.md) và [Peregrin Took](../P/Peregrin_Took.md) nghe thấy. Mặc dù Tiên tộc lẽ ra đã hát trong [Sindarin](Sindarin.md), trong đó Frodo chỉ biết một chút, ông vẫn có thể hiểu được ý nghĩa của bài hát. Nội dung của nó tương tự như *[A Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md)*.
 
 ## Bài hát {#Song}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/1/1d/J.R.R._Tolkien_-_Snow-white%21_Snow-white%21_O_Lady_clear%21.mp3" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_Snow-white!_Snow-white!_O_Lady_clear!.mp3">https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_Snow-white!_Snow-white!_O_Lady_clear!.mp3</a></audio><figcaption><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> đọc Bạch Tuyết! Bạch Tuyết! Hỡi quý cô rõ ràng!</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/1/1d/J.R.R._Tolkien_-_Snow-white%21_Snow-white%21_O_Lady_clear%21.mp3" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_Snow-white!_Snow-white!_O_Lady_clear!.mp3">https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_Snow-white!_Snow-white!_O_Lady_clear!.mp3</a></audio><figcaption><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> reads Snow-white! Snow-white! O Lady clear!</figcaption></figure>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p> <br/>
-Bạch Tuyết! Bạch Tuyết! Hỡi cô nương trong sạch!<br/>
-	Hỡi Nữ hoàng vượt biển Tây!<br/>
-Ôi ánh sáng cho chúng ta lang thang ở đây<br/>
-	Giữa thế giới cây dệt!<br/>
+Snow-white! Snow-white! O Lady clear!<br/>
+	O Queen beyond the Western Seas!<br/>
+O light to us that wander here<br/>
+	Amid the world of woven trees!<br/>
 <br/>
-Gilthoniel! Hỡi Elbereth!<br/>
-	Mắt em trong sáng và hơi thở em sáng ngời!<br/>
-Bạch Tuyết! Bạch Tuyết! Chúng tôi hát cho bạn<br/>
-	Ở một vùng đất xa xôi ngoài biển.<br/>
+Gilthoniel! O Elbereth!<br/>
+	Clear are thy eyes and bright thy breath!<br/>
+Snow-white! Snow-white! We sing to thee<br/>
+	In a far land beyond the sea.<br/>
 <br/>
-Hỡi những vì sao trong Năm Không Nắng<br/>
-	Với bàn tay tỏa sáng của cô đã được gieo,<br/>
-Trên cánh đồng lộng gió giờ đây trong trẻo<br/>
-	Chúng tôi thấy bông hoa bạc của bạn bị thổi bay!<br/>
+O Stars that in the Sunless Year<br/>
+	With shining hand by her were sown,<br/>
+In windy fields now bright and clear<br/>
+	We see your silver blossom blown!<br/>
 <br/>
-Hỡi Elbereth! Gilthoniel!<br/>
-	Chúng tôi vẫn nhớ, chúng tôi đang sống<br/>
-Ở vùng đất xa xôi dưới tán cây này,<br/>
-	Ánh sao của Ngài trên biển Tây.
+O Elbereth! Gilthoniel!<br/>
+	We still remember, we who dwell<br/>
+In this far land beneath the trees,<br/>
+	Thy starlight on the Western Seas.
 </p>
 </div>
 
@@ -57,11 +57,11 @@ Hỡi Elbereth! Gilthoniel!<br/>
 
 <b>1971: <a href="Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)"><i>Sagan om Ringen</i> (phim năm 1971)</a>:</b>
 
-<dl><dd><a href="../N/Nazgûl.md" title="Nazgûl">Những Kỵ sĩ Đen</a> đang rình rập <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> bị xua đuổi bởi một bài hát hoành tráng. <a href="Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> nhận ra đó là bài hát của Tiên tộc và Hobbit xem họ nhảy và hát. Sau khi bài hát kết thúc, Hobbit cắm trại, ăn uống và tiệc tùng cùng Tiên tộc. Sam nhớ lại đó là một trong những trải nghiệm quan trọng nhất trong cuộc đời anh.</dd></dl>
+<dl><dd><a href="../N/Nazgûl.md" title="Nazgûl">The Black Riders</a> stalking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> are driven off by a majestic song. <a href="Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> recognises it as the song of the elves and the Hobbits watch as they dance and sing. After the song is over, the Hobbits camp, eat and party with the Elves. Sam remembers it as one of the chief experiences in his life.</dd></dl>
 
 <b>2001: <a class="mw-redirect" href="../P/Pán_prsteňov_(2001-2003_Slovak_radio_series).md" title="Pán prsteňov (2001-2003 Slovak radio series)"><i>Pán prsteňov</i> (Loạt đài tiếng Slovak 2001-2003)</a>:</b>
 
-<dl><dd>Galadriel (do Soňa Norisová thể hiện) hát bài hát trong tập thứ sáu và tập cuối của loạt phim đầu tiên (mùa), dựa trên <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>.</dd></dl>
+<dl><dd>Galadriel (portrayed by Soňa Norisová) sings the song in the sixth and final episode of the first series (season), based on <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>.</dd></dl>
 
 ## Tài liệu tham khảo {#References}
 

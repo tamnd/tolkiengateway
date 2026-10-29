@@ -14,65 +14,65 @@ images:
   - "The_Ballad_of_Bilbo_Baggins_screenshot.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Ballad_of_Bilbo_Baggins_screenshot.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fa/The_Ballad_of_Bilbo_Baggins_screenshot.jpg/300px-The_Ballad_of_Bilbo_Baggins_screenshot.jpg" decoding="async" loading="lazy" width="300" height="127" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fa/The_Ballad_of_Bilbo_Baggins_screenshot.jpg/450px-The_Ballad_of_Bilbo_Baggins_screenshot.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fa/The_Ballad_of_Bilbo_Baggins_screenshot.jpg/600px-The_Ballad_of_Bilbo_Baggins_screenshot.jpg 2x" data-file-width="679" data-file-height="287"/></a><figcaption>Ảnh chụp màn hình từ video</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Ballad_of_Bilbo_Baggins_screenshot.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fa/The_Ballad_of_Bilbo_Baggins_screenshot.jpg/300px-The_Ballad_of_Bilbo_Baggins_screenshot.jpg" decoding="async" loading="lazy" width="300" height="127" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fa/The_Ballad_of_Bilbo_Baggins_screenshot.jpg/450px-The_Ballad_of_Bilbo_Baggins_screenshot.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fa/The_Ballad_of_Bilbo_Baggins_screenshot.jpg/600px-The_Ballad_of_Bilbo_Baggins_screenshot.jpg 2x" data-file-width="679" data-file-height="287"/></a><figcaption>Screenshot from the video</figcaption></figure>
 
 **Bản Ballad của [Bilbo Baggins](../B/Bilbo_Baggins.md)** là một bài hát đình đám, được viết bởi Charles Randolph Grean và được trình bày bởi [Leonard Nimoy](../L/Leonard_Nimoy.md). Nó kể lại câu chuyện của *[The Hobbit](The_Hobbit.md)* một cách chi tiết. Phim được công chiếu lần đầu trong một tập của <a class="external text" href="http://en.wikipedia.org/wiki/Malibu_U" rel="noreferrer noopener" target="_blank">Malibu U</a> vào [28 tháng 7](../_/28_July.md), [1967](../_/1967.md). Nó đã trở thành meme trên mạng khi [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>) ra mắt và được sử dụng trong [Ringers: Lord of the Fans](../R/Ringers%253A_Lord_of_the_Fans.md).
 
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Giữa lòng đất vùng đất <a href="The_Shire.md" title="The Shire">người Shire</a><br/>
-sống một <a href="../H/Hobbits.md" title="Hobbits">hobbit</a> nhỏ bé dũng cảm mà tất cả chúng ta đều ngưỡng mộ.<br/>
-Với <a href="../P/Pipe-weed.md" title="Pipe-weed">cái tẩu</a> bằng gỗ dài của mình,<br/>
-những ngón chân lông xù,<br/>
-ông sống trong <a href="../S/Smials.md" title="Smials">hố hobbit</a> và mọi người đều biết ông.<br/>
+<p>In the middle of the earth in the land of <a href="The_Shire.md" title="The Shire">the Shire</a><br/>
+lives a brave little <a href="../H/Hobbits.md" title="Hobbits">hobbit</a> whom we all admire.<br/>
+With his long wooden <a href="../P/Pipe-weed.md" title="Pipe-weed">pipe</a>,<br/>
+fuzzy, woolly toes,<br/>
+he lives in a <a href="../S/Smials.md" title="Smials">hobbit-hole</a> and everybody knows him.<br/>
 <br/>
 Bilbo (Bilbo)<br/>
 Bilbo Baggins<br/>
-Ông chỉ cao có 3 feet<br/>
+He&#39;s only three feet tall<br/>
 Bilbo (Bilbo)<br/>
 Bilbo Baggins<br/>
-Người hobbit nhỏ bé dũng cảm nhất trong số họ.<br/>
+The bravest little hobbit of them all.<br/>
 <br/>
-Bây giờ hobbit là những người yêu chuộng hoà bình bạn biết đấy<br/>
-Họ không bao giờ vội vàng và làm mọi việc chậm rãi<br/>
-Họ không thích đi xa nhà<br/>
-Họ chỉ thích ăn và ở một mình<br/>
-Nhưng một ngày Bilbo được mời đi<br/>
-trong chuyến phiêu lưu vĩ đại tới những hang động bên dưới,<br/>
-để giúp <a href="Thorin_and_Company.md" title="Thorin and Company">một số người lùn</a> lấy lại vàng<br/>
-ngày xưa đã bị <a href="../S/Smaug.md" title="Smaug">rồng</a> đánh cắp.<br/>
-<br/>
-Bilbo (Bilbo)<br/>
-Bilbo Baggins<br/>
-Ông chỉ cao có 3 feet<br/>
-Bilbo (Bilbo)<br/>
-Bilbo Baggins<br/>
-Người hobbit nhỏ bé dũng cảm nhất trong số họ.<br/>
-<br/>
-Chà, ông đã chiến đấu với <a href="../O/Orcs.md" title="Orcs">yêu tinh</a><br/>
-Ông đã chiến đấu với một <a href="Trolls.md" title="Trolls">troll</a>!<br/>
-Ông đã đánh đố với <a href="../G/Gollum.md" title="Gollum">Gollum</a>!<br/>
-Một <a href="The_One_Ring.md" title="The One Ring">chiếc nhẫn ma thuật</a> ông đã đánh cắp!<br/>
-Ông bị truy đuổi bởi <a href="../W/Wargs.md" title="Wargs">sói</a>,<br/>
-Lạc vào rừng <a href="../M/Mirkwood.md" title="Mirkwood"></a>,<br/>
-Trốn thoát trong thùng từ sảnh của <a href="Thranduil.md" title="Thranduil">Tiên-vua</a>.<br/>
+Now hobbits are peace-lovin&#39; folks you know<br/>
+They&#39;re never in a hurry and they take things slow<br/>
+They don&#39;t like to travel away from home<br/>
+They just like to eat and be left alone<br/>
+But one day Bilbo was asked to go<br/>
+on a big adventure to the caves below,<br/>
+to help <a href="Thorin_and_Company.md" title="Thorin and Company">some dwarves</a> get back their gold<br/>
+that was stolen by a <a href="../S/Smaug.md" title="Smaug">dragon</a> in the days of old.<br/>
 <br/>
 Bilbo (Bilbo)<br/>
 Bilbo Baggins<br/>
-Người hobbit nhỏ bé dũng cảm nhất trong số họ.<br/>
+He&#39;s only three feet tall<br/>
+Bilbo (Bilbo)<br/>
+Bilbo Baggins<br/>
+The bravest little hobbit of them all.<br/>
 <br/>
-Bây giờ ông đã trở về <a href="../B/Bag_End.md" title="Bag End">nhà của mình</a> ở vùng đất Shire,<br/>
-chàng hobbit dũng cảm mà tất cả chúng ta đều ngưỡng mộ,<br/>
-chỉ ngồi trên kho báu bạc và vàng,<br/>
-đang hút tẩu trong lỗ hobbit của mình.<br/>
+Well, he fought the <a href="../O/Orcs.md" title="Orcs">goblins</a><br/>
+He battled a <a href="Trolls.md" title="Trolls">troll</a>!<br/>
+He riddled with <a href="../G/Gollum.md" title="Gollum">Gollum</a>!<br/>
+A <a href="The_One_Ring.md" title="The One Ring">magic ring</a> he stole!<br/>
+He was chased by <a href="../W/Wargs.md" title="Wargs">wolves</a>,<br/>
+Lost in the <a href="../M/Mirkwood.md" title="Mirkwood">forest</a>,<br/>
+Escaped in a barrel from the <a href="Thranduil.md" title="Thranduil">elf-king</a>&#39;s halls.<br/>
 <br/>
 Bilbo (Bilbo)<br/>
 Bilbo Baggins<br/>
-Ông chỉ cao có 3 feet<br/>
+The bravest little hobbit of them all.<br/>
+<br/>
+Now he&#39;s back in <a href="../B/Bag_End.md" title="Bag End">his home</a> in the land of the Shire,<br/>
+that brave little hobbit whom we all admire,<br/>
+just sittin&#39; on a treasure of silver and gold,<br/>
+puffin&#39; on his pipe in his hobbit-hole.<br/>
+<br/>
 Bilbo (Bilbo)<br/>
 Bilbo Baggins<br/>
-Người hobbit nhỏ bé dũng cảm nhất trong số họ.
+He&#39;s only three feet tall<br/>
+Bilbo (Bilbo)<br/>
+Bilbo Baggins<br/>
+The bravest little hobbit of them all.
 </p>
 </div>
 

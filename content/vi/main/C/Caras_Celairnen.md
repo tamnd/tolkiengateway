@@ -18,7 +18,7 @@ images:
 
 Ở [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md), **Caras Celairnen** ([S.](../S/Sindarin.md) “Thị trấn bên dòng nước rực rỡ”), cũng là *Gobel Calarnen*, là một thị trấn gần ngã ba sông [Lhûn](../L/Lhûn.md) và Uialduin.<sup id="cite_ref-p42_1-0" class="reference"><a href="#cite_note-p42-1">[1]</a></sup>
 
-Một tu viện của các học giả Arthadan, tên là Tol Lamfirith ([S.](../S/Sindarin.md) “Đảo câm lặng”), nằm cách đó 10 dặm về phía bắc.<sup id="cite_ref-p43_2-0" class="reference"><a href="#cite_note-p43-2">[2]</a></sup> Sau khi [Arthedain](../A/Arthedain.md) thất thủ, nó trở thành một tiền đồn ẩn giấu quan trọng của [Tuần Du Nhân phương Bắc](../R/Rangers_of_the_North.md).<sup id="cite_ref-p44_3-0" class="reference"><a href="#cite_note-p44-3">[3]</a></sup>
+Một tu viện của các học giả Arthadan, tên là Tol Lamfirith ([S.](../S/Sindarin.md) “Đảo câm lặng”), nằm cách đó 10 dặm về phía bắc.<sup id="cite_ref-p43_2-0" class="reference"><a href="#cite_note-p43-2">[2]</a></sup> Sau khi [Arthedain](../A/Arthedain.md) thất thủ, nó trở thành một tiền đồn ẩn giấu quan trọng của [Biệt đội miền Bắc](../R/Rangers_of_the_North.md).<sup id="cite_ref-p44_3-0" class="reference"><a href="#cite_note-p44-3">[3]</a></sup>
 
 ## Lịch sử {#History}
 

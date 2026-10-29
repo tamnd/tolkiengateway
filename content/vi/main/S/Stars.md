@@ -30,7 +30,7 @@ infobox:
     value: "Varda"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Douglas_Chaffee_-_Stars.jpg.md"><img src="https://tolkiengateway.net/w/images/a/a7/Douglas_Chaffee_-_Stars.jpg" decoding="async" loading="lazy" width="298" height="253" class="mw-file-element" data-file-width="298" data-file-height="253"/></a><figcaption><i>Stars</i> by <a href="../../category/I/Images_by_Douglas_Chaffee.md" title="Category:Images by Douglas Chaffee">Douglas Chaffee</a></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Diễn viên chính</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../I/Ilmen.md" title="Ilmen">Ilmen</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người sáng tạo</th><td class="tg-infobox-data"><a href="../V/Varda.md" title="Varda">Varda</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Douglas_Chaffee_-_Stars.jpg.md"><img src="https://tolkiengateway.net/w/images/a/a7/Douglas_Chaffee_-_Stars.jpg" decoding="async" loading="lazy" width="298" height="253" class="mw-file-element" data-file-width="298" data-file-height="253"/></a><figcaption><i>Stars</i> by <a href="../../category/I/Images_by_Douglas_Chaffee.md" title="Category:Images by Douglas Chaffee">Douglas Chaffee</a></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Stars</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../I/Ilmen.md" title="Ilmen">Ilmen</a></td></tr><tr><th scope="row" class="tg-infobox-label">Creator</th><td class="tg-infobox-data"><a href="../V/Varda.md" title="Varda">Varda</a></td></tr></tbody></table>
 
 **Các ngôi sao** là những ánh sáng được tạo ra và thiết lập bởi [Valie](../V/Valie.md) [Varda](../V/Varda.md), trên [Ilmen](../I/Ilmen.md) (không khí phía trên) rất lâu trước [Mặt Trời](Sun.md) và [Mặt Trăng](../M/Moon.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -52,7 +52,7 @@ Tiên tộc lần đầu tiên thức dậy dưới những vì sao và theo tru
 
 ### Trong văn hóa {#In_culture}
 
-Biểu tượng cũng có hình ngôi sao. Một ngôi sao tám tia tượng trưng cho [Nhà Fëanor](../H/House_of_Fëanor.md) và bảy ngôi sao tám tia phía trên vương miện và đe là biểu tượng của <a class="mw-redirect mw-disambig" href="../D/Durin.md" title="Durin">Durin</a>. Cả hai thứ này đều được mô tả trên cổng [Phương Tây của Moria](../D/Doors_of_Durin.md) (cái trước là vì [Celebrimbor](../C/Celebrimbor.md), một trong những người chế tạo ra cánh cửa, là hậu duệ của Fëanor). Bảy ngôi sao xuất hiện trên banner của Gondor. Một số đồ trang sức cũng được mô tả là các ngôi sao, đặc biệt là [Ngôi sao Elendil](Star_of_Elendil.md) mà Aragorn đeo trong Trận chiến tại cánh đồng Pelennor. Trong [Lay của Nimrodel](../L/Lay_of_Nimrodel.md), người ta nói rằng "*Một ngôi sao được buộc trên trán bà*," mô tả rõ ràng về một loại đá quý nào đó.
+Biểu tượng cũng có hình ngôi sao. Một ngôi sao tám tia tượng trưng cho [Nhà Fëanor](../H/House_of_Fëanor.md) và bảy ngôi sao tám tia phía trên vương miện và đe là biểu tượng của <a class="mw-redirect mw-disambig" href="../D/Durin.md" title="Durin">Durin</a>. Cả hai thứ này đều được mô tả trên cổng [Phương Tây của Moria](../D/Doors_of_Durin.md) (cái trước là vì [Celebrimbor](../C/Celebrimbor.md), một trong những người chế tạo ra cánh cửa, là hậu duệ của Fëanor). Bảy ngôi sao xuất hiện trên banner của Gondor. Một số đồ trang sức cũng được mô tả là các ngôi sao, đặc biệt là [Ngôi sao Elendil](Star_of_Elendil.md) mà Aragorn đeo trong Trận chiến cánh đồng Pelennor. Trong [Lay của Nimrodel](../L/Lay_of_Nimrodel.md), người ta nói rằng "*Một ngôi sao được buộc trên trán bà*," mô tả rõ ràng về một loại đá quý nào đó.
 
 Các tài liệu tham khảo nổi bật khác về các ngôi sao bao gồm:
 
@@ -130,17 +130,17 @@ Việc xác định Tiên tộc với các ngôi sao thành [Tolkien](../J/J.R.R
 <td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a> <a class="mw-redirect" href="../C/Cosmology.md" title="Cosmology">Cosmology</a></b>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"> <a href="../C/Constellations.md" title="Constellations">Chòm sao</a>
+<th style="background:var(--tg-color-surface-3);" align="right"> <a href="../C/Constellations.md" title="Constellations">Constellations</a>
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Anarríma.md" title="Anarríma">Anarríma</a></i> · <i><a href="../D/Durin&#39;s_Crown.md" title="Durin&#39;s Crown">Durin&#39;s Crown</a></i> · <i><a href="../M/Menelmacar.md" title="Menelmacar">Menelmacar</a></i> · <i><a href="../R/Remmirath.md" title="Remmirath">Remmirath</a></i> · <i><a href="Soronúmë.md" title="Soronúmë">Soronúmë</a></i> · <i><a href="../T/Telumendil.md" title="Telumendil">Telumendil</a></i> · <i><a href="../V/Valacirca.md" title="Valacirca">Valacirca</a></i> · <i><a href="../W/Wilwarin.md" title="Wilwarin">Wilwarin</a></i>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><a class="mw-selflink selflink">Diễn viên chính</a>
+<th style="background:var(--tg-color-surface-3);" align="right"><a class="mw-selflink selflink">Stars</a>
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Alcarinquë.md" title="Alcarinquë">Alcarinquë</a></i> · <i><a href="../B/Borgil.md" title="Borgil">Borgil</a></i> · <i><a href="../C/Carnil.md" title="Carnil">Carnil</a></i> · <i><a href="../E/Elemmírë.md" title="Elemmírë">Elemmírë</a></i> · <i><a href="../H/Helluin.md" title="Helluin">Helluin</a></i> · <i><a href="../L/Luinil.md" title="Luinil">Luinil</a></i> · <i><a href="../L/Lumbar.md" title="Lumbar">Lumbar</a></i> · <i><a href="../M/Morwinyon.md" title="Morwinyon">Morwinyon</a></i> · <i><a href="../N/Nénar.md" title="Nénar">Nénar</a></i> · <i><a href="Star_of_Eärendil.md" title="Star of Eärendil">Star of Eärendil</a></i> · <i><a href="../T/Til_(star).md" title="Til (star)">Til</a></i> 
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">Các khúc ca
+<th style="background:var(--tg-color-surface-3);" align="right">The Airs
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Aiwenórë.md" title="Aiwenórë">Aiwenórë</a></i> · <i><a href="../F/Fanyamar.md" title="Fanyamar">Fanyamar</a></i> · <i><a href="../I/Ilmen.md" title="Ilmen">Ilmen</a></i> · <i><a href="../M/Menel.md" title="Menel">Menel</a></i> · <i><a href="../V/Vaiya.md" title="Vaiya">Vaiya</a></i> · <i><a href="../V/Veil_of_Arda.md" title="Veil of Arda">Veil of Arda</a></i> · <i><a href="../V/Vista.md" title="Vista">Vista</a></i>
 </td></tr>
@@ -150,7 +150,7 @@ Việc xác định Tiên tộc với các ngôi sao thành [Tolkien](../J/J.R.R
 <td style="font-size: 90%"> <i><a href="../A/Arien.md" title="Arien">Arien</a></i> · <i><a href="../M/Moon.md" title="Moon">Moon</a></i> (<i>Isil</i>, <i>Ithil</i>, <i>Rána</i>) · <i><a href="Sun.md" title="Sun">Sun</a></i> (<i>Anar</i>, <i>Anor</i>, <i>Vása</i>) · <i><a href="../T/Tilion.md" title="Tilion">Tilion</a></i>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">Xem thêm
+<th style="background:var(--tg-color-surface-3);" align="right">See also
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Abyss.md" title="Abyss">Abyss</a></i> · <i><a href="../A/Arda.md" title="Arda">Arda</a></i> · <i><a href="../C/Circles_of_the_World.md" title="Circles of the World">Circles of the World</a></i> · <i><a href="../E/Eä.md" title="Eä">Eä</a></i> · <i><a href="../T/Timeless_Halls.md" title="Timeless Halls">Timeless Halls</a></i> · <i><a href="../T/Two_Lamps.md" title="Two Lamps">Two Lamps</a></i> · <i><a href="../T/Two_Trees_of_Valinor.md" title="Two Trees of Valinor">Two Trees</a></i> · <i><a href="../V/Void.md" title="Void">Void</a></i>
 </td></tr></tbody></table>

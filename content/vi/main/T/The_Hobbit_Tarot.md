@@ -38,9 +38,9 @@ infobox:
     value: "1572816775"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Hobbit</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Hobbit_(disambiguation).md" title="The Hobbit (disambiguation)">The Hobbit (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Hobbit</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Hobbit_(disambiguation).md" title="The Hobbit (disambiguation)">The Hobbit (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_Tarot_Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/59/The_Hobbit_Tarot_Cover.jpg/278px-The_Hobbit_Tarot_Cover.jpg" decoding="async" loading="lazy" width="278" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/59/The_Hobbit_Tarot_Cover.jpg 1.5x" data-file-width="300" data-file-height="518"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Hobbit Tarot</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Terry_Donaldson&amp;action=edit&amp;redlink=1" title="Terry Donaldson (page does not exist)">Terry Donaldson</a>, <a href="../P/Peter_Pracownik.md" title="Peter Pracownik">Peter Pracownik</a></td></tr><tr><th scope="row" class="tg-infobox-label">Họa sĩ minh họa</th><td class="tg-infobox-data">Peter Pracownik</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">U.S. Games</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/8_May.md" title="8 May">8 May</a> <a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa mềm</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">96</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1572816775" title="Special:BookSources/1572816775">1572816775</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_Tarot_Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/59/The_Hobbit_Tarot_Cover.jpg/278px-The_Hobbit_Tarot_Cover.jpg" decoding="async" loading="lazy" width="278" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/59/The_Hobbit_Tarot_Cover.jpg 1.5x" data-file-width="300" data-file-height="518"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Hobbit Tarot</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Terry_Donaldson&amp;action=edit&amp;redlink=1" title="Terry Donaldson (page does not exist)">Terry Donaldson</a>, <a href="../P/Peter_Pracownik.md" title="Peter Pracownik">Peter Pracownik</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Peter Pracownik</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">U.S. Games</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/8_May.md" title="8 May">8 May</a> <a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">96</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1572816775" title="Special:BookSources/1572816775">1572816775</a></td></tr></tbody></table>
 
 <i><b>The Hobbit Tarot</b></i> là cuốn sách mô tả <a class="extiw" href="http://en.wikipedia.org/wiki/Tarot" title="wikipedia:Tarot">bộ bài Tarot</a> với hình ảnh minh họa về các nhân vật và cảnh trong *[The Hobbit](The_Hobbit.md)*. Sách đi kèm bộ bài Tarot có tên <i><b>The Hobbit Tarot</b></i>.
 
@@ -49,7 +49,7 @@ infobox:
 ## Tóm tắt từ nhà xuất bản {#Synopsis_from_the_publisher}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Để đón chờ hai bộ phim mới ra mắt, hãy bước vào thế giới The Hobbit và để hình ảnh mạnh mẽ của tarot dẫn đường bạn qua thế giới huyền bí này. Theo chân người anh hùng trong nhiều cuộc phiêu lưu, The Hobbit Tarot giúp chúng ta hiểu được ý nghĩa hành trình cuộc đời của chính mình.
+<p>In anticipation of two new feature film releases, enter the world of The Hobbit and allow the powerful imagery of the tarot to guide you through this mystic realm. Following the hero s quest along his many adventures, The Hobbit Tarot helps us understand the meaning of our own life journeys.
 </p>
 </blockquote>
 
@@ -90,7 +90,7 @@ infobox:
 - *Four of Coins*: [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) tìm kiếm trong đám [Smaug](../S/Smaug.md) ở [Erebor](../L/Lonely_Mountain.md)
 - *Five of Coins*: [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) trong [Mirkwood](../M/Mirkwood.md)
 - *Six of Coins*: [Bilbo](../B/Bilbo_Baggins.md) và [nhóm Người Lùn](Thorin_and_Company.md) đang tìm kiếm thông qua đám [Smaug](../S/Smaug.md) ở [Erebor](../L/Lonely_Mountain.md)
-- *Seven of Coins*: [Bilbo](../B/Bilbo_Baggins.md) cố gắng lấy lại chiếc thùng đầu tiên mà ông và [người Người Lùn](Thorin_and_Company.md) đã trốn thoát được [Sảnh của Vua Tiên](../E/Elvenking's_Halls.md)
+- *Seven of Coins*: [Bilbo](../B/Bilbo_Baggins.md) cố gắng lấy lại chiếc thùng đầu tiên mà ông ta và [người Người Lùn](Thorin_and_Company.md) đã trốn thoát được [Sảnh của Vua Tiên](../E/Elvenking's_Halls.md)
 - *Eight of Coins*: [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) băng qua [Sông Đen](../E/Enchanted_River.md)
 - *Nine of Coins*: [Bilbo](../B/Bilbo_Baggins.md) quyết định giao [ Arkenstone](../A/Arkenstone.md) cho [Bard](../B/Bard.md) và [ Vua Tiên](Thranduil.md)
 - *Ten of Coins*: đám [Smaug](../S/Smaug.md) ở [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md)
@@ -128,7 +128,7 @@ infobox:
 - *Eight of Swords*: [ Tiên tộc của Mirkwood](../E/Elves_of_Mirkwood.md) chụp [Thorin](Thorin.md)
 - *Nine of Swords*: [Người Hồ](../L/Lake-men.md), [Tiên tộc của Mirkwood](../E/Elves_of_Mirkwood.md) và [Người Lùn](Thorin_and_Company.md) nghe tin quân đội [Goblin](../O/Orcs.md) của [Bolg](../B/Bolg.md) đang đến
 - *Ten of Swords*: Phần thân của [Thorin](Thorin.md)
-- *Page of Swords*: [Bilbo](../B/Bilbo_Baggins.md) tiêu diệt kẻ thù đầu tiên của mình bằng [thanh kiếm](../S/Sting.md): một [con nhện](../S/Spiders.md) của [Mirkwood](../M/Mirkwood.md). Ông đặt tên cho thanh kiếm là "[Sting](../S/Sting.md)"
+- *Page of Swords*: [Bilbo](../B/Bilbo_Baggins.md) tiêu diệt kẻ thù đầu tiên của mình bằng [thanh kiếm](../S/Sting.md): một [con nhện](../S/Spiders.md) của [Mirkwood](../M/Mirkwood.md). Ông ta đặt tên cho thanh kiếm là "[Sting](../S/Sting.md)"
 - *Knight of Swords*: Một [Người hồ](../L/Lake-men.md) bọc thép chuẩn bị cho trận chiến
 - *Queen of Swords*: Một nữ thủ lĩnh [Warg](../W/Wargs.md) thương tiếc sự ra đi của người thân trong [Trận chiến của năm cánh quân](../B/Battle_of_the_Five_Armies.md)
 - *King of Swords*: [Thorin Oakenshield](Thorin.md)
@@ -140,7 +140,7 @@ infobox:
 - *Three of Wands*: [Bilbo](../B/Bilbo_Baggins.md) nhập [Cửa Sau](../B/Back_Door.md)
 - *Four of Wands*: [Công ty](Thorin_and_Company.md) tại [Long Lake](../L/Long_Lake.md)
 - *Five of Wands*: [Goblin](../O/Orcs.md) phục kích [Đại đội](Thorin_and_Company.md) trong hang động
-- *Six of Wands*: [Gandalf](../G/Gandalf.md) và [nhóm Người Lùn](Thorin_and_Company.md) chiến đấu với lực lượng của [Thị trấn Goblin](../G/Goblin-town.md)
+- *Six of Wands*: [Gandalf](../G/Gandalf.md) và [nhóm Người Lùn](Thorin_and_Company.md) chiến đấu với lực lượng của [Thị trấn yêu tinh](../G/Goblin-town.md)
 - *Seven of Wands*: Một [Warg](../W/Wargs.md) hú lên sau khi bị đốt cháy bởi những quả thông do [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) ném xuống
 - *Eight of Wands*: Các [Đại Bàng](../E/Eagles.md) đến giải cứu [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) khỏi [Warg](../W/Wargs.md) và [Goblin](../O/Orcs.md)
 - *Nine of Wands*: Một [Người khổng lồ bằng đá](../G/Giants.md), chuẩn bị ném một tảng đá
@@ -148,4 +148,4 @@ infobox:
 - *Page of Wands*: [Bilbo](../B/Bilbo_Baggins.md) đọc [Bản đồ của Thrór](Thrór's_Map.md)
 - *Knight of Wands*: [Bilbo](../B/Bilbo_Baggins.md) cầm [cái Arkenstone](../A/Arkenstone.md)
 - *Queen of Wands*: Một [phụ nữ](../L/Lake-men.md) [Thị trấn Hồ](../L/Lake-town.md) bán [táo](../A/Apples.md) cho khách du lịch
-- *King of Wands*: [Chúa tể Đại Bàng](../G/Great_Eagle.md)
+- *King of Wands*: [Chúa tể của Đại Bàng](../G/Great_Eagle.md)

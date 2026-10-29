@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Glóin (King of Durin's Folk)"
 ---
 
-Chuyển hướng tới [Glóin (Vua của dân Durin)](<Glóin_(King_of_Durin's_Folk).md>).
+Chuyển hướng tới [Glóin (Vua của Dân tộc Durin)](<Glóin_(King_of_Durin's_Folk).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vision of Ilúvatar"
 ---
 
-Chuyển hướng đến [Khải tượng của Ilúvatar](Vision_of_Ilúvatar.md).
+Chuyển hướng đến [Tầm nhìn của Ilúvatar](Vision_of_Ilúvatar.md).

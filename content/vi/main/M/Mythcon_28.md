@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Mythcon_28"
 content_sha256: 78c7a774172cbaf3adfaee42ee632862d9bd5c46cca036d7e1404f51ccd2daa8
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Hội nghị Hiệp hội Thần thoại năm 1997"
+short_description: "1997 Mythopoeic Society conference"
 categories:
   - "Mythcon"
 hidden_categories:
@@ -28,7 +28,7 @@ infobox:
     value: "Mythcon 29"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 28</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Pepperdine University, Malibu, California</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Hội Mythopoeic</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">8-11 August <a href="../_/1997.md" title="1997">1997</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Mythcon_27.md" title="Mythcon 27">Mythcon 27</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Mythcon_29.md" title="Mythcon 29">Mythcon 29</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 28</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Pepperdine University, Malibu, California</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data">8-11 August <a href="../_/1997.md" title="1997">1997</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="Mythcon_27.md" title="Mythcon 27">Mythcon 27</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="Mythcon_29.md" title="Mythcon 29">Mythcon 29</a></td></tr></tbody></table>
 
 **Mythcon 28** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 28.
 

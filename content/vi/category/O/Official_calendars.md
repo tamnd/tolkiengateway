@@ -12,4 +12,4 @@ categories:
   - "Calendars (real-world)"
 ---
 
-Lịch do các nhà xuất bản của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) xuất bản, cụ thể là [George Allen and Unwin](../../main/A/Allen_and_Unwin.md), [Unwin Hyman](../../main/U/Unwin_Hyman.md) và [HarperCollins](../../main/H/HarperCollins.md) ở Vương quốc Anh hoặc [Ballantine Books](../../main/B/Ballantine_Books.md) và [Houghton Mifflin](../../main/H/Houghton_Mifflin.md) ở Hoa Kỳ.
+Lịch do các nhà xuất bản của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) xuất bản, cụ thể là [George Allen và Unwin](../../main/A/Allen_and_Unwin.md), [Unwin Hyman](../../main/U/Unwin_Hyman.md) và [HarperCollins](../../main/H/HarperCollins.md) ở Vương quốc Anh hoặc [Ballantine Books](../../main/B/Ballantine_Books.md) và [Houghton Mifflin](../../main/H/Houghton_Mifflin.md) ở Hoa Kỳ.

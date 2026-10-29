@@ -18,23 +18,23 @@ images:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stephen_Schwartz_-_Smoke_Rings.jpg.md"><img src="https://tolkiengateway.net/w/images/2/2e/Stephen_Schwartz_-_Smoke_Rings.jpg" decoding="async" loading="lazy" width="296" height="253" class="mw-file-element" data-file-width="296" data-file-height="253"/></a><figcaption><i>Smoke Rings</i> by Stephen Schwartz</figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Không, không phải một cái ống. Tôi không nghĩ mình sẽ hút thuốc nữa.
+<p>No, not a pipe. I don&#39;t think I&#39;ll smoke again.
 </p>
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../M/Merry_Brandybuck.md" title="Merry Brandybuck">Merry Brandybuck</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 **Hút thuốc** là một hoạt động hoặc phong tục được bắt đầu bởi [Hobbit](../H/Hobbits.md) (người gọi nó là một 'nghệ thuật'). Nó bao gồm việc hít khói từ những chiếc lá đang cháy của một loại thảo mộc tên là *[Pipe-weed](../P/Pipe-weed.md)*.
 
-[Hobbit của](../B/Bree-hobbits.md) [Bree](../B/Bree.md) tự nhận là người đầu tiên hút Thuốc lá, nhưng người đầu tiên trồng nó là [Tobold Hornbutter](../T/Tobold_Hornblower.md) của [Longbottom](../L/Longbottom.md) của [ Shire](../T/The_Shire.md), vào khoảng năm [S.R.](Shire_Reckoning.md) [1070](../T/Third_Age_2670.md). Hút thuốc đã lan rộng từ Hobbit đến [Người Lùn](../D/Dwarves.md), [Rangers](../R/Rangers_of_the_North.md) và [Pháp sư](../W/Wizards.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Hobbit của](../B/Bree-hobbits.md) [Bree](../B/Bree.md) tự nhận là người đầu tiên hút cỏ ống, nhưng người đầu tiên trồng nó là [Tobold Hornbutter](../T/Tobold_Hornblower.md) của [Longbottom](../L/Longbottom.md) của [ Shire](../T/The_Shire.md), vào khoảng năm [S.R.](Shire_Reckoning.md) [1070](../T/Third_Age_2670.md). Hút thuốc đã lan rộng từ Hobbit đến [Người Lùn](../D/Dwarves.md), [Rangers](../R/Rangers_of_the_North.md) và [Pháp sư](../W/Wizards.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_lighting_pipe.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f1/J.R.R._Tolkien_lighting_pipe.jpg/100px-J.R.R._Tolkien_lighting_pipe.jpg" decoding="async" loading="lazy" width="100" height="131" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f1/J.R.R._Tolkien_lighting_pipe.jpg/150px-J.R.R._Tolkien_lighting_pipe.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f1/J.R.R._Tolkien_lighting_pipe.jpg/200px-J.R.R._Tolkien_lighting_pipe.jpg 2x" data-file-width="500" data-file-height="656"/></a><figcaption>Tolkien thắp sáng một chiếc tẩu</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_lighting_pipe.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f1/J.R.R._Tolkien_lighting_pipe.jpg/100px-J.R.R._Tolkien_lighting_pipe.jpg" decoding="async" loading="lazy" width="100" height="131" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f1/J.R.R._Tolkien_lighting_pipe.jpg/150px-J.R.R._Tolkien_lighting_pipe.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f1/J.R.R._Tolkien_lighting_pipe.jpg/200px-J.R.R._Tolkien_lighting_pipe.jpg 2x" data-file-width="500" data-file-height="656"/></a><figcaption>Tolkien lighting a pipe</figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Trên thực tế, tôi là một Hobbit (về mọi mặt trừ kích thước). […] Tôi hút tẩu...
+<p>I am in fact a Hobbit (in all but size). [...] I smoke a pipe...
 </p>
-<p class="tg-quote-footer"><cite><a href="../L/Letter_213.md" title="Letter 213">Thư 213</a></cite></p>
+<p class="tg-quote-footer"><cite><a href="../L/Letter_213.md" title="Letter 213">Letter 213</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) là một người nghiện thuốc tẩu. Anh cho rằng chứng nghiện của mình xuất phát từ thời thơ ấu, khi anh chứng kiến ​​Cha [Francis Xavier Morgan](../F/Francis_Xavier_Morgan.md) hút tẩu ở một địa điểm cụ thể mỗi lần.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
@@ -47,7 +47,7 @@ Một [hóa đơn xì gà được bán đấu giá](<../C/Cigar_bill_(3_March_1
 
 <b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
-<dl><dd>Thẻ "Nhẫn Khói" cho phép người chơi sử dụng lại một trong những nhân vật đã bỏ đi của mình.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
+<dl><dd>The card &#34;Smoke Rings&#34; enables the player to re-use one of his discarded characters.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
 <span></span>
 

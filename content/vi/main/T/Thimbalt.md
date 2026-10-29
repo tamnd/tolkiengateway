@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Thimbalt"
 content_sha256: fc7c94e91f269792f7bce52e0fee9adf556d4641279468a751da47eb17d7487b
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Có lẽ là pháo đài của Morgoth"
+short_description: "Probably a fortress of Morgoth"
 categories:
   - "Evil realms"
   - "Fortresses"

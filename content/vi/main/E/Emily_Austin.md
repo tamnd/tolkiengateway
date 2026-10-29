@@ -23,7 +23,7 @@ infobox:
     value: "official website"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Emily Austin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">USA</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="https://emilyaustindesign.com/" rel="noreferrer noopener" target="_blank">trang web chính thức</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Emily Austin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">USA</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="https://emilyaustindesign.com/" rel="noreferrer noopener" target="_blank">official website</a></td></tr></tbody></table>
 
 **Emily Austin** là một nghệ sĩ người Mỹ vẽ cảnh trong các câu chuyện của Tolkien.
 

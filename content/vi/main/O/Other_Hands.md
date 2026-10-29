@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/Other_Hands"
 content_sha256: 913c5bb9d890facfdb14627964a7548c2d01ef434b1411b9c17154b5b1180bfc
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Tạp chí về Middle-earth Role Playing"
+short_description: "Magazine about Middle-earth Role Playing"
 categories:
   - "Magazines"
   - "Publications by title"
@@ -27,9 +27,9 @@ infobox:
     value: "1081-8359"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/O/Other_hands.gif.md"><img src="https://tolkiengateway.net/w/images/e/e9/Other_hands.gif" decoding="async" loading="lazy" width="150" height="81" class="mw-file-element" data-file-width="150" data-file-height="81"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Other Hands</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên gần nhất</th><td class="tg-infobox-data"><a href="../C/Chris_Seeman.md" title="Chris Seeman">Chris Seeman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Số mới nhất</th><td class="tg-infobox-data"><a href="Other_Hands_33%252F34.md" title="Other Hands 33/34">33/34</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1081-8359</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/O/Other_hands.gif.md"><img src="https://tolkiengateway.net/w/images/e/e9/Other_hands.gif" decoding="async" loading="lazy" width="150" height="81" class="mw-file-element" data-file-width="150" data-file-height="81"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Other Hands</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../C/Chris_Seeman.md" title="Chris Seeman">Chris Seeman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Latest issue</th><td class="tg-infobox-data"><a href="Other_Hands_33%252F34.md" title="Other Hands 33/34">33/34</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1081-8359</td></tr></tbody></table>
 
-**Other Hands** là tạp chí chính thức dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*. Tạp chí do [Chris Seeman](../C/Chris_Seeman.md) biên tập và tiếp tục được xuất bản cho đến năm 2001, hai năm sau khi [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) mất giấy phép tạo ra các sản phẩm trò chơi liên quan đến huyền thoại của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong thời gian sản xuất cuối cùng, *Other Hands* chỉ được xuất bản dưới dạng tài nguyên internet trên trang web của mình.
+**Những bàn tay khác** là tạp chí chính thức dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*. Tạp chí do [Chris Seeman](../C/Chris_Seeman.md) biên tập và tiếp tục được xuất bản cho đến năm 2001, hai năm sau khi [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) mất giấy phép tạo ra các sản phẩm trò chơi liên quan đến huyền thoại của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong thời gian sản xuất cuối cùng, *Other Hands* chỉ được xuất bản dưới dạng tài nguyên internet trên trang web của mình.
 
 ## Vấn đề {#Issues}
 
@@ -54,7 +54,7 @@ infobox:
 - [1998](../_/1998.md) - [*Other Hands* #22 - "The Balrog"](Other_Hands_22.md)
 - [1998](../_/1998.md) - [*Other Hands* #23 - "Rồng của miền Bắc"](Other_Hands_23.md)
 - [1999](../_/1999.md) - [*Other Hands* #24 - "Những kẻ phá lời thề và cho vay nặng lãi"](Other_Hands_24.md)
-- [1999](../_/1999.md) - [*Other Hands* #25 - "Người Lùn ở Dãy Núi Xanh"](Other_Hands_25.md)
+- [1999](../_/1999.md) - [*Other Hands* #25 - "Người Lùn của Dãy Núi Xanh"](Other_Hands_25.md)
 - [1999](../_/1999.md) - [*Other Hands* #26 - "Dark Undead"](Other_Hands_26.md)
 - [1999](../_/1999.md) - [*Other Hands* #27 - "Phép thuật trong Kỷ Đệ Tam"](Other_Hands_27.md)
 - [2000](../_/2000.md) - [*Other Hands* #28 - "Tiên tộc của Mirkwood"](Other_Hands_28.md)
@@ -64,9 +64,9 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.otherminds.net/download/other-hands" rel="noreferrer noopener" target="_blank"><i>Other Hands</i> Trang web mới</a>
+- <a class="external text" href="https://www.otherminds.net/download/other-hands" rel="noreferrer noopener" target="_blank"><i>Những bàn tay khác</i> Trang web mới</a>
 
-- <a class="external text" href="http://www.invasivedesigns.com/otherhands/" rel="noreferrer noopener" target="_blank"><i>Other Hands</i> trang web cũ</a>
+- <a class="external text" href="http://www.invasivedesigns.com/otherhands/" rel="noreferrer noopener" target="_blank"><i>Những bàn tay khác</i> trang web cũ</a>
 
 ## Xem thêm {#See_also}
 
@@ -83,22 +83,22 @@ infobox:
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Tạp chí chơi game trên máy tính bảng</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Tabletop gaming magazines</b>
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Nhập vai ở Trung Địa</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Roleplaying in Middle-earth</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a class="mw-selflink selflink">Other Hands</a></b></i> (<a href="../_/1993.md" title="1993">1993</a>-<a href="../_/2001.md" title="2001">2001</a>) • <i><b><a href="Other_Minds.md" title="Other Minds">Other Minds</a></b></i> (<a href="../_/2007.md" title="2007">2007</a>-)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Mô phỏng chiến tranh ở Trung Địa</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Wargaming in Middle-earth</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../B/Battle_Games_in_Middle-earth.md" title="Battle Games in Middle-earth">Battle Games in Middle-earth</a></b></i> (<a href="../_/2002.md" title="2002">2002</a>-<a href="../_/2006.md" title="2006">2006</a>)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Các tạp chí khác</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Other Magazines</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../D/Dragon_Magazine.md" title="Dragon Magazine">Dragon</a></b></i> (<a href="../_/1976.md" title="1976">1976</a>-<a href="../_/2013.md" title="2013">2013</a>) • <i><b><a href="../W/White_Dwarf.md" title="White Dwarf">White Dwarf</a></b></i> (<a href="../_/1977.md" title="1977">1977</a>-) • <i><b><a href="../I/InQuest.md" title="InQuest">InQuest</a></b></i> (<a href="../_/1995.md" title="1995">1995</a>-<a href="../_/2007.md" title="2007">2007</a>) • <i><b><a href="../T/The_Guild_Companion.md" title="The Guild Companion">The Guild Companion</a></b></i> (<a href="../_/1998.md" title="1998">1998</a>-<a href="../_/2019.md" title="2019">2019</a>)

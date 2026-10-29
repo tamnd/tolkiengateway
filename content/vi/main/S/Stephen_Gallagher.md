@@ -19,7 +19,7 @@ sort_keys:
   "New Zealand people": "Gallagher, Stephen"
 ---
 
-**Stephen Gallagher** là nhà soạn nhạc và biên tập âm nhạc New Zealand. Anh từng làm biên tập âm nhạc cho [*The Hobbit* loạt phim](<../T/The_Hobbit_(film_series).md>). Đối với *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*, Gallagher cũng đã sáng tác nhạc cho [Blunt the Knives](../B/Blunt_the_Knives.md) do [Người Lùn](../T/Thorin_and_Company.md) hát và The Torture Song do [Vua Goblin](../G/Great_Goblin.md) hát.<sup id="cite_ref-SGAbout_1-0" class="reference"><a href="#cite_note-SGAbout-1">[1]</a></sup> Ông đã soạn nhạc cho bộ phim hoạt hình *[The Lord of the Rings: The War of the Rohirrim](../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Stephen Gallagher** là nhà soạn nhạc và biên tập âm nhạc New Zealand. Anh từng làm biên tập âm nhạc cho [*The Hobbit* loạt phim](<../T/The_Hobbit_(film_series).md>). Đối với *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*, Gallagher cũng đã sáng tác nhạc cho [Blunt the Knives](../B/Blunt_the_Knives.md) do [Người Lùn](../T/Thorin_and_Company.md) hát và The Torture Song do [Goblin Vua](../G/Great_Goblin.md) hát.<sup id="cite_ref-SGAbout_1-0" class="reference"><a href="#cite_note-SGAbout-1">[1]</a></sup> Ông đã soạn nhạc cho bộ phim hoạt hình *[The Lord of the Rings: The War of the Rohirrim](../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

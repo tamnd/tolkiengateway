@@ -21,7 +21,7 @@ infobox:
     value: "Catalogue"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Sách và bản thảo in đẹp của Christie bao gồm các tác phẩm của Charles Dickens Ngày 1 tháng 6 năm 2009</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">London: Christie&#39;s</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/2009.md" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Danh mục</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Christie&#39;s Fine Printed Books and Manuscripts including the Works of Charles Dickens 1 June 2009</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">London: Christie&#39;s</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2009.md" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Catalogue</td></tr></tbody></table>
 
 <i><b>Sách và Bản thảo in đẹp của Christie ngày 1 tháng 6 năm 2009</b></i> là một danh mục đấu giá bao gồm các bản sao của các bức thư chưa được xuất bản trước đây từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 

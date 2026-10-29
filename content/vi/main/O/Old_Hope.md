@@ -17,7 +17,7 @@ categories:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Những điều này nằm ngoài phạm vi hiểu biết của <a href="../E/Eldar.md" title="Eldar">Eldar</a>, hoặc có thể là của <a href="../V/Valar.md" title="Valar">Valar</a>.
+<p>These things are beyond the compass of the wisdom of the <a href="../E/Eldar.md" title="Eldar">Eldar</a>, or of the <a href="../V/Valar.md" title="Valar">Valar</a> maybe.
 </p>
 <p class="tg-quote-footer"><cite><a href="../F/Finrod.md" title="Finrod">Finrod</a> in <i><a href="../A/Athrabeth_Finrod_ah_Andreth.md" title="Athrabeth Finrod ah Andreth">Athrabeth Finrod ah Andreth</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -29,7 +29,7 @@ categories:
 Nhóm này rất ít, nhưng số lượng của họ đã tăng lên sau khi Edain tiến vào [Beleriand](../B/Beleriand.md), như trong [cuộc chiến Eldar](../B/Battles_of_Beleriand.md) họ thấy rằng Morgoth thực sự có thể bị thách thức, như họ nghĩ. Tuy nhiên, hy vọng của họ không đặt nền tảng vào bất kỳ dân tộc nào của Arda, mà đặt vào Đấng đã tạo ra [Eä](../E/Eä.md) và vượt xa điều đó:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Họ nói rằng <a class="mw-redirect" href="../E/Eru.md" title="Eru">Đấng</a> sẽ tự mình đi vào Arda và chữa lành <a href="../M/Men.md" title="Men">Con Người</a> cũng như tất cả Marring từ đầu đến cuối. Điều này họ cũng nói, hoặc họ giả vờ, là một tin đồn đã lan truyền qua nhiều năm không đếm xuể, thậm chí kể từ những ngày chúng ta suy tàn.
+<p>They say that <a class="mw-redirect" href="../E/Eru.md" title="Eru">the One</a> will himself come into Arda, and heal <a href="../M/Men.md" title="Men">Men</a> and all the Marring from the beginning to the end. This they say also, or they feign, is a rumour that has come down through years uncounted, even from the days of our undoing.
 </p>
 </blockquote>
 

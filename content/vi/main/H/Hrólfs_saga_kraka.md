@@ -20,7 +20,7 @@ sort_keys:
 
 ## Lô đồ {#Plot}
 
-Câu chuyện mô tả lịch sử phức tạp, bạo lực của hoàng gia Đan Mạch (Skjöldungs), bao gồm cả cuộc hôn nhân loạn luân dẫn đến sự ra đời của Hrólf. Với tư cách là vua, Hrólf tập hợp một nhóm gồm những kẻ điên cuồng và những nhà vô địch. Nổi tiếng nhất trong số này là Böðvar Bjarki, một "chiến binh gấu", người có thể phóng một linh hồn gấu khổng lồ ra chiến trường trong khi cơ thể ông vẫn ở trạng thái xuất thần. Vương quốc bị cản trở bởi những mụ phù thủy lôi kéo, những lời nguyền của người già và xung đột với Vua Aðils của Thụy Điển. Vào cuối câu chuyện, Hrólf bị người chị cùng cha khác mẹ Skúld phản bội từ bên trong, dẫn đến một trận chiến cuối cùng hoành tráng nhưng chết chóc.
+Câu chuyện mô tả lịch sử phức tạp, bạo lực của hoàng gia Đan Mạch (Skjöldungs), bao gồm cả cuộc hôn nhân loạn luân dẫn đến sự ra đời của Hrólf. Với tư cách là vua, Hrólf tập hợp một nhóm gồm những kẻ điên cuồng và những nhà vô địch. Nổi tiếng nhất trong số này là Böðvar Bjarki, một "chiến binh gấu", người có thể phóng một linh hồn gấu khổng lồ ra chiến trường trong khi cơ thể ông ta vẫn ở trạng thái xuất thần. Vương quốc bị cản trở bởi những mụ phù thủy lôi kéo, những lời nguyền của người già và xung đột với Vua Aðils của Thụy Điển. Vào cuối câu chuyện, Hrólf bị người chị cùng cha khác mẹ Skúld phản bội từ bên trong, dẫn đến một trận chiến cuối cùng hoành tráng nhưng chết chóc.
 
 ## Nền {#Background}
 

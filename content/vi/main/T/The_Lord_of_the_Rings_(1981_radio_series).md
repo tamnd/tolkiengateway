@@ -31,9 +31,9 @@ infobox:
     value: "978-0553456530"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Lord of the Rings</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Lord of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hordern,_LeMesurier,_Holm_1981_lotr.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/01/Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg/320px-Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg" decoding="async" loading="lazy" width="320" height="212" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/01/Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg/480px-Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/01/Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg/640px-Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg 2x" data-file-width="900" data-file-height="596"/></a><figcaption><a href="../M/Michael_Hordern.md" title="Michael Hordern">Michael Hordern</a>, <a href="../J/John_Le_Mesurier.md" title="John Le Mesurier">John Le Mesurier</a> and <a href="../I/Ian_Holm.md" title="Ian Holm">Ian Holm</a>, as <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> and <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>.</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">Original Airing: <a href="../_/8_March.md" title="8 March">8 March</a> – <a href="../_/30_August.md" title="30 August">30 August</a> <a href="../_/1981.md" title="1981">1981</a><br/>Audio CD: <a href="../_/1_December.md" title="1 December">1 December</a>, <a href="../_/1999.md" title="1999">1999</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Đài phát thanh</td></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">13 giờ</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0553456530" title="Special:BookSources/978-0553456530">978-0553456530</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hordern,_LeMesurier,_Holm_1981_lotr.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/01/Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg/320px-Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg" decoding="async" loading="lazy" width="320" height="212" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/01/Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg/480px-Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/01/Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg/640px-Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg 2x" data-file-width="900" data-file-height="596"/></a><figcaption><a href="../M/Michael_Hordern.md" title="Michael Hordern">Michael Hordern</a>, <a href="../J/John_Le_Mesurier.md" title="John Le Mesurier">John Le Mesurier</a> and <a href="../I/Ian_Holm.md" title="Ian Holm">Ian Holm</a>, as <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> and <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>.</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Original Airing: <a href="../_/8_March.md" title="8 March">8 March</a> – <a href="../_/30_August.md" title="30 August">30 August</a> <a href="../_/1981.md" title="1981">1981</a><br/>Audio CD: <a href="../_/1_December.md" title="1 December">1 December</a>, <a href="../_/1999.md" title="1999">1999</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Radio broadcast</td></tr><tr><th scope="row" class="tg-infobox-label">Running time</th><td class="tg-infobox-data">13 hours</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0553456530" title="Special:BookSources/978-0553456530">978-0553456530</a></td></tr></tbody></table>
 
 Năm 1981, Đài BBC 4 đã phát sóng vở kịch <i><b><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></b></i> của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thành 26 phần âm thanh nổi dài nửa giờ.
 
@@ -63,7 +63,7 @@ Một album nhạc phim bao gồm một bộ nhạc của [Stephen Oliver](../S/
 10. "Sự tan vỡ tình bạn", [Ngày 10 tháng 5](../_/10_May.md)
 11. "Những tay đua của Rohan", [17 tháng 5](../_/17_May.md)
 12. "Treebeard Của Fangorn", "[24 tháng 5](../_/24_May.md)
-13. "The Vua Của Đại Sảnh Vàng", [Ngày 31 tháng 5](../_/31_May.md)
+13. "The Vua Của Sảnh Vàng", [Ngày 31 tháng 5](../_/31_May.md)
 14. "Helm's Deep", [Ngày 7 tháng 6](../_/7_June.md)
 15. "The Voice Of Saruman", [Ngày 14 tháng 6](../_/14_June.md)
 16. " Cổng Đen đã đóng cửa", [Ngày 21 tháng 6](../_/21_June.md)
@@ -86,7 +86,7 @@ Một album nhạc phim bao gồm một bộ nhạc của [Stephen Oliver](../S/
 4. "The Ring Goes South", [Ngày 7 tháng 8](../_/7_August.md)
 5. "Tấm gương Galadriel", [14 tháng 8](../_/14_August.md)
 6. "Sự tan vỡ tình bạn", [21 tháng 8](../_/21_August.md)
-7. "The Vua Của Đại Sảnh Vàng", [28 tháng 8](../_/28_August.md)
+7. "The Vua Của Sảnh Vàng", [28 tháng 8](../_/28_August.md)
 8. "Tiếng Nói Của Saruman", [tháng Chín 4](../_/4_September.md)
 9. "The Two Towers", [tháng Chín 11](../_/11_September.md)
 10. "Sự lựa chọn của bậc thầy Samwise", [tháng Chín 18](../_/18_September.md)
@@ -96,28 +96,28 @@ Một album nhạc phim bao gồm một bộ nhạc của [Stephen Oliver](../S/
 
 ## Sự khác biệt so với cuốn sách {#Differences_from_the_book}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg/300px-The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg" decoding="async" loading="lazy" width="300" height="295" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg/450px-The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg/600px-The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg 2x" data-file-width="1480" data-file-height="1454"/></a><figcaption>Vinyl với nhạc nền của <a href="../S/Stephen_Oliver.md" title="Stephen Oliver">Stephen Oliver</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg/300px-The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg" decoding="async" loading="lazy" width="300" height="295" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg/450px-The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg/600px-The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg 2x" data-file-width="1480" data-file-height="1454"/></a><figcaption>Vinyl with the soundtrack by <a href="../S/Stephen_Oliver.md" title="Stephen Oliver">Stephen Oliver</a></figcaption></figure>
 
 Kịch bản của [Brian Sibley](../B/Brian_Sibley.md) và [Michael Bakewell](../M/Michael_Bakewell.md) đã cố gắng bám sát nguyên tác nhất có thể nhưng vẫn có một số lỗi và thay đổi. Chúng bao gồm:
 
 - Các cảnh được thêm vào ở phần đầu có cảnh tra tấn [Gollum](../G/Gollum.md) ở [Barad-Dur](../B/Barad-dûr.md) và phỏng theo trò chơi giải đố từ [The Hobbit](The_Hobbit.md).
 - Người thợ xay cũ [Sandyman](../S/Sandyman.md) bị lược bỏ những lời thoại được truyền cho con trai ông.
 - [Fredegar Bolger](../F/Fredegar_Bolger.md) hoàn toàn bị bỏ qua
-Việc - Gandalf bị giam giữ tại [Isengard](../I/Isengard.md), trốn thoát qua [Gwaihir](../G/Gwaihir.md) và chuyến thăm [Edoras](../E/Edoras.md) của ông được đưa vào câu chuyện thay vì liên quan đến [Hội đồng Elrond](../C/Council_of_Elrond.md).
+Việc - Gandalf bị giam giữ tại [Isengard](../I/Isengard.md), trốn thoát qua [Gwaihir](../G/Gwaihir.md) và chuyến thăm [Edoras](../E/Edoras.md) của ông ta được đưa vào câu chuyện thay vì liên quan đến [Hội đồng Elrond](../C/Council_of_Elrond.md).
 - Chuyến thăm của [Nazgûl](../N/Nazgûl.md) tới Isengard để tìm kiếm thông tin về Shire và cuộc gặp gỡ của họ với [Gríma](../G/Gríma.md) được phỏng theo [Unfinished Tales](../U/Unfinished_Tales.md).
 - [Gildor Inglorion](../G/Gildor.md) không xuất hiện trong câu chuyện.
-- Sê-ri radio bỏ qua trình tự trong cuốn sách mà người hobbit ghé thăm với [Tom Bombadil](Tom_Bombadil.md). Tuy nhiên, khi làm như vậy, Hobbit không bao giờ được hiển thị để nhận [thanh kiếm](../B/Barrow-blade.md) của họ từ [Barrow-downs](../B/Barrow-downs.md), thanh kiếm này được yểm bùa bằng những phép thuật chống lại [Chúa tể Nhẫn Ma](../W/Witch-king.md). Điều này để lại những đề cập sau này về việc Frodo có một thanh kiếm trước [Sting](../S/Sting.md) và những thanh kiếm của Hobbit kia đến từ đâu mà không giải thích được. Sibley thừa nhận điều này sau đó, khi Merry đâm ông trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Thay vì yếu đi như trong sách, ông chỉ nói Merry đốt như một con muỗi. Tuy nhiên Miệng của Sauron vẫn mô tả lưỡi kiếm của Sam là "Thanh kiếm của sự sụp đổ Phương Tây".
+- Sê-ri radio bỏ qua trình tự trong cuốn sách mà người hobbit ghé thăm với [Tom Bombadil](Tom_Bombadil.md). Tuy nhiên, khi làm như vậy, Hobbit không bao giờ được hiển thị để nhận [thanh kiếm](../B/Barrow-blade.md) của họ từ [Barrow-downs](../B/Barrow-downs.md), thanh kiếm này được yểm bùa bằng những phép thuật chống lại [Chúa tể của Nazgûl](../W/Witch-king.md). Điều này để lại những đề cập sau này về việc Frodo có một thanh kiếm trước [Sting](../S/Sting.md) và những thanh kiếm của Hobbit kia đến từ đâu mà không giải thích được. Sibley thừa nhận điều này sau đó, khi Merry đâm ông ta trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Thay vì yếu đi như trong sách, ông ta chỉ nói Merry đốt như một con muỗi. Tuy nhiên Miệng của Sauron vẫn mô tả lưỡi kiếm của Sam là "Thanh kiếm của sự sụp đổ Phương Tây".
 Ngoại hình của - [Gloin](../G/Glóin.md) tại Rivendell bị cắt.
 - Mọi đề cập đến [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) đều bị bỏ qua và [Gimli](../G/Gimli.md) nói rằng cha anh Gloin là người đã gặp người đưa tin Sauron.
 - [Tai họa của Durin](../D/Durin's_Bane.md) bị ghi nhầm là "người hầu của Sauron"
 - [Morgoth](../M/Morgoth.md) được gọi bằng tên ban đầu Melkor một cách kỳ lạ khi [Legolas](../L/Legolas.md) đang thảo luận về nguồn gốc của Orc và khi Gandalf đề cập đến Tai họa của Durin là "Đẻ ra của Melkor".
-Cái chết thể xác của - [Gandalf](../G/Gandalf.md) bị lược bỏ khỏi câu chuyện của ông về trận chiến với Tai họa của Durin mà không đề cập đến việc ông được "đưa trở lại", với kịch bản ngụ ý rằng ông chỉ bị thương. Dù sau này khi đối đầu với Saruman, Gandalf khẳng định mình đã trở về từ cõi chết.
+Cái chết thể xác của - [Gandalf](../G/Gandalf.md) bị lược bỏ khỏi câu chuyện của ông ta về trận chiến với Tai họa của Durin mà không đề cập đến việc ông ta được "đưa trở lại", với kịch bản ngụ ý rằng ông ta chỉ bị thương. Dù sau này khi đối đầu với Saruman, Gandalf khẳng định mình đã trở về từ cõi chết.
 - [Quickbeam](../Q/Quickbeam.md) Ent không xuất hiện trong câu chuyện.
 
 - Tại một thời điểm khi Gandalf liệt kê các vị trí của [Palantíri](../P/Palantíri.md), [Minas Anor](../M/Minas_Anor.md) và [Minas Tirith](../M/Minas_Tirith.md) được gọi như thể chúng là các thành phố riêng biệt; đây chỉ là những tên thay thế cho cùng một thành phố. Sau này Gandalf gọi chính xác Palantír của Minas Tirith là "Hòn đá Anor".
 - [Beregond](../B/Beregond.md) vai trò của ông trong cuốn sách bị cắt hoàn toàn và chỉ xuất hiện với tư cách là người đưa tin ẩn danh mang tin tức về trận chiến đến [Denethor](../D/Denethor.md).
 - Thân vương [Imrahil](../I/Imrahil.md) không xuất hiện trong câu chuyện.
-- Một phần của phân cảnh [Trận chiến tại cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) được mô tả trong bài hát bởi một ca sĩ theo phong cách opera chứ không phải diễn xuất, điều này có thể khiến một số người nghe xa rời hành động. Những người khác có thể thấy thú vị về mối quan hệ giữa trình tự và phong cách kể chuyện của Eddic.
+- Một phần của phân cảnh [Trận chiến cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) được mô tả trong bài hát bởi một ca sĩ theo phong cách opera chứ không phải diễn xuất, điều này có thể khiến một số người nghe xa rời hành động. Những người khác có thể thấy thú vị về mối quan hệ giữa trình tự và phong cách kể chuyện của Eddic.
 
 - Cuộc hành trình xuyên qua [Rừng Drúadan](../D/Drúadan_Forest.md) và liên minh sau đó với những người đàn ông hoang dã của [Ghân-buri-Ghân](../G/Ghân-buri-Ghân.md), hay còn gọi là "woses" bị loại khỏi bộ phim truyền hình.
 - Hành trình của đoàn quân từ Minas Tirith đến Morannon bị cắt bao gồm việc trùng tu tượng ở ngã tư và sự ra đi của những người yếu tim
@@ -132,11 +132,11 @@ Chuyến thăm - Legolas và Gimli tới [Hang động lấp lánh](../G/Glitter
 
 <table class="wikitable mw-collapsible">
 <tbody><tr>
-<th>Vai trò</th>
-<th>Diễn viên
+<th>Role</th>
+<th>Actor
 </th></tr>
 <tr>
-<td>Người dẫn chuyện</td>
+<td>Narrator</td>
 <td><a href="../G/Gerard_Murphy.md" title="Gerard Murphy">Gerard Murphy</a>
 </td></tr>
 <tr>
@@ -184,7 +184,7 @@ Chuyến thăm - Legolas và Gimli tới [Hang động lấp lánh](../G/Glitter
 <td><a href="../A/Andrew_Seear.md" title="Andrew Seear">Andrew Seear</a>
 </td></tr>
 <tr>
-<td><a href="../S/Saruman.md" title="Saruman">Saruman Áo Trắng</a></td>
+<td><a href="../S/Saruman.md" title="Saruman">Saruman the White</a></td>
 <td><a href="../P/Peter_Howell.md" title="Peter Howell">Peter Howell</a>
 </td></tr>
 <tr>
@@ -256,7 +256,7 @@ Chuyến thăm - Legolas và Gimli tới [Hang động lấp lánh](../G/Glitter
 <td>Oz Clarke
 </td></tr>
 <tr>
-<td><a class="mw-redirect" href="Tolman_Cotton_Senior.md" title="Tolman Cotton Senior">Lão nông Cotton</a></td>
+<td><a class="mw-redirect" href="Tolman_Cotton_Senior.md" title="Tolman Cotton Senior">Farmer Cotton</a></td>
 <td>Alan Dudley
 </td></tr>
 <tr>
@@ -336,7 +336,7 @@ Chuyến thăm - Legolas và Gimli tới [Hang động lấp lánh](../G/Glitter
 <td>Gordon Reid
 </td></tr>
 <tr>
-<td><a class="mw-redirect" href="The_Mouth_of_Sauron~36612.md" title="The Mouth of Sauron">Miệng của Sauron</a></td>
+<td><a class="mw-redirect" href="The_Mouth_of_Sauron~36612.md" title="The Mouth of Sauron">The Mouth of Sauron</a></td>
 <td><a href="../J/John_Rye.md" title="John Rye">John Rye</a>
 </td></tr>
 <tr>

@@ -18,7 +18,7 @@ Khác với [Rúmil của Tirion](<../R/Rúmil_(elf_of_Tirion).md>), Fëanor coi
 
 Không có văn bản nào của hệ thống gốc này được biết đến, cách sử dụng và ký tự của nó vẫn còn là điều bí ẩn, nhưng người ta nói rằng nó đã được sử dụng trong [Trung Địa](../M/Middle-earth.md) cho các ngôn ngữ khác, như [Sindarin](../S/Sindarin.md), trong đó chế độ tehta được coi là bất tiện.
 
-Có thể (và thực sự rất có thể) rằng [Kiểu Beleriand](../M/Mode_of_Beleriand.md) là một trong những hệ thống có nguồn gốc từ *Quanta*; chữ cái <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Oss%C3%AB_(tengwa)&amp;action=edit&amp;redlink=1" title="Ossë (tengwa) (page does not exist)">ossë</a></i> có lẽ là tàn tích duy nhất của hệ thống đó (đã bị tuyệt chủng).
+Có thể (và thực sự rất có thể) rằng [Chế độ của Beleriand](../M/Mode_of_Beleriand.md) là một trong những hệ thống có nguồn gốc từ *Quanta*; chữ cái <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Oss%C3%AB_(tengwa)&amp;action=edit&amp;redlink=1" title="Ossë (tengwa) (page does not exist)">ossë</a></i> có lẽ là tàn tích duy nhất của hệ thống đó (đã bị tuyệt chủng).
 
 ## Các ví dụ có thể có {#Possible_examples}
 

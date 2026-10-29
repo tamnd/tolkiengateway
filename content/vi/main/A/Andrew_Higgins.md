@@ -32,7 +32,7 @@ infobox:
     value: "Wotan's Elvish Musings"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Andrew Higgins</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Director of Development for Glyndebourne Opera</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="http://wotanselvishmusings.blogspot.co.uk" rel="noreferrer noopener" target="_blank">Wotan&#39;s Elvish Musings</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Andrew Higgins</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Director of Development for Glyndebourne Opera</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://wotanselvishmusings.blogspot.co.uk" rel="noreferrer noopener" target="_blank">Wotan&#39;s Elvish Musings</a></td></tr></tbody></table>
 
 **Andrew Higgins** là học giả [Tolkien](../J/J.R.R._Tolkien.md). Luận án tiến sĩ của ông có tựa đề 'Nguồn gốc thần thoại của Tolkien', được hướng dẫn bởi Tiến sĩ [Dimitra Fimi](../D/Dimitra_Fimi.md). Ông cũng giảng dạy các khóa học về Phát minh ngôn ngữ và Tolkien, thông qua Đại học Signum/[Học viện Mythgard](../M/Mythgard_Institute.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

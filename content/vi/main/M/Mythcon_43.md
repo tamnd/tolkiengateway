@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Mythcon_43"
 content_sha256: 7e36f1e984124734700d38fe1854a755209715b497301d1e5c605c1c29f78127
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Hội nghị Hội thần thoại năm 2012"
+short_description: "2012 Mythopoeic Society conference"
 categories:
   - "Mythcon"
 hidden_categories:
@@ -28,7 +28,7 @@ infobox:
     value: "Mythcon 44"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 43</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Berkeley, California</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Hội Mythopoeic</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">3-6 August <a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Mythcon_42.md" title="Mythcon 42">Mythcon 42</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Mythcon_44.md" title="Mythcon 44">Mythcon 44</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 43</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Berkeley, California</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data">3-6 August <a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="Mythcon_42.md" title="Mythcon 42">Mythcon 42</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="Mythcon_44.md" title="Mythcon 44">Mythcon 44</a></td></tr></tbody></table>
 
 **Mythcon 43** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 43.
 

@@ -19,22 +19,22 @@ Thuật ngữ này xuất hiện trong [Bài hát Eärendil](../S/Song_of_Eären
 
 <blockquote class="tg-quote noexcerpt">
 <div class="poem">
-<p>Ở đó <a href="../E/Elwing.md" title="Elwing">Elwing</a> bay tới chỗ anh,<br/>
-và ngọn lửa được thắp sáng trong bóng tối;<br/>
-sáng hơn ánh sáng kim cương<br/>
-ngọn lửa trên chiếc carcanet của bà.<br/>
-<a class="mw-redirect" href="../S/Silmaril.md" title="Silmaril">Silmaril</a> cô trói vào người anh<br/>
-và đội cho ông ánh sáng sống động,<br/>
-và dũng cảm rồi với vầng trán nóng bỏng<br/>
-ông quay mũi tàu; và trong đêm<br/>
-từ Thế giới khác ngoài Biển<br/>
-ở đó một cơn bão mạnh và tự do nổi lên,<br/>
-một cơn gió quyền lực ở <b>Tarmenel</b>;<br/>
-bằng những con đường mà con người hiếm khi đi<br/>
-con thuyền của anh thở hổn hển<br/>
-như sức mạnh của cái chết xuyên qua vùng xám<br/>
-và biển bị bỏ rơi từ lâu đang đau khổ:<br/>
-từ đông sang tây ông viên tịch.
+<p>There flying <a href="../E/Elwing.md" title="Elwing">Elwing</a> came to him,<br/>
+and flame was in the darkness lit;<br/>
+more bright than light of diamond<br/>
+the fire upon her carcanet.<br/>
+The <a class="mw-redirect" href="../S/Silmaril.md" title="Silmaril">Silmaril</a> she bound on him<br/>
+and crowned him with the living light,<br/>
+and dauntless then with burning brow<br/>
+he turned his prow; and in the night<br/>
+from Otherworld beyond the Sea<br/>
+there strong and free a storm arose,<br/>
+a wind of power in <b>Tarmenel</b>;<br/>
+by paths that seldom mortal goes<br/>
+his boat it bore with biting breath<br/>
+as might of death across the grey<br/>
+and long-forsaken seas distressed:<br/>
+from east to west he passed away.
 </p>
 </div>
 </blockquote>

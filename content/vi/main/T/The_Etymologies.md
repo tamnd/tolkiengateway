@@ -23,36 +23,36 @@ images:
   - "Etymologies_folio_93.png"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc chỉnh sửa. Xin hãy chung tay giúp wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_Etymologies&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng bài viết</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_Etymologies&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>chỉnh sửa</b> để đáp ứng <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn chất lượng bài viết cao hơn</a>.<blockquote class="tg-quote noexcerpt">
-<p>Tôi sẽ chưa coi đó là kết thúc cho đến khi chúng ta giải quyết xong mớ hỗn độn này.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
+<p>I shan&#39;t call it the end, till we&#39;ve cleared up the mess.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin:15px;border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> các chương
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> chapters
 </th></tr>
 <tr>
 <td>
-<dl><dd><b>Phần Một</b></dd></dl>
-<ol><li><a href="The_Early_History_of_the_Legend.md" title="The Early History of the Legend">Lịch sử ban đầu của truyền thuyết</a></li>
+<dl><dd><b>Part One</b></dd></dl>
+<ol><li><a href="The_Early_History_of_the_Legend.md" title="The Early History of the Legend">The Early History of the Legend</a></li>
 <li><a href="The_Fall_of_Númenor_(chapter).md" title="The Fall of Númenor (chapter)">The Fall of Númenor</a></li>
 <li><a href="The_Lost_Road.md" title="The Lost Road">The Lost Road</a></li></ol>
 <dl><dd><b>Part Two</b><i></i></dd></dl>
-<ol><li><a href="The_Texts_and_Their_Relations.md" title="The Texts and Their Relations">Các văn bản và mối liên hệ giữa chúng</a></li>
+<ol><li><a href="The_Texts_and_Their_Relations.md" title="The Texts and Their Relations">The Texts and Their Relations</a></li>
 <li><a href="The_Later_Annals_of_Valinor.md" title="The Later Annals of Valinor">The Later Annals of Valinor</a></li>
-<li><a href="The_Later_Annals_of_Beleriand.md" title="The Later Annals of Beleriand">Biên niên sử muộn của Beleriand</a></li>
+<li><a href="The_Later_Annals_of_Beleriand.md" title="The Later Annals of Beleriand">The Later Annals of Beleriand</a></li>
 <li><a href="../A/Ainulindalë_(Lost_Road).md" title="Ainulindalë (Lost Road)">Ainulindalë</a></li>
 <li><a href="The_Lhammas.md" title="The Lhammas">The Lhammas</a></li>
 <li><a href="../Q/Quenta_Silmarillion_(Lost_Road).md" title="Quenta Silmarillion (Lost Road)">Quenta Silmarillion</a></li></ol>
-<dl><dd><b>Phần Ba</b>
+<dl><dd><b>Part Three</b>
 <dl><dd><a class="mw-selflink selflink">The Etymologies</a></dd></dl></dd></dl>
 </td></tr></tbody></table>
 
@@ -64,7 +64,7 @@ images:
 
 Trong *The Etymologies*, Tolkien cung cấp một loạt các [Elvish](../E/Elvish.md) âm tiết gốc ngôn ngữ, hay "cơ sở". Sau đó, ông chỉ ra cách mỗi cơ sở phát triển thành từ vựng của khoảng mười hai biến thể của ngôn ngữ Elvish, chủ yếu là [Qenya](../Q/Qenya.md) và [Noldorin](../N/Noldorin.md). Mặc dù các từ phái sinh không nhất thiết phải ở dạng cuối cùng, vì các ngôn ngữ được phát minh của Tolkien vẫn tiếp tục phát triển trong suốt cuộc đời của ông, Christopher Tolkien đã tuyên bố rằng tài liệu này "*làm tăng đáng kể vốn từ vựng đã biết của Elvish các ngôn ngữ*".
 
-## Bổ sung và đính chính {#Addenda_and_corrigenda}
+## Phụ lục và sửa đổi {#Addenda_and_corrigenda}
 
 Trong [2003](../_/2003.md) và [2004](../_/2004.md), [*Vinyar Tengwar* số 45](../V/Vinyar_Tengwar_45.md) và [46](../V/Vinyar_Tengwar_46.md) đã cung cấp phụ lục và bản sửa đổi cho văn bản gốc được xuất bản của *The Etymologies*, với các mục và gốc chưa được biết trước đó. Trong [2007](../_/2007.md), vấn đề *[Parma Eldalamberon](../P/Parma_Eldalamberon.md)* [17](../P/Parma_Eldalamberon_17.md) thậm chí còn cung cấp nhiều mục nhập hơn.
 

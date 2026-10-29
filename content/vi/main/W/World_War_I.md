@@ -21,15 +21,15 @@ images:
   - "Tolkien_1916.jpg"
 ---
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_1916.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b4/Tolkien_1916.jpg/300px-Tolkien_1916.jpg" decoding="async" loading="lazy" width="300" height="447" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b4/Tolkien_1916.jpg 1.5x" data-file-width="327" data-file-height="487"/></a><figcaption>Tolkien năm 1916, mặc quân phục Quân đội Anh.</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_1916.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b4/Tolkien_1916.jpg/300px-Tolkien_1916.jpg" decoding="async" loading="lazy" width="300" height="447" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b4/Tolkien_1916.jpg 1.5x" data-file-width="327" data-file-height="487"/></a><figcaption>Tolkien in 1916, wearing his British Army uniform.</figcaption></figure>
 
 <center><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Ai đã chiến đấu với đôi bàn tay đẫm máu<br/>Qua thời gian ác độc ở vùng đất cằn cỗi,<br/>Tiếng súng<br/>Nói đến và không còn choáng váng...
+<p>Who battled have with bloody hands<br/>Through evil times in barren lands,<br/>To whom the voice of guns<br/>Speaks and no longer stuns...
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Geoffrey_Bache_Smith.md" title="Geoffrey Bache Smith">Geoffrey Bache Smith</a>, <i><a href="../A/A_Spring_Harvest.md" title="A Spring Harvest">A Spring Harvest</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) phục vụ trong Quân đội Anh trong **Chiến tranh thế giới thứ nhất** (hay "**Đại chiến**"), nổi bật nhất là trong [Trận Somme](../B/Battle_of_the_Somme.md) đẫm máu. Những tác phẩm đầu tiên của [huyền thoại](../L/Legendarium.md)—được sưu tầm trong *[The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md)*—được bắt đầu trong cuộc xung đột. Mức độ mà cuộc chiến và trải nghiệm của Tolkien về nó được phản ánh trong tác phẩm viết của ông là vấn đề được nhiều học giả Tolkien quan tâm.
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) phục vụ trong Quân đội Anh trong **Chiến tranh thế giới thứ nhất** (hay "**Đại chiến**"), nổi bật nhất là trong [Trận chiến Somme](../B/Battle_of_the_Somme.md) đẫm máu. Những tác phẩm đầu tiên của [huyền thoại](../L/Legendarium.md)—được sưu tầm trong *[The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md)*—được bắt đầu trong cuộc xung đột. Mức độ mà cuộc chiến và trải nghiệm của Tolkien về nó được phản ánh trong tác phẩm viết của ông là vấn đề được nhiều học giả Tolkien quan tâm.
 
 ## Người tham gia {#Participants}
 
@@ -50,7 +50,7 @@ images:
 
 ## Dòng thời gian {#Timeline}
 
-<dl><dd><b>Xem thêm <i><a class="extiw" href="http://en.wikipedia.org/wiki/Timeline_of_World_War_I" title="wikipedia:Timeline of World War I">Timeline of World War I</a></i> tại Wikipedia</b></dd></dl>
+<dl><dd><b>See also <i><a class="extiw" href="http://en.wikipedia.org/wiki/Timeline_of_World_War_I" title="wikipedia:Timeline of World War I">Timeline of World War I</a></i> at Wikipedia</b></dd></dl>
 
 ### 1914 {#1914}
 
@@ -94,12 +94,12 @@ images:
 ### 1917 {#1917}
 
 - **[Ngày 12 tháng 1](../_/12_January.md)** - Tolkien thời gian nghỉ phép (để hồi phục sau cơn sốt) kết thúc, nhưng ông còn lâu mới bình phục.<sup id="cite_ref-Garth_1-30" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
-- **[29 tháng 1](../_/29_January.md)** - Tolkien phải đối mặt với Hội đồng y tế vào Birmingham, nhưng ông được cho là không đủ sức khỏe để quay lại chiến tranh.<sup id="cite_ref-Garth_1-31" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
+- **[29 tháng 1](../_/29_January.md)** - Tolkien phải đối mặt với Hội đồng y tế vào Birmingham, nhưng ông ta được cho là không đủ sức khỏe để quay lại chiến tranh.<sup id="cite_ref-Garth_1-31" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
 - **[Tháng 2](../F/February.md)** - Tolkien đối mặt với Hội đồng Y khoa thứ hai của mình, nhưng lại bị coi là không đủ khả năng đảm nhận nhiệm vụ.<sup id="cite_ref-Garth_1-32" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
 - **[27 tháng 2](../_/27_February.md)** - Tolkien đối mặt với Hội đồng Y tế thứ ba của mình, và một lần nữa thời gian nghỉ phép của ông lại được gia hạn.<sup id="cite_ref-Garth_1-33" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
 - **[Ngày 18 tháng 4](../_/18_April.md)** - Tolkien và Wiseman, Anh em song sinh vĩ đại, gặp nhau ở Harrogate và thảo luận về số phận của [Barrovians](../T/T.C.B.S..md) và tương lai của Hội.<sup id="cite_ref-Garth_1-34" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
 - **[Ngày 19 tháng 4](../_/19_April.md)** - Tolkien, trong quá trình xác nhận lại, được giao cho Humber Garrison, nhưng không đủ sức khỏe.<sup id="cite_ref-Garth_1-35" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
-- **[Ngày 1 tháng 6](../_/1_June.md)** - Tolkien được coi là đủ sức khỏe để phục vụ trở lại, nhưng ông không được bổ nhiệm lại vào Lancashire Fusilliers.<sup id="cite_ref-Garth_1-36" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
+- **[Ngày 1 tháng 6](../_/1_June.md)** - Tolkien được coi là đủ sức khỏe để phục vụ trở lại, nhưng ông ta không được bổ nhiệm lại vào Lancashire Fusilliers.<sup id="cite_ref-Garth_1-36" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
 - **[29 tháng 6](../_/29_June.md)** - J.R.R. Tolkien qua đời vì bệnh viêm dạ dày khi ở Trại Brocton.<sup id="cite_ref-Garth_1-37" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
 - **[Ngày 1 tháng 8](../_/1_August.md)** - ["Tea Cake" Barnsley](../T/Thomas_Kenneth_Barnsley.md) bị giết ở Ypres.<sup id="cite_ref-Garth_1-38" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
 - **[13 tháng 10](../_/13_October.md)**- Tolkien được xác định là không đủ sức khỏe để làm nhiệm vụ trong sáu tháng nhưng có thể làm công việc bàn giấy.<sup id="cite_ref-Garth_1-39" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>

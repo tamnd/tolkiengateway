@@ -21,21 +21,21 @@ images:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Những khoảnh khắc yếu đuối nhất là những <br/>
-Sự bóp nghẹt sự điên rồ <br/>
-Mất đi sự bám chặt và cắt tôi thật sâu <br/>
-Với con dao ký ức trong trẻo <br/>
-Về quá khứ hồn nhiên không kéo dài <br/>
-Ồ, không! KHÔNG! <br/>
-Điều quý giá của tôi <br/>
-Vì em anh sẽ chết <br/>
-Tình yêu của tôi, cuộc sống của tôi, tất cả của tôi <br/>
-Vì em anh khóc <br/>
+<p>Weakest of moments are these <br/>
+The choking hold of insanity <br/>
+Loses its grip and cuts me so deep <br/>
+With the knife of clear memories <br/>
+Of that innocent past which didn&#39;t last <br/>
+Oh, no! No! <br/>
+The precious of mine <br/>
+For you I would die <br/>
+My love, my life, my everything <br/>
+For you I cry <br/>
 <br/>
-Nhưng không còn nữa <br/>
-Mọi chuyện sẽ tốt hơn <br/>
-Anh sẽ đến bên em <br/>
-Và chúng ta sẽ sớm ở bên nhau <br/>
-Mãi mãi...
+But not anymore <br/>
+The things will get better <br/>
+I will come to you <br/>
+And soon we&#39;ll be together <br/>
+Forever...
 </p>
 </div>

@@ -17,13 +17,13 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Fellowship!&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Fellowship!&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Fellowship of the Ring</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../T/The_Fellowship_of_the_Ring_(disambiguation).md" title="The Fellowship of the Ring (disambiguation)">The Fellowship of the Ring (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Fellowship of the Ring</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../T/The_Fellowship_of_the_Ring_(disambiguation).md" title="The Fellowship of the Ring (disambiguation)">The Fellowship of the Ring (disambiguation)</a></b>.</div></div>
 
 **Học bổng!** là một tác phẩm nhại âm nhạc không có giấy phép dựa trên *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.
 

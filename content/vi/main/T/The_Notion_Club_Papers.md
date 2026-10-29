@@ -27,42 +27,42 @@ images:
   - "J.R.R._Tolkien_-_Title-page_of_The_Notion_Club_Papers.jpg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>dọn dẹp</b> để phù hợp với <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn về chất lượng bài viết</a>.<blockquote class="tg-quote noexcerpt">
-<p>Tôi sẽ không coi đó là sự kết thúc cho đến khi chúng ta dọn dẹp được mớ hỗn độn này.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
+<p>I shan&#39;t call it the end, till we&#39;ve cleared up the mess.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
 
 <table class="tginfobox" align="right" cellpadding="3" cellspacing="0" style="margin:15px;border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a></i> chương
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a></i> chapters
 </th></tr>
 <tr>
 <td>
 <dl><dd><b>Part One: <a href="The_End_of_the_Third_Age.md" title="The End of the Third Age">The End of the Third Age</a></b></dd></dl>
 <ol><li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Story_of_Frodo_and_Sam_in_Mordor&amp;action=edit&amp;redlink=1" title="The Story of Frodo and Sam in Mordor (page does not exist)">The Story of Frodo and Sam in Mordor</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Tower_of_Kirith_Ungol&amp;action=edit&amp;redlink=1" title="The Tower of Kirith Ungol (page does not exist)">The Tower of Kirith Ungol</a></li>
-<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Land_of_Shadow_(Sauron_Defeated)&amp;action=edit&amp;redlink=1" title="The Land of Shadow (Sauron Defeated) (page does not exist)">Vùng đất Bóng Tối</a></li>
-<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mount_Doom_(Sauron_Defeated)&amp;action=edit&amp;redlink=1" title="Mount Doom (Sauron Defeated) (page does not exist)">Núi Diệt Vong</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Land_of_Shadow_(Sauron_Defeated)&amp;action=edit&amp;redlink=1" title="The Land of Shadow (Sauron Defeated) (page does not exist)">The Land of Shadow</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mount_Doom_(Sauron_Defeated)&amp;action=edit&amp;redlink=1" title="Mount Doom (Sauron Defeated) (page does not exist)">Mount Doom</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Field_of_Kormallen&amp;action=edit&amp;redlink=1" title="The Field of Kormallen (page does not exist)">The Field of Kormallen</a></li>
-<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Steward_and_the_King_(Sauron_Defeated)&amp;action=edit&amp;redlink=1" title="The Steward and the King (Sauron Defeated) (page does not exist)">Quan Chấp chính và Nhà vua</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Steward_and_the_King_(Sauron_Defeated)&amp;action=edit&amp;redlink=1" title="The Steward and the King (Sauron Defeated) (page does not exist)">The Steward and the King</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Many_Partings_(Sauron_Defeated)&amp;action=edit&amp;redlink=1" title="Many Partings (Sauron Defeated) (page does not exist)">Many Partings</a></li>
-<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Homeward_Bound_(Sauron_Defeated)&amp;action=edit&amp;redlink=1" title="Homeward Bound (Sauron Defeated) (page does not exist)">Trở về nhà</a></li>
-<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Scouring_of_the_Shire_(Sauron_Defeated)&amp;action=edit&amp;redlink=1" title="The Scouring of the Shire (Sauron Defeated) (page does not exist)">Cuộc thanh trừng Shire</a></li>
-<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Grey_Havens_(Sauron_Defeated)&amp;action=edit&amp;redlink=1" title="The Grey Havens (Sauron Defeated) (page does not exist)">Cảng Xám</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Homeward_Bound_(Sauron_Defeated)&amp;action=edit&amp;redlink=1" title="Homeward Bound (Sauron Defeated) (page does not exist)">Homeward Bound</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Scouring_of_the_Shire_(Sauron_Defeated)&amp;action=edit&amp;redlink=1" title="The Scouring of the Shire (Sauron Defeated) (page does not exist)">The Scouring of the Shire</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Grey_Havens_(Sauron_Defeated)&amp;action=edit&amp;redlink=1" title="The Grey Havens (Sauron Defeated) (page does not exist)">The Grey Havens</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Epilogue&amp;action=edit&amp;redlink=1" title="The Epilogue (page does not exist)">The Epilogue</a></li></ol>
 <dl><dd><b>Part Two: <a class="mw-selflink selflink">The Notion Club Papers</a></b>
-<ul><li><a class="mw-selflink selflink">Giới thiệu</a></li>
+<ul><li><a class="mw-selflink selflink">Introduction</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Foreword_and_List_of_Members&amp;action=edit&amp;redlink=1" title="Foreword and List of Members (page does not exist)">Foreword and List of Members</a></li>
 <li><a href="The_Notion_Club_Papers_Part_One.md" title="The Notion Club Papers Part One"><i>The Notion Club Papers</i> Part One</a></li>
 <li><a href="The_Notion_Club_Papers_Part_Two.md" title="The Notion Club Papers Part Two"><i>The Notion Club Papers</i> Part Two</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Major_Divergences_in_Earlier_Versions_of_Part_Two&amp;action=edit&amp;redlink=1" title="Major Divergences in Earlier Versions of Part Two (page does not exist)">Major Divergences in Earlier Versions of Part Two</a></li></ul></dd></dl>
 <dl><dd><b>Part Three: <a href="The_Drowning_of_Anadûnê.md" title="The Drowning of Anadûnê">The Drowning of Anadûnê</a></b></dd></dl>
-<ol><li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_third_version_of_The_Fall_of_N%C3%BAmenor&amp;action=edit&amp;redlink=1" title="The third version of The Fall of Númenor (page does not exist)">Phiên bản thứ ba của <i>The Fall of Númenor</i></a></li>
-<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_original_text_of_The_Drowning_of_Anad%C3%BBn%C3%AA&amp;action=edit&amp;redlink=1" title="The original text of The Drowning of Anadûnê (page does not exist)">Nguyên văn <i>The Drowning of Anadûnê</i></a></li>
-<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_second_text_of_The_Drowning_of_Anad%C3%BBn%C3%AA&amp;action=edit&amp;redlink=1" title="The second text of The Drowning of Anadûnê (page does not exist)">Văn bản thứ hai của <i>The Drowning of Anadûnê</i></a></li>
-<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_final_form_of_The_Drowning_of_Anad%C3%BBn%C3%AA&amp;action=edit&amp;redlink=1" title="The final form of The Drowning of Anadûnê (page does not exist)">Dạng cuối cùng của <i>The Drowning of Anadûnê</i></a></li>
-<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_theory_of_the_work&amp;action=edit&amp;redlink=1" title="The theory of the work (page does not exist)">Lý thuyết của công việc</a></li>
+<ol><li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_third_version_of_The_Fall_of_N%C3%BAmenor&amp;action=edit&amp;redlink=1" title="The third version of The Fall of Númenor (page does not exist)">The third version of <i>The Fall of Númenor</i></a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_original_text_of_The_Drowning_of_Anad%C3%BBn%C3%AA&amp;action=edit&amp;redlink=1" title="The original text of The Drowning of Anadûnê (page does not exist)">The original text of <i>The Drowning of Anadûnê</i></a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_second_text_of_The_Drowning_of_Anad%C3%BBn%C3%AA&amp;action=edit&amp;redlink=1" title="The second text of The Drowning of Anadûnê (page does not exist)">The second text of <i>The Drowning of Anadûnê</i></a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_final_form_of_The_Drowning_of_Anad%C3%BBn%C3%AA&amp;action=edit&amp;redlink=1" title="The final form of The Drowning of Anadûnê (page does not exist)">The final form of <i>The Drowning of Anadûnê</i></a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_theory_of_the_work&amp;action=edit&amp;redlink=1" title="The theory of the work (page does not exist)">The theory of the work</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lowdham%27s_Report_on_the_Adunaic_Language&amp;action=edit&amp;redlink=1" title="Lowdham&#39;s Report on the Adunaic Language (page does not exist)">Lowdham&#39;s Report on the Adunaic Language</a></li></ol>
 </td></tr></tbody></table>
 

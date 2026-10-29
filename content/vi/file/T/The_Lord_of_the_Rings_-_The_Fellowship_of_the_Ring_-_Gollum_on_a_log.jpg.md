@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Gollum](../../main/G/Gollum.md) theo [con Đoàn Hộ Nhẫn](../../main/F/Fellowship_of_the_Ring.md) xuôi dòng [Đại Hà Anduin](../../main/A/Anduin.md)
+[Gollum](../../main/G/Gollum.md) theo [con Đoàn Hộ Nhẫn](../../main/F/Fellowship_of_the_Ring.md) xuôi dòng [Sông Lớn Anduin](../../main/A/Anduin.md)
 
 ## Giấy phép {#Licensing}
 

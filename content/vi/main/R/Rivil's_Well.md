@@ -26,7 +26,7 @@ images:
 
 **Giếng Rivil** là nguồn của dòng sông [Rivil](Rivil.md), chảy từ [Dorthonion](../D/Dorthonion.md) phía trên [Đầm lầy Serech](../F/Fen_of_Serech.md).
 
-Chính tại đây, một ban nhạc [Orc](../O/Orc.md), sau khi [giết](../M/Massacre_at_Tarn_Aeluin.md) [Barahir](../B/Barahir.md) và [những người theo dõi](../X/XII_Bëorings.md) của hắn, đã cắm trại. Thuyền trưởng của họ khoe khoang về chiến công của mình, cầm bàn tay bị chặt đứt của [Barahir](../B/Barahir.md), vẫn còn [Chiếc nhẫn](Ring_of_Barahir.md) trên đó. [Beren](../B/Beren.md), lần theo dấu vết của họ, đã trả thù cho cha mình bằng cách giết chết thuyền trưởng, đồng thời lấy lại bàn tay của cha mình. Ông bỏ chạy để lại Orc không mục đích và mất tinh thần.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Chính tại đây, một ban nhạc [Orc](../O/Orc.md), sau khi [giết](../M/Massacre_at_Tarn_Aeluin.md) [Barahir](../B/Barahir.md) và [những người theo dõi](../X/XII_Bëorings.md) của hắn, đã cắm trại. Thuyền trưởng của họ khoe khoang về chiến công của mình, cầm bàn tay bị chặt đứt của [Barahir](../B/Barahir.md), vẫn còn [Chiếc nhẫn](Ring_of_Barahir.md) trên đó. [Beren](../B/Beren.md), lần theo dấu vết của họ, đã trả thù cho cha mình bằng cách giết chết thuyền trưởng, đồng thời lấy lại bàn tay của cha mình. Ông ta bỏ chạy để lại Orc không mục đích và mất tinh thần.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

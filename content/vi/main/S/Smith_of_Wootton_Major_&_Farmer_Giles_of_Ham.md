@@ -44,7 +44,7 @@ infobox:
     value: "034501538X"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Smith_Farmer_1969.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/26/Smith_Farmer_1969.jpeg/289px-Smith_Farmer_1969.jpeg" decoding="async" loading="lazy" width="289" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/26/Smith_Farmer_1969.jpeg 1.5x" data-file-width="301" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Smith of Wootton Major &amp; Farmer Giles of Ham</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Họa sĩ minh họa</th><td class="tg-infobox-data"><a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../B/Ballantine_Books.md" title="Ballantine Books">Ballantine Books</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/1969.md" title="1969">1969</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa mềm</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">160</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/034501538X" title="Special:BookSources/034501538X">034501538X</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Smith_Farmer_1969.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/26/Smith_Farmer_1969.jpeg/289px-Smith_Farmer_1969.jpeg" decoding="async" loading="lazy" width="289" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/26/Smith_Farmer_1969.jpeg 1.5x" data-file-width="301" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Smith of Wootton Major &amp; Farmer Giles of Ham</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../B/Ballantine_Books.md" title="Ballantine Books">Ballantine Books</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1969.md" title="1969">1969</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">160</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/034501538X" title="Special:BookSources/034501538X">034501538X</a></td></tr></tbody></table>
 
 <i><b>Smith of Wootton Major & Farmer Giles of Ham</b></i> là một tuyển tập, được xuất bản lần đầu trên [1969](../_/1969.md) bởi [Ballantine Books](../B/Ballantine_Books.md), tập hợp các cuốn sách *[Smith of Wootton Major](Smith_of_Wootton_Major.md)* và *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* dưới cùng một bìa.
 
@@ -56,35 +56,35 @@ infobox:
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Smith_Farmer_1969.jpeg.md" title="1969 edition"><img alt="1969 edition" src="https://tolkiengateway.net/w/images/thumb/2/26/Smith_Farmer_1969.jpeg/75px-Smith_Farmer_1969.jpeg" decoding="async" loading="lazy" width="75" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/26/Smith_Farmer_1969.jpeg/113px-Smith_Farmer_1969.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/2/26/Smith_Farmer_1969.jpeg/150px-Smith_Farmer_1969.jpeg 2x" data-file-width="301" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>ấn bản năm 1969
+<p>1969 edition
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Smith_Farmer_1975.jpeg.md" title="1975 edition"><img alt="1975 edition" src="https://tolkiengateway.net/w/images/thumb/a/a5/Smith_Farmer_1975.jpeg/75px-Smith_Farmer_1975.jpeg" decoding="async" loading="lazy" width="75" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a5/Smith_Farmer_1975.jpeg/113px-Smith_Farmer_1975.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a5/Smith_Farmer_1975.jpeg/150px-Smith_Farmer_1975.jpeg 2x" data-file-width="305" data-file-height="508"/></a></span></div>
 			<div class="gallerytext">
-<p>ấn bản năm 1975
+<p>1975 edition
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Smith_Farmer_1977.jpg.md" title="1977 edition"><img alt="1977 edition" src="https://tolkiengateway.net/w/images/thumb/3/30/Smith_Farmer_1977.jpg/76px-Smith_Farmer_1977.jpg" decoding="async" loading="lazy" width="76" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/30/Smith_Farmer_1977.jpg/115px-Smith_Farmer_1977.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/30/Smith_Farmer_1977.jpg/153px-Smith_Farmer_1977.jpg 2x" data-file-width="291" data-file-height="475"/></a></span></div>
 			<div class="gallerytext">
-<p>ấn bản năm 1977
+<p>1977 edition
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Smith_Farmer_1984.png.md" title="1984 edition"><img alt="1984 edition" src="https://tolkiengateway.net/w/images/thumb/3/3b/Smith_Farmer_1984.png/83px-Smith_Farmer_1984.png" decoding="async" loading="lazy" width="83" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3b/Smith_Farmer_1984.png/125px-Smith_Farmer_1984.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/3b/Smith_Farmer_1984.png/166px-Smith_Farmer_1984.png 2x" data-file-width="1588" data-file-height="2392"/></a></span></div>
 			<div class="gallerytext">
-<p>ấn bản năm 1984
+<p>1984 edition
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Smith_Farmer_2003.jpeg.md" title="2003 edition"><img alt="2003 edition" src="https://tolkiengateway.net/w/images/thumb/6/64/Smith_Farmer_2003.jpeg/77px-Smith_Farmer_2003.jpeg" decoding="async" loading="lazy" width="77" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/64/Smith_Farmer_2003.jpeg/115px-Smith_Farmer_2003.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/6/64/Smith_Farmer_2003.jpeg/153px-Smith_Farmer_2003.jpeg 2x" data-file-width="500" data-file-height="814"/></a></span></div>
 			<div class="gallerytext">
-<p>ấn bản năm 2003
+<p>2003 edition
 </p>
 			</div>
 		</li>

@@ -25,7 +25,7 @@ Vào [26 tháng 8](../_/26_August.md) [1965](../_/1965.md), [J.R.R. Tolkien](../
 - **Mô tả:** 5 trang, viết tay.
 - **Xuất bản:** Hình ảnh bức thư được xuất bản vào [*Writing Magazine*, tháng 8 năm 2014](<../W/Writing_Magazine_(August_2014).md>).
 
-<h2><span id="From_the_Magazine.27s_editor"></span><span class="mw-headline" id="From_the_Magazine&#39;s_editor">Từ biên tập viên của Tạp chí</span></h2>
+<h2><span id="From_the_Magazine.27s_editor"></span><span class="mw-headline" id="From_the_Magazine&#39;s_editor">From the Magazine&#39;s editor</span></h2>
 
 "Paula đã nói với tôi rằng bà luôn bảo vệ những bức thư một cách ghen tị (và được đề cập trong bài báo là không cho người viết tiểu sử nhìn thấy chúng) vì vậy tôi tin rằng đây là lần đầu tiên nội dung được xuất bản ở bất cứ đâu, ít nhất là một số trong số đó."
 

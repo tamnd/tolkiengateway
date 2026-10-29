@@ -16,31 +16,31 @@ categories:
 
 <table align="right" cellpadding="6" cellspacing="0" class="tginfobox floatright">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">Lịch sử Arda</a>
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">History of Arda</a>
 </th></tr>
 <tr>
-<td colspan="3"><b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Âm nhạc của các Ainur</a></b>
+<td colspan="3"><b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Music of the Ainur</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../T/Timeline.md" title="Timeline">Dòng thời gian Arda</a></b>
-</td></tr>
-<tr>
-<td style="padding-top: 0em; padding-bottom: 0em;">
-</td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../D/Days_before_days.md" title="Days before days">Những ngày trước thời đại</a>
+<td colspan="3"><b><a href="../T/Timeline.md" title="Timeline">Timeline of Arda</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="Years_of_the_Trees.md" title="Years of the Trees">Thời đại Cây Hai Ngọn</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../D/Days_before_days.md" title="Days before days">Days before days</a>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="Years_of_the_Sun.md" title="Years of the Sun">Những năm Mặt Trời</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="Years_of_the_Trees.md" title="Years of the Trees">Years of the Trees</a>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Các Kỷ nguyên của Những Người Con của Ilúvatar</a></b>
+<td style="padding-top: 0em; padding-bottom: 0em;">
+</td>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="Years_of_the_Sun.md" title="Years of the Sun">Years of the Sun</a>
+</td></tr>
+<tr>
+<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Ages of the Children of Ilúvatar</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
@@ -65,25 +65,25 @@ categories:
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../L/Later_Ages.md" title="Later Ages">Sau Kỷ nguyên</a> <small>(tính đến thời điểm hiện tại)</small>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../L/Later_Ages.md" title="Later Ages">Later Ages</a> <small>(up to present day)</small>
 </td></tr>
 <tr>
 <td colspan="3"><b><a href="../D/Dagor_Dagorath.md" title="Dagor Dagorath">Dagor Dagorath</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Âm nhạc thứ hai của các Ainur</a></b>
+<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Second Music of the Ainur</a></b>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">Xem thêm: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Truyền thuyết phiên bản Round World</a></b>
+<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">See also: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Round World version of the legendarium</a></b>
 </td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Ngày xưa đã không còn nữa. Những Ngày Giữa đang trôi qua. Những Ngày Trẻ Đang Bắt Đầu.
+<p>The Elder Days are gone. The Middle Days are passing. The Younger Days are beginning.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Saruman.md" title="Saruman">Saruman</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Thời trẻ** là những thời kỳ nối tiếp [Trung kỳ](../M/Middle_Days.md) ở [Trung Địa](../M/Middle-earth.md). Thuật ngữ này được áp dụng cho các năm [Kỷ Đệ Tứ](../F/Fourth_Age.md) (và [sau đó](../L/Later_Ages.md)) tiếp theo sau [Sự sụp đổ của Barad-dûr](../D/Downfall_of_Barad-dûr.md). Đó là thời điểm mà [Quyền thống trị của Con Người](../D/Dominion_of_Men.md) cuối cùng đã phát huy tối đa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Thời trẻ** là những thời kỳ nối tiếp [Trung kỳ](../M/Middle_Days.md) ở [Trung Địa](../M/Middle-earth.md). Thuật ngữ này được áp dụng cho các năm [Kỷ Đệ Tứ](../F/Fourth_Age.md) (và [sau đó](../L/Later_Ages.md)) tiếp theo sau [Sự sụp đổ của Barad-dûr](../D/Downfall_of_Barad-dûr.md). Đó là thời điểm mà [Sự thống trị của Con Người](../D/Dominion_of_Men.md) cuối cùng đã phát huy tối đa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

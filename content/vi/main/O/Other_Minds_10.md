@@ -26,7 +26,7 @@ infobox:
     value: "72"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 10</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên gần nhất</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Hawke Robinson, Neville Percy, Chris Seeman</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Tình nguyện viên Other Minds</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">August <a href="../_/2010.md" title="2010">2010</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">72</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 10</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Hawke Robinson, Neville Percy, Chris Seeman</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">August <a href="../_/2010.md" title="2010">2010</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">72</td></tr></tbody></table>
 
 <b><i>Other Minds</i> 10</b> là số thứ mười của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng 8 năm 2010.
 
@@ -40,7 +40,7 @@ infobox:
     - Bởi Thomas Morwinsky
 - "Lịch sử trò chơi kể chuyện và những miêu tả tưởng tượng khác về Trung Địa"
     - Bởi Travis Henry
-- "Dự án phục hồi 'Other Hands'"
+- "Dự án phục hồi 'Những bàn tay khác'"
     - Bởi Thomas Morwinsky và Ronald K.
 - "Một ngày cuối tuần tháng 10 ở Trung Địa"
     - Bởi Thomas Abbenhaus

@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Flame_of_Anor"
 content_sha256: eff7258b14cfa05a50c66e9d36105e9f30a5802236ef269e0386fca63d62ef22
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Sức mạnh bí ẩn của Gandalf"
+short_description: "Mysterious power of Gandalf"
 categories:
   - "Nameless"
   - "Concepts"
@@ -28,13 +28,13 @@ images:
   - "NOLANOS_-_El_Fuego_de_Anor.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/NOLANOS_-_El_Fuego_de_Anor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2b/NOLANOS_-_El_Fuego_de_Anor.jpg/300px-NOLANOS_-_El_Fuego_de_Anor.jpg" decoding="async" loading="lazy" width="300" height="508" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2b/NOLANOS_-_El_Fuego_de_Anor.jpg/450px-NOLANOS_-_El_Fuego_de_Anor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2b/NOLANOS_-_El_Fuego_de_Anor.jpg/600px-NOLANOS_-_El_Fuego_de_Anor.jpg 2x" data-file-width="709" data-file-height="1200"/></a><figcaption><i>El Fuego de Anor</i> by NOLANOS</figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tôi là người hầu của <a href="../S/Secret_Fire.md" title="Secret Fire">Ngọn lửa bí mật</a>, người nắm giữ ngọn lửa Anor.
+<p>I am a servant of the <a href="../S/Secret_Fire.md" title="Secret Fire">Secret Fire</a>, wielder of the flame of Anor.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> in <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Bridge_of_Khazad-dûm.md" title="The Bridge of Khazad-dûm">The Bridge of Khazad-dûm</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

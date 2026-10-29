@@ -25,7 +25,7 @@ langlinks:
     url: "https://kontu.wiki/Tuil%C3%AB"
 ---
 
-**Tuilë** là từ [Quenya](../Q/Quenya.md) chỉ mùa xuân; [Sindar](../S/Sindar.md) gọi nó là [Ethuil](../E/Ethuil.md). Theo [Lịch Rivendell](../R/Reckoning_of_Rivendell.md) thì đây là mùa đầu tiên trong năm và ít nhiều tương ứng với 54 ngày từ [7 tháng 4](../_/7_April.md) đến [30 tháng 5](../_/30_May.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Tuilë** là từ [Quenya](../Q/Quenya.md) chỉ mùa xuân; [Sindar](../S/Sindar.md) gọi nó là [Ethuil](../E/Ethuil.md). Theo [Tính toán của Rivendell](../R/Reckoning_of_Rivendell.md) thì đây là mùa đầu tiên trong năm và ít nhiều tương ứng với 54 ngày từ [7 tháng 4](../_/7_April.md) đến [30 tháng 5](../_/30_May.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
@@ -38,20 +38,20 @@ langlinks:
 
 <table style="text-align:center; margin: 0 auto; font-size: 90%" class="mw-collapsible mw-collapsed toccolours" align="center" width="70%">
 <tbody><tr>
-<td align="center" colspan="10" style="background: var(--tg-color-surface-5);"><b><a class="mw-redirect" href="../C/Calendar_of_Imladris.md" title="Calendar of Imladris">Lịch Imladris</a></b>
+<td align="center" colspan="10" style="background: var(--tg-color-surface-5);"><b><a class="mw-redirect" href="../C/Calendar_of_Imladris.md" title="Calendar of Imladris">Calendar of Imladris</a></b>
 </td></tr>
 <tr>
-<th align="center" style="background: var(--tg-color-surface-3);">Ý nghĩa:
+<th align="center" style="background: var(--tg-color-surface-3);">Meaning:
 </th>
-<td>“Ngày đầu tiên”</td>
+<td>&#39;First Day&#39;</td>
 <td>&#39;Spring&#39;</td>
 <td>&#39;Summer&#39;</td>
 <td>&#39;Autumn&#39;</td>
-<td>“Những ngày giữa”</td>
+<td>&#39;Middle Days&#39;</td>
 <td>&#39;Fading&#39;</td>
 <td>&#39;Winter&#39;</td>
 <td>&#39;Stirring&#39;</td>
-<td>“Ngày cuối cùng”
+<td>&#39;Last Day&#39;
 </td></tr>
 <tr>
 <th align="center" style="background: var(--tg-color-surface-3);"><a href="../Q/Quenya.md" title="Quenya">Quenya</a>:

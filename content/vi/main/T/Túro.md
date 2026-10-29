@@ -16,7 +16,7 @@ sort_keys:
   "Quenya names": "Turo"
 ---
 
-**Túro** là một nhân vật bí ẩn, có vẻ già ("*[Yára](../Y/Yára.md) Túro*"). Mặc dù truyền thuyết xung quanh ông đề cập đến [Quenya ngữ pháp](../Q/Quenya%252FGrammar.md) nhưng vẫn chưa biết liệu ông có thuộc về [huyền thoại](../L/Legendarium.md) hay không. Một số người quan tâm đến ông, do ông đến và làm những việc không xác định, và cuối cùng ông đã làm phiền họ bằng cách ăn hết bánh mì.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Túro** là một nhân vật bí ẩn, có vẻ già ("*[Yára](../Y/Yára.md) Túro*"). Mặc dù truyền thuyết xung quanh ông ta đề cập đến [Quenya ngữ pháp](../Q/Quenya%252FGrammar.md) nhưng vẫn chưa biết liệu ông ta có thuộc về [huyền thoại](../L/Legendarium.md) hay không. Một số người quan tâm đến ông, do ông đến và làm những việc không xác định, và cuối cùng ông đã làm phiền họ bằng cách ăn hết bánh mì.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

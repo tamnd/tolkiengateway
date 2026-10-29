@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/Tolkien,_trente_ans_après"
 content_sha256: 76173e8a23b5743dc20400b05ac0f60de82dfe501841e615abb3bdc120aa2ec0
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Tiểu luận tiếng Pháp xuất bản năm 2003"
+short_description: "2003 publication of French essays"
 categories:
   - "French publications"
   - "Publications by title"
@@ -29,7 +29,7 @@ infobox:
     value: "978-2-3642400-63"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien, trente ans après</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data"><a href="../V/Vincent_Ferré.md" title="Vincent Ferré">Vincent Ferré</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Christian Bourgois éditeur</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">2003</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">393</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-2-3642400-63" title="Special:BookSources/978-2-3642400-63">978-2-3642400-63</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien, trente ans après</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../V/Vincent_Ferré.md" title="Vincent Ferré">Vincent Ferré</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Christian Bourgois éditeur</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">2003</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">393</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-2-3642400-63" title="Special:BookSources/978-2-3642400-63">978-2-3642400-63</a></td></tr></tbody></table>
 
 **Tolkien, trente ans après** 1973-2003 ("Tolkien ba mươi năm sau") là một tập hợp các tiểu luận học thuật bằng tiếng Pháp vào [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), ba mươi năm sau khi tác giả qua đời.
 

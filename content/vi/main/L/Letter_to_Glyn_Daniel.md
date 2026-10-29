@@ -22,7 +22,7 @@ Vào [25 tháng 8](../_/25_August.md) [1973](../_/1973.md), [J.R.R. Tolkien](../
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Daniel thân mến,<br/><br/>Đã lâu rồi kể từ ngày 20 tháng 7; nhưng thà (tôi hy vọng) muộn còn hơn không bao giờ làm những gì lẽ ra tôi phải làm trước khi đắm chìm vào những vấn đề khác: cảm ơn bạn vì bữa tối thú vị ở St John's, và đặc biệt là vì sự kiên nhẫn và lòng tốt tuyệt vời của bạn đối với cá nhân tôi. Nó đã chứng tỏ một bước ngoặt! Tôi không bị bất kỳ ảnh hưởng xấu nào và từ đó đã có thể bỏ qua hầu hết những điều cấm kỵ về chế độ ăn kiêng mà tôi phải tuân thủ trong khoảng sáu tháng.<br/><br/>Tôi rất mong chờ bữa tối A.E. tiếp theo và hy vọng rằng bạn sẽ có mặt.<br/><br/>Của bạn luôn,<br/><br/>Ronald Tolkien.
+<p>Dear Daniel,<br/><br/>It is a long time since July 20th; but better (I hope) late than never to do what I should have done before being immersed in other matters : to thank you for your delightful dinner in St John’s, and especially for your forbearance and great kindness to me personally. It proved a turning point! I suffered no ill effects whatsoever, and have since been able to dispense with most of the diet taboos I had to observe for some six months.<br/><br/>I look forward to the next A.E. dinner, and hope that you will be present.<br/><br/>Yours ever,<br/><br/>Ronald Tolkien.
 </p>
 </blockquote>
 

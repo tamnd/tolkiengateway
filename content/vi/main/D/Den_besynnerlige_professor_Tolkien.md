@@ -15,7 +15,7 @@ images:
   - "Den_besynnerlige_professor_Tolkien.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Den_besynnerlige_professor_Tolkien.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bf/Den_besynnerlige_professor_Tolkien.jpg/300px-Den_besynnerlige_professor_Tolkien.jpg" decoding="async" loading="lazy" width="300" height="226" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/bf/Den_besynnerlige_professor_Tolkien.jpg 1.5x" data-file-width="382" data-file-height="288"/></a><figcaption>Bài viết gốc</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Den_besynnerlige_professor_Tolkien.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bf/Den_besynnerlige_professor_Tolkien.jpg/300px-Den_besynnerlige_professor_Tolkien.jpg" decoding="async" loading="lazy" width="300" height="226" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/bf/Den_besynnerlige_professor_Tolkien.jpg 1.5x" data-file-width="382" data-file-height="288"/></a><figcaption>The original article</figcaption></figure>
 
 **Den besynnerlige Professor Tolkien** ("Giáo sư kỳ dị Tolkien" hay "Tolkien, Giáo sư kỳ dị") là tiêu đề của cuộc phỏng vấn với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) do [Lars Gustafsson](../L/Lars_Gustafsson.md) thực hiện. Bài viết được xuất bản bằng tiếng Thụy Điển trên <i><a class="extiw" href="http://en.wikipedia.org/wiki/Dagens_Nyheter" title="wikipedia:Dagens Nyheter">Dagens Nyheter</a></i>, vào [ngày 21 tháng 8](../_/21_August.md), [1961](../_/1961.md).
 

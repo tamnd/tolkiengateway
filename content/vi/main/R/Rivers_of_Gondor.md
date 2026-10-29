@@ -27,8 +27,8 @@ Các **Các con sông Gondor** có thể được phân thành hai nhóm chồng
 Trong ghi chú trước đây của [Tolkien](../J/J.R.R._Tolkien.md) về việc tạo [bản đồ](../G/General_Map_of_Middle-earth.md) của [Trung Địa](../M/Middle-earth.md) - được bao gồm trong cả *[The Treason of Isengard](../T/The_Treason_of_Isengard.md)* và *[The War of the Ring](../T/The_War_of_the_Ring.md)* - [Christopher Tolkien](../C/Christopher_Tolkien.md) cho thấy rằng danh sách mở rộng ban đầu của các Sông Gondor cũng bao gồm [Anduin](../A/Anduin.md), [Duin Morghul](../M/Morgulduin.md), [Poros](../P/Poros.md) và [Calenhir](../C/Calenhir.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Trong các bản thảo trước đó của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* có một số tham chiếu đến cả "Vùng đất của bảy dòng suối" và "Bảy dòng suối" (với một trong [Bài hát đã xuất bản của Boromir](../S/Song_of_Boromir.md): "*Tôi đã thấy ông cưỡi ngựa vượt qua bảy con suối, trên mặt nước rộng và xám xịt*");<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> mặc dù Christopher Tolkien coi đây là một "câu đố", ghi chú từ Tolkien trên bản đồ đặt tên cho bảy con sông (năm con sông ở trên có thêm hai con sông nữa):<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <ol start="6">
-<li><a href="../I/Isen.md" title="Isen">Isen</a>, chảy về hướng Tây đến <a href="../B/Belegaer.md" title="Belegaer">Belegaer</a> từ <a href="../I/Isengard.md" title="Isengard">Isengard</a>;</li>
-<li><a href="../G/Gwathló.md" title="Gwathló">Gwathló</a>, thể hiện ranh giới <a href="../A/Arnor.md" title="Arnor">Arnor</a>, đi qua cảng <a href="../T/Tharbad.md" title="Tharbad">Tharbad</a> và nối biển tại <a href="../L/Lond_Daer.md" title="Lond Daer">Lond Daer</a>.</li>
+<li><a href="../I/Isen.md" title="Isen">Isen</a>, flowing westward to <a href="../B/Belegaer.md" title="Belegaer">Belegaer</a> from <a href="../I/Isengard.md" title="Isengard">Isengard</a>;</li>
+<li><a href="../G/Gwathló.md" title="Gwathló">Gwathló</a>, representing the boundary of <a href="../A/Arnor.md" title="Arnor">Arnor</a>, passing through the port of <a href="../T/Tharbad.md" title="Tharbad">Tharbad</a> and joining the sea at <a href="../L/Lond_Daer.md" title="Lond Daer">Lond Daer</a>.</li>
 </ol>
 
 Tuy nhiên, bài thơ “[The Con Tàu Cuối Cùng](../T/The_Last_Ship.md)” trong *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* lại nhắc đến “Bảy con sông”<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> được xác định là:<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
@@ -39,7 +39,7 @@ Tuy nhiên, bài thơ “[The Con Tàu Cuối Cùng](../T/The_Last_Ship.md)” t
 4. [Ringló](Ringló.md), một nhánh khác của Morthond đi qua chỗ cạn [Ethring](../E/Ethring.md);
 5. [Gilrain](../G/Gilrain.md), nhập vào sông Serni tại [Linhir](../L/Linhir.md);
 6. [Serni](../S/Serni.md) - ban đầu được đánh vần là "Sernui" - và gia nhập Gilrain tại Linhir;
-7. [Anduin](../A/Anduin.md), Đại Hà chảy từ [Rhovanion](Rhovanion.md), qua [Rauros](Rauros.md), qua [Osgiliath](../O/Osgiliath.md) và ra biển sau [Pelargir](../P/Pelargir.md).
+7. [Anduin](../A/Anduin.md), Sông Lớn chảy từ [Rhovanion](Rhovanion.md), qua [Rauros](Rauros.md), qua [Osgiliath](../O/Osgiliath.md) và ra biển sau [Pelargir](../P/Pelargir.md).
 
 ## Năm con sông Lebennin {#Five_Rivers_of_Lebennin}
 

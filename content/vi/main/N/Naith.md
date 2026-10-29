@@ -35,9 +35,9 @@ Thuật ngữ tiếng Anh <i><a class="extiw" href="http://en.wiktionary.org/wik
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Naith tạo thành trung tâm của Lothlorien, vì rất ít Tiên tộc cư trú ở phía nam <a href="../C/Celebrant.md" title="Celebrant">Celebrant</a>.</dd></dl>
+<dl><dd>Naith forms the core of Lothlorien, as very few Elves reside south of the <a href="../C/Celebrant.md" title="Celebrant">Celebrant</a>.</dd></dl>
 
 <span></span>
 

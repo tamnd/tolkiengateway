@@ -25,7 +25,7 @@ images:
   - "Herr_Glueck.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Herr_Glueck.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/70/Herr_Glueck.jpg/250px-Herr_Glueck.jpg" decoding="async" loading="lazy" width="250" height="166" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/70/Herr_Glueck.jpg/375px-Herr_Glueck.jpg 1.5x, https://tolkiengateway.net/w/images/7/70/Herr_Glueck.jpg 2x" data-file-width="469" data-file-height="312"/></a><figcaption>Bìa bản dịch tiếng Đức <i>Mr. Bliss</i> của Anja Hegemann</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Herr_Glueck.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/70/Herr_Glueck.jpg/250px-Herr_Glueck.jpg" decoding="async" loading="lazy" width="250" height="166" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/70/Herr_Glueck.jpg/375px-Herr_Glueck.jpg 1.5x, https://tolkiengateway.net/w/images/7/70/Herr_Glueck.jpg 2x" data-file-width="469" data-file-height="312"/></a><figcaption>Cover of Anja Hegemann’s German translation of <i>Mr. Bliss</i></figcaption></figure>
 
 **Anja Bertsch-Hegemann (nhũ danh Hegemann)**\]\] ([11 tháng 6](../_/11_June.md), [1920](../_/1920.md) —?<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>) là một nhà văn, dịch giả và nữ thi sĩ người Đức.
 

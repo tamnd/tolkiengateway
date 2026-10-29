@@ -26,7 +26,7 @@ images:
 
 ## Lịch sử {#History}
 
-Cùng ngày sinh nhật với [Bilbo](../B/Bilbo_Baggins.md) và [Frodo Baggins](../F/Frodo_Baggins.md), *Unquendor* được thành lập vào ngày [22 tháng Chín](../_/22_September.md), [1981](../_/1981.md). Theo gương [Tolkien Hiệp hội](../T/The_Tolkien_Society.md) của Anh, Hiệp hội này đã tăng trưởng đều đặn với số lượng thành viên hiện tại là khoảng 225 người<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> từ khắp nơi trên thế giới nói tiếng Hà Lan, mặc dù Flanders có Hiệp hội riêng, *[Elanor](<../E/Elanor_(Tolkien_Society).md>)*và [Nam Phi](../../category/S/South_Africa.md) từng có [*Haradrim*](<../H/Haradrim_(Tolkien_Society).md>) hiện không còn tồn tại. Trong những năm gần đây Unquendor và Elanor đã hợp tác chặt chẽ trong các sự kiện. [Hội Tolkien Đức](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) (DTG) thỉnh thoảng cũng đã tham gia.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Cùng ngày sinh nhật với [Bilbo](../B/Bilbo_Baggins.md) và [Frodo Baggins](../F/Frodo_Baggins.md), *Unquendor* được thành lập vào ngày [22 tháng Chín](../_/22_September.md), [1981](../_/1981.md). Theo gương [Tolkien Hiệp hội](../T/The_Tolkien_Society.md) của Anh, Hiệp hội này đã tăng trưởng đều đặn với số lượng thành viên hiện tại là khoảng 225 người<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> từ khắp nơi trên thế giới nói tiếng Hà Lan, mặc dù Flanders có Hiệp hội riêng, *[Elanor](<../E/Elanor_(Tolkien_Society).md>)*và [Nam Phi](../../category/S/South_Africa.md) từng có [*Haradrim*](<../H/Haradrim_(Tolkien_Society).md>) hiện không còn tồn tại. Trong những năm gần đây Unquendor và Elanor đã hợp tác chặt chẽ trong các sự kiện. [Hiệp hội Tolkien Đức](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) (DTG) thỉnh thoảng cũng đã tham gia.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Thành viên lưu ý {#Members_of_Note}
 
@@ -46,9 +46,9 @@ Unquendor tổ chức một số sự kiện trên khắp Hà Lan với sự tha
 
 Những sự kiện này đã bị ngừng:
 
-- "*Tolkien Leesdag*" (Ngày đọc Tolkien sách, gần [25 tháng 3](../_/25_March.md), sự kiện cuối cùng diễn ra vào [2017](../_/2017.md))<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+- "*Tolkien Leesdag*" (Tolkien Ngày đọc sách, gần [25 tháng 3](../_/25_March.md), sự kiện cuối cùng diễn ra vào [2017](../_/2017.md))<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Unquendor cũng cung cấp nhiều cuộc họp thường xuyên hơn do các thành viên tổ chức trên khắp Hà Lan, được gọi là *Herbergen* ("Nhà trọ") tương tự như *smials* của Hội Tolkien. Lay of Leithian của Unquendor là nhà trọ duy nhất cũng là một Tolkien Hiệp hội *smial*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Nhà trọ này cũng hợp tác chặt chẽ với một bảng chính quy ("*stammtisch"*) của Hội Tolkien Đức ngay bên kia biên giới.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Cả hai nhóm đều có chung một khu vực (Low Franconian).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Unquendor cũng cung cấp nhiều cuộc họp thường xuyên hơn do các thành viên tổ chức trên khắp Hà Lan, được gọi là *Herbergen* ("Nhà trọ") tương tự như *smials* của Hiệp hội Tolkien. Lay of Leithian của Unquendor là nhà trọ duy nhất cũng là một Tolkien Hiệp hội *smial*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Nhà trọ này cũng hợp tác chặt chẽ với một bảng chính quy ("*stammtisch"*) của Hiệp hội Tolkien Đức ngay bên kia biên giới.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Cả hai nhóm đều có chung một khu vực (Low Franconian).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ### Sáng bóng {#Lustrum}
 

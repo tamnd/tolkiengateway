@@ -33,9 +33,9 @@ infobox:
     value: "Wyrmvater Glaurung"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>bài hát của <a href="../S/Summoning.md" title="Summoning">Summoning</a></b>. Đối với thành phố <a href="../G/Gnomish.md" title="Gnomish">Gnomish</a>, xem <b><a href="Kôr.md" title="Kôr">Kôr</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the song by <a href="../S/Summoning.md" title="Summoning">Summoning</a></b>. For the <a href="../G/Gnomish.md" title="Gnomish">Gnomish</a> city, see <b><a href="Kôr.md" title="Kôr">Kôr</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/DolGuldur.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/320px-DolGuldur.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/480px-DolGuldur.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/640px-DolGuldur.jpg 2x" data-file-width="800" data-file-height="800"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Kôr</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../D/Dol_Guldur_(album).md" title="Dol Guldur (album)">Dol Guldur</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Triệu hồi</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, P.K.</td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data">Triệu hồi</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">10:59</td></tr><tr><th scope="row" class="tg-infobox-label">Số thứ tự bản nhạc</th><td class="tg-infobox-data">5</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Khazad_Dúm_(song).md" title="Khazad Dúm (song)">Khazad Dúm</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="../W/Wyrmvater_Glaurung.md" title="Wyrmvater Glaurung">Wyrmvater Glaurung</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/5hGcESVrDEzHVOh0G3MuCB"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/DolGuldur.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/320px-DolGuldur.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/480px-DolGuldur.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/20/DolGuldur.jpg/640px-DolGuldur.jpg 2x" data-file-width="800" data-file-height="800"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Kôr</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../D/Dol_Guldur_(album).md" title="Dol Guldur (album)">Dol Guldur</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Summoning</a></td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, P.K.</td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data">Summoning</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">10:59</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">5</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="Khazad_Dúm_(song).md" title="Khazad Dúm (song)">Khazad Dúm</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="../W/Wyrmvater_Glaurung.md" title="Wyrmvater Glaurung">Wyrmvater Glaurung</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/5hGcESVrDEzHVOh0G3MuCB"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
@@ -44,29 +44,29 @@ infobox:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Hỡi thị trấn mờ nhạt trên đồi đảo, <br/>
-Bóng xưa còn vương nơi cổng xưa <br/>
-Áo em xám, trái tim già nua của em giờ đã tĩnh lặng; <br/>
-Những tòa tháp của ngươi im lặng trong sương mù chờ ngày tàn <br/>
-Khi đi qua những cây du nhiều tầng <br/>
-Dòng nước đen lướt đi rời khỏi những cõi nội địa này, <br/>
-Và trượt giữa những đồng cỏ dài tới Biển, <br/>
-Vẫn cúi xuống trên những dòng thác róc rách <br/>
-Ngày này qua ngày khác tới Biển <br/>
-Và dần dần nhiều năm đã trôi qua <br/>
+<p>O fading town upon an island hill, <br/>
+Old shadows linger in thine ancient gate, <br/>
+Thy robe is grey, thine old heart now is still; <br/>
+Thy towers silent in the mist await their crumbling end <br/>
+While through the storeyed elms <br/>
+The gliding black water leaves these inland realms, <br/>
+And slips between long meadows to the Sea, <br/>
+Still bearing downward over murmurous falls <br/>
+One day and then another to the Sea <br/>
+And slowly thither many years have gone <br/>
 <br/>
-Tất cả cây cối của ngươi, Kortirion, đã bị uốn cong, <br/>
-Và run rẩy thì thầm than thở: <br/>
-Vì ngày đã qua và đêm đã diệt vong <br/>
-Khi bướm ma bay lượn vòng <br/>
-thuôn nhọn trong không khí bất động vào ban đêm <br/>
+All thy trees, Kortirion, were bent, <br/>
+And shook with sudden whispering lament: <br/>
+For passing were the days, and doomed the nights <br/>
+When flittering ghost-moths danced round <br/>
+tapers in the moveless air nighttime <br/>
 <br/>
-Và những bình minh rực rỡ đã bị hủy diệt, <br/>
-Mùi và tiếng ồn của đồng cỏ, <br/>
-khi tất cả cây cối của bạn đều bị uốn cong, <br/>
-và rung chuyển với lời than thở thì thầm <br/>
+And doomed already were the radiant dawns, <br/>
+The odour and the noise of meads, <br/>
+when all thy trees were bent, <br/>
+and shook with sudden whispering lament <br/>
 <br/>
-Và dần dần nhiều năm đã trôi qua <br/>
-ngay từ đầu Tiên tộc ở đây đã xây dựng Kortirion cổ kính, nổi tiếng
+And slowly thither many years have gone <br/>
+since first the elves here built ancient, renowned Kortirion
 </p>
 </div>

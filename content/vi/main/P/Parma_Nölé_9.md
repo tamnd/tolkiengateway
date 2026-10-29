@@ -19,7 +19,7 @@ sort_keys:
 
 ## Nội dung {#Contents}
 
-- "Thư của Chủ tịch và Đồng chủ tịch Hội Tolkien New York"
+- "Thư của Chủ tịch và Đồng chủ tịch Hiệp hội Tolkien New York"
 - David Augustyn: "Melin Vinya-Tárilos! Chỉ tìm vỏ sò có thể tìm thấy ngọc trai."
 - [Anthony S. Burdge](../A/Anthony_S._Burdge.md): "Khám phá Rammoth"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Constance_St._Clair_Schuchardt&amp;action=edit&amp;redlink=1" title="Constance St. Clair Schuchardt (page does not exist)">Constance St. Clair Schuchardt</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Namiko_Hitotsubashi&amp;action=edit&amp;redlink=1" title="Namiko Hitotsubashi (page does not exist)">Namiko Hitotsubashi</a>: "Nữ thần khiên của Rohan"

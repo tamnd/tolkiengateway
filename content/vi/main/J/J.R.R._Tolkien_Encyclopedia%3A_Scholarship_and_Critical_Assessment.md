@@ -47,7 +47,7 @@ infobox:
     value: "0415969425"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Encyclopedia_2006.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ea/J.R.R._Tolkien_Encyclopedia_2006.jpg/320px-J.R.R._Tolkien_Encyclopedia_2006.jpg" decoding="async" loading="lazy" width="320" height="429" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/e/ea/J.R.R._Tolkien_Encyclopedia_2006.jpg 1.5x" data-file-width="448" data-file-height="600"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J.R.R. Tolkien Encyclopedia:<br/><small>Scholarship and Critical Assessment</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data"><a href="../M/Michael_D.C._Drout.md" title="Michael D.C. Drout">Michael D.C. Drout</a>, các biên tập viên liên kết: <a href="../D/Douglas_A._Anderson.md" title="Douglas A. Anderson">Douglas A. Anderson</a>, <a class="mw-redirect" href="../M/Marjorie_Burns.md" title="Marjorie Burns">Marjorie Burns</a>, <a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a> và <a href="../T/Tom_Shippey.md" title="Tom Shippey">Tom Shippey</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Routledge</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/10_October.md" title="10 October">10 October</a> <a href="../_/2006.md" title="2006">2006</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa cứng, bìa mềm</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">808</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0415969425" title="Special:BookSources/0415969425">0415969425</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Encyclopedia_2006.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ea/J.R.R._Tolkien_Encyclopedia_2006.jpg/320px-J.R.R._Tolkien_Encyclopedia_2006.jpg" decoding="async" loading="lazy" width="320" height="429" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/e/ea/J.R.R._Tolkien_Encyclopedia_2006.jpg 1.5x" data-file-width="448" data-file-height="600"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J.R.R. Tolkien Encyclopedia:<br/><small>Scholarship and Critical Assessment</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../M/Michael_D.C._Drout.md" title="Michael D.C. Drout">Michael D.C. Drout</a>, associated editors: <a href="../D/Douglas_A._Anderson.md" title="Douglas A. Anderson">Douglas A. Anderson</a>, <a class="mw-redirect" href="../M/Marjorie_Burns.md" title="Marjorie Burns">Marjorie Burns</a>, <a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a>, and <a href="../T/Tom_Shippey.md" title="Tom Shippey">Tom Shippey</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Routledge</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/10_October.md" title="10 October">10 October</a> <a href="../_/2006.md" title="2006">2006</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover, paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">808</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0415969425" title="Special:BookSources/0415969425">0415969425</a></td></tr></tbody></table>
 
 <i><b>J.R.R. Tolkien Bách khoa toàn thư: Học bổng và Đánh giá phản biện</b></i> là một cuốn sách tham khảo đồ sộ được xuất bản trên [2006](../_/2006.md), do [Michael D.C. Drout](../M/Michael_D.C._Drout.md) biên tập, đồng biên tập bởi [Douglas A. Anderson](../D/Douglas_A._Anderson.md), [Marjorie Burns](../M/Marjorie_Burns.md), [Verlyn Flieger](../V/Verlyn_Flieger.md) và [Tom Shippey](../T/Tom_Shippey.md).
 
@@ -62,33 +62,33 @@ Xem [Danh sách các bài viết](J.R.R._Tolkien_Encyclopedia%253A_Scholarship_a
 ## Từ nhà xuất bản {#From_the_publisher}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Là một công trình chi tiết mang tính tham khảo và học thuật, bộ Bách khoa toàn thư này bao gồm các cuộc thảo luận về tất cả các vấn đề cơ bản trong học thuật Tolkien được viết bởi các học giả hàng đầu trong lĩnh vực này.
-<br/><br/>Bài viết không chỉ trình bày học thuật mới nhất về J.R.R. Tolkien mà còn giới thiệu và khám phá cuộc đời và tác phẩm của tác giả và học giả trong bối cảnh lịch sử và văn hóa của họ. Tiểu thuyết của Tolkien và các nguồn ảnh hưởng của ông được xem xét cùng với các thành tựu nghệ thuật và học thuật của ông - bao gồm các bản dịch của ông về các văn bản thời trung cổ - các bài giảng dạy, các tác phẩm ngôn ngữ học và các ngôn ngữ mà ông đã tạo ra. 550 mục được sắp xếp theo thứ tự bảng chữ cái thuộc các loại chủ đề sau:
+<p>A detailed work of reference and scholarship, this one volume Encyclopedia includes discussions of all the fundamental issues in Tolkien scholarship written by the leading scholars in the field.
+<br/><br/>Coverage not only presents the most recent scholarship on J.R.R. Tolkien, but also introduces and explores the author and scholar&#39;s life and work within their historical and cultural contexts. Tolkien&#39;s fiction and his sources of influence are examined along with his artistic and academic achievements- including his translations of medieval texts-teaching posts, linguistic works, and the languages he created. The 550 alphabetically arranged entries fall within the following categories of topics:
 </p>
 </blockquote>
 
 <div style="-moz-column-width: 300px; -webkit-column-width: 300px; column-width: 300px; -moz-column-gap: 15px; -webkit-column-gap: 15px; column-gap: 15px; -webkit-column-rule: 1px solid #cccccc; -moz-column-rule: 1px solid #cccccc; column-rule: 1px solid #cccccc;">
-<ul><li><i>Các tác phẩm chuyển thể</i></li>
-<li><i>Nghệ thuật và minh họa</i></li>
-<li><i>Nhân vật trong tác phẩm của Tolkien</i></li>
-<li><i>Lịch sử quan trọng và học bổng</i></li>
+<ul><li><i>Adaptations</i></li>
+<li><i>Art and illustrations</i></li>
+<li><i>Characters in Tolkien&#39;s work</i></li>
+<li><i>Critical history and scholarship</i></li>
 <li><i>Influence of Tolkien</i></li>
-<li><i>Ngôn ngữ</i></li>
+<li><i>Languages</i></li>
 <li><i>Biography</i></li>
-<li><i>Nguồn văn học</i></li>
+<li><i>Literary sources</i></li>
 <li><i>Literature</i></li>
-<li><i>Các sinh vật và dân tộc Trung Địa</i></li>
-<li><i>Đối tượng trong tác phẩm của Tolkien</i></li>
-<li><i>Địa điểm trong tác phẩm của Tolkien</i></li>
+<li><i>Creatures and peoples of Middle-earth</i></li>
+<li><i>Objects in Tolkien&#39;s work</i></li>
+<li><i>Places in Tolkien&#39;s work</i></li>
 <li><i>Reception of Tolkien</i></li>
-<li><i>học giả thời trung cổ</i></li>
+<li><i>Medieval scholars</i></li>
 <li><i>Scholarship by Tolkien</i></li>
-<li><i>văn học trung cổ</i></li>
-<li><i>Yếu tố phong cách</i></li>
-<li><i>Chủ đề trong tác phẩm của Tolkien</i></li>
-<li><i>Các khái niệm và triết học thần học/triết học</i></li>
-<li><i>Lịch sử và văn hóa đương đại của Tolkien</i></li>
-<li><i>Tác phẩm văn học</i></li></ul>
+<li><i>Medieval literature</i></li>
+<li><i>Stylistic elements</i></li>
+<li><i>Themes in Tolkien&#39;s works</i></li>
+<li><i>Theological/philosophical concepts and philosophers</i></li>
+<li><i>Tolkien&#39;s contemporary history and culture</i></li>
+<li><i>Works of literature</i></li></ul>
 </div>
 
 ## Lịch sử xuất bản và thư viện {#Publication_history_and_gallery}

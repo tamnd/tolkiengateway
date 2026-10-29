@@ -33,7 +33,7 @@ images:
 
 <b>2014: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a></i></b>
 
-<dl><dd>Castar, còn được gọi là “Gondor Coin”, được mô tả là được sử dụng rộng rãi trên khắp Trung Địa.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Mirian được mô tả là một loại tiền riêng biệt từng là tiền tệ của <a href="../E/Eregion.md" title="Eregion">Eregion</a>. <a href="../D/Doors_of_Durin.md" title="Doors of Durin">Cánh cửa Durin</a> và lò rèn vĩ đại Khazad-dûm xuất hiện trên đồng xu để vinh danh Người Lùn người đã cung cấp <a href="../M/Mithril.md" title="Mithril">mithril</a> để tạo ra chúng. Những đồng xu trở thành di vật quý hiếm sau khi <a href="../S/Sauron.md" title="Sauron">Sauron</a> phá hủy hầu hết chúng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
+<dl><dd>The Castar, also known as “Gondorian Coin”, was described as being widely used throughout Middle-earth.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Mirian was described as a distinct coin that was once the currency of <a href="../E/Eregion.md" title="Eregion">Eregion</a>. The <a href="../D/Doors_of_Durin.md" title="Doors of Durin">Doors of Durin</a> and the great forge of Khazad-dûm featured on the coins in honour of the Dwarves who provided the <a href="../M/Mithril.md" title="Mithril">mithril</a> to make them. The coins became rare relics after <a href="../S/Sauron.md" title="Sauron">Sauron</a> destroyed most of them.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
 <span></span>
 

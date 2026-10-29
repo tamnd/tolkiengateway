@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Baggins_family"
 content_sha256: 692675b3caa3f614bb95f167de92b7cb6b74befe6a4267bf5c7221ed33c2f8a1
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Gia tộc Hobbit đáng chú ý và giàu có từ The Shire"
+short_description: "Remarkable and Wealthy Hobbit clan from The Shire"
 categories:
   - "Baggins"
   - "Hobbit families"
@@ -37,9 +37,9 @@ Gia đình **Baggins** là một gia đình [Hobbit](../H/Hobbits.md) đáng ch�
 
 Gia tộc Baggins truy tìm nguồn gốc của họ từ Baggins được ghi nhận đầu tiên, một *Balbo Baggins*, sinh ra ở hoặc gần Hobbiton ở [S.R.](../S/Shire_Reckoning.md) [1167](../T/Third_Age_2767.md).
 
-Gia đình Baggins sống xung quanh [ Shire](../T/The_Shire.md), chủ yếu ở hoặc gần thị trấn [Hobbiton](../H/Hobbiton.md). Họ được coi là những người có đạo đức và đáng kính, cũng như rất dễ đoán, vì người ta nói rằng người ta có thể biết Baggins sẽ nói gì vào bất kỳ dịp nào mà không cần phải hỏi ông.<sup id="cite_ref-ReferenceA_1-0" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Họ có nhiều mối quan hệ với các gia đình Hobbit quý tộc khác, như [Brandybucks](Brandybucks.md) và [Tooks](../T/Tooks.md); các nhánh khác là [Sackville-Baggins](../S/Sackville-Baggins_Family.md) và [Chubb-Bagginses](../C/Chubb-Baggins_Family~66345.md).
+Gia đình Baggins sống xung quanh [ Shire](../T/The_Shire.md), chủ yếu ở hoặc gần thị trấn [Hobbiton](../H/Hobbiton.md). Họ được coi là những người có đạo đức và đáng kính, cũng như rất dễ đoán, vì người ta nói rằng người ta có thể biết Baggins sẽ nói gì vào bất kỳ dịp nào mà không cần phải hỏi ông ta.<sup id="cite_ref-ReferenceA_1-0" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Họ có nhiều mối quan hệ với các gia đình Hobbit quý tộc khác, như [Brandybucks](Brandybucks.md) và [Tooks](../T/Tooks.md); các nhánh khác là [Sackville-Baggins](../S/Sackville-Baggins_Family.md) và [Chubb-Bagginses](../C/Chubb-Baggins_Family~66345.md).
 
-Mặc dù nói chung thì họ chưa bao giờ có bất kỳ cuộc phiêu lưu nào hoặc làm điều gì bất ngờ,<sup id="cite_ref-ReferenceA_1-1" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> các thành viên mang dòng máu [Took](../T/Took_Family.md) của họ lại phiêu lưu hơn. Một ví dụ đáng chú ý là [Bilbo Baggins](Bilbo_Baggins.md) người đã bắt đầu hành trình tìm kiếm [Erebor](../L/Lonely_Mountain.md) cùng với [Gandalf](../G/Gandalf.md) the Grey và mười ba [Người Lùn](../D/Dwarves.md); trong thời gian vắng mặt, ông được cho là đã chết và quyền đứng đầu gia đình bị nghi ngờ, với [Otho](../O/Otho_Sackville-Baggins.md) của chi nhánh Sackville-Baggins có tham vọng trở thành người đứng đầu hai gia tộc lớn, cho đến khi Bilbo sống sót trở về.<sup id="cite_ref-fr1_2-0" class="reference"><a href="#cite_note-fr1-2">[2]</a></sup><sup id="cite_ref-l214_3-0" class="reference"><a href="#cite_note-l214-3">[3]</a></sup> Ông được coi là người kỳ quặc hoặc kỳ quặc, nhưng cũng cực kỳ giàu có.
+Mặc dù nói chung thì họ chưa bao giờ có bất kỳ cuộc phiêu lưu nào hoặc làm điều gì bất ngờ,<sup id="cite_ref-ReferenceA_1-1" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> các thành viên mang dòng máu [Took](../T/Took_Family.md) của họ lại phiêu lưu hơn. Một ví dụ đáng chú ý là [Bilbo Baggins](Bilbo_Baggins.md) người đã bắt đầu hành trình tìm kiếm [Erebor](../L/Lonely_Mountain.md) cùng với [Gandalf](../G/Gandalf.md) the Grey và mười ba [Người Lùn](../D/Dwarves.md); trong thời gian vắng mặt, ông ta được cho là đã chết và quyền đứng đầu gia đình bị nghi ngờ, với [Otho](../O/Otho_Sackville-Baggins.md) của chi nhánh Sackville-Baggins có tham vọng trở thành người đứng đầu hai gia tộc lớn, cho đến khi Bilbo sống sót trở về.<sup id="cite_ref-fr1_2-0" class="reference"><a href="#cite_note-fr1-2">[2]</a></sup><sup id="cite_ref-l214_3-0" class="reference"><a href="#cite_note-l214-3">[3]</a></sup> Ông ta được coi là người kỳ quặc hoặc kỳ quặc, nhưng cũng cực kỳ giàu có.
 
 Bilbo đã nhận nuôi "cháu trai" [Frodo Baggins](../F/Frodo_Baggins.md) của mình, người đã thừa kế *[smial](../S/Smials.md)* của [Bag End](Bag_End.md) (không hợp với Otho<sup id="cite_ref-fr1_2-1" class="reference"><a href="#cite_note-fr1-2">[2]</a></sup>) sau khi Bilbo rời đi. Bản thân Frodo đã tham gia vào nhiệm vụ kết thúc [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
 
@@ -109,9 +109,9 @@ Tên Baggins được dịch trong hầu hết các bản dịch *[The Hobbit](.
 ## Cảm hứng {#Inspiration}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Dự định thu hồi túi - cf. Cuộc trò chuyện của Bilbo với Smaug trong The H. [Chương 12] — và có nghĩa là được liên kết (bởi hobbit) với Bag End...
+<p>Intended to recall bag — cf. Bilbo’s conversation with Smaug in The H. [Chapter 12] — and meant to be associated (by hobbits) with Bag End...
 </p>
-<p class="tg-quote-footer"><cite><a href="../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md" title="Guide to the Names in The Lord of the Rings"><i>Danh mục thuật ngữ</i></a></cite></p>
+<p class="tg-quote-footer"><cite><a href="../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md" title="Guide to the Names in The Lord of the Rings"><i>Nomenclature</i></a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <span></span>

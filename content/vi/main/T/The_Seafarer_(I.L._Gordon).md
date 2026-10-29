@@ -43,7 +43,7 @@ infobox:
     value: "Methuen's Old English Library"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Seafarer_1960.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/70/The_Seafarer_1960.jpeg/320px-The_Seafarer_1960.jpeg" decoding="async" loading="lazy" width="320" height="427" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/70/The_Seafarer_1960.jpeg 1.5x" data-file-width="375" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Seafarer</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data"><a href="../I/I.L._Gordon.md" title="I.L. Gordon">I.L. Gordon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Methuen, London</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/1960.md" title="1960">1960</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa cứng; bìa mềm</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">80</td></tr><tr><th scope="row" class="tg-infobox-label">Loạt tác phẩm</th><td class="tg-infobox-data">Methuen&#39;s Old English Library</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Seafarer_1960.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/70/The_Seafarer_1960.jpeg/320px-The_Seafarer_1960.jpeg" decoding="async" loading="lazy" width="320" height="427" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/70/The_Seafarer_1960.jpeg 1.5x" data-file-width="375" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Seafarer</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../I/I.L._Gordon.md" title="I.L. Gordon">I.L. Gordon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Methuen, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1960.md" title="1960">1960</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">80</td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data">Methuen&#39;s Old English Library</td></tr></tbody></table>
 
 <i><b>Người đi biển</b></i> là ấn bản của bài thơ [tiếng Anh cổ](../O/Old_English.md) <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Seafarer_(poem)" title="wikipedia:The Seafarer (poem)">Người đi biển</a></i>, do [I.L. Gordon](../I/I.L._Gordon.md) biên tập. Nó được xuất bản lần đầu tiên trong [1960](../_/1960.md).
 
@@ -61,21 +61,21 @@ Trong [1996](../_/1996.md), một ấn bản mới đã xuất hiện, bao gồm
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Seafarer_1960.jpeg.md" title="1960 first edition"><img alt="1960 first edition" src="https://tolkiengateway.net/w/images/thumb/7/70/The_Seafarer_1960.jpeg/94px-The_Seafarer_1960.jpeg" decoding="async" loading="lazy" width="94" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/70/The_Seafarer_1960.jpeg/141px-The_Seafarer_1960.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/7/70/The_Seafarer_1960.jpeg/187px-The_Seafarer_1960.jpeg 2x" data-file-width="375" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Ấn bản đầu tiên năm 1960
+<p>1960 first edition
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Seafarer_1979.jpeg.md" title="1979 edition"><img alt="1979 edition" src="https://tolkiengateway.net/w/images/thumb/0/0a/The_Seafarer_1979.jpeg/76px-The_Seafarer_1979.jpeg" decoding="async" loading="lazy" width="76" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0a/The_Seafarer_1979.jpeg/114px-The_Seafarer_1979.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/0/0a/The_Seafarer_1979.jpeg/152px-The_Seafarer_1979.jpeg 2x" data-file-width="360" data-file-height="591"/></a></span></div>
 			<div class="gallerytext">
-<p>ấn bản năm 1979
+<p>1979 edition
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Seafarer_1996.jpg.md" title="1996 edition"><img alt="1996 edition" src="https://tolkiengateway.net/w/images/thumb/5/56/The_Seafarer_1996.jpg/83px-The_Seafarer_1996.jpg" decoding="async" loading="lazy" width="83" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/56/The_Seafarer_1996.jpg/125px-The_Seafarer_1996.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/56/The_Seafarer_1996.jpg/166px-The_Seafarer_1996.jpg 2x" data-file-width="333" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>ấn bản năm 1996
+<p>1996 edition
 </p>
 			</div>
 		</li>
@@ -101,14 +101,14 @@ Trong [1996](../_/1996.md), một ấn bản mới đã xuất hiện, bao gồm
 <td align="center" style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../S/Sir_Gawain_and_the_Green_Knight_(edition).md" title="Sir Gawain and the Green Knight (edition)">Sir Gawain and the Green Knight</a></i>
 </td></tr>
 <tr>
-<th align="center" style="font-size: 90%; background: var(--tg-color-surface-4); padding-right: 4px;" rowspan="3">Có sự tham gia của Tolkien
+<th align="center" style="font-size: 90%; background: var(--tg-color-surface-4); padding-right: 4px;" rowspan="3">With Tolkien&#39;s involvement
 </th>
-<th align="center" style="font-size: 90%; background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;" width="130px">Xuất bản khi ông còn sống
+<th align="center" style="font-size: 90%; background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;" width="130px">Published during his lifetime
 </th>
 <td align="center" style="font-size: 90%; padding-left: 4px;"><i><a href="../A/An_Introduction_to_Old_Norse.md" title="An Introduction to Old Norse">An Introduction to Old Norse</a></i> ·<br/><i><a href="The_Battle_of_Maldon_(E.V._Gordon).md" title="The Battle of Maldon (E.V. Gordon)">The Battle of Maldon</a></i>
 </td></tr>
 <tr>
-<th align="center" style="font-size: 90%; background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Xuất bản sau khi ông qua đời
+<th align="center" style="font-size: 90%; background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Published posthumously
 </th>
 <td align="center" style="font-size: 90%; padding-left: 4px;"><i><a href="../P/Pearl_(E.V._Gordon).md" title="Pearl (E.V. Gordon)">Pearl</a></i> · <i><a class="mw-selflink selflink">The Seafarer</a></i>
 </td></tr></tbody></table>

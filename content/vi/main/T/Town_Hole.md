@@ -36,9 +36,9 @@ Cái tên này phải là một cách chơi chữ của <a class="extiw" href="h
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Town Hole là trung tâm của <a href="../M/Michel_Delving.md" title="Michel Delving">Michel Delving</a>, cạnh văn phòng <a href="../Q/Quick_Post.md" title="Quick Post">Quick Post</a>. Nó đã được xây dựng lại kể từ sự cố gần đây, Thị trưởng Whitfoot vẫn thường xuyên được nhắc đến.</dd></dl>
+<dl><dd>The Town Hole is an the center of <a href="../M/Michel_Delving.md" title="Michel Delving">Michel Delving</a>, next to the <a href="../Q/Quick_Post.md" title="Quick Post">Quick Post</a> office. It has been rebuilt since the recent incident, of Mayor Whitfoot still gets frequently reminded of.</dd></dl>
 
 <span></span>
 

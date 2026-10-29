@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Mythcon_50"
 content_sha256: ce4c538ae05836e236031da0b9ff192f3a6e36eb18e34991b2356de734f9433d
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Hội nghị Hội thần thoại 2019"
+short_description: "2019 Mythopoeic Society conference"
 categories:
   - "Mythcon"
 hidden_categories:
@@ -26,7 +26,7 @@ infobox:
     value: "Mythcon 51"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 50</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">San Diego, California</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Hội Mythopoeic</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">2 August - 5 August <a href="../_/2019.md" title="2019">2019</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Mythcon_49.md" title="Mythcon 49">Mythcon 49</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Mythcon_51.md" title="Mythcon 51">Mythcon 51</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 50</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">San Diego, California</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data">2 August - 5 August <a href="../_/2019.md" title="2019">2019</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="Mythcon_49.md" title="Mythcon 49">Mythcon 49</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="Mythcon_51.md" title="Mythcon 51">Mythcon 51</a></td></tr></tbody></table>
 
 **Mythcon 50** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 50.
 

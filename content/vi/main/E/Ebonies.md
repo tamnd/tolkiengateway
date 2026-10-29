@@ -18,7 +18,7 @@ categories:
 
 <b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
 
-<dl><dd>Nó được mô tả là một loài cây đen tuyền nhiệt đới quý hiếm được người dân Pel biết đến và gọi nó là <i>Usamity</i>.<sup id="cite_ref-fourthpage_2-0" class="reference"><a href="#cite_note-fourthpage-2">[2]</a></sup></dd></dl>
+<dl><dd>It was described as a rare tropical jet black tree known to the people of Pel, who call it <i>Usamity</i>.<sup id="cite_ref-fourthpage_2-0" class="reference"><a href="#cite_note-fourthpage-2">[2]</a></sup></dd></dl>
 
 <br> <span></span>
 

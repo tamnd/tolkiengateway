@@ -52,9 +52,9 @@ Bộ phim được phát sóng thành ba loạt phim hàng năm (mùa), mỗi b�
 
 Bộ truyện bám sát cốt truyện của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* rất chặt chẽ và rất chân thực. Đáng chú ý, đây là một trong số ít bản chuyển thể từ tiểu thuyết sang một phương tiện khác - có thể là đài phát thanh hoặc phim - lược bỏ rất ít cốt truyện gốc, thậm chí còn giữ lại nhiều nhân vật phụ và thường xuyên bị bỏ qua.
 
-Đoạn mở đầu của tập đầu tiên liên quan đến người hobbit và các sự kiện trong ngày sinh nhật thứ 111 của Bilbo từ chương đầu tiên được Bilbo (người kể chuyện) tóm tắt ngắn gọn ở đầu tập đầu tiên. Sau đó, hành động chuyển sang Frodo và Gandalf, rồi đến Frodo và ba người bạn đồng hành hobbit của ông. Kể từ đó trở đi, khoảng từ phần ba đầu tiên hoặc giữa tập đầu tiên trở đi, câu chuyện của cuốn tiểu thuyết có rất ít chi tiết bị bỏ sót.
+Đoạn mở đầu của tập đầu tiên liên quan đến người hobbit và các sự kiện trong ngày sinh nhật thứ 111 của Bilbo từ chương đầu tiên được Bilbo (người kể chuyện) tóm tắt ngắn gọn ở đầu tập đầu tiên. Sau đó, hành động chuyển sang Frodo và Gandalf, rồi đến Frodo và ba người bạn đồng hành hobbit của ông ta. Kể từ đó trở đi, khoảng từ phần ba đầu tiên hoặc giữa tập đầu tiên trở đi, câu chuyện của cuốn tiểu thuyết có rất ít chi tiết bị bỏ sót.
 
-Các sự kiện [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) hoành hành trong [Rohan](../R/Rohan.md) và [Gondor](../G/Gondor.md) được ghi lại ở định dạng xen kẽ giữa phần Frodo, Sam và Gollum của cốt truyện và các thành viên khác của Đoàn Hộ Nhẫn. Mặc dù sự xen kẽ này có thể xảy ra trong một tập duy nhất, nhưng hầu hết các tập trước khi Hội đoàn tụ chủ yếu tập trung vào cái này hay cái khác. Tập thứ mười tám của loạt phim kể về sự trở lại của bốn hobbit với The Shire và các sự kiện của Cuộc truy Cuộc thanh trừng Shire cũng như hậu quả của nó (bao gồm cả sự ra đi của Bilbo và Frodo từ Trung Địa).
+Các sự kiện [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) hoành hành trong [Rohan](../R/Rohan.md) và [Gondor](../G/Gondor.md) được ghi lại ở định dạng xen kẽ giữa phần Frodo, Sam và Gollum của cốt truyện và các thành viên khác của Đoàn Hộ Nhẫn. Mặc dù sự xen kẽ này có thể xảy ra trong một tập duy nhất, nhưng hầu hết các tập trước khi Hội đoàn tụ chủ yếu tập trung vào cái này hay cái khác. Tập thứ mười tám của loạt phim kể về sự trở lại của bốn hobbit với The Shire và các sự kiện của Cuộc truy quét Shire cũng như hậu quả của nó (bao gồm cả sự ra đi của Bilbo và Frodo từ Trung Địa).
 
 Các nhân vật phụ được chuyển thể từ tiểu thuyết bao gồm Gildor, Tom Bombadil, Harry Goatleaf, Barliman Butterbur, Glorfindel, Radagast the Brown, Ori, Háma, Ghân-buri-Ghân, Bergil, Hirgon và Ioreth.
 
@@ -62,8 +62,8 @@ Các nhân vật phụ được chuyển thể từ tiểu thuyết bao gồm Gi
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Vai trò</th>
-<th>Diễn viên
+<th>Role</th>
+<th>Actor
 </th></tr>
 <tr>
 <td><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a></td>
@@ -118,7 +118,7 @@ Các nhân vật phụ được chuyển thể từ tiểu thuyết bao gồm Gi
 <td>Milan Lasica
 </td></tr>
 <tr>
-<td><a href="../B/Barrow-wights.md" title="Barrow-wights">xe đẩy</a></td>
+<td><a href="../B/Barrow-wights.md" title="Barrow-wights">barrow-wight</a></td>
 <td>Vladimír Jedľovský
 </td></tr>
 <tr>
@@ -127,7 +127,7 @@ Các nhân vật phụ được chuyển thể từ tiểu thuyết bao gồm Gi
 </td></tr>
 <tr>
 <td><a href="../H/Harry_Goatleaf.md" title="Harry Goatleaf">Harry Goatleaf</a></td>
-<td>diễn viên không được công nhận
+<td>uncredited actor
 </td></tr>
 <tr>
 <td><a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a></td>
@@ -226,7 +226,7 @@ Các nhân vật phụ được chuyển thể từ tiểu thuyết bao gồm Gi
 <td>Vilma Jamnická
 </td></tr>
 <tr>
-<td><a class="mw-redirect" href="../T/The_Mouth_of_Sauron~36612.md" title="The Mouth of Sauron">Miệng của Sauron</a></td>
+<td><a class="mw-redirect" href="../T/The_Mouth_of_Sauron~36612.md" title="The Mouth of Sauron">The Mouth of Sauron</a></td>
 <td>Juraj Slezáček
 </td></tr>
 <tr>
@@ -242,21 +242,21 @@ Các nhân vật phụ được chuyển thể từ tiểu thuyết bao gồm Gi
 <td>Karol Čálik
 </td></tr>
 <tr>
-<td><a class="mw-redirect" href="../R/Ruffian.md" title="Ruffian"><a class="mw-redirect" href="../R/Ruffian.md" title="Ruffian">Ruffian</a> bandit</a></td>
+<td><a class="mw-redirect" href="../R/Ruffian.md" title="Ruffian">Ruffian</a> bandit</td>
 <td>Martin Vitek
 </td></tr>
 <tr>
-<td><a class="mw-redirect" href="../R/Ruffian.md" title="Ruffian">Tên côn đồ</a></td>
+<td><a class="mw-redirect" href="../R/Ruffian.md" title="Ruffian">Ruffian</a> thug</td>
 <td>Ivan Laca
 </td></tr>
 <tr>
-<td>Giọng nói bổ sung <br/> và giọng nói nền</td>
+<td>Additional voices <br/> and background voices</td>
 <td>Martin Nahálka <br/> Juraj Hrčka <br/> Milan Ondrík <br/> Martin Fratrič <br/> Martin Gazdík
 </td></tr></tbody></table>
 
 Ngoài ra, Szidónia "Szidi" Tobias đã cung cấp giọng nói thứ hai cho Galadriel trong cảnh cám dỗ trong Lothlórien (trong tập cuối của loạt phim đầu tiên), và Zuzana Fialová xuất hiện với tư cách là giọng nói đại diện cho mặt tối của bản ngã Smeágol là Gollum (trong một tập của loạt phim thứ hai). Giọng nói của người lùn Ori đã chết vang lên trong khi Gandalf đang đắm mình vào việc đọc [Sách Mazarbul](../B/Book_of_Mazarbul.md).
 
-Bilbo Baggins của Marián Labuda đóng vai trò là người kể chuyện chính của cốt truyện. Điều này được miêu tả là Bilbo bình luận về Cuộc chiến Nhẫn trong khi viết các chương mới trong [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md) mà ông đọc từ đó. Lời tường thuật của Bilbo có một giọng điệu hơi siêu hư cấu, khi ông thỉnh thoảng phá vỡ bức tường thứ tư và nói chuyện trực tiếp với cháu trai Frodo của mình (và đôi khi là các nhân vật khác trong Hiệp hội), với Frodo hoặc các nhân vật khác đôi khi cũng phá vỡ bức tường thứ tư và phản ứng ngắn gọn với Bilbo. Bilbo dành phần lớn câu chuyện (cho đến cuộc hành trình đến Grey Havens) đã nghỉ hưu ở Rivendell, nơi anh kể lại và tiếp tục viết Sách Đỏ cùng các ghi chú cho nó.
+Bilbo Baggins của Marián Labuda đóng vai trò là người kể chuyện chính của cốt truyện. Điều này được miêu tả là Bilbo bình luận về Cuộc chiến Nhẫn trong khi viết các chương mới trong [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md) mà ông ta đọc từ đó. Lời tường thuật của Bilbo có một giọng điệu hơi siêu hư cấu, khi ông ta thỉnh thoảng phá vỡ bức tường thứ tư và nói chuyện trực tiếp với cháu trai Frodo của mình (và đôi khi là các nhân vật khác trong Hiệp hội), với Frodo hoặc các nhân vật khác đôi khi cũng phá vỡ bức tường thứ tư và phản ứng ngắn gọn với Bilbo. Bilbo dành phần lớn câu chuyện (cho đến cuộc hành trình đến Grey Havens) đã nghỉ hưu ở Rivendell, nơi anh kể lại và tiếp tục viết Sách Đỏ cùng các ghi chú cho nó.
 
 Jozef Vajda có một vai kép, thể hiện giọng nói của cả Boromir và Faramir. (Một cách tiếp cận tương tự như [loạt phim phát thanh BBC năm 1955](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>).)
 
@@ -330,7 +330,7 @@ Bản dịch tiếng Séc của Pošustová dịch orc là *skřeti* ("yêu tinh
 
 Do lúc đó không có bản dịch tiếng Slovak của Kořínek nên chuỗi phát thanh đã chọn sử dụng một thuật ngữ được phát minh ra, *skirt* (phát âm gần như là "skeert" trong tiếng Anh), bắt nguồn từ một dạng đã thay đổi của bản dịch tiếng Séc *skrět*. Số nhiều theo đó trở thành *skirti*. Điều này được phản ánh ngay cả trong tiêu đề của tập đầu tiên của loạt phim thứ hai, *Prenasledovanie skirtov* ("Cuộc truy đuổi của Skeerts", tức là "Cuộc truy đuổi Orc").
 
-Tên gia đình của người hobbit hiếm khi được nhắc đến, có thể là không bao giờ. Vua Phù thủy Angmar dường như không bao giờ được gọi bằng danh hiệu đó và vị trí lãnh đạo của [Nazgûl](../N/Nazgûl.md) của ông chỉ được gọi đơn giản là *Pán nazgúlov* ("Chúa tể Nhẫn Ma"). Bản dịch sách tiếng Slovak của Kořínek dịch tên gọi của Vua Phù thủy là *kráľ-strigôň* (đại khái là "king-warlock", *striga* có nghĩa là "phù thủy" (chỉ giới tính ngữ pháp nữ tính) và *strigôň* là tương đương ngữ pháp nam tính).
+Tên gia đình của người hobbit hiếm khi được nhắc đến, có thể là không bao giờ. Vua Phù thủy của Angmar dường như không bao giờ được gọi bằng danh hiệu đó và vị trí lãnh đạo của [Nazgûl](../N/Nazgûl.md) của ông ta chỉ được gọi đơn giản là *Pán nazgúlov* ("Chúa tể của Nazgûl"). Bản dịch sách tiếng Slovak của Kořínek dịch tên gọi của Vua Phù thủy là *kráľ-strigôň* (đại khái là "king-warlock", *striga* có nghĩa là "phù thủy" (chỉ giới tính ngữ pháp nữ tính) và *strigôň* là tương đương ngữ pháp nam tính).
 
 Mặc dù loạt đài phát thanh Slovakia đã hết sức chú ý đến cách phát âm chính xác nhất có thể đối với các ngôn ngữ và tên được phát minh của Tolkien, nhưng một số ít là không chính xác. Ví dụ nổi bật nhất về những lỗi rất hiếm gặp này là việc gọi [Cirith Ungol](../C/Cirith_Ungol.md) là "Tsirit Ungol" (cách phát âm tiếng Slovak của chữ cái *c*), thay vì cách phát âm chính xác của "Kirith Ungol" (với một " *c* cứng", ví dụ như trong cách phát âm tiếng Wales của *c*).
 

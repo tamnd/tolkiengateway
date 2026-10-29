@@ -28,7 +28,7 @@ file:
 
 Đây là một số biến thể về hình dáng của tấm khiên của Thorin Oakenshield. Thử thách là thiết kế một tấm khiên theo mô tả của Ông Tolkien như đã nêu trong "Các dân tộc ở Trung Địa" (Harper Collins, ấn bản bìa mềm năm 2002, trang 281):
 
-"Thorin chiếc khiên của ông bị chẻ đôi và ông vứt nó đi, và dùng rìu đẽo một cành cây sồi, ông cầm nó trong tay trái để chống lại đòn tấn công của kẻ thù hoặc để sử dụng như một chiếc gậy. Vì vậy, ông có tên như vậy, hoặc cũng vì để tưởng nhớ điều này, ông luôn mang trên lưng một chiếc khiên làm bằng gỗ sồi không có màu sắc hay thiết bị, và thề sẽ làm như vậy cho đến khi được tôn vinh làm vua một lần nữa."
+"Thorin chiếc khiên của ông ta bị chẻ đôi và ông ta vứt nó đi, và dùng rìu đẽo một cành cây sồi, ông ta cầm nó trong tay trái để chống lại đòn tấn công của kẻ thù hoặc để sử dụng như một chiếc gậy. Vì vậy, ông ta có tên như vậy, hoặc cũng vì để tưởng nhớ điều này, ông ta luôn mang trên lưng một chiếc khiên làm bằng gỗ sồi không có màu sắc hay thiết bị, và thề sẽ làm như vậy cho đến khi được tôn vinh làm vua một lần nữa."
 
 ## Giấy phép {#Licensing}
 

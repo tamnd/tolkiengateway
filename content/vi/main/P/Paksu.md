@@ -20,13 +20,13 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Paksu&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Paksu&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Paksu** là một nhân vật phụ trong [Những lá thư Giáng sinh của Cha](../T/The_Father_Christmas_Letters.md). Ông là một chú gấu Bắc Cực sống ở Bắc Cực. Ông và anh trai [Valkotukka](../V/Valkotukka.md) là cháu trai của [North Polar Bear](../N/North_Polar_Bear.md).<sup id="cite_ref-31b_1-0" class="reference"><a href="#cite_note-31b-1">[1]</a></sup>
+**Paksu** là một nhân vật phụ trong [Những lá thư Giáng sinh của Cha](../T/The_Father_Christmas_Letters.md). Ông ta là một chú gấu Bắc Cực sống ở Bắc Cực. Ông và anh trai [Valkotukka](../V/Valkotukka.md) là cháu trai của [North Polar Bear](../N/North_Polar_Bear.md).<sup id="cite_ref-31b_1-0" class="reference"><a href="#cite_note-31b-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -51,25 +51,25 @@ Paksu cùng với anh trai của mình rất tinh nghịch. Ông già Noel đã 
 
 <table style="margin:0 auto;" class="collapsible toccolours" align="center">
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Thế giới của <i><a href="../L/Letters_from_Father_Christmas.md" title="Letters from Father Christmas">Letters from Father Christmas</a></i></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>The world of the <i><a href="../L/Letters_from_Father_Christmas.md" title="Letters from Father Christmas">Letters from Father Christmas</a></i></b>
 </th></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Nhân vật chính:
+<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Main characters:
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../F/Father_Christmas.md" title="Father Christmas">Father Christmas</a> · <a href="../N/North_Polar_Bear.md" title="North Polar Bear">North Polar Bear</a> · <a href="../I/Ilbereth.md" title="Ilbereth">Ilbereth</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Nhân vật khác:
+<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Other characters:
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../M/Mr_Cave_Bear.md" title="Mr Cave Bear">Mr Cave Bear</a> · <a href="../G/Green_Brother.md" title="Green Brother">Green Brother</a> · <a href="../G/Grandfather_Yule.md" title="Grandfather Yule">Grandfather Yule</a><br/><a href="../M/Man_in_the_Moon.md" title="Man in the Moon">Man in the Moon</a> · <a class="mw-selflink selflink">Paksu</a> &amp; <a href="../V/Valkotukka.md" title="Valkotukka">Valkotukka</a> · <a href="../S/Snow_Man.md" title="Snow Man">Snow Man</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Các chủng tộc và dân tộc:
+<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Races &amp; Peoples:
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../O/Orcs.md#Other_writings" title="Orcs">Goblin</a> · <a href="../G/Green-elves.md#Other_writings" title="Green-elves">Xanh Tiên tộc</a> · <a href="../R/Red_Elves.md" title="Red Elves">Đỏ Tiên tộc</a> · <a href="../S/Snow-elves.md" title="Snow-elves">Tuyết-Tiên tộc</a> · <a href="../S/Snow-men.md" title="Snow-men">Người tuyết</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../O/Orcs.md#Other_writings" title="Orcs">Goblins</a> · <a href="../G/Green-elves.md#Other_writings" title="Green-elves">Green elves</a> · <a href="../R/Red_Elves.md" title="Red Elves">Red Elves</a> · <a href="../S/Snow-elves.md" title="Snow-elves">Snow-elves</a> · <a href="../S/Snow-men.md" title="Snow-men">Snow-men</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Các khái niệm khác:
+<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Other concepts:
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/Arktik.md" title="Arktik">Arktik</a> · <a href="../G/Goblin_Alphabet.md" title="Goblin Alphabet">Goblin Alphabet</a> · <a href="../W/Windbeam.md" title="Windbeam">Windbeam</a>
 </td></tr>

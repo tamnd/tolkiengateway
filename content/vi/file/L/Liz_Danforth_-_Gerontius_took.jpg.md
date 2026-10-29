@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Gerontius Took](../../main/G/Gerontius_Took.md) của [Liz Danforth](../../main/L/Liz_Danforth.md). Từ R. Mark Colburn, [Peter C. Fenlon](../../main/P/Pete_Fenlon.md), [John D. Ruemmler](../../main/J/John_D._Ruemmler.md), [Terry K. Amthor](../../main/T/Terry_Kevin_Amthor.md), [Jessica M. Ney](../../main/J/Jessica_M._Ney-Grimm.md), *[Lords of Middle-earth Vol III: Hobbits, Dwarves, Ents, Orcs &amp; Trolls](../../main/L/Lords_of_Middle-earth%253A_Vol._III.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #8004, 1989) .
+[Gerontius Took](../../main/G/Gerontius_Took.md) của [Liz Danforth](../../main/L/Liz_Danforth.md). Từ R. Mark Colburn, [Peter C. Fenlon](../../main/P/Pete_Fenlon.md), [John D. Ruemmler](../../main/J/John_D._Ruemmler.md), [Terry K. Amthor](../../main/T/Terry_Kevin_Amthor.md), [Jessica M. Ney](../../main/J/Jessica_M._Ney-Grimm.md), *[Lords of Middle-earth Vol III: Hobbits, Dwarves, Ents, Orcs &amp; Trolls](../../main/L/Lords_of_Middle-earth%253A_Vol._III.md)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #8004, 1989) .
 
 ## Giấy phép {#Licensing}
 

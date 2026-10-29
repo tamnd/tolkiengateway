@@ -18,7 +18,7 @@ categories:
 ## Ví dụ {#Examples}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>ve <b>fanyar</b> máryat Elentári ortanë, ('từ núi Everwhite đã giơ tay lên như <b>mây</b>,')<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<p>ve <b>fanyar</b> máryat Elentári ortanë, (&#39;from Mount Everwhite has uplifted her hands like <b>clouds</b>,&#39;)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../N/Namárië.md" title="Namárië">Namárië</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

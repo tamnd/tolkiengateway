@@ -14,6 +14,6 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../../main/T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King (1980 film)</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../../main/T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King (1980 film)</a></b></div></div>
 
-Thể loại này và các thể loại con của nó liệt kê tất cả các bài viết liên quan đến **The Return of the King (phim năm 1980)** của Rankin/Bass.
+Thể loại này và các thể loại con của nó liệt kê tất cả các bài viết liên quan đến **The Return of the King (phim 1980)** của Rankin/Bass.

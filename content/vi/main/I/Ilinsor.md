@@ -17,13 +17,13 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Ilinsor&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Ilinsor&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Ilinsor** là [Vala](../V/Vala.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Ông là *[Súru](../S/Sylphs.md)*, một trong những người hầu của [Manwë](../M/Manwë.md) và [Varda](../V/Varda.md), sau đó được chọn làm người lái chiếc [Mặt Trăng](../M/Moon.md) vì [Silmo](../S/Silmo.md) không thể làm được. Độ sáng lớn hơn của Mặt Trời khiến anh ghen tị nên anh đã theo đuổi các vì sao.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ilinsor** là [Vala](../V/Vala.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Ông ta là *[Súru](../S/Sylphs.md)*, một trong những người hầu của [Manwë](../M/Manwë.md) và [Varda](../V/Varda.md), sau đó được chọn làm người lái chiếc [Mặt Trăng](../M/Moon.md) vì [Silmo](../S/Silmo.md) không thể làm được. Độ sáng lớn hơn của Mặt Trời khiến anh ghen tị nên anh đã theo đuổi các vì sao.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

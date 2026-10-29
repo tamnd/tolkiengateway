@@ -33,13 +33,13 @@ infobox:
     value: "Amon Hen 4"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 3</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data">John Martin</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">Hội Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">January 1973</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">17</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Amon_Hen_2.md" title="Amon Hen 2">Amon Hen 2</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Amon_Hen_4.md" title="Amon Hen 4">Amon Hen 4</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 3</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">John Martin</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">January 1973</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">17</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_2.md" title="Amon Hen 2">Amon Hen 2</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_4.md" title="Amon Hen 4">Amon Hen 4</a></td></tr></tbody></table>
 
 <b><i>Amon Hen</i> 3</b> là số thứ ba của [*Amon Hen* tạp chí](<Amon_Hen_(journal).md>) của [Hội Tolkien](../T/The_Tolkien_Society.md).
 
 ## Nội dung {#Contents}
 
-<dl><dd><i>Lưu ý: Tất cả nội dung là của John Martin trừ khi có quy định khác.</i></dd></dl>
+<dl><dd><i>Note: All content is by John Martin unless otherwise indicated.</i></dd></dl>
 
 - "Đại hội thường niên năm 1973 A.G.M."
 - "The Name of the Slough Was Despond" (kêu gọi sự tham gia nhiều hơn của các thành viên Hội Tolkien)

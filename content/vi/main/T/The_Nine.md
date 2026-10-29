@@ -16,7 +16,7 @@ sort_keys:
   "Nazgûl": "Nine, The"
 ---
 
-**The Nine** là danh hiệu được đặt cho chín [Nazgûl](../N/Nazgûl.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và cả [Chín chiếc Nhẫn](../N/Nine_Rings.md) mà qua đó [Sauron](../S/Sauron.md) điều khiển chúng.
+**The Nine** là danh hiệu được đặt cho chín [Nazgûl](../N/Nazgûl.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và cả [Cửu Nhẫn](../N/Nine_Rings.md) mà qua đó [Sauron](../S/Sauron.md) điều khiển chúng.
 
 <span></span>
 

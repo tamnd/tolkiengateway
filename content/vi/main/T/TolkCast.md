@@ -20,13 +20,13 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=TolkCast&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=TolkCast&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**TolkCast** là podcast tiếng Đức do [Hội Tolkien tiếng Đức](../G/German_Tolkien_Society.md) sản xuất. Tập đầu tiên được phát sóng trên [22 tháng Chín](../_/22_September.md) [2018](../_/2018.md), trở thành podcast tiếng Đức liên quan đến Tolkien lâu đời nhất.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tập này được đồng tổ chức bởi Annika Röttinger, Tobias M. Eckrich, Jonas Reinhard, Johny và Marie-Noelle. Kể từ tháng 10 [2020](../_/2020.md), hai tập mỗi tháng được phát hành.
+**TolkCast** là podcast tiếng Đức do [Hiệp hội Tolkien tiếng Đức](../G/German_Tolkien_Society.md) sản xuất. Tập đầu tiên được phát sóng trên [22 tháng Chín](../_/22_September.md) [2018](../_/2018.md), trở thành podcast tiếng Đức liên quan đến Tolkien lâu đời nhất.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tập này được đồng tổ chức bởi Annika Röttinger, Tobias M. Eckrich, Jonas Reinhard, Johny và Marie-Noelle. Kể từ tháng 10 [2020](../_/2020.md), hai tập mỗi tháng được phát hành.
 
 ## Các tập phỏng vấn {#Interview_episodes}
 

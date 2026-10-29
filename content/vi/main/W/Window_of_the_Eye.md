@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Window_of_the_Eye"
 content_sha256: ebcad8a6e1cab29cbc218464c1a7486a36ec5874487f087bfcb1dfe539fba65e
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Khoang trên của Tháp Cirith Ungol"
+short_description: "Upper chamber of the Tower of Cirith Ungol"
 categories:
   - "Mordor"
 hidden_categories:

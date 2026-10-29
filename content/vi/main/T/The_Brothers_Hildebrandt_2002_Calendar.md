@@ -22,7 +22,7 @@ infobox:
     value: "1-58774-055-9"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Brothers_Hildebrandt_2002_Calendar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/03/The_Brothers_Hildebrandt_2002_Calendar.jpg/320px-The_Brothers_Hildebrandt_2002_Calendar.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/03/The_Brothers_Hildebrandt_2002_Calendar.jpg 1.5x" data-file-width="350" data-file-height="350"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Brothers Hildebrandt: Their Tolkien Years<br/>2002 Calendar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">12 x 12 inch<br/>Có ghim, đục lỗ treo</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1-58774-055-9" title="Special:BookSources/1-58774-055-9">1-58774-055-9</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Brothers_Hildebrandt_2002_Calendar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/03/The_Brothers_Hildebrandt_2002_Calendar.jpg/320px-The_Brothers_Hildebrandt_2002_Calendar.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/03/The_Brothers_Hildebrandt_2002_Calendar.jpg 1.5x" data-file-width="350" data-file-height="350"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Brothers Hildebrandt: Their Tolkien Years<br/>2002 Calendar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">12 x 12 inches<br/>Stapled, punched hanging hole</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1-58774-055-9" title="Special:BookSources/1-58774-055-9">1-58774-055-9</a></td></tr></tbody></table>
 
 **Lịch Anh em nhà Hildebrandt 2002** được xuất bản bởi Entertainment Calendar, LLC. Cuốn lịch có các hình minh họa của [Anh em nhà Hildebrandt](../B/Brothers_Hildebrandt.md) cũng như những bức ảnh chụp các buổi tạo dáng của họ vẫn tồn tại sau 25 năm kể từ khi cuốn lịch đầu tiên được xuất bản.
 
@@ -33,7 +33,7 @@ infobox:
 <th align="center" style="background:var(--tg-color-surface-5)" colspan="3">Non-official Tolkien Calendars
 </th></tr>
 <tr>
-<th align="center" style="background: var(--tg-color-surface-4); font-size: 90%;" colspan="3">Theo quốc gia
+<th align="center" style="background: var(--tg-color-surface-4); font-size: 90%;" colspan="3">By country
 </th></tr>
 <tr style="font-size: 90%; font-weight: normal;">
 <th style="background:var(--tg-color-surface-4)">American
@@ -66,7 +66,7 @@ infobox:
 <td><a href="The_Tolkien_Calendar_1991_(Poland).md" title="The Tolkien Calendar 1991 (Poland)">1991</a> · <a href="The_Tolkien_Calendar_1992.md" title="The Tolkien Calendar 1992">1992</a> · <a href="The_Tolkien_Calendar_1993_(Polish).md" title="The Tolkien Calendar 1993 (Polish)">1993</a> · <a href="The_Tolkien_Calendar_1994_(Polish).md" title="The Tolkien Calendar 1994 (Polish)">1994</a> · <a href="Tolkien_Calendar_1995_(Polish).md" title="Tolkien Calendar 1995 (Polish)">1995</a> · <a href="Tolkien_Calendar_1996.md" title="Tolkien Calendar 1996">1996</a> · <a href="Tolkien_Calendar_1997_(Polish).md" title="Tolkien Calendar 1997 (Polish)">1997</a> · <a href="../S/Simbelmyne_Calendar_1998_(Polish).md" title="Simbelmyne Calendar 1998 (Polish)">1998</a> · <a href="../S/Simbelmyne_Calendar_1999_(Polish).md" title="Simbelmyne Calendar 1999 (Polish)">1999</a> · <a href="../E/Elvish_Linguistic_Calendar_Spring_2001_-_Stirring_2002.md" title="Elvish Linguistic Calendar Spring 2001 - Stirring 2002">2001</a>
 </td></tr>
 <tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3">Bởi nghệ sĩ
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3">By artist
 </th></tr>
 <tr style="font-size: 90%; font-weight: normal;">
 <th style="background:var(--tg-color-surface-4)"><a href="The_Brothers_Hildebrandt.md" title="The Brothers Hildebrandt">Hildebrandt</a>
@@ -89,7 +89,7 @@ infobox:
 <td><a href="../R/Rodney_Mathews_from_Wondrous_Tales_-_1988.md" title="Rodney Mathews from Wondrous Tales - 1988">1988</a> · <a href="../S/Storybook_Collection_-_Rodney_Mathews_1990_Calendar.md" title="Storybook Collection - Rodney Mathews 1990 Calendar">1990</a> · <a href="../R/Rodney_Matthews_Fantasy_Images_1996_Calendar.md" title="Rodney Matthews Fantasy Images 1996 Calendar">1996</a> · <a href="../R/Rodney_Matthews_2003_Calendar.md" title="Rodney Matthews 2003 Calendar">2003</a>
 </td></tr>
 <tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3">Khác
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3">Other
 </th></tr>
 <tr style="font-size: 90%; font-weight: normal;">
 <th style="background:var(--tg-color-surface-4)">Guide
@@ -109,7 +109,7 @@ infobox:
 <tr style="font-size: 90%; font-weight: normal;">
 <th style="background:var(--tg-color-surface-4)"><a href="../B/Ballantine_Books.md" title="Ballantine Books">Ballantine Books</a>
 </th>
-<td><a href="The_Hobbit_Desk_Calendar_1978.md" title="The Hobbit Desk Calendar 1978">1978</a> · <a href="The_Silmarillion_Desk_Calendar_1979.md" title="The Silmarillion Desk Calendar 1979">1979</a> <small>(<a href="The_1979_Calendar_of_J.R.R._Tolkien&#39;s_The_Lord_of_the_Rings.md" title="The 1979 Calendar of J.R.R. Tolkien&#39;s The Lord of the Rings">phim</a>)</small> · <a href="The_J.R.R._Tolkien_Desk_Calendar_1980.md" title="The J.R.R. Tolkien Desk Calendar 1980">1980</a> · <a href="The_J.R.R._Tolkien_Desk_Calendar_1981.md" title="The J.R.R. Tolkien Desk Calendar 1981">1981</a>
+<td><a href="The_Hobbit_Desk_Calendar_1978.md" title="The Hobbit Desk Calendar 1978">1978</a> · <a href="The_Silmarillion_Desk_Calendar_1979.md" title="The Silmarillion Desk Calendar 1979">1979</a> <small>(<a href="The_1979_Calendar_of_J.R.R._Tolkien&#39;s_The_Lord_of_the_Rings.md" title="The 1979 Calendar of J.R.R. Tolkien&#39;s The Lord of the Rings">film</a>)</small> · <a href="The_J.R.R._Tolkien_Desk_Calendar_1980.md" title="The J.R.R. Tolkien Desk Calendar 1980">1980</a> · <a href="The_J.R.R._Tolkien_Desk_Calendar_1981.md" title="The J.R.R. Tolkien Desk Calendar 1981">1981</a>
 </td></tr>
 <tr style="font-size: 90%; font-weight: normal;">
 <th style="background:var(--tg-color-surface-4)">Permanent Press

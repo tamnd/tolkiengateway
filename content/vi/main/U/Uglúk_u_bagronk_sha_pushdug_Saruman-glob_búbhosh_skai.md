@@ -43,7 +43,7 @@ Một bản dịch khác, được xuất bản trong [*Parma Eldalamberon* 17](
 
 Được dịch là:<br>
 
-<dl><dd>"<i>Uglúk đến tra tấn (phòng) với Saruman-sự bẩn thỉu hôi hám.</i><br/><i>Dung-heap. Skai!</i>".</dd></dl>
+<dl><dd>&#34;<i>Uglúk to torture (chamber) with stinking Saruman-filth.</i><br/><i>Dung-heap. Skai!</i>&#34;.</dd></dl>
 
 <span></span>
 

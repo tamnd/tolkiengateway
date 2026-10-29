@@ -26,7 +26,7 @@ Tên là [Sindarin](../S/Sindarin.md) và chứa phần tử *[nim](Nim.md)-* ("
 
 Trong văn bản ngôn ngữ, *nimphelos* được cho là tên một loài thực vật (được đề cập cùng với *[niphredil](Niphredil.md)*).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="../L/Loss.md" title="Loss">mất mát</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../L/Loss.md" title="Loss">loss</a></div></div>
 
 <span></span>
 

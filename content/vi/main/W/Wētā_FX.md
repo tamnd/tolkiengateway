@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Wētā_FX"
 content_sha256: 4dba19bba5594cbf0924322f2ddd4e84803844d29c04bad2276b7a22e1c5528d
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Công ty hiệu ứng hình ảnh"
+short_description: "Visual effects company"
 categories:
   - "Stubs"
   - "New Zealand businesses"
@@ -22,15 +22,15 @@ images:
   - "Weta_Digital_-_logo.gif"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=W%C4%93t%C4%81_FX&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=W%C4%93t%C4%81_FX&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Weta</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Weta_(disambiguation).md" title="Weta (disambiguation)">Weta (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Weta</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Weta_(disambiguation).md" title="Weta (disambiguation)">Weta (disambiguation)</a></b>.</div></div>
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Weta_Fx_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b2/Weta_Fx_logo.jpg/175px-Weta_Fx_logo.jpg" decoding="async" loading="lazy" width="175" height="175" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b2/Weta_Fx_logo.jpg/263px-Weta_Fx_logo.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b2/Weta_Fx_logo.jpg/350px-Weta_Fx_logo.jpg 2x" data-file-width="811" data-file-height="811"/></a><figcaption>Logo hiện tại của Wētā FX</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Weta_Fx_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b2/Weta_Fx_logo.jpg/175px-Weta_Fx_logo.jpg" decoding="async" loading="lazy" width="175" height="175" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b2/Weta_Fx_logo.jpg/263px-Weta_Fx_logo.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b2/Weta_Fx_logo.jpg/350px-Weta_Fx_logo.jpg 2x" data-file-width="811" data-file-height="811"/></a><figcaption>Current logo of Wētā FX</figcaption></figure>
 
 **Wētā FX**, trước đây gọi là **Weta Digital**, là một công ty hiệu ứng hình ảnh kỹ thuật số đã tạo ra tất cả các hiệu ứng đặc biệt cho [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>). Nó cũng đã đồng tạo ra các hiệu ứng đặc biệt cho loạt phim [The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) cùng với các công ty hiệu ứng hình ảnh khác như chúng tôi <a class="extiw" href="http://en.wikipedia.org/wiki/Industrial_Light_%26_Magic" title="wikipedia:Industrial Light &amp; Magic">Industrial Light & Magic</a> (ILM) và <a class="extiw" href="http://en.wikipedia.org/wiki/DNEG" title="wikipedia:DNEG">DNEG</a>. Nó được thành lập bởi [Peter Jackson](../P/Peter_Jackson.md), [Richard Taylor](../R/Richard_Taylor.md) và Jamie Selkirk ở [1993](../_/1993.md) và có trụ sở tại Wellington, [New Zealand](../N/New_Zealand.md).
 
@@ -38,7 +38,7 @@ Vào tháng 11 năm 2021, công ty được bán cho công ty phần mềm trò 
 
 ## Giải thưởng {#Awards}
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Weta_Digital_-_logo.gif.md"><img src="https://tolkiengateway.net/w/images/c/c1/Weta_Digital_-_logo.gif" decoding="async" loading="lazy" width="151" height="100" class="mw-file-element" data-file-width="151" data-file-height="100"/></a><figcaption>Logo trước đây của Wētā FX, là Weta Digital</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Weta_Digital_-_logo.gif.md"><img src="https://tolkiengateway.net/w/images/c/c1/Weta_Digital_-_logo.gif" decoding="async" loading="lazy" width="151" height="100" class="mw-file-element" data-file-width="151" data-file-height="100"/></a><figcaption>Previous logo of Wētā FX, as Weta Digital</figcaption></figure>
 
 Đến nay, Wētā FX đã giành được sáu Giải Oscar cho Hiệu ứng hình ảnh xuất sắc nhất: The Lord of the Rings: The Fellowship of the Ring (2001), The Lord of the Rings: The Two Towers (2002), The Lord of the Rings: The Return of the King (2003), Vua Kong (2005), Avatar (2009) và The Jungle Book (2016).
 

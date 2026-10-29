@@ -24,7 +24,7 @@ langlinks:
 ## Từ nhà xuất bản {#From_the_publisher}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Journal of Tolkien Research (JTR) có mục tiêu cung cấp nghiên cứu và học thuật chất lượng cao dựa trên các tác phẩm của J.R.R. Tolkien (1892-1973) và các văn bản chuyển hóa và phái sinh dựa trên tác phẩm của ông cho nhiều đối tượng độc giả đa dạng. Tạp chí này sẽ tập trung vào các phương pháp tiếp cận đa ngành và liên ngành đối với các nghiên cứu Tolkien, bao gồm trò chơi điện tử, chuyển thể truyền thông và văn học, sản phẩm của người hâm mộ và sự đón nhận của khán giả. Do đó, tạp chí mang đến cơ hội cho tất cả các học giả làm việc trong và trên nghiên cứu Tolkien xuất bản các bài báo nghiên cứu ban đầu của họ trên một tạp chí học thuật được bình duyệt chất lượng cao truy cập mở và phân phối rộng rãi miễn phí.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+<p>The Journal of Tolkien Research (JTR) has the goal of providing high-quality research and scholarship based on the works of J.R.R. Tolkien (1892-1973) and on transformative and derivative texts based on his work to a wide and diverse audience. This journal will focus on multi- and inter-disciplinary approaches to Tolkien studies, including gaming, media and literary adaptations, fan productions, and audience reception. The journal therefore offers the opportunity to all scholars working in and on Tolkien research to publish their original research articles in an open access and widely-distributed high quality peer-reviewed scholarly journal at no cost.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 </p>
 </blockquote>
 

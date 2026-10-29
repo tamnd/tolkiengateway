@@ -15,8 +15,8 @@ images:
   - "Material_icon_-_Construction.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
-<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
+<p>We have a long way to go, and there is time ahead for thought.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
@@ -78,7 +78,7 @@ Bài viết này nhằm mục đích liệt kê những sự kiện chính trong
 ## [1910](../_/1910.md) {#1910}
 
 - [Tháng 1](January.md): Tolkien và anh trai chuyển đến nhà của Thomas Macsherry tại số 4 đường Highfield.
-- [21 tháng 1](../_/21_January.md): Tolkien và Edith có một cuộc gặp bí mật, điều mà Cha Francis biết được. Ông cấm Tolkien mọi liên lạc với Edith cho đến khi ông 21 tuổi.
+- [21 tháng 1](../_/21_January.md): Tolkien và Edith có một cuộc gặp bí mật, điều mà Cha Francis biết được. Ông ta cấm Tolkien mọi liên lạc với Edith cho đến khi ông ta 21 tuổi.
 - [Tháng 12](../D/December.md): Tolkien giành được học bổng của Exeter College, Oxford.
 
 ## [1911](../_/1911.md) {#1911}
@@ -142,7 +142,7 @@ Bài viết này nhằm mục đích liệt kê những sự kiện chính trong
 ## [1972](../_/1972.md) {#1972}
 
 - Tolkien được phong làm Tư lệnh của [Huân chương Đế quốc Anh](../O/Order_of_the_British_Empire.md)
-- Tolkien nhận Bằng Tiến sĩ Danh dự về Văn chương của Đại học Oxford.
+- Tolkien nhận bằng Tiến sĩ Văn học danh dự của Đại học Oxford.
 
 ## [1973](../_/1973.md) {#1973}
 

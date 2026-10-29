@@ -24,17 +24,17 @@ infobox:
     value: "Fish, Riddle-game"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
 <table class="tg-infobox floatright">
-  <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Thơ của J.R.R. Tolkien</a></td></tr>
-  <tr><th colspan="2" class="tg-infobox-title"><span>“Những vùng đất cứng lạnh”</span></th></tr>
-  <tr><th colspan="2" class="tg-infobox-header"><span>Thông tin về bài thơ</span></th></tr>
-  <tr><th scope="row" class="tg-infobox-label">Viết</th><td class="tg-infobox-data">Between <a href="../_/1929.md" title="1929">1929</a> and <a href="../_/1937.md" title="1937">1937</a></td></tr>
-  <tr><th scope="row" class="tg-infobox-label">Bản sửa đổi</th><td class="tg-infobox-data">Between <a href="../_/21_September.md" title="21 September">21 September</a>, <a href="../_/1937.md" title="1937">1937</a> and <a href="../_/11_November.md" title="11 November">11 November</a>, <a href="../_/1954.md" title="1954">1954</a></td></tr>
-  <tr><th scope="row" class="tg-infobox-label">Xuất bản</th><td class="tg-infobox-data"><i><a href="The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>,<br/><i><a href="The_War_of_the_Ring.md" title="The War of the Ring">The War of the Ring</a></i>,<br/><i><a href="The_Annotated_Hobbit.md" title="The Annotated Hobbit">The Annotated Hobbit</a></i>,<br/><i><a href="The_J.R.R._Tolkien_Audio_Collection.md" title="The J.R.R. Tolkien Audio Collection">The J.R.R. Tolkien Audio Collection</a></i>,<br/><i><a href="The_History_of_The_Hobbit.md" title="The History of The Hobbit">The History of The Hobbit</a></i></td></tr>
-  <tr><th scope="row" class="tg-infobox-label">Chủ đề</th><td class="tg-infobox-data"><a href="../F/Fish.md" title="Fish">Fish</a>, <a href="../R/Riddle-game.md" title="Riddle-game">Riddle-game</a></td></tr>
+  <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Poems by J.R.R. Tolkien</a></td></tr>
+  <tr><th colspan="2" class="tg-infobox-title"><span>&#34;The cold hard lands&#34;</span></th></tr>
+  <tr><th colspan="2" class="tg-infobox-header"><span>Poem Information</span></th></tr>
+  <tr><th scope="row" class="tg-infobox-label">Written</th><td class="tg-infobox-data">Between <a href="../_/1929.md" title="1929">1929</a> and <a href="../_/1937.md" title="1937">1937</a></td></tr>
+  <tr><th scope="row" class="tg-infobox-label">Revised</th><td class="tg-infobox-data">Between <a href="../_/21_September.md" title="21 September">21 September</a>, <a href="../_/1937.md" title="1937">1937</a> and <a href="../_/11_November.md" title="11 November">11 November</a>, <a href="../_/1954.md" title="1954">1954</a></td></tr>
+  <tr><th scope="row" class="tg-infobox-label">Published</th><td class="tg-infobox-data"><i><a href="The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>,<br/><i><a href="The_War_of_the_Ring.md" title="The War of the Ring">The War of the Ring</a></i>,<br/><i><a href="The_Annotated_Hobbit.md" title="The Annotated Hobbit">The Annotated Hobbit</a></i>,<br/><i><a href="The_J.R.R._Tolkien_Audio_Collection.md" title="The J.R.R. Tolkien Audio Collection">The J.R.R. Tolkien Audio Collection</a></i>,<br/><i><a href="The_History_of_The_Hobbit.md" title="The History of The Hobbit">The History of The Hobbit</a></i></td></tr>
+  <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../F/Fish.md" title="Fish">Fish</a>, <a href="../R/Riddle-game.md" title="Riddle-game">Riddle-game</a></td></tr>
 </tbody></table>
 
 "**Những vùng đất cứng lạnh**" là dòng đầu tiên của một [bài thơ](../P/Poems_in_The_Lord_of_the_Rings.md) được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được [Gollum](../G/Gollum.md) hát trong *[The Two Towers](The_Two_Towers.md)*.<sup id="cite_ref-towers_1-0" class="reference"><a href="#cite_note-towers-1">[1]</a></sup>
@@ -42,9 +42,9 @@ infobox:
 ## Trích đoạn thơ {#Poem_excerpt}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Những vùng đất cứng lạnh<br/>
-chúng cắn tay chúng ta,<br/>
-  chúng gặm chân ta.<sup id="cite_ref-towers_1-1" class="reference"><a href="#cite_note-towers-1">[1]</a></sup>
+<p>The cold hard lands<br/>
+they bites our hands,<br/>
+  they gnaws our feet.<sup id="cite_ref-towers_1-1" class="reference"><a href="#cite_note-towers-1">[1]</a></sup>
 </p>
 </div>
 
@@ -53,14 +53,14 @@ chúng cắn tay chúng ta,<br/>
 Vào năm [T.A.](Third_Age.md) [2941](Third_Age_2941.md) [Kỷ Đệ Tam](Third_Age.md),<sup id="cite_ref-year_2-0" class="reference"><a href="#cite_note-year-2">[2]</a></sup> một phần của bài thơ đã được [Gollum](../G/Gollum.md) sử dụng làm câu đố khi anh và [Bilbo](../B/Bilbo.md) tham gia [Trò chơi đố vui](../R/Riddle-game.md):<sup id="cite_ref-riddles_3-0" class="reference"><a href="#cite_note-riddles-3">[3]</a></sup>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Sống mà không cần hơi thở,<br/>
-Lạnh lùng như cái chết,<br/>
-Không bao giờ khát, không bao giờ uống rượu,<br/>
-Tất cả trong thư không bao giờ kêu leng keng.<sup id="cite_ref-riddles_3-1" class="reference"><a href="#cite_note-riddles-3">[3]</a></sup>
+<p>Alive without breath,<br/>
+As cold as death,<br/>
+Never thirsting, ever drinking,<br/>
+All in mail never clinking.<sup id="cite_ref-riddles_3-1" class="reference"><a href="#cite_note-riddles-3">[3]</a></sup>
 </p>
 </div>
 
-Vào [1 tháng 3](../_/1_March.md) [T.A.](Third_Age.md) [3019](Third_Age_3019.md),<sup id="cite_ref-month_4-0" class="reference"><a href="#cite_note-month-4">[4]</a></sup> Gollum, trong khi hướng dẫn [Frodo Baggins](../F/Frodo_Baggins.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md) đi qua [Đầm lầy Chết](../D/Dead_Marshes.md), thỉnh thoảng cười khúc khích hoặc hát một đoạn bài thơ. Ông có thể đã rất thích thú với cảm giác nước "trong dòng suối cạn đá" mà chân ông té vào. Có lúc, Gollum tự ngắt lời để ám chỉ đến trò chơi Riddle nhiều [nhiều thập kỷ trước](../Q/Quest_of_Erebor.md). Tiếng hát của Gollum khiến Samwise phải suy nghĩ cấp bách hơn về "vấn đề lương thực" và suy đoán rằng Gollum cũng đang nghĩ đến điều này.<sup id="cite_ref-towers_1-2" class="reference"><a href="#cite_note-towers-1">[1]</a></sup>
+Vào [1 tháng 3](../_/1_March.md) [T.A.](Third_Age.md) [3019](Third_Age_3019.md),<sup id="cite_ref-month_4-0" class="reference"><a href="#cite_note-month-4">[4]</a></sup> Gollum, trong khi hướng dẫn [Frodo Baggins](../F/Frodo_Baggins.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md) đi qua [Đầm lầy Chết](../D/Dead_Marshes.md), thỉnh thoảng cười khúc khích hoặc hát một đoạn bài thơ. Ông ta có thể đã rất thích thú với cảm giác nước "trong dòng suối cạn đá" mà chân ông ta té vào. Có lúc, Gollum tự ngắt lời để ám chỉ đến trò chơi Riddle nhiều [nhiều thập kỷ trước](../Q/Quest_of_Erebor.md). Tiếng hát của Gollum khiến Samwise phải suy nghĩ cấp bách hơn về "vấn đề lương thực" và suy đoán rằng Gollum cũng đang nghĩ đến điều này.<sup id="cite_ref-towers_1-2" class="reference"><a href="#cite_note-towers-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
@@ -70,19 +70,19 @@ Trong bản thảo đầu tiên của chương Tolkien, dòng đầu tiên “Nh
 
 <b>2002: <i><a href="../P/Pán_prsteňov.md" title="Pán prsteňov">Pán prsteňov</a></i>:</b>
 
-<dl><dd>Gollum (do Ibrahim Maiga thủ vai) hát bài hát ngớ ngẩn này trong một tập của loạt phim thứ hai (mùa) của loạt phim phát thanh Slovakia. Bài hát có giai điệu giống như một bài đồng dao dành cho trẻ mẫu giáo với một số bộ gõ tinh tế.</dd></dl>
+<dl><dd>Gollum (portrayed by Ibrahim Maiga) sings this ditty during an episode of the second series (season) of the Slovak radio series. The song is accompanied by a nursery rhyme-like melody with some subtle percussions.</dd></dl>
 
 <b>2002: <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
-<dl><dd>Một phiên bản thay thế của bài hát này được nghe thấy trong <a href="The_Forbidden_Pool_(scene).md" title="The Forbidden Pool (scene)">cảnh bốn mươi giây</a> khi Gollum bắt được một con cá trong <a href="../F/Forbidden_Pool.md" title="Forbidden Pool">Bể Cấm</a>:</dd></dl>
+<dl><dd>An alternate version of this song is heard in the <a href="The_Forbidden_Pool_(scene).md" title="The Forbidden Pool (scene)">forty-second scene</a> when Gollum catches a fish in the <a href="../F/Forbidden_Pool.md" title="Forbidden Pool">Forbidden Pool</a>:</dd></dl>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Tảng đá và hồ nước<br/>
-Đẹp và mát mẻ,<br/>
-Ngọt-ngọt quá!<br/>
-Mong muốn duy nhất của chúng tôi,<br/>
-Để bắt được một con cá<br/>
-Thật ngọt ngào!
+<p>The rock and pool<br/>
+Is nice and cool,<br/>
+So juicy-sweet!<br/>
+Our only wish,<br/>
+To catch a fish,<br/>
+So juicy-sweet!
 </p>
 </div>
 

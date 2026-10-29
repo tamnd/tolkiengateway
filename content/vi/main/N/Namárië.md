@@ -35,17 +35,17 @@ images:
   - "Anna_Kulisz_-_Galadriels_Song.jpg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Nam%C3%A1ri%C3%AB&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Nam%C3%A1ri%C3%AB&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Galadriel</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../G/Galadriel_(disambiguation).md" title="Galadriel (disambiguation)">Galadriel (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Galadriel</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../G/Galadriel_(disambiguation).md" title="Galadriel (disambiguation)">Galadriel (disambiguation)</a></b>.</div></div>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/3/3e/J.R.R._Tolkien_-_Namarie.mp3" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_Namarie.mp3">https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_Namarie.mp3</a></audio><figcaption><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> hát <i>Namárië</i></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/3/3e/J.R.R._Tolkien_-_Namarie.mp3" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_Namarie.mp3">https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_Namarie.mp3</a></audio><figcaption><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> sings <i>Namárië</i></figcaption></figure>
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Road_Goes_Ever_On_(1968).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d5/The_Road_Goes_Ever_On_%281968%29.jpg/250px-The_Road_Goes_Ever_On_%281968%29.jpg" decoding="async" loading="lazy" width="250" height="314" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d5/The_Road_Goes_Ever_On_%281968%29.jpg/375px-The_Road_Goes_Ever_On_%281968%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d5/The_Road_Goes_Ever_On_%281968%29.jpg/500px-The_Road_Goes_Ever_On_%281968%29.jpg 2x" data-file-width="804" data-file-height="1011"/></a><figcaption>Bìa <i><a href="../T/The_Road_Goes_Ever_On_(book).md" title="The Road Goes Ever On (book)">The Road Goes Ever On</a></i> bao gồm nội dung của <i>Namárië</i> có <a href="../T/Tengwar.md" title="Tengwar">Tengwar</a>.</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Road_Goes_Ever_On_(1968).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d5/The_Road_Goes_Ever_On_%281968%29.jpg/250px-The_Road_Goes_Ever_On_%281968%29.jpg" decoding="async" loading="lazy" width="250" height="314" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d5/The_Road_Goes_Ever_On_%281968%29.jpg/375px-The_Road_Goes_Ever_On_%281968%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d5/The_Road_Goes_Ever_On_%281968%29.jpg/500px-The_Road_Goes_Ever_On_%281968%29.jpg 2x" data-file-width="804" data-file-height="1011"/></a><figcaption>Cover of <i><a href="../T/The_Road_Goes_Ever_On_(book).md" title="The Road Goes Ever On (book)">The Road Goes Ever On</a></i> including the text of the <i>Namárië</i> with <a href="../T/Tengwar.md" title="Tengwar">Tengwar</a>.</figcaption></figure>
 
 **Namárië**, còn được gọi là Lời than thở của **Galadriel**, **Altariello nainië Lóriendessë** (Quenya cho lời than thở của "Galadriel trong Lórien"),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và đôi khi **Bài hát của Tiên tộc Beyond the Biển**, là văn bản [Quenya](../Q/Quenya.md) dài nhất trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
@@ -54,21 +54,21 @@ Bài thơ đã được phổ nhạc bởi [Donald Swann](../D/Donald_Swann.md).
 ## Bài thơ {#Poem}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Ai! laurië lantar lassi súrinen,<br/>
+<p> Ai! laurië lantar lassi súrinen,<br/>
 yéni únótimë ve rámar aldaron!<br/>
 Yéni ve lintë yuldar avánier<br/>
 mi oromardi lisse-miruvóreva<br/>
-Andúnë pella, Vardo Tellumar<br/>
+Andúnë pella, Vardo tellumar<br/>
 nu luini yassen tintilar i eleni<br/>
 ómaryo <a href="../A/Airë.md" title="Airë">aire</a><a href="../T/Tári.md" title="Tári">tári</a>-lírinen.<br/>
 <br/>
-Bạn có muốn tôi yêu bạn không?<br/>
+Sí man i yulma nin enquantuva?<br/>
 <br/>
 An sí Tintallë Varda Oiolossëo<br/>
 ve fanyar máryat Elentári ortanë,<br/>
-ar ilyë tầng undulávë lumbulë;<br/>
+ar ilyë tier undulávë lumbulë;<br/>
 ar sindanóriello caita mornië<br/>
-tôi falmalinnar tôi đã gặp, ar hísië<br/>
+i falmalinnar imbë met, ar hísië<br/>
 untúpa Calaciryo <a href="../M/Mírë.md" title="Mírë">míri</a> oialë.<br/>
 Sí vanwa ná, Rómello vanwa, Valimar!<br/>
 <br/>
@@ -82,25 +82,25 @@ Nai elyë hiruva. Namárië!
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anna_Kulisz_-_Galadriels_Song.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cc/Anna_Kulisz_-_Galadriels_Song.jpg/300px-Anna_Kulisz_-_Galadriels_Song.jpg" decoding="async" loading="lazy" width="300" height="214" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cc/Anna_Kulisz_-_Galadriels_Song.jpg/450px-Anna_Kulisz_-_Galadriels_Song.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/cc/Anna_Kulisz_-_Galadriels_Song.jpg/600px-Anna_Kulisz_-_Galadriels_Song.jpg 2x" data-file-width="1000" data-file-height="714"/></a><figcaption><i>Galadriel&#39;s Song</i> by <a href="../../category/I/Images_by_Anna_Kulisz.md" title="Category:Images by Anna Kulisz">Anna Kulisz</a></figcaption></figure>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>À! như lá vàng rơi trong gió <br/>
-năm dài vô số như cánh cây! <br/>
-Năm tháng trôi qua nhanh như bản nháp <br/>
-của đồng cỏ ngọt ngào trong những đại sảnh cao ngất bên kia Phương Tây, <br/>
-bên dưới mái vòm xanh của <a href="../V/Varda.md" title="Varda">Varda</a> <br/>
-trong đó các ngôi sao run rẩy trong bài hát của giọng hát của cô, thánh thiện và nữ hoàng. <br/>
+<p>Ah! like gold fall the leaves in the wind, <br/>
+long years numberless as the wings of trees! <br/>
+The years have passed like swift draughts <br/>
+of the sweet mead in lofty halls beyond the West, <br/>
+beneath the blue vaults of <a href="../V/Varda.md" title="Varda">Varda</a> <br/>
+wherein the stars tremble in the song of her voice, holy and queenly. <br/>
 <br/>
-Bây giờ ai sẽ đổ đầy cốc cho tôi? <br/>
+Who now shall refill the cup for me? <br/>
 <br/>
-Hiện tại là Kindler, Varda, Nữ hoàng của các vì sao, <br/>
-từ núi Everwhite đã giơ tay lên như mây, <br/>
-và mọi con đường đều chìm trong bóng tối; <br/>
-và ra khỏi bóng tối vùng quê xám xịt<br/>
-nằm trên những con sóng sủi bọt giữa chúng ta,<br/>
-và sương mù bao phủ những viên ngọc <a href="../C/Calacirya.md" title="Calacirya">Calacirya</a> mãi mãi. <br/>
-Giờ đã thua, thua những kẻ đến từ phương Đông là <a href="../V/Valimar.md" title="Valimar">Valimar</a>!<br/>
+For now the Kindler, Varda, the Queen of the Stars, <br/>
+from Mount Everwhite has uplifted her hands like clouds, <br/>
+and all paths are drowned deep in shadow; <br/>
+and out of a grey country darkness<br/>
+lies on the foaming waves between us,<br/>
+and mist covers the jewels of <a href="../C/Calacirya.md" title="Calacirya">Calacirya</a> for ever. <br/>
+Now lost, lost to those from the East is <a href="../V/Valimar.md" title="Valimar">Valimar</a>!<br/>
 <br/>
-Tạm biệt! Có lẽ ngươi sẽ tìm thấy Valimar. <br/>
-Có lẽ thậm chí bạn sẽ tìm thấy nó. Tạm biệt!
+Farewell! Maybe thou shalt find Valimar. <br/>
+Maybe even thou shalt find it. Farewell!
 </p>
 </div>
 
@@ -112,11 +112,11 @@ Từ *namárië* có nghĩa là "tạm biệt" trong Quenya.<sup id="cite_ref-2"
 
 <b>2001: <a class="mw-redirect" href="../P/Pán_prsteňov_(2001-2003_Slovak_radio_series).md" title="Pán prsteňov (2001-2003 Slovak radio series)"><i>Pán prsteňov</i> (Loạt đài tiếng Slovak 2001-2003)</a>:</b>
 
-<dl><dd>Galadriel (do Soňa Norisová thể hiện) hát bài hát trong tập thứ sáu và tập cuối của loạt phim đầu tiên (mùa), dựa trên <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>.</dd></dl>
+<dl><dd>Galadriel (portrayed by Soňa Norisová) sings the song in the sixth and final episode of the first series (season), based on <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>.</dd></dl>
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>Một số câu trong bài hát được sử dụng trong ca khúc "<a href="../T/The_Great_River_(soundtrack).md" title="The Great River (soundtrack)">The Great River</a>" của <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a>.</dd></dl>
+<dl><dd>Some verses of the song are used in &#34;<a href="../T/The_Great_River_(soundtrack).md" title="The Great River (soundtrack)">The Great River</a>&#34; track by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a>.</dd></dl>
 
 ## Xem thêm {#See_also}
 

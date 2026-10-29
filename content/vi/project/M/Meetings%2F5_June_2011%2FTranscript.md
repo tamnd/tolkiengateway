@@ -112,7 +112,7 @@ sort_keys:
 [2011-06-05 20:37:16] &lt;Mith&gt; No objections here/<br/>
 [2011-06-05 20:37:19] &lt;Amroth&gt; evening, Morgan<br/>
 [2011-06-05 20:37:25] &lt;Morgan&gt; Thanks, hello everyody<br/>
-[2011-06-05 20:37:26] &lt;Gamling&gt; Postponing sound good. Perhaps with a warning that this article will be updated regularly as news comes in.<br/>
+[2011-06-05 20:37:26] &lt;Gamling&gt; Postponing sound good.  Perhaps with a warning that this article will be updated regularly as news comes in.<br/>
 [2011-06-05 20:37:28] &lt;mithrennaith&gt; no objections here either.<br/>
 [2011-06-05 20:37:44] &lt;KingAragorn&gt; Agree with Gamling<br/>
 [2011-06-05 20:38:06] &lt;mithrennaith&gt; Agree with Gamling as well.<br/>
@@ -278,7 +278,7 @@ sort_keys:
 [2011-06-05 21:19:32] &lt;Morgan&gt; Did Gilgamesh &#34;steal&#34; the IPAs from Ardalambion or something similar, or were they is own creation?<br/>
 [2011-06-05 21:19:33] &lt;Ainaldo&gt; Anglophones are useful, even though they&#39;re inaccurate.<br/>
 [2011-06-05 21:19:42] &lt;mithrennaith&gt; I once saw an English dictionary that did it like Ederchil’s example. I think that wouldn‘t be a bad idea.<br/>
-[2011-06-05 21:19:48] &lt;Gamling&gt; I like Ederchil&#39;s example. IPA if we have it; simple English too as it is helpful.<br/>
+[2011-06-05 21:19:48] &lt;Gamling&gt; I like Ederchil&#39;s example.  IPA if we have it; simple English too as it is helpful.<br/>
 [2011-06-05 21:19:59] &lt;Morgan&gt; Yes, I agree on the double solution<br/>
 [2011-06-05 21:20:02] &lt;Mith&gt; Ederchil&#39;s example was what I was hinting at, yeah<br/>
 [2011-06-05 21:20:04] &lt;Mith&gt; OK<br/>
@@ -348,7 +348,7 @@ sort_keys:
 [2011-06-05 21:32:09] &lt;Morgan&gt; Yeah, perhaps only language when it&#39;s very clear<br/>
 [2011-06-05 21:32:10] &lt;Ederchil&gt; Morgan - it was more of a joke, but it sounds good<br/>
 [2011-06-05 21:32:14] &lt;mithrennaith&gt; -- but there are simply no native speakers, anyone is going to have their native accent peeping through somehow --=<br/>
-[2011-06-05 21:32:29] &lt;Morgan&gt; I&#39;m all for keeping the soundflies why not?<br/>
+[2011-06-05 21:32:29] &lt;Morgan&gt; I&#39;m all for keeping the soundflies  why not?<br/>
 [2011-06-05 21:32:47] &lt;KingAragorn&gt; We could certainly create an infobox like it, or extend the sound file infobox (for instances where the article has the sound file and the IPA)<br/>
 [2011-06-05 21:33:01] &lt;Ainaldo&gt; I know I&#39;m not a voting member here, but I prefer the eyncylopedia style, with the pronunciation guides in the lede.<br/>
 [2011-06-05 21:33:09] &lt;mithrennaith&gt; -- and we might end up with a lot of pronunciation soundfiles with a plethora of different accents.<br/>
@@ -626,7 +626,7 @@ sort_keys:
 [2011-06-05 22:23:38] &lt;mithrennaith&gt; Inconsistent not.<br/>
 [2011-06-05 22:24:17] &lt;Mith&gt; I think we are all pretty hot on weeding out fanon<br/>
 [2011-06-05 22:24:19] &lt;Morgan&gt; However, if we see a storm of edits (perhaps due to The Hobbit films), I would be in favour of perhaps removing the anon edits (that is, if they would taint the wiki)<br/>
-[2011-06-05 22:24:26] &lt;Gamling&gt; As long as the edits can be checked then I like allowing anons to edit. As suggested, it may add new people.<br/>
+[2011-06-05 22:24:26] &lt;Gamling&gt; As long as the edits can be checked then I like allowing anons to edit.  As suggested, it may add new people.<br/>
 [2011-06-05 22:24:36] &lt;mithrennaith&gt; There is too much work to be done to be complacent about the amount of work that goes into policing, I think though.<br/>
 [2011-06-05 22:24:55] &lt;Morgan&gt; good point<br/>
 [2011-06-05 22:25:07] &lt;mithrennaith&gt; Just yesterday I went through the mess that goes for treatment of M-e Calendars here.<br/>
@@ -634,7 +634,7 @@ sort_keys:
 [2011-06-05 22:25:20] &lt;Morgan&gt; We should, however, be more explicit in policy guidelines <br/>
 [2011-06-05 22:25:30] &lt;mithrennaith&gt; I wish I had the time to go through that thoroughly.<br/>
 [2011-06-05 22:25:46] &lt;mithrennaith&gt; But as it is, I don’t even have time to police recent changes.<br/>
-[2011-06-05 22:26:00] &lt;Gamling&gt; I signed up fairly quickly so I&#39;m not sure. I think I signed up in order to edit.<br/>
+[2011-06-05 22:26:00] &lt;Gamling&gt; I signed up fairly quickly so I&#39;m not sure.  I think I signed up in order to edit.<br/>
 [2011-06-05 22:26:03] &lt;mithrennaith&gt; (Which was the first thing I wanted to do here regulary, once).<br/>
 [2011-06-05 22:26:18] &lt;Morgan&gt; Really? Calenadars? Do you collect?<br/>
 [2011-06-05 22:26:22] &lt;Morgan&gt; *calendars<br/>

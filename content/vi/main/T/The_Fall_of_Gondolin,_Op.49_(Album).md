@@ -14,15 +14,15 @@ images:
   - "Gondolin_CD_Artwork.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Gondolin_CD_Artwork.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1c/Gondolin_CD_Artwork.png/300px-Gondolin_CD_Artwork.png" decoding="async" loading="lazy" width="300" height="297" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1c/Gondolin_CD_Artwork.png/450px-Gondolin_CD_Artwork.png 1.5x, https://tolkiengateway.net/w/images/1/1c/Gondolin_CD_Artwork.png 2x" data-file-width="600" data-file-height="593"/></a><figcaption>Tác phẩm nghệ thuật từ bản phát hành CD với sự cho phép của Ted Nasmith.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Gondolin_CD_Artwork.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1c/Gondolin_CD_Artwork.png/300px-Gondolin_CD_Artwork.png" decoding="async" loading="lazy" width="300" height="297" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1c/Gondolin_CD_Artwork.png/450px-Gondolin_CD_Artwork.png 1.5x, https://tolkiengateway.net/w/images/1/1c/Gondolin_CD_Artwork.png 2x" data-file-width="600" data-file-height="593"/></a><figcaption>Artwork from the CD release with permission of Ted Nasmith.</figcaption></figure>
 
 Bản ghi demo hoàn chỉnh về tác phẩm opera của nhà soạn nhạc [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md) *[The Fall of Gondolin, Op.49 (Opera)](<The_Fall_of_Gondolin,_Op.49_(Opera).md>)* từ vở kịch *Những cảnh sử thi trong The SIlmarillion sau thần thoại J. R. R. Tolkien* do Volante Opera Productions ghi lại và được Prima Facie phát hành dưới dạng CD và bản tải xuống kỹ thuật số vào năm 2018.
 
 <br> **Diễn viên:**
 
-Ulmo, Chúa tể các dòng nước (Bass):  Martin Lloyd
+Ulmo, Chúa tể vùng nước (Bass):  Martin Lloyd
 
-Turgon, Vua Gondolin (Bass):  George Newton-Fitzgerald
+Turgon, Vua của Gondolin (Bass):  George Newton-Fitzgerald
 
 Aredhel, em gái ông (Mezzo-Soprano):  Louise Ratcliffe
 

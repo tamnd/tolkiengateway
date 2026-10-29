@@ -22,7 +22,7 @@ infobox:
     value: "www.michaelmoorcock.net"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Michael John Moorcock</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/18_December.md" title="18 December">18 December</a>, <a href="../_/1939.md" title="1939">1939</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Tiểu thuyết gia, nhà báo, người viết kịch bản, nhạc sĩ, biên tập viên</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data">www.michaelmoorcock.net</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Michael John Moorcock</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/18_December.md" title="18 December">18 December</a>, <a href="../_/1939.md" title="1939">1939</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Novelist, journalist, script writer, musician, editor</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data">www.michaelmoorcock.net</td></tr></tbody></table>
 
 **Michael John Moorcock** là nhà văn khoa học viễn tưởng và giả tưởng người Anh.
 

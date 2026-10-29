@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Gordon_Reid"
 content_sha256: 0769f498380582353930aafdfbeccabb0747db32ffe4650fc92a04c8e36bfb6c
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Diễn viên lồng tiếng"
+short_description: "Voice actor"
 categories:
   - "Actors and actresses"
   - "British people"

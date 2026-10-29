@@ -28,13 +28,13 @@ images:
 **Dáin** có thể tham khảo hai [Người Lùn](Dwarves.md):
 
 - [Dáin I](Dáin_I.md) ([T.A.](../T/Third_Age.md) [2440](../T/Third_Age_2440.md) - [2589](../T/Third_Age_2589.md)), [Vua](../K/Kings_of_Durin's_Folk.md) của [Durin's Folk](Durin's_Folk~15256.md) đã bị giết bởi một [con Drake lạnh lùng](../C/Cold-drake.md).
-- [Dáin II *Ironfoot*](Dáin_Ironfoot.md) ([T.A.](../T/Third_Age.md) [2767](../T/Third_Age_2767.md) - [3019](../T/Third_Age_3019.md)), [Chúa tể Dãy Đồi Sắt](../L/Lord_of_the_Iron_Hills.md), người đã trở thành Vua của dân Durin sau cái chết của [Thorin II *Oakenshield*](../T/Thorin.md).
+- [Dáin II *Ironfoot*](Dáin_Ironfoot.md) ([T.A.](../T/Third_Age.md) [2767](../T/Third_Age_2767.md) - [3019](../T/Third_Age_3019.md)), [Chúa tể của Dãy Đồi Sắt](../L/Lord_of_the_Iron_Hills.md), người đã trở thành Vua của Dân tộc Durin sau cái chết của [Thorin II *Oakenshield*](../T/Thorin.md).
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
 <p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>Trang định hướng này là danh sách các bài viết có cùng tiêu đề. Điều này phù hợp với <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Chính sách đặt tên</a> của <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>.</i>
-<span style="display:block;font-size: 85%;">Nếu <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:D%C3%A1in_(disambiguation)" title="Special:WhatLinksHere/:Dáin (disambiguation)">liên kết nội bộ</a> giới thiệu bạn đến trang này, bạn có thể muốn thay đổi liên kết để trỏ trực tiếp đến bài viết dự định.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:D%C3%A1in_(disambiguation)" title="Special:WhatLinksHere/:Dáin (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

@@ -16,7 +16,7 @@ images:
   - "Father_Francis_Morgan_8_August_1904.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Father_Francis_Morgan_8_August_1904.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c7/Father_Francis_Morgan_8_August_1904.jpg/300px-Father_Francis_Morgan_8_August_1904.jpg" decoding="async" loading="lazy" width="300" height="476" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/c7/Father_Francis_Morgan_8_August_1904.jpg 1.5x" data-file-width="366" data-file-height="581"/></a><figcaption>Trang đầu tiên của lá thư</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Father_Francis_Morgan_8_August_1904.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c7/Father_Francis_Morgan_8_August_1904.jpg/300px-Father_Francis_Morgan_8_August_1904.jpg" decoding="async" loading="lazy" width="300" height="476" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/c7/Father_Francis_Morgan_8_August_1904.jpg 1.5x" data-file-width="366" data-file-height="581"/></a><figcaption>First page of the letter</figcaption></figure>
 
 Vào [8 tháng 8](../_/8_August.md) [1904](../_/1904.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Cha Francis Morgan](../F/Francis_Xavier_Morgan.md)**.
 

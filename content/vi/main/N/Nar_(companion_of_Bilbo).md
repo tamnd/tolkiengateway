@@ -22,12 +22,12 @@ infobox:
     value: "Male"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Nar</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Nár_(disambiguation).md" title="Nár (disambiguation)">Nár (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Nar</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Nár_(disambiguation).md" title="Nár (disambiguation)">Nár (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../D/Dwarves.md" title="Dwarves">Người Lùn</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Nar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">Kỷ Đệ Tam</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nam</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../D/Dwarves.md" title="Dwarves">Dwarf</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Nar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">Third Age</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Thật thú vị khi được lên đường lần nữa với những người lùn! Đây chính là điều mà tôi đã thực sự mong đợi trong nhiều năm qua! Tạm biệt!
+<p>What fun to be off again, off on the Road with dwarves! This is what I have really been longing for, for years! Goodbye!
 </p>
 <p class="tg-quote-footer"><cite><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -38,13 +38,13 @@ infobox:
 
 Bilbo đã đặt mua quà từ [Erebor](../E/Erebor.md) và [Dale](../D/Dale.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> và trong [tháng Chín](../S/September.md) những người lùn có bộ râu dài và mũ trùm đầu sâu lái xe kéo đã đến [Hobbiton](../H/Hobbiton.md). Một số người ở lại [Bag End](../B/Bag_End.md) những ngày tiếp theo để chuẩn bị.
 
-Sau thủ đoạn biến mất của Bilbo, ông trở lại vô hình với Bag End trong khi những người lùn đang làm việc ở nhiều phòng khác nhau, đóng gói và dán nhãn quà chia tay cho Bilbo. Bilbo lấy đồ và cãi nhau với Gandalf về việc bỏ lại [chiếc nhẫn thần kỳ](../O/One_Ring.md). Sau cuộc đối thoại, Bilbo huýt sáo và Nar, [Anar](<../A/Anar_(dwarf).md>) và [Hannar](../H/Hannar.md), đến và nói rằng mọi thứ đã sẵn sàng và đã được dán nhãn. Sau đó họ cất cánh.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+Sau thủ đoạn biến mất của Bilbo, ông ta trở lại vô hình với Bag End trong khi những người lùn đang làm việc ở nhiều phòng khác nhau, đóng gói và dán nhãn quà chia tay cho Bilbo. Bilbo lấy đồ và cãi nhau với Gandalf về việc bỏ lại [chiếc nhẫn thần kỳ](../O/One_Ring.md). Sau cuộc đối thoại, Bilbo huýt sáo và Nar, [Anar](<../A/Anar_(dwarf).md>) và [Hannar](../H/Hannar.md), đến và nói rằng mọi thứ đã sẵn sàng và đã được dán nhãn. Sau đó họ cất cánh.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Tên của Nar, Anar và Hannar xuất hiện trong phần viết đầu của chương "[Bữa tiệc được mong đợi từ lâu](../A/A_Long-expected_Party.md)", nơi Nar được đưa ra một số đoạn hội thoại và phát triển thêm một chút. Tuy nhiên, [Tolkien](../J/J.R.R._Tolkien.md) sau đó đã thay đổi ý định và không tiết lộ tên của họ trong cuốn sách đã xuất bản cũng như không đưa ra bất kỳ lời thoại nào cho ông; cái tên [Nár](Nár.md) đã được đặt cho một người lùn khác trong tác phẩm cuối cùng.
+Tên của Nar, Anar và Hannar xuất hiện trong phần viết đầu của chương "[Bữa tiệc được mong đợi từ lâu](../A/A_Long-expected_Party.md)", nơi Nar được đưa ra một số đoạn hội thoại và phát triển thêm một chút. Tuy nhiên, [Tolkien](../J/J.R.R._Tolkien.md) sau đó đã thay đổi ý định và không tiết lộ tên của họ trong cuốn sách đã xuất bản cũng như không đưa ra bất kỳ lời thoại nào cho ông ta; cái tên [Nár](Nár.md) đã được đặt cho một người lùn khác trong tác phẩm cuối cùng.
 
-Cũng trong văn bản ban đầu đó, ngoại trừ ba người lùn đi cùng Bilbo, còn có người lùn thứ tư, [Lofar](../L/Lofar.md), người ở lại, nhưng không có dấu vết hay đề cập đến ông trong cuốn sách đã xuất bản.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+Cũng trong văn bản ban đầu đó, ngoại trừ ba người lùn đi cùng Bilbo, còn có người lùn thứ tư, [Lofar](../L/Lofar.md), người ở lại, nhưng không có dấu vết hay đề cập đến ông ta trong cuốn sách đã xuất bản.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

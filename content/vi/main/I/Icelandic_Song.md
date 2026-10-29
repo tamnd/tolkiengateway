@@ -17,19 +17,19 @@ categories:
 ## Bài hát {#The_song}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p><b>Bài hát tiếng Iceland</b><br/>
+<p><b>Icelandic Song</b><br/>
 <br/>
-Það liggur svo makalaust ljómandi' á mjer,<br/>
-Tôi lýkar svo vel, hvernig heimurinn er,<br/>
-Tôi đồng ý với tất cả các cuộc sống lý tưởng svo ljómandi bjart;<br/>
-Tôi đang nghĩ về điều gì đó sẽ xảy ra với lợi nhuận mơ ước của mình.<br/>
-Æ dúli, æ dúli, a da-la-la-la-la! (bốn lần)<br/>
+Það liggur svo makalaust ljómandi&#39; á mjer,<br/>
+Mjer líkar svo vel, hvernig heimurinn er,<br/>
+Mjer synist allt lífið svo ljómandi bjart;<br/>
+Og langar að segja svo dremalaust margt.<br/>
+Æ dúli, æ dúli, a da-la-la-la-la! (four times)<br/>
 <br/>
 Það skilst varla hjá mjer eitt einasta orð,<br/>
-Tôi đã đồng ý tất cả những điều đó, tuyệt vời và borð;<br/>
+Mjer allt synist hringsnúast, stólar og borð;<br/>
 Minn hattur er tyndur, og horfið mitt úr —<br/>
-Jeg đã tổ chức jeg sje kominn á sjoðandi túr!<br/>
-Æ dúli, æ dúli, a da-la-la-la-la! (bốn lần) <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+Jeg held jeg sje kominn á sjoðandi túr!<br/>
+Æ dúli, æ dúli, a da-la-la-la-la! (four times) <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 </p>
 </div>
 

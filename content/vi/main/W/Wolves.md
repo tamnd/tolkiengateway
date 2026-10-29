@@ -28,9 +28,9 @@ images:
   - "Quinton_Hoover_-_Orc-mounts.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Cái tên <b>sói</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Wolf_(disambiguation).md" title="Wolf (disambiguation)">Sói (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>wolf</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Wolf_(disambiguation).md" title="Wolf (disambiguation)">Wolf (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Andrea_Piparo_-_Wolves.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2a/Andrea_Piparo_-_Wolves.jpg/320px-Andrea_Piparo_-_Wolves.jpg" decoding="async" loading="lazy" width="320" height="352" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2a/Andrea_Piparo_-_Wolves.jpg/480px-Andrea_Piparo_-_Wolves.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2a/Andrea_Piparo_-_Wolves.jpg/640px-Andrea_Piparo_-_Wolves.jpg 2x" data-file-width="1308" data-file-height="1440"/></a><figcaption>&#34;Wolves&#34; by <a href="../A/Andrea_Piparo.md" title="Andrea Piparo">Andrea Piparo</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Nhân vật</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sói</span></th></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Andrea_Piparo_-_Wolves.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2a/Andrea_Piparo_-_Wolves.jpg/320px-Andrea_Piparo_-_Wolves.jpg" decoding="async" loading="lazy" width="320" height="352" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2a/Andrea_Piparo_-_Wolves.jpg/480px-Andrea_Piparo_-_Wolves.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2a/Andrea_Piparo_-_Wolves.jpg/640px-Andrea_Piparo_-_Wolves.jpg 2x" data-file-width="1308" data-file-height="1440"/></a><figcaption>&#34;Wolves&#34; by <a href="../A/Andrea_Piparo.md" title="Andrea Piparo">Andrea Piparo</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">People</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Wolves</span></th></tr></tbody></table>
 
 **Sói** là những động vật có thể được tìm thấy trong phạm vi [Trung Địa](../M/Middle-earth.md) ở cả ba thời đại.
 
@@ -40,7 +40,7 @@ images:
 
 Sói là đồng minh cũ của [Chúa tể Bóng tối](../D/Dark_Lord.md),<sup id="cite_ref-Fifth_1-0" class="reference"><a href="#cite_note-Fifth-1">[1]</a></sup> và thường được [Orc](../O/Orcs.md) sử dụng làm chiến mã.<sup id="cite_ref-Beren_2-0" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup> Sói, hoặc những sinh vật có hình dạng sói, lần đầu tiên đến [Beleriand](../B/Beleriand.md) vượt qua những con đèo hoặc xuyên qua những khu rừng tối cùng với những sinh vật sa ngã khác trong thời kỳ bị giam cầm thứ ba của [Melkor](../M/Morgoth.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Trong trận đấu tự sát của [Fingolfin](../F/Fingolfin.md) với [Morgoth](../M/Morgoth.md), thi thể của ông bị đập vỡ và ném cho những con sói lớn [Angband](../A/Angband.md), chỉ để [Thorondor](../T/Thorondor.md) mang thi thể đi chôn cất.<sup id="cite_ref-Fingolfin_4-0" class="reference"><a href="#cite_note-Fingolfin-4">[4]</a></sup> [Rochallor](../R/Rochallor.md) ở lại với Fingolfin cho đến khi chết. Ấy vậy mà khi bị bầy sói lớn tấn công, con chiến mã to lớn đã thoát chết ngay lập tức nhờ chạy nhanh hơn chúng và chỉ chết khi trái tim tan vỡ khi đến [Hithlum](../H/Hithlum.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong trận đấu tự sát của [Fingolfin](../F/Fingolfin.md) với [Morgoth](../M/Morgoth.md), thi thể của ông ta bị đập vỡ và ném cho những con sói lớn [Angband](../A/Angband.md), chỉ để [Thorondor](../T/Thorondor.md) mang thi thể đi chôn cất.<sup id="cite_ref-Fingolfin_4-0" class="reference"><a href="#cite_note-Fingolfin-4">[4]</a></sup> [Rochallor](../R/Rochallor.md) ở lại với Fingolfin cho đến khi chết. Ấy vậy mà khi bị bầy sói lớn tấn công, con chiến mã to lớn đã thoát chết ngay lập tức nhờ chạy nhanh hơn chúng và chỉ chết khi trái tim tan vỡ khi đến [Hithlum](../H/Hithlum.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Khi [Sauron](../S/Sauron.md) tiếp quản hòn đảo [Tol Sirion](../T/Tol_Sirion.md), ông đã xây dựng một tháp canh trên đó và đổi tên hòn đảo thành [Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md) và trở thành *"Lord of [Werewolves](Werewolves.md)"*.<sup id="cite_ref-Fingolfin_4-1" class="reference"><a href="#cite_note-Fingolfin-4">[4]</a></sup> Những người sói Angband này được lai tạo từ con sói lớn [Draugluin](../D/Draugluin.md). Trong đó, [Carcharoth](../C/Carcharoth.md) được cho là hậu duệ vĩ đại nhất của ông.<sup id="cite_ref-Beren_2-1" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup>
 
@@ -48,7 +48,7 @@ Khi [Gorlim](../G/Gorlim.md) bị lừa phản bội [Barahir](../B/Barahir.md),
 
 Khi Sauron phái nhiều con sói vào [Talath Dirnen](../T/Talath_Dirnen.md), [Celegorm](../C/Celegorm.md) và [Curufin](../C/Curufin.md) đã mang theo [những con chó săn sói](../H/Hounds.md), trong đó [Huan](../H/Huan.md) là thủ lĩnh của chúng, và săn lùng những con sói. Người ta nói rằng Huan sẽ chết khi chạm trán với [con sói vĩ đại nhất](../C/Carcharoth.md) đi ngang qua [Arda](../A/Arda.md).<sup id="cite_ref-Beren_2-3" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup>
 
-Khi Huan và [Lúthien](../L/Lúthien.md) tấn công tháp canh Sauron, họ gặp phải một đội quân sói Sauron được phái đến tấn công họ trên cầu từng con một trước khi cử chính [Draugluin](../D/Draugluin.md) đến, để rồi ông cũng bị giết bởi Huan. Sau khi chết, [Sauron](../S/Sauron.md) quyết định mang hình dạng [con sói mạnh nhất](Wolf-Sauron.md) để ứng nghiệm lời tiên tri về cái chết của Huan, nhưng thất bại và đầu hàng [Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md).<sup id="cite_ref-Beren_2-4" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup>
+Khi Huan và [Lúthien](../L/Lúthien.md) tấn công tháp canh Sauron, họ gặp phải một đội quân sói Sauron được phái đến tấn công họ trên cầu từng con một trước khi cử chính [Draugluin](../D/Draugluin.md) đến, để rồi ông ta cũng bị giết bởi Huan. Sau khi chết, [Sauron](../S/Sauron.md) quyết định mang hình dạng [con sói mạnh nhất](Wolf-Sauron.md) để ứng nghiệm lời tiên tri về cái chết của Huan, nhưng thất bại và đầu hàng [Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md).<sup id="cite_ref-Beren_2-4" class="reference"><a href="#cite_note-Beren-2">[2]</a></sup>
 
 Sói nằm trong số những sinh vật đã chiến đấu vì Morgoth trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), sau đó, chúng di chuyển tự do dọc theo Orc vào [Beleriand](../B/Beleriand.md) xa về phía nam tới tận [Nan-tathren](../N/Nan-tathren.md) và [Ossiriand](../O/Ossiriand.md).<sup id="cite_ref-Fifth_1-1" class="reference"><a href="#cite_note-Fifth-1">[1]</a></sup>
 
@@ -60,7 +60,7 @@ Sói nằm trong số lực lượng Morgoth từng tấn công thành phố [Go
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/Q/Quinton_Hoover_-_Orc-mounts.jpg.md"><img src="https://tolkiengateway.net/w/images/4/45/Quinton_Hoover_-_Orc-mounts.jpg" decoding="async" loading="lazy" width="298" height="253" class="mw-file-element" data-file-width="298" data-file-height="253"/></a><figcaption><a href="../Q/Quinton_Hoover.md" title="Quinton Hoover">Quinton Hoover</a> - <i>Orc-mounts</i></figcaption></figure>
 
-Trong [Thời kỳ Hòa bình Cảnh giác](Watchful_Peace.md), [Aragorn I](../A/Aragorn_I.md) cai trị với tư cách là [Thủ lĩnh thứ năm của Dúnedain](../C/Chieftain_of_the_Dúnedain.md) chỉ trong tám năm trước khi cuộc đời của ông bị cắt ngắn vào [T.A.](../T/Third_Age.md) [2327](../T/Third_Age_2327.md), khi ông bị sói hoang giết chết ở [Eriador](../E/Eriador.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Trong [Hòa bình thận trọng](Watchful_Peace.md), [Aragorn I](../A/Aragorn_I.md) cai trị với tư cách là [Thủ lĩnh thứ năm của Dúnedain](../C/Chieftain_of_the_Dúnedain.md) chỉ trong tám năm trước khi cuộc đời của ông bị cắt ngắn vào [T.A.](../T/Third_Age.md) [2327](../T/Third_Age_2327.md), khi ông bị sói hoang giết chết ở [Eriador](../E/Eriador.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 Sau khi [Gandalf](../G/Gandalf.md) trốn thoát [Isengard](../I/Isengard.md), [Saruman](../S/Saruman.md) cử sói và lũ Orc truy đuổi.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
@@ -87,7 +87,7 @@ Trong [The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md)
 - Có thể là sói ở vùng đồng bằng bên ngoài [Bloemfontein](../B/Bloemfontein.md).
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Chỉ cách những ngôi nhà [ở Bloemfontein] vài trăm thước là đồng cỏ rộng mở, nơi <b>sói, chó hoang</b> và chó rừng lang thang và đe dọa đàn gia súc, và là nơi sau khi trời tối, người cưỡi ngựa có thể bị sư tử cướp tấn công.
+<p>Only a few hundred yards beyond the houses [in Bloemfontein] was the open veldt where <b>wolves, wild dogs</b>, and jackals roamed and menaced the flocks, and where after dark a post-rider might be attacked by a marauding lion.
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -98,15 +98,15 @@ Tuy nhiên, không có loài sói nào có nguồn gốc từ Nam Phi.
 
 <b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)">The Lord of the Rings: The Fellowship of the Ring</a></i></b>
 
-<dl><dd><a href="../L/Lobelia_Sackville-Baggins.md" title="Lobelia Sackville-Baggins">Lobelia Sackville-Baggins</a> tin rằng có bầy sói trong Shire và yêu cầu <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a> thông báo cho <a class="mw-redirect" href="../S/Shirriff.md" title="Shirriff">Shirriff</a>, <a href="../R/Robin_Smallburrow.md" title="Robin Smallburrow">Robin Smallburrow</a> địa phương về điều đó bằng cách rung chuông thị trấn Bywater. Robin ban đầu bác bỏ lời cảnh báo của Lobelia và Frodo, nhưng điều này thay đổi khi anh bị một con sói trắng tấn công vào đêm hôm sau, và Frodo phải cứu ông. Người ta gặp nhiều sói hơn bên ngoài Bywater, sau đó ở <a href="../O/Old_Forest.md" title="Old Forest">Khu Rừng Cổ</a>, <a href="../B/Barrow-downs.md" title="Barrow-downs">Barrow-downs</a> và các đường phố của <a href="../B/Bree.md" title="Bree">Bree</a>.</dd></dl>
+<dl><dd><a href="../L/Lobelia_Sackville-Baggins.md" title="Lobelia Sackville-Baggins">Lobelia Sackville-Baggins</a> believes that wolves are in the Shire, and demands that <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a> alert the local <a class="mw-redirect" href="../S/Shirriff.md" title="Shirriff">Shirriff</a>, <a href="../R/Robin_Smallburrow.md" title="Robin Smallburrow">Robin Smallburrow</a> about it by ringing Bywater&#39;s town bell. Robin initially dismisses Lobelia and Frodo&#39;s warning, but this changes when he is attacked by a white wolf the following night, and Frodo must save him. More wolves are encountered outside Bywater, then in the <a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a>, the <a href="../B/Barrow-downs.md" title="Barrow-downs">Barrow-downs</a>, and the streets of <a href="../B/Bree.md" title="Bree">Bree</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Sói được tìm thấy ở hầu hết mọi vùng của Trung Địa. Thuật ngữ này đặc biệt áp dụng cho giống tiêu chuẩn, thường được tìm thấy ở trạng thái hoang dã, đôi khi được <a href="../R/Ruffians.md" title="Ruffians">những tên cướp</a> thuần hóa nhưng không bao giờ được cưỡi. <a href="Wargs.md" title="Wargs">Warg</a> có phân loại và ngoại hình riêng biệt, đồng thời là những sinh vật được <a href="../O/Orcs.md" title="Orcs">Orc và Goblin</a> sử dụng làm vật cưỡi.</dd></dl>
+<dl><dd>Wolves are found in nearly every region of Middle-earth. The term specifically applies to the standard variety, which are most often found wild, occasionally tamed by <a href="../R/Ruffians.md" title="Ruffians">brigands</a>, but never ridden. <a href="Wargs.md" title="Wargs">Wargs</a> have their own distinct classification and appearances, and are the creatures used as mounts by <a href="../O/Orcs.md" title="Orcs">Orcs and Goblins</a>.</dd></dl>
 
 <b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
 
-<dl><dd>Trong <a href="../A/A_Shadow_of_the_Past.md" title="A Shadow of the Past">tập đầu tiên</a> của mùa đầu tiên, <a href="../D/Dilly_Brandyfoot.md" title="Dilly Brandyfoot">Dilly Brandyfoot</a> phát hiện dấu vết của sói, khiến <a href="../E/Elanor_Brandyfoot.md" title="Elanor Brandyfoot">Elanor Brandyfoot</a> phát hiện một con sói trên đỉnh đồi và sau đó ra lệnh cho bọn trẻ <a href="../H/Harfoots.md" title="Harfoots">Harfoot</a> quay trở lại nơi ở hiện tại của cộng đồng. Trong <a href="../A/Adar_(episode).md" title="Adar (episode)">tập thứ ba</a>, trong bài phát biểu tưởng nhớ của <a href="../S/Sadoc_Burrows.md" title="Sadoc Burrows">Sadoc Burrows</a>, tiết lộ rằng một Harfoot, <a href="../D/Daffodil_Burrows.md" title="Daffodil Burrows">Daffodil Burrows</a>, đã bị sói giết và bắt đi trong một cuộc di cư trước đó.</dd></dl>
+<dl><dd>In the <a href="../A/A_Shadow_of_the_Past.md" title="A Shadow of the Past">first episode</a> of the first season, wolf-tracks are spotted by <a href="../D/Dilly_Brandyfoot.md" title="Dilly Brandyfoot">Dilly Brandyfoot</a>, causing <a href="../E/Elanor_Brandyfoot.md" title="Elanor Brandyfoot">Elanor Brandyfoot</a> to spot a wolf atop a hill and then order the <a href="../H/Harfoots.md" title="Harfoots">Harfoot</a> children back to the community&#39;s current dwelling place. In the <a href="../A/Adar_(episode).md" title="Adar (episode)">third episode</a>, it is revealed during <a href="../S/Sadoc_Burrows.md" title="Sadoc Burrows">Sadoc Burrows&#39;s</a> speech of remembrance that one Harfoot, <a href="../D/Daffodil_Burrows.md" title="Daffodil Burrows">Daffodil Burrows</a>, was killed and taken by wolves during a previous migration.</dd></dl>
 
 ## Xem thêm {#See_also}
 
@@ -156,15 +156,15 @@ Tuy nhiên, không có loài sói nào có nguồn gốc từ Nam Phi.
 
 <table style="margin:0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a class="mw-selflink selflink">Sói</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a class="mw-selflink selflink">Wolves</a></b>
 </td></tr>
 <tr>
-<th style="font-size: 90%;" align="right">Các cá nhân:
+<th style="font-size: 90%;" align="right">Individuals:
 </th>
-<td style="font-size: 90%;"><a href="../C/Carcharoth.md" title="Carcharoth">Carcharoth</a> · <a href="../D/Draugluin.md" title="Draugluin">Draugluin</a> · <a href="../C/Chief_wolf.md" title="Chief wolf">Sói trưởng</a> · <a href="../H/Hound_of_Sauron.md" title="Hound of Sauron">Chó săn Sauron</a> · (<a class="mw-redirect" href="Wolf-Sauron.md" title="Wolf-Sauron">Sói-Sauron</a>)
+<td style="font-size: 90%;"><a href="../C/Carcharoth.md" title="Carcharoth">Carcharoth</a> · <a href="../D/Draugluin.md" title="Draugluin">Draugluin</a> · <a href="../C/Chief_wolf.md" title="Chief wolf">Chief wolf</a> · <a href="../H/Hound_of_Sauron.md" title="Hound of Sauron">Hound of Sauron</a> · (<a class="mw-redirect" href="Wolf-Sauron.md" title="Wolf-Sauron">Wolf-Sauron</a>)
 </td></tr>
 <tr>
-<th style="font-size: 90%;" align="right">Chủng tộc:
+<th style="font-size: 90%;" align="right">Races:
 </th>
 <td style="font-size: 90%;"><a href="Wargs.md" title="Wargs">Wargs</a> · <a href="Werewolves.md" title="Werewolves">Werewolves</a> · <a href="White_Wolves.md" title="White Wolves">White Wolves</a>
 </td>

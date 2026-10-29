@@ -27,7 +27,7 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Dol_Baran.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Dol_Baran.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/49/The_Lord_of_the_Rings_Online_-_Dol_Baran.jpg/360px-The_Lord_of_the_Rings_Online_-_Dol_Baran.jpg" decoding="async" loading="lazy" width="360" height="203" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/49/The_Lord_of_the_Rings_Online_-_Dol_Baran.jpg/540px-The_Lord_of_the_Rings_Online_-_Dol_Baran.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/49/The_Lord_of_the_Rings_Online_-_Dol_Baran.jpg/720px-The_Lord_of_the_Rings_Online_-_Dol_Baran.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Như được mô tả trong <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Dol_Baran.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/49/The_Lord_of_the_Rings_Online_-_Dol_Baran.jpg/360px-The_Lord_of_the_Rings_Online_-_Dol_Baran.jpg" decoding="async" loading="lazy" width="360" height="203" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/49/The_Lord_of_the_Rings_Online_-_Dol_Baran.jpg/540px-The_Lord_of_the_Rings_Online_-_Dol_Baran.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/49/The_Lord_of_the_Rings_Online_-_Dol_Baran.jpg/720px-The_Lord_of_the_Rings_Online_-_Dol_Baran.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>As depicted in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
 **Dol Baran** là ngọn đồi cực nam cuối cùng của [Dãy Núi Sương Mù](../M/Misty_Mountains.md).<sup id="cite_ref-Palantir_1-0" class="reference"><a href="#cite_note-Palantir-1">[1]</a></sup>
 
@@ -45,9 +45,9 @@ Sau chuyến tham quan [Isengard](../I/Isengard.md), nhóm đi cùng Vua [Théod
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayals_in_Adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
 
-<dl><dd>Một địa danh trong khu vực Heathfells của <a href="../G/Gap_of_Rohan.md" title="Gap of Rohan">Gap of Rohan</a>, Dol Baran là nơi diễn ra cuộc giao tranh giữa lực lượng <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a> và <a href="Dunlendings.md" title="Dunlendings">Dunlending</a>.</dd></dl>
+<dl><dd>A landmark within the Heathfells area of the <a href="../G/Gap_of_Rohan.md" title="Gap of Rohan">Gap of Rohan</a>, Dol Baran is a site of skirmish between <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a> and <a href="Dunlendings.md" title="Dunlendings">Dunlending</a> forces.</dd></dl>
 
 <span></span>
 

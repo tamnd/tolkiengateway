@@ -51,6 +51,6 @@ Trong *[Etymologies](../T/The_Etymologies.md)* cũng xuất hiện từ gốc **
 <td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>The <a href="../S/Sundocarme.md" title="Sundocarme">Sundocarme</a> &#34;Shine&#34; Group</b>
 </td></tr>
 <tr>
-<td style="font-size: 90%;"> <b><a href="KAL.md" title="KAL">GAL/KAL</a></b> ("tỏa sáng") · <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=GIL&amp;action=edit&amp;redlink=1" title="GIL (page does not exist)">GIL</a></b> ("tỏa sáng") · <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=RIL&amp;action=edit&amp;redlink=1" title="RIL (page does not exist)">RIL</a></b> ("long lanh") · <b><a href="../S/SIL~59984.md" title="SIL">SIL/THIL</a></b> ("bạc sáng bóng") · <b><a class="mw-selflink selflink">GUL/KUL</a></b> ("vàng sáng hoặc đỏ")
+<td style="font-size: 90%;"> <b><a href="KAL.md" title="KAL">GAL/KAL</a></b> (&#34;shine&#34;) · <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=GIL&amp;action=edit&amp;redlink=1" title="GIL (page does not exist)">GIL</a></b> (&#34;shine&#34;) · <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=RIL&amp;action=edit&amp;redlink=1" title="RIL (page does not exist)">RIL</a></b> (&#34;glitter&#34;) · <b><a href="../S/SIL~59984.md" title="SIL">SIL/THIL</a></b> (&#34;shine silver&#34;) · <b><a class="mw-selflink selflink">GUL/KUL</a></b> (&#34;shine gold or red&#34;)
 </td></tr>
 </tbody></table>

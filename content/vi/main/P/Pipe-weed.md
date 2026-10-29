@@ -32,7 +32,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_TS_Greeting_Card_-_Pipe-weed.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/24/Kay_Woollard_-_TS_Greeting_Card_-_Pipe-weed.jpg/300px-Kay_Woollard_-_TS_Greeting_Card_-_Pipe-weed.jpg" decoding="async" loading="lazy" width="300" height="438" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/24/Kay_Woollard_-_TS_Greeting_Card_-_Pipe-weed.jpg/450px-Kay_Woollard_-_TS_Greeting_Card_-_Pipe-weed.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/24/Kay_Woollard_-_TS_Greeting_Card_-_Pipe-weed.jpg/600px-Kay_Woollard_-_TS_Greeting_Card_-_Pipe-weed.jpg 2x" data-file-width="2102" data-file-height="3069"/></a><figcaption><i>Pipe-weed</i> by <a href="../K/Kay_Woollard.md" title="Kay Woollard">Kay Woollard</a></figcaption></figure>
 
-**Thuốc lá** (còn được gọi là Lá của Halflings hay đơn giản là Lá) là một loại cây được trồng trọt đáng chú ý nhất bởi [Hobbit](../H/Hobbits.md) của [ Shire](../T/The_Shire.md).
+**Cỏ ống** (còn được gọi là Lá của Halflings hay đơn giản là Lá) là một loại cây được trồng trọt đáng chú ý nhất bởi [Hobbit](../H/Hobbits.md) của [ Shire](../T/The_Shire.md).
 
 ## Thuộc tính {#Properties}
 
@@ -44,7 +44,7 @@ Loại cây này có lẽ có nguồn gốc ở [Númenor](../N/Númenor.md) và
 
 Cần sa đã đạt đến [Eriador](../E/Eriador.md) khoảng [Greenway](../G/Greenway.md) vào khoảng [Kỷ Đệ Tam](../T/Third_Age.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Bree-hobbit](../B/Bree-hobbits.md) có thể là những người đầu tiên bỏ nó vào tẩu và sử dụng để [hút thuốc](../S/Smoking.md), nhưng loại cỏ tẩu "thật sự" đầu tiên được trồng bởi [Tobold Hornbutter](../T/Tobold_Hornblower.md) của [Longbottom](../L/Longbottom.md) ở vùng [Southfarthing](../S/Southfarthing.md) xung quanh [S.R.](../S/Shire_Reckoning.md) [1070](../T/Third_Age_2670.md). Nghệ thuật hút cần sa lan rộng từ [Bree](../B/Bree.md) đến [Con Người](../M/Men.md), [Người Lùn](../D/Dwarves.md) và những người lang thang qua ngã tư Bree. [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) do đó được coi *[The Prancing Pony](../T/The_Prancing_Pony.md)* là "ngôi nhà và trung tâm" của nghệ thuật hút thuốc.<sup id="cite_ref-pipeweed_1-2" class="reference"><a href="#cite_note-pipeweed-1">[1]</a></sup>
 
-[Pháp sư](../W/Wizards.md) [Gandalf](../G/Gandalf.md) đã học cách hút cần sa từ Hobbit và người ta thường thấy thổi vòng khói.<sup id="cite_ref-pipeweed_1-3" class="reference"><a href="#cite_note-pipeweed-1">[1]</a></sup> [Saruman](../S/Saruman.md) ban đầu chế nhạo ông về điều này, nhưng đến một lúc nào đó ông đã tự hút thuốc và thậm chí còn buôn bán với Shire; sau khi [Isengard](../I/Isengard.md) bị phá hủy, cần sa đã được tìm thấy trong các cửa hàng của nó, nhưng Hobbit [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](Peregrin_Took.md) đã không nhận ra [những tác động nham hiểm](../S/Sharkey.md).
+[Pháp sư](../W/Wizards.md) [Gandalf](../G/Gandalf.md) đã học cách hút cần sa từ Hobbit và người ta thường thấy thổi vòng khói.<sup id="cite_ref-pipeweed_1-3" class="reference"><a href="#cite_note-pipeweed-1">[1]</a></sup> [Saruman](../S/Saruman.md) ban đầu chế nhạo ông ta về điều này, nhưng đến một lúc nào đó ông ta đã tự hút thuốc và thậm chí còn buôn bán với Shire; sau khi [Isengard](../I/Isengard.md) bị phá hủy, cần sa đã được tìm thấy trong các cửa hàng của nó, nhưng Hobbit [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](Peregrin_Took.md) đã không nhận ra [những tác động nham hiểm](../S/Sharkey.md).
 
 Việc trồng và xuất khẩu loại dược liệu này đã trở thành ngành công nghiệp mũi nhọn ở Shire, đặc biệt là ở miền Nam. Các loại cỏ ống phổ biến từ Shire bao gồm [Lá đáy dài](../L/Longbottom_Leaf.md), [Old Toby](../O/Old_Toby.md) và [Sao phương Nam](../S/Southern_Star.md).<sup id="cite_ref-pipeweed_1-4" class="reference"><a href="#cite_note-pipeweed-1">[1]</a></sup> Có lẽ ít phổ biến hơn là [Southlinch](../S/Southlinch.md) từ Bree.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
@@ -62,13 +62,13 @@ Tên phổ biến Gondor của pipe-weed là <b><u><i>westmansweed</i></u></b>.<
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/I/Item-Sweet_Galenas.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/db/Item-Sweet_Galenas.jpg/250px-Item-Sweet_Galenas.jpg" decoding="async" loading="lazy" width="250" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/db/Item-Sweet_Galenas.jpg/375px-Item-Sweet_Galenas.jpg 1.5x, https://tolkiengateway.net/w/images/d/db/Item-Sweet_Galenas.jpg 2x" data-file-width="400" data-file-height="400"/></a><figcaption>Sweet Galenas in <a href="../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">The Lord of the Rings Online: Shadows of Angmar</a></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Khói từ Sweet Galenas có hình dạng một chiếc thuyền buồm bay ra từ đường ống.</dd></dl>
+<dl><dd>The smoke from Sweet Galenas takes the form of a sailing ship that floats out from the pipe.</dd></dl>
 
 <b>2014: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a> (Phiên bản trò chơi của năm)</i>:</b>
 
-<dl><dd>Cây được sử dụng để chữa bệnh cho Tallion, cũng như các loại cây khác.</dd></dl>
+<dl><dd>The plant is used for healing Tallion, as well as other plants.</dd></dl>
 
 <span></span>
 

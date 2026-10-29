@@ -40,7 +40,7 @@ infobox:
     value: "Profile"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Cate_Blanchett.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1b/Cate_Blanchett.jpg/320px-Cate_Blanchett.jpg" decoding="async" loading="lazy" width="320" height="409" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1b/Cate_Blanchett.jpg/480px-Cate_Blanchett.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1b/Cate_Blanchett.jpg/640px-Cate_Blanchett.jpg 2x" data-file-width="700" data-file-height="894"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Cate Blanchett</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh–mất</th><td class="tg-infobox-data"><a href="../_/14_May.md" title="14 May">May 14</a>, <a href="../_/1969.md" title="1969">1969</a></td></tr><tr><th scope="row" class="tg-infobox-label">Do ... thủ vai</th><td class="tg-infobox-data"><a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> trong:<br/><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a><br/><a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0000949/" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Cate_Blanchett.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1b/Cate_Blanchett.jpg/320px-Cate_Blanchett.jpg" decoding="async" loading="lazy" width="320" height="409" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1b/Cate_Blanchett.jpg/480px-Cate_Blanchett.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1b/Cate_Blanchett.jpg/640px-Cate_Blanchett.jpg 2x" data-file-width="700" data-file-height="894"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Cate Blanchett</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/14_May.md" title="14 May">May 14</a>, <a href="../_/1969.md" title="1969">1969</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> in:<br/><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a><br/><a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (film series)</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0000949/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
 **Catherine Élise "Cate" Blanchett** (sinh năm 1969) đã đóng [Galadriel](../G/Galadriel.md) trong cả [*The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit* loạt phim](<../T/The_Hobbit_(film_series).md>).
 
@@ -56,21 +56,21 @@ infobox:
 ## Trích dẫn {#Quotes}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tôi thực sự mong chờ nó, bởi vì về mặt kỹ thuật, đây không phải là lãnh thổ mà tôi từng bước chân vào.
+<p>I&#39;m really looking forward to it, because it&#39;s not a territory I&#39;ve ever stepped into before technically.
 </p>
 <p class="tg-quote-footer"><cite>Cate Blanchett, Vogue Magazine</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Về cơ bản tôi đã làm điều đó để tôi có thể có được đôi tai. Chúng thật ngọt ngào, bởi vì chúng thực sự đã tạo ra những chiếc tai nhỏ bằng đồng đúc cho tôi. Tôi yêu tất cả những thứ đó
+<p>I basically did it so I could have the ears. They were so sweet, because they actually made little bronze castings of my ears. I loved all of that stuff
 </p>
 <p class="tg-quote-footer"><cite>Cate Blanchett, DarkHorizons.com</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Bà đang trao ngọn đuốc cho Con Người, cho loài người. Tôi nghĩ theo nhiều cách, bà đang thách thức người xem nói, 'Bạn định làm gì với Trung Địa? Bạn định làm gì với Trung Địa?'
+<p>She&#39;s handing on the torch to Men, to humankind. I think in a lot of ways she&#39;s challenging the viewers to say, &#39;What are you gonna do with Middle-earth? What are you gonna do with Middle-earth?&#39;
 </p>
-<p class="tg-quote-footer"><cite>Cate Blanchett về Galadriel, Lordoftherings.net</cite></p>
+<p class="tg-quote-footer"><cite>Cate Blanchett about Galadriel, lordoftherings.net</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Giải thưởng {#Awards}

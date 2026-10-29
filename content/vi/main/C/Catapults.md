@@ -24,8 +24,8 @@ Trong [cuộc vây hãm Minas Tirith](../S/Siege_of_Gondor.md) <a class="new" hr
 
 <b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
-<dl><dd>Máy chủ Morgul sử dụng máy phóng, được vận hành bởi <a href="../O/Orcs.md" title="Orcs">Orc</a> và <a href="../T/Trolls.md" title="Trolls">Troll</a>. Họ phóng cả những cái đầu bị cắt rời của binh lính Gondor và tên lửa rực lửa (như trong sách), nhưng cũng có cả tên lửa bằng đá, có khả năng phá hủy các bức tường của Minas Tirith.</dd>
-<dd>người Gondor sử dụng <a class="external text" href="https://en.wikipedia.org/wiki/Trebuchet" rel="noreferrer noopener" target="_blank">máy bắn đá</a> để phóng những mảnh tường vỡ thay vì tên lửa chuyên dụng. Chúng được sử dụng thành công để phá hủy một số tháp bao vây của kẻ thù.</dd></dl>
+<dl><dd>The Morgul-host uses catapults, operated by <a href="../O/Orcs.md" title="Orcs">Orcs</a> and <a href="../T/Trolls.md" title="Trolls">Trolls</a>. They launch both severed heads of Gondorian soldiers and flaming missiles (as in the book), but also stone missiles, able to damage the walls of Minas Tirith.</dd>
+<dd>Gondorians use <a class="external text" href="https://en.wikipedia.org/wiki/Trebuchet" rel="noreferrer noopener" target="_blank">trebuchets</a>, which launch pieces of broken walls instead of dedicated missiles. They are used successfully to destroy several siege towers of the enemy.</dd></dl>
 
 <span></span>
 

@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bảo hiểm bổ sung cho Trò chơi nhập vai The One Ring, Ấn bản đầu tiên
+Bảo hiểm bổ sung cho Trò chơi nhập vai The One Ring, Phiên bản đầu tiên
 
 ## Giấy phép {#Licensing}
 

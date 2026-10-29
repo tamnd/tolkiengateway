@@ -22,13 +22,13 @@ langlinks:
 
 ## Lịch sử {#History}
 
-Vào [4 tháng 3](../_/4_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) trong [Trận Hornburg](../B/Battle_of_the_Hornburg.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> khi [Orc](../O/Orcs.md) xâm nhập được [Tường thành Deeping](../D/Deeping_Wall.md), [Gamling](../G/Gamling.md) đã kêu lên, "Helm! Helm! Forth Helmingas! " để tập hợp Rohirrim người bảo vệ [Hornburg](Hornburg.md) để đẩy lùi quân quân xâm lược.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào [4 tháng 3](../_/4_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) trong [Trận Hornburg](../B/Battle_of_the_Hornburg.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> khi [Orc](../O/Orcs.md) xâm nhập được [Bức tường sâu](../D/Deeping_Wall.md), [Gamling](../G/Gamling.md) đã kêu lên, "Helm! Helm! Forth Helmingas! " để tập hợp Rohirrim người bảo vệ [Hornburg](Hornburg.md) để đẩy lùi quân quân xâm lược.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 *Helmingas* là tên trong ngôn ngữ của Rohan, được biểu thị bằng [tiếng Anh cổ](../O/Old_English.md). Nó bao gồm *[Helm](Helm.md#Etymology)* và *[-ingas](../_/-ings.md)* ("người").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Helmingas chỉ xuất hiện một lần trong văn bản do Gamling nói và khi ông xuất hiện, [Westfold-men](../W/Westfold-men.md) sẽ tụ tập cùng ông. Mục lục của [Phiên bản kỷ niệm 50 năm của *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>) (được chỉnh sửa bởi [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md)) dường như hiểu Helmingas và Westfold-men là đồng nghĩa và kết nối cả hai. <span></span>
+Helmingas chỉ xuất hiện một lần trong văn bản do Gamling nói và khi ông ta xuất hiện, [Westfold-men](../W/Westfold-men.md) sẽ tụ tập cùng ông ta. Mục lục của [Phiên bản kỷ niệm 50 năm của *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>) (được chỉnh sửa bởi [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md)) dường như hiểu Helmingas và Westfold-men là đồng nghĩa và kết nối cả hai. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -36,7 +36,7 @@ Thỉnh thoảng chúng tôi cùng nhau chơi boardgame với những thành vi�
 
 Peter đương nhiên có mối quan hệ sâu sắc với [Người Lùn](../../main/D/Dwarves.md), do đó có rất nhiều bức vẽ về chúng của [Kay Woollard](../../main/K/Kay_Woollard.md) được trưng bày trên tường của mình. Sinh nhật của họ vào đầu tháng 7 khá gần nhau và chúng tôi thường tổ chức chúng cùng nhau.
 
-Peter chưa bao giờ hồi phục sau cuộc tấn công mà anh phải chịu đựng trên đường phố Manchester vào ban đêm vào cuối những năm 1990. Ông bị một vết thương nặng ở đầu và không bao giờ có thể làm việc được nữa. Nó ảnh hưởng đến anh không chỉ về thể chất mà còn về tinh thần. Bản chất vốn đã khá khắc nghiệt, sau đó ông trở nên thực sự nghiêm khắc. Như một hậu quả khác của những gì đã xảy ra với ông, sau đó ông có quan hệ khác với thế giới và có một số quan điểm cấp tiến, nhưng chúng tôi vẫn yêu quý ông.
+Peter chưa bao giờ hồi phục sau cuộc tấn công mà anh phải chịu đựng trên đường phố Manchester vào ban đêm vào cuối những năm 1990. Ông ta bị một vết thương nặng ở đầu và không bao giờ có thể làm việc được nữa. Nó ảnh hưởng đến anh không chỉ về thể chất mà còn về tinh thần. Bản chất vốn đã khá khắc nghiệt, sau đó ông trở nên thực sự nghiêm khắc. Như một hậu quả khác của những gì đã xảy ra với ông, sau đó ông có quan hệ khác với thế giới và có một số quan điểm cấp tiến, nhưng chúng tôi vẫn yêu quý ông.
 
 Tôi tin rằng sự kiện bị tấn công đã khiến ông mắc chứng Rối loạn căng thẳng sau chấn thương tâm lý, do đó chứng sợ khoảng rộng của ông. Sau cuộc tấn công, Peter bắt đầu uống rượu khá nặng. Tôi nhớ ông đã một mình uống cạn chai rượu mà ông đã mang đến một cuộc họp vui vẻ, điều mà trước đây ông chưa bao giờ làm. Trong những ngày cuối đời, do thận bị ảnh hưởng nên ông đã ngừng uống rượu và chỉ uống trà.
 
@@ -46,7 +46,7 @@ Niềm tự hào và niềm vui của Peter là những chú chó mà ông mang 
 
 Dù bản chất có vẻ nghiêm nghị nhưng Peter lại tươi tỉnh hơn mỗi khi nói về Tolkien. Ông đã viết một số bài thơ (tất nhiên là về Người Lùn) và một câu chuyện, nhưng tôi không có bản sao của chúng.
 
-Peter qua đời không rõ nguyên nhân vào năm 2017. Sau khi ông qua đời, bộ sưu tập Người Lùn tranh của ông đã biến mất và tôi không biết chúng ở đâu. Tôi đã hỏi người thừa kế của ông, anh trai ông, liệu chúng tôi có thể mua chúng của ông không, nhưng không bao giờ nhận được câu trả lời.
+Peter qua đời không rõ nguyên nhân vào năm 2017. Sau khi ông qua đời, bộ sưu tập Người lùn tranh của ông đã biến mất và tôi không biết chúng ở đâu. Tôi đã hỏi người thừa kế của ông, anh trai ông, liệu chúng tôi có thể mua chúng của ông không, nhưng không bao giờ nhận được câu trả lời.
 
 Nếu bạn muốn thêm lời tri ân cá nhân của mình đến Peter, hãy gửi chúng cho tôi và tôi sẽ thêm chúng.
 

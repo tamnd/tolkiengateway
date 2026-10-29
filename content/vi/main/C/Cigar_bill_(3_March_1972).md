@@ -21,7 +21,7 @@ images:
 
 ## Từ cuộc đấu giá {#From_the_auction}
 
-Phiếu tự đánh giá có chữ ký đã ký ("JRRTolkien"): "Hoàn toàn chính xác, & tôi xin lỗi vì đã bỏ qua giữa nhiều rắc rối", được viết bằng bút bi màu đỏ trên hóa đơn nộp cho ông cho một pound thuốc lá Capstan trong hộp thiếc hai ounce, giá 82 xu một hộp có tổng trị giá £6,50, được gửi tới "Mr J.R.R. Tolkien c/o: Miramar Hotel Bournemouth" trên tờ giấy đứng đầu của Southern Cigar Co. ở 40 The Parade, Canford Cliffs, Poole, và được ký bởi chủ sở hữu, W.B. Crouch; với phong bì manila màu nâu có chữ ký, một trang, lỗ đựng hồ sơ, 8vo, ngày 3 tháng 3 năm 1972. \[...\] Tolkien bản thân ông, như dự luật hiện tại xác nhận, thích Capstan Medium Navy Cut.<sup id="cite_ref-Bonhams_1-1" class="reference"><a href="#cite_note-Bonhams-1">[1]</a></sup>
+Phiếu tự đánh giá có chữ ký đã ký ("JRRTolkien"): "Hoàn toàn chính xác, & tôi xin lỗi vì đã bỏ qua giữa nhiều rắc rối", được viết bằng bút bi màu đỏ trên hóa đơn nộp cho ông ta cho một pound thuốc lá Capstan trong hộp thiếc hai ounce, giá 82 xu một hộp có tổng trị giá £6,50, được gửi tới "Mr J.R.R. Tolkien c/o: Miramar Hotel Bournemouth" trên tờ giấy đứng đầu của Southern Cigar Co. ở 40 The Parade, Canford Cliffs, Poole, và được ký bởi chủ sở hữu, W.B. Crouch; với phong bì manila màu nâu có chữ ký, một trang, lỗ đựng hồ sơ, 8vo, ngày 3 tháng 3 năm 1972. \[...\] Tolkien bản thân ông, như dự luật hiện tại xác nhận, thích Capstan Medium Navy Cut.<sup id="cite_ref-Bonhams_1-1" class="reference"><a href="#cite_note-Bonhams-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

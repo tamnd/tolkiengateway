@@ -35,7 +35,7 @@ Trong Shire địa lý được sử dụng theo nghĩa gốc là "phần thứ 
 
 Bốn Farthing của Shire dựa trên ba Cưỡi truyền thống (từ tiếng Anh cổ *thridings*) của <a class="extiw" href="http://en.wikipedia.org/wiki/Yorkshire" title="wikipedia:Yorkshire">Yorkshire</a>, trước đây được sử dụng làm đơn vị hành chính của quận (<a class="extiw" href="http://en.wikipedia.org/wiki/North_Riding_of_Yorkshire" title="wikipedia:North Riding of Yorkshire">Cưỡi phía Bắc</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/West_Riding_of_Yorkshire" title="wikipedia:West Riding of Yorkshire">Phương Tây Cưỡi</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/East_Riding_of_Yorkshire" title="wikipedia:East Riding of Yorkshire">phương Đông Cưỡi ngựa</a>).<sup id="cite_ref-Nomen_4-2" class="reference"><a href="#cite_note-Nomen-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-"Farthing" đã được sử dụng ở Gloucestershire. Tolkien không đề cập đến điều này trong *[Nomenclature](../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md)*, nhưng có vẻ như ông đã biết đến sự tồn tại của nó vì vợ ông [Edith Bratt](../E/Edith_Tolkien.md) sinh ra ở Gloucestershire.
+"Farthing" đã được sử dụng ở Gloucestershire. Tolkien không đề cập đến điều này trong *[Nomenclature](../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md)*, nhưng có vẻ như ông ta đã biết đến sự tồn tại của nó vì vợ ông ta [Edith Bratt](../E/Edith_Tolkien.md) sinh ra ở Gloucestershire.
 
 <span></span>
 

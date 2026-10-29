@@ -80,7 +80,7 @@ sort_keys:
 [2012-07-01 20:23:01] &lt;Morgan&gt; How do you mean?<br/>
 [2012-07-01 20:23:19] &lt;KingAragorn&gt; It&#39;s a slightly separate issue<br/>
 [2012-07-01 20:23:42] &lt;KingAragorn&gt; Do we delete the images of artists we can&#39;t contact?<br/>
-[2012-07-01 20:25:02] &lt;Gamling&gt; If we take an image from a RPG it&#39;s like taking a still shot from a movie. We have post several pics from Peter Jackson&#39;s films - did we need and get permission to post these?<br/>
+[2012-07-01 20:25:02] &lt;Gamling&gt; If we take an image from a RPG it&#39;s like taking a still shot from a movie.  We have post several pics from Peter Jackson&#39;s films - did we need and get permission to post these?<br/>
 [2012-07-01 20:25:31] &lt;ederchil&gt; Fair use?<br/>
 [2012-07-01 20:25:32] &lt;KingAragorn&gt; I doubt that we will be able to get permission from the films<br/>
 [2012-07-01 20:25:34] &lt;Morgan&gt; The question is if it&#39;s fair use to reproduce images from games in articles which feature &#34;critical discussion about the game&#34; (or how we stateit on TG)<br/>
@@ -106,7 +106,7 @@ sort_keys:
 [2012-07-01 20:31:25] &lt;Morgan&gt; :) I agree<br/>
 [2012-07-01 20:31:34] &lt;Mith&gt; I actually like his work.<br/>
 [2012-07-01 20:31:48] &lt;Mith&gt; But personal life/dislike is irrelevant. We need to establish a principle.<br/>
-[2012-07-01 20:32:27] &lt;KingAragorn&gt; We can&#39;t just throw a fair-use template on things<br/>
+[2012-07-01 20:32:27] &lt;KingAragorn&gt; We can&#39;t just throw  a fair-use template on things<br/>
 [2012-07-01 20:32:36] &lt;Mith&gt; Not on artwork, certainly not.<br/>
 [2012-07-01 20:33:45] &lt;KingAragorn&gt; So what should we do?<br/>
 [2012-07-01 20:34:29] &lt;Mith&gt; If, within 3 months, an artist doesn&#39;t respond, delete their artwork.<br/>
@@ -127,7 +127,7 @@ sort_keys:
 [2012-07-01 20:39:58] &lt;Morgan&gt; Isn&#39;t this valid for photographs too?<br/>
 [2012-07-01 20:40:04] &lt;KingAragorn&gt; We have 285 different artists and only a fraction have been contacted<br/>
 [2012-07-01 20:41:12] &lt;Gamling&gt; If an artist doesn&#39;t contact us does that imply no consent or does it imply &#34;I don&#39;t care as long as you aren&#39;t making a profit from my work&#34;?  If the latter, would it be alright to keep using the artwork unless they object?<br/>
-[2012-07-01 20:41:19] &lt;KingAragorn&gt; Of the major artists we have permission from Alan Lee, John Howe, Ted Nasmith, and Jef Murray<br/>
+[2012-07-01 20:41:19] &lt;KingAragorn&gt; Of the major artists we  have permission from Alan Lee, John Howe, Ted Nasmith, and Jef Murray<br/>
 [2012-07-01 20:41:41] &lt;KingAragorn&gt; We can&#39;t assume what their intent is<br/>
 [2012-07-01 20:43:11] &lt;Mith&gt; Yeah, the problem isn&#39;t that big artists are ignoring us. It&#39;s that little artists don&#39;t reply to their emails<br/>
 [2012-07-01 20:43:44] &lt;KingAragorn&gt; Gamling, I have thought about your point before but, if we accept that, what would be the point in contacting people at all?<br/>
@@ -140,7 +140,7 @@ sort_keys:
 [2012-07-01 20:47:42] &lt;KingAragorn&gt; Does the artists hold the copyright, or ICE?<br/>
 [2012-07-01 20:47:50] &lt;ederchil&gt; I think ICE<br/>
 [2012-07-01 20:47:56] &lt;ederchil&gt; *I&#39;d<br/>
-[2012-07-01 20:48:15] &lt;Gamling&gt; If we show that we&#39;ve diligently tried to contact all artists then it shows good faith in using permitted images and removing nonpermitted ones. Then, if an artist objects and we promptly remove that artist&#39;s work it shows our willingness to comply with all artists&#39; wishes. Would this be a tenable legal position?<br/>
+[2012-07-01 20:48:15] &lt;Gamling&gt; If we show that we&#39;ve diligently tried to contact all artists then it shows good faith in using permitted images and removing nonpermitted ones.  Then, if an artist objects and we promptly remove that artist&#39;s work it shows our willingness to comply with all artists&#39; wishes.  Would this be a tenable legal position?<br/>
 [2012-07-01 20:49:27] &lt;KingAragorn&gt; I&#39;m not sure<br/>
 [2012-07-01 20:49:51] &lt;Gamling&gt; I just dislike the idea of erasing a lot of images if the artists don&#39;t care.<br/>
 [2012-07-01 20:49:59] &lt;KingAragorn&gt; The only legal way that we can use other people&#39;s work is through fair-use <br/>
@@ -158,7 +158,7 @@ sort_keys:
 [2012-07-01 20:55:21] &lt;Mith&gt; I think we need to put the idea that we stick &#34;fair-use&#34; on artwork completely out of our minds.<br/>
 [2012-07-01 20:55:40] &lt;Mith&gt; We either have permission, or we don&#39;t. The question here is what we do when don&#39;t.<br/>
 [2012-07-01 20:57:18] &lt;KingAragorn&gt; Yes<br/>
-[2012-07-01 20:57:34] &lt;Gamling&gt; Sounds like we better just use images for which we have permission. I guess I better start practicing my artistic skills.<br/>
+[2012-07-01 20:57:34] &lt;Gamling&gt; Sounds like we better just use images for which we have permission.  I guess I better start practicing my artistic skills.<br/>
 [2012-07-01 20:57:44] &lt;KingAragorn&gt; I think we should now all understand the issues involved<br/>
 [2012-07-01 20:58:09] &lt;KingAragorn&gt; Gamling, we should have a TG drawing contest!<br/>
 [2012-07-01 20:58:13] &lt;Mith&gt; Well, actually, I don&#39;t see too much disappearing. As you can see from the list only one artist has not answered me (Felix)<br/>
@@ -188,7 +188,7 @@ sort_keys:
 [2012-07-01 21:07:57] &lt;Mith&gt; For years I have complained about it<br/>
 [2012-07-01 21:08:04] &lt;KingAragorn&gt; (Ederchil, I&#39;ve given you permission to edit the spreadsheet)<br/>
 [2012-07-01 21:09:01] &lt;KingAragorn&gt; I support what was agreed at the last meeting<br/>
-[2012-07-01 21:09:06] &lt;Gamling&gt; The scale template is not often used and seems confusing. I would agree to have it removed.<br/>
+[2012-07-01 21:09:06] &lt;Gamling&gt; The scale template is not often used and seems confusing.  I would agree to have it removed.<br/>
 [2012-07-01 21:09:28] &lt;Mith&gt; I&#39;m not really sure what we need to discuss<br/>
 [2012-07-01 21:09:40] &lt;Mith&gt; In the last meeting didn&#39;t every agree with me? ( :D )<br/>
 [2012-07-01 21:10:11] &lt;Morgan&gt; So everyone is okay with removing any kind of template indicating canoncial status from articles?<br/>
@@ -227,7 +227,7 @@ sort_keys:
 [2012-07-01 21:18:02] &lt;KingAragorn&gt; The motion carries nonetheless<br/>
 [2012-07-01 21:18:32] &lt;KingAragorn&gt; Next is me with &#34;	How can we get more traffic to TG? How can we get more editors on TG? We need a long strategy and one which will address the likely increase in traffic following the release of the films. &#34;<br/>
 [2012-07-01 21:20:27] * Mith watches the tumbleweed.<br/>
-[2012-07-01 21:20:39] &lt;Gamling&gt; I just looked up &#34;Tolkien wiki&#34; on Google and we were 10th on the list. Is there some way we can bump up our visibility?<br/>
+[2012-07-01 21:20:39] &lt;Gamling&gt; I just looked up &#34;Tolkien wiki&#34; on Google and we were 10th on the list.  Is there some way we can bump up our visibility?<br/>
 [2012-07-01 21:21:19] &lt;Mith&gt; If you do a search for Tolkien we are also tenth. I remember when we were 50th<br/>
 [2012-07-01 21:22:12] &lt;KingAragorn&gt; As an admin on LOTR Wikia I changed its title so it was &#34;Lord of the Rings Wiki&#34; and to remove the word &#34;Tolkien&#34;. It has not hindered its rankings, sadly.<br/>
 [2012-07-01 21:22:20] &lt;KingAragorn&gt; *and removed<br/>
@@ -271,7 +271,7 @@ sort_keys:
 [2012-07-01 21:35:29] &lt;Hyarion&gt; wow, so we decided to remove all images from people we can&#39;t contact? (apologies for being behind)<br/>
 [2012-07-01 21:36:45] &lt;Morgan&gt; Yes<br/>
 [2012-07-01 21:36:51] &lt;Mith&gt; When the TS website is redesigned I can certainly try to put TG on there. And on my new radio show I will try to remember to give TG a plug<br/>
-[2012-07-01 21:37:09] &lt;Gamling&gt; But EoA has far fewer articles than us. Maybe their page looks snazzier?<br/>
+[2012-07-01 21:37:09] &lt;Gamling&gt; But EoA has far fewer articles than us.  Maybe their page looks snazzier?<br/>
 [2012-07-01 21:37:13] &lt;KingAragorn&gt; That would be fantastic<br/>
 [2012-07-01 21:37:21] &lt;Mith&gt; I do think there is a skin issue.<br/>
 [2012-07-01 21:37:41] &lt;Mith&gt; For a long time I have said &#34;I will make a new one&#34; and it&#39;s not yet happened.<br/>
@@ -364,7 +364,7 @@ sort_keys:
 [2012-07-01 22:02:04] --&gt;| Hyarion (Hyarion@18E4579.53AF8E46.2E0DF218.IP) has joined #Wiki<br/>
 [2012-07-01 22:02:21] &lt;KingAragorn&gt; Good layout, but it needs some more colour.<br/>
 [2012-07-01 22:02:47] &lt;Mith&gt; I like the footer too<br/>
-[2012-07-01 22:03:08] &lt;Gamling&gt; When I started writing for TG I had to look at a lot of articles to get a feel for how to be an editor. Having a TG-how page might encourage more to editing.<br/>
+[2012-07-01 22:03:08] &lt;Gamling&gt; When I started writing for TG I had to look at a lot of articles to get a feel for how to be an editor.  Having a TG-how page might encourage more to editing.<br/>
 [2012-07-01 22:03:19] &lt;KingAragorn&gt; Yeah<br/>
 [2012-07-01 22:03:35] &lt;KingAragorn&gt; The help pages could be much more useful to new users<br/>
 [2012-07-01 22:03:43] &lt;ederchil&gt; Redesign the Help pages?<br/>

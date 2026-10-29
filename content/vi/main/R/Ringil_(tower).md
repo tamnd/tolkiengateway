@@ -16,13 +16,13 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Ringil</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Ringil_(disambiguation).md" title="Ringil (disambiguation)">Ringil (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Ringil</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Ringil_(disambiguation).md" title="Ringil (disambiguation)">Ringil (disambiguation)</a></b>.</div></div>
 
 Trong quan niệm ban đầu về [huyền thoại](../L/Legendarium.md), **Ringil** là một trong hai trụ cột giữ một trong những [Hai Ngọn Đèn](../T/Two_Lamps.md) được tạo ra để thắp sáng [Trung Địa](../M/Middle-earth.md).
 
 ## Lịch sử {#History}
 
-Ringil là một cây cột lớn, được [Melko](../M/Morgoth.md) nâng lên để chứa *northern* của [Hai Ngọn Đèn](../T/Two_Lamps.md) được tạo hình bởi [Aulë](../A/Aulë.md) để chiếu sáng [Trung Địa](../M/Middle-earth.md). Cây cột cực kỳ cao lớn, vươn lên tới các vì sao và tỏa sáng như pha lê màu xanh nhạt. Melkor tuyên bố rằng Ringil và người anh em sinh đôi phía nam của nó [Helkar](../H/Helkar.md) được tạo thành từ một chất bền vững, không thể hư hỏng mà ông đã nghĩ ra; trên thực tế, ông đã nói dối vì chúng được làm từ băng (một loại vật liệu mà [Valar](../V/Valar.md) còn lại không biết). Khi những ngọn đèn của Aulë được đặt lên họ (bạc ở phía bắc và vàng ở phía nam), băng đã tan chảy và gây ra lũ lụt lớn đổ ra biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ringil là một cây cột lớn, được [Melko](../M/Morgoth.md) nâng lên để chứa *northern* của [Hai Ngọn Đèn](../T/Two_Lamps.md) được tạo hình bởi [Aulë](../A/Aulë.md) để chiếu sáng [Trung Địa](../M/Middle-earth.md). Cây cột cực kỳ cao lớn, vươn lên tới các vì sao và tỏa sáng như pha lê màu xanh nhạt. Melkor tuyên bố rằng Ringil và người anh em sinh đôi phía nam của nó [Helkar](../H/Helkar.md) được tạo thành từ một chất bền vững, không thể hư hỏng mà ông ta đã nghĩ ra; trên thực tế, ông ta đã nói dối vì chúng được làm từ băng (một loại vật liệu mà [Valar](../V/Valar.md) còn lại không biết). Khi những ngọn đèn của Aulë được đặt lên họ (bạc ở phía bắc và vàng ở phía nam), băng đã tan chảy và gây ra lũ lụt lớn đổ ra biển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

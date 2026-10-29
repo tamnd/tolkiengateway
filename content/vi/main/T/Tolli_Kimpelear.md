@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Twilit Isles"
 ---
 
-Chuyển hướng tới [Quần đảo Chạng vạng](Twilit_Isles.md).
+Chuyển hướng tới [Quần đảo Hoàng hôn](Twilit_Isles.md).

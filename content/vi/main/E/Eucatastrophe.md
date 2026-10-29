@@ -17,8 +17,8 @@ images:
   - "Ted_Nasmith_-_At_the_Cracks_of_Doom.jpg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>dọn dẹp</b> để phù hợp với <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn về chất lượng bài viết</a>.<blockquote class="tg-quote noexcerpt">
-<p>Tôi sẽ không coi đó là sự kết thúc cho đến khi chúng ta dọn dẹp được mớ hỗn độn này.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
+<p>I shan&#39;t call it the end, till we&#39;ve cleared up the mess.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
@@ -34,7 +34,7 @@ Về bản chất, một thảm họa thiên nhiên là một bước chuyển v
 Trong bài tiểu luận [1947](../_/1947.md) của mình *[On Fairy-Stories](../O/On_Fairy-Stories.md),* Tolkien đã mô tả khái niệm này:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tôi dám khẳng định rằng mọi câu chuyện cổ tích hoàn chỉnh đều phải có [Kết thúc có hậu]. Ít nhất tôi có thể nói rằng Bi kịch là hình thức thực sự của Kịch, chức năng cao nhất của nó; nhưng truyện cổ tích thì ngược lại. Vì dường như chúng ta không có từ nào diễn tả điều ngược lại này - nên tôi sẽ gọi nó là <i>Eucatastrophe</i>. Truyện <i>eucatastrophic</i> là hình thức thực sự của truyện cổ tích và có chức năng cao nhất.
+<p>I would venture to assert that all complete fairy-stories must have [a Happy Ending]. At least I would say that Tragedy is the true form of Drama, its highest function; but the opposite is true of Fairy-story. Since we do not appear to possess a word that expresses this opposite — I will call it <i>Eucatastrophe</i>. The <i>eucatastrophic</i> tale is the true form of fairy-tale, and its highest function.
 </p>
 <p class="tg-quote-footer"><cite>Tolkien in <a href="../O/On_Fairy-Stories.md" title="On Fairy-Stories">On Fairy-Stories</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -44,7 +44,7 @@ Tolkien tiếp tục nói rằng sự "chuyển hướng" vui vẻ của một H
 Tolkien sẽ trình bày chi tiết hơn về thảm họa bạch đàn trong [một trong những lá thư của ông](../L/Letter_89.md):
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>(...) Tôi ở đó dẫn đến quan điểm rằng [eucatastrophe] tạo ra [niềm vui khi bước vào một Kết thúc có hậu] bởi vì đó là một cái nhìn bất ngờ về Sự thật, toàn bộ bản chất của bạn bị xiềng xích trong nhân quả vật chất, chuỗi của cái chết, cảm thấy nhẹ nhõm đột ngột như thể một chi chính bị đứt khớp đột nhiên gãy lại. (...) Sự Phục Sinh là 'thảm họa thiên đường' lớn nhất có thể có trong Truyện cổ tích vĩ đại nhất - và tạo ra cảm xúc thiết yếu đó: niềm vui Kitô giáo tạo ra nước mắt vì nó giống như nỗi buồn về mặt phẩm chất, bởi vì nó đến từ những nơi mà Niềm vui và Nỗi buồn hòa làm một, được hòa giải, khi lòng ích kỷ và lòng vị tha bị đánh mất trong Tình yêu.
+<p>(...)I was there led to the view that [eucatastrophe] produces [joy at the turn of a Happy Ending] because it is a sudden glimpse of Truth, your whole nature chained in material cause and effect, the chain of death, feels a sudden relief as if a major limb out of joint had suddenly snapped back. (...) the Resurrection was the greatest &#39;eucatastrophe&#39; possible in the greatest Fairy Story – and produces that essential emotion: Christian joy which produces tears because it is qualitatively so like sorrow, because it comes from those places where Joy and Sorrow are at one, reconciled, as selfishness and altruism are lost in Love.
 </p>
 <p class="tg-quote-footer"><cite>Tolkien in <a href="../L/Letter_89.md" title="Letter 89">Letter 89</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -58,7 +58,7 @@ Một ví dụ nổi tiếng khác về thảm họa bạch đàn là Cuộc chi
 ## May mắn {#Luck}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Bạn không thực sự cho rằng, phải không, tất cả những cuộc phiêu lưu và trốn thoát của bạn đều chỉ nhờ may mắn, chỉ vì lợi ích duy nhất của bạn?"
+<p>You don&#39;t really suppose, do you, that all your adventures and escapes were managed by mere luck, just for your sole benefit?&#34;
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> to <a class="mw-redirect" href="../B/Bilbo.md" title="Bilbo">Bilbo</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

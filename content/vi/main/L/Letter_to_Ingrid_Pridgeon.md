@@ -21,7 +21,7 @@ images:
 
 Vào tháng 8 [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Ingrid Pridgeon**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Mô tả:** Thư xin chữ ký, 2pp. & phong bì, địa chỉ 8vo, Oxford bị gạch bỏ và đánh máy c/o Messrs Geo. Allen and Unwin, đóng dấu bưu điện Poole, tháng 8 năm 1968.<sup id="cite_ref-Bloom_2-0" class="reference"><a href="#cite_note-Bloom-2">[2]</a></sup>
+- **Mô tả:** Thư xin chữ ký, 2pp. & phong bì, địa chỉ 8vo, Oxford bị gạch bỏ và đánh máy c/o Messrs Geo. Allen và Unwin, đóng dấu bưu điện Poole, tháng 8 năm 1968.<sup id="cite_ref-Bloom_2-0" class="reference"><a href="#cite_note-Bloom-2">[2]</a></sup>
 - **Ấn bản:** Các đoạn trích, mô tả và ảnh của bức thư được đưa vào *[Bloomsbury Auctions: Modern First Editions, English &amp; Continental Literature &amp; History, Emblem Books, Economics &amp; Law 13 March 2008](../B/Bloomsbury_Modern_First_Editions,_English_and_Continental_Literature_and_History,_Emblem_Books,_Economics_and_Law_13_March_2008.md)*.
 
 ## Nội dung {#Contents}

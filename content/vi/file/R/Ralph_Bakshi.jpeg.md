@@ -23,7 +23,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Ảnh quảng cáo của [Ralph Bakshi](../../main/R/Ralph_Bakshi.md) cho [*The Lord of the Rings (phim năm 1978)*](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>) - Nguồn <a class="external autonumber" href="https://www.imdb.com/title/tt0077869/mediaviewer/rm3896232960/" rel="noreferrer noopener" target="_blank">[1]</a>
+Ảnh quảng cáo của [Ralph Bakshi](../../main/R/Ralph_Bakshi.md) cho [*The Lord of the Rings (phim 1978)*](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>) - Nguồn <a class="external autonumber" href="https://www.imdb.com/title/tt0077869/mediaviewer/rm3896232960/" rel="noreferrer noopener" target="_blank">[1]</a>
 
 ## Giấy phép {#Licensing}
 

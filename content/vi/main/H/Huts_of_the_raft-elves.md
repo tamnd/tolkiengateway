@@ -18,10 +18,10 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Loeglond.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(I).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4e/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28I%29.jpg/300px-J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28I%29.jpg" decoding="async" loading="lazy" width="300" height="372" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4e/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28I%29.jpg/450px-J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28I%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4e/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28I%29.jpg/600px-J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28I%29.jpg 2x" data-file-width="836" data-file-height="1037"/></a><figcaption><i>Bilbo đến Lều Bè-Tiên tộc</i> bởi <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(I).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4e/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28I%29.jpg/300px-J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28I%29.jpg" decoding="async" loading="lazy" width="300" height="372" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4e/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28I%29.jpg/450px-J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28I%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4e/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28I%29.jpg/600px-J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28I%29.jpg 2x" data-file-width="836" data-file-height="1037"/></a><figcaption><i>Bilbo comes to the Huts of the Raft-elves</i> by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
 
 **Chòi bè-Tiên tộc** là tập hợp những ngôi nhà trong đó [bè-Tiên tộc](../R/Raft-elves.md) sinh sống.
 
@@ -37,13 +37,13 @@ Chiếc bè-Tiên tộc đã thu thập các thùng rỗng từ [Vua Tiên Hội
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Chiếc bè-Tiên tộc cư trú tại ngôi làng "Celebannon", bao gồm hàng chục ngôi nhà.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
+<dl><dd>The Raft-elves reside in the village of &#34;Celebannon&#34;, which consists of a dozen houses.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Loeglond.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/82/The_Lord_of_the_Rings_Online_-_Loeglond.jpg/250px-The_Lord_of_the_Rings_Online_-_Loeglond.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/82/The_Lord_of_the_Rings_Online_-_Loeglond.jpg/375px-The_Lord_of_the_Rings_Online_-_Loeglond.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/82/The_Lord_of_the_Rings_Online_-_Loeglond.jpg/500px-The_Lord_of_the_Rings_Online_-_Loeglond.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Loeglond in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Ngôi làng Raft-Tiên được gọi là "Loeglond" và là một phần lãnh thổ của Thranduil. Nó được giám sát bởi Tiên "Lorndúr".</dd></dl>
+<dl><dd>The Raft-elf village is called &#34;Loeglond&#34;, and is part of Thranduil&#39;s realm. It is overseen by the Elf &#34;Lorndúr&#34;.</dd></dl>
 
 <span></span>
 

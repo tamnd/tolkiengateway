@@ -12,175 +12,175 @@ categories:
   - "Interviews"
 ---
 
-<dl><dd>Bài viết dưới đây là buổi trò chuyện với <a href="../D/David_Brawn.md" title="David Brawn">David Brawn</a> vào ngày 16 tháng 4, <a href="../_/2007.md" title="2007">2007</a>. Nội dung cần được bảo tồn và không bị thay đổi vì lý do thẩm mỹ.</dd></dl>
+<dl><dd>The below article is of a chat session with <a href="../D/David_Brawn.md" title="David Brawn">David Brawn</a> on April 16th, <a href="../_/2007.md" title="2007">2007</a>. The content should be preserved and not altered save for aesthetic reasons.</dd></dl>
 
 <div class="poem">
-<p><b>&lt;David_Brawn&gt;</b> Xin chào mọi người. May quá, có nhiều bạn quá!!!<br/>
-&lt;Beren&gt; Chào mừng David Brawn<br/>
-<b>&lt;David_Brawn&gt;</b> Cảm ơn<br/>
-&lt;Beren&gt; Xin lỗi tất cả những người trò chuyện, tôi đã tắt tiếng kênh<br/>
-&lt;Beren&gt; để có thể hỏi đáp&amp;A với David Brawn<br/>
-&lt;Beren&gt; chúng tôi sẽ mở lại cuộc trò chuyện sau phần Hỏi&amp;A<br/>
-&lt;Beren&gt; Bạn có thể PM cho mình để đặt câu hỏi nhé!<br/>
-&lt;Beren&gt; Chào mừng David Brawn<br/>
-&lt;Beren&gt; rất vui vì bạn có thể dành chút thời gian cho chúng tôi!<br/>
-<b>&lt;David_Brawn&gt;</b> Xin chào. (Ông là ai? Mọi người đều hỏi!<br/>
-&lt;Hyarion|school&gt; Dành cho những ai chưa biết David Brawn là ai, trước hết là xấu hổ cho bạn, thứ hai, ông là Giám đốc Xuất bản của HarperCollins<br/>
-&lt;Beren&gt; Bạn cảm thấy thế nào khi biết rằng mình đã đọc một số Tolkien tin nhắn nhất định trước khi người hâm mộ được phép?<br/>
-<b>&lt;David_Brawn&gt;</b> Tôi đã làm việc ở HarperCollins được 20 năm, 12 lần xuất bản gần đây nhất Tolkien, cùng với một số tài sản tác giả khác.<br/>
-<b>&lt;David_Brawn&gt;</b> Thật vinh dự khi được đọc văn bản trước tiên. Và tôi có một biên tập viên tuyệt vời, hris Smith, người thực sự hiểu biết về văn bản hơn tôi rất nhiều.<br/>
-<b>&lt;David_Brawn&gt;</b> Chris Smith<br/>
-<b>&lt;David_Brawn&gt;</b> Tôi đánh máy tệ quá!<br/>
-&lt;Hyarion|school&gt; À, 20 năm là một khoảng thời gian khá dài, dự án Tolkien đầu tiên của bạn là gì?<br/>
-&lt;Hyarion|school&gt; À đừng lo, trong phòng chat, việc đánh máy luôn kém hoàn hảo :)<br/>
-<b>&lt;David_Brawn&gt;</b> Câu hỏi hay! Tôi nghĩ đó là Bản đồ Hobbit của John Howe. Và các dân tộc Trung Địa. Và cuốn lịch khét tiếng với hình ảnh lộn ngược. Tất cả đều có mặt vào khoảng thời gian đó.<br/>
-&lt;Hyarion|school&gt; à, hay quá.<br/>
-&lt;Hyarion|school&gt; Bạn có dự án yêu thích nào mà bạn đã thực hiện không?<br/>
-<b>&lt;David_Brawn&gt;</b> Minh họa Hobbit bởi Alan Lee.<br/>
-&lt;Hyarion|school&gt; Có điều gì đặc biệt khiến bạn cảm thấy gần gũi không?<br/>
-<b>&lt;David_Brawn&gt;</b> Đây là dự án đầu tiên tôi lên ý tưởng và đặt làm. Và ý tưởng về những bức vẽ bằng bút chì đã được nhân rộng trong CoH.<br/>
-&lt;Hyarion|school&gt; Những bức vẽ bằng bút chì là thứ tôi yêu thích!<br/>
-<b>&lt;David_Brawn&gt;</b> Họ thật xuất sắc và cho Alan thấy trạng thái thoải mái nhất của ông.<br/>
-&lt;Beren&gt; liệu danh mục đó có xuất hiện không? họ thực sự rất đáng yêu.<br/>
-<b>&lt;David_Brawn&gt;</b> The Lord of the Rings Sketchbook đã rất thành công và chúng tôi chắc chắn có tham vọng về một Hobbit một lúc nào đó. Nhưng Alan đang bận...<br/>
-&lt;Beren&gt; Bạn có mong đợi skethbook sẽ hoạt động tốt như vậy không?<br/>
-<b>&lt;David_Brawn&gt;</b> Nó khá độc đáo cho phép chúng tôi kết hợp minh họa sách với nghệ thuật điện ảnh, một điều tuyệt vời. Ban đầu nó không có nội dung phim, nhưng Alan muốn đưa một ít vào và có thể làm được nhờ thỏa thuận của ông với New Line. Và ông đã làm một số chi tiết mới<br/>
-&lt;Beren&gt; chúng ta hãy quay lại từ đầu... bạn đã làm việc cùng với rayner Unwin phải không?<br/>
-<b>&lt;David_Brawn&gt;</b> Rayner đã nghỉ hưu nhưng vẫn giữ chức vụ cố vấn. Tôi đã gặp ông trong bữa trưa gần như trong tuần đầu tiên của tôi và ông thường tham dự cuộc họp của chúng tôi với Estate cho đến khi ông qua đời.<br/>
-&lt;Beren&gt; Bạn có thay đổi nhiều trong cách xuất bản không Tolkien<br/>
-&lt;Beren&gt; so với Rayner Uwnwin?<br/>
-<b>&lt;David_Brawn&gt;</b> Danh sách này đã trải qua một thời kỳ phục hưng nhờ việc HarperCollins mua lại Unwin Hyman, tiếp theo là Centenary. Nhưng rồi mọi chuyện đã lắng xuống, người tiền nhiệm của tôi phải ra đi vì chồng bà đột ngột lâm bệnh nặng. Tóm tắt của tôi là cố gắng kiếm thêm tiền!!!<br/>
-&lt;Beren&gt; Đây là câu hỏi của Halion (trong số các khách mời): bạn có nghĩ JRRT sẽ hài lòng với cách công ty của bạn xử lý việc xuất bản không?<br/>
-<b>&lt;David_Brawn&gt;</b> Câu hỏi thú vị. Giống như rất nhiều việc chúng ta làm, nếu chúng ta chỉ có thể gọi điện cho ông và hỏi ông thì cuộc sống sẽ đơn giản hơn. Thay vào đó, chúng tôi phải làm theo bản năng của mình, và nhờ Christopher và phần còn lại của Estate, chúng tôi phải đoán xem JRRT sẽ nghĩ gì. Nhưng tôi không nghĩ chúng tôi đã làm điều gì đặc biệt đáng chê trách.<br/>
-&lt;Beren&gt; Làm việc với di sản như thế nào?<br/>
-<b>&lt;David_Brawn&gt;</b> Họ rất ủng hộ. Qua nhiều năm, tôi đã học được rằng cách tiếp cận nhẹ nhàng, nhẹ nhàng sẽ có hiệu quả. Có được sự hỗ trợ của Rayner Unwin là rất có giá trị, vì họ đã tin tưởng ông - ông nói trong cuộc họp gần đây nhất của chúng tôi rằng ông rất ấn tượng với những gì chúng tôi đã đạt được, những điều mà GA&amp;E không bao giờ có thể quản lý được, và điều đó có ý nghĩa rất lớn. Và bây giờ tôi và Chris đã ở bên nhau đủ lâu để có thể đánh giá nó một cách khá rõ ràng.<br/>
-&lt;Beren&gt; Vâng, bạn thực sự phải kiên nhẫn... khi tôi nghe tin một số tác giả trì hoãn một cuốn sách trong bao lâu<br/>
-&lt;Beren&gt; đang nghĩ đến Wayne Hammond và Christina Scull<br/>
-&lt;Beren&gt;Người đồng hành và hướng dẫn<br/>
-&lt;Beren&gt; và cuốn sách của vị khách trước đó<br/>
-&lt;Beren&gt; John D. rateiff<br/>
-&lt;Beren&gt; Bạn quản lý tất cả các dự án đang diễn ra này như thế nào?<br/>
-<b>&lt;David_Brawn&gt;</b> Các tác phẩm như Người đồng hành và Hướng dẫn và Lịch sử của Hobbit là những lao động thực sự của tình yêu cũng như học thuật và nghiên cứu thực sự xuất sắc. Không giống như hầu hết việc xuất bản ngày nay, chúng không thể vội vàng, vì vậy, phần lớn những gì tôi làm thực sự là chống lại các ông chủ của chính mình hơn là chống lại Nhà nước trong việc đảm bảo những cuốn sách này tốt nhất có thể và chúng tôi không bị chiếm đoạt bởi thời gian biểu xuất bản<br/>
-<b>&lt;David_Brawn&gt;</b> Tôi làm việc trên Tolkien, C.S.Lewis và Agatha Christie, cùng với một số dự án nhỏ hơn nhiều, vì vậy tôi có thể dành nhiều thời gian cho những việc này. Như CoH cho thấy, khi những cuốn sách lớn xuất hiện, chúng thực sự có thể gây chú ý.<br/>
-&lt;Beren&gt; Bản thân bạn có phải là người hâm mộ Tolkien không?<br/>
-&lt;Hyarion&gt; Đối với những người mới tham gia cùng chúng tôi, chúng tôi đang nói chuyện với Giám đốc Xuất bản của HarperCollins, David Brawn, người phụ trách việc xuất bản các tác phẩm của J.R.R. Tolkien.<br/>
-<b>&lt;David_Brawn&gt;</b> Bây giờ là tôi! Khi tôi nhận được công việc, tôi chưa hề đọc cuốn nào, ngoại trừ cuốn The Hobbit khi còn nhỏ. Giống như nhiều người khác, ấn tượng của tôi về những gì Chúa tể những chiếc nhẫn thể hiện bị nhuốm màu bởi một số hiểu lầm về thể loại và bản chất đáng sợ của một cuốn sách dày cộp như vậy!<br/>
-&lt;Hyarion&gt; Thật vui khi thấy một người hâm mộ là người làm việc với nhà xuất bản chứ không phải là người không quan tâm đến tác phẩm.<br/>
-&lt;Beren&gt; Có kế hoạch phát hành các tài liệu Tolkien chưa được xuất bản khác trong tương lai không?<br/>
-<b>&lt;David_Brawn&gt;</b> Tất cả chúng tôi đều rất quan tâm. Nhưng tôi nhận được công việc đó chính xác vì tôi không phải là người hâm mộ. Giám đốc điều hành muốn một người có thể khách quan và đưa ra các quyết định thương mại cũng như thông cảm với Di sản.<br/>
-&lt;Hyarion&gt; Đó có lẽ là một quyết định kinh doanh đúng đắn, tôi nghĩ hầu hết chúng ta ở đây sẽ xuất bản bất cứ thứ gì có tên Tolkien trên đó :)<br/>
-&lt;Beren&gt; Bạn có thể mô tả công việc của mình như sau: hàng ngày bạn làm gì?<br/>
-<b>&lt;David_Brawn&gt;</b> Những đứa con của Hurin có thể là lần cuối cùng chúng ta thấy thứ gì đó có ý nghĩa quan trọng đối với tài liệu chưa được xuất bản. Lịch sử của Hobbit chứa một lượng lớn tài liệu chưa được xuất bản, vì vậy sau đó, tôi không chắc còn lại những gì.<br/>
-<b>&lt;David_Brawn&gt;</b> Hàng ngày, tôi có thể cảm thấy rằng tất cả những gì tôi làm là xử lý các e-mail và truy vấn. Phần lớn những gì tôi làm là phản ứng. Nhưng nó bao gồm các vấn đề pháp lý, giấy phép, tiếp thị bất kỳ cuốn sách mới nào, xem xét các giao dịch và phê duyệt bằng tiếng nước ngoài - đó là một công việc rất rộng so với các giám đốc xuất bản khác, nhiều người trong số họ dành thời gian tìm kiếm sách mới. <br/>
-&lt;Hyarion&gt; Chắc hẳn đây là một công việc rất thú vị.<br/>
-&lt;Hyarion&gt; Bạn cảm thấy thế nào về các đánh giá cho The Children of Húrin cho đến nay?<br/>
-<b>&lt;David_Brawn&gt;</b> Nó trở nên rộng hơn nhiều nhờ các bộ phim. Tôi đã đi du lịch rất nhiều và mở rộng kỹ năng của mình sang lĩnh vực xuất bản phim. Narnia hiện cũng đang làm điều đó.<br/>
-<b>&lt;David_Brawn&gt;</b> Các đánh giá đều tích cực. Phần lớn những gì chúng ta thấy chỉ là suy đoán, chẳng hạn như đoạn nhật ký có tựa đề "Hãy ngủ Hobbit Nói dối" vài tuần trước. Hoàn toàn không công bằng! Nhưng ngoại trừ một chút gì đó tồi tệ trên tờ Sunday Times của ngày hôm qua (sau một bài báo rực rỡ trên cùng một tờ báo cách đây một tuần), thì nó không tệ chút nào. Nhưng chúng chỉ là những đánh giá. Đó là những gì tất cả các bạn nghĩ mới thực sự quan trọng!<br/>
-&lt;Hyarion&gt; Chính xác thì suy nghĩ của tôi, nó có thể không phải là thứ mà một người ngẫu nhiên có thể nhặt được và yêu thích, nhưng đó là thứ mà một người hâm mộ Tolkien có thể đọc đi đọc lại 1.000 lần mà không bao giờ thấy chán.<br/>
-&lt;Hyarion&gt; Bạn có kế hoạch gì cho các lần xuất bản sách trong tương lai không? Có người hỏi có dự định ra "bản siêu sang" không?<br/>
-<b>&lt;David_Brawn&gt;</b> Chính xác. Tôi không nghĩ rằng cuốn sách này sẽ không biến một người không phải là người hâm mộTolkien thành một người hâm mộ, nhưng nó sẽ mở ra cánh cửa cho những người hâm mộ bình thường hơn đến với một thế giới rộng lớn hơn, đó là thế giới của Kỷ Đệ Nhất. Tôi chắc chắn muốn có thêm một cú crack nữa ở The Silmarillion sau khi đọc bài viết này - đột nhiên viễn cảnh trở nên bớt khó khăn hơn.<br/>
-&lt;Beren&gt; Bạn có nghĩ rằng Những đứa con của H?rin sẽ thay đổi nhận thức của công chúng về toàn bộ tác phẩm của Tolkien không, và nếu vậy thì bằng cách nào?<br/>
-&lt;Hyarion&gt; Beren, chậm lại thôi, đừng hỏi ông quá nhiều câu hỏi cùng một lúc :p<br/>
-<b>&lt;David_Brawn&gt;</b> Tôi nghĩ sẽ thật tuyệt nếu có thứ gì đó có danh tiếng cao hơn, vì vậy hãy nói rằng Tolkien không chỉ viết những câu chuyện về Hobbit. Nhưng như trên, tôi nghĩ giá trị đích thực của nó là mở rộng tầm nhìn của mọi người về tác phẩm của ông. Chúng tôi muốn nó thay thế The Silmarillion thành "cuốn sách thứ ba".<br/>
-&lt;Beren&gt; Phiên bản Deluxe của The Silmarillion có được phát hành bất kỳ lúc nào trong tương lai để phù hợp với phiên bản của The Hobbit Phiên bản kỷ niệm, The Lord of the Rings Phiên bản Deluxe kỷ niệm 50 năm và Phiên bản Deluxe sắp tới của The Children of H?rin không?<br/>
-<b>&lt;David_Brawn&gt;</b> Chúng tôi vẫn đang suy nghĩ về điều đó. Số lượng in cho loại cao cấp đã tăng lên và nếu nó hoạt động tốt trong tuần tới hoặc lâu hơn, tôi nghĩ rất có thể chúng tôi sẽ thực hiện Silmarillion. Tuy nhiên, sinh nhật có thể diễn ra vào năm sau chứ không phải năm nay, vì tôi lo lắng về việc mua quá nhiều ấn bản đắt tiền trong một năm vì một số người hâm mộ không đủ tiền mua hết.<br/>
-&lt;Hyarion&gt; Đó thực sự là một tin tuyệt vời<br/>
-&lt;Beren&gt; vậy năm nay cũng không có người hobbit đặc biệt nào à?<br/>
-<b>&lt;David_Brawn&gt;</b> Chúng tôi sắp phát hành lại ấn bản bìa cứng với bìa được làm lại, quay lại bức tranh gốc, trước đó đã được sơn lại với tông màu sặc sỡ. Nó sẽ có một vài tính năng bổ sung không có trong bìa cứng trước đó, nhưng phiên bản cao cấp vẫn sẽ là phiên bản xa hoa nhất về mặt nội dung, hoàn chỉnh với phần giới thiệu kỷ niệm 50 năm của CT.<br/>
-&lt;Hyarion&gt; Điều đó sẽ khiến rất nhiều người hâm mộ hạnh phúc.<br/>
-&lt;Turin&gt; Q&amp;Một buổi khai sáng, David_Brawn :)<br/>
-&lt;RJaroszewski&gt; Beren: Nhận bộ kênh thứ hai để mọi người có thể gửi câu hỏi của mình. Bằng cách đó, bạn sẽ nhận được ít câu hỏi kép hơn.<br/>
-&lt;Turin&gt; ồ còn nữa à? ngầu<br/>
-&lt;Hyarion&gt; David_Brawn, bạn nghĩ bạn còn bao nhiêu thời gian để dành cho chúng tôi?<br/>
-&lt;Hyarion&gt; có quá nhiều câu hỏi, rất tiếc là chúng tôi không có cách nào giải đáp được hết<br/>
-<b>&lt;David_Brawn&gt;</b> Được rồi. Tôi ổn trong khoảng 10 phút. Sau đó Bảo vệ đuổi tôi ra khỏi tòa nhà HarperCollins để khóa cửa!<br/>
-&lt;Hyarion&gt; à, hehe<br/>
-&lt;Hyarion&gt; được rồi xem nào<br/>
-&lt;Earendilyon&gt; có lẽ ông Brawn sẽ rất vui lòng trả lời các câu hỏi khác sau bằng thư cá nhân gửi cho Hyarion và/hoặc Beren?<br/>
-<b>&lt;David_Brawn&gt;</b> Cảm ơn tôi muốn ở đây cả đêm... ;-)<br/>
-&lt;Marcel_Buelles&gt; Sẽ thật tuyệt nếu có bạn ở đây cả đêm :)<br/>
-&lt;Hyarion&gt; Earendilyon, vâng, chúng tôi chắc chắn sẽ xem liệu chúng tôi có thể giải quyết được điều gì đó hay không.<br/>
-<b>&lt;David_Brawn&gt;</b> Và vâng, tôi có thể trả lời các email có thể đăng sau.<br/>
-&lt;Earendilyon&gt; D_Brawn: trốn dưới gầm bàn đi :D<br/>
-&lt;Eru_PT&gt; Tôi có một câu hỏi... tôi có thể làm được không?<br/>
-&lt;Sothaeros&gt; Anh đã mở cửa xả lũ ở đó rồi David<br/>
-&lt;Beruthiel&gt; hoặc có thể ghé thăm chúng tôi tại đây khi rảnh rỗi?<br/>
-<b>&lt;David_Brawn&gt;</b> Làm được. Tôi có mặt tại Waterstones ở Piccadilly vào hầu hết ngày thứ Ba để dự lễ phát hành tại Vương quốc Anh.<br/>
-&lt;Eru_PT&gt; HAd HArper Collins có chấp nhận ngay từ đầu ý tưởng xuất bản CoH không?<br/>
-&lt;Hyarion&gt; David_Brawn, đó chắc chắn sẽ là một sự kiện thú vị. Có ai ở đây sẽ tham dự sự kiện Waterstones không?<br/>
-<b>&lt;David_Brawn&gt;</b> Chắc chắn rồi. Christopher thực sự muốn có ý kiến của chúng tôi xem liệu nó có đủ tốt hay không (!), nhưng chúng tôi rất thích nó!<br/>
-&lt;Eru_PT&gt; Bạn biết từ khi nào Christopher Tolkien?<br/>
-&lt;Hyarion&gt; Có nhiều cuốn sách liên quan đến Tolkien phải từ chối không?<br/>
-&lt;Beren&gt; Christopher lần đầu tiên đề xuất làm Những đứa trẻ của Hurin là khi nào? Và ngày được chọn như thế nào? Ngày 17 tháng 4 có mối liên hệ nào không?<br/>
-<b>&lt;David_Brawn&gt;</b> Nội dung phụ. Mọi người gửi cho chúng tôi những ý tưởng hay về bộ bách khoa toàn thư Trung Đông, v.v., nhưng chúng tôi phải cẩn thận để không bị cuốn đi bởi sự nhiệt tình của mình. Di sản mong muốn đảm bảo chỉ trình bày tài liệu Tolkien thực sự - việc các tác giả bịa ra hoặc suy đoán về tài liệu Tolkien mà bản thân họ không có ý định rất dễ bị thu hút. Sách phim là một phần riêng biệt nên có nhiều thời gian hơn ở đó.<br/>
-&lt;Hyarion&gt; Hiểu rồi<br/>
-<b>&lt;David_Brawn&gt;</b> Đối với CoH, chúng tôi muốn xuất bản trong Hội chợ sách Luân Đôn vì sức hấp dẫn quốc tế. Ban đầu là tháng ba, nhưng Fauir đã chuyển ngày nên chúng tôi phải làm vậy. Nó sẽ được xuất bản bằng 8 ngôn ngữ vào ngày mai và 20 ngôn ngữ khác sẽ được chuẩn bị xuất bản trong năm tới.<br/>
-&lt;Eru_PT&gt; Bạn có một bản sao của mỗi Tolkien cuốn sách mà bạn đã xuất bản không? :)<br/>
-&lt;Hyarion&gt; Tôi biết rất nhiều người hâm mộ quốc tế rất hào hứng vì đây là bản phát hành trên toàn thế giới, hầu hết không phải đợi hàng tháng hoặc hàng năm để phiên bản của họ ra mắt<br/>
-&lt;Beruthiel&gt; nóng lòng chờ đến khi bản sao COH HC của tôi đến vào tuần tới. :)<br/>
-&lt;Sil&gt; là người Hungary trong số 20 người còn lại? *hy vọng*<br/>
-<b>&lt;David_Brawn&gt;</b> Tôi biết về CoH 12 năm trước - lúc đó có một tập tin. Nhưng Christopher chỉ hoàn thành nó vào tháng 2 hai năm trước, sau đó mất thêm một năm để viết phần giới thiệu và phụ lục, và chúng tôi đã sử dụng thời gian đó để mời Alan Lee tham gia.<br/>
-<b>&lt;David_Brawn&gt;</b> Tôi nghĩ rằng tiếng Hungary đã được thống nhất trong vài tuần qua.<br/>
-&lt;Beruthiel&gt; ôi, 12 năm, thật ấn tượng<br/>
-&lt;Akhorahil&gt; Còn bản dịch tiếng Na Uy thì sao?<br/>
-&lt;Melianna&gt; David_Brawn, tên các họa sĩ minh họa ngoài Alan Lee, John Howe và có thể Ted Nasmith mà bạn hợp tác là ai?<br/>
-<b>&lt;David_Brawn&gt;</b> Có, Norstets đang xuất bản nội dung đó.<br/>
-&lt;Tinfang_Warble&gt; Vâng Sil, Húrin gyermekei.<br/>
-&lt;Earendilyon&gt; dù sao thì bản dịch cũng dở tệ ;)<br/>
-&lt;Marcel_Buelles&gt; Người Đức rất hài lòng về bản dịch - thx rất nhiều!<br/>
-&lt;Akhorahil&gt; Norstets, đó không phải là nhà xuất bản Thụy Điển sao?<br/>
-&lt;Sil&gt; ồ, đó là tin tốt, chúng tôi chưa có lời chính thức nào về điều đó.<br/>
-<b>&lt;David_Brawn&gt;</b> Alan Lee và John Howe là những người chúng tôi yêu thích. Chúng tôi tiếp tục tìm kiếm thêm, nhưng không ai đến gần. Tất nhiên, Ted rất xuất sắc, nhưng gần đây chúng tôi không có nhiều cơ hội để làm việc nhiều với ông.<br/>
-&lt;Sil&gt; đó sẽ là nhà xuất bản nào? Europa hay Szukit?<br/>
-&lt;Tinfang_Warble&gt; Tiếng Na Uy: Húrins Barn. Tiden Norsk Forlag là nhà xuất bản mà tôi nghĩ... <br/>
-&lt;Eru_PT&gt; Ông Brawn, chỉ vì tò mò: Ông có một bản sao của mỗi Tolkien cuốn sách mà ông đã xuất bản không? :)<br/>
-&lt;Akhorahil&gt; Nghe có vẻ đúng (tiếng Na Uy với Tiden)<br/>
-<b>&lt;David_Brawn&gt;</b> Ồ, tôi lại nhầm lẫn với các nhà xuất bản Scandinavia của mình rồi phải không? Nhưng dù sao đi nữa, chắc chắn sẽ có một chiếc Na Uy sắp tới.<br/>
-&lt;Johan&gt; Tôi nghĩ người dịch tiếng Na Uy đang trực tuyến ở đây<br/>
-&lt;Marcel_Buelles&gt; Hỏi Nils :)<br/>
-&lt;Tinfang_Warble&gt; Ha, đúng là ông rồi!<br/>
-&lt;Nils_Ivar&gt; Đúng là tôi như vậy. :)<br/>
-&lt;Beren&gt; <a class="external free" href="http://www.tolkienlibrary.com/press/The_Children_of_Hurin_translations.php" rel="noreferrer noopener" target="_blank">http://www.tolkienlibrary.com/press/The_Children_of_Hurin_translations.php</a> để biết thông tin về bản dịch!<br/>
-<b>&lt;David_Brawn&gt;</b> Ôi, thật xấu hổ.<br/>
-&lt;Akhorahil&gt; haha<br/>
-<b>&lt;David_Brawn&gt;</b> Tôi có hầu hết những gì tôi đã xuất bản trong văn phòng của mình. Nhưng người ta “mượn” chúng và đôi khi tôi không thể thay thế được. <br/>
-&lt;Marcel_Buelles&gt; Bạn có thể giải thích cho chúng tôi biết các nhà xuất bản quốc gia mất bao nhiêu thời gian trong việc dịch sách/thực hiện các ấn phẩm của riêng họ trên Tolkien?<br/>
-&lt;Hyarion&gt; David_Brawn, tôi phải nói rằng tôi yêu thích tolkien.co.uk mới, sau khi phát hành sẽ có nhiều cập nhật cho nó hay đây sẽ là thứ chúng ta có thể xem thường xuyên?<br/>
-&lt;Akhorahil&gt; Chỉ cần lướt qua Silmarillion một lần nữa ở đây (bằng tiếng Na Uy lần đầu tiên sau một thời gian)...bản dịch tốt lắm, Nils<br/>
-&lt;Sil&gt; Được rồi, nhưng cái này mới, SẼ có một cái của Hungary.<br/>
-&lt;Mithrennaith&gt; Tôi không nghĩ chúng tôi có phiên dịch tiếng Hà Lan trực tuyến, nhưng tôi đã đọc phiên bản sơ bộ, và Johan cũng vậy, tôi hiểu. Tôi nghe nói hôm qua ông có vài bình luận nhưng tiếc là tôi không có mặt ở đó.<br/>
-&lt;Nils_Ivar&gt; Cảm ơn rất nhiều, Akhorahil. Nhưng chúng ta đừng phân tán sự chú ý khỏi những gì David sắp nói.<br/>
-&lt;Mithrennaith&gt; Nhân tiện, tôi xin hỏi câu hỏi thứ hai của Marcels<br/>
-&lt;Johan&gt; Chúng ta sẽ nói về bản dịch tiếng Hà Lan sau, Mithrennaith<br/>
-<b>&lt;David_Brawn&gt;</b> Di sản có quyền phê duyệt bản dịch nhưng họ hiếm khi phải thực hiện quyền đó. Chúng tôi có mối liên kết chặt chẽ với các nhà xuất bản ở nước ngoài nên việc kiểm soát chất lượng thực sự tốt. Họ luôn tuyển được những người giỏi nhất có thể cho công việc. Chúng tôi thận trọng hơn về các tác phẩm phụ ở địa phương - chẳng hạn, có một số cuốn sách kém xuất sắc về Elvish ở các quốc gia khác nhau mà tôi biết sẽ khiến một số người khó chịu...<br/>
-&lt;Mithrennaith&gt; Tốt, Johan!<br/>
-<b>&lt;David_Brawn&gt;</b> Người đàn ông cầm chìa khóa đang đến. (Ông từng có súng, nhưng giờ ông có điện thoại di động ;-) ) Còn câu hỏi cuối cùng nào không?<br/>
-&lt;merpdotcom-afk&gt; tạm thời<br/>
-&lt;Marcel_Buelles&gt; Cảm ơn bạn rất nhiều vì đã ở đây. Trò chuyện tuyệt vời!<br/>
-&lt;Beren&gt; cảm ơn bạn rất nhiều vì đã ghé qua<br/>
-&lt;Hyarion&gt; Cảm ơn bạn rất nhiều lần vì đã dành thời gian trong lịch trình bận rộn của mình để dành chút thời gian cho chúng tôi David, thật tuyệt vời<br/>
-&lt;Beren&gt; đó là một niềm vui lớn! chúc may mắn những ngày sắp tới ở London<br/>
-&lt;Johan&gt; và vì đã ở lại làm việc quá lâu<br/>
-&lt;Eru_PT&gt; à, một câu hỏi cuối cùng: trong vài từ, bạn có thể mô tả CoH như thế nào?<br/>
-<b>&lt;David_Brawn&gt;</b> Tôi rất thích điều này. Chúc tôi thực hành tốt việc gõ tốc độ bằng hai ngón tay!<br/>
-&lt;Mithrennaith&gt; thực sự xin cảm ơn, tôi rất vui khi nhận được phản hồi từ bạn!<br/>
-&lt;Hyarion&gt; Bữa tiệc phát hành này sẽ không thể thành công nếu không có ông Brawn<br/>
-&lt;Sothaeros&gt; Hy vọng buổi ra mắt mọi việc suôn sẻ!<br/>
-&lt;Stevnhoved&gt; Cảm ơn rất nhiều!<br/>
-&lt;Melianna&gt; Cảm ơn bạn rất nhiều :)<br/>
-<b>&lt;David_Brawn&gt;</b> CoH - đó là một câu chuyện lớn trong một cuốn sách nhỏ. Và vâng, trời thì tối, nhưng nó sẽ mang lại ánh sáng mới Tolkien cho người hâm mộ. Và tôi hy vọng họ thích nó.<br/>
-&lt;Sothaeros&gt; hantanye<br/>
-&lt;Sothaeros&gt; Quenya -cảm ơn<br/>
-<b>&lt;David_Brawn&gt;</b> Bây giờ bạn đang thể hiện!<br/>
-&lt;Sothaeros&gt; Cảm ơn bạn đã dành thời gian, David<br/>
-&lt;Eru_PT&gt; à, tôi không có câu hỏi nào cả! Tôi chỉ có thể nói: cảm ơn bạn! Hantalë!<br/>
-&lt;Marcel_Buelles&gt; Thật tuyệt vời! Ngày mai! :)<br/>
-&lt;luinil&gt; Chúc mừng!  Cảm ơn bạn rất nhiều, bạn thật tuyệt vời<br/>
-&lt;Earendilyon&gt; D_Brawn: Tôi hy vọng bạn có thể trả lời các câu hỏi khác mà Hyarion và Beren dành cho bạn!<br/>
-&lt;Hyarion&gt; Chúng tôi sẽ đăng bản ghi này lên TolkienLibrary.com và TolkienGateway.net cho những ai bỏ sót điều gì.<br/>
-&lt;Orome&gt; grazie, tiếng ý cảm ơn bạn! ;-)<br/>
-&lt;Thomas&gt; cảm ơn bạn rất nhiều<br/>
-<b>&lt;David_Brawn&gt;</b> Tôi cũng cảm ơn bạn. Và hoàn thành tốt buổi tiệc ra mắt trực tuyến. Nó thực sự ấn tượng. Tôi sẽ trả lời thêm một số câu hỏi nếu họ muốn gửi cho tôi.<br/>
-<b>&lt;David_Brawn&gt;</b> Tạm biệt.
+<p><b>&lt;David_Brawn&gt;</b>	Hello everyone. Good grief, there are a lot of you!!!<br/>
+&lt;Beren&gt;	Welcome David Brawn<br/>
+<b>&lt;David_Brawn&gt;</b>	Thanks<br/>
+&lt;Beren&gt;	Sorry all chatters i muted the channel<br/>
+&lt;Beren&gt;	to be able to do a Q&amp;A with David Brawn<br/>
+&lt;Beren&gt;	we will reopen the chat after the Q&amp;A<br/>
+&lt;Beren&gt;	You can PM me to ask questions!<br/>
+&lt;Beren&gt;	Welcome David Brawn<br/>
+&lt;Beren&gt;	it is a pleasure you could make some time for us!<br/>
+<b>&lt;David_Brawn&gt;</b>	Hello. (Who he? everyone asks!<br/>
+&lt;Hyarion|school&gt;	For those who don&#39;t know who David Brawn is, firstly shame on you, and secondly, he is the Publishing Director of HarperCollins<br/>
+&lt;Beren&gt;	How does it feel to know that you&#39;ve read certain Tolkien texts before the fans were allowed to?<br/>
+<b>&lt;David_Brawn&gt;</b>	I&#39;ve been at HarperCollins for 20 years, the last 12 publishing Tolkien, plus some other authoprs estates.<br/>
+<b>&lt;David_Brawn&gt;</b>	It&#39;s a great honour reading the texts first. And I have a great editor, hris Smith, who actually is much more knowledgeable about the texts than I am.<br/>
+<b>&lt;David_Brawn&gt;</b>	Chris Smith<br/>
+<b>&lt;David_Brawn&gt;</b>	My typing&#39;s terrible!<br/>
+&lt;Hyarion|school&gt;	Ah, 20 years is quite a long time, what was your first Tolkien project?<br/>
+&lt;Hyarion|school&gt;	Ah don&#39;t worry, in a chatroom, typing is always less than perfect :)<br/>
+<b>&lt;David_Brawn&gt;</b>	Good question! I think it was The Map of the Hobbit by John Howe. And Peoples of Middle-earth. And the infamous calendar with the upside-down picture. All were around that time.<br/>
+&lt;Hyarion|school&gt;	ah, very cool.<br/>
+&lt;Hyarion|school&gt;	Do you have a favorite project that you&#39;ve worked on?<br/>
+<b>&lt;David_Brawn&gt;</b>	Illustrated Hobbit by Alan Lee.<br/>
+&lt;Hyarion|school&gt;	Anything particular that made it close to your heart?<br/>
+<b>&lt;David_Brawn&gt;</b>	It was the first one I had the idea for and commissioned. And the idea of the pencil drawings, which has been replicated in CoH.<br/>
+&lt;Hyarion|school&gt;	The pencil drawings are something I love!<br/>
+<b>&lt;David_Brawn&gt;</b>	They are brilliant, and show Alan at his most relaxed best.<br/>
+&lt;Beren&gt;	will there appear a portfolio of those? they are indeed very lovely.<br/>
+<b>&lt;David_Brawn&gt;</b>	The Lord of the Rings Sketchbook has been very successful, and we certainly have ambitions for a Hobbit one at some point. But Alan&#39;s been busy...<br/>
+&lt;Beren&gt;	Did you expect the skecthbook to do so well?<br/>
+<b>&lt;David_Brawn&gt;</b>	It rather uniquely enabled us to dovetail the book illustrations with the movie art, which was noce. Originally it wasn&#39;t going to have movie stuff, but Alan wanted to put some in and was able to thanks to his agreement with New Line. And he did some new bits and pieces<br/>
+&lt;Beren&gt;	let us go back to the beginning... did you work together with rayner Unwin?<br/>
+<b>&lt;David_Brawn&gt;</b>	Rayner had retired, but was still working in an advisory capacity. I met him for lunch in pretty much my first week, and he used to attend our meeting with the Estate right up until he died.<br/>
+&lt;Beren&gt;	Did you change a lot on the way of publishing Tolkien<br/>
+&lt;Beren&gt;	compared to Rayner Uwnwin?<br/>
+<b>&lt;David_Brawn&gt;</b>	The list had undergone a bit of a renaissance thanks to the acquisition of Unwin Hyman by HarperCollins, followed by the Centenary. But it had quietened down, and my predecessor had to leave because her husband was suddenly very ill. My brief was to try to make some more money!!!<br/>
+&lt;Beren&gt;	Here is a question of Halion (on of the guests pm&#39;s): do you think JRRT would have been happy with how your company has handled the publishing?<br/>
+<b>&lt;David_Brawn&gt;</b>	Interesting question. Like so much of what we do, if we only could phone him and ask him, life would be simpler. Instead we have to follow our instincts, and thanks to Christopher and the rest of the Estate, we have to guess what JRRT would have thought. But I don&#39;t think we&#39;ve done anything especially objectionable.<br/>
+&lt;Beren&gt;	How is it to work with the estate?<br/>
+<b>&lt;David_Brawn&gt;</b>	They are very supportive. I&#39;ve learnt over the years that a softly-softly approach works. Having Rayner Unwin&#39;s support was valuable, as they trusted him - he said at our last meeting how impressed he was by what we had achieved, things GA&amp;E could never have managed, and that counted for a lot. And now Chris and I have been around long enough, I think, to be able to judge it fairly well.<br/>
+&lt;Beren&gt;	Yes you truly must have patience... when i hear how long some authors delay a book<br/>
+&lt;Beren&gt;	thinking of Wayne Hammond and Christina Scull&#39;s<br/>
+&lt;Beren&gt;	Companion and Guide<br/>
+&lt;Beren&gt;	and the book of our previous guest<br/>
+&lt;Beren&gt;	John D. rateliff<br/>
+&lt;Beren&gt;	How you manage all these ongoing projects?<br/>
+<b>&lt;David_Brawn&gt;</b>	Works like the Companion and Guide and The History of the Hobbit are true labours of love and really fine scholarship and research. Unlike most publishing these days, they cannot be rushed, so a lot of what I do actually is fend off my own bosses rather than the Estate in ensuring these books are as good as possible and that we are not hijacked by publishing timetables<br/>
+<b>&lt;David_Brawn&gt;</b>	I work on Tolkien, C.S.Lewis and Agatha Christie, plus a few much smaller projects, so I&#39;m able to devote a fair amount of time to these things. As CoH shows, when the big books come along, they can really make the headlines.<br/>
+&lt;Beren&gt;	Are you yourself a Tolkien fan?<br/>
+&lt;Hyarion&gt;	For those just joining us, we are speaking with the Publishing Director of HarperCollins, David Brawn, who handles the publications of J.R.R. Tolkien&#39;s works.<br/>
+<b>&lt;David_Brawn&gt;</b>	I am now! When I got the job, I hadn&#39;t read any, except for The Hobbit as a child. Like so many, my impression of what he Lord of the Rings represented was coloured by some misunderstanding about the genre, and the scary nature of such a fat book!<br/>
+&lt;Hyarion&gt;	Always nice to see a fan is the one working with the publisher and not someone who doesn&#39;t care about the works.<br/>
+&lt;Beren&gt;	Are there any plans to release other unpublished Tolkien materials in the future?<br/>
+<b>&lt;David_Brawn&gt;</b>	We all care a great deal. But I got the job precisely because I wasn&#39;t a fan. The Managing Director wanted someone who could be objective and make commercial decsions as well as empathise with the Estate.<br/>
+&lt;Hyarion&gt;	That is probably a good business decision, I think most of us in here would publish just about anything with the Tolkien name on it :)<br/>
+&lt;Beren&gt;	Can you describe your job, as in: what do you do on a daily basis?<br/>
+<b>&lt;David_Brawn&gt;</b>	The Children of Hurin is possibly the last time we&#39;ll see something that is as significant in terms of unpublished material. The History of the Hobbit contains a very big chunk of unpublished material, so after that, I&#39;m not sure what is left.<br/>
+<b>&lt;David_Brawn&gt;</b>	On a daily basis it can feel that all I do is deal with e-mails and queries. Much of what I do is reactive. But it includes legal issues, permissions, marketing of any new books, looking at foreign language deals and approvals - it&#39;s a very broad job compared to other publishing directors, many of whom spend their time scouting around for new books. <br/>
+&lt;Hyarion&gt;	It must be a very interesting job.<br/>
+&lt;Hyarion&gt;	How do you feel the reviews for The Children of Húrin have been thus far?<br/>
+<b>&lt;David_Brawn&gt;</b>	It became much broader thanks to the films. I got to travel a lot and broaden my skills into film publishing. Narnia is doing that now, too.<br/>
+<b>&lt;David_Brawn&gt;</b>	The reviews have been positive. So much of what we&#39;ve seen has been speculative, such as a diary piece headed &#34;Let Sleeping Hobbit Lie&#34; a few weeks ago. Completely unfair! But apart from a bit of a stinker in yesterday&#39;s Sunday Times (after a glowing article int he same paper a week ago), it&#39;s not bad at all. But they&#39;re only reviews. It&#39;s what you all think that really counts!<br/>
+&lt;Hyarion&gt;	My thoughts exactly, it may not be something a random person can pick up and love, but it&#39;s something a Tolkien fan can read through a 1,000 times and never become bored.<br/>
+&lt;Hyarion&gt;	Do you have any known plans for future editions of the book? Someone asks if there are plans for a &#34;super deluxe edition&#34;?<br/>
+<b>&lt;David_Brawn&gt;</b>	Exactly. This book is not going to turn a non-Tolkien fan into a fan, I don&#39;t think, but it should open a window for more casual fans on to a wider world, that of the First Age. I certainly wanted to have another crack at The Silmarillion after reading this - suddenly the prospect was less daunting.<br/>
+&lt;Beren&gt;	Do you think that The Children of H?rin will alter public perception of Tolkien&#39;s work as a whole, and if so, how?<br/>
+&lt;Hyarion&gt;	Beren, let&#39;s slow down, don&#39;t want to ask him too many questions at once :p<br/>
+<b>&lt;David_Brawn&gt;</b>	I think it will be nice to have something with a higher profile, so say that Tolkien&#39;s didnt just write stories about Hobbits. But as above, I think it&#39;s true value will be to broaden everyone&#39;s horizons about his writing. We want it to supplant The Silmarillion as the &#34;third book&#34;.<br/>
+&lt;Beren&gt;	Will a Deluxe Edition of The Silmarillion be released any time in the future to match that of The Hobbit Anniversary Edition, The Lord of the Rings 50th Anniversary Deluxe Edition and the upcoming The Children of H?rin Deluxe Edition?<br/>
+<b>&lt;David_Brawn&gt;</b>	We&#39;re still thinking about it. The print run for the deluxe has grown, and if it does well over then next week or so, I think it&#39;s quite possible we&#39;ll do a Silmarillion. It may be next year though rather than this year for the birthday, as I am nervous about piling on too many expensive editions in one year as some fans can&#39;t afford them all.<br/>
+&lt;Hyarion&gt;	That is great news indeed<br/>
+&lt;Beren&gt;	so also no special hobbit this year?<br/>
+<b>&lt;David_Brawn&gt;</b>	We are re-releasing the hardback edition with a reworked cover, going back to the original painting, which has previously been recoloured in garish tones. It should have a couple of extra features not in the previous hardback, but the deluxe edition will still be the most lavish in terms of content, complete with the 50th anniversary intro by CT.<br/>
+&lt;Hyarion&gt;	That should make a lot of fans happy.<br/>
+&lt;Turin&gt;	enlightening Q&amp;A session, David_Brawn :)<br/>
+&lt;RJaroszewski&gt;	Beren: Get a second channel set where people can deposit their questions. That way you should get less double-questions.<br/>
+&lt;Turin&gt;	oh there&#39;s more? cool<br/>
+&lt;Hyarion&gt;	David_Brawn, how much time do you think you have left to spend with us?<br/>
+&lt;Hyarion&gt;	so many questions, unfortunately there is no way we&#39;ll be able to get to them all<br/>
+<b>&lt;David_Brawn&gt;</b>	OK. I&#39;m good for about 10 minutes. Then Security kick me out of the HarperCollins building to lock up!<br/>
+&lt;Hyarion&gt;	ah, hehe<br/>
+&lt;Hyarion&gt;	okay let&#39;s see<br/>
+&lt;Earendilyon&gt;	perhaps Mr Brawn would be so kind to answer the other questions later in a personal mail to Hyarion and/or Beren?<br/>
+<b>&lt;David_Brawn&gt;</b>	Thnk I wanna be here all night... ;-)<br/>
+&lt;Marcel_Buelles&gt;	It would be great to have you here all night :)<br/>
+&lt;Hyarion&gt;	Earendilyon, yes, we&#39;ll definitely see if we can work something out.<br/>
+<b>&lt;David_Brawn&gt;</b>	And yes, I can answer emails that can be posted later.<br/>
+&lt;Earendilyon&gt;	D_Brawn: just hide under your desk :D<br/>
+&lt;Eru_PT&gt;	I have a question... can I do it?<br/>
+&lt;Sothaeros&gt;	You&#39;ve opened the floodgates there, David<br/>
+&lt;Beruthiel&gt;	or, maybe visit us here at your leisure?<br/>
+<b>&lt;David_Brawn&gt;</b>	Can do. I&#39;m at Waterstones in Piccadilly most of Tuesday for the UK release eevnt.<br/>
+&lt;Eru_PT&gt;	HAd HArper Collins accept since the beginning the idea of publishe the CoH?<br/>
+&lt;Hyarion&gt;	David_Brawn, that should definitely be a fun event. Is there anyone here going to be attending the Waterstones event?<br/>
+<b>&lt;David_Brawn&gt;</b>	Absolutely. Christopher actually wanted ourt opinion as to whether it was good enough (!), but we loved it!<br/>
+&lt;Eru_PT&gt;	Since when do you know Christopher Tolkien?<br/>
+&lt;Hyarion&gt;	Is there many books that have to be turned down that relate to Tolkien?<br/>
+&lt;Beren&gt;	When did Christopher first propose to do the Children of Hurin? And how was the date picked? Does the 17th of April has any connection?<br/>
+<b>&lt;David_Brawn&gt;</b>	The spin-off stuff. People send us good ideas about Middle-eath encyclopaedias etc., but we have to be careful not to get carried away by our enthusiasm. The Estate is keen to ensure only bona fide Tolkien material is represented - it&#39;s tempting for authors to invent or speculate on material Tolkien himself did not intend. The film books are a separate strand, so more leeway is allowed there.<br/>
+&lt;Hyarion&gt;	Gotcha<br/>
+<b>&lt;David_Brawn&gt;</b>	For CoH, we wanted to publish during the London Book Fair, because of the international appeal. Originally it was March, but the Fauir moved dates, so we had to. It&#39;s publishing in eight languages tomorrow, with another 20 in the pipeline over the next year.<br/>
+&lt;Eru_PT&gt;	Do you have one copy of every Tolkien book that you published? :)<br/>
+&lt;Hyarion&gt;	I know a lot of the international fans are excited it&#39;s a world wide release, most don&#39;t have to wait months or years for their edition to come out<br/>
+&lt;Beruthiel&gt;	can&#39;t wait till my HC copy of COH arrives next week. :)<br/>
+&lt;Sil&gt;	is Hungarian among those other 20? *is hopeful*<br/>
+<b>&lt;David_Brawn&gt;</b>	I knew about CoH 12 years ago - there was a file then. But Christopher only complete it in February two years ago, and then took anotehr year to craft his intro and appendices, and we used that time to get Alan Lee on board.<br/>
+<b>&lt;David_Brawn&gt;</b>	Hungarian was agreed in the last couple of weeks, I think.<br/>
+&lt;Beruthiel&gt;	wow, 12 years, impressive<br/>
+&lt;Akhorahil&gt;	What about a Norwegian translation?<br/>
+&lt;Melianna&gt;	David_Brawn, what are the names of illustrators besides Alan Lee, John Howe and maybe Ted Nasmith that you cooperate with?<br/>
+<b>&lt;David_Brawn&gt;</b>	Yes, Norstets are publishing that.<br/>
+&lt;Tinfang_Warble&gt;	Yes Sil, Húrin gyermekei.<br/>
+&lt;Earendilyon&gt;	translations suck, anyway ;)<br/>
+&lt;Marcel_Buelles&gt;	Germans are very happy about the translation - thx a bundle!<br/>
+&lt;Akhorahil&gt;	Norstets, isn&#39; that a Swedish publishing house?<br/>
+&lt;Sil&gt;	wow, that&#39;s good news, we didn&#39;t have an official word about that.<br/>
+<b>&lt;David_Brawn&gt;</b>	Alan Lee and John Howe are our favourites. We keep looking for more, but no one comes close. Ted is brilliant, of course, but we&#39;ve not had much opportunity to do much with him of late.<br/>
+&lt;Sil&gt;	which publisher will it be? Europa or Szukits?<br/>
+&lt;Tinfang_Warble&gt;	Norwegian: Húrins barn. Tiden Norsk Forlag is the publishing house I thought...  <br/>
+&lt;Eru_PT&gt;	Mr. Brawn, just for curiosity: Do you have one copy of every Tolkien book that you published? :)<br/>
+&lt;Akhorahil&gt;	Sounds about right (the Norwegian with Tiden)<br/>
+<b>&lt;David_Brawn&gt;</b>	Oh, I&#39;ve got my Scandinavian publishers mixed up again, have I? But anyway, definitely a Norwegian one coming.<br/>
+&lt;Johan&gt;	I think the Norwegian translator is online here<br/>
+&lt;Marcel_Buelles&gt;	Ask Nils :)<br/>
+&lt;Tinfang_Warble&gt;	Ha, he is indeed!<br/>
+&lt;Nils_Ivar&gt;	Indeed I am. :)<br/>
+&lt;Beren&gt;	<a class="external free" href="http://www.tolkienlibrary.com/press/The_Children_of_Hurin_translations.php" rel="noreferrer noopener" target="_blank">http://www.tolkienlibrary.com/press/The_Children_of_Hurin_translations.php</a> for info on translations!<br/>
+<b>&lt;David_Brawn&gt;</b>	Oh, how embarrassing.<br/>
+&lt;Akhorahil&gt;	haha<br/>
+<b>&lt;David_Brawn&gt;</b>	I have most of what I published in my office. But people &#39;borrow&#39; them and sometimes I can;t replace them. <br/>
+&lt;Marcel_Buelles&gt;	Could you explain to us how much leeway national publishers have in translating books/ doing their own publications on Tolkien?<br/>
+&lt;Hyarion&gt;	David_Brawn, I must say I love the new tolkien.co.uk, after the release will there be many updates to it or is this going to be something we can look to frequently?<br/>
+&lt;Akhorahil&gt;	Just leafing through the Silmarillion again here (in Norwegian for the first time in a while)...good translation work, Nils<br/>
+&lt;Sil&gt;	OK, but this is new, that there WILL be a Hungarian one.<br/>
+&lt;Mithrennaith&gt;	I don&#39;t think we have the Dutch translator online, but I read a preliminary version, and so has Johan, I understand. I heard he had some comments yesterday but unfortunately I wasn&#39;t there.<br/>
+&lt;Nils_Ivar&gt;	Many thanks, Akhorahil. But let&#39;s not distract attention from what David has to say.<br/>
+&lt;Mithrennaith&gt;	I second Marcels question, by the way<br/>
+&lt;Johan&gt;	We will talk about the Dutch translation later, Mithrennaith<br/>
+<b>&lt;David_Brawn&gt;</b>	The Estate has the right of approval over translations, but they rarely have to exercise it. We have such established links with the publishers overseas that the quality control is really good. They always get the best people they can for the job. We&#39;re more circumspect about local spin-offs - there are some less than brilliant books on Elvish in different countries, for example, which I know irritate certain people...<br/>
+&lt;Mithrennaith&gt;	Good, Johan!<br/>
+<b>&lt;David_Brawn&gt;</b>	The man with the keys is coming. (He used to have a gun, but now he has a mobile phone ;-) ) Any last questions?<br/>
+&lt;merpdotcom-afk&gt;	ciao for now<br/>
+&lt;Marcel_Buelles&gt;	Thank you so very much for being here. Great chat!<br/>
+&lt;Beren&gt;	thank you so much for coming by<br/>
+&lt;Hyarion&gt;	Thank you a million times over for taking the time out of your busy schedule to spend some time with us David, it&#39;s been fantastic<br/>
+&lt;Beren&gt;	it was a big pleasure! good luck the coming days in London<br/>
+&lt;Johan&gt;	and for staying so lon at work<br/>
+&lt;Eru_PT&gt;	well, one last question: in few words, how can you describe the CoH?<br/>
+<b>&lt;David_Brawn&gt;</b>	I&#39;ve enjoyed this. Good practice fro my two-fingered speed typing!<br/>
+&lt;Mithrennaith&gt;	thanks indeed, it was a great pleasure hearing from you!<br/>
+&lt;Hyarion&gt;	This Release Party would not have been anywhere as successful had it not been for Mr. Brawn<br/>
+&lt;Sothaeros&gt;	Hope all goes well at the launch!<br/>
+&lt;Stevnhoved&gt;	Thanks a lot!<br/>
+&lt;Melianna&gt;	Thanks you lot :)<br/>
+<b>&lt;David_Brawn&gt;</b>	CoH - it&#39;s a big story in a small book. And yes, it&#39;s dark, but it&#39;s going to shed new light on Tolkien for the fans. And I hope they like it.<br/>
+&lt;Sothaeros&gt;	hantanye<br/>
+&lt;Sothaeros&gt;	Quenya -thank you<br/>
+<b>&lt;David_Brawn&gt;</b>	Now you&#39;re showing off!<br/>
+&lt;Sothaeros&gt;	Thanks for your time, David<br/>
+&lt;Eru_PT&gt;	well, i don&#39;t have any questions! I just can say: thank you! Hantalë!<br/>
+&lt;Marcel_Buelles&gt;	Aure entuluva! Tomorrow! :)<br/>
+&lt;luinil&gt;	Cheers!  Thanks so much you&#39;ve been wonderful<br/>
+&lt;Earendilyon&gt;	D_Brawn: I hope you&#39;ll be able to answer the other questions Hyarion and Beren have in store for you!<br/>
+&lt;Hyarion&gt;	We will be posting this transcript on TolkienLibrary.com and TolkienGateway.net for those who missed anything.<br/>
+&lt;Orome&gt;	grazie, italian thank you! ;-)<br/>
+&lt;Thomas&gt;	thank you so much<br/>
+<b>&lt;David_Brawn&gt;</b>	Thanks you too. And well done on the on-line launch party. It&#39;s really impressive. I&#39;ll attend to some more questions, if they&#39;d like to send them to me.<br/>
+<b>&lt;David_Brawn&gt;</b>	Bye now.
 </p>
 </div>

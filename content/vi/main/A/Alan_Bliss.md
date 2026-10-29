@@ -29,7 +29,7 @@ infobox:
     value: "Scholar"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Alan Joseph Bliss</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/1921.md" title="1921">1921</a></td></tr><tr><th scope="row" class="tg-infobox-label">Qua đời</th><td class="tg-infobox-data"><a href="../_/1985.md" title="1985">1985</a></td></tr><tr><th scope="row" class="tg-infobox-label">Học vấn</th><td class="tg-infobox-data"><a href="../U/University_of_Oxford.md" title="University of Oxford">Đại học Oxford</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Scholar</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Alan Joseph Bliss</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/1921.md" title="1921">1921</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/1985.md" title="1985">1985</a></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data"><a href="../U/University_of_Oxford.md" title="University of Oxford">University of Oxford</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Scholar</td></tr></tbody></table>
 
 **Alan Joseph Bliss** (1921-1985) là cựu học sinh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 

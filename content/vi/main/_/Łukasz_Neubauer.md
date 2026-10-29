@@ -54,7 +54,7 @@ sort_keys:
 - [2021](2021.md): *[Journal of Inklings Studies](../J/Journal_of_Inklings_Studies.md)*, Tập 11, số 2.
     - "'Những chú đại bàng đang đến!': Một sự diễn giải lại bằng khí nén học về 'những con thú chiến' trong tiếng Đức cổ"
 - 2021: [Cormarë](../C/Cormarë_Series.md) 45: *[Tolkien and the Classical World](../T/Tolkien_and_the_Classical_World.md)*
-    - "Lúc đầu ít ý thức hơn nhưng có ý thức hơn trong bản sửa đổi: Chiếc nhẫn Gyges của Plato như một nguồn cảm hứng giả định cho Nhẫn Quyền Năng của Tolkien"
+    - "Lúc đầu ít ý thức hơn nhưng có ý thức hơn trong bản sửa đổi: Chiếc nhẫn Gyges của Plato như một nguồn cảm hứng giả định cho Chiếc nhẫn quyền lực của Tolkien"
 - [2022](2022.md): *[Lembas Extra 2022: Númenor](../L/Lembas_Extra_2022.md)*
     - "Lời chú giải trong Kinh thánh dành cho các nhân chứng của Manwë"
 - [2024](2024.md): [Cormarë](../C/Cormarë_Series.md) 48: *[The Songs of the Spheres](../T/The_Songs_of_the_Spheres.md)*

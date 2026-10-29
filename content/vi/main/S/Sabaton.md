@@ -24,12 +24,12 @@ categories:
 ### Trích lời bài hát {#Lyrics_excerpt}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Đối mặt với cơn gió khi họ cưỡi ngựa trên bầu trời<br/>
-Bóng của Mordor, ngựa đen chúng bay<br/>
-Vua bóng đen, tìm chiếc nhẫn<br/>
-Hãy tìm kiếm Halfling, hỡi chúa tể bóng tối<br/>
-Anh chàng hobbit với chiếc nhẫn Sauron, ông là dấu ấn của bạn<br/>
-Ánh sáng tà ác trong đêm <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<p>Facing the wind as they ride through the sky<br/>
+Shadows of Mordor, black horses they fly<br/>
+Black shadow king, find the ring<br/>
+Search for the Halfling, you lords of the dark<br/>
+The hobbit with Sauron&#39;s ring, he is your mark<br/>
+Unholy light, in the night <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </p>
 </div>
 

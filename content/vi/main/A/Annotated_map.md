@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "General Map of Middle-earth"
 ---
 
-Chuyển hướng đến [Bản đồ tổng quát về Trung Địa](../G/General_Map_of_Middle-earth.md).
+Chuyển hướng đến [Bản đồ chung của Trung Địa](../G/General_Map_of_Middle-earth.md).

@@ -62,59 +62,59 @@ infobox:
     value: "Profile"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
-<p>Ai đã bảo ông, và ai đã phái ông đến đây?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
+<p>Who told you, and who sent you?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên gọi <b>The Two Towers</b> được dùng để chỉ nhiều nhân vật, vật phẩm hoặc khái niệm khác nhau. Để xem danh sách các nghĩa khác, hãy xem <b><a class="mw-disambig" href="Two_Towers_(disambiguation).md" title="Two Towers (disambiguation)">Two Towers (trang định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Two Towers</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Two_Towers_(disambiguation).md" title="Two Towers (disambiguation)">Two Towers (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Two_Towers_-_Ensemble_poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/30/The_Lord_of_the_Rings_-_The_Two_Towers_-_Ensemble_poster.jpg/320px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Ensemble_poster.jpg" decoding="async" loading="lazy" width="320" height="474" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/30/The_Lord_of_the_Rings_-_The_Two_Towers_-_Ensemble_poster.jpg/480px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Ensemble_poster.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/30/The_Lord_of_the_Rings_-_The_Two_Towers_-_Ensemble_poster.jpg/640px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Ensemble_poster.jpg 2x" data-file-width="1580" data-file-height="2340"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Two Towers</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><b>Book:</b><br/><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/><b>Screenplay:</b><br/><a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a><br/><a href="../P/Philippa_Boyens.md" title="Philippa Boyens">Philippa Boyens</a><br/>Peter Jackson</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà sản xuất</th><td class="tg-infobox-data">Peter Jackson<br/>Barrie M. Osborne<br/><a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a></td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data">xem bên dưới</td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data"><a href="../A/Andrew_Lesnie.md" title="Andrew Lesnie">Andrew Lesnie</a></td></tr><tr><th scope="row" class="tg-infobox-label">Biên tập</th><td class="tg-infobox-data">Michael J. Horton</td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data"><a href="../W/WingNut_Films.md" title="WingNut Films">WingNut Films</a><br/><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a></td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data"><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a class="mw-redirect" href="../D/December_18.md" title="December 18">December 18</a>, <a href="../_/2002.md" title="2002">2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data"><b>Theatrical:</b><br/>179 min.<br/><b>Extended Edition:</b><br/>223 min.</td></tr><tr><th scope="row" class="tg-infobox-label">Quốc gia</th><td class="tg-infobox-data">New Zealand &amp; USA</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr><tr><th scope="row" class="tg-infobox-label">Ngân sách</th><td class="tg-infobox-data">94 triệu USD</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.lordoftherings.net" rel="noreferrer noopener" target="_blank">Trang web chính thức</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt0120737" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Two_Towers_-_Ensemble_poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/30/The_Lord_of_the_Rings_-_The_Two_Towers_-_Ensemble_poster.jpg/320px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Ensemble_poster.jpg" decoding="async" loading="lazy" width="320" height="474" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/30/The_Lord_of_the_Rings_-_The_Two_Towers_-_Ensemble_poster.jpg/480px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Ensemble_poster.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/30/The_Lord_of_the_Rings_-_The_Two_Towers_-_Ensemble_poster.jpg/640px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Ensemble_poster.jpg 2x" data-file-width="1580" data-file-height="2340"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Two Towers</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data"><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data"><b>Book:</b><br/><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/><b>Screenplay:</b><br/><a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a><br/><a href="../P/Philippa_Boyens.md" title="Philippa Boyens">Philippa Boyens</a><br/>Peter Jackson</td></tr><tr><th scope="row" class="tg-infobox-label">Producer</th><td class="tg-infobox-data">Peter Jackson<br/>Barrie M. Osborne<br/><a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a></td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data">see below</td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data"><a href="../A/Andrew_Lesnie.md" title="Andrew Lesnie">Andrew Lesnie</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editing</th><td class="tg-infobox-data">Michael J. Horton</td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Studio</th><td class="tg-infobox-data"><a href="../W/WingNut_Films.md" title="WingNut Films">WingNut Films</a><br/><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a></td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data"><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a class="mw-redirect" href="../D/December_18.md" title="December 18">December 18</a>, <a href="../_/2002.md" title="2002">2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data"><b>Theatrical:</b><br/>179 min.<br/><b>Extended Edition:</b><br/>223 min.</td></tr><tr><th scope="row" class="tg-infobox-label">Country</th><td class="tg-infobox-data">New Zealand &amp; USA</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Budget</th><td class="tg-infobox-data">$94 million</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.lordoftherings.net" rel="noreferrer noopener" target="_blank">Official website</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt0120737" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
 <i><b>The Lord of the Rings: The Two Towers</b></i> là bộ phim do [Peter Jackson](../P/Peter_Jackson.md) đạo diễn, có thời lượng chiếu rạp là 179 phút (2 giờ 59 phút). Đây là phần thứ hai trong [The Lord of the Rings film trilogy](<The_Lord_of_the_Rings_(film_series).md>), sau *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*. Kịch bản của phim được viết bởi Peter Jackson, [Fran Walsh](../F/Fran_Walsh.md) và [Philippa Boyens](../P/Philippa_Boyens.md). Đây là bản chuyển thể từ cuốn sách *[The Two Towers](The_Two_Towers.md)*, phần thứ hai của cuốn tiểu thuyết ba tập *[The Lord of the Rings](The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), mặc dù một số sự kiện sau đó được giữ lại cho bộ phim thứ ba sau này, *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Bộ phim được công chiếu lần đầu tại Nhà hát Ziegfeld ở Thành phố New York vào thứ Năm, ngày 5 tháng 12 [2002](../_/2002.md). Nó được giới phê bình đón nhận rất nồng nhiệt và là một thành công vang dội về doanh thu phòng vé, thu về hơn 900 triệu đô la trên toàn thế giới (trở thành bộ phim thành công thứ tư mọi thời đại vào thời điểm đó).
 
 ## Tóm tắt {#Synopsis}
 
-Những thành viên còn sống sót của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) đã chia thành ba nhóm. Frodo and Sam phải đối mặt với nhiều hiểm nguy trên hành trình tiếp tục cứu [Trung Địa](../M/Middle-earth.md) bằng cách phá hủy [Nhẫn Chúa](The_One_Ring.md) trong lửa thiêu tại [Núi Diệt Vong](../M/Mount_Doom.md). Merry and Pippin trốn thoát khỏi [Orc](../O/Orcs.md) và phải thuyết phục các [Ent](../E/Ents.md) tham gia cuộc chiến chống thế lực tà ác. Aragorn, Gimli và Legolas chạm trán Gandalf, người đã biến đổi một cách bí ẩn, rồi chiến đấu với đội quân của [Saruman](../S/Saruman.md) tại [Helm's Deep](../H/Helm's_Deep.md).
+Những thành viên còn sống sót của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) đã chia thành ba nhóm. Frodo và Sam phải đối mặt với nhiều nguy hiểm trong hành trình tiếp tục cứu [Trung Địa](../M/Middle-earth.md) bằng cách phá hủy [Chiếc Nhẫn Chúa](The_One_Ring.md) trong đám cháy của [Núi Diệt Vong](../M/Mount_Doom.md). Merry và Pippin trốn thoát khỏi [Orc](../O/Orcs.md) và phải thuyết phục [Ent](../E/Ents.md) tham gia cuộc chiến chống lại cái ác. Aragorn, Gimli và Legolas chạm trán với Gandalf bị biến đổi bí ẩn và chiến đấu với đội quân của [Saruman](../S/Saruman.md) tại [Helm's Deep](../H/Helm's_Deep.md).
 
 ## Lô đồ {#Plot}
 
-<h3><span id="Frodo_and_Sam.27s_journey"></span><span class="mw-headline" id="Frodo_and_Sam&#39;s_journey">hành trình của Frodo and Sam</span></h3>
+<h3><span id="Frodo_and_Sam.27s_journey"></span><span class="mw-headline" id="Frodo_and_Sam&#39;s_journey">Frodo and Sam&#39;s journey</span></h3>
 
 Sau khi tỉnh dậy sau giấc mơ Gandalf chiến đấu với [Balrog](../B/Balrogs.md) ở [Moria](../M/Moria.md), [Frodo Baggins](../F/Frodo_Baggins.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md) thấy mình bị lạc trong [Emyn Muil](../E/Emyn_Muil.md) gần [Mordor](../M/Mordor.md). Khi họ tiếp tục cuộc hành trình, họ phát hiện ra rằng họ đang bị theo dõi bởi [Gollum](../G/Gollum.md), kẻ mong muốn lấy lại [Chiếc nhẫn duy nhất](The_One_Ring.md). [Hobbit](../H/Hobbits.md) đã bắt giữ Gollum, nhưng Frodo đã tha mạng và cho phép Gollum dẫn đường cho họ. Sam phản đối quyết định này, nhưng Frodo khuyên rằng họ cần sự giúp đỡ của Gollum để tiến vào Mordor.
 
 ### Rohan {#Rohan}
 
-Tiến vào vương quốc [Rohan](../R/Rohan.md), [Ba Thợ Săn](Three_Hunters.md) ([Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md)) đã theo dõi một nhóm [Uruk-hai](../U/Uruk-hai.md) trong nỗ lực giải cứu Hobbit [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md). Uruk-hai bị tấn công bởi một nhóm đột kích [Rohirrim](../R/Rohirrim.md), cho phép Merry và Pippin trốn thoát vào [Rừng Fangorn](../F/Fangorn_Forest.md). Sau cuộc đột kích, Rohirrim bao vây Ba Thợ Săn và hỏi thăm hoạt động kinh doanh của họ ở Rohan. Sau những căng thẳng nhất thời giữa hai nhóm, Aragorn giải thích rằng họ đang tìm kiếm hai Hobbit. Thủ lĩnh của Rohirrim, [Éomer](../_/Éomer.md), sau đó giải thích rằng ông đã bị lưu đày bởi [Vua Théoden](Théoden.md) của Rohan, người chịu sự kiểm soát của [Pháp sư](../W/Wizards.md) [Saruman](../S/Saruman.md) và người hầu của hắn, [Grima Wormtongue](../G/Gríma.md). Éomer chỉ ra rằng Rohirrim không còn ai sống sót trong cuộc đột kích vào Uruk-hai và Merry và Pippin có khả năng đã bị giết.
+Tiến vào vương quốc [Rohan](../R/Rohan.md), [Ba Thợ Săn](Three_Hunters.md) ([Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md)) đã theo dõi một nhóm [Uruk-hai](../U/Uruk-hai.md) trong nỗ lực giải cứu Hobbit [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md). Uruk-hai bị tấn công bởi một nhóm đột kích [Rohirrim](../R/Rohirrim.md), cho phép Merry và Pippin trốn thoát vào [Rừng Fangorn](../F/Fangorn_Forest.md). Sau cuộc đột kích, Rohirrim bao vây Ba Thợ Săn và hỏi thăm hoạt động kinh doanh của họ ở Rohan. Sau những căng thẳng nhất thời giữa hai nhóm, Aragorn giải thích rằng họ đang tìm kiếm hai Hobbit. Thủ lĩnh của Rohirrim, [Éomer](../_/Éomer.md), sau đó giải thích rằng ông ta đã bị lưu đày bởi [Vua Théoden](Théoden.md) của Rohan, người chịu sự kiểm soát của [Pháp sư](../W/Wizards.md) [Saruman](../S/Saruman.md) và người hầu của hắn, [Grima Wormtongue](../G/Gríma.md). Éomer chỉ ra rằng Rohirrim không còn ai sống sót trong cuộc đột kích vào Uruk-hai và Merry và Pippin có khả năng đã bị giết.
 
-Aragorn tuyệt vọng, nhưng trong lúc đó, ông bắt đầu xem xét dấu vết do toán kỵ binh tập kích và nhóm Uruk-hai để lại. Ông lần theo những dấu vết ấy và tình cờ tìm thấy một chiếc trâm cài trên chiếc áo choàng mà [Galadriel](../G/Galadriel.md) đã tặng [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) trước khi họ rời [Lothlórien](../L/Lothlórien.md). Nghĩ đến câu “lá Lórien không rơi vô cớ”, Aragorn tin rằng chiếc trâm đã được cố ý đánh rơi với hy vọng một thành viên của Đoàn Hộ Nhẫn sẽ tìm thấy nó. Sau khi đi đến kết luận ấy, Aragorn dẫn Ba Thợ Săn tiến vào Rừng Fangorn.
+Aragorn tuyệt vọng, nhưng trong khi làm vậy, anh bắt đầu xem xét các dấu vết do nhóm đột kích và Uruk-hai để lại. Anh lần theo dấu vết và tình cờ tìm thấy một chiếc trâm cài được gắn vào áo choàng [Galadriel](../G/Galadriel.md) đã đưa cho [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) trước khi họ khởi hành [Lothlórien](../L/Lothlórien.md). Suy đoán rằng “không phải lá của Lórien rơi một cách bừa bãi”, Aragorn tin rằng chiếc chuốt được cố ý đánh rơi với hy vọng các thành viên của Hội sẽ tìm thấy nó. Sau khi đi đến kết luận này, Aragorn đã dẫn Ba Thợ Săn vào Rừng Fangorn.
 
 ### Gandalf trả về {#Gandalf_returns}
 
-Khi đang lang thang trong Rừng, Ba Thợ Săn bị một nhân vật mặc áo choàng trắng tấn công. Nghĩ rằng đó là Saruman, họ tấn công nhân vật đó nhưng vũ khí của họ vô dụng trước ông. Sau khi cuộc tấn công của họ thất bại, nhân vật mặc áo choàng trắng tiết lộ mình là Gandalf, người giải thích rằng, sau khi bị giết trong trận chiến với Balrog, ông đã được hồi sinh với sức mạnh được nâng cao thành Gandalf the White để hỗ trợ [Dân tộc tự do](../F/Free_peoples~19934.md) của Trung Địa trong [Chiến tranh](../W/War_of_the_Ring.md) chống lại [Sauron](../S/Sauron.md) của họ.
+Khi đang lang thang trong Rừng, Ba Thợ Săn bị một nhân vật mặc áo choàng trắng tấn công. Nghĩ rằng đó là Saruman, họ tấn công nhân vật đó nhưng vũ khí của họ vô dụng trước ông ta. Sau khi cuộc tấn công của họ thất bại, nhân vật mặc áo choàng trắng tiết lộ mình là Gandalf, người giải thích rằng, sau khi bị giết trong trận chiến với Balrog, ông ta đã được hồi sinh với sức mạnh được nâng cao thành Gandalf the White để hỗ trợ [Dân tộc tự do](../F/Free_peoples~19934.md) của Trung Địa trong [Chiến tranh](../W/War_of_the_Ring.md) chống lại [Sauron](../S/Sauron.md) của họ.
 
-Gandalf sau đó dẫn các Thợ săn đến thủ đô của Rohan, [Edoras](../E/Edoras.md). Khi họ đến nơi, Gandalf đã giật Théoden khỏi sự kiểm soát của Saruman. Tức giận khi tỉnh dậy, Vua muốn giết kẻ phản bội Wormtongue, nhưng Aragorn khuyên ông không nên làm vậy. Wormtongue nhân cơ hội này bỏ chạy. Sau khi biết được kế hoạch tiêu diệt Rohan của Saruman bằng Uruk-hai của mình, Théoden đã sơ tán người dân của mình đến pháo đài của [Hornburg](../H/Hornburg.md) ở [Helm's Deep](../H/Helm's_Deep.md). Khi ở Edoras, Aragorn đã gặp và kết bạn với cháu gái của Théoden, [Éowyn](../_/Éowyn.md), người bắt đầu yêu anh. Gandalf sau đó rời đi Edoras để tìm Éomer và những người theo hắn, hy vọng họ sẽ quay lại chiến đấu một lần nữa cho vị vua của mình.
+Gandalf sau đó dẫn các Thợ săn đến thủ đô của Rohan, [Edoras](../E/Edoras.md). Khi họ đến nơi, Gandalf đã giật Théoden khỏi sự kiểm soát của Saruman. Tức giận khi tỉnh dậy, Vua muốn giết kẻ phản bội Wormtongue, nhưng Aragorn khuyên ông ta không nên làm vậy. Wormtongue nhân cơ hội này bỏ chạy. Sau khi biết được kế hoạch tiêu diệt Rohan của Saruman bằng Uruk-hai của mình, Théoden đã sơ tán người dân của mình đến pháo đài của [Hornburg](../H/Hornburg.md) ở [Helm's Deep](../H/Helm's_Deep.md). Khi ở Edoras, Aragorn đã gặp và kết bạn với cháu gái của Théoden, [Éowyn](../_/Éowyn.md), người bắt đầu yêu anh. Gandalf sau đó rời đi Edoras để tìm Éomer và những người theo hắn, hy vọng họ sẽ quay lại chiến đấu một lần nữa cho vị vua của mình.
 
-Khi đoàn người sơ tán trên đường đến Helm's Deep bị [Orc](../W/Wargs.md) cưỡi [Warg](../O/Orcs.md) của Saruman tấn công, Aragorn tham gia phản công, nhưng bị mắc vào yên của một tên Orc cưỡi Warg rồi bị kéo rơi xuống vực, khiến mọi người tưởng ông đã chết. Sau đó, con ngựa Brego của Théodred tìm thấy ông và đưa ông đến Helm's Deep, nơi ông chứng kiến quân đội Saruman tập kết gần pháo đài.
+Khi những người sơ tán đi đến Helm's Deep bị tấn công bởi [Warg](../W/Wargs.md) cưỡi [Orc](../O/Orcs.md) của Saruman, Aragorn đã tham gia phản công, nhưng bị vướng vào yên của một Warg-rider và bị kéo qua một vách đá và được cho là đã chết. Sau đó anh được con ngựa Brego của Théodred tìm thấy và cưỡi đến Helm's Deep, nơi anh chứng kiến ​​đội quân của Saruman đang tập trung gần pháo đài.
 
-<h3><span id="Arwen.27s_choice"></span><span class="mw-headline" id="Arwen&#39;s_choice">sự lựa chọn của Arwen</span></h3>
+<h3><span id="Arwen.27s_choice"></span><span class="mw-headline" id="Arwen&#39;s_choice">Arwen&#39;s choice</span></h3>
 
-Tại Rivendell, [Arwen](../A/Arwen.md) trò chuyện với cha mình là Elrond. Elrond khuyên con gái rằng nếu nàng ở lại Trung Địa, nàng sẽ sống lâu hơn Aragorn đến hàng thiên niên kỷ và phải sống cô độc trong đau khổ qua nhiều thời đại. Arwen nghe theo lời khuyên của cha mình và bắt đầu chuẩn bị lên đường đến [Valinor](../V/Valinor.md). Sau đó, Galadriel liên lạc với Elrond và thuyết phục ông rằng Tiên tộc nên cử một lực lượng [Tiên tộc](../E/Elves.md) đến Helm's Deep.
+Vào Rivendell, [Arwen](../A/Arwen.md) đã nói chuyện với bố Elrond. Elrond đã khuyên con gái mình rằng, nếu còn ở lại Trung Địa, cô sẽ sống lâu hơn Aragorn hàng thiên niên kỷ và sẽ sống cô đơn và đau buồn suốt bao thế kỷ. Arwen nghe theo lời khuyên của cha cô và bắt đầu quá trình khởi hành đi [Valinor](../V/Valinor.md). Elrond sau đó đã được Galadriel liên hệ, người đã thuyết phục ông ta rằng Tiên tộc nên gửi một lực lượng [Tiên tộc](../E/Elves.md) đến Helm's Deep.
 
 ### Cuộc hành quân cuối cùng của Ent {#The_last_march_of_the_Ents}
 
 Trong Fangorn, Merry và Pippin đã gặp [Ent](../E/Ents.md) [Treebeard](Treebeard.md). Sau khi thuyết phục Treebeard rằng họ không phải là kẻ thù, Hobbit được đưa đến một [Entmoot](../E/Entmoot.md), tại đó, sau một cuộc thảo luận chậm rãi và kéo dài, Ent đã quyết định không tham gia vào cuộc chiến sắp tới. Dường như đã thất bại trong việc tranh thủ sự hỗ trợ của Ent, Pippin đã yêu cầu Treebeard đưa Hobbit về phía Isengard. Khi đến gần pháo đài, họ chứng kiến ​​khu rừng xung quanh bị tàn phá, đã bị Orc của Saruman đốn hạ. Treebeard trở nên giận dữ và quyết định tập hợp Ent để xông vào Isengard. Cuộc tấn công sau đó thành công và Saruman bị mắc kẹt trong tòa tháp của mình.
 
-### Trận chiến Hornburg {#The_Battle_of_the_Hornburg}
+### Cái Trận Hornburg {#The_Battle_of_the_Hornburg}
 
-Sau khi Aragorn cảnh báo về đội quân Uruk-hai đang kéo đến, Théoden chuẩn bị ứng chiến. Trong thế bị áp đảo hoàn toàn về quân số, hy vọng được nhen nhóm khi các Tiên tộc [Galadhrim](../G/Galadhrim.md) xuất hiện ngay trước khi quân của Saruman kéo đến. Một [trận chiến](../B/Battle_of_the_Hornburg.md) ác liệt nổ ra. Một Uruk-hai [Berserker](../B/Berserker.md) dùng thuốc nổ phá thủng bức tường ngoài. Lực lượng phòng thủ rút vào thành lũy, và Aragorn thuyết phục Théoden đối đầu với Uruk-hai trong một đợt xung phong liều chết cuối cùng. Vào lúc bình minh, đúng như lời hứa với Aragorn, Gandalf và Éomer dẫn quân Rohirrim đến, đánh tan quân của Saruman. Những Uruk-hai sống sót chạy trốn vào Rừng Fangorn, nơi cây cối nhanh chóng đánh chết chúng.
+Được Aragorn cảnh báo về đội quân Uruk-hai sắp tới, Théoden đã chuẩn bị sẵn sàng cho trận chiến sắp tới. Với số lượng đông hơn rất nhiều, hy vọng đã được nhen nhóm với sự xuất hiện của [Galadhrim](../G/Galadhrim.md) Tiên tộc ngay trước khi lực lượng của Saruman xuất hiện. Một [trận chiến](../B/Battle_of_the_Hornburg.md) khốc liệt diễn ra sau đó, một Uruk-hai [Berserker](../B/Berserker.md) chọc thủng bức tường bên ngoài bằng chất nổ. Lực lượng phòng thủ rút lui vào trong pháo đài và Aragorn thuyết phục Théoden gặp Uruk-hai trong một đòn tấn công tuyệt vọng cuối cùng. Vào lúc bình minh, như ông ta đã hứa với Aragorn, Gandalf và Éomer đã đến cùng với Rohirrim và đánh tan lực lượng của Saruman. Những Uruk-hai sống sót chạy trốn vào Rừng Fangorn, nơi họ ngay lập tức bị cây cối đánh chết.
 
-### Các Tuần Du Nhân Ithilien {#The_Rangers_of_Ithilien}
+### Biệt đội của Ithilien {#The_Rangers_of_Ithilien}
 
-Khi hành trình đến Mordor, Gollum dẫn Frodo và Sam qua [Đầm lầy Chết](../D/Dead_Marshes.md) đến [Cổng Đen](../B/Black_Gate.md). Nhận thấy Cổng được phòng thủ nghiêm ngặt, Gollum đề nghị họ tiến vào Mordor bằng một con đường khác. Không lâu sau, Frodo và Sam bị bắt giữ bởi các [Tuần Du Nhân Ithilien](../R/Rangers_of_Ithilien.md) do [Faramir](../F/Faramir.md), em trai của [Boromir](../B/Boromir.md), chỉ huy. Để cứu Gollum khỏi bị các Tuần Du Nhân giết chết, Frodo giúp họ bắt giữ Gollum. Sau khi biết về Nhẫn Chúa, Faramir đưa hai Hobbit đến [Gondor](../G/Gondor.md) để mang chiếc nhẫn về cho cha mình, [Denethor](../D/Denethor.md), [Steward của Gondor](../S/Steward_of_Gondor.md). Khi đi qua thành phố [Osgiliath](../O/Osgiliath.md), Frodo cố giải thích cho Faramir hiểu bản chất thực sự của chiếc nhẫn. Sam nói thêm rằng sức mạnh của nó đã khiến Boromir phát điên. Không lâu sau, một [Nazgûl](../N/Nazgûl.md) cưỡi [Quái thú sa ngã](../F/Fell_beasts.md) suýt bắt được Frodo. Frodo bắt đầu dao động trước sức mạnh của chiếc nhẫn, nhưng Sam kịp thời cứu cậu trong gang tấc. Cảm phục trước hành động ấy, Faramir thả họ đi.
+Khi họ hành trình đến Mordor, Gollum đã dẫn Frodo và Sam qua [Đầm lầy Chết](../D/Dead_Marshes.md) đến [Cổng Đen](../B/Black_Gate.md). Nhận thấy Cổng được phòng thủ nghiêm ngặt, Gollum đề nghị họ tiến vào Mordor bằng một con đường khác. Ngay sau đó, Frodo và Sam bị bắt giữ bởi [Rangers của Ithilien](../R/Rangers_of_Ithilien.md) do [Faramir](../F/Faramir.md), em trai của [Boromir](../B/Boromir.md) chỉ huy. Để cứu Gollum khỏi bị Biệt đội giết chết, Frodo đã giúp họ bắt giữ Gollum. Sau khi biết về Chiếc nhẫn Chúa, Faramir đã cùng Hobbit đến [Gondor](../G/Gondor.md) để mang Chiếc nhẫn về cho cha mình, [Denethor](../D/Denethor.md), người [Quản gia của Gondor](../S/Steward_of_Gondor.md). Khi họ đi qua thành phố [Osgiliath](../O/Osgiliath.md), Frodo đã cố gắng giải thích bản chất thực sự của Chiếc nhẫn cho Faramir. Sam giải thích thêm rằng Boromir đã bị sức mạnh của nó làm cho phát điên. Ngay sau đó, một [Nazgûl](../N/Nazgûl.md) cưỡi [Quái thú](../F/Fell_beasts.md) suýt bắt được Frodo, người bắt đầu dao động trước sức mạnh của Chiếc nhẫn, nhưng Sam đã cứu được ông ta trong gang tấc. Faramir, ấn tượng với thành tích này, đã thả họ ra.
 
-Gollum, cảm thấy bị Frodo phản bội vì cậu góp phần khiến nó bị bắt, quyết định giành lại chiếc nhẫn bằng cách dẫn Frodo và Sam đến [Shelob](../S/Shelob.md) ở [Cirith Ungol](../C/Cirith_Ungol.md).
+Gollum, cảm thấy bị phản bội bởi sự đồng lõa của Frodo trong việc bắt giữ ông ta, đã quyết định rằng ông ta sẽ đòi lại Chiếc nhẫn bằng cách dẫn Frodo và Sam đến [Shelob](../S/Shelob.md) ở [Cirith Ungol](../C/Cirith_Ungol.md).
 
 ## Cảnh {#Scenes}
 
@@ -137,7 +137,7 @@ Gollum, cảm thấy bị Frodo phản bội vì cậu góp phần khiến nó b
 17. [Người thừa kế của Númenor](The_Heir_of_Númenor.md) \*
 18. [ Cổng Đen đã đóng](<The_Black_Gate_is_Closed_(scene).md>)
 19. [Ent bản nháp](../E/Ent_Draft.md) \*
-20. [ Vua của Đại Sảnh Vàng](<The_King_of_the_Golden_Hall_(scene).md>) \*\*
+20. [ Vua của Sảnh Vàng](<The_King_of_the_Golden_Hall_(scene).md>) \*\*
 21. [Tang lễ của Théodred](The_Funeral_of_Théodred.md) \*
 22. [Simbelmynë trên gò mộ](../S/Simbelmynë_on_the_Burial_Mounds.md)
 23. [Quyết định của Vua](The_King's_Decision.md)
@@ -159,7 +159,7 @@ Gollum, cảm thấy bị Frodo phản bội vì cậu góp phần khiến nó b
 39. [Câu chuyện được đoán trước từ Lórien](The_Story_Foreseen_from_Lórien.md)
 40. [Cửa sổ trên Phương Tây](<The_Window_on_the_West_(scene).md>) \*\*
 41. [Con trai của Quản gia](../S/Sons_of_the_Steward.md) \*
-42. [Hồ Cấm](<The_Forbidden_Pool_(scene).md>) \*\*
+42. [Bể Cấm](<The_Forbidden_Pool_(scene).md>) \*\*
 Sự trở lại của 43. [Aragorn](../A/Aragorn's_Return.md)
 44. [Thảo luận](<../E/Entmoot_(scene).md>)
 45. [Những hang động lấp lánh](The_Glittering_Caves.md) \*\*
@@ -168,7 +168,7 @@ Sự trở lại của 43. [Aragorn](../A/Aragorn's_Return.md)
 48. [Máy chủ của Eldar](The_Host_of_the_Eldar.md)
 49. [Cái Trận Hornburg](The_Battle_of_the_Hornburg.md) \*\*
 50. [Tiếng Ent cổ](<../O/Old_Entish_(scene).md>)
-51. [Sự xâm phạm của Tường thành Deeping](The_Breach_of_the_Deeping_Wall.md)
+51. [Sự xâm phạm của Bức tường sâu](The_Breach_of_the_Deeping_Wall.md)
 52. [Cuộc tranh luận quyết định](The_Entmoot_Decides.md)
 53. [Cuộc rút lui của Hornburg](The_Retreat_of_the_Hornburg.md) \*\*
 54. [Kế hoạch tổng thể của Peregrin](../M/Master_Peregrin's_Plan.md)
@@ -187,16 +187,16 @@ Kế hoạch của 66. [Gollum](../G/Gollum's_Plan.md)
 67. Tín dụng
 68. Tín dụng chính thức của Câu lạc bộ người hâm mộ \*
 
-\* biểu thị một cảnh chỉ xuất hiện trong Bản mở rộng của phim.
+\* biểu thị một cảnh chỉ có trong bản cắt Phiên bản mở rộng của phim.
 
-\*\* biểu thị một cảnh có thêm nội dung chỉ xuất hiện trong Bản mở rộng của phim.
+\*\* biểu thị một cảnh bao gồm nội dung mở rộng chỉ có trong bản cắt Phiên bản mở rộng của phim.
 
 ## Truyền {#Cast}
 
 <table class="wikitable">
 <tbody><tr bgcolor="# CCCCCC">
-<th>Diễn viên</th>
-<th>Vai trò
+<th>Actor</th>
+<th>Role
 </th></tr>
 <tr>
 <td><a href="../B/Bruce_Allpress.md" title="Bruce Allpress">Bruce Allpress</a></td>
@@ -352,27 +352,27 @@ Kế hoạch của 66. [Gollum](../G/Gollum's_Plan.md)
 </td></tr>
 <tr>
 <td><a href="../S/Sean_Bean.md" title="Sean Bean">Sean Bean</a></td>
-<td><a href="../B/Boromir.md" title="Boromir">Boromir</a> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">chỉ có trong Bản mở rộng</a>)
+<td><a href="../B/Boromir.md" title="Boromir">Boromir</a> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">Extended Edition</a> only)
 </td></tr>
 <tr>
 <td>Timothy Lee</td>
-<td><a href="../D/Dunlendings.md" title="Dunlendings">người hoang dã</a> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">chỉ có trong Bản mở rộng</a>)
+<td><a href="../D/Dunlendings.md" title="Dunlendings">Wildman</a> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">Extended Edition</a> only)
 </td></tr>
 <tr>
 <td><a href="../J/John_Noble.md" title="John Noble">John Noble</a></td>
-<td><a href="../D/Denethor.md" title="Denethor">Denethor</a> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">chỉ có trong Bản mở rộng</a>)
+<td><a href="../D/Denethor.md" title="Denethor">Denethor</a> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">Extended Edition</a> only)
 </td></tr>
 <tr>
 <td>Phillip Spencer-Harris</td>
-<td><a class="mw-redirect" href="../R/Ranger_of_Ithilien.md" title="Ranger of Ithilien">Ranger 1</a> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">chỉ có trong Bản mở rộng</a>)
+<td><a class="mw-redirect" href="../R/Ranger_of_Ithilien.md" title="Ranger of Ithilien">Ranger 1</a> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">Extended Edition</a> only)
 </td></tr></tbody></table>
 
 ### Chưa được công nhận {#Uncredited}
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Diễn viên</th>
-<th>Vai trò
+<th>Actor</th>
+<th>Role
 </th></tr>
 <tr>
 <td>Richard Alexander, Geoff Allen, Daniel Andrews, Sean Button, Ryan Coray, Rodney Cook, Tack Daniel, Augie Davis, Mana Hira Davis, Shane Dawson, David Gatward Ferguson, Siaosi Fonua, Winham Hammond, Michael Harrison, Lani Jackson, <a href="../R/Ralph_Johnson.md" title="Ralph Johnson">Ralph Johnson</a>, <a href="../S/Sam_Kelly.md" title="Sam Kelly">Sam Kelly</a>, Greg Lane, Lance Louez, Joseph Mika-Hunt, Dean Morganty, Francis Mountjoy, Nooroa Poa, Allan Poppleton, Ken Stratton, Robbie Titchener, Tim Wong, Robert Young</td>
@@ -384,7 +384,7 @@ Kế hoạch của 66. [Gollum](../G/Gollum's_Plan.md)
 </td></tr>
 <tr>
 <td>Geoff Allen, Frazer Anderson, Daniel Andrews, Ben Barrington, Mana Hira Davis, Siaosi Fonua, Michael Harrison, Paul Holmes, <a href="../R/Ralph_Johnson.md" title="Ralph Johnson">Ralph Johnson</a>, Ron Kerkmeester, Lance Louez, Francis Mountjoy, Shaneel Sidal, Melvin Te Wani, John Turner</td>
-<td><a href="../O/Orcs.md" title="Orcs">Orc</a>
+<td><a href="../O/Orcs.md" title="Orcs">Orcs</a>
 </td></tr>
 <tr>
 <td>Geoff Allen, Colin Bleasdale, Mana Hira Davis, Aron Eastwood, Michael Harrison, Davey Hughes, <a href="../R/Ralph_Johnson.md" title="Ralph Johnson">Ralph Johnson</a>, Ron Kerkmeester, Richard Knowles, Ken Stratton, John Turner</td>
@@ -448,7 +448,7 @@ Kế hoạch của 66. [Gollum](../G/Gollum's_Plan.md)
 </td></tr>
 <tr>
 <td>Robert Catto, Michael Fowler, Jaime Lawrence, Francis Mountjoy, Samuel E. Shore</td>
-<td><a href="../E/Elves.md" title="Elves">Tiên tộc</a>
+<td><a href="../E/Elves.md" title="Elves">Elves</a>
 </td></tr>
 <tr>
 <td>Mana Hira Davis, Shane Dawson, Clint Elvy, Are Manea Karati, Jeremy Sciascia</td>
@@ -508,7 +508,7 @@ Kế hoạch của 66. [Gollum](../G/Gollum's_Plan.md)
 </td></tr>
 <tr>
 <td><a href="../B/Brent_McIntyre.md" title="Brent McIntyre">Brent McIntyre</a></td>
-<td><a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a>
+<td><a href="../W/Witch-king.md" title="Witch-king">Witch-king</a>
 </td></tr>
 <tr>
 <td>Dean Morganty, Ken Stratton</td>
@@ -565,13 +565,13 @@ Kế hoạch của 66. [Gollum](../G/Gollum's_Plan.md)
 
 ## Đố vui {#Trivia}
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này mới đang trong giai đoạn xây dựng ban đầu, chưa thể xem là hoàn chỉnh, thậm chí còn lâu mới hoàn thành.<blockquote class="tg-quote noexcerpt">
-<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
+<p>We have a long way to go, and there is time ahead for thought.
 </p>
 <p class="tg-quote-footer"><cite><a href="Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-Dưới đây là danh sách các thông tin bên lề do tính năng "X-Ray" của Amazon cung cấp khi bộ phim được phát trực tuyến trên Prime Video.
+Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amazon đi kèm với bộ phim khi phát trực tuyến trên Prime Video.
 
 ## Địa điểm quay phim {#Filming_locations}
 
@@ -585,7 +585,7 @@ Dưới đây là danh sách các thông tin bên lề do tính năng "X-Ray" c�
 </tr><tr>
 <td><a href="../E/Edoras.md" title="Edoras">Edoras</a></td><td><a href="../M/Mount_Sunday.md" title="Mount Sunday">Mount Sunday</a></td><td>Rangitata Valley</td>
 </tr><tr>
-<td><a href="../D/Dead_Marshes.md" title="Dead Marshes">Đầm lầy Chết</a></td><td>Kepler Mire</td><td>Te Anau</td>
+<td><a href="../D/Dead_Marshes.md" title="Dead Marshes">Dead Marshes</a></td><td>Kepler Mire</td><td>Te Anau</td>
 </tr><tr>
 <td>The <a href="../B/Black_Gate.md" title="Black Gate">Black Gate</a></td><td>Rangipo Desert</td><td>Lake Taupo</td>
 </tr><tr>
@@ -593,49 +593,49 @@ Dưới đây là danh sách các thông tin bên lề do tính năng "X-Ray" c�
 </tr>
 </tbody></table>
 
-## Những điểm khác biệt so với nguyên tác {#Deviations_from_the_source_material}
+## Những sai lệch so với nguồn tài liệu {#Deviations_from_the_source_material}
 
-\*The Two Towers\* của Jackson khác với tác phẩm của Tolkien ở một số điểm quan trọng. Arwen hoàn toàn không xuất hiện trong cuốn sách thứ hai. Các cuộc phỏng vấn với Jackson và những biên kịch khác trong phần DVD Bản mở rộng cho thấy rõ họ hoàn toàn hiểu những thay đổi này ảnh hưởng thế nào đến câu chuyện gốc, và họ lựa chọn thay đổi không phải vì thiếu hiểu biết, mà để câu chuyện được thể hiện hiệu quả hơn trên màn ảnh.
+*The Two Towers* của Jackson khác với Tolkien ở một số điểm quan trọng. Arwen hoàn toàn không xuất hiện trong cuốn sách thứ hai. Các cuộc phỏng vấn với Jackson và các nhà văn khác trên phiên bản DVD mở rộng của bộ phim cho thấy rõ rằng họ hoàn toàn nhận thức được ý nghĩa của những thay đổi này đối với câu chuyện gốc, và đã chọn thực hiện chúng không phải vì thiếu hiểu biết mà để làm cho câu chuyện hoạt động tốt hơn về mặt kể chuyện bằng hình ảnh chuyển động.
 
-Đáng chú ý, ý nghĩa của nhan đề *The Two Towers* đã thay đổi. Tolkien từng cân nhắc nhiều phương án kết hợp khác nhau, nhưng cuối cùng xác định [Orthanc](../O/Orthanc.md) và [Minas Morgul](../M/Minas_Morgul.md) là “hai ngọn tháp”<sup id="cite_ref-hs_1-0" class="reference"><a href="#cite_note-hs-1">[1]</a></sup>. Tuy nhiên, trong phim của Jackson, Saruman lại xác định hai ngọn tháp đó là Orthanc và [Barad-dûr](../B/Barad-dûr.md); chi tiết này cũng được thể hiện trên áp phích phim.
+Đáng chú ý, ý nghĩa của tiêu đề 'The Two Towers' đã được thay đổi. Tolkien đã cân nhắc nhiều cách kết hợp có thể, nhưng cuối cùng quyết định [Orthanc](../O/Orthanc.md) và [Minas Morgul](../M/Minas_Morgul.md) là 'hai tòa tháp'<sup id="cite_ref-hs_1-0" class="reference"><a href="#cite_note-hs-1">[1]</a></sup> Tuy nhiên, trong phim của Jackson, Saruman thay vào đó đặt tên chúng là Orthanc và [Barad-dûr](../B/Barad-dûr.md), điều này cũng được phản ánh trong áp phích phim.
 
 #### Cấu trúc {#Structure}
 
-Tolkien chia *The Two Towers* thành hai phần riêng biệt. Phần thứ nhất kể về Merry, Pippin, Aragorn, Gimli, Legolas và Gandalf. Phần thứ hai xoay quanh Frodo, Sam và Gollum. Jackson chọn đan xen các tuyến truyện của hai phần nhằm kể các sự kiện theo trình tự thời gian.
+Tolkien chia *The Two Towers* thành hai phần riêng biệt. Người đầu tiên kể những câu chuyện về Merry, Pippin, Aragorn, Gimli, Legolas và Gandalf. Thứ hai liên quan đến Frodo, Sam và Gollum. Jackson đã chọn xen kẽ giữa hai người để trình bày các sự kiện theo trình tự thời gian.
 
 #### Sự kiện {#Events}
 
 Jackson và các đồng tác giả đã thêm một số sự kiện vào câu chuyện, đáng chú ý là:
 
-- Trong phim, Faramir nói đến việc lấy Nhẫn Chúa từ Frodo để bảo vệ Gondor; trong sách, ông phủ nhận mong muốn đó: *“Tôi sẽ không lấy vật này, dù nó nằm ngay bên đường”,* ông nói.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Theo Jackson, cách xây dựng này không tạo được hiệu quả kịch tính, bởi Faramir không có quá trình phát triển nhân vật rõ rệt (tức là nhân vật không thay đổi từ cảnh đầu tiên đến cảnh cuối cùng). Jackson cho rằng thay đổi này giúp xây dựng Faramir thành một nhân vật có chiều sâu và toàn diện hơn, đồng thời tránh để câu thoại làm suy giảm cảm nhận của khán giả về sức mạnh của Nhẫn Chúa.
-- Trong phim, Faramir đưa Frodo, Sam và Gollum đến thành phố [Osgiliath](../O/Osgiliath.md) đang bị vây hãm, nhưng sau đó lại thả họ đi. Trong bản chiếu rạp, không rõ Frodo và những người bạn đồng hành của Frodo trở về [Ithilien](../I/Ithilien.md) từ Osgiliath bằng cách nào, nhưng bản dựng mở rộng đã giải thích điều này: họ trốn thoát qua hệ thống cống ngầm của thành phố đổ nát, rồi tìm đường ra phía sau phòng tuyến của kẻ thù. (Phim không giải thích tại sao người Gondor lại không tận dụng lợi thế rõ ràng này cho mục đích quân sự.)
-- Một cuộc tấn công của Orc cưỡi [Warg](../W/Wargs.md) nhằm vào đoàn người Rohirrim đang trên đường tới Helm's Deep khiến Aragorn suýt chết; ông tỉnh lại sau khi mơ thấy Arwen. Chi tiết này hoàn toàn không có trong sách.
-- Galadriel thuyết phục Elrond (thông qua [thần giao cách cảm](../_/Ósanwe.md) từ xa) gửi các cung thủ Tiên tộc đến Helm's Deep. Đáng chú ý, dù vậy, họ dường như vẫn là Tiên tộc đến từ [Lothlórien](../L/Lothlórien.md); một trong số họ là [Haldir](../H/Haldir.md), nhân vật từng xuất hiện ở Rừng Vàng. Ban đầu, Jackson dự định cho Arwen trực tiếp tham chiến tại Helm's Deep và đã quay một số cảnh theo hướng này, nhưng sau đó từ bỏ ý định. Khán giả vẫn có thể nhận ra Arwen trong trận chiến, bởi một số cảnh quay có bà đã được đưa vào Bản mở rộng. Chi tiết bổ sung này có thể bắt nguồn từ một câu Legolas thuận miệng nói khi ông chờ lực lượng của Saruman tiến đến các bức tường thành Helm's Deep: *“Nhưng ta còn sẵn lòng đánh đổi nhiều hơn nữa để có được một trăm cung thủ thiện xạ của Rừng Âm U. Chúng ta sẽ cần đến họ. Người Rohirrim cũng có những cung thủ giỏi theo cách riêng, nhưng ở đây có quá ít, quá ít.”*<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-- Arwen nhìn thấy tương lai của mình trong một cảnh phỏng theo phần nào *The Tale of Aragorn and Arwen* trong phần Phụ lục của sách.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
-- Elrond gần như cưỡng ép đưa Arwen “về Phương Tây” ([Aman](../A/Aman.md)). Quyết định cuối cùng của bà về việc này, cùng lý do đưa ra quyết định ấy, được tiết lộ trong *The Return of the King*.
+- Trong phim, Faramir nói về việc lấy Chiếc Nhẫn từ Frodo để bảo vệ Gondor; trong cuốn sách, ông phủ nhận có bất kỳ mong muốn nào như vậy: *Tôi sẽ không lấy thứ này, nếu nó nằm cạnh đường cao tốc.* ông nói.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Theo Jackson, điều này không có tác dụng đáng kể, vì Faramir không có "cung cách nhân vật" (tức là ông không thay đổi tư cách một nhân vật từ cảnh đầu tiên đến cảnh cuối cùng). Jackson biện minh cho sự thay đổi này như một phương tiện để làm cho Faramir có vẻ giống một nhân vật tròn trịa hơn cũng như không muốn câu thoại làm giảm đi nhận thức về sức mạnh của Chiếc nhẫn.
+- Trong phim, Faramir đưa Frodo, Sam và Gollum đến thành phố [Osgiliath](../O/Osgiliath.md) bị bao vây, nhưng sau đó để họ đi. Trong phiên bản chiếu rạp, không rõ Frodo và những người bạn đồng hành của ông ta quay trở lại từ Osgiliath đến [Ithilien](../I/Ithilien.md) như thế nào, nhưng điều này được giải thích trong đoạn cắt mở rộng - họ trốn thoát qua hệ thống cống rãnh của thành phố đổ nát và tìm đường ra phía sau phòng tuyến của kẻ thù. (Không giải thích được tại sao người Gondor không sử dụng tài sản rõ ràng này vào mục đích quân sự.)
+- Một cuộc tấn công vào Rohirrim đang di chuyển tới Helm's Deep bởi Orc gắn trên [Warg](../W/Wargs.md) khiến Aragorn suýt chết; ông ta được hồi sinh nhờ hình ảnh Arwen trong một chuỗi giấc mơ. Không có gì như thế này có mặt trong cuốn sách.
+- Galadriel thuyết phục Elrond (thông qua [thần giao cách cảm](../_/Ósanwe.md) đường dài) gửi Tiên cung thủ tới Helm's Deep. Điều thú vị là, dù sao thì họ cũng có vẻ là Tiên tộc trong số [Lothlórien](../L/Lothlórien.md), một trong số họ ([Haldir](../H/Haldir.md)) mà chúng tôi đã gặp trước đây ở Golden Wood. Ban đầu Jackson dự định để Arwen tự mình chiến đấu ở Helm's Deep và quay một số cảnh theo những cảnh đó, nhưng đã từ bỏ chiến lược đó. Vẫn có thể chọn bà trong trận chiến vì một số cảnh quay đã được sử dụng trong Phiên bản mở rộng. Sự bổ sung này có thể được lấy cảm hứng từ một câu nói khi đi ngang qua Legolas, khi ông ta đang chờ đợi lực lượng Saruman sắp tới tại các bức tường của Helm's Deep: *Nhưng tôi còn muốn tặng nhiều hơn thế nữa cho một trăm cung thủ giỏi của Mirkwood. Chúng ta sẽ cần chúng. Rohirrim có những cung thủ giỏi theo phong cách của họ, nhưng ở đây có quá ít, quá ít*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- Arwen có tầm nhìn về tương lai của mình được lấy hơi lỏng lẻo từ *The Tale of Aragorn and Arwen* trong Phụ lục của sách.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- Elrond gần như buộc phải gửi Arwen "tới Phương Tây"([Aman](../A/Aman.md)). Quyết định cuối cùng của bà về vấn đề này và lý do bà đưa ra quyết định đó được tiết lộ trong *The Return of the King*.
 
-Hai sự kiện quan trọng trong *The Two Towers* của Tolkien không xuất hiện trong phim mà được để dành cho phần phim tiếp theo:
+Hai sự kiện quan trọng trong *The Two Towers* của Tolkien đã không được đưa vào phim mà được giữ lại cho phần tiếp theo:
 
-- Cuộc đối đầu giữa Gandalf và Saruman tại [Isengard](../I/Isengard.md) ban đầu được dự định xuất hiện ở đầu *The Return of the King*, nhưng do Peter Jackson đưa ra quyết định vào phút chót, cảnh này đã bị loại khỏi bản chiếu rạp, dù sau đó được đưa vào bản dựng mở rộng.
-- Cuộc chạm trán giữa Sam và Frodo với [Shelob](../S/Shelob.md), con nhện khổng lồ. (Chi tiết này được báo trước qua câu nói của [Gollum](../G/Gollum.md): “Chúng ta có thể để *mụ ta* làm việc đó!”) Hang ổ của Shelob quả thực giữ vai trò nổi bật trong phần phim thứ ba.
+cuộc đối đầu của - Gandalf và Saruman tại [Isengard](../I/Isengard.md); ban đầu cảnh này dự định xuất hiện ở phần đầu của *The Return of the King*, nhưng quyết định muộn màng của Peter Jackson có nghĩa là cảnh này không phải là một phần của phiên bản chiếu rạp, mặc dù sau đó nó đã được đưa vào phần cắt mở rộng.
+Cuộc chạm trán của - Sam và Frodo với [Shelob](../S/Shelob.md) quái dị. (Điều này được báo trước bởi câu thoại của [Gollum](../G/Gollum.md): "Chúng ta có thể để *her* làm điều đó!") Hang ổ của Shelob thực sự đã xuất hiện nổi bật trong phần phim thứ ba.
 
 #### Nhân vật {#Characters}
 
-Bốn nhân vật trong phim được khắc họa hơi khác so với những nhân vật tương ứng trong sách:
+Bốn nhân vật trong phim được thể hiện hơi khác so với các nhân vật trong sách:
 
-- Faramir cần được thuyết phục nhiều hơn để cho Sam và Frodo tiếp tục cuộc hành trình; trong sách, ông lập tức nhận ra rằng để họ tự do ra đi là quyết định sáng suốt.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
-- Treebeard, người đứng đầu các Ent, không hay biết những gì đang diễn ra ở rìa khu rừng của mình và phải bị “đánh lừa” mới tấn công Isengard. Trong bản chiếu rạp, không có cảnh ông đưa [Huorn](../H/Huorns.md) đến Helm's Deep, nhưng cảnh này xuất hiện trong bản video mở rộng; xem bên dưới.
-- Tiếp nối cách xây dựng nhân vật trong phần phim đầu tiên, [Elrond](../E/Elrond.md) (nhân vật không xuất hiện trong sách) bảo bọc Arwen hơn nhiều và gần như đối địch với [Aragorn](../A/Aragorn.md). Vì thế, cách khắc họa theo mô-típ [Thingol](Thingol.md) và mô-típ cha-con gái quen thuộc đều hiện rõ.
-- Phản ứng của Vua [Théoden](Théoden.md) khi biết [Gríma](../G/Gríma.md) phản bội khác hẳn so với trong tiểu thuyết: Trong sách, ông cho Wormtongue cơ hội chuộc lỗi bằng cách cùng người Rohirrim ra trận,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> trong khi trong phim, Théoden trong cơn choáng váng cố tự tay hành quyết kẻ phản bội.
+- Faramir cần thuyết phục hơn nhiều để Sam và Frodo tiếp tục thực hiện nhiệm vụ của mình; trong cuốn sách, ông ngay lập tức nhận ra sự khôn ngoan khi cho phép họ tự do rời đi.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- Treebeard, thủ lĩnh của Ent, không biết chuyện gì đang xảy ra ở rìa khu rừng của mình và phải bị "lừa" tấn công Isengard. Trong bản chiếu rạp, người ta không thấy ông gửi [Huorn](../H/Huorns.md) tới Helm's Deep, nhưng lại làm như vậy trong phiên bản video mở rộng - xem bên dưới.
+- Tiếp tục xu hướng từ bộ phim đầu tiên, [Elrond](../E/Elrond.md) (người không xuất hiện trong sách) bảo vệ Arwen nhiều hơn và gần như đối kháng với [Aragorn](../A/Aragorn.md), do đó, miêu tả [Thingol](Thingol.md) và "chủ đề cha-con" khuôn mẫu đều rõ ràng.
+Phản ứng của - Vua [Théoden](Théoden.md) khi biết về sự phản bội của [Gríma](../G/Gríma.md) khác rất nhiều so với tiểu thuyết: Trong cuốn sách, ông ta cho Wormtongue một cơ hội để chuộc lỗi bằng cách cưỡi ngựa tham chiến với Rohirrim,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> trong khi trong phim, một Théoden choáng váng cố gắng đích thân hành quyết kẻ phản bội.
 
-Thái độ của Théoden trước cuộc xung đột sắp tới cũng được thể hiện khác trong phim của Jackson: Trong tiểu thuyết, Théoden quyết định dẫn quân ra trận và chỉ đến Helm's Deep để hỗ trợ lực lượng của [Erkenbrand](../E/Erkenbrand.md), vốn đã bị quân đội Saruman đánh bại.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Trong phim, ông chọn cách tránh đối đầu trực diện và coi Helm's Deep là nơi trú ẩn cho dân thường Rohan. Chỉ cuộc vây hãm của Orc sau đó mới buộc ông tham chiến.
+Thái độ của Théoden đối với cuộc xung đột sắp tới cũng được thể hiện khác trong phim của Jackson: Trong tiểu thuyết, Théoden chọn cưỡi ngựa tham chiến và chỉ đến Helm's Deep để hỗ trợ lực lượng của [Erkenbrand](../E/Erkenbrand.md), lực lượng<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> đã bị quân đội của Saruman đánh bại. Trong phim, anh chọn cách tránh đối đầu công khai và coi Helm's Deep như nơi trú ẩn cho dân thường của Rohan. Chỉ có cuộc vây hãm sau đó của lũ Orc mới buộc ông ta phải tham chiến.
 
 ## Điểm {#Score}
 
 - [The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)
 - [The Lord of the Rings: The Two Towers - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)
 
-## Giải thưởng và đánh giá của giới phê bình {#Awards_and_critical_opinion}
+## Giải thưởng và ý kiến ​​phản biện {#Awards_and_critical_opinion}
 
 - Giải thưởng Học viện
     - Người chiến thắng: Hiệu ứng hình ảnh, Biên tập âm thanh.
@@ -665,15 +665,15 @@ Thái độ của Théoden trước cuộc xung đột sắp tới cũng đượ
 
 ## Phát hành video {#Video_release}
 
-Phiên bản chiếu rạp của phim được phát hành trên VHS và DVD vào thứ Ba, ngày 26 tháng 8 năm 2003. Bản DVD gồm 2 đĩa, trong đó đĩa thứ hai chứa các nội dung bổ sung. Phim dự kiến được phát hành đồng thời trên toàn thế giới, nhưng một số cửa hàng ở Anh đã bắt đầu bán băng video từ thứ Sáu, ngày 22, vì cuối tuần đó trùng với kỳ nghỉ lễ ngân hàng. Việc này khiến nhà phân phối phim tại Vương quốc Anh vô cùng tức giận; đơn vị này đã đe dọa sẽ không cung cấp trước các đợt phát hành video tiếp theo.
+Phiên bản chiếu rạp của phim được phát hành trên VHS và DVD vào thứ Ba, ngày 26 tháng 8 năm 2003. DVD là một bộ 2 đĩa với các phần bổ sung trên đĩa thứ hai. Đây dự định sẽ được phát hành đồng thời trên toàn thế giới, nhưng một số cửa hàng ở Anh đã bắt đầu bán các video vào thứ Sáu ngày 22 vì đây là ngày nghỉ cuối tuần của Ngày lễ Ngân hàng, khiến nhà phân phối phim ở Vương quốc Anh tức giận, họ đã đe dọa sẽ giữ lại nguồn cung cấp trước cho các bản phát hành video tiếp theo.
 
-Một phiên bản mở rộng của bộ phim, bổ sung 44 phút nội dung, được phát hành dưới dạng video vào thứ Ba, ngày 18 tháng 11 năm 2003, với tổng thời lượng 223 phút (3 giờ 43 phút). Một trong những cảnh bổ sung có sự góp mặt của Sean Bean và John Noble, hai diễn viên không xuất hiện trong phiên bản chiếu rạp. Cảnh hồi tưởng này cho thấy hai anh em [Boromir](../B/Boromir.md) và [Faramir](../F/Faramir.md) xuất hiện cùng cha là [Denethor](../D/Denethor.md). Phiên bản này có trên VHS và trong bộ DVD 4 đĩa. Phim nằm trên đĩa 1 và 2, kèm theo bốn bản bình luận âm thanh của đoàn làm phim và các diễn viên; đĩa 3 và 4 chứa nhiều nội dung bổ sung. Ngoài ra còn có bộ DVD “Phiên bản Đặc biệt”, gồm bộ 4 đĩa, một tác phẩm điêu khắc [Gollum](../G/Gollum.md), một cuốn sách nhỏ giới thiệu quá trình thiết kế Gollum cho phim và một đĩa DVD chứa phim tài liệu ngắn về quá trình thiết kế các tượng sưu tầm dựa trên nhân vật và vật phẩm trong phim.
+Một phiên bản mở rộng của bộ phim bao gồm 44 phút nội dung bổ sung đã được phát hành dưới dạng video vào Thứ Ba, ngày 18 tháng 11 năm 2003, với tổng thời lượng là 223 phút (3 giờ 43 phút). Một trong những cảnh bổ sung có sự góp mặt của Sean Bean và John Noble, những người không xuất hiện trong phiên bản chiếu rạp, trong một đoạn hồi tưởng trong đó anh em [Boromir](../B/Boromir.md) và [Faramir](../F/Faramir.md) được nhìn thấy cùng với cha của họ [Denethor](../D/Denethor.md). Bộ phim này có sẵn trên VHS và trên bộ DVD 4 đĩa, với phim trên đĩa 1 và 2 bao gồm bốn bài bình luận bằng âm thanh của đoàn làm phim và diễn viên, cùng nhiều tài liệu bổ sung trên đĩa 3 và 4. Ngoài ra còn có gói DVD "Phiên bản Đặc biệt" chứa bộ 4 đĩa, một tác phẩm điêu khắc [Gollum](../G/Gollum.md), một tập sách nhỏ về quá trình thiết kế Gollum cho bộ phim và một DVD phim tài liệu ngắn về quá trình thiết kế các tác phẩm điêu khắc sưu tầm dựa trên các nhân vật trong phim và đồ tạo tác.
 
-Tháng 12 năm 2003, các phiên bản mở rộng của *The Fellowship of the Ring* và *The Two Towers* cũng được chiếu liên tiếp tại một số rạp trong những suất chiếu có giới hạn, sau đó là các buổi chiếu ra mắt của *The Return of the King*. Tổng thời lượng của toàn bộ các suất chiếu là chín giờ mười bảy phút.
+Vào tháng 12 năm 2003, các phiên bản mở rộng của *The Fellowship of the Ring* và *The Two Towers* cũng được phát hành liên tiếp tại rạp với số lượng giới hạn, sau đó là các buổi chiếu ra mắt của *The Return of the King*, tổng thời lượng chín giờ mười bảy phút.
 
-## Các tác phẩm truyền thông khác có liên quan {#References_in_other_media}
+## Tham khảo trên các phương tiện khác {#References_in_other_media}
 
-Trong tập phim “Duchess of Wails” của *Foster's Home for Imaginary Friends*, phần kết là một sự tri ân dành cho [trận tấn công Helm's Deep](../B/Battle_of_the_Hornburg.md) trong phim. Một số câu thoại trong phim được lồng vào lời thoại của cảnh này; những hình ảnh đáng nhớ, chẳng hạn như loạt tên bắn đầu tiên (được thay bằng cà chua trong tập phim), cũng được tái hiện. <span></span>
+Trong *Foster's Home for Imaginary Friends* tập "Nữ công tước than khóc", phần cuối của tập phim là sự tôn kính đối với [cuộc tấn công vào Helm's Deep](../B/Battle_of_the_Hornburg.md) trong phim. Một số lời thoại nhất định được sử dụng trong đoạn hội thoại của cảnh cũng như những khoảnh khắc hình ảnh đáng nhớ, chẳng hạn như loạt mũi tên đầu tiên (quả cà chua trong tập phim) cũng được sử dụng. <span></span>
 
 ## Tài liệu tham khảo {#References}
 
@@ -696,55 +696,55 @@ Trong tập phim “Duchess of Wails” của *Foster's Home for Imaginary Frien
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Các tác phẩm chuyển thể lên màn ảnh được cấp phép từ những tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Licensed screen adaptations of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works</b>
 </th></tr>
 <tr>
-<th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Phim hoạt hình</b>
+<th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Animation</b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)">The Hobbit</a></i> (1967) · <i><a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)">The Hobbit</a></i> (1977, Rankin and Bass) · <i><a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">The Lord of the Rings</a></i> (1978) · <i><a href="The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King</a></i> (1980, Rankin and Bass) · <i><a href="The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md" title="The Lord of the Rings: The War of the Rohirrim">The War of the Rohirrim</a></i> (2024, New Line Cinema)
 </td></tr>
 <tr>
 <th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="3"><b>Live-action</b><br/><small>(New Line Cinema)</small>
 </th>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i> series</a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (2001) · <i><a class="mw-selflink selflink">The Two Towers</a></i> (2002) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (2003)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> loạt</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> series</a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">An Unexpected Journey</a></i> (2012) · <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Desolation of Smaug</a></i> (2013) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (2014)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Các phim khác</b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Other films</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, sắp ra mắt)
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, upcoming)
 </td></tr>
 <tr>
-<th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>Loạt phim truyền hình</b>
+<th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>TV series</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022–nay)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-present)
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt phim</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i> film series</a></b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Nguồn tư liệu: <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Source material: <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Phim
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Films
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">ấn bản mở rộng</a>) · <i><a class="mw-selflink selflink">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">ấn bản mở rộng</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">ấn bản mở rộng</a>)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">extended edition</a>)· <i><a class="mw-selflink selflink">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">extended edition</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">extended edition</a>)
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Âm nhạc
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Music
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack">The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings">The Complete Recordings</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Two Towers - The Complete Recordings">The Complete Recordings</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Return of the King - The Complete Recordings">The Complete Recordings</a>) · &#34;<a href="../M/May_It_Be.md" title="May It Be">May It Be</a>&#34; · &#34;<a href="../G/Gollum&#39;s_Song.md" title="Gollum&#39;s Song">Gollum&#39;s Song</a>&#34; · &#34;<a href="../I/Into_the_West.md" title="Into the West">Into the West</a>&#34;
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Sách ăn theo
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Tie-in books
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_Official_Movie_Guide.md" title="The Lord of the Rings: Official Movie Guide">Official Movie Guide</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Making_of_the_Movie_Trilogy.md" title="The Lord of the Rings: The Making of the Movie Trilogy">The Making of the Movie Trilogy</a></i> · <i><a href="The_Lord_of_the_Rings_Complete_Visual_Companion.md" title="The Lord of the Rings Complete Visual Companion">Complete Visual Companion</a></i>  · <i><a href="The_Lord_of_the_Rings_Trilogy_Photo_Guide.md" title="The Lord of the Rings Trilogy Photo Guide">Photo Guide</a></i> · <i><a href="../G/Gollum%253A_How_We_Made_Movie_Magic.md" title="Gollum: How We Made Movie Magic">Gollum: How We Made Movie Magic</a></i> · <i><a href="There_and_Back_Again%253A_An_Actor&#39;s_Tale.md" title="There and Back Again: An Actor&#39;s Tale">There and Back Again: An Actor&#39;s Tale</a></i> · <i><a href="The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md" title="The Lord of the Rings: Weapons and Warfare">Weapons and Warfare</a></i> · <i><a href="The_Art_of_The_Lord_of_the_Rings_(film_book).md" title="The Art of The Lord of the Rings (film book)">The Art of The Lord of the Rings</a></i> · <i><a href="The_Music_of_the_Lord_of_the_Rings_Films.md" title="The Music of the Lord of the Rings Films">The Music of the Lord of the Rings Films</a></i> · <i><a href="The_Lord_of_the_Rings_Location_Guidebook.md" title="The Lord of the Rings Location Guidebook">The Lord of the Rings Location Guidebook</a></i> · <i><a href="The_Lord_of_the_Rings_Location_Guidebook%253A_Travel_Diary.md" title="The Lord of the Rings Location Guidebook: Travel Diary">Travel Diary</a></i> · <i><a href="The_Lord_of_the_Rings_Sketchbook.md" title="The Lord of the Rings Sketchbook">Sketchbook</a></i>
 </td></tr>
@@ -764,12 +764,12 @@ Trong tập phim “Duchess of Wails” của *Foster's Home for Imaginary Frien
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_Visual_Companion.md" title="The Lord of the Rings: The Return of the King Visual Companion">Visual Companion</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_Photo_Guide.md" title="The Lord of the Rings: The Return of the King Photo Guide">Photo Guide</a></i> · <i><a href="The_Art_of_The_Return_of_the_King.md" title="The Art of The Return of the King">The Art of The Return of the King</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Trò chơi điện tử
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Video games
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md" title="The Lord of the Rings: The Two Towers (video game)">The Two Towers</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md" title="The Lord of the Rings: The Return of the King (video game)">The Return of the King</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Third_Age.md" title="The Lord of the Rings: The Third Age">The Third Age</a></i> · <i><a href="The_Lord_of_the_Rings%253A_Tactics.md" title="The Lord of the Rings: Tactics">Tactics</a></i> · <i><a href="The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">Conquest</a></i> ·  <i><a href="The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></i> · <i><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Nhân vật
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Characters
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> · <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> · <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> · <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> · <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> · <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> · <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> · <a href="../B/Boromir.md" title="Boromir">Boromir</a> · <a href="../L/Legolas.md" title="Legolas">Legolas</a> · <a href="../G/Gimli.md" title="Gimli">Gimli</a> · <a href="../E/Elrond.md" title="Elrond">Elrond</a> · <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> · <a href="Théoden.md" title="Théoden">Théoden</a> · <a href="../_/Éomer.md" title="Éomer">Éomer</a> · <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> · <a href="../S/Saruman.md" title="Saruman">Saruman</a> · <a href="../S/Sauron.md" title="Sauron">Sauron</a> · <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> · <a href="../D/Denethor.md" title="Denethor">Denethor</a> · <a href="../F/Faramir.md" title="Faramir">Faramir</a> · <a href="../G/Gollum.md" title="Gollum">Gollum</a> · <a href="../G/Gríma.md" title="Gríma">Gríma</a> · <a href="Treebeard.md" title="Treebeard">Treebeard</a> · <a href="../C/Celeborn.md" title="Celeborn">Celeborn</a> · <a href="../H/Haldir.md" title="Haldir">Haldir</a> · <a href="../L/Lurtz.md" title="Lurtz">Lurtz</a> · <a href="../S/Sharku.md" title="Sharku">Sharku</a> · <a href="../G/Grishnákh.md" title="Grishnákh">Grishnákh</a>
 </td></tr></tbody></table>

@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/12._huhtikuuta"
 ---
 
-<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=12_April/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Thêm sự kiện được tuyển chọn</a></div><div class="tg-section-divider"><span><a href="../A/April.md" title="April">April</a></span></div>
+<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=12_April/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Add curated event</a></div><div class="tg-section-divider"><span><a href="../A/April.md" title="April">April</a></span></div>
 <div class="template-month__grid">
 <div class="template-month__day"><a href="1_April.md" title="1 April">1</a></div>
 <div class="template-month__day"><a href="2_April.md" title="2 April">2</a></div>
@@ -55,7 +55,7 @@ langlinks:
 <div class="template-month__day"><a href="28_April.md" title="28 April">28</a></div>
 <div class="template-month__day"><a href="29_April.md" title="29 April">29</a></div>
 <div class="template-month__day"><a href="30_April.md" title="30 April">30</a></div>
-</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Tháng 1</a></div><div class="tg-button"><a href="../F/February.md" title="February">Tháng 2</a></div><div class="tg-button"><a href="../M/March.md" title="March">Tháng 3</a></div><div class="tg-button"><a href="../A/April.md" title="April">Tháng 4</a></div><div class="tg-button"><a href="../M/May.md" title="May">Tháng 5</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Tháng 7</a></div><div class="tg-button"><a href="../A/August.md" title="August">Tháng 8</a></div><div class="tg-button"><a href="../S/September.md" title="September">Tháng 9</a></div><div class="tg-button"><a href="../O/October.md" title="October">Tháng 10</a></div><div class="tg-button"><a href="../N/November.md" title="November">Tháng 11</a></div><div class="tg-button"><a href="../D/December.md" title="December">Tháng 12</a></div></div>
+</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
 Sự kiện xảy ra vào ngày 12 tháng 4.

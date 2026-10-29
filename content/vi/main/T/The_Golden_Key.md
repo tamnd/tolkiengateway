@@ -24,13 +24,13 @@ infobox:
     value: "Hardback & paperback"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
-<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
+<p>We have a long way to go, and there is time ahead for thought.
 </p>
 <p class="tg-quote-footer"><cite><a href="Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>The Golden Key</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../G/George_MacDonald.md" title="George MacDonald">George MacDonald</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/1867.md" title="1867">1867</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Hardback &amp; paperback</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>The Golden Key</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../G/George_MacDonald.md" title="George MacDonald">George MacDonald</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1867.md" title="1867">1867</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardback &amp; paperback</td></tr></tbody></table>
 
 <i><b>Chiếc chìa khóa vàng</b></i> là truyện cổ tích được viết bởi [George MacDonald](../G/George_MacDonald.md) được xuất bản trên *Dealings with the Fairies* năm [1867](../_/1867.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) từng được tìm cách viết lời tựa cho *The Golden Key*, nhưng đã bỏ dở sau khi nó bắt đầu phát triển thành *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -41,7 +41,7 @@ Năm 1964, Tolkien được yêu cầu viết lời tựa cho một ấn bản M
 Trong "Phỏng vấn với Tolkien", Henry Resnick (Niekas Số 18, 1967) Tolkien đã nói:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Trên thực tế, trong chừng mực... không cần phải thuyết giảng hoặc thuyết giảng về những điều khá lỗi thời như khiêm tốn, dũng cảm, v.v.... và lòng can đảm, bạn có thể tiếp tục [tiếp tục] những điều đó và tôi nghĩ nó có ảnh hưởng đến mọi người - những người trẻ tuổi sẵn sàng thay đổi thái độ của họ. Nhưng tôi không có ý định làm những điều này vì tôi không viết nó cho trẻ em. Đó là lý do tại sao tôi không thích George MacDonald lắm; ông ấy là một bà già khủng khiếp. Tất nhiên, đó thực sự là một hình tượng phụ nữ rất dễ tìm - Nữ hoàng giống một người mẹ hơn.
+<p>As a matter of fact, insofar as... without harping or preaching on the side of various rather old-fashioned things like humility, valor, and so on... and courage, you can carry [on] those over and I think it has rather an effect on people — young folks are ready in their attitudes to rather be changed. But I didn&#39;t intend these things, because I didn&#39;t write it for children. That&#39;s why I don&#39;t like George MacDonald very much; he&#39;s a horrible old grandmother. That&#39;s a very find woman figure, of course, really — the Queen is rather a mother.
 </p>
 </blockquote>
 
@@ -49,7 +49,7 @@ Trong "Phỏng vấn với Tolkien", Henry Resnick (Niekas Số 18, 1967) Tolkie
 
 ## Tóm tắt {#Synopsis}
 
-<h2><span id="Tolkien.27s_draft_introduction"></span><span class="mw-headline" id="Tolkien&#39;s_draft_introduction">Lời giới thiệu dự thảo của Tolkien</span></h2>
+<h2><span id="Tolkien.27s_draft_introduction"></span><span class="mw-headline" id="Tolkien&#39;s_draft_introduction">Tolkien&#39;s draft introduction</span></h2>
 
 ## Sự hình thành của *Smith of Wootton Major* {#Genesis_of_Smith_of_Wootton_Major}
 

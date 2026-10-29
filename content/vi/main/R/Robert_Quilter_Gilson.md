@@ -29,7 +29,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Robert_Quilter_Gilson"
 ---
 
-Trung úy **Robert Quilter Gilson** ([25 tháng 10](../_/25_October.md) [1893](../_/1893.md) - [1 tháng 7](../_/1_July.md) [1916](../_/1916.md)) là bạn thời thơ ấu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Gilson, Tolkien và [Geoffrey Bache Smith](../G/Geoffrey_Bache_Smith.md) đã cùng tham dự [King Edward's School](../K/King_Edward's_School.md) tại [Birmingham](../B/Birmingham.md) và phục vụ trong [Chiến tranh thế giới thứ nhất](../W/World_War_I.md). Ông bị giết bởi một quả đạn pháo vào ngày đầu tiên của [Trận Somme](../B/Battle_of_the_Somme.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trung úy **Robert Quilter Gilson** ([25 tháng 10](../_/25_October.md) [1893](../_/1893.md) - [1 tháng 7](../_/1_July.md) [1916](../_/1916.md)) là bạn thời thơ ấu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Gilson, Tolkien và [Geoffrey Bache Smith](../G/Geoffrey_Bache_Smith.md) đã cùng tham dự [King Edward's School](../K/King_Edward's_School.md) tại [Birmingham](../B/Birmingham.md) và phục vụ trong [Chiến tranh thế giới thứ nhất](../W/World_War_I.md). Ông ta bị giết bởi một quả đạn pháo vào ngày đầu tiên của [Trận chiến Somme](../B/Battle_of_the_Somme.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Nam diễn viên [Patrick Gibson](../P/Patrick_Gibson.md) đóng vai anh trong bộ phim chính kịch tiểu sử về J.R.R. Tolkien, tên là [Tolkien](<../T/Tolkien_(film).md>).
 

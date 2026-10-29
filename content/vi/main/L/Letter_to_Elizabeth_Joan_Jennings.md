@@ -21,7 +21,7 @@ Trong [1964](../_/1964.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Elizabeth thân mến,<br/>Những lời chúc tốt đẹp nhất.<br/>Tôi hy vọng bạn có một chút<br/>vui vẻ trong <a class="mw-redirect" href="../C/Christmas.md" title="Christmas">Giáng sinh</a>.<br/><br/>Hãy nhớ đến <a class="extiw" href="http://en.wikipedia.org/wiki/Cecil_Day-Lewis" title="wikipedia:Cecil Day-Lewis">C. D. L.</a><br/>Tôi tin rằng tôi chỉ có một lần<br/>gặp ông và mong nó<br/>thường xuyên hơn.<br/><br/>Của bạn luôn trìu mến,<br/>Ronald
+<p>Dear Elizabeth,<br/>Very best wishes.<br/>I hope you have some<br/>cheer at <a class="mw-redirect" href="../C/Christmas.md" title="Christmas">Christmas</a>.<br/><br/>Remember me to <a class="extiw" href="http://en.wikipedia.org/wiki/Cecil_Day-Lewis" title="wikipedia:Cecil Day-Lewis">C. D. L.</a><br/>I believe I have only once<br/>met him and wish it<br/>were more often.<br/><br/>Yours ever affectionately,<br/>Ronald
 </p>
 </blockquote>
 

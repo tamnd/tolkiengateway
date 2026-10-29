@@ -27,7 +27,7 @@ infobox:
     value: "9"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stronghold.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/50/Stronghold.jpg/320px-Stronghold.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/50/Stronghold.jpg/480px-Stronghold.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/50/Stronghold.jpg/640px-Stronghold.jpg 2x" data-file-width="1200" data-file-height="1200"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>A Distant Flame Before the Sun</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../S/Stronghold.md" title="Stronghold">Thành trì</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Triệu hồi</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Triệu hồi</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data">Triệu hồi</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">9:43</td></tr><tr><th scope="row" class="tg-infobox-label">Số thứ tự bản nhạc</th><td class="tg-infobox-data">9</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/4YOTRKvMLTh6m9MWOwzq5G"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stronghold.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/50/Stronghold.jpg/320px-Stronghold.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/50/Stronghold.jpg/480px-Stronghold.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/50/Stronghold.jpg/640px-Stronghold.jpg 2x" data-file-width="1200" data-file-height="1200"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>A Distant Flame Before the Sun</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../S/Stronghold.md" title="Stronghold">Stronghold</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Summoning</a></td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Summoning</a></td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data">Summoning</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">9:43</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">9</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/4YOTRKvMLTh6m9MWOwzq5G"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
@@ -36,26 +36,26 @@ infobox:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Tôi ngồi bên đống lửa và suy nghĩ<br/>
-Về thế giới sẽ như thế nào<br/>
-Khi mùa đông đến mà không có mùa xuân<br/>
-Điều mà tôi sẽ thấy<br/>
+<p>I sit beside the fire and think<br/>
+Of how the world will be<br/>
+When winter comes without a spring<br/>
+That I shall ever see<br/>
 <br/>
-Tôi ngồi bên đống lửa và suy nghĩ<br/>
-Của người xưa<br/>
-Và những người sẽ nhìn thấy một thế giới<br/>
-Điều đó tôi sẽ không bao giờ biết<br/>
+I sit beside the fire and think<br/>
+Of people long ago<br/>
+And people who will see a world<br/>
+That I shall never know<br/>
 <br/>
-Tôi ngồi bên đống lửa và suy nghĩ<br/>
-Của thời xa xưa<br/>
-Tôi lắng nghe tiếng chân trở về<br/>
-Và những giọng nói trước cửa nhà tôi<br/>
+I sit beside the fire and think<br/>
+Of older times that were before<br/>
+I listen for returning feet<br/>
+And voices at my door<br/>
 <br/>
-Tôi đã đến trên cao trên màn sương<br/>
-Ngọn lửa xa xăm trước mặt trời<br/>
-Điều kỳ diệu trước bình minh đang thức giấc<br/>
-Nơi dòng nước xám xịt của vùng Nordland chảy<br/>
-Ngày xưa và những năm xa xưa
+On high above the mists I came<br/>
+A distant flame before the sun<br/>
+A wonder ere the waking dawn<br/>
+Where grey the nordland waters run<br/>
+In elder days and years of yore
 </p>
 </div>
 

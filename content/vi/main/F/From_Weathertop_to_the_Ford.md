@@ -14,39 +14,39 @@ categories:
 
 <table class="tginfobox" align="right" cellpadding="3" cellspacing="0" style="margin:15px;border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-right-radius:var(--tg-border-radius-large);border-top-left-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="../T/The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a></i> chương
+<th style="background:var(--tg-color-surface-5);border-top-right-radius:var(--tg-border-radius-large);border-top-left-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="../T/The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a></i> chapters
 </th></tr>
 <tr>
 <td>
-<dl><dd><b>Giai đoạn thứ nhất</b></dd></dl>
-<ol><li><a href="../A/A_Long-expected_Party_(chapter_in_The_Return_of_the_Shadow).md" title="A Long-expected Party (chapter in The Return of the Shadow)">Bữa tiệc được mong đợi từ lâu</a></li>
-<li><a href="From_Hobbiton_to_the_Woody_End.md" title="From Hobbiton to the Woody End">Từ Hobbiton đến Woody End</a></li>
-<li><a href="../O/Of_Gollum_and_the_Ring.md" title="Of Gollum and the Ring">Về Gollum và chiếc Nhẫn</a></li>
-<li><a href="../T/To_Maggot&#39;s_Farm_and_Buckland.md" title="To Maggot&#39;s Farm and Buckland">Đến trang trại của Maggot và Buckland</a></li>
-<li><a href="../T/The_Old_Forest_and_the_Withywindle.md" title="The Old Forest and the Withywindle">Khu Rừng Cổ và Withywindle</a></li>
+<dl><dd><b>The First Phase</b></dd></dl>
+<ol><li><a href="../A/A_Long-expected_Party_(chapter_in_The_Return_of_the_Shadow).md" title="A Long-expected Party (chapter in The Return of the Shadow)">A Long-expected Party</a></li>
+<li><a href="From_Hobbiton_to_the_Woody_End.md" title="From Hobbiton to the Woody End">From Hobbiton to the Woody End</a></li>
+<li><a href="../O/Of_Gollum_and_the_Ring.md" title="Of Gollum and the Ring">Of Gollum and the Ring</a></li>
+<li><a href="../T/To_Maggot&#39;s_Farm_and_Buckland.md" title="To Maggot&#39;s Farm and Buckland">To Maggot&#39;s Farm and Buckland</a></li>
+<li><a href="../T/The_Old_Forest_and_the_Withywindle.md" title="The Old Forest and the Withywindle">The Old Forest and the Withywindle</a></li>
 <li><a href="../T/Tom_Bombadil_(chapter).md" title="Tom Bombadil (chapter)">Tom Bombadil</a></li>
 <li><a href="../T/The_Barrow-wight.md" title="The Barrow-wight">The Barrow-wight</a></li>
-<li><a href="../A/Arrival_at_Bree.md" title="Arrival at Bree">Đến Bree</a></li>
-<li><a href="../T/Trotter_and_the_Journey_to_Weathertop.md" title="Trotter and the Journey to Weathertop">Trotter và hành trình đến Weathertop</a></li>
-<li><a href="../T/The_Attack_on_Weathertop.md" title="The Attack on Weathertop">Cuộc tấn công tại Weathertop</a></li>
-<li><a class="mw-selflink selflink">Từ Weathertop đến khúc cạn</a></li>
+<li><a href="../A/Arrival_at_Bree.md" title="Arrival at Bree">Arrival at Bree</a></li>
+<li><a href="../T/Trotter_and_the_Journey_to_Weathertop.md" title="Trotter and the Journey to Weathertop">Trotter and the Journey to Weathertop</a></li>
+<li><a href="../T/The_Attack_on_Weathertop.md" title="The Attack on Weathertop">The Attack on Weathertop</a></li>
+<li><a class="mw-selflink selflink">From Weathertop to the Ford</a></li>
 <li><a href="../A/At_Rivendell.md" title="At Rivendell">At Rivendell</a></li>
 <li>&#39;<a href="../Q/Queries_and_Alterations.md" title="Queries and Alterations">Queries and Alterations</a>&#39;</li></ol>
 <dl><dd><b>The Second Phase</b><i></i></dd></dl>
-<ol><li><a href="../R/Return_to_Hobbiton.md" title="Return to Hobbiton">Trở về Hobbiton</a></li>
-<li>Lịch sử cổ đại</li>
-<li>Chậm trễ là nguy hiểm</li>
-<li>Đường tắt đến chỗ có nấm</li>
-<li>Một lần nữa, từ Buckland đến Withywindle</li></ol>
-<dl><dd><b>Giai đoạn thứ ba</b></dd></dl>
-<ol><li>Hành trình đến Bree</li>
+<ol><li><a href="../R/Return_to_Hobbiton.md" title="Return to Hobbiton">Return to Hobbiton</a></li>
+<li>Ancient History</li>
+<li>Delays Are Dangerous</li>
+<li>A Short Cut to Mushrooms</li>
+<li>Again from Buckland to the Withywindle</li></ol>
+<dl><dd><b>The Third Phase</b></dd></dl>
+<ol><li>The Journey to Bree</li>
 <li>At the Sign of the Prancing Pony</li>
 <li>To Weathertop and Rivendell</li>
-<li>Những điều bất định mới và những dự phóng mới</li></ol>
-<dl><dd><b>Câu chuyện tiếp diễn</b></dd></dl>
-<ol><li>Tại nhà Elrond</li>
-<li>Chiếc Nhẫn tiến về phương Nam</li>
-<li>Hầm mỏ Moria</li></ol>
+<li>New Uncertainties and New Projections</li></ol>
+<dl><dd><b>The Story Continued</b></dd></dl>
+<ol><li>In the House of Elrond</li>
+<li>The Ring Goes South</li>
+<li>The Mines of Moria</li></ol>
 </td></tr></tbody></table>
 
 "**Từ Weathertop đến chiếc Ford**" là tựa đề chương thứ mười một của *[The Return of the Shadow](../T/The_Return_of_the_Shadow.md)*, cuốn thứ sáu trong bộ *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)* của [Christopher Tolkien](../C/Christopher_Tolkien.md).
@@ -59,15 +59,15 @@ Trước khi ngày đầu tiên kết thúc, nỗi đau của Bingo ngày càng 
 
 Cần lưu ý rằng trong câu chuyện gốc chỉ có một con sông không tên nằm giữa Weathertop và Rivendell thay vì [Hoarwell](../H/Hoarwell.md) theo sau là [Bruinen](../B/Bruinen.md). [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết rằng vùng đất phía nam con đường gần những ngọn đồi là "trống và nhiều đá", nghĩa là không có mái che và giải thích tại sao người hobbit phải băng qua đường. Trong bản phác thảo của ông cho phần này của cuộc hành trình Tolkien muốn các hobbit "dại dột" đi đường vòng để đến thăm lũ quỷ lùn mà [Bilbo](../B/Bilbo_Baggins.md) đã gặp phải (điều này thật ngu ngốc vì sự chậm trễ cho phép thời gian [Kỵ sĩ Đen](../N/Nazgûl.md) bắt kịp).
 
-Bingo hỏi ai sống trên đồi và ai đã xây dựng những tòa tháp. Trotter nói troll không xây dựng được. Những tòa tháp được xây dựng bởi những kẻ ác đã bị lật đổ bởi [Elendil](../E/Elendil.md). Làm sao Trotter biết tất cả những điều này, hỏi Frodo,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup> và Trotter nói rằng ông đã học được nó trong Rivendell. Trotter nói, số phận của ông không phải là nán lại trong ngôi nhà công bằng của [Elrond](../E/Elrond.md).
+Bingo hỏi ai sống trên đồi và ai đã xây dựng những tòa tháp. Trotter nói troll không xây dựng được. Những tòa tháp được xây dựng bởi những kẻ ác đã bị lật đổ bởi [Elendil](../E/Elendil.md). Làm sao Trotter biết tất cả những điều này, hỏi Frodo,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup> và Trotter nói rằng ông đã học được nó trong Rivendell. Trotter nói, số phận của ông ta không phải là nán lại trong ngôi nhà công bằng của [Elrond](../E/Elrond.md).
 
-Cả nhóm dành ba ngày thay vì hai ngày trên đồi, bù lại cho hành trình ngắn hơn từ Weathertop đến Đường. Trotter trèo lên để xem vị trí của vùng đất. Ông nói rằng họ đã ở quá xa về phía bắc và phải quay lại Con Đường. Vẫn còn bốn hoặc năm ngày nữa họ mới có thể đến được Rivendell.
+Cả nhóm dành ba ngày thay vì hai ngày trên đồi, bù lại cho hành trình ngắn hơn từ Weathertop đến Đường. Trotter trèo lên để xem vị trí của vùng đất. Ông ta nói rằng họ đã ở quá xa về phía bắc và phải quay lại Con Đường. Vẫn còn bốn hoặc năm ngày nữa họ mới có thể đến được Rivendell.
 
 Chính [Merry](../M/Meriadoc_Brandybuck.md) (sau này sẽ là Sam) là người hỏi Trotter về vết thương của Bingo. Frodo có một giấc mơ về đôi cánh đen tối vô tận nhưng một số mô tả về thế giới trở nên mờ ảo và giống như sương mù lại không còn nữa. Khi họ chạm trán với lũ troll đã hóa đá, Trotter (không giống như Aragorn) chào họ bằng tên. Chưa có [bài hát troll](../T/The_Stone_Troll.md). Quay trở lại Con đường, Trotter chỉ ra hòn đá, được đánh dấu bằng rune cho 'G' và 'B' (cho '[Gandalf](../G/Gandalf.md)'và 'Bilbo'), nơi chôn vàng của lũ troll. Bingo tiếc nuối vì đã tiêu hết số vàng.<sup id="cite_ref-Weathertop_4-0" class="reference"><a href="#cite_note-Weathertop-4">[1]</a></sup>
 
-Cuộc chạm trán với [Glorfindel](../G/Glorfindel.md) gần giống như trong văn bản đã xuất bản, ngoại trừ việc thay vì chào [Aragorn](../A/Aragorn.md) với tên *[Dúnadan](../D/Dúnedain.md)* Trotter lại được chào bằng tên *Padathir*, nghĩa là "Trotter".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[2]</a></sup> Glorfindel nói rằng ông được cử đi tìm họ vì Gandalf đã ở Rivendell, lo lắng và sợ hãi (trong văn bản xuất bản Gandalf vẫn chưa rõ tung tích của họ). Glorfindel biết rằng các Kỵ sĩ cách họ một ngày đường về phía Tây nên họ phải nhanh chóng lên đường. Glorfindel không nghĩ có bất kỳ Kỵ sĩ nào ở phía trước (trong câu chuyện đã xuất bản, ông biết có 5 Kỵ sĩ phía sau họ nhưng không biết 4 Kỵ sĩ còn lại ở đâu).
+Cuộc chạm trán với [Glorfindel](../G/Glorfindel.md) gần giống như trong văn bản đã xuất bản, ngoại trừ việc thay vì chào [Aragorn](../A/Aragorn.md) với tên *[Dúnadan](../D/Dúnedain.md)* Trotter lại được chào bằng tên *Padathir*, nghĩa là "Trotter".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[2]</a></sup> Glorfindel nói rằng ông ta được cử đi tìm họ vì Gandalf đã ở Rivendell, lo lắng và sợ hãi (trong văn bản xuất bản Gandalf vẫn chưa rõ tung tích của họ). Glorfindel biết rằng các Kỵ sĩ cách họ một ngày đường về phía Tây nên họ phải nhanh chóng lên đường. Glorfindel không nghĩ có bất kỳ Kỵ sĩ nào ở phía trước (trong câu chuyện đã xuất bản, ông ta biết có 5 Kỵ sĩ phía sau họ nhưng không biết 4 Kỵ sĩ còn lại ở đâu).
 
-Khi họ đến gần chiếc Ford, Kỵ sĩ Đen đuổi theo Bingo trên con ngựa của Glorfindel. Bingo nhìn thấy bảy Kỵ sĩ phía sau; không có gì ở phía trước như trong văn bản đã xuất bản. Bingo vượt qua chiếc Ford và quay lại đối mặt với kẻ thù của mình, cảm thấy việc cố gắng trốn thoát là vô ích khi những dặm dài vẫn còn ở phía trước trước khi đạt được Rivendell. Ông cũng cảm thấy có một mệnh lệnh khẩn cấp phải dừng lại. Đổi lại, Bingo cố gắng ra lệnh cho các Rider để ông yên nhưng họ cười nhạo ông. “Đến [Mordor](../M/Mordor.md) chúng tôi sẽ đưa bạn đi,” lần đầu tiên giới thiệu cái tên này. Bingo giơ kiếm lên, nhưng thủ lĩnh của các Kỵ sĩ giơ tay lên và thanh kiếm bị gãy. Đột nhiên lũ lụt ập đến với một đoàn kỵ binh đầy sóng. Ba kỵ sĩ trên sông bị cuốn trôi, hai người đi về phía nam, còn những người còn lại bị những người bạn của Bingo xua đuổi ngọn lửa. Bingo sau đó bất tỉnh.<sup id="cite_ref-Weathertop_4-1" class="reference"><a href="#cite_note-Weathertop-4">[1]</a></sup>
+Khi họ đến gần chiếc Ford, Kỵ sĩ Đen đuổi theo Bingo trên con ngựa của Glorfindel. Bingo nhìn thấy bảy Kỵ sĩ phía sau; không có gì ở phía trước như trong văn bản đã xuất bản. Bingo vượt qua chiếc Ford và quay lại đối mặt với kẻ thù của mình, cảm thấy việc cố gắng trốn thoát là vô ích khi những dặm dài vẫn còn ở phía trước trước khi đạt được Rivendell. Ông ta cũng cảm thấy có một mệnh lệnh khẩn cấp phải dừng lại. Đổi lại, Bingo cố gắng ra lệnh cho các Rider để ông ta yên nhưng họ cười nhạo ông ta. “Đến [Mordor](../M/Mordor.md) chúng tôi sẽ đưa bạn đi,” lần đầu tiên giới thiệu cái tên này. Bingo giơ kiếm lên, nhưng thủ lĩnh của các Kỵ sĩ giơ tay lên và thanh kiếm bị gãy. Đột nhiên lũ lụt ập đến với một đoàn kỵ binh đầy sóng. Ba kỵ sĩ trên sông bị cuốn trôi, hai người đi về phía nam, còn những người còn lại bị những người bạn của Bingo xua đuổi ngọn lửa. Bingo sau đó bất tỉnh.<sup id="cite_ref-Weathertop_4-1" class="reference"><a href="#cite_note-Weathertop-4">[1]</a></sup>
 
 ## Bình luận {#Commentary}
 

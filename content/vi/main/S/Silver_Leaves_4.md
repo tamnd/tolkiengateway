@@ -32,7 +32,7 @@ sort_keys:
 - Kathryn Darden: "Một người bạn thích Sam trở thành"
 - Christopher Nga: "Thứ Ba"
 - Constance G.J. Wagner: "Rồng ở trên cao"
-- Maureen F. Mann: "Ngày đọc Tolkien sách 2011"
+- Maureen F. Mann: "Tolkien Ngày đọc sách 2011"
 - Jonathon D. Svendsen: "Rồng: Kẻ thù tối thượng"
 - Bernadette Barnes: "Con mắt của Rồng"
 - L. Lara Sookoo: "Phỏng vấn Tiến sĩ Dimitra Fimi"

@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Uruk-hai"
 content_sha256: a334fa30cd8a2752a7807227a1aa6fe7af5b047153f5a0b32d6473dd3aae8be3
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Orc được Saruman lai tạo để phục vụ mệnh lệnh của mình"
+short_description: "Orcs bred by Saruman to serve his command"
 categories:
   - "Articles needing expansion"
   - "Black Speech words"

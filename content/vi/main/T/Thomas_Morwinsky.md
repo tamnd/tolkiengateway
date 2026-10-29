@@ -69,4 +69,4 @@ images:
 - [2010](../_/2010.md): *[Other Minds](../O/Other_Minds.md)* #10
     - Biên tập: Cuối cùng cũng đến đây!
     - "Vấn đề của Gil-galad và 'Ngôi nhà của Finrod'"
-    - "Dự án Khôi phục 'Other Hands'" (với Ronald K.)
+    - "Dự án Khôi phục 'Những bàn tay khác'" (với Ronald K.)

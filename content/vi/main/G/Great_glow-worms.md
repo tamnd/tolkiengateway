@@ -15,13 +15,13 @@ images:
   - "CdxIconTableMergeCells.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--red"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/3/3f/CdxIconTableMergeCells.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Hợp nhất</div></div><div class="ext-floatingui-content">Trang này nên được hợp nhất với <b><a href="Glowworms.md" title="Glowworms">Glowworms</a></b>.<blockquote class="tg-quote noexcerpt">
-<p>Người ta không chỉ đơn giản tìm thấy một trích dẫn cho mẫu hợp nhất.
+<div class="t-maintenance metadata t-maintenance--red"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/3/3f/CdxIconTableMergeCells.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Merge</div></div><div class="ext-floatingui-content">This page should be merged with <b><a href="Glowworms.md" title="Glowworms">Glowworms</a></b>.<blockquote class="tg-quote noexcerpt">
+<p>One does not simply find a quote for the merge template.
 </p>
 <p class="tg-quote-footer"><cite><a href="../B/Boromir.md" title="Boromir">Boromir</a></cite></p>
 </blockquote></div></div>
 
-**Những con đom đóm khổng lồ** thường ẩn nấp ở biên giới của [Olórë Mallë](../O/Olórë_Mallë.md), Con đường Giấc mơ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Những con đom đóm khổng lồ** thường ẩn nấp ở biên giới của [Olórë Mallë](../O/Olórë_Mallë.md), Con đường của những giấc mơ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Vì những sinh vật này chỉ được đề cập thoáng qua nên không thể nói liệu chúng có liên quan đến [Giun](../W/Worms.md) vĩ đại (không cánh [Rồng](../D/Dragons.md)) hay chúng là phiên bản khổng lồ của *[glowworms](Glow-worms.md)* thông thường. Người ta có thể cho rằng chúng phát sáng trong bóng tối (và do đó có lẽ có liên quan đến hoặc là tên gọi khác của [những con rồng tia lửa](../S/Spark-dragons.md)).
 

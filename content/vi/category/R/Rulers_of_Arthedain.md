@@ -14,4 +14,4 @@ categories:
   - "Rulers of Arnor"
 ---
 
-Thể loại này chứa các bài viết liên quan đến **Các vị vua của [Arthedain](../../main/A/Arthedain.md)** giữa [Amlaith](../../main/A/Amlaith.md) của [Fornost](../../main/F/Fornost.md), Vua đầu tiên của Arthedain (con trai của [Eärendur](<../../main/E/Eärendur_(King_of_Arnor).md>), [Vua cuối cùng của Arnor](../../main/K/Kings_of_Arnor.md)) và [Arvedui](../../main/A/Arvedui.md) Vua cuối cùng của Arthedain. Thông qua Các Vua Arthedain mà dòng [Isildur](../../main/I/Isildur.md) đã được bảo tồn cho đến tận [Aragorn Elessar](../../main/A/Aragorn.md).
+Thể loại này chứa các bài viết liên quan đến **Các vị vua của [Arthedain](../../main/A/Arthedain.md)** giữa [Amlaith](../../main/A/Amlaith.md) của [Fornost](../../main/F/Fornost.md), Vua đầu tiên của Arthedain (con trai của [Eärendur](<../../main/E/Eärendur_(King_of_Arnor).md>), [Vua cuối cùng của Arnor](../../main/K/Kings_of_Arnor.md)) và [Arvedui](../../main/A/Arvedui.md) Vua cuối cùng của Arthedain. Thông qua các vị Vua của Arthedain mà dòng [Isildur](../../main/I/Isildur.md) đã được bảo tồn cho đến tận [Aragorn Elessar](../../main/A/Aragorn.md).

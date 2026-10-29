@@ -18,13 +18,13 @@ images:
   - "J.R.R._Tolkien_-_Bath-song.mp3"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Giọng của <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> đột nhiên vang lên cao hơn những người khác trong một trong những bài hát tắm yêu thích của <a href="Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a>.
+<p>The voice of <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> was suddenly lifted up above the others in one of <a href="Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo&#39;s</a> favourite bath-songs.
 </p>
-<p class="tg-quote-footer"><cite>"<a href="../T/Three_is_Company.md" title="Three is Company">Ba là Công ty</a>", <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></cite></p>
+<p class="tg-quote-footer"><cite>&#34;<a href="../T/Three_is_Company.md" title="Three is Company">Three is Company</a>&#34;, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Bathing_at_Crickhollow.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/14/Ted_Nasmith_-_Bathing_at_Crickhollow.jpg/250px-Ted_Nasmith_-_Bathing_at_Crickhollow.jpg" decoding="async" loading="lazy" width="250" height="230" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/14/Ted_Nasmith_-_Bathing_at_Crickhollow.jpg/375px-Ted_Nasmith_-_Bathing_at_Crickhollow.jpg 1.5x, https://tolkiengateway.net/w/images/1/14/Ted_Nasmith_-_Bathing_at_Crickhollow.jpg 2x" data-file-width="450" data-file-height="414"/></a><figcaption>&#34;Bathing at Crickhollow&#34; by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
@@ -39,48 +39,48 @@ Bài hát tắm này được [Peregrin Took](../P/Peregrin_Took.md) hát trong 
 
 ## Lời bài hát {#Lyrics}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/3/33/J.R.R._Tolkien_-_Bath-song.mp3" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_Bath-song.mp3">https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_Bath-song.mp3</a></audio><figcaption><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> đọc bài hát A Bath</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/3/33/J.R.R._Tolkien_-_Bath-song.mp3" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_Bath-song.mp3">https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_Bath-song.mp3</a></audio><figcaption><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> reads A Bath-song</figcaption></figure>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Hát đi này! để tắm vào cuối ngày <br/>
-rửa sạch bùn mệt mỏi! <br/>
-Ông không hát thì thật là ngu ngốc: <br/>
-Ôi! Nước Nóng là một điều cao quý! <br/>
+<p>Sing hey! for the bath at close of day <br/>
+that washes the weary mud away! <br/>
+A loon is he that will not sing: <br/>
+O! Water Hot is a noble thing! <br/>
 <br/>
-Ôi! Ngọt ngào là tiếng mưa rơi, <br/>
-và dòng suối chảy từ đồi xuống đồng bằng; <br/>
-nhưng còn hơn mưa hay suối gợn sóng <br/>
-là nước nóng bốc khói và bốc hơi. <br/>
+O! Sweet is the sound of falling rain, <br/>
+and the brook that leaps from hill to plain; <br/>
+but better than rain or rippling streams <br/>
+is Water Hot that smokes and steams. <br/>
 <br/>
-Ôi! Nước lạnh có thể đổ khi cần <br/>
-bớt khát đi và hãy thực sự vui mừng; <br/>
-nhưng tốt hơn là Bia nếu chúng ta thiếu đồ uống, <br/>
-và Nước Nóng đổ xuống phía sau. <br/>
+O! Water cold we may pour at need <br/>
+down a thirsty throat and be glad indeed; <br/>
+but better is Beer if drink we lack, <br/>
+and Water Hot poured down the back. <br/>
 <br/>
-Ôi! Nước trong xanh nhảy vọt <br/>
-trong một đài phun nước trắng xóa dưới bầu trời; <br/>
-nhưng chưa bao giờ tiếng đài phun nước lại ngọt ngào đến thế <br/>
-như té nước nóng bằng chân!
+O! Water is fair that leaps on high <br/>
+in a fountain white beneath the sky; <br/>
+but never did fountain sound so sweet <br/>
+as splashing Hot Water with my feet!
 </p>
 </div>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Bản mở rộng</a>)</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Phiên bản mở rộng</a>)</b>
 
 <dl><dd><b></b></dd>
-<dd>Trong cảnh “<a href="../A/At_the_Green_Dragon.md" title="At the Green Dragon">At the Green Rồng</a>”, <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a>, <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> và <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> hát một bài gần giống <i><a href="../H/Ho!_Ho!_Ho!_To_the_Bottle_I_Go.md" title="Ho! Ho! Ho! To the Bottle I Go">Ho! ồ! ồ! To the Bottle I Go</a></i>, với lời bài hát được thay đổi một chút để kết hợp một phần nhỏ của <i>Sing Hey! Để tắm vào cuối ngày</i>:</dd></dl>
+<dd>In the scene &#34;<a href="../A/At_the_Green_Dragon.md" title="At the Green Dragon">At the Green Dragon</a>&#34;, <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a>, <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a>, and <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> sing a song closely resembling <i><a href="../H/Ho!_Ho!_Ho!_To_the_Bottle_I_Go.md" title="Ho! Ho! Ho! To the Bottle I Go">Ho! Ho! Ho! To the Bottle I Go</a></i>, with slightly altered lyrics that incorporate a small part of <i>Sing Hey! For the Bath at Close of Day</i>:</dd></dl>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Này Hồ, tôi đi lấy chai đi<br/>
-Để chữa lành trái tim tôi và nhấn chìm nỗi đau của tôi<br/>
-Mưa có thể rơi, gió có thể thổi nhưng vẫn còn<br/>
-Còn nhiều dặm nữa<br/>
+<p>Hey Ho to the bottle I go<br/>
+To heal my heart and drown my woe<br/>
+Rain may fall and wind may blow but there&#39;ll still be<br/>
+Many miles to go<br/>
 <br/>
-Ngọt ngào là tiếng mưa rơi,<br/>
-Và dòng suối đổ từ đồi xuống đồng bằng.<br/>
-Tốt hơn mưa hay suối gợn sóng,<br/>
-Bên trong này có một cốc bia <a href="../T/Took_Family.md" title="Took Family">Đã lấy</a>.
+Sweet is the sound of the pouring rain,<br/>
+And the stream that falls from hill to plain.<br/>
+Better than rain or rippling brook,<br/>
+Is a mug of beer inside this <a href="../T/Took_Family.md" title="Took Family">Took</a>.
 </p>
 </div>
 

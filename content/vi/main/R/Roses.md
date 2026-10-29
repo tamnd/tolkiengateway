@@ -21,9 +21,9 @@ infobox:
     value: "Flowering plants with large blossoms and prickly stems"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Rose</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Rose_(disambiguation).md" title="Rose (disambiguation)">Hoa hồng (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Rose</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Rose_(disambiguation).md" title="Rose (disambiguation)">Rose (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Thực vật</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Roses</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Throughout <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gia đình</th><td class="tg-infobox-data"><i>Rosaceae</i></td></tr><tr><th scope="row" class="tg-infobox-label">Ngoại hình</th><td class="tg-infobox-data">Cây có hoa lớn và thân có gai</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Plant</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Roses</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Throughout <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><i>Rosaceae</i></td></tr><tr><th scope="row" class="tg-infobox-label">Appearance</th><td class="tg-infobox-data">Flowering plants with large blossoms and prickly stems</td></tr></tbody></table>
 
 **Hoa hồng** là loài thực vật có hoa với hoa to, sặc sỡ và (thường) có thân gai được tìm thấy ở nhiều nơi trên khắp [Trung Địa](../M/Middle-earth.md).
 
@@ -41,11 +41,11 @@ Tên [Sindarin](../S/Sindarin.md) của hoa hồng là <i><a class="mw-redirect 
 
 <b>1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../H/Hands_of_the_Healer.md" title="Hands of the Healer">Hands of the Healer</a></i></b>
 
-<dl><dd>Hai loại hoa hồng cụ thể được mô tả trong cuốn sách:</dd></dl>
+<dl><dd>Two specific types of roses are described in the book:</dd></dl>
 
-<dl><dd><i><b>Bramblerose</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Aegmeril</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Aicamerillë</i>) là một bụi hoa hồng có hoa lớn màu hồng mọc dọc các con sông ở vùng ôn đới. Nó tạo thành những bụi mâm xôi dày và có những quả lớn màu tím thơm ngon với bên trong màu cam có đặc tính chữa bệnh nhẹ.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
+<dl><dd><i><b>Bramblerose</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Aegmeril</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Aicamerillë</i>) was a rose bush with large pink flowers that grew along rivers in temperate regions. It formed thick brambles, and had delicious large purple fruits with orange interiors with mild healing properties.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 
-<dl><dd><i><b>Foxrose</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Rosmeril</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Russamerillë</i>), còn được gọi là <i>Redthorn</i>, là một loại hoa hồng có hoa màu đỏ sẫm và lá màu xanh đỏ mọc ở vùng đất ngập nước ôn đới. Hoa hồng tượng trưng cho tình yêu và cánh hoa của nó có đặc tính chữa bệnh.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></dd></dl>
+<dl><dd><i><b>Foxrose</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Rosmeril</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Russamerillë</i>), also known as <i>Redthorn</i>, was a rose with dusky red flowers and reddish-green leaves that grew in temperate wetlands. The foxrose symbolized love, and its petals had healing properties.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></dd></dl>
 
 ## Liên kết ngoài {#External_links}
 

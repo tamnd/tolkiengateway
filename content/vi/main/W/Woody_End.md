@@ -32,7 +32,7 @@ images:
 
 **Woody End** là vùng rừng núi cao của [Eastfarthing](../E/Eastfarthing.md) [ Shire](../T/The_Shire.md), nằm giữa [Green Hill Country](../G/Green_Hill_Country.md) ở phía tây và [Marish](../M/Marish.md) ở phía đông. Rừng của nó là nguồn gốc của [Stock-brook](../S/Stock-brook.md) và [Thistle Brook](../T/Thistle_Brook.md). Một trong những mái hiên phía bắc của vùng là [Woodhall](Woodhall.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Vào tối [24 tháng Chín](../_/24_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), [Frodo](../F/Frodo_Baggins.md), [Pippin](../P/Peregrin_Took.md), và [Sam](../S/Samwise_Gamgee.md) đã gặp [Gildor Inglorion](../G/Gildor_Inglorion.md) và nhóm lang thang Tiên tộc của ông trong Woody End.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào tối [24 tháng Chín](../_/24_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), [Frodo](../F/Frodo_Baggins.md), [Pippin](../P/Peregrin_Took.md), và [Sam](../S/Samwise_Gamgee.md) đã gặp [Gildor Inglorion](../G/Gildor_Inglorion.md) và nhóm lang thang Tiên tộc của ông ta trong Woody End.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Vào [22 tháng Chín](../_/22_September.md) [T.A.](../T/Third_Age.md) [3021](../T/Third_Age_3021.md) [Chuyến cưỡi ngựa cuối cùng của những người giữ những chiếc nhẫn](../L/Last_Riding_of_the_Keepers_of_the_Rings.md) đi qua Woody End trên đường đến [Cảng Xám](../G/Grey_Havens.md) và có sự tham gia của Frodo và Sam.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

@@ -20,7 +20,7 @@ infobox:
     value: "A small planetary body of about around the same size as the Earth"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Hành tinh</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tekel-Mirim</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Within <a href="../E/Eä.md" title="Eä">Eä</a></td></tr><tr><th scope="row" class="tg-infobox-label">Loại</th><td class="tg-infobox-data">Hành tinh</td></tr><tr><th scope="row" class="tg-infobox-label">Mô tả</th><td class="tg-infobox-data">Một thân hành tinh nhỏ có kích thước tương đương với <a href="../A/Ambar.md" title="Ambar">Trái đất</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Planet</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tekel-Mirim</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Within <a href="../E/Eä.md" title="Eä">Eä</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Planet</td></tr><tr><th scope="row" class="tg-infobox-label">Description</th><td class="tg-infobox-data">A small planetary body of about around the same size as the <a href="../A/Ambar.md" title="Ambar">Earth</a></td></tr></tbody></table>
 
 **Tekel-Mirim** là hành tinh thứ tư mà [Michael George Ramer](../M/Michael_George_Ramer.md) được cho là đã ghé thăm bằng tâm trí của mình.<sup id="cite_ref-Tekel_1-0" class="reference"><a href="#cite_note-Tekel-1">[1]</a></sup>
 
@@ -28,7 +28,7 @@ infobox:
 
 Tekel-Mirim là một hành tinh nhỏ có kích thước tương đương với [Trái đất](../A/Ambar.md). [Mặt Trời](../S/Sun.md) cung cấp ánh sáng cho nó lớn hơn mặt trời Trái đất, mặc dù nó mờ hơn và các [Các ngôi sao](../S/Stars.md) mờ nhạt và sắp xếp một cách kỳ lạ. Một lúc sau, Ramer cho rằng điều này có thể là do thứ mà ông nghĩ là không khí thực ra có thể là nước hoặc chất lỏng khác và ông "*có thể đã ở dưới đáy một vùng biển nông rộng*". Mặc dù không thể chắc chắn nhưng ông nghi ngờ rằng Tekel-Mirim nằm trong một hệ mặt trời có lẽ nằm trong một tinh vân lớn hơn nhiều so với tinh vân ở <a class="extiw" href="http://en.wikipedia.org/wiki/Andromeda" title="wikipedia:Andromeda">Andromeda</a>.<sup id="cite_ref-Tekel_1-1" class="reference"><a href="#cite_note-Tekel-1">[1]</a></sup>
 
-Bản thân hành tinh Tekel-Mirim là một vùng đất pha lê. Trong đó, Ramer ví vĩ đại nhất trong số đó là kim tự tháp Ai Cập. Tuy nhiên, ông không thể đánh giá kích thước chính xác, tin rằng điều này là do cơ thể của ông không tương phản. Theo Ramer, chính vật chất vô tri đã phát triển thành vô số dạng tinh thể có độ phức tạp khác nhau.<sup id="cite_ref-Tekel_1-2" class="reference"><a href="#cite_note-Tekel-1">[1]</a></sup>
+Bản thân hành tinh Tekel-Mirim là một vùng đất pha lê. Trong đó, Ramer ví vĩ đại nhất trong số đó là kim tự tháp Ai Cập. Tuy nhiên, ông ta không thể đánh giá kích thước chính xác, tin rằng điều này là do cơ thể của ông ta không tương phản. Theo Ramer, chính vật chất vô tri đã phát triển thành vô số dạng tinh thể có độ phức tạp khác nhau.<sup id="cite_ref-Tekel_1-2" class="reference"><a href="#cite_note-Tekel-1">[1]</a></sup>
 
 Khi thời gian chiêm nghiệm trôi qua, Ramer nhận thấy những hình thức này cũng trải qua một quá trình tan rã đẹp đẽ, mặc dù vẫn còn một số cấu trúc cơ bản. Trong một lần đến thăm hành tinh này, anh đã có cảm giác muốn quay trở lại cơ thể của mình, nhưng khi đang làm vậy, anh bị phân tâm bởi một quả cầu đưa anh đến một khung cảnh hoàn toàn khác với Tekel-Mirim.<sup id="cite_ref-Tekel_1-3" class="reference"><a href="#cite_note-Tekel-1">[1]</a></sup>
 
@@ -55,12 +55,12 @@ Trong bản nháp trước đó [Christopher Tolkien](../C/Christopher_Tolkien.m
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/L/Locations.md" title="Category:Locations">địa điểm</a> huyền thoại ở <a href="../A/Arda.md" title="Arda">Arda</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Legendary <a href="../../category/L/Locations.md" title="Category:Locations">locations</a> in <a href="../A/Arda.md" title="Arda">Arda</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/I/Islands.md" title="Category:Islands">Islands</a>:
 </th>
-<td style="font-size: 90%;"> <a href="../H/Hallow_of_Eru.md" title="Hallow of Eru">Hòn đảo Meneltarma</a>
+<td style="font-size: 90%;"> <a href="../H/Hallow_of_Eru.md" title="Hallow of Eru">Isle of Meneltarma</a>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/M/Mountains.md" title="Category:Mountains">Mountains</a> and <a href="../../category/H/Hills.md" title="Category:Hills">Hills</a>:
@@ -78,7 +78,7 @@ Trong bản nháp trước đó [Christopher Tolkien](../C/Christopher_Tolkien.m
 <td style="font-size: 90%;"> <a href="../D/Derrilyn.md" title="Derrilyn">Derrilyn</a>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">Khác:
+<th style="background:var(--tg-color-surface-3);" align="right">Other:
 </th>
 <td style="font-size: 90%;"> <a href="../C/Caves_of_the_Forgotten.md" title="Caves of the Forgotten">Caves of the Forgotten</a> · <a class="mw-redirect" href="../G/Gorbelgod.md" title="Gorbelgod">Gorbelgod</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tong&amp;action=edit&amp;redlink=1" title="Tong (page does not exist)">Tong</a>
 </td></tr>

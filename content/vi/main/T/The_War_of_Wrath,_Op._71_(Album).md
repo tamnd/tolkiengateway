@@ -14,7 +14,7 @@ images:
   - "War_of_Wrath_Cover.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/War_of_Wrath_Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/300px-War_of_Wrath_Cover.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/450px-War_of_Wrath_Cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/600px-War_of_Wrath_Cover.jpg 2x" data-file-width="1159" data-file-height="1160"/></a><figcaption>Tác phẩm nghệ thuật từ bản phát hành CD đã được sự cho phép của Ted Nasmith.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/War_of_Wrath_Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/300px-War_of_Wrath_Cover.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/450px-War_of_Wrath_Cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/600px-War_of_Wrath_Cover.jpg 2x" data-file-width="1159" data-file-height="1160"/></a><figcaption>Artwork from the CD release by permission of Ted Nasmith.</figcaption></figure>
 
 <br> Bản ghi demo hoàn chỉnh về tác phẩm opera của nhà soạn nhạc [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md) *[The War of Wrath, Op. 71 (Opera)](<The_War_of_Wrath,_Op._71_(Opera).md>)* từ vở kịch của ông *Những cảnh sử thi trong The SIlmarillion sau thần thoại J. R. R. Tolkien* do Volante Opera Productions ghi lại và Prima Facie phát hành dưới dạng CD và bản tải xuống kỹ thuật số vào năm 2023.
 
@@ -108,7 +108,7 @@ Julian Boyce/Stephen Wells/Jasey Hall/George Newton-Fitzgerald
 
 2\. Xin chào Eärendil! \[01:36\]
 
-3\. Ông đã ở lại đó vì sai lầm \[02:43\]
+3\. Ông ta đã ở lại đó vì sai lầm \[02:43\]
 
 4\. Liệu phàm nhân bước lên Vùng Đất Bất Tử mà vẫn sống? \[04:39\]
 
@@ -116,7 +116,7 @@ Julian Boyce/Stephen Wells/Jasey Hall/George Newton-Fitzgerald
 
 6\. Chắc chắn đó là một Silmaril đang tỏa sáng trong Phương Tây \[03:49\]
 
-7\. Nhưng cái chết to lớn đã được đặt lên ông \[04:15\]
+7\. Nhưng cái chết to lớn đã được đặt lên ông ta \[04:15\]
 
 8\. Cảnh 7: Nhưng Morgoth không để ý đến cuộc tấn công xảy ra với mình \[03:54\]
 

@@ -63,23 +63,23 @@ infobox:
     value: "Profile"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>bộ phim của người hâm mộ năm 2009</b>. Để biết về bộ phim chuyển thể năm 2026, xem <b><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Lord of the Rings: The Hunt for Gollum</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the 2009 fan film</b>. For the 2026 film adaptation, see <b><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Lord of the Rings: The Hunt for Gollum</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hunt_for_Gollum_Poster.jpg.md"><img src="https://tolkiengateway.net/w/images/1/1d/The_Hunt_for_Gollum_Poster.jpg" decoding="async" loading="lazy" width="238" height="353" class="mw-file-element" data-file-width="238" data-file-height="353"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Hunt for Gollum</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data">Chris Bouchard</td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><b>Novel:</b><br/><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/><b>Screenplay:</b><br/>Chris Bouchard<br/><b>Additional Writing:</b><br/>Sabina Sattar<br/>Julianne Honey-Mennal<br/>Stuart Price<br/>Lewis Albrow</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà sản xuất</th><td class="tg-infobox-data">Chris Bouchard, Spencer Duru, Noel Gale, Julianne Honey-Mennal, Brian Lavery, Kate Madison, Ashram Maharaj, Gladys San Juan, Sabina Sattar</td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data">Adrian Webster</td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data">Gareth Brough, Chris Child, John-Paul Frazer, Neill Phillips, 
-Mike Ritchie, Stein Stie</td></tr><tr><th scope="row" class="tg-infobox-label">Biên tập</th><td class="tg-infobox-data">Lewis Albrow</td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data">Adam Langston, Andrew Skrabutenas</td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data">Internet</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">May 3, 2009</td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">38 min</td></tr><tr><th scope="row" class="tg-infobox-label">Quốc gia</th><td class="tg-infobox-data">Vương quốc Anh</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr><tr><th scope="row" class="tg-infobox-label">Ngân sách</th><td class="tg-infobox-data">£3000</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.thehuntforgollum.com" rel="noreferrer noopener" target="_blank">Trang web chính thức</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt1323925" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hunt_for_Gollum_Poster.jpg.md"><img src="https://tolkiengateway.net/w/images/1/1d/The_Hunt_for_Gollum_Poster.jpg" decoding="async" loading="lazy" width="238" height="353" class="mw-file-element" data-file-width="238" data-file-height="353"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Hunt for Gollum</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data">Chris Bouchard</td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data"><b>Novel:</b><br/><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/><b>Screenplay:</b><br/>Chris Bouchard<br/><b>Additional Writing:</b><br/>Sabina Sattar<br/>Julianne Honey-Mennal<br/>Stuart Price<br/>Lewis Albrow</td></tr><tr><th scope="row" class="tg-infobox-label">Producer</th><td class="tg-infobox-data">Chris Bouchard, Spencer Duru, Noel Gale, Julianne Honey-Mennal, Brian Lavery, Kate Madison, Ashram Maharaj, Gladys San Juan, Sabina Sattar</td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data">Adrian Webster</td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data">Gareth Brough, Chris Child, John-Paul Frazer, Neill Phillips, 
+Mike Ritchie, Stein Stie</td></tr><tr><th scope="row" class="tg-infobox-label">Editing</th><td class="tg-infobox-data">Lewis Albrow</td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data">Adam Langston, Andrew Skrabutenas</td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data">Internet</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">May 3, 2009</td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">38 min</td></tr><tr><th scope="row" class="tg-infobox-label">Country</th><td class="tg-infobox-data">UK</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Budget</th><td class="tg-infobox-data">£3000</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.thehuntforgollum.com" rel="noreferrer noopener" target="_blank">Official website</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt1323925" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
 **Cuộc săn lùng Gollum** là một [bộ phim dành cho người hâm mộ](../../category/F/Fan_films.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)*. Bộ phim tập trung vào các sự kiện trước *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)* nhưng sau *[The Hobbit](The_Hobbit.md)* khi [Aragorn](../A/Aragorn.md) theo dõi [Gollum](../G/Gollum.md). Các ký tự nổi bật bao gồm [Aragorn](../A/Aragorn.md), [Gandalf](../G/Gandalf.md), [Arwen](../A/Arwen.md) và [Gollum](../G/Gollum.md), cùng với các ký tự mới *Arithir* và *Goblok*. Phim được cung cấp để tải xuống miễn phí vào [ngày 3 tháng 5](../_/3_May.md), [2009](../_/2009.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Tóm tắt {#Synopsis}
 
-Khi Gandalf biết được sự thật về chiếc nhẫn mà Frodo sở hữu, ông phái Aragorn đi tìm và bắt giữ sinh vật Gollum, vật chủ cũ của chiếc nhẫn.
+Khi Gandalf biết được sự thật về chiếc nhẫn mà Frodo sở hữu, ông ta phái Aragorn đi tìm và bắt giữ sinh vật Gollum, vật chủ cũ của chiếc nhẫn.
 
 ## Truyền {#Cast}
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Vai trò</th>
-<th>Diễn viên
+<th>Role</th>
+<th>Actor
 </th></tr>
 <tr>
 <td><a href="../A/Aragorn.md" title="Aragorn">Aragorn II</a></td>
@@ -158,7 +158,7 @@ Khi Gandalf biết được sự thật về chiếc nhẫn mà Frodo sở hữu
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>phim của người hâm mộ liên quan đến <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>-related fan films</b>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2003</b>
@@ -173,7 +173,7 @@ Khi Gandalf biết được sự thật về chiếc nhẫn mà Frodo sở hữu
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2005</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../A/Almost_There_And_Back_Again.md" title="Almost There And Back Again">Gần đến nơi rồi lại trở về</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../A/Almost_There_And_Back_Again.md" title="Almost There And Back Again">Almost There And Back Again</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2007</b>
@@ -188,7 +188,7 @@ Khi Gandalf biết được sự thật về chiếc nhẫn mà Frodo sở hữu
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2011</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Đôi cánh trên Arda: Kỷ Đệ Nhất</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Wings Over Arda: The First Age</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2013</b>
@@ -198,7 +198,7 @@ Khi Gandalf biết được sự thật về chiếc nhẫn mà Frodo sở hữu
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2014</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Con đường của Tolkien</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Tolkien&#39;s Road</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2015</b>
@@ -213,7 +213,7 @@ Khi Gandalf biết được sự thật về chiếc nhẫn mà Frodo sở hữu
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2017</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">Cuộc vây hãm Angband</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">The Siege of Angband</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2018</b>
@@ -228,12 +228,12 @@ Khi Gandalf biết được sự thật về chiếc nhẫn mà Frodo sở hữu
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2020</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../H/Horn_of_Gondor_(fan_film).md" title="Horn of Gondor (fan film)">Tù và Gondor</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../H/Horn_of_Gondor_(fan_film).md" title="Horn of Gondor (fan film)">Horn of Gondor</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2022</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Các trận chiến tại khúc cạn Isen</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Battles of the Fords of Isen</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2024</b>
@@ -243,10 +243,10 @@ Khi Gandalf biết được sự thật về chiếc nhẫn mà Frodo sở hữu
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2025</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="The_Beacons.md" title="The Beacons">Các đài hiệu</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="The_Beacons.md" title="The Beacons">The Beacons</a></i>
 </td></tr>
 <tr>
-<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Không rõ</b>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Unknown</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="The_Legend_of_Gurthang.md" title="The Legend of Gurthang">Truyền thuyết về Gurthang</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="The_Legend_of_Gurthang.md" title="The Legend of Gurthang">The Legend of Gurthang</a></i>
 </td></tr></tbody></table>

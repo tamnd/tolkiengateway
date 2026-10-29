@@ -20,7 +20,7 @@ categories:
 
 <table class="mw-collapsible mw-collapsed" width="100%">
 <tbody><tr>
-<th align="left">Bấm để mở rộng/thu gọn danh sách
+<th align="left">Click to expand/collapse list
 </th></tr>
 <tr>
 <td align="left" valign="top">
@@ -43,10 +43,10 @@ categories:
 <ul><li>“<a class="external text" href="https://web.archive.org/web/20191127235123/http://www.guildcompanion.com/scrolls/1999/jun/deckbuilder1.html" rel="noreferrer noopener" target="_blank">Deck Building for Beginners”</a> by Nigel Buckle</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191127235123/http://www.guildcompanion.com/scrolls/1999/jun/gondortp.html" rel="noreferrer noopener" target="_blank">Peoples of Middle-Earth - Men of Gondor”</a> by Joe Mandala</li></ul></li>
 <li><a href="../_/1999.md" title="1999">1999</a>: <a class="external text" href="https://web.archive.org/web/20191127235121/http://www.guildcompanion.com/scrolls/1999/jul/" rel="noreferrer noopener" target="_blank">July</a>
-<ul><li>“<a class="external text" href="https://web.archive.org/web/20191127235121/http://www.guildcompanion.com/scrolls/1999/jul/welcometotheunlondbeaches.html" rel="noreferrer noopener" target="_blank">Chào mừng đến với những bãi biển Unlond”</a> (bộ bài MECCG) của Nicolas Pizzonero</li>
+<ul><li>“<a class="external text" href="https://web.archive.org/web/20191127235121/http://www.guildcompanion.com/scrolls/1999/jul/welcometotheunlondbeaches.html" rel="noreferrer noopener" target="_blank">Welcome to the Unlond Beaches”</a> (MECCG deck) by Nicolas Pizzonero</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191127235121/http://www.guildcompanion.com/scrolls/1999/jul/marauders.html" rel="noreferrer noopener" target="_blank">Ready to Run Adventure - The Marauders”</a> by Phillip Gladney</li></ul></li>
 <li><a href="../_/1999.md" title="1999">1999</a>: <a class="external text" href="https://web.archive.org/web/20191127235124/http://www.guildcompanion.com/scrolls/1999/aug/" rel="noreferrer noopener" target="_blank">August</a>
-<ul><li>“<a class="external text" href="https://web.archive.org/web/20191127235124/http://www.guildcompanion.com/scrolls/1999/aug/heroinesdeck.html" rel="noreferrer noopener" target="_blank">Middle-Earth: The Heroines”</a> (bộ bài MECCG) của Jean-Paul Keulen</li>
+<ul><li>“<a class="external text" href="https://web.archive.org/web/20191127235124/http://www.guildcompanion.com/scrolls/1999/aug/heroinesdeck.html" rel="noreferrer noopener" target="_blank">Middle-Earth: The Heroines”</a> (MECCG deck) by Jean-Paul Keulen</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191127235124/http://www.guildcompanion.com/scrolls/1999/aug/clarissa.html" rel="noreferrer noopener" target="_blank">Clarissa - A Lady of Middle-Earth”</a> by Joe Mandala</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191127235124/http://www.guildcompanion.com/scrolls/1999/aug/tanturaki.html" rel="noreferrer noopener" target="_blank">The Hands of The Healer - The Tantûraki”</a> by Lowell R Matthews</li></ul></li>
 <li><a href="../_/1999.md" title="1999">1999</a>: <a class="external text" href="https://web.archive.org/web/20191127235119/http://www.guildcompanion.com/scrolls/1999/sep/" rel="noreferrer noopener" target="_blank">September</a>
@@ -54,8 +54,8 @@ categories:
 <li>“<a class="external text" href="https://web.archive.org/web/20191127235119/http://www.guildcompanion.com/scrolls/1999/sep/usingthesideboard.html" rel="noreferrer noopener" target="_blank">Using the Sideboard in MECCG”</a> by Nigel Buckle</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191127235119/http://www.guildcompanion.com/scrolls/1999/sep/arthedaintp.html" rel="noreferrer noopener" target="_blank">Peoples of Middle-earth - Men of Arthedain”</a> by Joe Mandala</li></ul></li>
 <li><a href="../_/1999.md" title="1999">1999</a>: <a class="external text" href="https://web.archive.org/web/20191127235122/http://www.guildcompanion.com/scrolls/1999/oct/" rel="noreferrer noopener" target="_blank">October</a>
-<ul><li>“<a class="external text" href="https://web.archive.org/web/20191127235122/http://www.guildcompanion.com/scrolls/1999/oct/melicense.html" rel="noreferrer noopener" target="_blank">ICE mất Giấy phép Trung Địa”</a> (Thông báo chính thức)</li>
-<li>“<a class="external text" href="https://web.archive.org/web/20191127235122/http://www.guildcompanion.com/scrolls/1999/oct/sealeddeckplay.html" rel="noreferrer noopener" target="_blank">Chơi trong các giải đấu MECCG sàn kín”</a> của Nigel Buckle</li>
+<ul><li>“<a class="external text" href="https://web.archive.org/web/20191127235122/http://www.guildcompanion.com/scrolls/1999/oct/melicense.html" rel="noreferrer noopener" target="_blank">ICE loses Middle-Earth License”</a> (Official announcement)</li>
+<li>“<a class="external text" href="https://web.archive.org/web/20191127235122/http://www.guildcompanion.com/scrolls/1999/oct/sealeddeckplay.html" rel="noreferrer noopener" target="_blank">Playing in sealed deck MECCG tournaments”</a> by Nigel Buckle</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191127235122/http://www.guildcompanion.com/scrolls/1999/oct/mythbytolkien.html" rel="noreferrer noopener" target="_blank">Myth by Tolkien”</a> by Joe Mandala</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191127235122/http://www.guildcompanion.com/scrolls/1999/oct/siegeofharnalda.html" rel="noreferrer noopener" target="_blank">Ready to Run Adventure - The Siege of Harnalda”</a> by Phillip Gladney</li></ul></li>
 <li><a href="../_/1999.md" title="1999">1999</a>: <a class="external text" href="https://web.archive.org/web/20191127235120/http://www.guildcompanion.com/scrolls/1999/nov/" rel="noreferrer noopener" target="_blank">November</a>
@@ -79,7 +79,7 @@ categories:
 <ul><li>“<a class="external text" href="https://web.archive.org/web/20210125221304/http://www.guildcompanion.com/scrolls/2000/may/quentaroquenich17-18.html" rel="noreferrer noopener" target="_blank">- Chapters 17 to 18”</a> (Fiction) by Vincent Roiron and Lowell R. Matthews</li></ul></li>
 <li><a href="../_/2000.md" title="2000">2000</a>: <a class="external text" href="https://web.archive.org/web/20210125230627/http://www.guildcompanion.com/scrolls/2000/jul/" rel="noreferrer noopener" target="_blank">July</a>
 <ul><li>“<a class="external text" href="https://web.archive.org/web/20210125230627/http://www.guildcompanion.com/scrolls/2000/jul/enemywithin.html" rel="noreferrer noopener" target="_blank">Ready to Run Adventure - Enemy Within”</a> by Phillip Gladney</li>
-<li>“<a class="external text" href="https://web.archive.org/web/20210125230627/http://www.guildcompanion.com/scrolls/2000/jul/gildorshalls.html" rel="noreferrer noopener" target="_blank">Gildor's Halls”</a> (tiểu luận) của Matt Light</li></ul></li>
+<li>“<a class="external text" href="https://web.archive.org/web/20210125230627/http://www.guildcompanion.com/scrolls/2000/jul/gildorshalls.html" rel="noreferrer noopener" target="_blank">Gildor&#39;s Halls”</a> (essay) by Matt Light</li></ul></li>
 <li><a href="../_/2000.md" title="2000">2000</a>: <a class="external text" href="https://web.archive.org/web/20210126001801/http://www.guildcompanion.com/scrolls/2000/aug/" rel="noreferrer noopener" target="_blank">August</a>
 <ul><li>“<a class="external text" href="https://web.archive.org/web/20210126001801/http://www.guildcompanion.com/scrolls/2000/aug/wordsfromthewise18.html" rel="noreferrer noopener" target="_blank">Words from the Wise (Guys)”</a> (About MERP) by Joe Mandala</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20210126001801/http://www.guildcompanion.com/scrolls/2000/aug/hornofnimraug.html" rel="noreferrer noopener" target="_blank">Ready to Run Adventure - The Horn of Nimraug Part 1 : Fire and Ice”</a> by Craig Pay</li></ul></li>
@@ -112,7 +112,7 @@ categories:
 <li><a href="../_/2001.md" title="2001">2001</a>: <a class="external text" href="https://web.archive.org/web/20191128001703/http://www.guildcompanion.com/scrolls/2001/may/" rel="noreferrer noopener" target="_blank">May</a>
 <ul><li>“<a class="external text" href="https://web.archive.org/web/20191128001626/http://www.guildcompanion.com/scrolls/2001/may/atsguidepartthree.html" rel="noreferrer noopener" target="_blank">Against the Shadow Strategy Guide - Part Three”</a> by Nigel Buckle</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128001626/http://www.guildcompanion.com/scrolls/2001/may/worlds.html" rel="noreferrer noopener" target="_blank">Middle Earth CCG World Championships 2001”</a> by Nigel Buckle</li>
-<li>“<a class="external text" href="https://web.archive.org/web/20191128001626/http://www.guildcompanion.com/scrolls/2001/may/onering.html" rel="noreferrer noopener" target="_blank">The Precious”</a> (chiến lược MECCG) của Pierre Jonas Castillo</li>
+<li>“<a class="external text" href="https://web.archive.org/web/20191128001626/http://www.guildcompanion.com/scrolls/2001/may/onering.html" rel="noreferrer noopener" target="_blank">The Precious”</a> (MECCG strategies) by Pierre Jonas Castillo</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128001626/http://www.guildcompanion.com/scrolls/2001/may/oh31review.html" rel="noreferrer noopener" target="_blank">Review: Other Hands Issue 31/32: Evil Races”</a> by Joe Mandala</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128001626/http://www.guildcompanion.com/scrolls/2001/may/bellakarhistory.html" rel="noreferrer noopener" target="_blank">Bellakar and the Kin-Strife”</a> by Eric Dubourg<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup></li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128001626/http://www.guildcompanion.com/scrolls/2001/may/rmpfrofessionsinmerpciandii.html" rel="noreferrer noopener" target="_blank">Rolemaster Professions in MERP: Rolemaster Companions I and II”</a> by Anthony Almeida</li></ul></li>
@@ -120,12 +120,12 @@ categories:
 <ul><li>“<a class="external text" href="https://web.archive.org/web/20191128001534/http://www.guildcompanion.com/scrolls/2001/jun/commondeck.html" rel="noreferrer noopener" target="_blank">A More Common Deck”</a> (MECCG) by Nigel Buckle</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128001534/http://www.guildcompanion.com/scrolls/2001/jun/presstolkiengames.html" rel="noreferrer noopener" target="_blank">Press Release: &#34;The Lord of the Rings&#34; Computer Games Deal Agreed</a></li></ul></li>
 <li><a href="../_/2001.md" title="2001">2001</a>: <a class="external text" href="https://web.archive.org/web/20191128001621/http://www.guildcompanion.com/scrolls/2001/jul/" rel="noreferrer noopener" target="_blank">July</a>
-<ul><li>“<a class="external text" href="https://web.archive.org/web/20191128001621/http://www.guildcompanion.com/scrolls/2001/jul/bellakarumbarshadow.html" rel="noreferrer noopener" target="_blank">Bellakar 1446-1540 Trong Umbar bóng tối”</a> của Eric Dubourg</li>
+<ul><li>“<a class="external text" href="https://web.archive.org/web/20191128001621/http://www.guildcompanion.com/scrolls/2001/jul/bellakarumbarshadow.html" rel="noreferrer noopener" target="_blank">Bellakar 1446-1540 In Umbar&#39;s shadow”</a> by Eric Dubourg</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128001621/http://www.guildcompanion.com/scrolls/2001/jul/womawtimeline.html" rel="noreferrer noopener" target="_blank">Chronology of the Eastern Coasts”</a> by Cory Rushton</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128001621/http://www.guildcompanion.com/scrolls/2001/jul/rmprofessionsinmerpciii.html" rel="noreferrer noopener" target="_blank">Rolemaster Professions in MERP: Rolemaster Companions III </a>by Anthony Almeida</li></ul></li>
 <li><a href="../_/2001.md" title="2001">2001</a>: <a class="external text" href="https://web.archive.org/web/20191128001541/http://www.guildcompanion.com/scrolls/2001/aug/" rel="noreferrer noopener" target="_blank">August</a>
 <ul><li>“<a class="external text" href="https://web.archive.org/web/20191128001541/http://www.guildcompanion.com/scrolls/2001/aug/whp1.html" rel="noreferrer noopener" target="_blank">Middle-earth: The White Hand Guide: Part 1”</a> by Pierre Jonas Castillo</li>
-<li>“<a class="external text" href="https://web.archive.org/web/20191128001541/http://www.guildcompanion.com/scrolls/2001/aug/rmpfrofessionsinmerpcivtocvi.html" rel="noreferrer noopener" target="_blank">Rolemaster Professions in MERP: Rolemaster Companions IV through VI”</a> của Anthony Almeida</li></ul></li>
+<li>“<a class="external text" href="https://web.archive.org/web/20191128001541/http://www.guildcompanion.com/scrolls/2001/aug/rmpfrofessionsinmerpcivtocvi.html" rel="noreferrer noopener" target="_blank">Rolemaster Professions in MERP: Rolemaster Companions IV through VI”</a> by Anthony Almeida</li></ul></li>
 <li><a href="../_/2001.md" title="2001">2001</a>: <a class="external text" href="https://web.archive.org/web/20191128001649/http://www.guildcompanion.com/scrolls/2001/sep/" rel="noreferrer noopener" target="_blank">September</a>
 <ul><li>“<a class="external text" href="https://web.archive.org/web/20191128001649/http://www.guildcompanion.com/scrolls/2001/sep/fwdeck.html" rel="noreferrer noopener" target="_blank">A Sample Fallen Wizard Deck”</a> (MECCG) by Nigel Buckle</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128001649/http://www.guildcompanion.com/scrolls/2001/sep/whp2.html" rel="noreferrer noopener" target="_blank">Middle-earth: The White Hand Guide: Part 2”</a> by Pierre Jonas Castillo</li>
@@ -141,12 +141,12 @@ categories:
 <ul><li>“<a class="external text" href="https://web.archive.org/web/20191128001520/http://www.guildcompanion.com/scrolls/2001/nov/var.html" rel="noreferrer noopener" target="_blank">Variant Rules for MECCG”</a> by Nigel Buckle and Joe Bisz</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128001520/http://www.guildcompanion.com/scrolls/2001/nov/bellakargreatplague.html" rel="noreferrer noopener" target="_blank">Bellakar 1610-1640 The Estrangement of Gondor and the Great Plague”</a> by Eric Dubourg</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128001520/http://www.guildcompanion.com/scrolls/2001/nov/bellakarsangarunya.html" rel="noreferrer noopener" target="_blank">Bellakar 1610-1641 Sangarunya and Zäimbär”</a> by Eric Dubourg</li>
-<li>“<a class="external text" href="https://web.archive.org/web/20191128001520/http://www.guildcompanion.com/scrolls/2001/nov/bellakartulwang.html" rel="noreferrer noopener" target="_blank">Bellakar 1641-1648 Cuộc xâm lược Tulwang”</a> của Eric Dubourg</li>
+<li>“<a class="external text" href="https://web.archive.org/web/20191128001520/http://www.guildcompanion.com/scrolls/2001/nov/bellakartulwang.html" rel="noreferrer noopener" target="_blank">Bellakar 1641-1648 The invasion of Tulwang”</a> by Eric Dubourg</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128001520/http://www.guildcompanion.com/scrolls/2001/nov/presslotradvgame.html" rel="noreferrer noopener" target="_blank">Press Release: Decipher&#39;s Lord of the Rings RPG Plans</a></li></ul></li>
 <li><a href="../_/2001.md" title="2001">2001</a>: <a class="external text" href="https://web.archive.org/web/20191128001520/http://www.guildcompanion.com/scrolls/2001/dec/" rel="noreferrer noopener" target="_blank">December</a>
 <ul><li>“<a class="external text" href="https://web.archive.org/web/20191128001509/http://www.guildcompanion.com/scrolls/2001/dec/uknat1.html" rel="noreferrer noopener" target="_blank">Qualifying Deck for the UK Nationals (2001)”</a> (MECCG) by Nigel Buckle</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128001509/http://www.guildcompanion.com/scrolls/2001/dec/snow.html" rel="noreferrer noopener" target="_blank">Snow”</a> (MECCG Deck) by Nigel Buckle</li>
-<li>“<a class="external text" href="https://web.archive.org/web/20191128001509/http://www.guildcompanion.com/scrolls/2001/dec/stevelonginterview.html" rel="noreferrer noopener" target="_blank">24 câu hỏi cùng Steve Long”</a> của Joe Mandala<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup></li>
+<li>“<a class="external text" href="https://web.archive.org/web/20191128001509/http://www.guildcompanion.com/scrolls/2001/dec/stevelonginterview.html" rel="noreferrer noopener" target="_blank">24 questions with Steve Long”</a> by Joe Mandala<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup></li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128001509/http://www.guildcompanion.com/scrolls/2001/dec/bellakar1559northernusurper.html" rel="noreferrer noopener" target="_blank">Bellakar 1559-1563 - The Northern Usurper”</a> by Eric Dubourg</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128001509/http://www.guildcompanion.com/scrolls/2001/dec/bellakar1564stalemateofterror.html" rel="noreferrer noopener" target="_blank">Bellakar 1564-1570 - The Stalemate of Terror”</a> by Eric Dubourg</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128001509/http://www.guildcompanion.com/scrolls/2001/dec/bellakar1570instabilityofnorth.html" rel="noreferrer noopener" target="_blank">Bellakar 1570-1599 - The Instability of the North”</a> by Eric Dubourg</li>
@@ -156,7 +156,7 @@ categories:
 <ul><li>“<a class="external text" href="https://web.archive.org/web/20191128000219/http://www.guildcompanion.com/scrolls/2002/jan/wordsfromthewise35.html" rel="noreferrer noopener" target="_blank">Words from the Wise (Guys)”</a> by Nicholas HM Caldwell<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup></li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128000219/http://www.guildcompanion.com/scrolls/2002/jan/nat2001.html" rel="noreferrer noopener" target="_blank">UK Nationals 2001 Tournament Report”</a> (MECCG) by Nigel Buckle</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128000219/http://www.guildcompanion.com/scrolls/2002/jan/presslotradvgame.html" rel="noreferrer noopener" target="_blank">Press Release: Decipher&#39;s Lord of the Rings RPG Plans</a></li>
-<li>“<a class="external text" href="https://web.archive.org/web/20191128000219/http://www.guildcompanion.com/scrolls/2002/jan/ohpressrelease.html" rel="noreferrer noopener" target="_blank">Press release: Other Hands - Letter to Subscribers”</a> của Chris Seeman</li>
+<li>“<a class="external text" href="https://web.archive.org/web/20191128000219/http://www.guildcompanion.com/scrolls/2002/jan/ohpressrelease.html" rel="noreferrer noopener" target="_blank">Press release: Other Hands - Letter to Subscribers”</a> by Chris Seeman</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128000219/http://www.guildcompanion.com/scrolls/2002/jan/reviewlotr.html" rel="noreferrer noopener" target="_blank">Review: Lord of the Rings : The Search”</a> by Nigel Buckle</li></ul></li>
 <li><a href="../_/2002.md" title="2002">2002</a>: <a class="external text" href="https://web.archive.org/web/20191128000247/http://www.guildcompanion.com/scrolls/2002/feb/" rel="noreferrer noopener" target="_blank">February</a>
 <ul><li>“<a class="external text" href="https://web.archive.org/web/20191128000247/http://www.guildcompanion.com/scrolls/2002/feb/wordsfromthewise36.html" rel="noreferrer noopener" target="_blank">Words from the Wise (Guys)”</a> by Nicholas HM Caldwell<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 4]</a></sup></li>
@@ -195,7 +195,7 @@ categories:
 <li>“<a class="external text" href="https://web.archive.org/web/20191128000201/http://www.guildcompanion.com/scrolls/2002/oct/worlds2002.html" rel="noreferrer noopener" target="_blank">MECCG-Worlds 2002 in Cologne/Germany”</a> by Wolfgang Penetsdorfer</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128000201/http://www.guildcompanion.com/scrolls/2002/oct/confrontreview.html" rel="noreferrer noopener" target="_blank">Review: Lord of the Rings: The Confrontation”</a> by Nigel Buckle</li></ul></li>
 <li><a href="../_/2002.md" title="2002">2002</a>: <a class="external text" href="https://web.archive.org/web/20210224154034/http://www.guildcompanion.com/scrolls/2002/nov/" rel="noreferrer noopener" target="_blank">November</a>
-<ul><li>“<a class="external text" href="https://web.archive.org/web/20210224154034/http://www.guildcompanion.com/scrolls/2002/nov/fumes.html" rel="noreferrer noopener" target="_blank">The Guild Companion: The Hunt for the Ring”</a> (bộ bài MECCG) của Nigel Buckle</li></ul></li>
+<ul><li>“<a class="external text" href="https://web.archive.org/web/20210224154034/http://www.guildcompanion.com/scrolls/2002/nov/fumes.html" rel="noreferrer noopener" target="_blank">The Guild Companion: The Hunt for the Ring”</a> (MECCG deck) by Nigel Buckle</li></ul></li>
 <li><a href="../_/2002.md" title="2002">2002</a>: <a class="external text" href="https://web.archive.org/web/20210224154034/http://www.guildcompanion.com/scrolls/2002/dec/" rel="noreferrer noopener" target="_blank">December</a>
 <ul><li>“<a class="external text" href="https://web.archive.org/web/20191128000241/http://www.guildcompanion.com/scrolls/2002/dec/autoattackdeck.html" rel="noreferrer noopener" target="_blank">Minion - Auto-attack Deck”</a> (MECCG) by Nigel Buckle</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128000241/http://www.guildcompanion.com/scrolls/2002/dec/rmprofessionsinmerpcviitoac.html" rel="noreferrer noopener" target="_blank">RM Professions in MERP - Rolemaster Companion VII/Alchemy Companion”</a> by Anthony Almeida</li>
@@ -216,7 +216,7 @@ categories:
 <li><a href="../_/2003.md" title="2003">2003</a>: <a class="external text" href="https://web.archive.org/web/20191128000726/http://www.guildcompanion.com/scrolls/2003/may/" rel="noreferrer noopener" target="_blank">May</a>
 <ul><li>“<a class="external text" href="https://web.archive.org/web/20191128000639/http://www.guildcompanion.com/scrolls/2003/may/playfour.html" rel="noreferrer noopener" target="_blank">Playing MECCG”</a> by Nigel Buckle</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128000639/http://www.guildcompanion.com/scrolls/2003/may/gazetteer.html" rel="noreferrer noopener" target="_blank">Gazetteer of Endor</a> (MERP) by <a href="../G/Gabriele_Quaglia.md" title="Gabriele Quaglia">Gabriele Quaglia</a>, Eric Dubourg</li>
-<li>“<a class="external text" href="https://web.archive.org/web/20191128000639/http://www.guildcompanion.com/scrolls/2003/may/" rel="noreferrer noopener" target="_blank">Sẵn sàng cho cuộc phiêu lưu - Tàn tích ở Deadman's Dike phiên bản PDF”</a> (LOTRRPG) của Joe Mandala</li></ul></li>
+<li>“<a class="external text" href="https://web.archive.org/web/20191128000639/http://www.guildcompanion.com/scrolls/2003/may/" rel="noreferrer noopener" target="_blank">Ready to Run Adventure - The Ruins at Deadman&#39;s Dike PDF version”</a> (LOTRRPG) by Joe Mandala</li></ul></li>
 <li><a href="../_/2003.md" title="2003">2003</a>: <a class="external text" href="https://web.archive.org/web/20191128000733/http://www.guildcompanion.com/scrolls/2003/jun/" rel="noreferrer noopener" target="_blank">June</a>
 <ul><li>“<a class="external text" href="https://web.archive.org/web/20191128000733/http://www.guildcompanion.com/scrolls/2003/jun/" rel="noreferrer noopener" target="_blank">Playing MECCG: Part 5 The Character Draft”</a> by Nigel Buckle</li></ul></li>
 <li><a href="../_/2003.md" title="2003">2003</a>: <a class="external text" href="https://web.archive.org/web/20191128000646/http://www.guildcompanion.com/scrolls/2003/jul/" rel="noreferrer noopener" target="_blank">July</a>
@@ -300,22 +300,22 @@ categories:
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Tạp chí chơi game trên máy tính bảng</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Tabletop gaming magazines</b>
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Nhập vai ở Trung Địa</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Roleplaying in Middle-earth</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../O/Other_Hands.md" title="Other Hands">Other Hands</a></b></i> (<a href="../_/1993.md" title="1993">1993</a>-<a href="../_/2001.md" title="2001">2001</a>) • <i><b><a href="../O/Other_Minds.md" title="Other Minds">Other Minds</a></b></i> (<a href="../_/2007.md" title="2007">2007</a>-)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Mô phỏng chiến tranh ở Trung Địa</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Wargaming in Middle-earth</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../B/Battle_Games_in_Middle-earth.md" title="Battle Games in Middle-earth">Battle Games in Middle-earth</a></b></i> (<a href="../_/2002.md" title="2002">2002</a>-<a href="../_/2006.md" title="2006">2006</a>)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Các tạp chí khác</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Other Magazines</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../D/Dragon_Magazine.md" title="Dragon Magazine">Dragon</a></b></i> (<a href="../_/1976.md" title="1976">1976</a>-<a href="../_/2013.md" title="2013">2013</a>) • <i><b><a href="../W/White_Dwarf.md" title="White Dwarf">White Dwarf</a></b></i> (<a href="../_/1977.md" title="1977">1977</a>-) • <i><b><a href="../I/InQuest.md" title="InQuest">InQuest</a></b></i> (<a href="../_/1995.md" title="1995">1995</a>-<a href="../_/2007.md" title="2007">2007</a>) • <i><b><a class="mw-selflink selflink">The Guild Companion</a></b></i> (<a href="../_/1998.md" title="1998">1998</a>-<a href="../_/2019.md" title="2019">2019</a>)

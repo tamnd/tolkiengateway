@@ -24,7 +24,7 @@ infobox:
     value: "Artist"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Serena Malyon</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nghệ sĩ</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Serena Malyon</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
 **Serena Malyon** là một họa sĩ minh họa người Canada. Với tư cách là một nghệ sĩ [Magic: The Gathering](../M/Magic%253A_The_Gathering.md), bà đã sáng tạo nghệ thuật cho việc mở rộng [The Hobbit](../M/Magic%253A_The_Gathering_-_The_Hobbit.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

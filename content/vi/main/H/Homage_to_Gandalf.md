@@ -23,7 +23,7 @@ infobox:
     value: "Galadriel's Test"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Cảnh trong <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Homage to Gandalf</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Cảnh</th><td class="tg-infobox-data">21</td></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">3:27</td></tr><tr><th scope="row" class="tg-infobox-label">Sự kiện</th><td class="tg-infobox-data">Arrival at <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><i>Balrog Strikes</i></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><i>Galadriel&#39;s Test</i></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Scene from <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Homage to Gandalf</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Scene</th><td class="tg-infobox-data">21</td></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">3:27</td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data">Arrival at <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><i>Balrog Strikes</i></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><i>Galadriel&#39;s Test</i></td></tr></tbody></table>
 
 <i><b>Tôn kính Gandalf</b></i> là cảnh thứ 21 của [bộ phim năm 1978 *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1978_film).md>)*.*
 
@@ -31,7 +31,7 @@ infobox:
 
 Sau khi [Gandalf](../G/Gandalf.md) thất bại cùng với [Balrog](../D/Durin's_Bane.md), [Aragorn](../A/Aragorn.md) ra lệnh cho [Công ty](../F/Fellowship_of_the_Ring.md) rời khỏi [Moria](../M/Moria.md). Khi chăm sóc vết thương cho [Sam](../S/Samwise_Gamgee.md) và [Frodo](../F/Frodo_Baggins.md), anh phát hiện ra chiếc áo vest *[mithril](../M/Mithril.md)* của sau này. Frodo đề cập đến việc nghe thấy [tiếng vỗ chân](../G/Gollum.md) và Hiệp hội nhanh chóng kết luận rằng đó không thể là [orc](../O/Orcs.md). Aragorn đảm bảo với anh rằng dù đó là gì đi nữa, nó sẽ không theo họ đến nơi họ sẽ đến: Lothlórien. Khi nghe thấy cái tên đó, [Boromir](../B/Boromir.md) phản đối, kể lại những câu chuyện về những nơi diễn ra ở [Gondor](../G/Gondor.md).
 
-[Galadriel](../G/Galadriel.md) và [Celeborn](../C/Celeborn.md) chào mừng Hiệp hội và thông báo cho họ rằng họ đã biết về sự sụp đổ của Gandalf và nhiệm vụ của Frodo. Tiên tộc hát một bài hát buồn cho *Mithrandir*, đồng thời Aragorn và Frodo thảo luận ngắn gọn về những kỷ niệm của họ về ông. Frodo hơi ngạc nhiên khi nghe nhiều về Mithrandir và nhiều cái tên của ông: trong Shire, ông chỉ là Gandalf. Aragorn nói với ông rằng đó có lẽ là cái tên mà Pháp sư yêu thích nhất.
+[Galadriel](../G/Galadriel.md) và [Celeborn](../C/Celeborn.md) chào mừng Hiệp hội và thông báo cho họ rằng họ đã biết về sự sụp đổ của Gandalf và nhiệm vụ của Frodo. Tiên tộc hát một bài hát buồn cho *Mithrandir*, đồng thời Aragorn và Frodo thảo luận ngắn gọn về những kỷ niệm của họ về ông. Frodo hơi ngạc nhiên khi nghe nhiều về Mithrandir và nhiều cái tên của ông ta: trong Shire, ông ta chỉ là Gandalf. Aragorn nói với ông rằng đó có lẽ là cái tên mà Pháp sư yêu thích nhất.
 
 Hiệp hội nghỉ ngơi tại Lothlórien, luyện tập chiến đấu, ngủ và hái hoa. [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) bắt đầu liên kết.
 
@@ -39,8 +39,8 @@ Hiệp hội nghỉ ngơi tại Lothlórien, luyện tập chiến đấu, ngủ
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Vai trò</th>
-<th>Diễn viên
+<th>Role</th>
+<th>Actor
 </th></tr>
 <tr>
 <td><a href="../B/Boromir.md" title="Boromir">Boromir</a></td>
@@ -52,11 +52,11 @@ Hiệp hội nghỉ ngơi tại Lothlórien, luyện tập chiến đấu, ngủ
 </td></tr>
 <tr>
 <td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a></td>
-<td><a href="../M/Michael_Scholes.md" title="Michael Scholes">Michael Scholes</a> (lồng tiếng), <a href="../B/Billy_Barty.md" title="Billy Barty">Billy Barty</a>
+<td><a href="../M/Michael_Scholes.md" title="Michael Scholes">Michael Scholes</a> (voice), <a href="../B/Billy_Barty.md" title="Billy Barty">Billy Barty</a>
 </td></tr>
 <tr>
 <td><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></td>
-<td><a href="../C/Christopher_Guard.md" title="Christopher Guard">Christopher Bảo vệ</a> (giọng nói), <a href="../S/Sharon_Baird.md" title="Sharon Baird">Sharon Baird</a>
+<td><a href="../C/Christopher_Guard.md" title="Christopher Guard">Christopher Guard</a> (voice), <a href="../S/Sharon_Baird.md" title="Sharon Baird">Sharon Baird</a>
 </td></tr>
 <tr>
 <td><a href="../G/Galadriel.md" title="Galadriel">Galadriel</a></td>
@@ -72,15 +72,15 @@ Hiệp hội nghỉ ngơi tại Lothlórien, luyện tập chiến đấu, ngủ
 </td></tr>
 <tr>
 <td><a href="../G/Gimli.md" title="Gimli">Gimli</a></td>
-<td>Không có lời thoại
+<td>No lines
 </td></tr>
 <tr>
 <td><a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a></td>
-<td>Không có lời thoại
+<td>No lines
 </td></tr>
 <tr>
 <td><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a></td>
-<td>Không có lời thoại
+<td>No lines
 </td></tr></tbody></table>
 
 ## Sự khác biệt so với nguồn tài liệu {#Differences_from_the_source_material}

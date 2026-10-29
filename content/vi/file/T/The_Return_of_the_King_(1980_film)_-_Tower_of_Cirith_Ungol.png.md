@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Bộ Tháp Cirith Ungol](../../main/T/Tower_of_Cirith_Ungol.md) - [*The Return of the King* (phim năm 1980)](<../../main/T/The_Return_of_the_King_(1980_film).md>)
+[Bộ Tháp Cirith Ungol](../../main/T/Tower_of_Cirith_Ungol.md) - [*The Return of the King* (phim 1980)](<../../main/T/The_Return_of_the_King_(1980_film).md>)
 
 ## Giấy phép {#Licensing}
 

@@ -18,48 +18,48 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Tiên thế giới ngầm <br/>
-Màu sắc của các vì sao <br/>
-Hang ổ của họ gắn kết tình yêu <br/>
-Nó nằm phía trên <br/>
-Tiên thế giới ngầm <br/>
-Thật xa các vì sao <br/>
-Hang ổ của họ gắn kết tình yêu <br/>
-Cho màn đêm và bầu trời <br/>
+<p>Elven underworld <br/>
+Colours of the stars <br/>
+Their dens seal the love <br/>
+That lies above <br/>
+Elven underworld <br/>
+So far from the stars <br/>
+Their dens seal the love <br/>
+For the night and the skies <br/>
 <br/>
-Rừng và hoang dã <br/>
-Không khí và ánh sáng <br/>
-Xương đất <br/>
-Được chế tạo bởi Người Lùn <br/>
-Di sản của Naugrim <br/>
+Woods and wild <br/>
+Air and light <br/>
+Bones of the earth <br/>
+Crafted by the Dwarves <br/>
+Legacy of Naugrim <br/>
 <br/>
-Hang động Menegroth <br/>
-Người Lùn ảo ảnh <br/>
-Tất cả đều lạnh lẽo và xám xịt <br/>
-Phủ xanh <br/>
-Hang động Menegroth <br/>
-Người Lùn ảo ảnh <br/>
-Những bức tường thần tiên vàng <br/>
-Bao phủ vương quốc của họ <br/>
+Caves of Menegroth <br/>
+Dwarven illusions <br/>
+All the cold and grey <br/>
+Covered with green <br/>
+Caves of Menegroth <br/>
+Dwarven illusions <br/>
+Walls of golden fey <br/>
+Cover their realm <br/>
 <br/>
-Lần đầu tiên mắt họ có thể nhìn thấy <br/>
-Sự đồng điệu <br/>
-Một lần không quan tâm tới cuộc đua <br/>
-Râu hay tai, mặt anh em <br/>
+For once their eyes can see <br/>
+The same harmony <br/>
+For once not to care the race <br/>
+Beards or ears, the brothers face <br/>
 <br/>
-Búa của Khazâd <br/>
-Định hình sườn núi <br/>
-Vụt đi như một tia chớp <br/>
-Sự khéo léo, gọn gàng, kiêu hãnh <br/>
-Di sản của Naugrim <br/>
+Hammers of Khazâd <br/>
+Shaped the moutainside <br/>
+Blasted like a lightning <br/>
+The skill, the neat, the pride <br/>
+Legacy of Naugrim <br/>
 <br/>
-Tiên thế giới ngầm <br/>
-Màu sắc của các vì sao <br/>
-Hang ổ của họ gắn kết tình yêu <br/>
-Nó nằm phía trên <br/>
-Ngàn hang nó rình rập <br/>
-Bị nguyền rủa bởi Sindar <br/>
-Mọi vẻ đẹp đều biến mất <br/>
-Dưới những con sóng
+Elven underworld <br/>
+Colours of the stars <br/>
+Their dens seal the love <br/>
+That lies above <br/>
+Thousand caves it&#39;s stalk <br/>
+Cursed by Sindar <br/>
+All the beauty&#39;s gone <br/>
+Under the waves
 </p>
 </div>

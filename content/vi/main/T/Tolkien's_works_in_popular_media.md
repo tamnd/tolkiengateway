@@ -32,11 +32,11 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell" title="wikipedia:Jonathan Strange &amp; Mr Norrell">Jonathan Strange & Ông Norrell</a> {#Jonathan_Strange_&_Mr_Norrell}
 
-- Trong chương 25 "Sự giáo dục của một pháp sư", ông Norrel giải thích ý tưởng tồi về việc truyền sức mạnh ma thuật vào các vật thể vật chất để bảo tồn nó: "*Những chiếc nhẫn từ lâu đã được coi là đặc biệt phù hợp với loại phép thuật này nhờ kích thước nhỏ bé của chúng. Một người đàn ông có thể đeo một chiếc nhẫn liên tục trên ngón tay của mình trong nhiều năm mà không gây ra một lời nhận xét nào dù nhỏ nhất —điều này sẽ không xảy ra nếu ông thể hiện sự gắn bó tương tự với một cuốn sách hoặc một viên sỏi— và hiếm có một pháp sư nào trong lịch sử, người, đã từng sử dụng một phần kỹ năng và sức mạnh của mình vào [một chiếc nhẫn ma thuật](../R/Rings_of_Power.md), nhưng bằng cách nào đó đã không đánh mất chiếc nhẫn đó và phải gặp rất nhiều rắc rối để lấy lại được nó*".
+- Trong chương 25 "Sự giáo dục của một pháp sư", ông Norrel giải thích ý tưởng tồi về việc truyền sức mạnh ma thuật vào các vật thể vật chất để bảo tồn nó: "*Những chiếc nhẫn từ lâu đã được coi là đặc biệt phù hợp với loại phép thuật này nhờ kích thước nhỏ bé của chúng. Một người đàn ông có thể đeo một chiếc nhẫn liên tục trên ngón tay của mình trong nhiều năm mà không gây ra một lời nhận xét nào dù nhỏ nhất —điều này sẽ không xảy ra nếu ông ta thể hiện sự gắn bó tương tự với một cuốn sách hoặc một viên sỏi— và hiếm có một pháp sư nào trong lịch sử, người, đã từng sử dụng một phần kỹ năng và sức mạnh của mình vào [một chiếc nhẫn ma thuật](../R/Rings_of_Power.md), nhưng bằng cách nào đó đã không đánh mất chiếc nhẫn đó và phải gặp rất nhiều rắc rối để lấy lại được nó*".
 
 ### <a class="external text" href="https://books.google.cl/books/about/Boy_in_a_White_Room.html?id=0DADzwEACAAJ&amp;redir_esc=y" rel="noreferrer noopener" target="_blank">Cậu bé trong phòng trắng</a> {#Boy_in_a_White_Room}
 
-- Người được cho là cha của nhân vật chính đã xây dựng cho ông một phiên bản kỹ thuật số của Trung Địa mà ông có thể tự do khám phá. Ông đặc biệt thương hại [Orc](../O/Orcs.md) ông sắp tấn công, vì ông thấy họ sống cuộc sống bình thường trong ngôi làng của riêng họ.
+- Người được cho là cha của nhân vật chính đã xây dựng cho ông ta một phiên bản kỹ thuật số của Trung Địa mà ông ta có thể tự do khám phá. Ông ta đặc biệt thương hại [Orc](../O/Orcs.md) ông ta sắp tấn công, vì ông ta thấy họ sống cuộc sống bình thường trong ngôi làng của riêng họ.
 
 ### <a class="external text" href="https://www.thefirstcatinspace.com/books" rel="noreferrer noopener" target="_blank">Con mèo đầu tiên trong không gian ăn Pizza</a> {#The_First_Cat_in_Space_Ate_Pizza}
 
@@ -84,7 +84,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Date_Movie" title="wikipedia:Date Movie">Phim hẹn hò</a> {#Date_Movie}
 
-- Frodo, [Sam](../S/Samwise_Gamgee.md) và Gandalf cố gắng cầm đồ [Một chiếc nhẫn](The_One_Ring.md), với Gandalf cầu xin rằng Chiếc nhẫn có thể "tiêu diệt mọi tà ác". Phớt lờ ông, Frodo nhận năm mươi đô la; sau đó họ đánh đập Gandalf và bỏ chạy đi "lấy tủ đựng rượu... và gái điếm!". <a class="extiw" href="http://en.wikipedia.org/wiki/Tom_Lenk" title="wikipedia:Tom Lenk">Tom Lenk</a> đóng Frodo, <a class="extiw" href="http://en.wikipedia.org/wiki/Thomas_Fitzpatrick" title="wikipedia:Thomas Fitzpatrick">Tom Fitzpatrick</a> Gandalf và Scott Bridges Sam.
+- Frodo, [Sam](../S/Samwise_Gamgee.md) và Gandalf cố gắng cầm đồ [Một chiếc nhẫn](The_One_Ring.md), với Gandalf cầu xin rằng Chiếc nhẫn có thể "tiêu diệt mọi tà ác". Phớt lờ ông ta, Frodo nhận năm mươi đô la; sau đó họ đánh đập Gandalf và bỏ chạy đi "lấy tủ đựng rượu... và gái điếm!". <a class="extiw" href="http://en.wikipedia.org/wiki/Tom_Lenk" title="wikipedia:Tom Lenk">Tom Lenk</a> đóng Frodo, <a class="extiw" href="http://en.wikipedia.org/wiki/Thomas_Fitzpatrick" title="wikipedia:Thomas Fitzpatrick">Tom Fitzpatrick</a> Gandalf và Scott Bridges Sam.
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Deadpool_(film)" title="wikipedia:Deadpool (film)">Deadpool</a> {#Deadpool}
 
@@ -122,7 +122,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 - Xúc xắc nhân đôi thành *[palantír](../P/Palantír.md)*.
 - Nhân vật Mẹ đã được đổi tên thành Momon, phản chiếu *[Sauron](../S/Sauron.md)*.
 - [Argonath](../A/Argonath.md) là một bức tượng anh hùng và một chồng thần lùn giữ vườn. Một cây cầu ọp ẹp treo giữa họ.
-- Một cái cây biết đi tên là Treedledum xuất hiện. Cuối cùng ông trở thành củi.
+- Một cái cây biết đi tên là Treedledum xuất hiện. Cuối cùng ông ta trở thành củi.
 - Moria được miêu tả là "Hang động vô vọng". Cả nhóm bị <a class="extiw" href="http://en.wikipedia.org/wiki/Mork_%26_Mindy" title="wikipedia:Mork &amp; Mindy">Morks</a> tấn công tại đó.
 
 <h3><span id="Freud.27s_Last_Session"></span><span class="mw-headline" id="Freud&#39;s_Last_Session"><a class="extiw" href="http://en.wikipedia.org/wiki/Freud%27s_Last_Session" title="wikipedia:Freud&#39;s Last Session"> Freud&#39;s Last Session</a></span></h3>
@@ -166,7 +166,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 
 <h3><span id="Kronk.27s_New_Groove"></span><span class="mw-headline" id="Kronk&#39;s_New_Groove"><a class="extiw" href="http://en.wikipedia.org/wiki/Kronk%27s_New_Groove" title="wikipedia:Kronk&#39;s New Groove">Kronk&#39;s New Groove</a></span></h3>
 
-- Trong một cảnh Kronk đưa cho Rudy khỏa thân một trong những Thuốc Lừa đảo Tuổi trẻ của Yzma, ông bắt chước tư thế của [Gollum](../G/Gollum.md), thậm chí còn nói "[Quý giá của tôi!](../P/Precious.md)".
+- Trong một cảnh Kronk đưa cho Rudy khỏa thân một trong những Thuốc Lừa đảo Tuổi trẻ của Yzma, ông ta bắt chước tư thế của [Gollum](../G/Gollum.md), thậm chí còn nói "[Quý giá của tôi!](../P/Precious.md)".
 
 ### <a class="external text" href="https://en.wikipedia.org/wiki/The_Lego_Batman_Movie" rel="noreferrer noopener" target="_blank">Phim Lego Batman</a> {#The_Lego_Batman_Movie}
 
@@ -236,7 +236,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/The_Smurfs_(film)" title="wikipedia:The Smurfs (film)">Xì trum</a> {#The_Smurfs}
 
-- Gargamel được tìm thấy là tù nhân trong một cơ sở nhà tù ở New York. Một [con bướm](../M/Moth.md) bay vào phòng giam của ông và ông yêu cầu nó mang theo một đàn [Đại Bàng](../E/Eagles.md), gợi nhớ lại [cảnh](<The_Caverns_of_Isengard_(scene).md>) từ *The Lord of the Rings: The Fellowship of the Ring* nơi Gandalf bị mắc kẹt trên đỉnh [Orthanc](../O/Orthanc.md). Ngày hôm sau, thay vì Đại Bàng, con bướm lại mang đến một đàn ruồi mang Gargamel ra ngoài.
+- Gargamel được tìm thấy là tù nhân trong một cơ sở nhà tù ở New York. Một [con bướm](../M/Moth.md) bay vào phòng giam của ông ta và ông ta yêu cầu nó mang theo một đàn [Đại Bàng](../E/Eagles.md), gợi nhớ lại [cảnh](<The_Caverns_of_Isengard_(scene).md>) từ *The Lord of the Rings: The Fellowship of the Ring* nơi Gandalf bị mắc kẹt trên đỉnh [Orthanc](../O/Orthanc.md). Ngày hôm sau, thay vì Đại Bàng, con bướm lại mang đến một đàn ruồi mang Gargamel ra ngoài.
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Superhero_Movie" title="wikipedia:Superhero Movie">Phim siêu anh hùng</a> {#Superhero_Movie}
 
@@ -266,7 +266,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 - Trong "All About Steve", một tên khủng bố bị ám ảnh ăn mặc như Frodo.
 - Trong tập "Thoát khỏi Pearl Bailey", khi bốn tên mọt sách cố gắng trốn thoát khỏi những vận động viên thể thao và hoạt náo viên, Debbie hét lên "Bạn không được vượt qua", trước khi chặn đường của những vận động viên thể thao bằng một điệu nhảy goth.
 - "Tháng Bí ẩn Đen", một *Da Vinci Code*-sự tôn kính, kết thúc bằng việc Tổng thống Jimmy Carter rơi vào dung nham và mang theo một chiếc ba lô chứa bằng chứng. Ông nắm bắt được nó nhiều như thế nào Gollum nắm bắt được nó trong phim.
-- Trong "Return of the Bling", Roger tiết lộ rằng ông đã sử dụng steroid nâng cao hiệu suất và Thế vận hội 1980 và giành được huy chương vàng. Stan và Steve cố gắng trả lại huy chương cho IOC vì nó đã giành được một cách bất hợp pháp, nhưng Roger đã theo họ lên một chiếc máy bay và cướp nó để ngăn chặn họ. Xuyên suốt tập phim, Roger bắt đầu coi chiếc huy chương là "quý giá của ông" và cũng mang vẻ ngoài Gollum do tóc và trang phục của ông bị cháy trong vụ tai nạn máy bay. Ở cuối tập phim, Roger giật lấy huy chương từ Stan và cuối cùng rơi vào Ngọn đuốc Olympic (bao gồm ngọn lửa giả.) Sau đó, ông cắn đứt ngón tay của Stan vì đó là điều Gollum đã làm trong *Lord of the Rings* thực tế.
+- Trong "Return of the Bling", Roger tiết lộ rằng ông ta đã sử dụng steroid nâng cao hiệu suất và Thế vận hội 1980 và giành được huy chương vàng. Stan và Steve cố gắng trả lại huy chương cho IOC vì nó đã giành được một cách bất hợp pháp, nhưng Roger đã theo họ lên một chiếc máy bay và cướp nó để ngăn chặn họ. Xuyên suốt tập phim, Roger bắt đầu coi chiếc huy chương là "quý giá của ông" và cũng mang vẻ ngoài Gollum do tóc và trang phục của ông bị cháy trong vụ tai nạn máy bay. Ở cuối tập phim, Roger giật lấy huy chương từ Stan và cuối cùng rơi vào Ngọn đuốc Olympic (bao gồm ngọn lửa giả.) Sau đó, ông ta cắn đứt ngón tay của Stan vì đó là điều Gollum đã làm trong *Lord of the Rings* thực tế.
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Angel_(1999_TV_series)" title="wikipedia:Angel (1999 TV series)">Thiên thần</a> {#Angel}
 
@@ -297,7 +297,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/The_Big_Bang_Theory" title="wikipedia:The Big Bang Theory">Lý thuyết Vụ nổ lớn</a> {#The_Big_Bang_Theory}
 
 - Leonard hóa trang thành Frodo trong "Mô hình Trung Địa".
-- Trong "Khả năng thẩm thấu tài chính", Leonard cố gắng bám theo. Là một lập luận (xấu), ông nói rằng Frodo chỉ thành công vì Sam, [Pippin](../P/Peregrin_Took.md) và [Merry](../M/Meriadoc_Brandybuck.md) đi cùng ông.
+- Trong "Khả năng thẩm thấu tài chính", Leonard cố gắng bám theo. Là một lập luận (xấu), ông ta nói rằng Frodo chỉ thành công vì Sam, [Pippin](../P/Peregrin_Took.md) và [Merry](../M/Meriadoc_Brandybuck.md) đi cùng ông ta.
 - Sheldon có một bức tượng [Sideshow](../S/Sideshow_Collectibles.md) *Gollum* trên bàn làm việc của mình trong tập 3.11, "Sự đồng điệu của người mẹ".
 - Trong "Precious Fragmentation", cả nhóm tìm thấy chiếc nhẫn và tranh nhau xem ai sẽ giữ được chiếc nhẫn Một. Leonard thậm chí còn thốt ra "My Precious" \[Gollum style\]
 
@@ -311,11 +311,11 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Breaking_Bad" title="wikipedia:Breaking Bad">Tệ hại</a> {#Breaking_Bad}
 
-- Trong tập "Phoenix", Jesse và Jane đang cân nhắc việc phải rời khỏi Hoa Kỳ sau khi một vụ mua bán ma túy trở nên tồi tệ. Jesse, lúc đó đang phê thuốc, gợi ý New Zealand, vì đó là nơi họ tạo ra *[Lord of the Rings](<The_Lord_of_the_Rings_(film_series).md>)*. Sau đó, ông hoàn toàn đánh mất nó khi đề nghị Jane có thể vẽ các lâu đài địa phương và ông có thể trở thành một phi công đi bụi.
+- Trong tập "Phoenix", Jesse và Jane đang cân nhắc việc phải rời khỏi Hoa Kỳ sau khi một vụ mua bán ma túy trở nên tồi tệ. Jesse, lúc đó đang phê thuốc, gợi ý New Zealand, vì đó là nơi họ tạo ra *[Lord of the Rings](<The_Lord_of_the_Rings_(film_series).md>)*. Sau đó, ông ta hoàn toàn đánh mất nó khi đề nghị Jane có thể vẽ các lâu đài địa phương và ông ta có thể trở thành một phi công đi bụi.
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer" title="wikipedia:Buffy the Vampire Slayer">Buffy Kẻ diệt ma cà rồng</a> {#Buffy_the_Vampire_Slayer}
 
-- Trong "Gone", Warren tạo ra một tia tàng hình. Ông gần như hạ gục Jonathan bằng nó, khiến ông tức giận. Warren nói với ông bằng câu "Vui lên nào, Frodo."
+- Trong "Gone", Warren tạo ra một tia tàng hình. Ông ta gần như hạ gục Jonathan bằng nó, khiến ông ta tức giận. Warren nói với ông bằng câu "Vui lên nào, Frodo."
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Chowder_(TV_series)" title="wikipedia:Chowder (TV series)">Súp lơ</a> {#Chowder}
 
@@ -332,7 +332,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Dead_Ringers_(comedy)" title="wikipedia:Dead Ringers (comedy)">Người đổ chuông chết</a> {#Dead_Ringers}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../D/Dead_Ringers.md" title="Dead Ringers">Người đổ chuông chết</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../D/Dead_Ringers.md" title="Dead Ringers">Dead Ringers</a></b></div></div>
 
 <br>
 
@@ -364,7 +364,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Evil_Con_Carne" title="wikipedia:Evil Con Carne">Con ác quỷ</a> {#Evil_Con_Carne}
 
-- Trong "No No Nanook", Hector Con Carne và đồng bọn (trên một chiếc xe trượt tuyết do chó kéo) cố gắng trốn thoát khỏi Cảnh sát Cưỡi ngựa bằng cách đi qua một hang băng. Ở đó, Gollum dẫn Frodo đi theo con đường, coi ông là "quý giá" và "chủ nhân" trước khi tấn công ông để lấy Chiếc nhẫn. Vào thời điểm đó, chiếc xe trượt tuyết của Con Carne chạy qua và san phẳng chúng. Họ đứng dậy và quấn băng, tiếp tục con đường của mình. Chỉ bây giờ, họ đang bị các kỵ sĩ chạy qua. Gollum sử dụng "Schlemiegel" và "Halfling" thay vì "Smeagol" và "Hobbit". Billy Phương Tây cung cấp giọng nói của mình; Frodo không có dòng nào cả.
+- Trong "No No Nanook", Hector Con Carne và đồng bọn (trên một chiếc xe trượt tuyết do chó kéo) cố gắng trốn thoát khỏi Cảnh sát Cưỡi ngựa bằng cách đi qua một hang băng. Ở đó, Gollum dẫn Frodo đi theo con đường, coi ông ta là "quý giá" và "chủ nhân" trước khi tấn công ông ta để lấy Chiếc nhẫn. Vào thời điểm đó, chiếc xe trượt tuyết của Con Carne chạy qua và san phẳng chúng. Họ đứng dậy và quấn băng, tiếp tục con đường của mình. Chỉ bây giờ, họ đang bị các kỵ sĩ chạy qua. Gollum sử dụng "Schlemiegel" và "Halfling" thay vì "Smeagol" và "Hobbit". Billy Phương Tây cung cấp giọng nói của mình; Frodo không có dòng nào cả.
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Extras_(TV_series)" title="wikipedia:Extras (TV series)">Bổ sung</a> {#Extras}
 
@@ -379,7 +379,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 
 - Trong tập "Sự đối đầu giữa anh chị em", Stewie đẩy đứa trẻ xuống đất và nói "Khóc đi, khóc như Sauron khi nó mất liên lạc." Sau đó, cảnh này chuyển sang một đoạn cắt cảnh cho thấy Con Mắt của Sauron đang điên cuồng tìm kiếm liên lạc bị mất của mình.
 - Trong tập "I Take Thee Quagmire", Đầm Lầy phải lòng cô hầu gái Joan. Đây là ý tưởng đầu tiên của ông về tình yêu có thể như thế nào, họ nắm tay nhau như [Aragorn](../A/Aragorn.md) và [Arwen](../A/Arwen.md) đã làm trong bộ phim đầu tiên. Sau đó, Joan nói giả-Elvish (không thể dịch được: "*Day univen hablendeth hal univen led hansed de-un, Quagmandir*"), được dịch sang phụ đề dưới dạng diễn giải các từ của Arwen trong cảnh đó. Sau đó, Quagmire trả lời "*Denedain raydun habbledeth [Mithrandir](../G/Gandalf.md) veon hellmisano*", được dịch là cụm từ thương hiệu của ông "Giggity". Xem trên <a class="external text" href="http://www.youtube.com/watch?v=ku6QAYb6YAg" rel="noreferrer noopener" target="_blank">YouTube</a>.
-- Trong "Petergeist", Chris bị ném từ cửa sổ phòng ngủ vào nanh vuốt của một cái cây sống. Cảnh phim cuối cùng nhại lại cuộc đối đầu hoành tráng giữa Gandalf và [Tai họa của Durin](../D/Durin's_Bane.md) khi Herbert, Lão ấu dâm đáng sợ xuất hiện để cứu Chris. Sau khi thốt ra câu "Bạn sẽ không vượt qua!", Ông dùng khung tập đi của mình mở tung mặt đất và lao khỏi cái cây cho đến khi họ rơi xuống ao.
+- Trong "Petergeist", Chris bị ném từ cửa sổ phòng ngủ vào nanh vuốt của một cái cây sống. Cảnh phim cuối cùng nhại lại cuộc đối đầu hoành tráng giữa Gandalf và [Tai họa của Durin](../D/Durin's_Bane.md) khi Herbert, Lão ấu dâm đáng sợ xuất hiện để cứu Chris. Sau khi thốt ra câu "Bạn sẽ không vượt qua!", Ông ta dùng khung tập đi của mình mở tung mặt đất và lao khỏi cái cây cho đến khi họ rơi xuống ao.
 - Trong "Baby Not on Board", Chris và sếp của anh thảo luận về các bộ phim. Trong số những điều được đề cập có câu hỏi lâu đời "Tại sao Đại Bàng không bay Chiếc nhẫn tới Núi Diệt Vong?".
 - Trong cảnh mở đầu của "Road to the Multiverse", Brian hóa trang thành Frodo và Stewie trong trang phục Gollum.
 - Trong "Tiegs for Two", [ánh sáng của cảnh Beacons](The_Lighting_of_the_Beacons.md) được tái tạo với âm nhạc rất giống nhau.
@@ -453,7 +453,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Just_Shoot_Me!" title="wikipedia:Just Shoot Me!">Cứ bắn tôi đi!</a> {#Just_Shoot_Me!}
 
-- Trong "Sự cám dỗ cuối cùng của Elliot", Dennis chế giễu tôn giáo mới của Elliot. Ông tuyên bố rằng ông yêu Chúa - ông yêu tất cả các Chúa: [Người trong những chiếc nhẫn](The_Lord_of_the_Rings.md), <a class="extiw" href="http://en.wikipedia.org/wiki/Lord_of_the_Dance" title="wikipedia:Lord of the Dance">người trong Vũ điệu</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Twelve_Days_of_Christmas" title="wikipedia:Twelve Days of Christmas">người luôn nhảy vọt'...</a>
+- Trong "Sự cám dỗ cuối cùng của Elliot", Dennis chế giễu tôn giáo mới của Elliot. Ông ta tuyên bố rằng ông ta yêu Chúa - ông ta yêu tất cả các Chúa: [Người trong những chiếc nhẫn](The_Lord_of_the_Rings.md), <a class="extiw" href="http://en.wikipedia.org/wiki/Lord_of_the_Dance" title="wikipedia:Lord of the Dance">người trong Vũ điệu</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Twelve_Days_of_Christmas" title="wikipedia:Twelve Days of Christmas">người luôn nhảy vọt'...</a>
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/The_King_of_Queens" title="wikipedia:The King of Queens"> Vua của Nữ hoàng</a> {#The_King_of_Queens}
 
@@ -461,7 +461,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Legends_of_Tomorrow" title="wikipedia:Legends of Tomorrow">Huyền thoại ngày mai</a> {#Legends_of_Tomorrow}
 
-- Một phiên bản hư cấu của Tolkien xuất hiện trong "Fellowship of the Spear", nơi anh do <a class="external text" href="http://www.imdb.com/name/nm4791710/" rel="noreferrer noopener" target="_blank">Jack Turner</a>thủ vai. Ông là thiếu úy trong [Trận Somme](../B/Battle_of_the_Somme.md). Nhóm nhân vật chính tìm kiếm ông trong [1916](../_/1916.md) vì ông đã viết một chuyên luận tên là *The Burden of the Purest Heart* và họ nghĩ rằng ông có thể giúp họ tiêu diệt Ngọn giáo định mệnh. Tolkien sử dụng kiến ​​thức của mình về "Proto-[Celtic](../C/Celtic.md)" để giúp họ xác định vị trí mộ của Gawain và máu của Chúa Kitô, nhưng buộc phải chạy trốn và ông vẫn ở lại.
+- Một phiên bản hư cấu của Tolkien xuất hiện trong "Fellowship of the Spear", nơi anh do <a class="external text" href="http://www.imdb.com/name/nm4791710/" rel="noreferrer noopener" target="_blank">Jack Turner</a>thủ vai. Ông ta là thiếu úy trong [Trận chiến Somme](../B/Battle_of_the_Somme.md). Nhóm nhân vật chính tìm kiếm ông ta trong [1916](../_/1916.md) vì ông ta đã viết một chuyên luận tên là *The Burden of the Purest Heart* và họ nghĩ rằng ông ta có thể giúp họ tiêu diệt Ngọn giáo định mệnh. Tolkien sử dụng kiến ​​thức của mình về "Proto-[Celtic](../C/Celtic.md)" để giúp họ xác định vị trí mộ của Gawain và máu của Chúa Kitô, nhưng buộc phải chạy trốn và ông ta vẫn ở lại.
 - Turner với tư cách Tolkien xuất hiện trở lại trong tập "Aruba", khi Huyền thoại du hành trở lại các sự kiện của tập trước để ngăn chặn các sự kiện tiếp theo, khiến Tolkien ngạc nhiên khi nhìn thấy các đối tác hiện tại và tương lai của Huyền thoại cùng nhau.
 - Trong tập "Khách mời có sự tham gia của John Noble", các nhân vật đang xem *The Lord of the Rings: The Return of the King* thì nhận thấy giọng của [Denethor](../D/Denethor.md) giống với giọng của nhân vật phản diện Mallus (lồng tiếng bởi [John Noble](../J/John_Noble.md)); họ quay trở lại New Zealand của [1999](../_/1999.md), trong quá trình quay [bộ ba *Lord of the Rings*](<The_Lord_of_the_Rings_(film_series).md>), nơi họ gặp Noble (do chính ông thủ vai) và cung cấp cho ông những kịch bản giả (khiến ông phàn nàn "Anh không thể làm vậy, anh bạn! Đó là Tolkien, đó là Chúa tể của những chiếc nhẫn!")
 
@@ -483,7 +483,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Married_with_Children" title="wikipedia:Married with Children">Đã kết hôn và có con</a> {#Married_with_Children}
 
-- Trong "God Help Ye Merry Bundymen", Al và Griff bị sa thải vào ngày Giáng sinh. Al sau đó trở thành "Elfineer" - người lái chiếc xe lửa đồ chơi dành cho trẻ em. Khi nhìn thấy ông trong bộ trang phục lố bịch, Griff nhận xét rằng ông là một Hobbit xấu xí.
+- Trong "God Help Ye Merry Bundymen", Al và Griff bị sa thải vào ngày Giáng sinh. Al sau đó trở thành "Elfineer" - người lái chiếc xe lửa đồ chơi dành cho trẻ em. Khi nhìn thấy ông ta trong bộ trang phục lố bịch, Griff nhận xét rằng ông ta là một Hobbit xấu xí.
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Midsomer_Murders" title="wikipedia:Midsomer Murders">Giết người ở vùng trung tính</a> {#Midsomer_Murders}
 
@@ -495,7 +495,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/My_Hero_(British_TV_series)" title="wikipedia:My Hero (British TV series)">Người hùng của tôi</a> {#My_Hero}
 
-- Người hàng xóm điên khùng Tyler thường khẳng định ông có những nhân vật giả tưởng, như Gandalf và Frodo, trong căn hộ của mình.
+- Người hàng xóm điên khùng Tyler thường khẳng định ông ta có những nhân vật giả tưởng, như Gandalf và Frodo, trong căn hộ của mình.
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_is_Magic" title="wikipedia:My Little Pony: Friendship is Magic">My Little Pony: Tình bạn thật kỳ diệu</a> {#My_Little_Pony:_Friendship_is_Magic}
 
@@ -520,7 +520,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/The_Office_(U.S._TV_series)" title="wikipedia:The Office (U.S. TV series)">The Office (loạt phim Mỹ)</a> {#The_Office_(US_series)}
 
 - Trong "The Alliance", mật khẩu của Dwight Schrute được tiết lộ là "Frodo" và "Gollum".
-- Trong "Đạo đức kinh doanh", Jim đã đặt cược với Dwight, trong đó Dwight không được nghỉ giải lao cá nhân hoặc trò chuyện về bất cứ điều gì khác ngoài công việc. Để chế nhạo ông, Jim và Andy bắt đầu "thảo luận" <i><a class="extiw" href="http://en.wikipedia.org/wiki/Battlestar_Galactica" title="wikipedia:Battlestar Galactica">Battlestar Galactica</a></i>, cố tình nói mọi điều sai. Tóm tắt cốt truyện, Jim nói: "Đó là về anh chàng này, cụ Dumbledore Calrissian, người sẽ đưa Chiếc nhẫn trở lại Mordor."
+- Trong "Đạo đức kinh doanh", Jim đã đặt cược với Dwight, trong đó Dwight không được nghỉ giải lao cá nhân hoặc trò chuyện về bất cứ điều gì khác ngoài công việc. Để chế nhạo ông ta, Jim và Andy bắt đầu "thảo luận" <i><a class="extiw" href="http://en.wikipedia.org/wiki/Battlestar_Galactica" title="wikipedia:Battlestar Galactica">Battlestar Galactica</a></i>, cố tình nói mọi điều sai. Tóm tắt cốt truyện, Jim nói: "Đó là về anh chàng này, cụ Dumbledore Calrissian, người sẽ đưa Chiếc nhẫn trở lại Mordor."
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/One_Tree_Hill_(TV_series)" title="wikipedia:One Tree Hill (TV series)">Đồi Một Cây</a> {#One_Tree_Hill}
 
@@ -560,7 +560,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Scooby-Doo!_Mystery_Incorporated" title="wikipedia:Scooby-Doo! Mystery Incorporated">Scooby-Doo! Tích hợp bí ẩn</a> {#Scooby-Doo!_Mystery_Incorporated}
 
-- Trong "Wrath of the Krampus", Cảnh sát trưởng Stone tự so sánh mình với một "phù thủy bốc mùi từ Trung tâm Trái đất" sau khi ông bị nhân vật phản diện trong tập phim làm cho già đi một cách thần bí.
+- Trong "Wrath of the Krampus", Cảnh sát trưởng Stone tự so sánh mình với một "phù thủy bốc mùi từ Trung tâm Trái đất" sau khi ông ta bị nhân vật phản diện trong tập phim làm cho già đi một cách thần bí.
 - Trong "Aliens Among Us", đoạn hồi tưởng cho thấy tên trộm người Ireland O'Flaherty đột nhập vào [hố hobbit](../S/Smials.md).
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Scrubs_(TV_series)" title="wikipedia:Scrubs (TV series)">Tẩy tế bào chết</a> {#Scrubs}
@@ -575,7 +575,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/The_Simpsons" title="wikipedia:The Simpsons">Gia đình Simpson</a> {#The_Simpsons}
 
 - Trong tập "Dude, Where's My Ranch", một tác phẩm nhại Gollum có tên "Cleanie" xuất hiện. Ông được lồng tiếng bởi Andy Serkis.
-- Tập "<a class="extiw" href="http://en.wikipedia.org/wiki/Rome-Old_and_Juli-Eh" title="wikipedia:Rome-Old and Juli-Eh">Rome-Old và Julie-Eh</a>" giả mạo [Trận chiến tại cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), [Trận Hornburg](../B/Battle_of_the_Hornburg.md) và cũng có đoạn hội thoại từ cuộc chạm trán của [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) với sứ giả của [Sauron](../S/Sauron.md).
+- Tập "<a class="extiw" href="http://en.wikipedia.org/wiki/Rome-Old_and_Juli-Eh" title="wikipedia:Rome-Old and Juli-Eh">Rome-Old và Julie-Eh</a>" giả mạo [Trận chiến cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), [Trận Hornburg](../B/Battle_of_the_Hornburg.md) và cũng có đoạn hội thoại từ cuộc chạm trán của [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) với sứ giả của [Sauron](../S/Sauron.md).
 - Cửa hàng truyện tranh The Comic Book Guy có sự cạnh tranh từ các cửa hàng có tên *Mylar Baggins* ở North Haverbrook và *Frodo's* ở Shelbyville.
 - Trong *The Simpsons Game* (một trò chơi điện tử phụ của bộ truyện), Homer thốt lên "Quý giá của tôi!" khi nhận được một thẻ khóa rất mong muốn. Trò chơi cũng có các tác phẩm nhại *Mobbits*, Hobbit.
 - Trong tập "That '90s Show", Anh chàng truyện tranh nói với mọi người *The Lord of the Rings* không thể dựng thành phim. Tập phim lấy bối cảnh những năm 1990 nhưng được tạo ra vào năm 2008.
@@ -595,43 +595,43 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 - Trong "Make Love, Not Warcraft", có thể thấy một bức tượng nhỏ của [Tai họa của Durin](../D/Durin's_Bane.md).
 - Tập 6.14, "Trại tử thần khoan dung" có một số tài liệu tham khảo, cả về phim của Peter Jackson và [*The Hobbit* (phim năm 1977)](<The_Hobbit_(1977_film).md>).
 
-<dl><dd><dl><dd><dl><dd>Để bị sa thải vì là người đồng tính (và kiện trường học đòi hàng triệu USD), ông Garrisson nhét con chuột nhảy Lemmiwinks vào mông trợ lý của mình. Hành trình của chú chuột nhảy bên trong người trợ lý đi kèm với một biến thể của "<a href="The_Greatest_Adventure.md" title="The Greatest Adventure">Cuộc phiêu lưu vĩ đại nhất</a>":</dd></dl></dd></dl></dd></dl>
+<dl><dd><dl><dd><dl><dd>In order to get fired for being gay (and sue the school for millions), Mr. Garrisson stuffs Lemmiwinks the gerbil up his assistant&#39;s ass. The gerbil&#39;s voyage inside the assistant is accompanied by a variation of &#34;<a href="The_Greatest_Adventure.md" title="The Greatest Adventure">The Greatest Adventure</a>&#34;:</dd></dl></dd></dl></dd></dl>
 
 <div style="font-style:italic; margin-left:50px;" class="poem">
-<p>Một cuộc phiêu lưu tuyệt vời<br/>
-Đang chờ đợi bạn ở phía trước<br/>
-Nhanh lên nào Lemmiwinks<br/>
-Hoặc bạn sẽ chết sớm<br/>
-Hành trình phía trước <br/>
-Có thể kéo dài và đầy đau khổ<br/>
-Nhưng bạn phải thoát khỏi cái mông của gã đồng tính<br/>
-Vì vậy, câu chuyện của bạn có thể được kể.
+<p>A great adventure<br/>
+Is waiting for you ahead<br/>
+Hurry onward Lemmiwinks<br/>
+Or you will soon be dead<br/>
+The journey before you <br/>
+May be long and filled with woe<br/>
+But you must escape the gay man&#39;s ass<br/>
+So your tale can be told.
 </p>
 </div>
 
-<dl><dd><dl><dd><dl><dd>Bài hát tiếp tục vang lên bất cứ lúc nào cuộc hành trình của Lemmiwinks được kể lại. Khi trợ lý uống một viên pepto, viên thuốc sẽ rơi xuống cổ họng và chui vào dạ dày giống như Gandalf và <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">điều Balrog</a> đã làm ở <i>The Two Towers</i>. Trong dạ dày, Lemmiwinks gặp cá karatafish, kẻ sẽ chỉ cho ông đi qua thực quản nếu ông giải được một câu đố. Câu đố là gì không bao giờ được hiển thị.</dd></dl></dd></dl></dd></dl>
+<dl><dd><dl><dd><dl><dd>The song goes on any time Lemmiwinks&#39; journey is told. When the assistant takes a pepto pill, it falls down his throat and plunges into the stomach like Gandalf and <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">the Balrog</a> did in <i>The Two Towers</i>. In the stomach, Lemmiwinks meets the katatafish, who will only let him pass the oesophagus if he solves a riddle. What the riddle is is never shown.</dd></dl></dd></dl></dd></dl>
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Spaceballs:_The_Animated_Series" title="wikipedia:Spaceballs: The Animated Series">Spaceballs: Loạt phim hoạt hình</a> {#Spaceballs:_The_Animated_Series}
 
 - Tập phim "Chúa tể những chiếc nhẫn hành tây" giả mạo *The Lord of the Rings*.
 
-<dl><dd><ul><li>Chiếc vòng hành tây tiêu chuẩn được nướng trong một chiếc nồi chiên ngập dầu khổng lồ, được mô phỏng theo Barad-dûr. Nó ở vùng đất tên là Lardor.</li>
-<li>Barf (ăn mặc như người Hobbit) đợi gần đó, tựa lưng vào một cái cây với một cọng cỏ trong miệng. Khi anh hùng Lone Starr đến, ông chào đón ông bằng câu "Bạn đến muộn".</li>
-<li>Để đánh hơi được Chiếc nhẫn Hành tây (sức mạnh đặc biệt của nó là mùi hương của nó có thể đánh bại quân đội), những kẻ phản diện là Tổng thống Skroob và <a href="../D/Dee_Bradley_Baker.md" title="Dee Bradley Baker">Mũ bảo hiểm bóng tối</a> sử dụng một bản sao của Barad-Dûr có chiếc mũi màu hồng thay vì <a href="../E/Eye_of_Sauron.md" title="Eye of Sauron">mắt đỏ</a>.</li>
-<li>Sau khi đặt Chiếc nhẫn vào lò vi sóng, Lone Starr bảo Barf chạm vào nó - nhưng nó vẫn còn nóng.</li>
-<li>Mặc dù được đặt bên trong chứ không phải trên sân, "Hội đồng sữa chua" rõ ràng được mô phỏng theo <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Hội đồng Elrond</a>. Barf, "hobbit", tình nguyện, nhưng chỉ vì những người còn lại bỏ đi. Những người còn lại quyết định đi theo và Yogurt gọi họ là "The Fellowship of the Onion Ring".</li>
-<li>Sữa chua, một tác phẩm nhại lại Yoda, mang đến cho mọi người những "mật danh không thể giải mã được". Barf trở thành "Barf <a class="mw-redirect" href="../B/Baggins_Family~66343.md" title="Baggins Family">Baggins</a>". Lone Starr trở thành "Lone Starragorn" và công chúa Vespa "Vesperwen". Sữa chua không đặt cho mình một cái tên mà vẫn đội một chiếc mũ nhọn.</li>
-<li>Skroob sau đó gọi Lone Starragorn là "Người thừa kế của Lone <a href="../A/Arathorn_II.md" title="Arathorn II">Starrathorn</a>"</li>
-<li>Sữa chua và "Dark <a href="../S/Saruman.md" title="Saruman">Heluman</a>" thảo luận về sự thất sủng của người sau.</li>
-<li>Dot Matrix, một robot, đóng vai trò là "<a href="../G/Galadriel.md" title="Galadriel">Ma trận Galadriot</a>". <a href="../M/Mirror_of_Galadriel.md" title="Mirror of Galadriel">Tấm gương</a> của bà đầy dầu.</li>
-<li>Trên ngọn đồi ngập ánh trăng, Starr nói chuyện với Vespa bằng một thứ tiếng vô nghĩa khó hiểu, tương tự như Elvish. Chỉ có điều đó không phải là một ngôn ngữ khác, ông đang nói với cái mồm đầy ắp.</li>
-<li>Cả đội phải vượt qua đầm lầy mỡ nóng nguy hiểm.</li>
-<li>Mũ bảo hiểm đen kết hợp các thuật ngữ "Quân đội bóng tối" và "Quân độiOrc" và tạo ra Quân đội Dork. Họ sinh ra như <a class="mw-redirect" href="../U/Uruk-Hai~9489.md" title="Uruk-Hai">Uruk-Hai</a> ở <i>The Fellowship of the Ring</i>.</li>
-<li>Khi chia tay, Yogurt hét vào mặt Barf rằng hãy giữ bí mật và an toàn cho chiếc nhẫn Onion.</li>
-<li>Barf nhân đôi Gollum, thèm muốn <a href="../P/Precious.md" title="Precious">"ngon"</a> của mình. Cuối cùng, ông tự cắn đứt ngón tay của mình.</li>
-<li>Yogurt bay tới Lardor trên một con chim mới được giới thiệu để đón Barf.</li>
-<li><a href="The_Fellowship_Reunited.md" title="The Fellowship Reunited">Cảnh giường chiếu</a> được giới thiệu.</li>
-<li>Lone Starragorn được trao vương miện với bản sao Vương miện của Gondor.</li></ul></dd></dl>
+<dl><dd><ul><li>The titular onion ring was baked in a giant deep fryer, modelled after Barad-dûr. It&#39;s in a land called Lardor.</li>
+<li>Barf (dressed as a hobbit) waits nearby, resting against a tree with a strain of grass in his mouth. When hero Lone Starr arrives, he welcomes him with &#34;You&#39;re late&#34;.</li>
+<li>In order to sniff out the Onion Ring (its special power is that its scent can knock out armies), villains President Skroob and <a href="../D/Dee_Bradley_Baker.md" title="Dee Bradley Baker">Dark Helmet</a> use a replica of Barad-Dûr that has a pink nose rather than a <a href="../E/Eye_of_Sauron.md" title="Eye of Sauron">red eye</a>.</li>
+<li>After putting the Ring in the microwave, Lone Starr tells Barf to touch it - but it&#39;s still hot.</li>
+<li>Though set inside rather than on a patio, the &#34;Council of Yogurt&#34; is clearly modelled after the <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Council of Elrond</a>. Barf, the &#34;hobbit&#34;, volunteers, but only because the rest chickens out. The rest decide to tag along, and Yogurt calls them &#34;The Fellowship of the Onion Ring&#34;.</li>
+<li>Yogurt, a Yoda parody, gives everyone &#34;indecipherable code names&#34;. Barf becomes &#34;Barf <a class="mw-redirect" href="../B/Baggins_Family~66343.md" title="Baggins Family">Baggins</a>&#34;. Lone Starr becomes &#34;Lone Starragorn&#34;, and princess Vespa &#34;Vesperwen&#34;. Yogurt does not give himself a name, but puts on a pointy hat anyway.</li>
+<li>Skroob then refers to Lone Starragorn as &#34;Lone <a href="../A/Arathorn_II.md" title="Arathorn II">Starrathorn</a>&#39;s heir&#34;</li>
+<li>Yogurt and &#34;Dark <a href="../S/Saruman.md" title="Saruman">Heluman</a>&#34; discuss the latter&#39;s fall from grace.</li>
+<li>Dot Matrix, a robot, serves as &#34;<a href="../G/Galadriel.md" title="Galadriel">Galadriot Matrix</a>&#34;. Her <a href="../M/Mirror_of_Galadriel.md" title="Mirror of Galadriel">mirror</a> is filled with oil.</li>
+<li>On a moonlit hill, Starr speaks to Vespa in an unintelligible gibberish, similar to Elvish. Only it wasn&#39;t another language, he was speaking with his mouth full.</li>
+<li>The team has to cross the treacherous Hot Lard Swamps.</li>
+<li>Dark Helmet mixes up the terms &#34;Dark Army&#34; and &#34;Orc Army&#34;, and created a Dork Army. They birth like the <a class="mw-redirect" href="../U/Uruk-Hai~9489.md" title="Uruk-Hai">Uruk-Hai</a> in <i>The Fellowship of the Ring</i>.</li>
+<li>Upon splitting up, Yogurt yells at Barf to keep the Onion ring secret and safe.</li>
+<li>Barf doubles as Gollum, coveting his <a href="../P/Precious.md" title="Precious">&#34;delicious&#34;</a>. In the end, he bites off his own finger.</li>
+<li>Yogurt flies into Lardor on a newly introduced bird to pick up Barf.</li>
+<li>The <a href="The_Fellowship_Reunited.md" title="The Fellowship Reunited">bed scene</a> is featured.</li>
+<li>Lone Starragorn is crowned with a replica of the Crown of Gondor.</li></ul></dd></dl>
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/SpongeBob_SquarePants" title="wikipedia:SpongeBob SquarePants">Quần vuông SpongeBob</a> {#SpongeBob_SquarePants}
 
@@ -682,7 +682,7 @@ Vì vậy, câu chuyện của bạn có thể được kể.
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Total_Drama" title="wikipedia:Total Drama">Tổng kịch tính</a> {#Total_Drama}
 
-- Trong mùa thứ ba của chương trình, mang tên "Total Drama World Tour", một trong những thí sinh của chương trình, Ezekiel, đã quyết tâm giành được giải thưởng 1 triệu USD dù đã bị loại từ rất sớm. Ông dành cả mùa giải được cất giữ trong hầm hàng của một chiếc máy bay, khiến ông sa sút cả về thể chất và tinh thần cho đến khi ông có ngoại hình và cách cư xử giống Gollum(ví dụ: da đổi màu, rụng tóc, tư thế xấu và không thể nói đúng cách). Trong phần cuối của mùa giải, Ezekiel cuối cùng rơi vào miệng một ngọn núi lửa đang hoạt động, nắm giữ giải thưởng trị giá 1 triệu đô la sau khi giật nó từ người chiến thắng hoặc người dẫn chương trình, tùy thuộc vào phần kết. Tuy nhiên, trong cả hai kịch bản, ông đều sống sót không giống như Gollum thật.
+- Trong mùa thứ ba của chương trình, mang tên "Total Drama World Tour", một trong những thí sinh của chương trình, Ezekiel, đã quyết tâm giành được giải thưởng 1 triệu USD dù đã bị loại từ rất sớm. Ông ta dành cả mùa giải được cất giữ trong hầm hàng của một chiếc máy bay, khiến ông ta sa sút cả về thể chất và tinh thần cho đến khi ông ta có ngoại hình và cách cư xử giống Gollum(ví dụ: da đổi màu, rụng tóc, tư thế xấu và không thể nói đúng cách). Trong phần cuối của mùa giải, Ezekiel cuối cùng rơi vào miệng một ngọn núi lửa đang hoạt động, nắm giữ giải thưởng trị giá 1 triệu đô la sau khi giật nó từ người chiến thắng hoặc người dẫn chương trình, tùy thuộc vào phần kết. Tuy nhiên, trong cả hai kịch bản, ông ta đều sống sót không giống như Gollum thật.
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Ugly_Betty" title="wikipedia:Ugly Betty">Betty xấu xí</a> {#Ugly_Betty}
 
@@ -714,11 +714,11 @@ Vì vậy, câu chuyện của bạn có thể được kể.
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Will_%26_Grace" title="wikipedia:Will &amp; Grace">Ý chí & ân sủng</a> {#Will_&_Grace}
 
-- Trong "Ice Cream Balls", một trong những khách hàng của Will là một *The Lord of the Rings* fan cuồng nhiệt. Will trả lời rằng ông thích bất kỳ bộ phim nào trong đó "hai cậu bé tên Merry và Pippin liều mạng vì một món đồ trang sức tốt". Khách hàng đưa ra nhiều tài liệu tham khảo khác về các bộ phim - ông muốn nghỉ hưu và đếm số tiền quý giá của mình và ông muốn Jack trở thành "Chúa tể chiếc nhẫn của ông".
+- Trong "Ice Cream Balls", một trong những khách hàng của Will là một *The Lord of the Rings* fan cuồng nhiệt. Will trả lời rằng ông thích bất kỳ bộ phim nào trong đó "hai cậu bé tên Merry và Pippin liều mạng vì một món đồ trang sức tốt". Khách hàng đưa ra nhiều tài liệu tham khảo khác về các bộ phim - ông ta muốn nghỉ hưu và đếm số tiền quý giá của mình và ông ta muốn Jack trở thành "Chúa tể chiếc nhẫn của ông ta".
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/W.I.T.C.H._(TV_series)" title="wikipedia:W.I.T.C.H. (TV series)">W.I.T.C.H.</a> {#W.I.T.C.H.}
 
-- Trong "G is for Garbage", nhân vật [Blunk](../S/Steven_Jay_Blum.md) thực hiện một hành động "quý giá" giống như Gollum khi ai đó cố gắng đánh cắp một mảnh rác quý giá từ ông.
+- Trong "G is for Garbage", nhân vật [Blunk](../S/Steven_Jay_Blum.md) thực hiện một hành động "quý giá" giống như Gollum khi ai đó cố gắng đánh cắp một mảnh rác quý giá từ ông ta.
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Wonderfalls" title="wikipedia:Wonderfalls">Thác kỳ quan</a> {#Wonderfalls}
 
@@ -730,11 +730,11 @@ Vì vậy, câu chuyện của bạn có thể được kể.
 
 ## Trò chơi điện tử {#Video_games}
 
-<h3><span id="Assassin.27s_Creed_series"></span><span class="mw-headline" id="Assassin&#39;s_Creed_series"><a class="extiw" href="http://en.wikipedia.org/wiki/Assassin%27s_Creed" title="wikipedia:Assassin&#39;s Creed">Loạt phim Assassin's Creed</a></span></h3>
+<h3><span id="Assassin.27s_Creed_series"></span><span class="mw-headline" id="Assassin&#39;s_Creed_series"><a class="extiw" href="http://en.wikipedia.org/wiki/Assassin%27s_Creed" title="wikipedia:Assassin&#39;s Creed">Assassin&#39;s Creed series</a></span></h3>
 
 #### <a class="extiw" href="http://en.wikipedia.org/wiki/Assassin%27s_Creed_Origins" title="wikipedia:Assassin&#39;s Creed Origins">Nguồn gốc</a> {#Origins}
 
-- Trong nhiệm vụ "Trái phiếu quý giá", người chơi giúp một nhóm người nhặt rác lấy lại chiếc nhẫn có giá trị mà họ bị ám ảnh. Nỗi ám ảnh của họ với những chiếc nhẫn phản chiếu Gollum và Nhẫn Chúa. Một tài liệu tham khảo thêm là từ tiêu đề nhiệm vụ, *precious*, một từ Gollum thường dùng để chỉ Chiếc nhẫn.
+- Trong nhiệm vụ "Trái phiếu quý giá", người chơi giúp một nhóm người nhặt rác lấy lại chiếc nhẫn có giá trị mà họ bị ám ảnh. Nỗi ám ảnh của họ với những chiếc nhẫn phản chiếu Gollum và Chiếc nhẫn Chúa. Một tài liệu tham khảo thêm là từ tiêu đề nhiệm vụ, *precious*, một từ Gollum thường dùng để chỉ Chiếc nhẫn.
 
 #### <a class="extiw" href="http://en.wikipedia.org/wiki/Assassin%27s_Creed_Odyssey" title="wikipedia:Assassin&#39;s Creed Odyssey">Odyssey</a> {#Odyssey}
 
@@ -744,7 +744,7 @@ Vì vậy, câu chuyện của bạn có thể được kể.
 
 - Tại thị trấn Gloweestre, bên trong một trong những ngôi nhà có một tờ giấy nhắn và bên cạnh là một phong bì có một chiếc nhẫn bên trên. Ghi chú tham chiếu Bilbo và Gandalf.
     - "Một trong những người bạn nhỏ đã yêu cầu tôi làm cho cánh cửa nhỏ hơn vì ông muốn giữ những vị khách ngỗ ngược vào nhà mình. Sau chuyện vớ vẩn với druid vào mùa thu năm ngoái. Tôi có thể hiểu được quan điểm của ông."
-- Trong sự kiện thế giới "Món quà của Hyrrokin", người chơi gặp một người lùn tên là "Frodri" và bạn giúp ông phá hủy chiếc nhẫn bị nguyền rủa. Để phá hủy chiếc nhẫn, người chơi và Frodri phải leo lên một ngọn núi và ném chiếc nhẫn vào dung nham. Nhiệm vụ này liên quan đến nhiệm vụ phá hủy Chiếc nhẫn của Frodo trong *The Lord of the Rings*.
+- Trong sự kiện thế giới "Món quà của Hyrrokin", người chơi gặp một người lùn tên là "Frodri" và bạn giúp ông ta phá hủy chiếc nhẫn bị nguyền rủa. Để phá hủy chiếc nhẫn, người chơi và Frodri phải leo lên một ngọn núi và ném chiếc nhẫn vào dung nham. Nhiệm vụ này liên quan đến nhiệm vụ phá hủy Chiếc nhẫn của Frodo trong *The Lord of the Rings*.
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/DC_Universe_Online" title="wikipedia:DC Universe Online">Vũ trụ DC trực tuyến</a> {#DC_Universe_Online}
 
@@ -791,12 +791,12 @@ Vì vậy, câu chuyện của bạn có thể được kể.
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Simon_the_Sorcerer" title="wikipedia:Simon the Sorcerer">Simon phù thủy</a> {#Simon_the_Sorcerer}
 
-- Có thể tìm thấy một sinh vật tên là Gollum đang câu cá. Ông sẽ giúp người chơi có được [chiếc nhẫn tàng hình](../O/One_Ring.md).
+- Có thể tìm thấy một sinh vật tên là Gollum đang câu cá. Ông ta sẽ giúp người chơi có được [chiếc nhẫn tàng hình](../O/One_Ring.md).
 - Nói chuyện với Gollum cũng sẽ đề cập đến những câu chuyện như "*[The Short Creature with Furry Feet](The_Hobbit.md)*" và "*[The Master of the Finger Ornaments](The_Lord_of_the_Rings.md)*".
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Under_a_Killing_Moon" title="wikipedia:Under a Killing Moon">Dưới sự giết chóc Mặt Trăng</a> (tiểu thuyết) {#Under_a_Killing_Moon_(novelization)}
 
-- Khi Tex Murphy nếm một điếu thuốc mà ông không thích, ông mô tả nó là "Loại sáng tạo [Sauron](../S/Sauron.md) và tay sai của ông đã làm việc suốt đêm để tạo ra cái ruột hôi thối của ".
+- Khi Tex Murphy nếm một điếu thuốc mà ông ta không thích, ông ta mô tả nó là "Loại sáng tạo [Sauron](../S/Sauron.md) và tay sai của ông ta đã làm việc suốt đêm để tạo ra cái ruột hôi thối của ".
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne" title="wikipedia:Warcraft III: The Frozen Throne">Warcraft III: Ngai vàng băng giá</a> {#Warcraft_III:_The_Frozen_Throne}
 
@@ -807,7 +807,7 @@ Vì vậy, câu chuyện của bạn có thể được kể.
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/World_of_Warcraft" title="wikipedia:World of Warcraft">Thế giới Warcraft</a> {#World_of_Warcraft}
 
 - Có một vật phẩm tên là "Chiếc nhẫn 1" chỉ có thể nhận được khi Câu cá. Đây là ám chỉ đến việc Chiếc nhẫn được tìm thấy bởi [Déagol](../D/Déagol.md) và [Sméagol](../S/Sméagol.md) khi đang đi câu cá.
-- Có một mob tên là "Gorum" có thể được tìm thấy trong Hang Bloodthorn, Thung lũng Shadowmoon. Ông đánh rơi vật phẩm "Vòng gai máu quý giá" khiến người chơi trở nên vô hình khi sử dụng.
+- Có một mob tên là "Gorum" có thể được tìm thấy trong Hang Bloodthorn, Thung lũng Shadowmoon. Ông ta đánh rơi vật phẩm "Vòng gai máu quý giá" khiến người chơi trở nên vô hình khi sử dụng.
 - Một trong những trò đùa biểu cảm bằng giọng nói dành cho nhân vật nam Human là về ý tưởng làm một bộ phim hay. Cốt truyện rất giống với *The Lord of the Rings*.
     - "Vì vậy, tôi có ý tưởng làm một bộ phim hay. Phim kể về hai chú lùn tìm thấy một chiếc vòng tay quyền lực và họ phải mang nó đến Burning Steppes và ném nó vào Cauldron. Họ thành lập Brotherhood of the Bracelet. Trên đường đi, họ bị theo dõi bởi một Murloc tên Gottom, người bị ám ảnh bởi chiếc vòng tay và chín bogeymen đeo vòng tay. Đó có thể là một bộ ba phần, được gọi là 'Kẻ thống trị của Vòng tay'. Phần đầu tiên sẽ là được gọi là 'The Brotherhood of the Bracelet', tiếp theo là 'A Couple of Towers', với cái kết cao trào mang tên 'Này, Vua's Back!'"
 - Ở Draenor có một đống lửa trại với ba yêu tinh tên là "Toom", "Bort" và "Wullim". Họ đang canh giữ một chiếc rương chứa 12 "Người Lùn Nhẫn Râu" và "Áo chống trộm".

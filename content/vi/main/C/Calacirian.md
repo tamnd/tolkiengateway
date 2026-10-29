@@ -25,13 +25,13 @@ images:
 
 Tên xuất hiện trong [Bilbo](../B/Bilbo_Baggins.md) *[Eärendillinwë](../E/Eärendillinwë.md)* trong [Rivendell](../R/Rivendell.md):<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-RGEO_2-0" class="reference"><a href="#cite_note-RGEO-2">[2]</a></sup>
 
-<dl><dd><i>và bảy ánh sáng phía trước ông gửi đi,<br/>như thể ông đã đi qua vùng đất Calacirian<br/>đến vùng đất ẩn giấu tuyệt vọng.</i></dd></dl>
+<dl><dd><i>and seven lights before him sent,<br/>as through the Calacirian<br/>to hidden land forlorn he went.</i></dd></dl>
 
 ## Từ nguyên {#Etymology}
 
 Tên [Quenya](../Q/Quenya.md) *Calacirian* là dạng đơn giản ("tiếng Anh hóa") của *Kalakiryan* (đầy đủ *Kalakiryandë*, bắt nguồn từ *Kalakirya*).<sup id="cite_ref-RGEO_2-1" class="reference"><a href="#cite_note-RGEO-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="../_/-nd.md" title="-nd">-nd</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../_/-nd.md" title="-nd">-nd</a></div></div>
 
 <span></span>
 

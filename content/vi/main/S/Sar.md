@@ -45,4 +45,4 @@ Từ [PQ](../P/PQ.md) \**sarno*, [root](../R/Root.md) <a class="new" href="https
 <small></small>
 
 <ul><small><li><i><a href="../T/The_Languages_of_Tolkien&#39;s_Middle-earth.md" title="The Languages of Tolkien&#39;s Middle-earth">The Languages of Tolkien&#39;s Middle-earth</a></i> by <a href="../R/Ruth_S._Noel.md" title="Ruth S. Noel">Ruth S. Noel</a></li>
-</small><li><small><a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ Corpus</a> được chỉnh sửa bởi <a href="../H/Helge_Fauskanger.md" title="Helge Fauskanger">Helge Fauskanger</a></small></li></ul>
+</small><li><small><a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Corpus Wordlist</a> edited by <a href="../H/Helge_Fauskanger.md" title="Helge Fauskanger">Helge Fauskanger</a></small></li></ul>

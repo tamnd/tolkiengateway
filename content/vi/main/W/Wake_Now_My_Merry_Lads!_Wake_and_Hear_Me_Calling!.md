@@ -18,10 +18,10 @@ categories:
 ## Bài thơ {#The_poem}
 
 <div class="poem">
-<p><i>Hãy thức tỉnh đi các chàng trai vui vẻ của tôi! Hãy thức dậy và nghe tôi gọi!</i><br/>
-<i>Ấm áp bây giờ là trái tim và chân tay! Đá lạnh rơi;</i><br/>
-<i>Cánh cửa tối tăm đứng rộng; bàn tay chết bị gãy rồi.</i><br/>
-<i>Đêm đêm buông xuống, Cổng mở!</i>
+<p><i>Wake now my merry lads! Wake and hear me calling!</i><br/>
+<i>Warm now be heart and limb! The cold stone is fallen;</i><br/>
+<i>Dark door is standing wide; dead hand is broken.</i><br/>
+<i>Night under Night is flown, and the Gate is open!</i>
 </p>
 </div>
 

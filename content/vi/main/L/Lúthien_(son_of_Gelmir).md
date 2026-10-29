@@ -22,7 +22,7 @@ images:
   - "Quentandil_-_Gnome_Banners.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Lúthien</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Lúthien_(disambiguation).md" title="Lúthien (disambiguation)">Lúthien (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Lúthien</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Lúthien_(disambiguation).md" title="Lúthien (disambiguation)">Lúthien (disambiguation)</a></b>.</div></div>
 
 **Lúthien** con trai của [Gelmir](../F/Finwë.md#Other_version_of_the_legendarium) là một [Gnome](../G/Gnome.md), theo phiên bản đầu tiên của [huyền thoại](Legendarium.md) trong một đoạn văn xuôi sau *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Prose_1-0" class="reference"><a href="#cite_note-Prose-1">[1]</a></sup>
 
@@ -32,7 +32,7 @@ images:
 
 Sau khi [Gnomes](../G/Gnomes.md) quay trở lại [Great Lands](../G/Great_Lands.md) để gây chiến với [Melko](../M/Melko.md), Lúthien đã lãnh đạo một trong ba đội quân vĩ đại của cha mình Gelmir. (Biểu ngữ) tiêu chuẩn của ông là "một con én vàng bay qua cánh đồng xanh như bầu trời đầy những ngôi sao bạc", và quân đội của ông ưa thích cung hơn các loại vũ khí khác.<sup id="cite_ref-Prose_1-1" class="reference"><a href="#cite_note-Prose-1">[1]</a></sup>
 
-Ngoài điểm này trong câu chuyện, không có thông tin gì khác về ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ngoài điểm này trong câu chuyện, không có thông tin gì khác về ông ta.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

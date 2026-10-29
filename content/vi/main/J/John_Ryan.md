@@ -22,7 +22,7 @@ sort_keys:
 
 **John Sprott Ryan** ([1929](../_/1929.md) – [3 tháng 7](../_/3_July.md) [2022](../_/2022.md))<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là Giáo sư New Zealand về Văn hóa dân gian và Di sản tại Đại học New England, Hoa Kỳ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ông gia nhập trường đại học này lần đầu tiên vào năm 1969 với tư cách là Phó giáo sư.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ông đã theo học [J.R.R. Tolkien](J.R.R._Tolkien.md) chương trình Thạc sĩ của mình tại trường [Đại học Oxford](../U/University_of_Oxford.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Năm 1992, ông được [Hội Tolkien Mỹ](../A/American_Tolkien_Society.md) trao tặng bằng Tiến sĩ danh dự.
+Năm 1992, ông được [Hiệp hội Tolkien Mỹ](../A/American_Tolkien_Society.md) trao tặng bằng Tiến sĩ danh dự.
 
 Ông giảng dạy và được xuất bản ở nhiều quốc gia và là Giáo sư thỉnh giảng về Văn hóa dân gian tại Đại học Sheffield trong cả hai năm 1995 và 1999. Ông cũng lãnh đạo một phần của Trường học Tolkien Học hè tại Đại học Otago vào năm 2007 cho các quốc gia Vành đai Thái Bình Dương.
 

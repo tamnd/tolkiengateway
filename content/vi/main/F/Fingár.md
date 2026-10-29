@@ -16,7 +16,7 @@ sort_keys:
   "Old English names": "Fingar"
 ---
 
-**Fingár** là con trai của [Fingon](Fingon.md) trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md).<sup id="cite_ref-Fin_1-0" class="reference"><a href="#cite_note-Fin-1">[1]</a></sup> Không có thông tin nào khác về ông.
+**Fingár** là con trai của [Fingon](Fingon.md) trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md).<sup id="cite_ref-Fin_1-0" class="reference"><a href="#cite_note-Fin-1">[1]</a></sup> Không có thông tin nào khác về ông ta.
 
 ## Từ nguyên {#Etymology}
 

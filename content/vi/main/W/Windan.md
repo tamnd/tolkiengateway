@@ -19,7 +19,7 @@ infobox:
     value: "Immortal"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Nhân vật</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Windan</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">một trong nhiều ngôn ngữ <a href="../A/Avarin.md" title="Avarin">Avarin</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tuổi thọ</th><td class="tg-infobox-data">Bất tử</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">People</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Windan</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Languages</th><td class="tg-infobox-data">one of the many <a href="../A/Avarin.md" title="Avarin">Avarin</a> languages</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifespan</th><td class="tg-infobox-data">Immortal</td></tr></tbody></table>
 
 **Windan** là thuật ngữ được một số [Avari](../A/Avari.md) sử dụng để mô tả chính họ. Không biết tên "Windan" được áp dụng cho một nhóm Avari cụ thể hay cho toàn bộ Avari.
 

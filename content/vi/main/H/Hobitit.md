@@ -32,7 +32,7 @@ infobox:
     value: "Profile"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hobitit_-_poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d8/Hobitit_-_poster.jpg/320px-Hobitit_-_poster.jpg" decoding="async" loading="lazy" width="320" height="450" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d8/Hobitit_-_poster.jpg/480px-Hobitit_-_poster.jpg 1.5x, https://tolkiengateway.net/w/images/d/d8/Hobitit_-_poster.jpg 2x" data-file-width="630" data-file-height="885"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hobitit</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data"><i><a href="#Cast_and_characters">xem bên dưới</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/1993.md" title="1993">1993</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt0441925" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hobitit_-_poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d8/Hobitit_-_poster.jpg/320px-Hobitit_-_poster.jpg" decoding="async" loading="lazy" width="320" height="450" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d8/Hobitit_-_poster.jpg/480px-Hobitit_-_poster.jpg 1.5x, https://tolkiengateway.net/w/images/d/d8/Hobitit_-_poster.jpg 2x" data-file-width="630" data-file-height="885"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hobitit</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data"><i><a href="#Cast_and_characters">see below</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1993.md" title="1993">1993</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt0441925" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
 **Hobitit** (tiếng Phần Lan: **Hobbit**) là một bộ phim truyền hình ngắn tập của Phần Lan dựa trên *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng vào [1993](../_/1993.md) gồm 9 tập trên <a class="extiw" href="http://en.wikipedia.org/wiki/YLE" title="wikipedia:YLE">YLE</a>.
 
@@ -41,9 +41,9 @@ Bộ truyện được viết và đạo diễn bởi Timo Torikka. Toni Edelman
 ## Mặt bằng {#Premise}
 
 <blockquote class="tg-quote noexcerpt">
-<p><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J. R. R. Tolkien</a> <a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a> được kể dưới góc nhìn của <a href="Hobbits.md" title="Hobbits">người hobbit</a>.
+<p><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J. R. R. Tolkien&#39;s</a> <a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a> told from the perspective of the <a href="Hobbits.md" title="Hobbits">hobbits</a>.
 </p>
-<p class="tg-quote-footer"><cite>Lời giới thiệu IMDb<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite>IMDb blurb<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
 </blockquote>
 
 ## Các tập {#Episodes}
@@ -66,8 +66,8 @@ Bộ phim kể về câu chuyện của [Frodo Baggins](../F/Frodo_Baggins.md) v
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Vai trò</th>
-<th>Diễn viên
+<th>Role</th>
+<th>Actor
 </th></tr>
 <tr>
 <td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></td>
@@ -153,32 +153,32 @@ Bộ phim kể về câu chuyện của [Frodo Baggins](../F/Frodo_Baggins.md) v
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Chuyển thể màn hình các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> được cấp phép</b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Licensed screen adaptations of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works</b>
 </th></tr>
 <tr>
-<th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Phim hoạt hình</b>
+<th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Animation</b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)">The Hobbit</a></i> (1967) · <i><a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)">The Hobbit</a></i> (1977, Rankin and Bass) · <i><a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">The Lord of the Rings</a></i> (1978) · <i><a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King</a></i> (1980, Rankin and Bass) · <i><a href="../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md" title="The Lord of the Rings: The War of the Rohirrim">The War of the Rohirrim</a></i> (2024, New Line Cinema)
 </td></tr>
 <tr>
 <th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="3"><b>Live-action</b><br/><small>(New Line Cinema)</small>
 </th>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i> series</a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (2001) · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (2002) · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (2003)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> loạt</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> series</a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">An Unexpected Journey</a></i> (2012) · <i><a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Desolation of Smaug</a></i> (2013) · <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (2014)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Các phim khác</b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Other films</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, sắp ra mắt)
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, upcoming)
 </td></tr>
 <tr>
-<th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>Loạt phim truyền hình</b>
+<th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>TV series</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022–nay)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-present)
 </td></tr></tbody></table>

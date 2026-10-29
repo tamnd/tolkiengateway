@@ -23,7 +23,7 @@ images:
 
 [Sam](../S/Samwise_Gamgee.md) và [Frodo](../F/Frodo_Baggins.md) leo xuống vách đá của [Emyn Muil](../E/Emyn_Muil.md) với sự trợ giúp của một sợi dây *hithlain* được buộc vào một gốc cây ở đầu Sam. Khi Sam bực tức kéo sợi dây buộc họ phải bỏ nó ra và giúp Gollum xuống thì sợi dây lỏng ra và rơi vào người anh. Frodo tưởng Sam đã buộc nó không tốt, nhưng Sam tưởng nó đến là do anh gọi.<sup id="cite_ref-Taming_3-0" class="reference"><a href="#cite_note-Taming-3">[3]</a></sup>
 
-Khi Frodo và Sam buộc dây thừng Tiên quanh mắt cá chân của [Gollum](../G/Gollum.md), ông hét lên đau đớn. Rõ ràng việc [Tiên tộc](../E/Elves.md) tạo ra vật liệu đó, hoặc như Gollum đã tuyên bố, đã khiến ông đau đớn khi nó chạm vào ông.<sup id="cite_ref-Taming_3-1" class="reference"><a href="#cite_note-Taming-3">[3]</a></sup> <span></span>
+Khi Frodo và Sam buộc dây thừng Tiên quanh mắt cá chân của [Gollum](../G/Gollum.md), ông ta hét lên đau đớn. Rõ ràng việc [Tiên tộc](../E/Elves.md) tạo ra vật liệu đó, hoặc như Gollum đã tuyên bố, đã khiến ông ta đau đớn khi nó chạm vào ông ta.<sup id="cite_ref-Taming_3-1" class="reference"><a href="#cite_note-Taming-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

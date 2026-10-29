@@ -21,10 +21,10 @@ images:
 
 ## Lịch sử {#History}
 
-Cánh phía tây của [Liên minh Maedhros](Union_of_Maedhros.md) được chỉ huy bởi Fingon, người chỉ huy quân đội của [nhà ông](../H/House_of_Fingolfin.md) và [Edain](../E/Edain.md). Sau sự phản bội của [Easterlings](<../E/Easterlings_(First_Age).md>) ở cánh phía đông, [Maedhros](../M/Maedhros.md) không đến từ phía đông [Anfauglith](../A/Anfauglith.md) như kế hoạch, và một đám mây đen nổi lên phía trên cả trái tim của [Thangorodrim](../T/Thangorodrim.md) và Fingon. Thật bất ngờ, Turgon xuất hiện, mang theo mười nghìn Tiên tộc từ [Gondolin](../G/Gondolin.md).
+Cánh phía tây của [Liên minh Maedhros](Union_of_Maedhros.md) được chỉ huy bởi Fingon, người chỉ huy quân đội của [nhà ông ta](../H/House_of_Fingolfin.md) và [Edain](../E/Edain.md). Sau sự phản bội của [Easterlings](<../E/Easterlings_(First_Age).md>) ở cánh phía đông, [Maedhros](../M/Maedhros.md) không đến từ phía đông [Anfauglith](../A/Anfauglith.md) như kế hoạch, và một đám mây đen nổi lên phía trên cả trái tim của [Thangorodrim](../T/Thangorodrim.md) và Fingon. Thật bất ngờ, Turgon xuất hiện, mang theo mười nghìn Tiên tộc từ [Gondolin](../G/Gondolin.md).
 
 <blockquote class="tg-quote noexcerpt">
-<p>Rồi khi Fingon nghe từ xa tiếng kèn lớn của người em Turgon, bóng tối đi qua, lòng anh như lâng lâng, anh hét lớn: <i><b>Utúlie'n aurë! Aiya Eldalië ar Atanatári, utúlie'n aurë! Ngày đó đã đến! Này, hỡi người dân của Eldar và Cha của Con Người, ngày đó đã đến!</b></i> Và tất cả những ai nghe thấy giọng nói tuyệt vời của ông vang vọng trên đồi đều kêu lên: <i><b>Auta i lomë! Màn đêm đang dần trôi qua!</b></i>
+<p>Then when Fingon heard afar the great trumpet of Turgon his brother, the shadow passed and his heart was uplifted, and he shouted aloud: <i><b>Utúlie&#39;n aurë! Aiya Eldalië ar Atanatári, utúlie&#39;n aurë! The day has come! Behold, people of the Eldar and Fathers of Men, the day has come!</b></i> And all those who heard his great voice echo in the hills answered crying: <i><b>Auta i lómë! The night is passing!</b></i>
 </p>
 </blockquote>
 

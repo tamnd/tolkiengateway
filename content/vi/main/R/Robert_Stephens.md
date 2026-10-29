@@ -23,9 +23,9 @@ sort_keys:
 ## Trích dẫn {#Quotes}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Đối với một số người, ông là một sự lựa chọn khó có thể xảy ra; nhưng đối với rất nhiều người nghe, màn trình diễn mạnh mẽ mang phong cách riêng của Robert thể hiện cảm giác mạnh mẽ về sự cao quý đã mất của Aragorn.
+<p>He was, for some, an unlikely choice; but for a great many listeners Robert&#39;s powerfully idiosyncratic performance embodied a strong sense of Aragorn&#39;s lost nobility.
 </p>
-<p class="tg-quote-footer"><cite><a href="../B/Brian_Sibley.md" title="Brian Sibley">Brian Sibley</a> về việc tuyển diễn viên Robert Stephens.</cite></p>
+<p class="tg-quote-footer"><cite><a href="../B/Brian_Sibley.md" title="Brian Sibley">Brian Sibley</a> on the casting of Robert Stephens.</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Liên kết ngoài {#External_links}

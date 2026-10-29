@@ -18,20 +18,20 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="Timeline.md" title="Timeline">Dòng thời gian</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Timeline.md" title="Timeline">Timeline</a></b></div></div>
 
 ## [Kỷ Đệ Tứ](../F/Fourth_Age.md) {#Fourth_Age}
 
 <table class="wikitable">
 <tbody><tr>
-<th><b><a href="../F/Fourth_Age.md" title="Fourth Age">Kỷ Đệ Tứ</a></b></th>
+<th><b><a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a></b></th>
 <th><b><a href="../S/Shire_Calendar.md" title="Shire Calendar">S.R.</a></b></th>
-<th><b>Sự kiện</b>
+<th><b>Events</b>
 </th></tr>
 <tr>
 <td><a href="../F/Fourth_Age_1.md" title="Fourth Age 1">1</a></td>
 <td>1422</td>
-<td>Kỷ Đệ Tứ bắt đầu từ việc tính toán Shire.<sup id="cite_ref-Chief_1-0" class="reference"><a href="#cite_note-Chief-1">[1]</a></sup> <i>Possible</i> sự ra đời của <a href="../E/Eldarion.md" title="Eldarion">Eldarion</a>, con trai của Vua <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> và Nữ hoàng <a href="../A/Arwen.md" title="Arwen">Arwen</a>.<sup id="cite_ref-NOME_2-0" class="reference"><a href="#cite_note-NOME-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
+<td>The Fourth Age begins in the reckoning of the Shire.<sup id="cite_ref-Chief_1-0" class="reference"><a href="#cite_note-Chief-1">[1]</a></sup> <i>Possible</i> birth of <a href="../E/Eldarion.md" title="Eldarion">Eldarion</a>, son of King <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> and Queen <a href="../A/Arwen.md" title="Arwen">Arwen</a>.<sup id="cite_ref-NOME_2-0" class="reference"><a href="#cite_note-NOME-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_2.md" title="Fourth Age 2">2</a></td>
@@ -46,7 +46,7 @@ images:
 <tr>
 <td><a href="../F/Fourth_Age_6.md" title="Fourth Age 6">6</a></td>
 <td>1427</td>
-<td><a href="../W/Will_Whitfoot.md" title="Will Whitfoot">Will Whitfoot</a> từ chức và <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> được bầu làm Thị trưởng.<sup id="cite_ref-B5_6-0" class="reference"><a href="#cite_note-B5-6">[5]</a></sup> <a href="../M/Merry_Gardner.md" title="Merry Gardner">Merry Gardner</a> sinh ra.<sup id="cite_ref-C4_5-2" class="reference"><a href="#cite_note-C4-5">[4]</a></sup> <a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a> kết hôn với <a href="../D/Diamond_of_Long_Cleeve.md" title="Diamond of Long Cleeve">Kim cương Long Cleeve</a>.<sup id="cite_ref-B5_6-1" class="reference"><a href="#cite_note-B5-6">[5]</a></sup><br/><b>Vua <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> ban hành sắc lệnh <a href="../M/Men.md" title="Men">Con Người</a> không được vào <a href="../D/Drúadan_Forest.md" title="Drúadan Forest">Rừng Drúadan</a> và <a href="The_Shire.md" title="The Shire">Shire</a>, và ông biến nó thành Vùng đất tự do dưới sự bảo vệ của Vương trượng phương Bắc.</b><sup id="cite_ref-B5_6-2" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
+<td><a href="../W/Will_Whitfoot.md" title="Will Whitfoot">Will Whitfoot</a> resigns and <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> is elected Mayor.<sup id="cite_ref-B5_6-0" class="reference"><a href="#cite_note-B5-6">[5]</a></sup> <a href="../M/Merry_Gardner.md" title="Merry Gardner">Merry Gardner</a> born.<sup id="cite_ref-C4_5-2" class="reference"><a href="#cite_note-C4-5">[4]</a></sup> <a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a> marries <a href="../D/Diamond_of_Long_Cleeve.md" title="Diamond of Long Cleeve">Diamond of Long Cleeve</a>.<sup id="cite_ref-B5_6-1" class="reference"><a href="#cite_note-B5-6">[5]</a></sup><br/><b>King <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> issues an edict that <a href="../M/Men.md" title="Men">Men</a> are not to enter the <a href="../D/Drúadan_Forest.md" title="Drúadan Forest">Drúadan Forest</a> and <a href="The_Shire.md" title="The Shire">Shire</a>, and he makes it a Free Land under the protection of the Northern Sceptre.</b><sup id="cite_ref-B5_6-2" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_7.md" title="Fourth Age 7">7</a></td>
@@ -61,7 +61,7 @@ images:
 <tr>
 <td><a href="../F/Fourth_Age_9.md" title="Fourth Age 9">9</a></td>
 <td>1430</td>
-<td>Sự ra đời của <a href="../F/Faramir_Took_I.md" title="Faramir Took I">Faramir Đã lấy đi của tôi</a> con trai của <a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a>.<sup id="cite_ref-C2_4-1" class="reference"><a href="#cite_note-C2-4">[3]</a></sup> Cái chết của <a href="../M/Merimac_Brandybuck.md" title="Merimac Brandybuck">Merimac Brandybuck</a><sup id="cite_ref-C3_7-0" class="reference"><a href="#cite_note-C3-7">[6]</a></sup> và <a href="../V/Vigo_Boffin.md" title="Vigo Boffin">Vigo Boffin</a>.<sup id="cite_ref-C6_8-0" class="reference"><a href="#cite_note-C6-8">[7]</a></sup>
+<td>Birth of <a href="../F/Faramir_Took_I.md" title="Faramir Took I">Faramir Took I</a> son of <a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a>.<sup id="cite_ref-C2_4-1" class="reference"><a href="#cite_note-C2-4">[3]</a></sup> Deaths of <a href="../M/Merimac_Brandybuck.md" title="Merimac Brandybuck">Merimac Brandybuck</a><sup id="cite_ref-C3_7-0" class="reference"><a href="#cite_note-C3-7">[6]</a></sup> and <a href="../V/Vigo_Boffin.md" title="Vigo Boffin">Vigo Boffin</a>.<sup id="cite_ref-C6_8-0" class="reference"><a href="#cite_note-C6-8">[7]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_10.md" title="Fourth Age 10">10</a></td>
@@ -71,7 +71,7 @@ images:
 <tr>
 <td><a href="../F/Fourth_Age_11.md" title="Fourth Age 11">11</a></td>
 <td>1432</td>
-<td>Cái chết của <a href="../S/Saradoc_Brandybuck.md" title="Saradoc Brandybuck">Saradoc Brandybuck</a>.<sup id="cite_ref-C3_7-1" class="reference"><a href="#cite_note-C3-7">[6]</a></sup> Meriadoc trở thành <a href="../M/Master_of_Buckland.md" title="Master of Buckland">Chủ nhân Buckland</a> và những món quà tuyệt vời được gửi đến ông bởi Vua <a href="../_/Éomer.md" title="Éomer">Éomer</a> và Phu nhân <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> của <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>.<sup id="cite_ref-B5_6-3" class="reference"><a href="#cite_note-B5-6">[5]</a></sup> Sự ra đời của <a href="../H/Hamfast_Gardner.md" title="Hamfast Gardner">Hamfast Gardner</a>.<sup id="cite_ref-C4_5-6" class="reference"><a href="#cite_note-C4-5">[4]</a></sup>
+<td>Death of the <a href="../S/Saradoc_Brandybuck.md" title="Saradoc Brandybuck">Saradoc Brandybuck</a>.<sup id="cite_ref-C3_7-1" class="reference"><a href="#cite_note-C3-7">[6]</a></sup> Meriadoc becomes <a href="../M/Master_of_Buckland.md" title="Master of Buckland">Master of Buckland</a> and great gifts are sent to him by King <a href="../_/Éomer.md" title="Éomer">Éomer</a> and Lady <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> of <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>.<sup id="cite_ref-B5_6-3" class="reference"><a href="#cite_note-B5-6">[5]</a></sup> Birth of <a href="../H/Hamfast_Gardner.md" title="Hamfast Gardner">Hamfast Gardner</a>.<sup id="cite_ref-C4_5-6" class="reference"><a href="#cite_note-C4-5">[4]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_12.md" title="Fourth Age 12">12</a></td>
@@ -81,7 +81,7 @@ images:
 <tr>
 <td><a href="../F/Fourth_Age_13.md" title="Fourth Age 13">13</a></td>
 <td>1434</td>
-<td>Cái chết của <a href="../P/Paladin_Took_II.md" title="Paladin Took II">Paladin Took II</a>.<sup id="cite_ref-C2_4-2" class="reference"><a href="#cite_note-C2-4">[3]</a></sup> <a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a> trở thành <a href="Thain.md" title="Thain">Thain</a> và Vua <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> khiến Thain, Chủ nhân của Buckland và Thị trưởng trở thành Cố vấn của Vương quốc phương Bắc.<sup id="cite_ref-B5_6-4" class="reference"><a href="#cite_note-B5-6">[5]</a></sup> <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> được bầu làm Thị trưởng lần thứ hai.<sup id="cite_ref-B5_6-5" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
+<td>Death of <a href="../P/Paladin_Took_II.md" title="Paladin Took II">Paladin Took II</a>.<sup id="cite_ref-C2_4-2" class="reference"><a href="#cite_note-C2-4">[3]</a></sup> <a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a> becomes the <a href="Thain.md" title="Thain">Thain</a> and King <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> makes the Thain, the Master of Buckland and the Mayor to be Counsellors of the North-kingdom.<sup id="cite_ref-B5_6-4" class="reference"><a href="#cite_note-B5-6">[5]</a></sup> <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> elected Mayor for the second time.<sup id="cite_ref-B5_6-5" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_14.md" title="Fourth Age 14">14</a></td>
@@ -91,7 +91,7 @@ images:
 <tr>
 <td><a href="../F/Fourth_Age_15.md" title="Fourth Age 15">15</a></td>
 <td>1436</td>
-<td>Vua <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> đi về phía bắc và dừng lại một lúc ở <a href="../A/Annúminas.md" title="Annúminas">Annúminas</a> gần <a href="../L/Lake_Evendim.md" title="Lake Evendim">Hồ Evendim</a>. Ông đến <a href="../B/Brandywine_Bridge.md" title="Brandywine Bridge">Cầu Brandywine</a> và chào bạn bè ở đó. Ông trao <a href="../S/Star_of_the_Dúnedain.md" title="Star of the Dúnedain">Ngôi sao Dúnedain</a> cho Chủ nhân <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a>, và <a href="../E/Elanor_Gardner.md" title="Elanor Gardner">Elanor</a> được phong làm phù dâu cho Nữ hoàng <a href="../A/Arwen.md" title="Arwen">Arwen</a>.<sup id="cite_ref-B5_6-6" class="reference"><a href="#cite_note-B5-6">[5]</a></sup> <br/>Cái chết của <a href="../G/Glóin.md" title="Glóin">Glóin</a>.<sup id="cite_ref-A3_11-0" class="reference"><a href="#cite_note-A3-11">[10]</a></sup> Sự ra đời của <a href="../B/Bilbo_Gardner.md" title="Bilbo Gardner">Bilbo Gardner</a>.<sup id="cite_ref-C4_5-9" class="reference"><a href="#cite_note-C4-5">[4]</a></sup>
+<td>King <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> rides north and dwells for a while in <a href="../A/Annúminas.md" title="Annúminas">Annúminas</a> by <a href="../L/Lake_Evendim.md" title="Lake Evendim">Lake Evendim</a>. He comes to the <a href="../B/Brandywine_Bridge.md" title="Brandywine Bridge">Brandywine Bridge</a>, and there greets his friends. He gives the <a href="../S/Star_of_the_Dúnedain.md" title="Star of the Dúnedain">Star of the Dúnedain</a> to Master <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a>, and <a href="../E/Elanor_Gardner.md" title="Elanor Gardner">Elanor</a> is made a maid of honour to Queen <a href="../A/Arwen.md" title="Arwen">Arwen</a>.<sup id="cite_ref-B5_6-6" class="reference"><a href="#cite_note-B5-6">[5]</a></sup> <br/>Death of <a href="../G/Glóin.md" title="Glóin">Glóin</a>.<sup id="cite_ref-A3_11-0" class="reference"><a href="#cite_note-A3-11">[10]</a></sup> Birth of <a href="../B/Bilbo_Gardner.md" title="Bilbo Gardner">Bilbo Gardner</a>.<sup id="cite_ref-C4_5-9" class="reference"><a href="#cite_note-C4-5">[4]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_17.md" title="Fourth Age 17">17</a></td>
@@ -106,92 +106,92 @@ images:
 <tr>
 <td><a href="../F/Fourth_Age_20.md" title="Fourth Age 20">20</a></td>
 <td>1441</td>
-<td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> được bầu làm Thị trưởng lần thứ ba.<sup id="cite_ref-B5_6-7" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
+<td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> elected Mayor for the third time.<sup id="cite_ref-B5_6-7" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_21.md" title="Fourth Age 21">21</a></td>
 <td>1442</td>
-<td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a>, <a href="../R/Rose_Cotton.md" title="Rose Cotton">Rose</a> và <a href="../E/Elanor_Gardner.md" title="Elanor Gardner">Elanor</a> đi đến <a href="../G/Gondor.md" title="Gondor">Gondor</a>; Thạc sĩ <a href="Tolman_Cotton_Junior.md" title="Tolman Cotton Junior">Tolman Cotton</a> giữ chức Phó Thị trưởng.<sup id="cite_ref-B5_6-8" class="reference"><a href="#cite_note-B5-6">[5]</a></sup> Ngày sinh của <a href="Tolman_Gardner.md" title="Tolman Gardner">Tolman Gardner</a>.<sup id="cite_ref-C4_5-13" class="reference"><a href="#cite_note-C4-5">[4]</a></sup>
+<td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a>, <a href="../R/Rose_Cotton.md" title="Rose Cotton">Rose</a> and <a href="../E/Elanor_Gardner.md" title="Elanor Gardner">Elanor</a> ride to <a href="../G/Gondor.md" title="Gondor">Gondor</a>; Master <a href="Tolman_Cotton_Junior.md" title="Tolman Cotton Junior">Tolman Cotton</a> acts as deputy Mayor.<sup id="cite_ref-B5_6-8" class="reference"><a href="#cite_note-B5-6">[5]</a></sup> Birth of <a href="Tolman_Gardner.md" title="Tolman Gardner">Tolman Gardner</a>.<sup id="cite_ref-C4_5-13" class="reference"><a href="#cite_note-C4-5">[4]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_22.md" title="Fourth Age 22">22</a></td>
 <td>1443</td>
-<td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a>, <a href="../R/Rose_Cotton.md" title="Rose Cotton">Rose</a> và <a href="../E/Elanor_Gardner.md" title="Elanor Gardner">Elanor</a> rời đi <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-B5_6-9" class="reference"><a href="#cite_note-B5-6">[5]</a></sup> Cái chết của <a href="../F/Filibert_Bolger.md" title="Filibert Bolger">Filibert Bolger</a>.<sup id="cite_ref-C5_9-1" class="reference"><a href="#cite_note-C5-9">[8]</a></sup>
+<td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a>, <a href="../R/Rose_Cotton.md" title="Rose Cotton">Rose</a> and <a href="../E/Elanor_Gardner.md" title="Elanor Gardner">Elanor</a> leave <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-B5_6-9" class="reference"><a href="#cite_note-B5-6">[5]</a></sup> Death of <a href="../F/Filibert_Bolger.md" title="Filibert Bolger">Filibert Bolger</a>.<sup id="cite_ref-C5_9-1" class="reference"><a href="#cite_note-C5-9">[8]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_27.md" title="Fourth Age 27">27</a></td>
 <td>1448</td>
-<td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> được bầu làm Thị trưởng lần thứ tư.<sup id="cite_ref-B5_6-10" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
+<td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> elected Mayor for the fourth time.<sup id="cite_ref-B5_6-10" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_30.md" title="Fourth Age 30">30</a></td>
 <td>1451</td>
-<td><a href="../E/Elanor_Gardner.md" title="Elanor Gardner">Elanor Gardner</a> kết hôn với <a href="../F/Fastred_of_Greenholm.md" title="Fastred of Greenholm">Fastred của Greenholm</a> trên Far Downs.<sup id="cite_ref-B5_6-11" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
+<td><a href="../E/Elanor_Gardner.md" title="Elanor Gardner">Elanor Gardner</a> weds <a href="../F/Fastred_of_Greenholm.md" title="Fastred of Greenholm">Fastred of Greenholm</a> on the Far Downs.<sup id="cite_ref-B5_6-11" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_31.md" title="Fourth Age 31">31</a></td>
 <td>1452</td>
-<td><b> <a href="../W/Westmarch.md" title="Westmarch">Westmarch</a> trở thành một phần của <a href="The_Shire.md" title="The Shire"> Shire</a> nhờ món quà của Vua. Nhiều người hobbit chuyển đến đó.</b><sup id="cite_ref-B5_6-12" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
+<td><b>The <a href="../W/Westmarch.md" title="Westmarch">Westmarch</a> becomes a part of <a href="The_Shire.md" title="The Shire">the Shire</a> by the gift of the King. Many hobbits move to it.</b><sup id="cite_ref-B5_6-12" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_33.md" title="Fourth Age 33">33</a></td>
 <td>1454</td>
-<td>Sự ra đời của <a href="../E/Elfstan_Fairbairn.md" title="Elfstan Fairbairn">Elfstan Fairbairn</a> con trai của Fastred và Elanor.<sup id="cite_ref-B5_6-13" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
+<td>Birth of <a href="../E/Elfstan_Fairbairn.md" title="Elfstan Fairbairn">Elfstan Fairbairn</a> son of Fastred and Elanor.<sup id="cite_ref-B5_6-13" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_34.md" title="Fourth Age 34">34</a></td>
 <td>1455</td>
-<td>Cái chết của <a href="../I/Imrahil.md" title="Imrahil">Imrahil</a>. <a href="../E/Elphir.md" title="Elphir">Elphir</a> trở thành <a href="../P/Prince_of_Dol_Amroth.md" title="Prince of Dol Amroth">Thân vương Dol Amroth</a>.<sup id="cite_ref-Elendil-221_12-0" class="reference"><a href="#cite_note-Elendil-221-12">[11]</a></sup><br/>Fastred và Elanor sinh sống tại <a href="../U/Undertowers.md" title="Undertowers">Undertowers</a> trên Đồi Tháp, nơi con cháu của họ, <a class="mw-redirect" href="../F/Fairbairn_Family~66364.md" title="Fairbairn Family">Fairbairns of the Towers</a>, sinh sống qua nhiều thế hệ.<sup id="cite_ref-B5_6-14" class="reference"><a href="#cite_note-B5-6">[5]</a></sup><br/><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> được bầu làm Thị trưởng lần thứ năm. Theo yêu cầu của ông, <a href="Thain.md" title="Thain">Thain</a> bổ nhiệm Fastred <a href="../W/Warden_of_Westmarch.md" title="Warden of Westmarch">Quản giáo Westmarch</a>.<sup id="cite_ref-B5_6-15" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
+<td>Death of <a href="../I/Imrahil.md" title="Imrahil">Imrahil</a>. <a href="../E/Elphir.md" title="Elphir">Elphir</a> becomes <a href="../P/Prince_of_Dol_Amroth.md" title="Prince of Dol Amroth">Prince of Dol Amroth</a>.<sup id="cite_ref-Elendil-221_12-0" class="reference"><a href="#cite_note-Elendil-221-12">[11]</a></sup><br/>Fastred and Elanor make their dwelling at <a href="../U/Undertowers.md" title="Undertowers">Undertowers</a> on the Tower Hills, where their descendants, the <a class="mw-redirect" href="../F/Fairbairn_Family~66364.md" title="Fairbairn Family">Fairbairns of the Towers</a>, dwell for many generations.<sup id="cite_ref-B5_6-14" class="reference"><a href="#cite_note-B5-6">[5]</a></sup><br/><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> elected Mayor for the fifth time. At his request the <a href="Thain.md" title="Thain">Thain</a> makes Fastred <a href="../W/Warden_of_Westmarch.md" title="Warden of Westmarch">Warden of Westmarch</a>.<sup id="cite_ref-B5_6-15" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_41.md" title="Fourth Age 41">41</a></td>
 <td>1462</td>
-<td>Sự ra đời của <a href="../H/Holfast_Gardner.md" title="Holfast Gardner">Holfast Gardner</a>.<sup id="cite_ref-C4_5-14" class="reference"><a href="#cite_note-C4-5">[4]</a></sup><br/><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> được bầu làm Thị trưởng lần thứ sáu.<sup id="cite_ref-B5_6-16" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
+<td>Birth of <a href="../H/Holfast_Gardner.md" title="Holfast Gardner">Holfast Gardner</a>.<sup id="cite_ref-C4_5-14" class="reference"><a href="#cite_note-C4-5">[4]</a></sup><br/><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> elected Mayor for the sixth time.<sup id="cite_ref-B5_6-16" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_42.md" title="Fourth Age 42">42</a></td>
 <td>1463</td>
-<td><a href="../F/Faramir_Took_I.md" title="Faramir Took I">Faramir Tôi đã kết hôn</a> với <a href="../G/Goldilocks_Gardner.md" title="Goldilocks Gardner">Goldilocks Gardner</a>.<sup id="cite_ref-B5_6-17" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
+<td><a href="../F/Faramir_Took_I.md" title="Faramir Took I">Faramir Took I</a> weds <a href="../G/Goldilocks_Gardner.md" title="Goldilocks Gardner">Goldilocks Gardner</a>.<sup id="cite_ref-B5_6-17" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_48.md" title="Fourth Age 48">48</a></td>
 <td>1469</td>
-<td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> trở thành Thị trưởng lần thứ bảy và cũng là lần cuối cùng.<sup id="cite_ref-B5_6-18" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
+<td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> becomes Mayor for seventh and final time.<sup id="cite_ref-B5_6-18" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_55.md" title="Fourth Age 55">55</a></td>
 <td>1476</td>
-<td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a> kết thúc nhiệm kỳ thứ bảy và cũng là nhiệm kỳ cuối cùng của mình với tên <a href="../M/Mayor_of_Michel_Delving.md" title="Mayor of Michel Delving">Thị trưởng Michel Delving</a>.<sup id="cite_ref-B5_6-19" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
+<td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a> ends his seventh and last term as <a href="../M/Mayor_of_Michel_Delving.md" title="Mayor of Michel Delving">Mayor of Michel Delving</a>.<sup id="cite_ref-B5_6-19" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_61.md" title="Fourth Age 61">61</a></td>
 <td>1482</td>
-<td>Cái chết của <a href="../R/Rose_Cotton.md" title="Rose Cotton">Rose Gamgee</a> vào ngày giữa năm.<sup id="cite_ref-B5_6-20" class="reference"><a href="#cite_note-B5-6">[5]</a></sup><br/><b>Vào <a href="../_/22_September.md" title="22 September">22 tháng Chín</a> <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> cưỡi ngựa ra khỏi <a href="../B/Bag_End.md" title="Bag End">Bag End</a> và ông đến <a href="Tower_Hills.md" title="Tower Hills">Đồi Tháp</a>, nơi <a class="mw-redirect" href="../E/Elanor.md" title="Elanor">Elanor</a> nhìn thấy ông lần cuối. Ông đưa cho cô <a class="mw-redirect" href="../R/Red_Book.md" title="Red Book">Sách Đỏ</a> sau đó được <a class="mw-redirect" href="../F/Fairbairn_Family~66364.md" title="Fairbairn Family">Fairbairns</a> giữ. Samwise vượt qua các Tòa tháp, đi đến <a href="../G/Grey_Havens.md" title="Grey Havens">Cảng Xám</a> và vượt qua <a href="../B/Belegaer.md" title="Belegaer">Biển</a>, những Người mang chiếc nhẫn cuối cùng.</b><sup id="cite_ref-B5_6-21" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
+<td>Death of <a href="../R/Rose_Cotton.md" title="Rose Cotton">Rose Gamgee</a> on Midyear&#39;s Day.<sup id="cite_ref-B5_6-20" class="reference"><a href="#cite_note-B5-6">[5]</a></sup><br/><b>On <a href="../_/22_September.md" title="22 September">22 September</a> <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> rides out from <a href="../B/Bag_End.md" title="Bag End">Bag End</a> and he comes to the <a href="Tower_Hills.md" title="Tower Hills">Tower Hills</a>, where he is last seen by <a class="mw-redirect" href="../E/Elanor.md" title="Elanor">Elanor</a>. He gives her the <a class="mw-redirect" href="../R/Red_Book.md" title="Red Book">Red Book</a> afterwards kept by the <a class="mw-redirect" href="../F/Fairbairn_Family~66364.md" title="Fairbairn Family">Fairbairns</a>. Samwise passes the Towers, goes to the <a href="../G/Grey_Havens.md" title="Grey Havens">Grey Havens</a> and passes over the <a href="../B/Belegaer.md" title="Belegaer">Sea</a>, last of the Ring-bearers.</b><sup id="cite_ref-B5_6-21" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_63.md" title="Fourth Age 63">63</a></td>
 <td>1484</td>
-<td><a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a> ủy quyền một bản sao <a class="mw-redirect" href="../R/Red_Book.md" title="Red Book">Sách Đỏ gốc của Periannath</a>, sau này được gọi là <a href="Thain&#39;s_Book.md" title="Thain&#39;s Book">Thain Sách</a>, theo yêu cầu của Vua Elessar. <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Meriadoc Brandybuck</a> và Peregrin khởi hành từ <a href="The_Shire.md" title="The Shire"> Shire</a> và đi về phía nam mang theo cuốn sách. <a href="../F/Faramir_Took_I.md" title="Faramir Took I">Faramir Takek I</a> kế vị cha mình là Peregrin với tư cách là <a href="Thain.md" title="Thain">Thain</a> của <a href="The_Shire.md" title="The Shire">người Shire</a>. Meriadoc đến với <a href="../E/Edoras.md" title="Edoras">Edoras</a> và ở cùng với Vua <a href="../_/Éomer.md" title="Éomer">Éomer</a> trước khi chết vào mùa thu. Meriadoc và Peregrin đến <a href="../G/Gondor.md" title="Gondor">Gondor</a> và vượt qua những năm tháng ngắn ngủi còn lại cho họ ở cõi đó, cho đến khi họ chết và được an táng ở <a href="../R/Rath_Dínen.md" title="Rath Dínen">Rath Dínen</a> giữa những <a href="../G/Gondor.md" title="Gondor">Gondor</a> vĩ đại.<sup id="cite_ref-B5_6-22" class="reference"><a href="#cite_note-B5-6">[5]</a></sup><br/><a href="../E/Elfwine.md" title="Elfwine">Elfwine</a> trở thành <a href="../K/King_of_Rohan.md" title="King of Rohan">Vua Rohan</a>.<sup id="cite_ref-A2_13-0" class="reference"><a href="#cite_note-A2-13">[12]</a></sup>
+<td><a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a> commissions a copy of the original <a class="mw-redirect" href="../R/Red_Book.md" title="Red Book">Red Book of the Periannath</a>, later known as the <a href="Thain&#39;s_Book.md" title="Thain&#39;s Book">Thain&#39;s Book</a>, at the request of King Elessar. <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Meriadoc Brandybuck</a> and Peregrin depart from <a href="The_Shire.md" title="The Shire">the Shire</a> and travel south carrying the book. <a href="../F/Faramir_Took_I.md" title="Faramir Took I">Faramir Took I</a> succeeds his father Peregrin as <a href="Thain.md" title="Thain">Thain</a> of <a href="The_Shire.md" title="The Shire">the Shire</a>. Meriadoc comes to <a href="../E/Edoras.md" title="Edoras">Edoras</a> and is with King <a href="../_/Éomer.md" title="Éomer">Éomer</a> before he dies in the autumn. Meriadoc and Peregrin come to <a href="../G/Gondor.md" title="Gondor">Gondor</a> and pass what short years are left to them in that realm, until they die and are laid in <a href="../R/Rath_Dínen.md" title="Rath Dínen">Rath Dínen</a> among the great of <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-B5_6-22" class="reference"><a href="#cite_note-B5-6">[5]</a></sup><br/><a href="../E/Elfwine.md" title="Elfwine">Elfwine</a> becomes <a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a>.<sup id="cite_ref-A2_13-0" class="reference"><a href="#cite_note-A2-13">[12]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_67.md" title="Fourth Age 67">67</a></td>
 <td>1488</td>
-<td>Cái chết của Thân vương <a href="../E/Elphir.md" title="Elphir">Elphir</a>. <a href="../A/Alphros.md" title="Alphros">Alphros</a> trở thành <a href="../P/Prince_of_Dol_Amroth.md" title="Prince of Dol Amroth">Thân vương Dol Amroth</a>.<sup id="cite_ref-Elendil-223_14-0" class="reference"><a href="#cite_note-Elendil-223-14">[13]</a></sup>
+<td>Death of Prince <a href="../E/Elphir.md" title="Elphir">Elphir</a>. <a href="../A/Alphros.md" title="Alphros">Alphros</a> becomes <a href="../P/Prince_of_Dol_Amroth.md" title="Prince of Dol Amroth">Prince of Dol Amroth</a>.<sup id="cite_ref-Elendil-223_14-0" class="reference"><a href="#cite_note-Elendil-223-14">[13]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_80.md" title="Fourth Age 80">80</a></td>
 <td>1501</td>
-<td>Sự ra đời của <a href="../H/Harding_of_the_Hill.md" title="Harding of the Hill">Harding of the Hill</a> (Harding Gardner), chắt của <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a> và là người đứng đầu cuối cùng của <a class="mw-redirect" href="../G/Gardner_Family~66367.md" title="Gardner Family">Gia đình Gardner</a> có tên trong lịch sử.<sup id="cite_ref-C4_5-15" class="reference"><a href="#cite_note-C4-5">[4]</a></sup>
+<td>Birth of <a href="../H/Harding_of_the_Hill.md" title="Harding of the Hill">Harding of the Hill</a> (Harding Gardner), <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a>&#39;s great-grandson and the last head of the <a class="mw-redirect" href="../G/Gardner_Family~66367.md" title="Gardner Family">Gardner Family</a> named in the histories.<sup id="cite_ref-C4_5-15" class="reference"><a href="#cite_note-C4-5">[4]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_82.md" title="Fourth Age 82">82</a></td>
 <td>1503</td>
-<td>Cái chết của <a href="../F/Faramir.md" title="Faramir">Faramir</a>.<sup id="cite_ref-South_15-0" class="reference"><a href="#cite_note-South-15">[14]</a></sup> <a href="../E/Elboron.md" title="Elboron">Elboron</a> trở thành <a href="../P/Prince_of_Ithilien.md" title="Prince of Ithilien">Thân vương của Ithilien</a> và Người quản lý của <a href="../R/Reunited_Kingdom.md" title="Reunited Kingdom">Vương quốc Thống nhất</a>.<sup id="cite_ref-Elendil-221_12-1" class="reference"><a href="#cite_note-Elendil-221-12">[11]</a></sup>
+<td>Death of <a href="../F/Faramir.md" title="Faramir">Faramir</a>.<sup id="cite_ref-South_15-0" class="reference"><a href="#cite_note-South-15">[14]</a></sup> <a href="../E/Elboron.md" title="Elboron">Elboron</a> becomes <a href="../P/Prince_of_Ithilien.md" title="Prince of Ithilien">Prince of Ithilien</a> and Steward of the <a href="../R/Reunited_Kingdom.md" title="Reunited Kingdom">Reunited Kingdom</a>.<sup id="cite_ref-Elendil-221_12-1" class="reference"><a href="#cite_note-Elendil-221-12">[11]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_91.md" title="Fourth Age 91">91</a></td>
 <td>1512</td>
-<td>Ông <a href="../D/Dwalin.md" title="Dwalin">Dwalin</a> qua đời lúc 340 tuổi.<sup id="cite_ref-A3_11-1" class="reference"><a href="#cite_note-A3-11">[10]</a></sup>
+<td>Death of <a href="../D/Dwalin.md" title="Dwalin">Dwalin</a> at 340 years of age.<sup id="cite_ref-A3_11-1" class="reference"><a href="#cite_note-A3-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_95.md" title="Fourth Age 95">95</a></td>
@@ -201,7 +201,7 @@ images:
 <tr>
 <td><a href="../F/Fourth_Age_120.md" title="Fourth Age 120">120</a></td>
 <td>1541</td>
-<td><b><a href="../_/1_March.md" title="1 March">1 tháng 3</a>: Vua <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> chết. Tương truyền, giường của Meriadoc và Peregrin được đặt cạnh giường của vị vua vĩ đại. <a href="../E/Eldarion.md" title="Eldarion">Eldarion</a> trở thành Vua của Vương quốc Thống nhất.</b><sup id="cite_ref-B5_6-23" class="reference"><a href="#cite_note-B5-6">[5]</a></sup><br/><b><a href="../L/Legolas.md" title="Legolas">Legolas</a> đóng một con tàu màu xám trong <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a> và với <a href="../G/Gimli.md" title="Gimli">Gimli</a> đi xuống <a href="../A/Anduin.md" title="Anduin">Anduin</a> và cứ thế vượt qua <a href="../B/Belegaer.md" title="Belegaer">Biển</a>. Kết thúc bằng <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a> của <a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Đoàn Hộ Nhẫn</a>.</b><sup id="cite_ref-B5_6-24" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
+<td><b><a href="../_/1_March.md" title="1 March">1 March</a>: King <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> dies. It is said that the beds of Meriadoc and Peregrin are set beside the bed of the great king. <a href="../E/Eldarion.md" title="Eldarion">Eldarion</a> becomes King of the Reunited Kingdom.</b><sup id="cite_ref-B5_6-23" class="reference"><a href="#cite_note-B5-6">[5]</a></sup><br/><b><a href="../L/Legolas.md" title="Legolas">Legolas</a> builds a grey ship in <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>, and with <a href="../G/Gimli.md" title="Gimli">Gimli</a> sails down <a href="../A/Anduin.md" title="Anduin">Anduin</a> and so over the <a href="../B/Belegaer.md" title="Belegaer">Sea</a>. End in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a> of the <a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Fellowship of the Ring</a>.</b><sup id="cite_ref-B5_6-24" class="reference"><a href="#cite_note-B5-6">[5]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_121.md" title="Fourth Age 121">121</a></td>
@@ -211,12 +211,12 @@ images:
 <tr>
 <td><a href="../F/Fourth_Age_171.md" title="Fourth Age 171">171</a></td>
 <td>1592</td>
-<td>Một bản sao của <a href="Thain&#39;s_Book.md" title="Thain&#39;s Book">Thain Sách</a> được hoàn thành vào <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> bởi <a href="../F/Findegil.md" title="Findegil">Findegil</a>, tác giả của <a href="../K/King&#39;s_Writer.md" title="King&#39;s Writer">Vua</a>; có lẽ được ủy quyền bởi một người chắt giấu tên của Peregrin Took. Bản sao được gửi đến Shire, nơi nó được lưu giữ trong thư viện tại <a href="../G/Great_Smials.md" title="Great Smials">Great Smials</a>.<sup id="cite_ref-prologue_17-0" class="reference"><a href="#cite_note-prologue-17">[16]</a></sup>
+<td>A copy of the <a href="Thain&#39;s_Book.md" title="Thain&#39;s Book">Thain&#39;s Book</a> is completed in <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> by <a href="../F/Findegil.md" title="Findegil">Findegil</a>, the <a href="../K/King&#39;s_Writer.md" title="King&#39;s Writer">King&#39;s Writer</a>; probably commissioned by an unnamed great-grandson of Peregrin Took. The copy is sent to the Shire, where it is kept in the library at <a href="../G/Great_Smials.md" title="Great Smials">Great Smials</a>.<sup id="cite_ref-prologue_17-0" class="reference"><a href="#cite_note-prologue-17">[16]</a></sup>
 </td></tr>
 <tr>
 <td><i>After<br/> 171</i></td>
 <td><i>After<br/> 1592</i></td>
-<td><b><a href="../D/Durin_VII.md" title="Durin VII">Durin VII</a> được sinh ra, lớn lên đến tuổi trưởng thành và thi lại <a class="mw-redirect" href="../K/Khazad-dûm.md" title="Khazad-dûm">Khazad-dûm</a> cho Người Lùn của <a href="../D/Durin&#39;s_Folk~15256.md" title="Durin&#39;s Folk">Durin's Folk</a>.</b><sup id="cite_ref-A3_11-2" class="reference"><a href="#cite_note-A3-11">[10]</a></sup>
+<td><b><a href="../D/Durin_VII.md" title="Durin VII">Durin VII</a> is born, grows to adulthood, and retakes <a class="mw-redirect" href="../K/Khazad-dûm.md" title="Khazad-dûm">Khazad-dûm</a> for the Dwarves of <a href="../D/Durin&#39;s_Folk~15256.md" title="Durin&#39;s Folk">Durin&#39;s Folk</a>.</b><sup id="cite_ref-A3_11-2" class="reference"><a href="#cite_note-A3-11">[10]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../F/Fourth_Age_185.md" title="Fourth Age 185">185</a></td>
@@ -226,14 +226,14 @@ images:
 <tr>
 <td>c. <a href="../F/Fourth_Age_220.md" title="Fourth Age 220">220</a></td>
 <td>c. 1641</td>
-<td>Một số "hội kín" xuất hiện <a href="../G/Gondor.md" title="Gondor">Gondor</a> "thực hành <a href="../D/Dark_Tree.md" title="Dark Tree">các giáo phái đen tối</a> và '<a href="../O/Orcs.md" title="Orcs">các giáo phái orc</a>' trong thanh thiếu niên".<sup id="cite_ref-letter_19-0" class="reference"><a href="#cite_note-letter-19">[18]</a></sup> "Tôn giáo <a href="../M/Morgoth.md" title="Morgoth">Satanism</a> bí mật" này sau đó bị phát hiện và lật đổ trong Gondor.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[19]</a></sup>
-<p><b>Vào khoảng thời gian này, triều đại của <a href="../E/Eldarion.md" title="Eldarion">Eldarion</a> khi <a href="../H/High_King_(Dúnedain).md" title="High King (Dúnedain)">Đại Vương</a> kết thúc.</b><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[20]</a></sup>
+<td>Some &#34;secret societies&#34; emerge in <a href="../G/Gondor.md" title="Gondor">Gondor</a> &#34;practising <a href="../D/Dark_Tree.md" title="Dark Tree">dark cults</a>, and &#39;<a href="../O/Orcs.md" title="Orcs">orc-cults</a>&#39; among adolescents&#34;.<sup id="cite_ref-letter_19-0" class="reference"><a href="#cite_note-letter-19">[18]</a></sup> This &#34;secret <a href="../M/Morgoth.md" title="Morgoth">Satanistic</a> religion&#34; is later discovered and overthrown in Gondor.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[19]</a></sup>
+<p><b>About this time, <a href="../E/Eldarion.md" title="Eldarion">Eldarion&#39;s</a> reign as <a href="../H/High_King_(Dúnedain).md" title="High King (Dúnedain)">High King</a> comes to an end.</b><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[20]</a></sup>
 </p>
 </td></tr>
 <tr>
-<td><i>Không rõ</i></td>
+<td><i>Unknown</i></td>
 <td></td>
-<td><b><a href="../C/Celeborn.md" title="Celeborn">Celeborn</a>, <a href="../C/Círdan.md" title="Círdan">Círdan</a> và bất kỳ Tiên tộc nào khác trong Trung Địa nhớ <a href="../F/First_Age.md" title="First Age">Kỷ Đệ Nhất</a> khởi hành Cảng Xám trên <a href="../L/Last_Ship.md" title="Last Ship">Con Tàu Cuối Cùng</a>.</b><sup id="cite_ref-prologue_17-1" class="reference"><a href="#cite_note-prologue-17">[16]</a></sup>
+<td><b><a href="../C/Celeborn.md" title="Celeborn">Celeborn</a>, <a href="../C/Círdan.md" title="Círdan">Círdan</a>, and any other Elves in Middle-earth who remember the <a href="../F/First_Age.md" title="First Age">First Age</a> depart the Grey Havens on the <a href="../L/Last_Ship.md" title="Last Ship">Last Ship</a>.</b><sup id="cite_ref-prologue_17-1" class="reference"><a href="#cite_note-prologue-17">[16]</a></sup>
 </td></tr></tbody></table>
 
 ## Ghi chú {#Notes}
@@ -292,5 +292,5 @@ images:
 <br>
 
 <div class="tg-seq"><table class="tg-seq-table wikitable wikitable--border">
-<tbody><tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a href="Timeline%252FThird_Age.md" title="Timeline/Third Age">Kỷ Đệ Tam</a></div></td><td width="45%"><div class="tg-seq-value">Kỷ Đệ Tứ</div><div class="tg-seq-label"><a href="../F/Fourth_Age.md" title="Fourth Age">Kỷ Đệ Tứ</a> <a href="../F/Fourth_Age_1.md" title="Fourth Age 1">1</a> - không xác định</div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="../L/Later_Ages.md" title="Later Ages">Fifth Age</a></div></td></tr>
+<tbody><tr><td width="27.5%"><div class="tg-seq-label">Preceded by</div><div class="tg-seq-value"><a href="Timeline%252FThird_Age.md" title="Timeline/Third Age">Third Age</a></div></td><td width="45%"><div class="tg-seq-value">Fourth Age</div><div class="tg-seq-label"><a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a> <a href="../F/Fourth_Age_1.md" title="Fourth Age 1">1</a> - unknown</div></td><td width="27.5%"><div class="tg-seq-label">Followed by</div><div class="tg-seq-value"><a href="../L/Later_Ages.md" title="Later Ages">Fifth Age</a></div></td></tr>
 </tbody></table></div>

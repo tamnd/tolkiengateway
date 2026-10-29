@@ -25,7 +25,7 @@ infobox:
     value: "11 x 17 inches"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>The Hobbit Jigsaw Puzzles</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin câu đố</span></th></tr><tr><th scope="row" class="tg-infobox-label">Số mảnh</th><td class="tg-infobox-data">200</td></tr><tr><th scope="row" class="tg-infobox-label">Kích thước</th><td class="tg-infobox-data">11 x 17 inch</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>The Hobbit Jigsaw Puzzles</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Puzzle Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Pieces</th><td class="tg-infobox-data">200</td></tr><tr><th scope="row" class="tg-infobox-label">Size</th><td class="tg-infobox-data">11 x 17 inches</td></tr></tbody></table>
 
 **The Hobbit Trò chơi ghép hình** là một chuỗi trò chơi ghép hình gồm 200 mảnh có các hình ảnh chụp nhanh từ [bộ phim năm 1977 *The Hobbit*](<The_Hobbit_(1977_film).md>) do [Rankin/Bass](../R/Rankin%252FBass.md) sản xuất.
 

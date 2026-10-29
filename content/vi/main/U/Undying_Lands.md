@@ -14,7 +14,7 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../A/Aman.md" title="Aman">Aman</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../A/Aman.md" title="Aman">Aman</a></b></div></div>
 
 **Vùng Đất Bất Tử** là tên của [Aman](../A/Aman.md), hoặc ít nhất một phần của nó là nơi sinh sống của [Valar](../V/Valar.md), [Maiar](../M/Maiar.md) và [Tiên tộc](../E/Elves.md). Đảo [Tol Eressëa](../T/Tol_Eressëa.md) nhiều lần được xác định là cực đông của Vùng Đất Bất Tử và ít nhất [Valinor](../V/Valinor.md) cũng phải được đưa vào.
 

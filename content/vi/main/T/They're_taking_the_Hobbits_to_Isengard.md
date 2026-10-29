@@ -30,7 +30,7 @@ infobox:
 
 <span id="background" class="isengard"> </span>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Two_Towers_-_They&#39;re_taking_the_Hobbits_to_Isengard!.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/30/The_Lord_of_the_Rings_-_The_Two_Towers_-_They%27re_taking_the_Hobbits_to_Isengard%21.jpeg/320px-The_Lord_of_the_Rings_-_The_Two_Towers_-_They%27re_taking_the_Hobbits_to_Isengard%21.jpeg" decoding="async" loading="lazy" width="320" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/30/The_Lord_of_the_Rings_-_The_Two_Towers_-_They%27re_taking_the_Hobbits_to_Isengard%21.jpeg/480px-The_Lord_of_the_Rings_-_The_Two_Towers_-_They%27re_taking_the_Hobbits_to_Isengard%21.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/3/30/The_Lord_of_the_Rings_-_The_Two_Towers_-_They%27re_taking_the_Hobbits_to_Isengard%21.jpeg/640px-The_Lord_of_the_Rings_-_The_Two_Towers_-_They%27re_taking_the_Hobbits_to_Isengard%21.jpeg 2x" data-file-width="960" data-file-height="540"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Họ đang đưa Hobbit tới Isengard</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data">&#39;<b></b></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phối khí bởi</th><td class="tg-infobox-data">Erwin Beekveld</td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/><a class="mw-redirect" href="../F/Frances_Walsh.md" title="Frances Walsh">Frances Walsh</a><br/><a href="../P/Philippa_Boyens.md" title="Philippa Boyens">Philippa Boyens</a><br/><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a><br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Stephen_Sinclair&amp;action=edit&amp;redlink=1" title="Stephen Sinclair (page does not exist)">Stephen Sinclair</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data"><a href="../O/Orlando_Bloom.md" title="Orlando Bloom">Orlando Bloom</a><br/><a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a><br/><a href="../M/Marton_Csokas.md" title="Marton Csokas">Marton Csokas</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">2:09</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="youtube" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; autoplay" modestbranding="1" allowfullscreen="true" width="288" height="80" src="//www.youtube-nocookie.com/embed/2X-AF7fOzW0"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Two_Towers_-_They&#39;re_taking_the_Hobbits_to_Isengard!.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/30/The_Lord_of_the_Rings_-_The_Two_Towers_-_They%27re_taking_the_Hobbits_to_Isengard%21.jpeg/320px-The_Lord_of_the_Rings_-_The_Two_Towers_-_They%27re_taking_the_Hobbits_to_Isengard%21.jpeg" decoding="async" loading="lazy" width="320" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/30/The_Lord_of_the_Rings_-_The_Two_Towers_-_They%27re_taking_the_Hobbits_to_Isengard%21.jpeg/480px-The_Lord_of_the_Rings_-_The_Two_Towers_-_They%27re_taking_the_Hobbits_to_Isengard%21.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/3/30/The_Lord_of_the_Rings_-_The_Two_Towers_-_They%27re_taking_the_Hobbits_to_Isengard%21.jpeg/640px-The_Lord_of_the_Rings_-_The_Two_Towers_-_They%27re_taking_the_Hobbits_to_Isengard%21.jpeg 2x" data-file-width="960" data-file-height="540"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>They&#39;re taking the Hobbits to Isengard</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data">&#39;<b></b></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Arranged by</th><td class="tg-infobox-data">Erwin Beekveld</td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/><a class="mw-redirect" href="../F/Frances_Walsh.md" title="Frances Walsh">Frances Walsh</a><br/><a href="../P/Philippa_Boyens.md" title="Philippa Boyens">Philippa Boyens</a><br/><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a><br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Stephen_Sinclair&amp;action=edit&amp;redlink=1" title="Stephen Sinclair (page does not exist)">Stephen Sinclair</a></td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data"><a href="../O/Orlando_Bloom.md" title="Orlando Bloom">Orlando Bloom</a><br/><a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a><br/><a href="../M/Marton_Csokas.md" title="Marton Csokas">Marton Csokas</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">2:09</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="youtube" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; autoplay" modestbranding="1" allowfullscreen="true" width="288" height="80" src="//www.youtube-nocookie.com/embed/2X-AF7fOzW0"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
@@ -41,37 +41,37 @@ Lời bài hát là những dòng được xáo trộn từ Legolas, [Gollum](..
 ## Lời bài hát {#Lyrics}
 
 <div class="poem">
-<p><b><a href="../L/Legolas.md" title="Legolas">Legolas</a></b>: Họ đang đưa <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> tới <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
-Họ đang đưa <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> tới <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
-Họ đang đưa <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> tới <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
-Họ đang đưa <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> đến <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
-Họ đang đưa <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> tới <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
-Họ đang đưa <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> tới <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
-Họ đang đưa <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> tới <a href="../I/Isengard.md" title="Isengard">Isengard-gard-gard-gard-gard</a>!<br/>
-Họ đang đưa <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> tới <a href="../I/Isengard.md" title="Isengard">Isengard-gard-gard-gardgard-gard</a>!<br/>
-Họ đang đưa <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> tới <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
-Họ đang đưa <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> tới <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
-Họ đang đưa <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> đến <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
-<b><a href="../G/Gollum.md" title="Gollum">Gollum</a></b>: Bạn vừa nói gì cơ?<br/>
-<a href="../H/Hobbits.md" title="Hobbits">Hobbit</a>-Số <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a>-Số <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a>-Số <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> đến <a href="../I/Isengard.md" title="Isengard">Isengard</a>! Tới <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
-<a href="../H/Hobbits.md" title="Hobbits">Hobbit</a>-Số <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a>-Số <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a>-Số <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> đến <a href="../I/Isengard.md" title="Isengard">Isengard</a>! Tới <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
-<a href="../H/Hobbits.md" title="Hobbits">Hobbit</a>-Số <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a>-Số <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a>-Số <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> đến <a href="../I/Isengard.md" title="Isengard">Isengard</a>! Tới <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
-Họ đang đưa <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> tới <a href="../I/Isengard.md" title="Isengard">Isengard-gard-gardgard-gard-gard</a>!<br/>
-<b><a href="../C/Celeborn.md" title="Celeborn">Celeborn</a></b>: Nói cho tôi biết, <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> ở đâu? Vì tôi rất mong được nói chuyện với ông.<br/>
-Nói cho tôi biết, <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> ở đâu? Vì tôi rất mong được nói chuyện với ông.<br/>
-<b><a href="../L/Legolas.md" title="Legolas">Legolas</a></b>: Một <a class="mw-redirect" href="../B/Balrog.md" title="Balrog">Balrog</a> của <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a>.<br/>
-<b><a href="../G/Gollum.md" title="Gollum">Gollum</a></b>: Bạn vừa nói gì cơ?<br/>
-<b><a href="../L/Legolas.md" title="Legolas">Legolas</a></b>: A <a class="mw-redirect" href="../B/Balrog.md" title="Balrog">Balrog</a> của <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a>.<br/>
-<b><a href="../G/Gollum.md" title="Gollum">Gollum</a></b>: Bạn vừa nói gì cơ?<br/>
-<b><a href="../L/Legolas.md" title="Legolas">Legolas</a></b>: Họ đang đưa <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> tới <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
-<b><a href="../G/Gollum.md" title="Gollum">Gollum</a></b>: Đồ béo ngu ngốc <a class="mw-redirect" href="../H/Hobbit.md" title="Hobbit">Hobbit</a>!<br/>
-<b><a href="../L/Legolas.md" title="Legolas">Legolas</a></b>: Họ đang đưa <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> tới <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
-<b><a href="../G/Gollum.md" title="Gollum">Gollum</a></b>: Đồ béo ngu ngốc <a class="mw-redirect" href="../H/Hobbit.md" title="Hobbit">Hobbit</a>!<br/>
-<b><a href="../L/Legolas.md" title="Legolas">Legolas</a></b>: Họ đang đưa <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> tới <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
-Họ đang đưa <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> tới <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
-Họ đang đưa <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> đến <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
- <b><a href="../G/Gollum.md" title="Gollum">Gollum</a></b>: Đồ béo ngu ngốc <a class="mw-redirect" href="../H/Hobbit.md" title="Hobbit">Hobbit</a>!<br/>
-Rời đi! Hiện nay! Và không bao giờ quay trở lại!
+<p><b><a href="../L/Legolas.md" title="Legolas">Legolas</a></b>: They&#39;re taking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
+They&#39;re taking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
+They&#39;re taking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
+They&#39;re taking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
+They&#39;re taking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
+They&#39;re taking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
+They&#39;re taking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard-gard-gard-gard-gard</a>!<br/>
+They&#39;re taking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard-gard-gard-gardgard-gard</a>!<br/>
+They&#39;re taking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
+They&#39;re taking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
+They&#39;re taking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
+<b><a href="../G/Gollum.md" title="Gollum">Gollum</a></b>: What did you say?<br/>
+The <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a>-The <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a>-The <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a>-The <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard</a>! To <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
+The <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a>-The <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a>-The <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a>-The <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard</a>! To <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
+The <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a>-The <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a>-The <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a>-The <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard</a>! To <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
+They&#39;re taking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard-gard-gardgard-gard-gard</a>!<br/>
+<b><a href="../C/Celeborn.md" title="Celeborn">Celeborn</a></b>: Tell me, where is <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>? For I much desire to speak with him.<br/>
+Tell me, where is <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>? For I much desire to speak with him.<br/>
+<b><a href="../L/Legolas.md" title="Legolas">Legolas</a></b>: A <a class="mw-redirect" href="../B/Balrog.md" title="Balrog">Balrog</a> of <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a>.<br/>
+<b><a href="../G/Gollum.md" title="Gollum">Gollum</a></b>: What did you say?<br/>
+<b><a href="../L/Legolas.md" title="Legolas">Legolas</a></b>: A <a class="mw-redirect" href="../B/Balrog.md" title="Balrog">Balrog</a> of <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a>.<br/>
+<b><a href="../G/Gollum.md" title="Gollum">Gollum</a></b>: What did you say?<br/>
+<b><a href="../L/Legolas.md" title="Legolas">Legolas</a></b>: They&#39;re taking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
+<b><a href="../G/Gollum.md" title="Gollum">Gollum</a></b>: Stupid fat <a class="mw-redirect" href="../H/Hobbit.md" title="Hobbit">Hobbit</a>!<br/>
+<b><a href="../L/Legolas.md" title="Legolas">Legolas</a></b>: They&#39;re taking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
+<b><a href="../G/Gollum.md" title="Gollum">Gollum</a></b>: Stupid fat <a class="mw-redirect" href="../H/Hobbit.md" title="Hobbit">Hobbit</a>!<br/>
+<b><a href="../L/Legolas.md" title="Legolas">Legolas</a></b>: They&#39;re taking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
+They&#39;re taking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
+They&#39;re taking the <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a> to <a href="../I/Isengard.md" title="Isengard">Isengard</a>!<br/>
+ <b><a href="../G/Gollum.md" title="Gollum">Gollum</a></b>: Stupid fat <a class="mw-redirect" href="../H/Hobbit.md" title="Hobbit">Hobbit</a>!<br/>
+Leave! Now! And never come back!
 </p>
 </div>
 
@@ -93,7 +93,7 @@ Rời đi! Hiện nay! Và không bao giờ quay trở lại!
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>phim của người hâm mộ liên quan đến <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>-related fan films</b>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2003</b>
@@ -108,7 +108,7 @@ Rời đi! Hiện nay! Và không bao giờ quay trở lại!
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2005</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../A/Almost_There_And_Back_Again.md" title="Almost There And Back Again">Gần đến nơi rồi lại trở về</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../A/Almost_There_And_Back_Again.md" title="Almost There And Back Again">Almost There And Back Again</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2007</b>
@@ -123,7 +123,7 @@ Rời đi! Hiện nay! Và không bao giờ quay trở lại!
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2011</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Đôi cánh trên Arda: Kỷ Đệ Nhất</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Wings Over Arda: The First Age</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2013</b>
@@ -133,7 +133,7 @@ Rời đi! Hiện nay! Và không bao giờ quay trở lại!
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2014</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Con đường của Tolkien</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Tolkien&#39;s Road</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2015</b>
@@ -148,7 +148,7 @@ Rời đi! Hiện nay! Và không bao giờ quay trở lại!
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2017</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">Cuộc vây hãm Angband</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">The Siege of Angband</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2018</b>
@@ -163,12 +163,12 @@ Rời đi! Hiện nay! Và không bao giờ quay trở lại!
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2020</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../H/Horn_of_Gondor_(fan_film).md" title="Horn of Gondor (fan film)">Tù và Gondor</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../H/Horn_of_Gondor_(fan_film).md" title="Horn of Gondor (fan film)">Horn of Gondor</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2022</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Các trận chiến tại khúc cạn Isen</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Battles of the Fords of Isen</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2024</b>
@@ -178,10 +178,10 @@ Rời đi! Hiện nay! Và không bao giờ quay trở lại!
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2025</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="The_Beacons.md" title="The Beacons">Các đài hiệu</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="The_Beacons.md" title="The Beacons">The Beacons</a></i>
 </td></tr>
 <tr>
-<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Không rõ</b>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Unknown</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="The_Legend_of_Gurthang.md" title="The Legend of Gurthang">Truyền thuyết về Gurthang</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="The_Legend_of_Gurthang.md" title="The Legend of Gurthang">The Legend of Gurthang</a></i>
 </td></tr></tbody></table>

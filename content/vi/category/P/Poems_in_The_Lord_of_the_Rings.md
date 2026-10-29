@@ -14,4 +14,4 @@ categories:
   - "The Lord of the Rings"
 ---
 
-<dl><dd><i>Bài chính:</i> <a href="../../main/P/Poems_in_The_Lord_of_the_Rings.md" title="Poems in The Lord of the Rings">Poems in <i>The Lord of the Rings</i></a></dd></dl>
+<dl><dd><i>Main article:</i> <a href="../../main/P/Poems_in_The_Lord_of_the_Rings.md" title="Poems in The Lord of the Rings">Poems in <i>The Lord of the Rings</i></a></dd></dl>

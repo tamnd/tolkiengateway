@@ -28,7 +28,7 @@ Nó xuất hiện lần đầu trên bản đồ hàng hóa Mordor dành cho *[T
 Trang fansite [Thelandofshadow.com](../T/Thelandofshadow.com.md) đã lấy một số cái tên do Reeve giới thiệu và mở rộng chúng. Culduin được mô tả như sau:<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Con sông nhỏ nhất trong bốn con sông chảy vào Biển của Núrnen. Con sông này chảy qua phía nam Nurn vào biển snland. Đó là một con sông nhỏ chảy xuống từ dãy núi Ered Glamhoth. Khí hậu khô hạn quanh năm nhưng lại chảy như bão dữ dội khi có mưa.
+<p>The smallest of the four rivers that flowed into the Sea of Núrnen. This river flowed across the south of Nurn into the snland sea. It was a small river that flowed down from the mountains of Ered Glamhoth. It was dry much of the year, but flowed like a raging storm when the rains fell.
 </p>
 </blockquote>
 
@@ -44,7 +44,7 @@ Thông tin từ The Land of Bóng Tối đã được đưa vào dưới dạng 
 		<li class="gallerybox" style="width: 138.66666666667px">
 			<div class="thumb" style="width: 136.66666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Daniel_Reeve_-_Map_of_Mordor_(Merchandise).jpg.md" title="2003 merchandise map"><img alt="2003 merchandise map" src="https://tolkiengateway.net/w/images/thumb/a/a7/Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg/205px-Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg" decoding="async" loading="lazy" width="137" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg/308px-Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg/411px-Daniel_Reeve_-_Map_of_Mordor_%28Merchandise%29.jpg 2x" data-file-width="2700" data-file-height="2368"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 117px"><div class="gallerytext">
-<p>Bản đồ hàng hóa năm 2003
+<p>2003 merchandise map
 </p>
 			</div></div>
 		</li>
@@ -58,7 +58,7 @@ Thông tin từ The Land of Bóng Tối đã được đưa vào dưới dạng 
 <li id="cite_note-reeve-site-1"><span class="mw-cite-backlink"><a href="#cite_ref-reeve-site_1-0">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Daniel Reeve</span>. <span class="cite-web-article"><a class="external text" href="https://www.danielreeve.co.nz/LOTR/Maps/" rel="noreferrer noopener" target="_blank">&#34;The Lord of the Rings: Maps&#34;</a></span>. <span class="cite-web-website">Daniel Reeve, artist</span></cite></span>
 </li>
 <li id="cite_note-reeve-mail-2"><span class="mw-cite-backlink"><a href="#cite_ref-reeve-mail_2-0">↑</a></span> <span class="reference-text">Daniel Reeve, personal correspondence (June 2026):<blockquote class="tg-quote noexcerpt">
-<p>bản đồ Giải mã có trước bản đồ buôn bán ROTK (Mordor). Tôi đã tạo […] bản đồ buôn bán ROTK vào năm 2003. Vì vậy, bản đồ Giải mã Mordor đóng vai trò như một loại mẫu khi sau này tôi tạo bản đồ buôn bán Mordor - lúc đó tôi đã mở rộng nó, bổ sung thêm nhiều chi tiết và tên được phát minh. […] Tôi đã tự mình tạo ra các địa điểm và đặt tên.
+<p>the Decipher maps pre-dated the ROTK merchandising map (Mordor). I created [...]  the ROTK merchandising map in 2003. So the Decipher Mordor map served as a kind of template when I later made the merchandising map of Mordor – at which time I expanded upon it, adding a lot more invented detail and names. […] I created the places and names myself.
 </p>
 </blockquote></span>
 </li>

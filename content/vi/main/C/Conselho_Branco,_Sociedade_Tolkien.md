@@ -15,15 +15,15 @@ images:
   - "Conselho_Branco,_Sociedade_Tolkien.png"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Conselho_Branco,_Sociedade_Tolkien.png.md"><img src="https://tolkiengateway.net/w/images/b/b5/Conselho_Branco%2C_Sociedade_Tolkien.png" decoding="async" loading="lazy" width="190" height="248" class="mw-file-element" data-file-width="190" data-file-height="248"/></a><figcaption><small>Huy hiệu của Conselho Branco, Sociedade Tolkien</small></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Conselho_Branco,_Sociedade_Tolkien.png.md"><img src="https://tolkiengateway.net/w/images/b/b5/Conselho_Branco%2C_Sociedade_Tolkien.png" decoding="async" loading="lazy" width="190" height="248" class="mw-file-element" data-file-width="190" data-file-height="248"/></a><figcaption><small>Heraldic device of Conselho Branco, Sociedade Tolkien</small></figcaption></figure>
 
-**Conselho Branco, Sociedade Tolkien** (tiếng Brazil: **Hiệp hội Bạch Hội Đồng, Tolkien**) là Hội Tolkien của Brazil được thành lập tại [7 tháng Chín](../_/7_September.md) [2000](../_/2000.md).
+**Conselho Branco, Sociedade Tolkien** (tiếng Brazil: **Hiệp hội Bạch Hội Đồng, Tolkien**) là Hiệp hội Tolkien của Brazil được thành lập tại [7 tháng Chín](../_/7_September.md) [2000](../_/2000.md).
 
 Hiệp hội bao gồm các nhóm nhỏ ở một số thành phố của Brazil tổ chức các cuộc họp và sự kiện địa phương để thảo luận và thúc đẩy công việc của Giáo sư theo quy chế, một Hội đồng Quốc gia có chủ ý và một Ban Tổ chức có quyền hành pháp trên toàn bộ lãnh thổ quốc gia. Ngoài ra, một số thành viên còn sản xuất nội dung học thuật liên quan đến Tolkien.
 
 ## Xem thêm {#See_also}
 
-- [Hội Tolkien Brazil](../T/The_Brazilian_Tolkien_Society.md), một [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) Brazil khác.
+- [Hiệp hội Tolkien Brazil](../T/The_Brazilian_Tolkien_Society.md), một [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) Brazil khác.
 - [Đây là Hyarmen](../H/Heren_Hyarmen.md)
 
 ## Liên kết ngoài {#External_links}

@@ -28,7 +28,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Dáin II Ironfoot](../../main/D/Dáin_Ironfoot.md) đánh nhau [Azog](../../main/A/Azog.md). Nghệ thuật của [Liz Danforth](../../main/L/Liz_Danforth.md), từ [Peter C. Fenlon, Jr.](../../main/P/Pete_Fenlon.md), *[Moria (2nd edition)](<../../main/M/Moria_(1994_book).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2011, 1994)
+[Dáin II Ironfoot](../../main/D/Dáin_Ironfoot.md) đánh nhau [Azog](../../main/A/Azog.md). Nghệ thuật của [Liz Danforth](../../main/L/Liz_Danforth.md), từ [Peter C. Fenlon, Jr.](../../main/P/Pete_Fenlon.md), *[Moria (2nd edition)](<../../main/M/Moria_(1994_book).md>)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2011, 1994)
 
 <br>
 

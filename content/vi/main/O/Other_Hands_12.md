@@ -28,9 +28,9 @@ infobox:
     value: "Other Hands 13"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Hands 12</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data"><a href="../C/Chris_Seeman.md" title="Chris Seeman">Chris Seeman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Họa sĩ minh họa</th><td class="tg-infobox-data">Sophia Caramagno, Jeff Hatch, Patrick Wynne</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">January <a href="../_/1996.md" title="1996">1996</a></td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1081-8359</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Other_Hands_10%252F11.md" title="Other Hands 10/11">Other Hands 10/11</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Other_Hands_13.md" title="Other Hands 13">Other Hands 13</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Hands 12</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Chris_Seeman.md" title="Chris Seeman">Chris Seeman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Sophia Caramagno, Jeff Hatch, Patrick Wynne</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">January <a href="../_/1996.md" title="1996">1996</a></td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1081-8359</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Other_Hands_10%252F11.md" title="Other Hands 10/11">Other Hands 10/11</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Other_Hands_13.md" title="Other Hands 13">Other Hands 13</a></td></tr></tbody></table>
 
-<b><i>Other Hands</i> 12</b> là số của *[Other Hands](Other_Hands.md)*, một tạp chí dành riêng cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*.
+<b><i>Những bàn tay khác</i> 12</b> là số của *[Other Hands](Other_Hands.md)*, một tạp chí dành riêng cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*.
 
 ## Nội dung {#Contents}
 
@@ -46,9 +46,9 @@ infobox:
 - Arda Truyền thuyết:
     - "Carn Dûm" nghĩa là gì? - [Chris Seeman](../C/Chris_Seeman.md), Patrick Wynne
     - Harondor có rừng không? - Wesley Frank
-    - Chuyện gì đã xảy ra với Pháp sư Xanh? - Tommy Martin
+    - Chuyện gì đã xảy ra với Blue Pháp sư? - Tommy Martin
     - Ai là Necromancer? - [Chris Seeman](../C/Chris_Seeman.md), [Anders Blixt](../A/Anders_Blixt.md)
-    - Còn Vua Phù thủy thì sao? - Steffen Solomon, Wesley Frank, [Chris Seeman](../C/Chris_Seeman.md)
+    - Còn Phù thủy-Vua thì sao? - Steffen Solomon, Wesley Frank, [Chris Seeman](../C/Chris_Seeman.md)
     - Bản chất của phép thuật trong Trung Địa là gì? - Chris Pheby
 - Đánh giá sản phẩm: Dol Guldur - [Chris Seeman](../C/Chris_Seeman.md)
 - Đánh giá sản phẩm: Angmar - Jason Vester

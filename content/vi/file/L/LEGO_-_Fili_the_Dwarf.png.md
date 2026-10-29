@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Fili Người Lùn](../../main/F/Fíli.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ
+[Fili Người lùn](../../main/F/Fíli.md) - [LEGO](../../main/L/Lego.md) mô hình nhỏ
 
 ## Giấy phép {#Licensing}
 

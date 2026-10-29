@@ -15,8 +15,8 @@ images:
   - "Material_icon_-_Mop.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>dọn dẹp</b> để phù hợp với <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn về chất lượng bài viết</a>.<blockquote class="tg-quote noexcerpt">
-<p>Tôi sẽ không coi đó là sự kết thúc cho đến khi chúng ta dọn dẹp được mớ hỗn độn này.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
+<p>I shan&#39;t call it the end, till we&#39;ve cleared up the mess.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
@@ -33,7 +33,7 @@ images:
 - Sam người làm vườn – Tolkien yêu thích cây cối (và có thể cả việc làm vườn)
 - Năm ngoái, khu bảo tồn thiên nhiên Birmingham được cho là đã truyền cảm hứng cho các phần trong tiểu thuyết của Tolkien đã được đổi tên thành Công viên Quốc gia The Shire, theo tên nơi người Hobbit sinh sống ở Trung Địa.
 
-Nó bao gồm Moseley Bog, có niên đại từ Thời đại đồ đồng và được cho là đã truyền cảm hứng cho chữ "Khu Rừng Cổ" trong sách. Cối xay Sarehole, gần ngôi nhà của gia đình và hiện là bảo tàng, được coi là "nhà máy lớn" của The Shire.
+Nó bao gồm Moseley Bog, có niên đại từ Thời đại đồ đồng và được cho là đã truyền cảm hứng cho chữ "Khu Rừng Cổ" trong sách. Nhà máy Sarehole, gần ngôi nhà của gia đình và hiện là bảo tàng, được coi là "nhà máy lớn" của The Shire.
 
 - tháp đồng hồ của trường đại học Birmingham - mắt của sauron, orthanc ?
 
@@ -42,7 +42,7 @@ Nó bao gồm Moseley Bog, có niên đại từ Thời đại đồ đồng và
 ### Kinh thánh và thần học Kitô giáo {#The_Bible_and_Christian_theology}
 
 - Tolkien đã cẩn thận chọn ngày mà Hiệp hội bắt đầu hành trình tiêu diệt Chiếc Nhẫn Chúa: ngày 25 tháng 12, cùng ngày mà [Đức Trinh Nữ Maria](../V/Virgin_Mary.md) sinh ra Chúa Giêsu Kitô.
-- Cũng giống như Tolkien đã cẩn thận chọn ngày Hiệp hội khởi hành từ Rivendell, ông cũng cẩn thận trong việc chọn ngày mà Nhẫn Chúa bị phá hủy: Ngày 25 tháng 3, ngày Chúa Giêsu Kitô chết và đánh bại Satan.
+- Cũng giống như Tolkien đã cẩn thận chọn ngày Hiệp hội khởi hành từ Rivendell, ông cũng cẩn thận trong việc chọn ngày mà Chiếc nhẫn Chúa bị phá hủy: Ngày 25 tháng 3, ngày Chúa Giêsu Kitô chết và đánh bại Satan.
 - Balrog – thiên thần sa ngã bị cắt đôi cánh trong Kinh Thánh
 - Morgoth - có nghĩa trong Elvish giống như Satan trong tiếng Hebrew: "the Kẻ Thù, Kẻ thù"
 - Kinh thánh và Sách Enoch kể về một nhóm thiên thần từ trời xuống và lấy phụ nữ làm vợ. Họ sinh ra những đứa con cao hơn, khỏe mạnh hơn và thông minh hơn bình thường.
@@ -59,7 +59,7 @@ Trong thời gian làm giáo sư tại [Đại học Oxford](../U/University_of_
 
 Cốt truyện của hai câu chuyện rất giống nhau. Trong cả hai người, một nhóm gồm 13 người lên đường tìm kiếm sự thỏa mãn cho tội ác do một con rồng gây ra. Cả hai bên đều có một tên trộm, trong *The Hobbit* là Bilbo, kẻ đã đánh cắp chiếc cốc từ kho tích trữ của con rồng đang ngủ bằng cách sử dụng một lối đi bí mật. Cả hai con rồng sau đó thức dậy sau giấc ngủ sâu và gây ra nỗi kinh hoàng và hủy diệt. Cả hai con rồng đều được bảo vệ tốt bởi áo giáp, một con tự nhiên ở *Beowulf* và một con làm bằng vàng và kim cương ở *The Hobbit*, nhưng cuối cùng chúng cũng bị giết.
 
-Nhưng không chỉ có cốt truyện có những điểm tương đồng, cả hai nhân vật chính, Bilbo và Beowulf, đều có những đặc điểm chung. Cả hai anh hùng đều thách thức kẻ thù bằng sức mạnh siêu nhiên của mình, trong trường hợp của Bilbo là chiếc nhẫn và trong trường hợp của Beowulf là sức mạnh siêu nhiên của ông. Trong khi Beowulf có sự giúp đỡ của Chúa, Bilbo thường chiếm ưu thế nhờ sự may mắn tuyệt đối của mình. Cả hai đều có nguồn gốc quý tộc và đều bị tách khỏi nhóm của mình, Bilbo trên núi, Beowulf khi anh bị mẹ của Grendel bắt giữ.
+Nhưng không chỉ có cốt truyện có những điểm tương đồng, cả hai nhân vật chính, Bilbo và Beowulf, đều có những đặc điểm chung. Cả hai anh hùng đều thách thức kẻ thù bằng sức mạnh siêu nhiên của mình, trong trường hợp của Bilbo là chiếc nhẫn và trong trường hợp của Beowulf là sức mạnh siêu nhiên của ông ta. Trong khi Beowulf có sự giúp đỡ của Chúa, Bilbo thường chiếm ưu thế nhờ sự may mắn tuyệt đối của mình. Cả hai đều có nguồn gốc quý tộc và đều bị tách khỏi nhóm của mình, Bilbo trên núi, Beowulf khi anh bị mẹ của Grendel bắt giữ.
 
 Ngoài ra, có thể tìm thấy một số yếu tố của văn hóa Anglo-Saxon. Trong cả hai cuốn sách, một vị vua, mà trong Anglo-Saxon đôi khi được gọi là người trao nhẫn hoặc vàng, trao cho các chiến binh của mình kho báu và trang bị chiến tranh. Trong văn hóa Anglo-Saxon, thơ rất quan trọng vì chúng chứa đựng lịch sử của nhân dân và được hát bởi những người nông dân. Hai trong số những bài hát này được tìm thấy trong *Beowulf* và nhiều bài hát khác trong *The Hobbit*. Những người lùn của Tolkien đặc biệt phản ánh xã hội Anglo-Saxon, cả về bản chất chiến binh lẫn mong muốn về đồ trang sức và trang bị chiến tranh. Hệ thống chữ viết của người lùn, hay [Cirth](../C/Cirth.md), cũng chịu ảnh hưởng rõ ràng từ Anglo-Saxon bảng chữ cái runic như *Futhark*.
 
@@ -106,7 +106,7 @@ Kết nối Phần Lan của - Tolkien: Tiếng vang của Kalevala trong Trung 
 - máhanaxar - Sau đó Gangleri nói: "Nơi ở chính hay thánh địa của các vị thần ở đâu?" Hárr trả lời: 'Đó là tại Tro của Yggdrasill; ở đó các vị thần phải đưa ra phán xét hàng ngày."
     - “Rễ thứ ba của tro đứng trên trời; và dưới gốc cây đó có một cái giếng rất linh thiêng, được gọi là Giếng Urdr; ở đó các vị thần tổ chức phiên tòa của họ.” trong văn xuôi Edda
 - mîm (tên) – mîmir trong văn xuôi hoặc thơ Edda
-- tulkas: “Ông thích đấu vật và tranh giành sức mạnh; và ông không cưỡi ngựa, vì ông có thể chạy nhanh hơn mọi thứ đi bằng chân, và ông không biết mệt mỏi.” – Thor trong Prose Edda: “Thor đi đến sự phán xét và lội qua những dòng sông được gọi như vậy”
+- tulkas: “Ông thích đấu vật và tranh giành sức mạnh; và ông ta không cưỡi ngựa, vì ông ta có thể chạy nhanh hơn mọi thứ đi bằng chân, và ông ta không biết mệt mỏi.” – Thor trong Prose Edda: “Thor đi đến sự phán xét và lội qua những dòng sông được gọi như vậy”
 - elvenhome – alfheimr trong văn xuôi Edda
 - Vanyar (ánh sáng Tiên tộc) – ánh sáng-Tiên tộc trong văn xuôi Edda ?
 - Noldor (sâu Tiên tộc) – tối-Tiên tộc trong văn xuôi Edda ?
@@ -120,7 +120,7 @@ Kết nối Phần Lan của - Tolkien: Tiếng vang của Kalevala trong Trung 
     - Cho đến khi những con thú đang chạy \| mồ hôi nồng nặc, đến Đan tăng;
     - Hơn nữa, con bò còn chán \| tám mắt, lông mày sáng ngời,
     - O'er sân rộng: chiến lợi phẩm, \| và bốn cái đầu đang cày
-- Ông cũng biết những huyền thoại về Thần Bắc Âu Odin, vua của người Viking và là chủ nhân của chiếc nhẫn ràng buộc những chiếc nhẫn khác và người đeo chúng với ông. Những câu chuyện khác mà ông nghiên cứu bao gồm The Saga of the Ring và The Kingdom of the Circle.
+- Ông ta cũng biết những huyền thoại về Thần Bắc Âu Odin, vua của người Viking và là chủ nhân của chiếc nhẫn ràng buộc những chiếc nhẫn khác và người đeo chúng với ông ta. Những câu chuyện khác mà ông nghiên cứu bao gồm The Saga of the Ring và The Kingdom of the Circle.
 - Giống như nhiều thứ khác trong thần thoại của Tolkien, ý tưởng về một nửaTiên tộc được mượn từ thần thoại Bắc Âu, nơi Tiên tộc thỉnh thoảng có con với con người.
 
 ### Thần thoại Hy Lạp {#Greek_myths}
@@ -138,10 +138,10 @@ Các tác giả khoa học viễn tưởng/giả tưởng yêu thích của - To
     - Mary Renault
 - Tôi vừa đọc xong cuốn tiểu thuyết The War in the Air năm 1908 của H. G. Wells, một câu chuyện mang tính tiên tri nghiệt ngã về chiến tranh công nghệ cao và các cuộc oanh tạc trên không, và tôi tự hỏi liệu Tolkien có từng đọc nó hay không. Bởi vì không chỉ nhân vật chính, Bert Smallways, có sở thích đặc biệt (cũng như nhân vật của ông), mà việc Bert trở về nhà ở cuối cuốn tiểu thuyết cũng giống một cách đáng kinh ngạc với “The Scouring of the Shire”.
 - Theo phong cách khá hoành tráng (với một câu thoại dài có lẽ được lấy cảm hứng từ William Morris). John Garth, *Tolkien and the Great War*, tr. 35.
-- Trong tay ông mang một mũi tên duy nhất, có lông đen và có gai thép, nhưng mũi tên được sơn màu đỏ. - Trong Câu chuyện về ngôi nhà của những con sói của William Morris, những con sói được triệu tập để chiến đấu chống lại người La Mã một phần bởi một sứ giả mang theo 'dấu hiệu của mũi tên chiến tranh rách rưới, cháy rụi và đẫm máu' (Chương 2).
+- Trong tay ông ta mang một mũi tên duy nhất, có lông đen và có gai thép, nhưng mũi tên được sơn màu đỏ. - Trong Câu chuyện về ngôi nhà của những con sói của William Morris, những con sói được triệu tập để chiến đấu chống lại người La Mã một phần bởi một sứ giả mang theo 'dấu hiệu của mũi tên chiến tranh rách rưới, cháy rụi và đẫm máu' (Chương 2).
 - New Erewhon: Erewhon (= ‘Nowhere’) là tựa đề một tác phẩm châm biếm của Samuel Butler (1872). Tin tức từ hư không: tưởng tượng về tương lai của William Morris (1890).
 - Mảnh vỡ của Amenartas được làm bằng tiếng Hy Lạp (do Andrew Lang cung cấp) vào thời kỳ mà nó được cho là còn tồn tại, không phải bằng tiếng Anh đánh vần cũng như có thể bằng các chữ cái Hy Lạp. \[Về mảnh vỡ của Amenartas, xem H. Rider Haggard, She, chương 3.\]
-- ngôi nhà của bầy sói bởi William Morris: Người yêu của Thiodolf không phải là con người, mà là một trong những Vala, người đã từ bỏ sự bất tử của mình vì tình yêu. Sợ rằng ông có thể chết trong trận chiến, cô cố gắng cứu mạng ông bằng một chiếc áo giáp lùn. Chiếc áo thư thật kỳ diệu; nhưng nó cũng bị nguyền rủa, và chỉ đến cuối truyện, Thiodolf mới hiểu rõ rằng nó chỉ có thể cứu mạng anh bằng cái giá phải trả là phản bội người khác: "Bức thư này là để chuộc một người đàn ông và để hủy hoại một dân tộc". Và trong xã hội này, nếu dân gian bị hủy hoại thì cá nhân cũng bị hủy hoại.
+- ngôi nhà của bầy sói bởi William Morris: Người yêu của Thiodolf không phải là con người, mà là một trong những Vala, người đã từ bỏ sự bất tử của mình vì tình yêu. Sợ rằng ông ta có thể chết trong trận chiến, cô cố gắng cứu mạng ông ta bằng một chiếc áo giáp lùn. Chiếc áo thư thật kỳ diệu; nhưng nó cũng bị nguyền rủa, và chỉ đến cuối truyện, Thiodolf mới hiểu rõ rằng nó chỉ có thể cứu mạng anh bằng cái giá phải trả là phản bội người khác: "Bức thư này là để chuộc một người đàn ông và để hủy hoại một dân tộc". Và trong xã hội này, nếu dân gian bị hủy hoại thì cá nhân cũng bị hủy hoại.
 - Một số nhà bình luận, nổi bật nhất là John D. Rateliff trong 'She and Tolkien', Mythlore 8, không. 2, toàn bộ không. 28 (Mùa hè năm 1981), đã chỉ ra những ảnh hưởng có thể có đối với Galadriel bởi các khía cạnh của Ayesha trong các tác phẩm của H. Rider Haggard: She (1887), Ayesha: The Return of She (1905), She and Allan (1921), và Wisdom's Daughter (1923). Rateliff viết:
 
 Điểm tương đồng rõ ràng nhất là chính Bà - Ayesha, con gái của Trí tuệ, Người-Người-Phải-Tuân theo. Một người phụ nữ cực kỳ xinh đẹp, xinh đẹp đến nỗi bất cứ ai nhìn thấy cô đều nhớ mãi về sau. Cô cai trị một vương quốc cổ xưa, biệt lập, nhỏ bé, biên giới không ai được phép đi qua. Người lạ chỉ được phép vào nếu bà đã gửi lời trước để nhận họ, và thậm chí sau đó họ phải bị bịt mắt tham gia cuộc hành trình. Xinh đẹp và khủng khiếp, sùng bái nhưng đáng sợ, nàng không chỉ khôn ngoan xinh đẹp mà còn bất tử.... Giống như Nàng, Galadriel là bất tử, khôn ngoan, nữ hoàng và xinh đẹp không thể tin được. Có những khác biệt quan trọng giữa Ayesha và Galadriel, nhưng những điểm tương đồng thật đáng chú ý, \[p. 6\] Steve Linley trong 'Tolkien và Haggard: Some Thoughts on Galadriel', Anor 23 (1991) nhận xét rằng cả Galadriel và Ayesha 'có cái nhìn mạnh mẽ, tác động của nó lên người nhận là cảm giác bị phơi bày trần trụi hoặc bị "tróc trần" về mặt tâm lý', và 'cả hai đều sống giữa một nền văn hóa bảo tồn; Tuy nhiên, Ayesha chỉ bảo vệ bản thân mình vì những lý do ích kỷ.... Bà đối xử với tất cả những con người khác như những loài thấp kém hơn. . . . Ayesha tích cực tìm kiếm quyền lực và sự thống trị thế giới', trong khi Galadriel từ chối sức mạnh mà Chiếc nhẫn lẽ ra sẽ trao cho cô. Tuy nhiên, Linley chỉ ra rằng nếu Galadriel chấp nhận Chiếc nhẫn 'người đọc quen thuộc với Bà có thể nhận ra rằng Galadriel sẽ giống Ayesha hơn về những đặc điểm kém hấp dẫn hơn của bà' (trang 12, 13, 14). Năm 1966 Tolkien nói với Henry Resnik: 'Tôi cho rằng khi còn là một cậu bé, Bà đã quan tâm đến tôi nhiều như mọi thứ' (An Interview with Tolkien', Niekas 18 (Mùa xuân 1967). P- 40). Trong 'Bà và Tolkien', Mythlore 8, không. 2, toàn bộ không. 28 (Mùa hè năm 1981), John D. Rateliff lưu ý thêm rằng trong She, Chương 13 của Rider Haggard, 'chúng ta được kể về "một chiếc bình giống như một phông chữ được cắt bằng đá chạm khắc ... chứa đầy nước tinh khiết" (được mô tả trong She và Allan \[Chương 22\] là "một cái giá ba chân bằng đá cẩm thạch trên đó đặt một cái chậu chứa đầy một nửa nước"). Cả Galadriel và Ayesha đều sử dụng "tấm gương" này để cho các anh hùng thấy tầm nhìn của những nơi xa xôi và chính họ sử dụng nó để xem điều gì đang xảy ra ở thế giới bên ngoài' (tr. 7). Nhưng có những khác biệt trong những gì tấm gương thể hiện. Ayesha nói: Nước đó là ly của tôi; trong đó tôi thấy điều gì sẽ trôi qua nếu tôi quan tâm đến việc gợi lại những hình ảnh không thường xuyên. Trong đó tôi có thể cho bạn thấy những gì bạn muốn trong quá khứ, nếu có bất cứ điều gì liên quan đến đất nước này và với những gì tôi đã biết, hoặc bất cứ điều gì mà bạn, người quan sát đã biết. Nếu bạn muốn, hãy nghĩ đến một khuôn mặt và nó sẽ được phản chiếu trong tâm trí bạn trên mặt nước. Tôi chưa biết hết bí mật - tôi không thể đọc được gì trong tương lai. \[Bà, Chương 13\]
@@ -219,12 +219,12 @@ Cô bắt đầu vuốt ve mái tóc dày của mình một cách chậm rãi, s
 - Trung Địa (tên) – “người trung gian”
 - Valimar - Asgard trong văn xuôi Edda
 - Telperion và Laurelin – Ash và Embla trong văn xuôi Edda
-- Sảnh của họ nằm phía trên lớp tuyết vĩnh cửu, trên Oiolossë, tòa tháp cao nhất của Taniquetil, cao nhất trong tất cả các ngọn núi trên Trái đất. Khi Manwë ngự lên ngai vàng và nhìn ra phía trước, nếu Varda ở bên cạnh, ông có thể nhìn xa hơn tất cả những con mắt khác, xuyên qua sương mù, xuyên qua bóng tối và hàng dặm biển. – “Có một nơi ở tên là Hlidskjálf, và khi Allfather ngồi trên chiếc ghế cao ở đó, ông ấy đã nhìn ra toàn thế giới và nhìn thấy hành động của mọi người, đồng thời biết tất cả những điều ông ấy nhìn thấy.” trong văn xuôi Edda
-- Người vĩ đại nhất về sức mạnh và hành động dũng cảm là Tulkas, người có tên là Astaldo, Người dũng cảm. Ông đến cuối cùng ở Arda, để hỗ trợ Valar trong trận chiến đầu tiên với Melkor. Ông thích đấu vật và thi đấu sức mạnh; và ông không cưỡi ngựa, vì ông có thể chạy nhanh hơn tất cả những thứ đi bằng chân, và ông không mệt mỏi. Tóc và râu vàng óng, da thịt hồng hào; vũ khí của ông là đôi tay của ông. Ông ít quan tâm đến quá khứ hay tương lai, và không có ích gì với tư cách là một cố vấn, nhưng là một người bạn tốt bụng. – “Trái Đất là con gái và vợ của ông; trên bà, ông sinh ra đứa con trai đầu lòng, đó là Ása-Thor: sức mạnh và sức mạnh luôn theo đuổi ông, nhờ đó ông có thể vượt qua mọi sinh vật.” trong văn xuôi Edda
-- Trong bảy giờ, vẻ huy hoàng của mỗi cái cây tràn đầy rồi lại tàn lụi; và mỗi người tỉnh dậy một lần nữa một giờ trước khi người kia ngừng tỏa sáng. Như vậy cứ mỗi ngày Valinor hai lần lại có một giờ ánh sáng dịu nhẹ hơn khi cả hai cái cây đều mờ nhạt và những chùm tia vàng và bạc của chúng hòa quyện vào nhau. Telperion là trưởng lão của cây cối và trưởng thành đầu tiên và nở hoa; và giờ đầu tiên mà ông tỏa sáng, ánh sáng trắng lấp lánh của buổi bình minh màu bạc, Valar không tính vào câu chuyện về giờ mà đặt tên là Giờ khai mạc, và từ đó tính niên đại trị vì của họ vào Valinor. Vì vậy, vào giờ thứ sáu của Ngày đầu tiên, và trong tất cả những ngày vui vẻ sau đó, cho đến khi Bóng tối của Valinor, Telperion đã ngừng thời kỳ nở hoa của mình; và vào giờ thứ mười hai Laurelin bà nở hoa. Và mỗi ngày của Valar trong Aman kéo dài mười hai giờ và kết thúc bằng lần hòa trộn ánh sáng thứ hai, trong đó Laurelin đang suy yếu nhưng Telperion đang lớn dần. – “Nörfi hay Narfi là tên của một người khổng lồ sống ở Jötunheim: ông có một cô con gái tên là Night; bà có làn da ngăm đen và ngăm đen, phù hợp với chủng tộc của bà. Cô được trao cho người đàn ông tên là Naglfari; con trai của họ là Audr. Sau đó cô được gả cho một người tên là Annarr; Jörd\[1\] là con gái của họ. Cuối cùng, Dayspring đã có được bà, và ông thuộc chủng tộc Æsir; con trai của họ là Day: cậu ấy rạng rỡ và xinh đẹp giống cha mình. Sau đó, Allfather lấy Night và Day con trai của bà, trao cho họ hai con ngựa và hai cỗ xe, rồi gửi chúng lên thiên đường, để cưỡi quanh trái đất cứ hai nửa ngày một lần. Đêm trước cưỡi ngựa với con ngựa tên là Frosty-Mane, và vào mỗi buổi sáng, nó rải bọt từ hàm của mình xuống đất. Con ngựa mà Day có tên là Sheen-Mane, và nó chiếu sáng tất cả không khí và trái đất từ chiếc bờm của mình." trong Prose Edda
+- Sảnh của họ nằm phía trên lớp tuyết vĩnh cửu, trên Oiolossë, tòa tháp cao nhất của Taniquetil, cao nhất trong tất cả các ngọn núi trên Trái đất. Khi Manwë ngự lên ngai vàng và nhìn ra phía trước, nếu Varda ở bên cạnh, ông ta có thể nhìn xa hơn tất cả những con mắt khác, xuyên qua sương mù, xuyên qua bóng tối và hàng dặm biển. – “Có một nơi ở tên là Hlidskjálf, và khi Allfather ngồi trên chiếc ghế cao ở đó, ông ấy đã nhìn ra toàn thế giới và nhìn thấy hành động của mọi người, đồng thời biết tất cả những điều ông ấy nhìn thấy.” trong văn xuôi Edda
+- Người vĩ đại nhất về sức mạnh và hành động dũng cảm là Tulkas, người có tên là Astaldo, Người dũng cảm. Ông đến cuối cùng ở Arda, để hỗ trợ Valar trong trận chiến đầu tiên với Melkor. Ông ta thích đấu vật và thi đấu sức mạnh; và ông ta không cưỡi ngựa, vì ông ta có thể chạy nhanh hơn tất cả những thứ đi bằng chân, và ông ta không mệt mỏi. Tóc và râu vàng óng, da thịt hồng hào; vũ khí của ông là đôi tay của ông. Ông ít quan tâm đến quá khứ hay tương lai, và không có ích gì với tư cách là một cố vấn, nhưng là một người bạn tốt bụng. – “Trái Đất là con gái và vợ của ông; trên bà, ông sinh ra đứa con trai đầu lòng, đó là Ása-Thor: sức mạnh và sức mạnh luôn theo đuổi ông, nhờ đó ông có thể vượt qua mọi sinh vật.” trong văn xuôi Edda
+- Trong bảy giờ, vẻ huy hoàng của mỗi cái cây tràn đầy rồi lại tàn lụi; và mỗi người tỉnh dậy một lần nữa một giờ trước khi người kia ngừng tỏa sáng. Như vậy cứ mỗi ngày Valinor hai lần lại có một giờ ánh sáng dịu nhẹ hơn khi cả hai cái cây đều mờ nhạt và những chùm tia vàng và bạc của chúng hòa quyện vào nhau. Telperion là trưởng lão của cây cối và trưởng thành đầu tiên và nở hoa; và giờ đầu tiên mà ông tỏa sáng, ánh sáng trắng lấp lánh của buổi bình minh màu bạc, Valar không tính vào câu chuyện về giờ mà đặt tên là Giờ khai mạc, và từ đó tính niên đại trị vì của họ vào Valinor. Vì vậy, vào giờ thứ sáu của Ngày đầu tiên, và trong tất cả những ngày vui vẻ sau đó, cho đến khi Bóng tối của Valinor, Telperion đã ngừng thời kỳ nở hoa của mình; và vào giờ thứ mười hai Laurelin bà nở hoa. Và mỗi ngày của Valar trong Aman kéo dài mười hai giờ và kết thúc bằng lần hòa trộn ánh sáng thứ hai, trong đó Laurelin đang suy yếu nhưng Telperion đang lớn dần. – “Nörfi hay Narfi là tên của một người khổng lồ sống ở Jötunheim: ông ta có một cô con gái tên là Night; bà có làn da ngăm đen và ngăm đen, phù hợp với chủng tộc của bà. Cô được trao cho người đàn ông tên là Naglfari; con trai của họ là Audr. Sau đó cô được gả cho một người tên là Annarr; Jörd\[1\] là con gái của họ. Cuối cùng, Dayspring đã có được bà, và ông thuộc chủng tộc Æsir; con trai của họ là Day: cậu ấy rạng rỡ và xinh đẹp giống cha mình. Sau đó, Allfather lấy Night và Day con trai của bà, trao cho họ hai con ngựa và hai cỗ xe, rồi gửi chúng lên thiên đường, để cưỡi quanh trái đất cứ hai nửa ngày một lần. Đêm trước cưỡi ngựa với con ngựa tên là Frosty-Mane, và vào mỗi buổi sáng, nó rải bọt từ hàm của mình xuống đất. Con ngựa mà Day có tên là Sheen-Mane, và nó chiếu sáng tất cả không khí và trái đất từ chiếc bờm của mình." trong Prose Edda
 - Mặt Trăng và mặt trời – “Một người đàn ông nọ tên là Mundilfari, có hai con; họ thật công bằng và duyên dáng đến nỗi ông đã gọi con trai mình là Mặt Trăng và con gái mình là Mặt Trời, rồi gả bà cho người đàn ông tên là Glenr. Nhưng các vị thần đã vô cùng phẫn nộ trước sự xấc xược đó nên đã bắt hai anh em và đưa họ lên thiên đường; họ đã khiến Mặt Trời lái những con ngựa kéo cỗ xe của mặt trời mà các vị thần đã tạo ra để chiếu sáng thế giới, từ thứ phát sáng đó bay ra khỏi Múspellheim. Những con ngựa đó được gọi như vậy: Thức dậy sớm và Toàn năng; và dưới vai ngựa các vị thần đặt hai túi gió để làm mát chúng, nhưng trong một số ghi chép thì nó được gọi là 'mát sắt'. Mặt Trăng điều khiển hướng đi của mặt trăng và quyết định sự lớn và suy yếu của nó.”
-- Nhưng Tilion là người ương ngạnh và không chắc chắn về tốc độ, không đi theo con đường đã định; và anh tìm cách đến gần Arien, bị thu hút bởi vẻ đẹp lộng lẫy của cô, mặc dù ngọn lửa Anar thiêu đốt anh, và hòn đảo Mặt Trăng chìm trong bóng tối. - “Không có gì ngạc nhiên khi bà lao tới một cách giận dữ: kẻ đang tìm kiếm bà đến gần, và bà không còn lối thoát nào ngoài việc bỏ chạy.” Sau đó Gangleri nói: "Ai là người khiến bà lo lắng như vậy?" Hárr đáp: “Đó là hai con sói; và người chạy theo bà tên là Skoll; cô sợ anh, và anh sẽ lấy cô. Nhưng người nhảy trước bà được gọi là Hati Hródvitnisson. Ông háo hức chiếm lấy mặt trăng; và nó phải như vậy." trong văn xuôi Edda
-- Draugluin, carcharoth – “Có câu nói như sau: từ cuộc đua này sẽ xuất hiện một kẻ mạnh nhất, kẻ được đặt tên là Mặt Trăng-Chó săn; Ông sẽ chứa đầy thịt của tất cả những người chết, và ông sẽ nuốt chửng mặt trăng, và rắc máu lên trời và tất cả hang ổ; vì điều đó - mặt trời sẽ mất đi sự chiếu sáng, và những cơn gió trong ngày đó sẽ không yên và gầm thét tứ phía.” trong văn xuôi Edda
+- Nhưng Tilion là người ương ngạnh và không chắc chắn về tốc độ, không đi theo con đường đã định; và anh tìm cách đến gần Arien, bị thu hút bởi vẻ đẹp lộng lẫy của cô, mặc dù ngọn lửa Anar thiêu đốt anh, và hòn đảo Mặt Trăng chìm trong bóng tối. - “Không có gì ngạc nhiên khi bà lao tới một cách giận dữ: kẻ đang tìm kiếm bà đến gần, và bà không còn lối thoát nào ngoài việc bỏ chạy.” Sau đó Gangleri nói: "Ai là người khiến bà lo lắng như vậy?" Hárr đáp: “Đó là hai con sói; và người chạy theo bà tên là Skoll; cô sợ anh, và anh sẽ lấy cô. Nhưng người nhảy trước bà được gọi là Hati Hródvitnisson. Ông ta háo hức chiếm lấy mặt trăng; và nó phải như vậy." trong văn xuôi Edda
+- Draugluin, carcharoth – “Có câu nói như sau: từ cuộc đua này sẽ xuất hiện một kẻ mạnh nhất, kẻ được đặt tên là Mặt Trăng-Chó săn; Ông ta sẽ chứa đầy thịt của tất cả những người chết, và ông ta sẽ nuốt chửng mặt trăng, và rắc máu lên trời và tất cả hang ổ; vì điều đó - mặt trời sẽ mất đi sự chiếu sáng, và những cơn gió trong ngày đó sẽ không yên và gầm thét tứ phía.” trong văn xuôi Edda
 - Con đường thẳng - Bifröst trong Prose Edda
 - Người Lùn – người lùn trong văn xuôi Edda:
     - Tiếp theo sau đó, các vị thần ngự trên ghế của mình và phán xét, đồng thời nhớ lại nơi mà những người lùn đã sinh sôi trong khuôn và bên dưới lòng đất, thậm chí giống như những con giòi trong xác thịt. Những người lùn lần đầu tiên nhận được hình dạng và sự sống trong xác thịt của Ymir, sau đó trở thành những con giòi; nhưng theo sắc lệnh của các vị thần đã trở nên có ý thức với trí thông minh của con người và có hình dạng con người. Tuy nhiên, họ sống trong đất và trong đá.
@@ -309,7 +309,7 @@ Cô bắt đầu vuốt ve mái tóc dày của mình một cách chậm rãi, s
 - Hobbit – RC trang. 3, 5, 8
 - Hobbit – người lùn
 - Bullroarer (tên) – danh pháp
-- Sử dụng Beowulf trong "The Vua của Đại Sảnh Vàng"
+- Sử dụng Beowulf trong "The Vua của Sảnh Vàng"
 - Tolkien tại Vùng đất Arthur: Tập Khu Rừng Cổ
 - <a class="external free" href="http://www.travellady.com/Issues/Issue64/64E-hobbits.htm" rel="noreferrer noopener" target="_blank">http://www.travellady.com/Issues/Issue64/64E-hobbits.htm</a>
 - <a class="external free" href="http://pourtolkien.free.fr/jardillierArthur.html" rel="noreferrer noopener" target="_blank">http://pourtolkien.free.fr/jardillierArthur.html</a>
@@ -353,10 +353,10 @@ Bản thân - Tolkien nói về Elrond như một câu chuyện ngụ ngôn về
                                                     Letters, 235 (#181) 
 </pre>
 
-<ul><li>Shire – RC trang. 23, thung lũng sườn núi?</li>
-<li>Nhưng không có gì nguy hiểm hơn Cây liễu lớn: trái tim anh đã mục nát, nhưng sức mạnh của anh vẫn xanh; và ông là người xảo quyệt, và là bậc thầy về gió – gió trong rặng liễu</li>
-<li>Nhưng tôi cho rằng trên thực tế, Quendi trong những lịch sử này rất ít giống với Tiên tộc và các Nàng tiên của Châu Âu; và nếu buộc phải hợp lý hóa, tôi nên nói rằng họ thực sự đại diện cho Con Người khả năng thẩm mỹ và sáng tạo được nâng cao đáng kể, vẻ đẹp cao hơn, tuổi thọ cao hơn và sự cao quý – Những đứa con lớn tuổi, phải tàn lụi trước những Người theo sau (Con Người), và cuối cùng chỉ sống bằng dòng máu mỏng manh hòa quyện với dòng máu của Con Người, trong số đó, họ là thực sự duy nhất được coi là 'quý tộc'.</li>
-<li>Orc (theo như tôi nghĩ thì từ này thực ra có nguồn gốc từ tiếng Anh cổ orc 'quỷ', nhưng chỉ vì sự phù hợp về mặt ngữ âm của nó) không có nơi nào được nêu rõ ràng là có nguồn gốc cụ thể nào. Nhưng vì họ là đầy tớ của Thế lực Hắc ám, và sau này là của Sauron, cả hai đều không thể hoặc sẽ tạo ra sinh vật sống, nên họ phải là 'sự tham nhũng'. Chúng không dựa trên kinh nghiệm trực tiếp của tôi; nhưng tôi cho rằng, nợ rất nhiều với truyền thống yêu tinh (yêu tinh được dùng làm bản dịch trong The Hobbit, nơi mà tôi nghĩ rằng orc chỉ xuất hiện một lần), đặc biệt là khi nó xuất hiện trong George MacDonald, ngoại trừ đôi chân mềm mại mà tôi chưa bao giờ tin vào.</li>
+<ul><li>Shire – RC pg. 23, ribble valley?</li>
+<li>But none were more dangerous than the Great Willow: his heart was rotten, but his strength was green; and he was cunning, and a master of winds – wind in the willows</li>
+<li>But I suppose that the Quendi are in fact in these histories very little akin to the Elves and Fairies of Europe; and if I were pressed to rationalize, I should say that they represent really Men with greatly enhanced aesthetic and creative faculties, greater beauty and longer life, and nobility – the Elder Children, doomed to fade before the Followers (Men), and to live ultimately only by the thin line of their blood that was mingled with that of Men, among whom it was the only real claim to &#39;nobility&#39;.</li>
+<li>Orcs (the word is as far as I am concerned actually derived from Old English orc &#39;demon&#39;, but only because of its phonetic suitability) are nowhere clearly stated to be of any particular origin. But since they are servants of the Dark Power, and later of Sauron, neither of whom could, or would, produce living things, they must be &#39;corruptions&#39;. They are not based on direct experience of mine; but owe, I suppose, a good deal to the goblin tradition (goblin is used as a translation in The Hobbit, where orc only occurs once, I think), especially as it appears in George MacDonald, except for the soft feet which I never believed in.</li>
 <li>Westernesse – Rc pg. 16</li>
 <li>Bree, chetwood – RC pg.16</li>
 <li>Gondor – RC pg. 17-18</li>
@@ -366,109 +366,109 @@ Bản thân - Tolkien nói về Elrond như một câu chuyện ngụ ngôn về
 <li>Thain – RC pg. 21</li>
 <li>Sullong – RC pg. 23</li>
 <li>Orcs –RC pg. 24-26</li>
-<li>Michel đào sâu (tên) – RC pg. 26</li>
-<li>Mathom (tên) – RC trang. 26</li>
+<li>Michel delving (name) – RC pg. 26</li>
+<li>Mathom (name) – RC pg. 26</li>
 <li>Smial – RC pg. 27</li>
-<li>Mụn trắng – RC trang. 28</li>
-<li>Tháng Ba (tên) – RC trang. 28</li>
-<li>“người ta có thể nhìn thấy Biển từ đỉnh tòa tháp đó” – RC pg. 28-29</li>
-<li>”được lợp bằng cỏ khô hoặc rơm rạ, hoặc lợp bằng mái tôn” – RC pg. 29</li>
-<li>Brandybuck (tên) – RC trang. 29</li>
-<li>Oldbuck (tên) – RC trang. 29</li>
+<li>White downs – RC pg. 28</li>
+<li>March (name) – RC pg. 28</li>
+<li>“one could see the Sea from the top of that tower” – RC pg. 28-29</li>
+<li>”thatched with dry grass or straw, or roofed with turves” – RC pg. 29</li>
+<li>Brandybuck (name) – RC pg. 29</li>
+<li>Oldbuck (name) – RC pg. 29</li>
 <li>Herblore – RC pg. 30</li>
-<li>Tobold (tên) – thuốc lá</li>
+<li>Tobold (name) – tobacco</li>
 <li>Hornblower – RC pg. 31, 760</li>
 <li>Isengrim – RC pg. 31</li>
-<li>Ngựa chồm (tên) – RC pg. 31</li>
-<li>Ngựa chồm lên - <a class="external free" href="http://www.thepublican.com/story.asp?sectioncode=7&amp;storycode=53323" rel="noreferrer noopener" target="_blank">http://www.thepublican.com/story.asp?sectioncode=7&amp;storycode=53323</a></li>
+<li>Prancing pony (name) – RC pg. 31</li>
+<li>Prancing pony - <a class="external free" href="http://www.thepublican.com/story.asp?sectioncode=7&amp;storycode=53323" rel="noreferrer noopener" target="_blank">http://www.thepublican.com/story.asp?sectioncode=7&amp;storycode=53323</a></li>
 <li>Farthing – RC pg. 32</li>
-<li>Boffin (tên) – RC trang. 33</li>
-<li>Norbury (tên) – RC trang. 33</li>
+<li>Boffin (name) – RC pg. 33</li>
+<li>Norbury (name) – RC pg. 33</li>
 <li>Shire-moot – RC pg. 34</li>
-<li>Shirriff (tên) – RC pg. 35</li>
-<li>§51 Barnabas [đã thêm: không] là một ngoại lệ. Barnabas Butterbur là Người của Bree, không phải hobbit. Tôi đặt cho ông cái tên này vì nhiều lý do. Trước hết là chuyện cá nhân. Trên một phiến đá cũ màu xám trong một sân nhà thờ yên tĩnh ở miền nam nước Anh, tôi đã từng nhìn thấy những dòng chữ lớn tên Barnabas Butter. Chuyện đó đã lâu rồi và trước khi tôi nhìn thấy Sách Đỏ, nhưng cái tên đó đã quay trở lại với tôi khi nhân vật chủ quán trọ mập mạp của Bree hiện ra với tôi trong hồ sơ của Frodo. Càng đúng hơn vì tên của ông, phù hợp với loại tên thực vật thường được ưa chuộng trong Bree, thực ra là Butterburr, hoặc trong C.S. Zilbarāpha [&gt; Zilbirāpha]. Thật không may, Barnabas chỉ có một chút tương đồng về mặt ngữ âm với tên thật của chủ quán trọ: Barabatta (hoặc Batti). Đây là biệt danh của ông chủ quán 'The Pony' mà ông đã đặt từ lâu đến nỗi nếu ông có một cái tên nào khác thì cũng bị quên mất: nó có nghĩa là 'kẻ nói nhanh hoặc người lảm nhảm'. Tuy nhiên, khi chuyển đổi Batti Zilbarāpha [&gt; Zilbirāpha] thành Barney Butterbur, tôi không nghĩ mình đã bất công.</li>
+<li>Shirriff (name) – RC pg. 35</li>
+<li>§51 Barnabas is [added: not] an exception. Barnabas Butterbur was a Man of Bree, not a hobbit. I gave him this name for various reasons. First of all a personal one. On an old grey stone in a quiet churchyard in southern England I once saw in large letters the name Barnabas Butter. That was long ago and before I had seen the Red Book, but the name came back to me when the character of the stout innkeeper of Bree was presented to me in Frodo&#39;s record. The more so because his name, in agreement with the generally botanical type of name favoured in Bree, was actually Butterburr, or in the C.S. Zilbarāpha [&gt; Zilbirāpha]. Barnabas has unfortunately only a very slight phonetic similarity to the real first-name of the innkeeper: Barabatta (or Batti). This was the nickname of the landlord of &#39;The Pony&#39; which he had borne so long that if he ever had another given-name it had been forgotten: it means &#39;quick-talker or babbler&#39;. Still, in converting Batti Zilbarāpha [&gt; Zilbirāpha] into Barney Butterbur I do not think I have been unjust.</li>
 <li>Gondor – Gondwanaland?</li>
 <li>Númenor – iceland?</li>
-<li>“chỉ có một chiếc lông vũ trên mũ của họ” – RC pg. 35</li>
+<li>“only a feather in their caps” – RC pg. 35</li>
 <li>Bounders – RC pg. 35-36</li>
-<li>Gandalf (tên) – RC trang. 36</li>
-<li>Thorin (tên) – RC trang. 36</li>
+<li>Gandalf (name) – RC pg. 36</li>
+<li>Thorin (name) – RC pg. 36</li>
 <li>Samwise – RC pg. 39</li>
-<li>Sổ đỏ gốc chưa bảo quản – RC pg. 41</li>
-<li>Meriadoc, peregrin, pippin (tên) – RC pg. 42</li>
-<li>Númenor (tên) – RC trang. 42</li>
-<li>Sauron (tên) – RC trang. 43</li>
-<li>Este – nghỉ ngơi?</li>
-<li>Một bữa tiệc được mong đợi từ lâu – RC pg. 52</li>
-<li>Baggins, đầu túi – AH p. 30-31, HotH tr. 45-46</li>
-<li>đầu túi, đầu túi (tên) - AH p. 29</li>
-<li>baggins (tên), cuối bao (tên) - HotH p. 45, cóc cóc đường</li>
+<li>The original red book has not been preserved – RC pg. 41</li>
+<li>Meriadoc, peregrin, pippin (names) – RC pg. 42</li>
+<li>Númenor (name) – RC pg. 42</li>
+<li>Sauron (name) – RC pg. 43</li>
+<li>Este – rest?</li>
+<li>A long expected party – RC pg. 52</li>
+<li>Baggins, bag end – AH p. 30-31, HotH p. 45-46</li>
+<li>bag end, bag end (name) - AH p. 29</li>
+<li>baggins (name), bag end (name) - HotH p. 45, toad of toad hall</li>
 <li>Eleventy-first – RC pg. 52</li>
 <li>The Hill – RC pg. 52</li>
 <li>Sackville – RC pg. 53</li>
 <li>Sackville-baggins – RC p. 762</li>
 <li>Tweens – RC pg. 54</li>
-<li>Gerontius, cũ đã lấy – RC pg. 54, AH tr. 34</li>
+<li>Gerontius, old took – RC pg. 54, AH p. 34</li>
 <li>Hamfast – RC pg. 55</li>
 <li>Gamgee – RC pg. 55</li>
 <li>Holman – RC pg. 56</li>
 <li>Bagshot row – RC pg. 56</li>
 <li>Noakes – RC pg. 57</li>
 <li>Buckland – RC pg. 57-58</li>
-<li>Hobbit phát biểu – RC 58-59</li>
+<li>Hobbit speech – RC 58-59</li>
 <li>Gorbadoc – RC pg. 59</li>
 <li>Miller – RC pg. 60</li>
 <li>Warren – RC pg. 60</li>
 <li>Gandalf – RC pg. 61-62, AH p. 36-39</li>
 <li>bladorthin (proto-gandalf) - HotH p. 51</li>
 <li>Shire – RC pg. 64</li>
-<li>Pháo hoa của Gandalf– RC pg. 65 ?</li>
-<li>Took, grubb, chubb, burrows, bolger, Bracegirdle, brockhouse, goodbody, người thổi sừng, chân kiêu hãnh – RC pg. 66</li>
-<li>bolger (tên) - HotH1 p. xiv?</li>
+<li>Gandalf’s fireworks – RC pg. 65 ?</li>
+<li>Took, grubb, chubb, burrows, bolger, Bracegirdle, brockhouse, goodbody, hornblower, proudfoot – RC pg. 66</li>
+<li>bolger (name) - HotH1 p. xiv ?</li>
 <li>Crackers – RC pg. 68</li>
 <li>Springle-ring – RC pg. 68</li>
-<li>Núi mù sương – RC trang. 70</li>
-<li>Con đường vẫn tiếp tục – RC pg. 71</li>
-<li>Saruman (tên) – RC p. 81</li>
-<li>Sauron thực hành trao nhẫn – RC p. 84</li>
-<li>Một chiếc nhẫn – RC p. 38, 85, 88-89, Chiếc nhẫn ma thuật <a class="external free" href="http://www.valancourtbooks.com/themagicring.html" rel="noreferrer noopener" target="_blank">http://www.valancourtbooks.com/themagicring.html</a>, HotH p. 48</li>
+<li>Misty mountains – RC pg. 70</li>
+<li>The road goes ever on – RC pg. 71</li>
+<li>Saruman (name) – RC p. 81</li>
+<li>Sauron’s practice of giving rings – RC p. 84</li>
+<li>One ring – RC p. 38, 85, 88-89, The Magic Ring <a class="external free" href="http://www.valancourtbooks.com/themagicring.html" rel="noreferrer noopener" target="_blank">http://www.valancourtbooks.com/themagicring.html</a>, HotH p. 48</li>
 <li>Smeagol, deagol – RC p. 86</li>
-<li>Đất nước da đen – <a class="external free" href="http://en.wikipedia.org/wiki/Black_Country" rel="noreferrer noopener" target="_blank">http://en.wikipedia.org/wiki/Black_Country</a></li>
+<li>Black country – <a class="external free" href="http://en.wikipedia.org/wiki/Black_Country" rel="noreferrer noopener" target="_blank">http://en.wikipedia.org/wiki/Black_Country</a></li>
 <li>Bounders – rc pg. 753-754</li>
 <li>Buckland – rc pg. 754</li>
 <li>Bracegirdle – rc pg. 754</li>
 <li>brandybuck – rc pg. 754</li>
 <li>chubb – rc pg. 755</li>
-<li>corsairs – RC trang. 755</li>
-<li>bông – RC trang. 755</li>
+<li>corsairs – rc pg. 755</li>
+<li>cotton – rc pg. 755</li>
 <li><a class="external free" href="http://www.jitterbug.com/origins/lotr.html" rel="noreferrer noopener" target="_blank">http://www.jitterbug.com/origins/lotr.html</a></li>
-<li>tuor làm nô lệ – kullervo làm nô lệ</li>
+<li>tuor as a slave – kullervo as a slave</li>
 <li>entwives –
-<ul><li>Con gái mùa hè, thiếu nữ phép thuật,</li>
-<li>Mẹ rừng phương Nam,</li>
-<li>Con gái cây thông, Kateyatar,</li>
+<ul><li>Summer-daughter, magic maiden,</li>
+<li>Southern mother of the woodlands,</li>
+<li>Pine-tree daughter, Kateyatar,</li>
 <li>Pihlayatar, of the aspen,</li>
-<li>Alder-maiden, con gái của Tapio,</li>
+<li>Alder-maiden, Tapio&#39;s daughter,</li>
 <li>Daughter of the glen, Millikki,</li>
 <li>And the mountain-maid, Tellervo,</li>
-<li>Trong bầy đàn của tôi, hãy là những người bảo vệ,</li>
-<li>ở Kalevala</li></ul></li>
+<li>Of my herds be ye protectors,</li>
+<li>In kalevala</li></ul></li>
 <li>Goldberry –
-<ul><li>Hãy trỗi dậy hỡi trinh nữ của thung lũng,</li>
-<li>Từ những dòng suối phát sinh vẻ đẹp,</li>
-<li>Hãy trỗi dậy hỡi thiếu nữ của đài phun nước,</li>
-<li>Đẹp, phát sinh trong ether,</li>
-<li>ở Kalevala</li></ul></li>
+<ul><li>Rise thou virgin of the valley,</li>
+<li>From the springs arise in beauty,</li>
+<li>Rise thou maiden of the fountain,</li>
+<li>Beautiful, arise in ether,</li>
+<li>In kalevala</li></ul></li>
 <li>Treebeard –
-<ul><li>Knippana [Kuippana], O Vua rừng,</li>
-<li>Hỡi người râu xám của rừng cây,</li>
-<li>Hãy canh chừng những con chó của bạn trong fen và bỏ hoang,</li>
-<li>ở Kalevala</li></ul></li>
-<li>Những con chó của Maggot –
-<ul><li>Chỉ để dành một ít bắp cải,</li>
+<ul><li>Knippana [Kuippana], O King of forests,</li>
+<li>Thou the gray-beard of the woodlands,</li>
+<li>Watch thy dogs in fen and fallow,</li>
+<li>In kalevala</li></ul></li>
+<li>Maggot’s dogs –
+<ul><li>Only laid aside some cabbage,</li>
 <li>For the herdsman, Kullerwoinen;</li>
-<li>Hãy tách rời một số mảnh vụn lãng phí,</li>
-<li>Những con chó bỏ đi trong bữa tối,</li>
+<li>Set apart some wasted fragments,</li>
+<li>Leavings of the dogs at dinner,</li>
 <li class="mw-empty-elt"></li>
 <li>Silloin Ilmarin emäntä, paimenen pajattaessa,</li>
 <li>Kullervoisen kukkuessa, jo oli vuollut voivatinsa,</li>
@@ -476,64 +476,64 @@ Bản thân - Tolkien nói về Elrond như một câu chuyện ngụ ngôn về
 <li>keittänyt vetisen vellin, kylmän kaalin Kullervolle,</li>
 <li>jos&#39; oli rakki rasvan syönyt, <b>Musti</b> murkinan pitänyt,</li>
 <li><b>Merkki</b> syönyt mielin määrin, <b>Halli</b> haukannut halunsa.</li>
-<li>ở Kalevala</li></ul></li>
+<li>In kalevala</li></ul></li>
 <li>Entwives – Eurydice ?</li>
-<li>Ent hành quân trên Isengard – rừng birnam tới đồi dunsinane</li>
-<li>Loạn luân của túrin và nienor – loạn luân của kullervo và con gái của Kalervo ở Kalevala</li>
-<li>Nienor và lalaith – hai chị em của kullervo ở Kalevala</li>
-<li>Cái chết của Lalaith – cái chết của hầu hết họ hàng của Kullervo ở Kalevala</li>
-<li>đi ra ngoài giơ tay về phía Bắc, kêu lên: "Marrer của Trung Địa, ước gì tôi có thể nhìn thấy ngươi mặt đối mặt, và giết ngươi như chúa tể Fingolfin của tôi đã làm!" -
-<ul><li>Đây là những lời của Kullerwoinen:</li>
-<li>Đợi đã, phải đợi đã, Untamoinen,</li>
-<li>Ngươi là kẻ hủy diệt dân ta;</li>
-<li>Khi tôi gặp bạn trong trận chiến,</li>
-<li>Ta sẽ giết ngươi và đồng loại của ngươi,</li>
-<li>Ta sẽ đốt nhà của ngươi thành tro bụi!”</li></ul></li>
-<li>Vụ tự tử của nienor – vụ tự sát của chị gái Kullervo ở Kalevala</li>
-<li>Gurthang – thanh kiếm của kullervo ở kalevala</li>
-<li>Tự sát túrin – tự sát của kullervo ở Kalevala</li>
-<li>"Mưa đá Gurthang, sắt chết chóc, giờ chỉ còn lại một mình ngươi! Nhưng ngươi biết chúa tể hay lòng trung thành nào, ngoại trừ bàn tay đang nắm giữ ngươi? Không có máu, ngươi sẽ co lại! Ngươi có lấy Túrin Turambar không? Ngươi có giết ta nhanh chóng không?" - các từ tương ứng trong bản dịch Kalevala của W.F. Kirby</li>
+<li>Ents marching on isengard – birnam wood to dunsinane hill</li>
+<li>Incest of túrin and nienor – incest of kullervo and kalervo’s daughter in kalevala</li>
+<li>Nienor and lalaith – the two sisters of kullervo in kalevala</li>
+<li>Death of lalaith – death of most of kullervo’s kin in kalevala</li>
+<li>going out he lifted up his hand towards the North, crying: &#34;Marrer of Middle-earth, would that I might see thee face to face, and mar thee as my lord Fingolfin did!&#34; -
+<ul><li>These the words of Kullerwoinen:</li>
+<li>Wait, yea wait, thou Untamoinen,</li>
+<li>Thou destroyer of my people;</li>
+<li>When I meet thee in the combat,</li>
+<li>I will slay thee and thy kindred,</li>
+<li>I will burn thy homes to ashes!&#34;</li></ul></li>
+<li>Suicide of nienor – suicide of kullervo’s sister in kalevala</li>
+<li>Gurthang – kullervo’s sword in kalevala</li>
+<li>Suicide of túrin – suicide of kullervo in kalevala</li>
+<li>&#34;Hail Gurthang, iron of death, thou alone now remainest! But what lord or loy-alty dost thou know, save the hand that wieldeth thee? From no blood wilt thou shrink! Wilt thou take Túrin Turambar? Wilt thou slay me swiftly?&#34; - corresponding words in W.F. Kirby&#39;s Kalevala translation</li>
 <li><a class="external free" href="http://web.archive.org/web/20060108125654/http://www.scandga.org/Insights/2001-02+Winter/Tolkien.htm" rel="noreferrer noopener" target="_blank">http://web.archive.org/web/20060108125654/http://www.scandga.org/Insights/2001-02+Winter/Tolkien.htm</a></li>
-<li>hegel và tolkien - <a class="external free" href="http://www.lotrplaza.com/forum/display_topic_threads.asp?ForumID=49&amp;TopicID=194948&amp;PagePosition=1&amp;PagePostPosition=1" rel="noreferrer noopener" target="_blank">http://www.lotrplaza.com/forum/display_topic_threads.asp?ForumID=49&amp;TopicID=194948&amp;PagePosition=1&amp;PagePostPosition=1</a></li>
-<li>nazgul - điều đáng chú ý là nasc là từ chỉ 'chiếc nhẫn' trong tiếng Gaelic [Ailen; trong tiếng Scotland thường được viết là nasg]... Tôi không hề thích *Gaelic từ tiếng Ireland cổ trở xuống, như một ngôn ngữ, nhưng tất nhiên nó có mối quan tâm lớn về mặt lịch sử và ngữ văn, và đôi khi tôi đã nghiên cứu nó [Với than ôi! rất ít thành công] ?</li>
+<li>hegel and tolkien - <a class="external free" href="http://www.lotrplaza.com/forum/display_topic_threads.asp?ForumID=49&amp;TopicID=194948&amp;PagePosition=1&amp;PagePostPosition=1" rel="noreferrer noopener" target="_blank">http://www.lotrplaza.com/forum/display_topic_threads.asp?ForumID=49&amp;TopicID=194948&amp;PagePosition=1&amp;PagePostPosition=1</a></li>
+<li>nazgul - it remains remarkable that nasc is the word for &#39;ring&#39; in Gaelic [Irish; in Scottish usually written nasg]... I have no liking at all for *Gaelic from Old Irish downwards, as a language, but it is of course of great historical and philological interest, and I have at times studied it [With alas! very little success] ?</li>
 <li>annatar – finnish antaa, anna</li>
 <li>valinor - Valhalla, <a class="external free" href="http://www.lotrplaza.com/forum/forum_posts.asp?TID=217644" rel="noreferrer noopener" target="_blank">http://www.lotrplaza.com/forum/forum_posts.asp?TID=217644</a></li>
-<li>tàu arveduis - tàu lemminkäinens</li>
-<li>vàng và bạc - vàng và bạc ở Kalevala</li>
-<li>vàng, bạc, mặt trời, mặt trăng - rune 49 ở Kalevala</li>
-<li>narsil/andúril - thanh kiếm được rèn bởi ilmarinen cho väinämöinen &amp; rune 45, 46 ở kalevala</li>
-<li>mặt trăng, mặt trời, các vì sao - thanh kiếm của väinämöinen</li>
-<li>nimrodel, goldberry, ulmo - rune 40 ở Kalevala</li>
+<li>arveduis ship - lemminkäinens ship</li>
+<li>gold and silver - gold and silver in kalevala</li>
+<li>gold, silver, sun, moon - rune 49 in kalevala</li>
+<li>narsil/andúril - the sword that is forged by ilmarinen for väinämöinen &amp; rune 45, 46 in kalevala</li>
+<li>the moon, the sun, stars - väinämöinen&#39;s sword</li>
+<li>nimrodel, goldberry, ulmo - rune 40 in kalevala</li>
 <li><a class="external free" href="http://www.minastirith.com/ubb/ultimatebb.php?ubb=get_topic;f=5;t=000109;p=1#000013" rel="noreferrer noopener" target="_blank">http://www.minastirith.com/ubb/ultimatebb.php?ubb=get_topic;f=5;t=000109;p=1#000013</a></li>
-<li>đôi bốt của ông màu vàng - đôi tất màu xanh của kullervo</li>
-<li>vợ của tapio - vợ của khoai mì?</li>
-<li>ulmo - ahto ở Kalevala</li>
-<li>gandalf mở cổng moria - väinämöinen mở cổng núi pohja ở Kalevala rune 42</li>
-<li>arkenstone - sampo ở Kalevala ?</li>
-<li>một chiếc nhẫn, những chiếc nhẫn quyền lực, bụi của galadriel - sampo trong rune 42, 43 trong kalevala</li>
-<li>uinen - velamo ở cải xoăn</li>
-<li>silmaril - sampo trong rune 39 ở kavala</li>
-<li>fimbrethil - bạch dương trong rune 44 ở Kalevala ?</li>
-<li>bệnh dịch đen tối - 8 người con trai của con gái Louhis mang bệnh dịch đến väinö trong rune 45 ở Kalevala</li>
-<li>carcharoth - gấu đến Kalevala trong rune 46 ở Kalevala</li>
-<li>silmaril trong carcharoth - cá nuốt cá nuốt tia lửa từ thanh kiếm của ukko trong rune 47 ở kavala</li>
-<li>Gandalf (hoặc Frodo) rời ME - väinämöinen chèo thuyền đi trong rune 50 ở Kalevala</li>
-<li>đường thẳng - väinämöinen chèo thuyền đi bằng rune 50 ở Kalevala</li>
-<li>gandalf - väinämöinen ở cải xoăn</li>
-<li>mandos - tuoni ở cải xoăn</li>
-<li>thầmhien mang về beren từ mandos(?) - mẹ của lemminkäinen mang về lemminkäinen từ tuoni ở kavala</li>
-<li>Tiên-bạn - RC p. 756</li>
-<li>hội chợ dân gian - RC p. 757</li>
-<li>feanor - ilmarinen ở Kalevala</li>
-<li>feanor tạo ra những viên silmarils và/hoặc sauron tạo ra một chiếc nhẫn - ilmarinen tạo ra sampo ở Kalevala</li>
-<li>Tác dụng của Sampo giống như Nhẫn Chúa gây băng hoại đạo đức và chiến tranh khốc liệt.</li>
+<li>his boots were yellow - kullervo&#39;s blue socks</li>
+<li>entwife - tapio&#39;s wife ?</li>
+<li>ulmo - ahto in kalevala</li>
+<li>gandalf opening the gate of moria - väinämöinen opening the gate of pohja mountain in kalevala rune 42</li>
+<li>arkenstone - sampo in kalevala ?</li>
+<li>one ring, rings of power, galadriel&#39;s dust - sampo in rune 42, 43 in kalevala</li>
+<li>uinen - vellamo in kalevala</li>
+<li>silmaril - sampo in rune 39 in kalevala</li>
+<li>fimbrethil - birch in rune 44 in kalevala ?</li>
+<li>dark plague - 8 sons of louhis daughter bringing plague to väinö in rune 45 in kalevala</li>
+<li>carcharoth - bear coming to kalevala in rune 46 in kalevala</li>
+<li>silmaril in carcharoth - fish swallowing fish swallowing fish swallowing spark from ukko&#39;s sword in rune 47 in kalevala</li>
+<li>gandalf (or frodo) leaving ME - väinämöinen sailing away in rune 50 in kalevala</li>
+<li>straight road - väinämöinen sailing away in rune 50 in kalevala</li>
+<li>gandalf - väinämöinen in kalevala</li>
+<li>mandos - tuoni in kalevala</li>
+<li>lúthien bringing back beren from mandos(?) - lemminkäinen&#39;s mother bringing back lemminkäinen from tuoni in kalevala</li>
+<li>elf-friend - RC p. 756</li>
+<li>fair folk - RC p. 757</li>
+<li>feanor - ilmarinen in kalevala</li>
+<li>feanor creating the silmarils and/or sauron creating the one ring - ilmarinen creating sampo in kalevala</li>
+<li>The effect of the Sampo is like that of the One Ring, which causes moral corruption and fierce war.</li>
 <li><a class="external free" href="http://tolkiensarda.se/new/nummer/magsidor/art28_3.php" rel="noreferrer noopener" target="_blank">http://tolkiensarda.se/new/nummer/magsidor/art28_3.php</a></li>
 <li><a class="external free" href="http://www.theonering.net/features/notes/note8.html" rel="noreferrer noopener" target="_blank">http://www.theonering.net/features/notes/note8.html</a></li>
 <li>noldor – r from Swedish?</li>
 <li>Timpinen – finnish</li>
 <li><a class="external free" href="http://www.birmingham.gov.uk/GenerateContent?CONTENT_ITEM_ID=42452&amp;CONTENT_ITEM_TYPE=0&amp;MENU_ID=13150" rel="noreferrer noopener" target="_blank">http://www.birmingham.gov.uk/GenerateContent?CONTENT_ITEM_ID=42452&amp;CONTENT_ITEM_TYPE=0&amp;MENU_ID=13150</a></li>
 <li><a class="external free" href="http://www.birmingham.gov.uk/GenerateContent?CONTENT_ITEM_ID=2668&amp;CONTENT_ITEM_TYPE=0&amp;MENU_ID=1765" rel="noreferrer noopener" target="_blank">http://www.birmingham.gov.uk/GenerateContent?CONTENT_ITEM_ID=2668&amp;CONTENT_ITEM_TYPE=0&amp;MENU_ID=1765</a></li>
-<li>”ông quan tâm đến nguồn gốc và sự khởi đầu” – học bổng p. 30</li></ul>
+<li>”he was interested in roots and beginnings” – scholarship p. 30</li></ul>
 
 Herb-master – học bổng p. 29
 
@@ -806,13 +806,13 @@ Bài thơ Người tình của tầm nhìn của Thompson. Như đã lưu ý tr�
 
 Thư j R. R. Tolkien, trang 383 – 4)
 
-- một tham chiếu văn học tinh tế đến Vua Lear kết nối tam giác Chúa tể Nhẫn Ma, Denethor và kẻ điên Vua của Shakespeare. , còn có cả Eric Brighteyes của Haggard
+- một tham chiếu văn học tinh tế đến Vua Lear kết nối tam giác Chúa tể của Nazgûl, Denethor và kẻ điên Vua của Shakespeare. , còn có cả Eric Brighteyes của Haggard
 
 - Ông. Howard Green, Snorri-cum-Lönnrot tưởng tượng của Tolkien, là một kiểu người quen thuộc trong tiểu thuyết phiêu lưu thế kỷ 19, một biên tập viên giả tưởng xa xôi nhưng thực tế, người tạo cơ hội cho câu chuyện và xen vào những ghi chú và bình luận giải thích. H. Rider Haggard rất thích thiết bị này nên đã sử dụng nó trong She và Vua Solomon's Mines, và Tolkien đã theo bước ông.
 
-- nhưng ông phát hiện ra rằng mình đã bỏ nó lại vào túi - John D. Rateliff ghi chú trong 'She and Tolkien', Mythlore 8, không. 2, toàn bộ không. 28 (Mùa hè năm 1981) sự tương đồng giữa sự việc này trong The Lord of the Rings và một đoạn trong She and Allan của H. Rider Haggard, người mà Cô Tolkien biết và ngưỡng mộ:
+- nhưng ông ta phát hiện ra rằng mình đã bỏ nó lại vào túi - John D. Rateliff ghi chú trong 'She and Tolkien', Mythlore 8, không. 2, toàn bộ không. 28 (Mùa hè năm 1981) sự tương đồng giữa sự việc này trong The Lord of the Rings và một đoạn trong She and Allan của H. Rider Haggard, người mà Cô Tolkien biết và ngưỡng mộ:
 
-Ngoài ra còn có tiếng vang của One Ring. . . khi Allan Quatermain được trao một chiếc bùa phép thuật mà anh được cảnh báo phải giữ an toàn. Ông đeo nó trên một sợi dây chuyền quanh cổ và giấu nó dưới áo sơ mi \[như Frodo làm sau khi rời đi Rivendell\], chỉ mang ra ngoài trong những dịp hiếm hoi hoặc khi cần thiết. Ngay sau khi ông nhận được nó, một pháp sư nói với ông rằng ông sẽ không thể vứt nó đi ngay cả khi ông muốn và thách ông thử: Tôi đã thử, nhưng dường như có điều gì đó ngăn cản tôi hoàn thành mục đích trả lại bức chạm khắc cho Zikali như tôi mong muốn. Đầu tiên chiếc tẩu của tôi vướng vào tay tôi, sau đó những sợi lông voi vướng vào cổ áo khoác của tôi; rồi cơn đau nhức do bệnh thấp khớp mà tôi đã quen từ một vết thương cũ, đột nhiên phát triển ở cánh tay trái của tôi, và cuối cùng tôi cảm thấy mệt mỏi khi phải bận tâm đến chuyện đó, \[p. 7, Trích dẫn Haggard từ Chương 1\]
+Ngoài ra còn có tiếng vang của One Ring. . . khi Allan Quatermain được trao một chiếc bùa phép thuật mà anh được cảnh báo phải giữ an toàn. Ông đeo nó trên một sợi dây chuyền quanh cổ và giấu nó dưới áo sơ mi \[như Frodo làm sau khi rời đi Rivendell\], chỉ mang ra ngoài trong những dịp hiếm hoi hoặc khi cần thiết. Ngay sau khi ông ta nhận được nó, một pháp sư nói với ông ta rằng ông ta sẽ không thể vứt nó đi ngay cả khi ông ta muốn và thách ông ta thử: Tôi đã thử, nhưng dường như có điều gì đó ngăn cản tôi hoàn thành mục đích trả lại bức chạm khắc cho Zikali như tôi mong muốn. Đầu tiên chiếc tẩu của tôi vướng vào tay tôi, sau đó những sợi lông voi vướng vào cổ áo khoác của tôi; rồi cơn đau nhức do bệnh thấp khớp mà tôi đã quen từ một vết thương cũ, đột nhiên phát triển ở cánh tay trái của tôi, và cuối cùng tôi cảm thấy mệt mỏi khi phải bận tâm đến chuyện đó, \[p. 7, Trích dẫn Haggard từ Chương 1\]
 
 <br>
 
@@ -825,14 +825,14 @@ Chưa bao giờ tôi thấy cảnh tượng nào thê lương và buồn bã hơ
 
 Bà càng ngày càng nhỏ đi cho đến khi không lớn hơn một con khỉ. Giờ đây làn da đã nhăn nheo thành hàng triệu nếp nhăn, và trên khuôn mặt không có hình thù gì là dấu ấn của tuổi tác không thể diễn tả được... chưa ai từng nhìn thấy thứ gì giống như tuổi tác đáng sợ được khắc trên khuôn mặt đáng sợ đó, bây giờ không lớn hơn khuôn mặt của một đứa trẻ hai tháng tuổi, mặc dù hộp sọ vẫn giữ nguyên kích thước, hoặc gần như vậy. ... Tôi cầm chiếc váy và chiếc khăn mỏng của Ayesha lên... và quay đầu đi để không nhìn thấy, che đi di tích khủng khiếp đó\_\_\_\_\[Bà, Chương XXVI\]
 
-- 'Trận chiến ở cánh đồng phía Đông' không đề cập đến chiến tranh mà đề cập đến bóng bầu dục, là câu chuyện kể hài hước về một trận đấu vào năm 1911. Mô hình của nó là Lays of Ancient Rome nổi tiếng lúc bấy giờ của Lord Macaulay, và ít nhất nó cũng gây cười ở mức độ vừa phải. Dưới vỏ bọc của các gia tộc La Mã, nó mô tả các ngôi trường đối thủ, Measures 'màu đỏ và Richards' màu xanh lá cây, và nó chứa đầy những cậu bé xung quanh với những cái tên quá lớn đối với họ. Wiseman chắc chắn ẩn nấp đằng sau Sekhet, ám chỉ mái tóc vàng hoe và niềm đam mê của ông đối với Ai Cập cổ đại. (Tolkien, có vẻ như lúc đó đã không nhận ra rằng Sekhet là một nữ thần. \[Chú thích cuối trang: Có lẽ ông chỉ gặp cái tên này trong She của Rider Haggard, trong đó liệt kê ‘Sekhet, người đầu sư tử’ trong số các thế lực Ai Cập, nhưng không nêu rõ giới tính của bà.\]' John Garth, *Tolkien and the Great War*, trang 20.
+- 'Trận chiến ở cánh đồng phía Đông' không đề cập đến chiến tranh mà đề cập đến bóng bầu dục, là câu chuyện kể hài hước về một trận đấu vào năm 1911. Mô hình của nó là Lays of Ancient Rome nổi tiếng lúc bấy giờ của Lord Macaulay, và ít nhất nó cũng gây cười ở mức độ vừa phải. Dưới vỏ bọc của các gia tộc La Mã, nó mô tả các ngôi trường đối thủ, Measures 'màu đỏ và Richards' màu xanh lá cây, và nó chứa đầy những cậu bé xung quanh với những cái tên quá lớn đối với họ. Wiseman chắc chắn ẩn nấp đằng sau Sekhet, ám chỉ mái tóc vàng hoe và niềm đam mê của ông đối với Ai Cập cổ đại. (Tolkien, có vẻ như lúc đó đã không nhận ra rằng Sekhet là một nữ thần. \[Chú thích cuối trang: Có lẽ ông ta chỉ gặp cái tên này trong She của Rider Haggard, trong đó liệt kê ‘Sekhet, người đầu sư tử’ trong số các thế lực Ai Cập, nhưng không nêu rõ giới tính của bà.\]' John Garth, *Tolkien and the Great War*, trang 20.
 - Được tập hợp lại với nhau, các cây tạo nên Khu rừng ở nơi tận cùng thế giới \[60\], tiêu đề của nó là sự kết hợp giữa hai tác phẩm của William Morris {Khu rừng bên kia thế giới và Cái giếng ở nơi tận cùng thế giới}.
 - Cá nhân tôi không nghĩ rằng chiến tranh (và tất nhiên không phải bom nguyên tử) có bất kỳ ảnh hưởng nào đến cốt truyện hoặc cách thức diễn biến của nó. Có lẽ trong phong cảnh. Đầm lầy Chết và các cách tiếp cận Morannon có liên quan gì đó đến miền Bắc nước Pháp sau Trận Somme. Họ nợ William Morris và những người Hun và người La Mã của ông nhiều hơn, như trong The House of the Wolfings hay The Roots of the Dãy Núi.
 - Nhưng đó chính là lý do khiến giờ đây anh thấy Ngôi nhà của những con sói rất hấp dẫn. Quan điểm của Morris về văn học trùng hợp với quan điểm của ông. Trong cuốn sách này, Morris đã cố gắng tái tạo lại cảm giác phấn khích mà chính ông đã tìm thấy trên những trang truyện cổ tích bằng tiếng Anh và tiếng Iceland. House of the Wolfings lấy bối cảnh ở một vùng đất đang bị đe dọa bởi lực lượng xâm lược của người La Mã. Được viết một phần bằng văn xuôi và một phần bằng thơ, nó tập trung vào một Gia đình hoặc bộ tộc sống bên dòng sông lớn trong một khu rừng trống có tên Mirkwood, một cái tên lấy từ truyền thuyết và địa lý người Đức cổ đại. Nhiều chi tiết trong truyện dường như đã gây ấn tượng Tolkien. Phong cách của nó rất đặc trưng, ​​đầy nặng nề với chủ nghĩa cổ xưa và sự đảo ngược đầy chất thơ nhằm cố gắng tái tạo lại hào quang của truyền thuyết cổ xưa. Rõ ràng Tolkien đã lưu ý đến điều này, và có vẻ như ông cũng đánh giá cao một khía cạnh khác của bài viết: năng khiếu của Morris, bất chấp sự mơ hồ về thời gian và địa điểm nơi câu chuyện được dựng lên, trong việc mô tả rất chính xác các chi tiết về khung cảnh tưởng tượng của ông. Bản thân Tolkien cũng noi gương Morris trong những năm sau này.
-- Không có sự kiện bên ngoài nào trong cuộc đời của Tolkien có thể cung cấp nhiều hơn một lời giải thích hời hợt về nguồn gốc thần thoại của ông. Chắc chắn công cụ liên kết các câu chuyện trong bản thảo đầu tiên của cuốn sách (sau đó nó đã bị bỏ rơi) có liên quan gì đó đến The Earthly Paradise của William Morris; vì, giống như trong câu chuyện đó, một người đi biển đến một vùng đất xa lạ, nơi ông được nghe một loạt câu chuyện.
-- Phong cách của 'The Fall of Gondolin' gợi ý rằng Tolkien bị ảnh hưởng bởi William Morris, và không phải là không có lý khi cho rằng trận chiến vĩ đại tạo thành phần trung tâm của câu chuyện có thể có một chút cảm hứng từ những trải nghiệm của Tolkien trên Somme – hay đúng hơn là phản ứng của ông trước những trải nghiệm đó, vì trận chiến ở Gondolin có vẻ hùng vĩ hoàn toàn không có trong chiến tranh hiện đại. Nhưng trong mọi trường hợp, đây chỉ là những 'ảnh hưởng' hời hợt: Tolkien không sử dụng mô hình hay nguồn nào cho câu chuyện kỳ lạ và thú vị của mình. Quả thực, hai đặc điểm đáng chú ý nhất của nó hoàn toàn là do chính ông tạo ra: những cái tên được đặt ra và thực tế là phần lớn các nhân vật chính là Tiên tộc. Nói một cách chính xác thì có thể nói rằng Tiên tộc của The Silmarillion bắt nguồn từ 'dân gian cổ tích' trong những bài thơ đầu của Tolkien, nhưng thực sự có rất ít mối liên hệ giữa cả hai. Tiên tộc có thể nảy sinh trong tâm trí ông do sự nhiệt tình của ông đối với 'Bài hát chị em' của Francis Thompson và sự yêu thích của Edith đối với 'những người yêu tinh nhỏ bé', nhưng Tiên tộc của The Silmarillion không liên quan gì đến 'những yêu tinh nhỏ bé' của 'Bàn chân yêu tinh'. Về mọi mặt, họ đều là đàn ông: hay nói đúng hơn, họ là Con người trước khi sa ngã đã tước đi khả năng thành tích của ông. Tolkien tin tưởng một cách nhiệt thành rằng đã từng có một Địa Đàng trên trái đất, và tội lỗi nguyên thủy của con người cùng với sự bị truất ngôi sau đó là nguyên nhân gây ra những tệ nạn trên thế giới; nhưng Tiên tộc của ông, mặc dù có khả năng phạm tội và sai sót, nhưng vẫn chưa 'sa ngã' theo nghĩa thần học, và do đó có thể đạt được nhiều thành tựu vượt quá khả năng của con người. Họ là những nghệ nhân, nhà thơ, người ghi chép, những người tạo ra những tác phẩm có vẻ đẹp vượt xa những đồ tạo tác của con người. Điều quan trọng nhất là họ bất tử, trừ khi bị giết trong trận chiến. Tuổi già, bệnh tật và cái chết không làm cho công việc của họ kết thúc khi nó vẫn chưa hoàn thành hoặc chưa hoàn thiện. Vì thế họ là hình mẫu lý tưởng của mọi nghệ sĩ. Sau đó, đây là Tiên tộc của The Silmarillion và của The Lord of the Rings. Tolkien chính ông đã tóm tắt bản chất của chúng khi viết về chúng: 'Chúng được con người tạo ra theo hình ảnh và giống mình; nhưng được giải phóng khỏi những giới hạn mà ông cảm thấy đang đè nặng lên mình nhất. Họ bất tử và ý chí của họ có hiệu quả trực tiếp trong việc đạt được trí tưởng tượng và ham muốn.'
+- Không có sự kiện bên ngoài nào trong cuộc đời của Tolkien có thể cung cấp nhiều hơn một lời giải thích hời hợt về nguồn gốc thần thoại của ông ta. Chắc chắn công cụ liên kết các câu chuyện trong bản thảo đầu tiên của cuốn sách (sau đó nó đã bị bỏ rơi) có liên quan gì đó đến The Earthly Paradise của William Morris; vì, giống như trong câu chuyện đó, một người đi biển đến một vùng đất xa lạ, nơi ông ta được nghe một loạt câu chuyện.
+- Phong cách của 'The Fall of Gondolin' gợi ý rằng Tolkien bị ảnh hưởng bởi William Morris, và không phải là không có lý khi cho rằng trận chiến vĩ đại tạo thành phần trung tâm của câu chuyện có thể có một chút cảm hứng từ những trải nghiệm của Tolkien trên Somme – hay đúng hơn là phản ứng của ông trước những trải nghiệm đó, vì trận chiến ở Gondolin có vẻ hùng vĩ hoàn toàn không có trong chiến tranh hiện đại. Nhưng trong mọi trường hợp, đây chỉ là những 'ảnh hưởng' hời hợt: Tolkien không sử dụng mô hình hay nguồn nào cho câu chuyện kỳ lạ và thú vị của mình. Quả thực, hai đặc điểm đáng chú ý nhất của nó hoàn toàn là do chính ông ta tạo ra: những cái tên được đặt ra và thực tế là phần lớn các nhân vật chính là Tiên tộc. Nói một cách chính xác thì có thể nói rằng Tiên tộc của The Silmarillion bắt nguồn từ 'dân gian cổ tích' trong những bài thơ đầu của Tolkien, nhưng thực sự có rất ít mối liên hệ giữa cả hai. Tiên tộc có thể nảy sinh trong tâm trí ông do sự nhiệt tình của ông đối với 'Bài hát chị em' của Francis Thompson và sự yêu thích của Edith đối với 'những người yêu tinh nhỏ bé', nhưng Tiên tộc của The Silmarillion không liên quan gì đến 'những yêu tinh nhỏ bé' của 'Bàn chân yêu tinh'. Về mọi mặt, họ đều là đàn ông: hay nói đúng hơn, họ là Con người trước khi sa ngã đã tước đi khả năng thành tích của ông ta. Tolkien tin tưởng một cách nhiệt thành rằng đã từng có một Địa Đàng trên trái đất, và tội lỗi nguyên thủy của con người cùng với sự bị truất ngôi sau đó là nguyên nhân gây ra những tệ nạn trên thế giới; nhưng Tiên tộc của ông ta, mặc dù có khả năng phạm tội và sai sót, nhưng vẫn chưa 'sa ngã' theo nghĩa thần học, và do đó có thể đạt được nhiều thành tựu vượt quá khả năng của con người. Họ là những nghệ nhân, nhà thơ, người ghi chép, những người tạo ra những tác phẩm có vẻ đẹp vượt xa những đồ tạo tác của con người. Điều quan trọng nhất là họ bất tử, trừ khi bị giết trong trận chiến. Tuổi già, bệnh tật và cái chết không làm cho công việc của họ kết thúc khi nó vẫn chưa hoàn thành hoặc chưa hoàn thiện. Vì thế họ là hình mẫu lý tưởng của mọi nghệ sĩ. Sau đó, đây là Tiên tộc của The Silmarillion và của The Lord of the Rings. Tolkien chính ông đã tóm tắt bản chất của chúng khi viết về chúng: 'Chúng được con người tạo ra theo hình ảnh và giống mình; nhưng được giải phóng khỏi những giới hạn mà ông ta cảm thấy đang đè nặng lên mình nhất. Họ bất tử và ý chí của họ có hiệu quả trực tiếp trong việc đạt được trí tưởng tượng và ham muốn.'
 - 'Việc William Morris sử dụng thơ trong những câu chuyện lãng mạn giả thời trung cổ của ông cũng để lại dấu ấn trong thơ ca đầu tiên của Tolkien.' John Garth, *Tolkien and the Great War*, tr. 14.
-- 'Nhưng trước tiên, ông bắt đầu kể lại một phần của Kalevala, theo cách thơ và văn xuôi của William Morris. Đây là Câu chuyện của Kullervo, kể về một thanh niên chạy trốn khỏi chế độ nô lệ. Đó là một câu chuyện kỳ lạ đã thu hút trí tưởng tượng của một người Công giáo La Mã nhiệt thành: Kullervo vô tình quyến rũ em gái mình, người đã tự sát và sau đó ông cũng tự sát. Nhưng sự hấp dẫn có lẽ một phần nằm ở sự pha trộn giữa chủ nghĩa anh hùng độc lập, sự lãng mạn của tuổi trẻ và sự tuyệt vọng: Tolkien xét cho cùng, anh đang ở giữa thời điểm anh buộc phải tách khỏi Edith Bratt. Cái chết của cha mẹ Kullervo cũng có thể gây chấn động. Tuy nhiên, điểm thu hút nhất là âm thanh của những cái tên Phần Lan, chủ nghĩa nguyên thủy xa xôi và không khí phương Bắc.' John Garth, *Tolkien and the Great War*, tr. 26.
+- 'Nhưng trước tiên, ông bắt đầu kể lại một phần của Kalevala, theo cách thơ và văn xuôi của William Morris. Đây là Câu chuyện của Kullervo, kể về một thanh niên chạy trốn khỏi chế độ nô lệ. Đó là một câu chuyện kỳ lạ đã thu hút trí tưởng tượng của một người Công giáo La Mã nhiệt thành: Kullervo vô tình quyến rũ em gái mình, người đã tự sát và sau đó ông ta cũng tự sát. Nhưng sự hấp dẫn có lẽ một phần nằm ở sự pha trộn giữa chủ nghĩa anh hùng độc lập, sự lãng mạn của tuổi trẻ và sự tuyệt vọng: Tolkien xét cho cùng, anh đang ở giữa thời điểm anh buộc phải tách khỏi Edith Bratt. Cái chết của cha mẹ Kullervo cũng có thể gây chấn động. Tuy nhiên, điểm thu hút nhất là âm thanh của những cái tên Phần Lan, chủ nghĩa nguyên thủy xa xôi và không khí phương Bắc.' John Garth, *Tolkien and the Great War*, tr. 26.
 
 - Wormtongue - Một dạng '"hiện đại hóa" của biệt danh Grima, cố vấn độc ác của Rohan = Rohan \[tiếng Anh cổ\] wyrm-tunge "rắn-lưỡi"' {Danh pháp). Tolkien chắc chắn đã quen thuộc với câu chuyện Iceland về Gunnlaug Lưỡi Giun, do William Morris và Eirikr Magnusson dịch (xuất bản năm 1869), nhưng ở đó cái tên Lưỡi Giun được đặt cho một nhà thơ vì trí thông minh sắc sảo của ông.
 
@@ -849,7 +849,7 @@ Bà càng ngày càng nhỏ đi cho đến khi không lớn hơn một con khỉ
 - Tất cả những gì là vàng không lấp lánh - Hãy so sánh câu nói truyền thống rằng tất cả những gì lấp lánh không phải là vàng (trong Merchant of Venice của Shakespeare, 'Tất cả những gì lấp lánh không phải là vàng'). Trong cuốn 'Canon's Yeoman's Tale' trong Canterbury Tales, Chaucer nói: 'Nhưng tất cả những gì nhút nhát như vàng / Nis nat gold, như tôi đã nghe nói.'
 - Từ đống tro tàn, ngọn lửa sẽ được đánh thức - Vì điều này Tom Shippey đã gợi ý nguồn cảm hứng từ Faerie Queene của Spenser: 'Sẽ có một tia lửa đã tồn tại từ lâu / Bene trong đống tro tàn được cào lên và giấu đi / Hãy tươi mới...' (trích dẫn trong Con đường đến Trung Địa, ấn bản thứ 2, trang 317, n. 9).
 - Một bệnh dịch trên Người Lùn và những cái cổ cứng ngắc của họ - Điều này (và 'tôi mắc bệnh trên những cái cổ cứng ngắc của Tiên tộc', trang 347, I: 362) dường như lặp lại 'một bệnh dịch ở' cả hai ngôi nhà của bạn', trong Romeo và Juliet của Shakespeare, Màn III, Cảnh 1.
-- Gandalf mang cây trượng của mình - Việc đề cập đến cây trượng của Gandalf ở đây cùng với kiếm, dao, cung và rìu gợi ý rằng nó có thể được coi là một vũ khí, nhưng nó không bao giờ được sử dụng như vậy. Pháp sư hoặc các pháp sư theo truyền thống có những cây trượng mà đôi khi dường như cần thiết cho việc thực hiện phép thuật (chẳng hạn như Prospero trong Tempest của Shakespeare, bẻ gãy cây trượng của mình khi ông từ bỏ phép thuật).
+- Gandalf mang cây trượng của mình - Việc đề cập đến cây trượng của Gandalf ở đây cùng với kiếm, dao, cung và rìu gợi ý rằng nó có thể được coi là một vũ khí, nhưng nó không bao giờ được sử dụng như vậy. Pháp sư hoặc các pháp sư theo truyền thống có những cây trượng mà đôi khi dường như cần thiết cho việc thực hiện phép thuật (chẳng hạn như Prospero trong Tempest của Shakespeare, bẻ gãy cây trượng của mình khi ông ta từ bỏ phép thuật).
 - Bối rối – vòng từ p. 99
 - bebother – vòng từ p. 100
 - kinh ngạc - – vòng chữ p. 100
@@ -877,7 +877,7 @@ Ký ức dân gian” lưu ý rằng tên của Arkenstone có nghĩa là “vi�
 
 Câu chuyện về vị thần Scandinavia Njord và vợ Skadi có vẻ phù hợp. Njord mong muốn được sống trong ngôi nhà của mình cạnh biển nhưng Skadi phản đối rằng tiếng mòng biển la hét khiến cô không thể ngủ được. Tương tự, Njord không thích tiếng sói núi tru trong quê hương Thrymheim của Skadi: anh nhớ bài hát của những con thiên nga bên bờ biển.37 Aldarion không thể sống thiếu biển trong khi Erendis sẽ chết cùng nó. Cảnh Aldarion cưỡi ngựa lên từ bến cảng Andunie, nhìn lại biển và không chịu nổi sự phong ấn gợi lại một cảnh tương tự trong Saa của NW. Gunnar đã bị lưu đày và chuẩn bị lên tàu từ Iceland, nhưng khi xuống tàu, con ngựa của anh bị vấp ngã, anh nhìn quanh vùng đất, thấy rằng nơi đây rất công bằng và quyết định ở lại.38 AIdarion tiếp tục yêu biển và Erendis tiếp tục coi thường những chuyến đi của anh. Bà thực sự có một cái cổ cứng như lùn.
 
-- Mîm là điển hình cho những người lùn trong sagas: ông kiêu hãnh, có khả năng chữa bệnh, yêu vàng, chửi bới thoải mái, sống trong một ngôi nhà bằng đá và buôn bán một cách khôn ngoan.
+- Mîm là điển hình cho những người lùn trong sagas: ông ta kiêu hãnh, có khả năng chữa bệnh, yêu vàng, chửi bới thoải mái, sống trong một ngôi nhà bằng đá và buôn bán một cách khôn ngoan.
 - Noel cũng nhận thấy sự tương đồng thú vị giữa Ent và
 
 Entwives và vị thần Scandinavi Njord và vợ ông Skadi, như đã thảo luận ở trên trong phần về các dwmes .68 Giống như Skadi và Njord có sở thích sống rất đa dạng, các lựa chọn Entwives về sắp xếp việc nhà không phù hợp với Ent'. Những người vợ tách nhau ra sống ở vùng đất trồng cây và nông nghiệp trong khi Ent thích rừng hoang dã hơn.
@@ -894,7 +894,7 @@ Entwives và vị thần Scandinavi Njord và vợ ông Skadi, như đã thảo 
     - đất lúa; ông thuộc Rande gecranc.*(lines 1205-09)*
     - Điều này được R. M. Liuzza dịch trong tác phẩm Beowulf (2000) của ông như sau:
     - *Fate struck him down*
-    - khi kiêu ngạo, ông đi tìm đau khổ,
+    - khi kiêu ngạo, ông ta đi tìm đau khổ,
     - mối thù với người Frisia. Ông mặc đồ đẹp đó,
     - những viên đá quý đó, trên cốc biển,
     - vị lãnh chúa quyền năng đó và gục ngã dưới lá chắn của hắn. *(P- 9o)*
@@ -915,14 +915,14 @@ Cảm xúc của - Gandalf về lòng thương hại và bài phát biểu của
 - câu đố đầu tiên ?
 - hengest (hengist) và ngựa ?
 - ngọc
-Khả năng rơi vào trạng thái thôi miên của - Túrin rất khó hiểu và khó được coi là một công cụ cốt truyện. Trạng thái xuất thần của ông gợi lại giấc ngủ của Brynhild trên ngọn núi ma thuật, nhưng trạng thái xuất thần của cô là hình phạt cho sự bất tuân với Odin.
-Lỗi ký tự của - Túrin chưa được xác định rõ ràng. Ông mắc chứng kiêu ngạo nhưng cũng mắc chứng vô cảm không phù hợp, vốn không hẳn là một phẩm chất bi thảm. Tất cả những điều này đều đúng với Sigurd.
+Khả năng rơi vào trạng thái thôi miên của - Túrin rất khó hiểu và khó được coi là một công cụ cốt truyện. Trạng thái xuất thần của ông ta gợi lại giấc ngủ của Brynhild trên ngọn núi ma thuật, nhưng trạng thái xuất thần của cô là hình phạt cho sự bất tuân với Odin.
+Lỗi ký tự của - Túrin chưa được xác định rõ ràng. Ông ta mắc chứng kiêu ngạo nhưng cũng mắc chứng vô cảm không phù hợp, vốn không hẳn là một phẩm chất bi thảm. Tất cả những điều này đều đúng với Sigurd.
 - Chủ đề loạn luân dường như không được sử dụng nhiều; ý nghĩa cốt truyện của nó trong Volsunga Saga hấp dẫn hơn nhiều.
-Số phận của - Túrin đã được định đoạt. Giống như Oedipus, ông phải chịu đựng lời nguyền dành cho cha mình, mặc dù lời nguyền ở đây là ác ý cá nhân và dường như không cân xứng của một tổng lãnh thiên thần sa ngã, được trung gian bởi một con rồng độc ác. Giống như Kullervo, ông phải chịu số phận bởi tính cách thiếu sót của chính mình: liều lĩnh, ấp ủ, kiêu hãnh kiên cường.
+Số phận của - Túrin đã được định đoạt. Giống như Oedipus, ông ta phải chịu đựng lời nguyền dành cho cha mình, mặc dù lời nguyền ở đây là ác ý cá nhân và dường như không cân xứng của một tổng lãnh thiên thần sa ngã, được trung gian bởi một con rồng độc ác. Giống như Kullervo, ông ta phải chịu số phận bởi tính cách thiếu sót của chính mình: liều lĩnh, ấp ủ, kiêu hãnh kiên cường.
 - nirnaeth arnoediad - trận chiến của somme ?
-- Hãy nhìn thầy phù thủy Väinamöinen hay gì đó. Ông là anh hùng thực sự và biến mất trong vực sâu. Sau một thời gian, ông thành hình trong một cơ thể chứ không phải linh hồn. Điều này trông giống nhau như thế nào? GANDALF PHÙ THỦY.
-- Có, tôi đồng ý rằng có một số dấu vết của kẻ nói bồ hóng Väinämöinen trong Gandalf. Cả hai đều có sức mạnh về truyền thuyết và (không có gì hay hơn để gọi nó) tụng kinh (vì 'ma thuật' của Väinämöinen, một lần nữa vì thiếu từ hay hơn, xảy ra qua bài hát và Gandalf qua lời cầu nguyện.) và họ vẫn không phải là vị thần hay người sáng tạo hàng đầu. Cả hai đều có ngoại hình giống nhau, nhưng điều đó có thể nói đối với nhiều nhân vật khác cũng có những phẩm chất khác giống với Gandalf và có thể đã `có ảnh hưởng khi đến với ông. Một trong số đó là Bắc Âu vị thần đứng đầu Odin.
-- Và đối với tôi ít nhất Väinämöine giống Radagast hơn nhiều với khả năng giao tiếp với động vật và chăm sóc thiên nhiên. Tất nhiên Gandalf cũng có một số đặc tính này, nhưng không nhiều bằng Radagast. Nhưng một lần nữa tôi sẽ phải chọn màu xám thay vì màu nâu cho Väinämöinen nếu có người được chỉ định cho ông.
+- Hãy nhìn thầy phù thủy Väinamöinen hay gì đó. Ông là anh hùng thực sự và biến mất trong vực sâu. Sau một thời gian, ông ta thành hình trong một cơ thể chứ không phải linh hồn. Điều này trông giống nhau như thế nào? GANDALF PHÙ THỦY.
+- Có, tôi đồng ý rằng có một số dấu vết của kẻ nói bồ hóng Väinämöinen trong Gandalf. Cả hai đều có sức mạnh về truyền thuyết và (không có gì hay hơn để gọi nó) tụng kinh (vì 'ma thuật' của Väinämöinen, một lần nữa vì thiếu từ hay hơn, xảy ra qua bài hát và Gandalf qua lời cầu nguyện.) và họ vẫn không phải là vị thần hay người sáng tạo hàng đầu. Cả hai đều có ngoại hình giống nhau, nhưng điều đó có thể nói đối với nhiều nhân vật khác cũng có những phẩm chất khác giống với Gandalf và có thể đã `có ảnh hưởng khi đến với ông ta. Một trong số đó là Bắc Âu vị thần đứng đầu Odin.
+- Và đối với tôi ít nhất Väinämöine giống Radagast hơn nhiều với khả năng giao tiếp với động vật và chăm sóc thiên nhiên. Tất nhiên Gandalf cũng có một số đặc tính này, nhưng không nhiều bằng Radagast. Nhưng một lần nữa tôi sẽ phải chọn màu xám thay vì màu nâu cho Väinämöinen nếu có người được chỉ định cho ông ta.
 - Angainor trên Melkor - Chuỗi Fenris
 - Con mắt của Woden - Con Mắt của Sauron ?
 - ilúvatar - ilmatar ?
@@ -973,7 +973,7 @@ Số phận của - Túrin đã được định đoạt. Giống như Oedipus, 
 - rồng ghé thăm - AH p. 61
 - Elendil - Nimruzir trong Adunaic, giống như Noah trong Genesis, cả hai đều sống sót sau trận Đại hồng thủy trên thuyền
 - người hobbit - qua gương soi, lewis carroll (HotH p. 56)
-- Những người theo chủ nghĩa Tolkienists coi Sam là người dơi của Frodo. Trong Quân đội Anh, người dơi là một người phục vụ có trật tự, đóng vai trò là người hầu riêng của một sĩ quan. Đó là một vai trò mà Tolkien (từng là sĩ quan quân đội trong Thế chiến thứ nhất) đã vô cùng quen thuộc. Sam đảm nhận tất cả các vai trò điển hình của một người dơi — ông chạy việc vặt cho Frodo, ông nấu ăn, vận chuyển ông (hoặc ít nhất là bế ông) và ông mang hành lý của mình. Tolkien đã xác nhận cách diễn giải này
+- Những người theo chủ nghĩa Tolkienists coi Sam là người dơi của Frodo. Trong Quân đội Anh, người dơi là một người phục vụ có trật tự, đóng vai trò là người hầu riêng của một sĩ quan. Đó là một vai trò mà Tolkien (từng là sĩ quan quân đội trong Thế chiến thứ nhất) đã vô cùng quen thuộc. Sam đảm nhận tất cả các vai trò điển hình của một người dơi — ông ta chạy việc vặt cho Frodo, ông ta nấu ăn, vận chuyển ông ta (hoặc ít nhất là bế ông ta) và ông ta mang hành lý của mình. Tolkien đã xác nhận cách diễn giải này
     - " Sam Gamgee của tôi thực sự là sự phản ánh của người lính Anh, của các binh nhì và người dơi mà tôi biết trong cuộc chiến năm 1914, và được công nhận là vượt trội hơn tôi rất nhiều"
     - So sánh mối quan hệ giữa Don Quixote và cận vệ Sancho Panza, cũng như quá trình "Quixotization" dần dần của Sancho.
 - tharni - nhân vật trong vở kịch về thần và người của lãnh chúa Dunsany
@@ -985,14 +985,14 @@ Số phận của - Túrin đã được định đoạt. Giống như Oedipus, 
 - cỏ ống - HotH2 p. 783
 - 'Đừng đến giữa Nazgûl và con mồi của hắn! - 'Đừng đến giữa con rồng và cơn thịnh nộ của hắn' trong Vua Lear
 - Longshanks là biệt danh của Edward I, Vua của Anh (cai trị 1272-1307).
-- Cảnh trong đó Imrahil cho thấy Éowyn vẫn còn sống bằng cách nhận thấy hơi thở yếu ớt của cô hiện trên chiếc vambrace bóng loáng của ông tương tự như cảnh trong Lear khi Vua cố gắng xác định xem Cordelia có còn sống hay không. Tolkien viết: Sau đó, hoàng tử nhìn thấy vẻ đẹp của cô, mặc dù khuôn mặt cô nhợt nhạt và lạnh lùng, chạm vào tay cô khi anh cúi xuống để nhìn cô kỹ hơn. “Con Người của Rohan!” ông đã khóc. “Trong các ngươi không có đỉa sao? Có lẽ bà bị thương đến chết, nhưng tôi cho rằng bà vẫn còn sống.” Và anh giơ chiếc vambrace sáng bóng trên tay mình trước đôi môi lạnh giá của cô, và kìa! một chút sương mù phủ lên đó khó có thể nhìn thấy được. (RK, V, vi, 121)So sánh Lear: “Cho tôi mượn một chiếc kính nhìn; / Nếu hơi thở của bà làm mờ đi hoặc làm vấy bẩn đá, / Tại sao, vậy thì bà sống.” (V, iii, 266-67) Cơn thịnh nộ của Éomer khi phát hiện Éowyn dường như đã chết cũng tương tự như cơn thịnh nộ của Lear trước cái chết của Cordelia: “Éowyn, Éowyn!” cuối cùng ông kêu lên: “Éowyn, sao em lại đến đây? Đây là sự điên rồ hay ma quỷ gì vậy? Chết, chết, chết! Cái chết cuốn đi tất cả chúng ta!” Sau đó, không cần hỏi ý kiến hay chờ đợi những người trong Thành phố đến gần, ông lao thẳng trở lại phía trước đội quân vĩ đại, thổi còi và kêu lớn báo hiệu cuộc bắt đầu. Trên cánh đồng vang lên giọng nói trong trẻo của ông: “Chết đi! Đi đi, đi tới sự hủy diệt và ngày tận thế!” (RK, V, vi, 119)So sánh Lear: “Và kẻ ngốc11 tội nghiệp của tôi đã bị treo cổ! Không, không, không có sự sống? Tại sao một con chó, một con ngựa, một con chuột lại có sự sống, Còn bạn lại không có hơi thở? Ngươi sẽ không đến nữaKhông bao giờ, không bao giờ, không bao giờ, không bao giờ, không bao giờ!” (V, iii, 311-14)
+- Cảnh trong đó Imrahil cho thấy Éowyn vẫn còn sống bằng cách nhận thấy hơi thở yếu ớt của cô hiện trên chiếc vambrace bóng loáng của ông ta tương tự như cảnh trong Lear khi Vua cố gắng xác định xem Cordelia có còn sống hay không. Tolkien viết: Sau đó, hoàng tử nhìn thấy vẻ đẹp của cô, mặc dù khuôn mặt cô nhợt nhạt và lạnh lùng, chạm vào tay cô khi anh cúi xuống để nhìn cô kỹ hơn. “Con Người của Rohan!” ông đã khóc. “Trong các ngươi không có đỉa sao? Có lẽ bà bị thương đến chết, nhưng tôi cho rằng bà vẫn còn sống.” Và anh giơ chiếc vambrace sáng bóng trên tay mình trước đôi môi lạnh giá của cô, và kìa! một chút sương mù phủ lên đó khó có thể nhìn thấy được. (RK, V, vi, 121)So sánh Lear: “Cho tôi mượn một chiếc kính nhìn; / Nếu hơi thở của bà làm mờ đi hoặc làm vấy bẩn đá, / Tại sao, vậy thì bà sống.” (V, iii, 266-67) Cơn thịnh nộ của Éomer khi phát hiện Éowyn dường như đã chết cũng tương tự như cơn thịnh nộ của Lear trước cái chết của Cordelia: “Éowyn, Éowyn!” cuối cùng ông kêu lên: “Éowyn, sao em lại đến đây? Đây là sự điên rồ hay ma quỷ gì vậy? Chết, chết, chết! Cái chết cuốn đi tất cả chúng ta!” Sau đó, không cần hỏi ý kiến hay chờ đợi những người trong Thành phố đến gần, ông ta lao thẳng trở lại phía trước đội quân vĩ đại, thổi còi và kêu lớn báo hiệu cuộc bắt đầu. Trên cánh đồng vang lên giọng nói trong trẻo của ông ta: “Chết đi! Đi đi, đi tới sự hủy diệt và ngày tận thế!” (RK, V, vi, 119)So sánh Lear: “Và kẻ ngốc11 tội nghiệp của tôi đã bị treo cổ! Không, không, không có sự sống? Tại sao một con chó, một con ngựa, một con chuột lại có sự sống, Còn bạn lại không có hơi thở? Ngươi sẽ không đến nữaKhông bao giờ, không bao giờ, không bao giờ, không bao giờ, không bao giờ!” (V, iii, 311-14)
 - hướng nam - hướng nam gần Lullington, Sussex ?
 - Tolkien đã quyết định đổi tên Saeros thành Orgol, với ý nghĩa tiêu cực trong Sindarin và cho phép chơi chữ tiếng Anh cổ orgol, orgel "niềm tự hào", cùng nguồn gốc, nhưng không phải tổ tiên, thành tiếng Anh hiện đại orgulous
 - Tôi cũng nhận ra gần như ngay lập tức rằng cuộc tìm kiếm chiếc nhẫn thực ra là một cuộc tìm kiếm chén thánh. Lại là Vua Arthur và Camelot.
 
 - Đầm lầy nước trung bình. Dịch theo nghĩa. Cái tên này do Mývatn ở Iceland gợi ý, có cùng ý nghĩa.
 - các phương pháp xây dựng văn học khác nhau của tolkien - amon hen 208 p. 14
-- The Adventures of Tom Bombadil', được xuất bản trên Tạp chí Oxford năm 1934. Nó kể về cuộc gặp gỡ của Tom với 'Goldberry, con gái của người phụ nữ bên sông', với 'Ông già Liễu' khiến ông bị nhốt trong một vết nứt trên thân cây (một ý tưởng, Tolkien từng nói, có lẽ một phần xuất phát từ những bức vẽ về cái cây của Arthur Rackham), với một gia đình lửng và với một 'Barrow-wight', một hồn ma từ một ngôi mộ thời tiền sử thuộc loại được tìm thấy ở Berkshire Downs, cách Oxford không xa.
+- The Adventures of Tom Bombadil', được xuất bản trên Tạp chí Oxford năm 1934. Nó kể về cuộc gặp gỡ của Tom với 'Goldberry, con gái của người phụ nữ bên sông', với 'Ông già Liễu' khiến ông ta bị nhốt trong một vết nứt trên thân cây (một ý tưởng, Tolkien từng nói, có lẽ một phần xuất phát từ những bức vẽ về cái cây của Arthur Rackham), với một gia đình lửng và với một 'Barrow-wight', một hồn ma từ một ngôi mộ thời tiền sử thuộc loại được tìm thấy ở Berkshire Downs, cách Oxford không xa.
 - lối đi saruman - công ty mà họ giữ p. 117
 - <a class="external free" href="http://www.lotrplaza.com/Archive4/display_topic_threads.asp?ForumID=46&amp;TopicID=155483&amp;PagePosition=3" rel="noreferrer noopener" target="_blank">http://www.lotrplaza.com/Archive4/display_topic_threads.asp?ForumID=46&amp;TopicID=155483&amp;PagePosition=3</a>
 - bài thơ về Charles Williams, công ty mà họ quản lý p. 69

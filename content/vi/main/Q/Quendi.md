@@ -27,7 +27,7 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Bài chính:</i> <b><a href="../E/Elves.md" title="Elves">Tiên tộc</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../E/Elves.md" title="Elves">Elves</a></b></div></div>
 
 **Quendi** ([Q](Quenya.md), phát âm <span title="Pronunciation in IPA" class="IPA">[ˈkʷendi]</span>, số ít **Quendë**, phát âm. <span title="Pronunciation in IPA" class="IPA">[ˈkʷende]</span>, mặc dù dạng số nhiều phổ biến hơn), là tên do [Tiên tộc](../E/Elves.md) đặt cho đồng loại của họ khi họ vẫn còn sống ở đó [Cuiviénen](../C/Cuiviénen.md). Người ta thường cho rằng nó có nghĩa là "những người nói; những người nói bằng giọng nói", có từ thời Tiên tộc chưa gặp những sinh vật khác có khả năng nói.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-qe-d_2-0" class="reference"><a href="#cite_note-qe-d-2">[2]</a></sup>
 
@@ -81,12 +81,12 @@ Sau khi [phân tách Tiên tộc](../S/Sundering_of_the_Elves.md), từ Quenya �
 <td style="font-size: 90%;"> <a href="../_/Úmanyar.md" title="Úmanyar">Úmanyar</a> · <a href="../A/Avari.md" title="Avari">Avari</a> <small><i>(<a href="../C/Cuind.md" title="Cuind">Cuind</a> · <a href="../H/Hwenti.md" title="Hwenti">Hwenti</a> · <a href="../K/Kindi.md" title="Kindi">Kindi</a> · <a href="../K/Kinn-lai.md" title="Kinn-lai">Kinn-lai</a> · <a href="../P/Penni.md" title="Penni">Penni</a> · <a href="../W/Windan.md" title="Windan">Windan</a>)</i></small>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">Các thế hệ:
+<th style="background:var(--tg-color-surface-3);" align="right">Generations:
 </th>
 <td style="font-size: 90%;"> <i><a href="../E/Eru-begotten.md" title="Eru-begotten">Eru-begotten</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=First-begotten&amp;action=edit&amp;redlink=1" title="First-begotten (page does not exist)">First-begotten</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Elves&amp;action=edit&amp;redlink=1" title="Third Elves (page does not exist)">Third Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Younger_Elves&amp;action=edit&amp;redlink=1" title="Younger Elves (page does not exist)">Younger Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Generations&amp;action=edit&amp;redlink=1" title="Generations (page does not exist)">further Generations</a></i>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><i>Xem thêm:</i>
+<th style="background:var(--tg-color-surface-3);" align="right"><i>See also:</i>
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Awakening_of_the_Elves.md" title="Awakening of the Elves">Awakening of the Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Finding_by_Orom%C3%AB&amp;action=edit&amp;redlink=1" title="Finding by Oromë (page does not exist)">Finding by Oromë</a></i> · <i><a href="../S/Sundering_of_the_Elves.md" title="Sundering of the Elves">Sundering of the Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Three_Ambassadors&amp;action=edit&amp;redlink=1" title="Three Ambassadors (page does not exist)">Embassy</a></i> · <i><a href="../G/Great_Journey.md" title="Great Journey">Great Journey</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Dark_Years_of_the_Avari&amp;action=edit&amp;redlink=1" title="Dark Years of the Avari (page does not exist)">Dark Years of the Avari</a></i>
 </td></tr></tbody></table>

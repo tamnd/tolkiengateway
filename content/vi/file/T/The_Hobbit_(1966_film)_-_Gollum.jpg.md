@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Hobbit (1967 film) - Gollum.jpg"
 ---
 
-Chuyển hướng tới [Tệp:The Hobbit (phim năm 1967) - Gollum.jpg](<The_Hobbit_(1967_film)_-_Gollum.jpg.md>).
+Chuyển hướng tới [Tệp:The Hobbit (phim 1967) - Gollum.jpg](<The_Hobbit_(1967_film)_-_Gollum.jpg.md>).

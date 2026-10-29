@@ -18,7 +18,7 @@ categories:
 
 Trong các phiên bản trước của [huyền thoại](../L/Legendarium.md), cho đến thời kỳ xuất bản đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, tên *Finrod* được đặt cho nhân vật sau này được gọi là [Finarfin](../F/Finarfin.md). [Finrod Felagund](../F/Finrod.md) lúc đó được gọi là Inglor Felagund.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Tuy nhiên, cái tên này vẫn tồn tại dưới dạng bảo trợ *Inglorion*. Nhân vật có tên *Inglorion* trong *The Fellowship of the Ring* [Gildor Inglorion](../G/Gildor.md) tuy là đồng hương Noldo nhưng không có quan hệ họ hàng với Finrod và chắc chắn không phải là con trai ông. Finrod, như đã thấy trong *[The Silmarillion](../T/The_Silmarillion.md)*, chưa lập gia đình và không có con vì người yêu của anh, [Amarië](../A/Amarië.md) của Vanyar, đã không theo anh đến Trung Địa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tuy nhiên, cái tên này vẫn tồn tại dưới dạng bảo trợ *Inglorion*. Nhân vật có tên *Inglorion* trong *The Fellowship of the Ring* [Gildor Inglorion](../G/Gildor.md) tuy là đồng hương Noldo nhưng không có quan hệ họ hàng với Finrod và chắc chắn không phải là con trai ông ta. Finrod, như đã thấy trong *[The Silmarillion](../T/The_Silmarillion.md)*, chưa lập gia đình và không có con vì người yêu của anh, [Amarië](../A/Amarië.md) của Vanyar, đã không theo anh đến Trung Địa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

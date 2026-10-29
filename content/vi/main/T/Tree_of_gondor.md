@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "White Tree of Gondor"
 ---
 
-Chuyển hướng tới [Cây Trắng Gondor](../W/White_Tree_of_Gondor.md).
+Chuyển hướng tới [Cây Trắng của Gondor](../W/White_Tree_of_Gondor.md).

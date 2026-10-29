@@ -32,7 +32,7 @@ Trong *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_L
 
 Khi [Hobbit](../H/Hobbits.md) vẫn còn là những dân [lang thang](../W/Wandering_Days.md), đơn vị lịch của họ không phải là 'tuần' mà là 'tháng', ít nhiều bị chi phối bởi [Mặt Trăng](../M/Moon.md). Theo lịch cũ của họ, năm mới bắt đầu sau vụ thu hoạch. Điều này có thể được nhìn thấy trong tên của tháng [Winterfilth](../W/Winterfilth.md) có nghĩa là "lấp đầy (của năm) trước mùa đông".
 
-Tuy nhiên, thông qua tiếp xúc với các dân tộc ngoài hành tinh (có lẽ là [Dúnedain của Arnor](../D/Dúnedain_of_Arnor.md)), họ đã áp dụng khái niệm tuần, hình thành nên [Lịch Shire](Shire_Reckoning.md). Nó dựa trên [Lịch Tính của Nhà Vua](../K/King's_Reckoning.md) nhưng có một số thay đổi nhỏ để phù hợp với phong tục của họ.
+Tuy nhiên, thông qua tiếp xúc với các dân tộc ngoài hành tinh (có lẽ là [Dúnedain của Arnor](../D/Dúnedain_of_Arnor.md)), họ đã áp dụng khái niệm tuần, hình thành nên [Shire Tính toán](Shire_Reckoning.md). Nó dựa trên [Vua Tính toán](../K/King's_Reckoning.md) nhưng có một số thay đổi nhỏ để phù hợp với phong tục của họ.
 
 Một sự đổi mới được giới thiệu bởi [Shire-hobbit](Shire-hobbits.md) là **[Shire-cải cách](Shire-reform.md)** (cuối cùng cũng được áp dụng trong [Bree Lịch](../B/Bree_Calendar.md)). Vào thời Thain [Isengrim II](../I/Isengrim_Took_II.md) họ đã sắp xếp rằng Ngày giữa năm (và ngày Overlithe) sẽ không có tên ngày trong tuần, điều này đã ngăn chặn việc dịch chuyển tên các ngày trong tuần so với ngày tháng. Sự thay đổi này khiến ngày đầu tiên trong năm luôn tương ứng với ngày đầu tiên trong tuần và ngày cuối cùng trong năm luôn tương ứng với ngày cuối cùng trong tuần. Theo thời gian, vì cùng một ngày trong bất kỳ năm nào có cùng tên ngày trong tuần như mọi năm khác, nên dân gian Shire không còn ghi ngày trong tuần bằng thư từ và nhật ký. Vì không có tháng nào bắt đầu vào thứ Sáu nên sự sắp xếp này cũng sinh ra một thành ngữ đùa cợt trong Shire: "Vào thứ Sáu ngày đầu tiên" dùng để chỉ một ngày không tồn tại hoặc một ngày mà những điều không thể xảy ra (cách diễn đạt đầy đủ là "vào thứ Sáu ngày đầu tiên của [Summerfilth](Summerfilth.md)").<sup id="cite_ref-D2_2-3" class="reference"><a href="#cite_note-D2-2">[2]</a></sup>
 
@@ -46,7 +46,7 @@ Trong [Eastfarthing](../E/Eastfarthing.md) tên của Afteryule, Astron và Fore
 
 <table border="1" cellpadding="4" cellspacing="0" class="TGtable">
 <tbody><tr>
-<th>Số tháng
+<th>Month number
 </th>
 <th>Shire Name
 </th>
@@ -54,7 +54,7 @@ Trong [Eastfarthing](../E/Eastfarthing.md) tên của Afteryule, Astron và Fore
 </th>
 <th>Translation in <i>The Lord of the Rings</i>
 </th>
-<th>Mối quan hệ gần đúng với <a class="extiw" href="http://en.wikipedia.org/wiki/Gregorian_calendar" title="wikipedia:Gregorian calendar">lịch Gregory</a><sup id="cite_ref-psarandoSR_3-0" class="reference"><a href="#cite_note-psarandoSR-3">[3]</a></sup>
+<th>Approximate relationship to <a class="extiw" href="http://en.wikipedia.org/wiki/Gregorian_calendar" title="wikipedia:Gregorian calendar">Gregorian calendar</a><sup id="cite_ref-psarandoSR_3-0" class="reference"><a href="#cite_note-psarandoSR-3">[3]</a></sup>
 </th>
 <th>Leap Years
 </th></tr>
@@ -83,7 +83,7 @@ Trong [Eastfarthing](../E/Eastfarthing.md) tên của Afteryule, Astron và Fore
 <td align="center">3</td>
 <td><i><a href="../R/Rethe.md" title="Rethe">Rethe</a></i></td>
 <td><i>Rethe</i></td>
-<td>Tháng Ba</td>
+<td>March</td>
 <td>20 February to 21 March</td>
 <td>20 February to 20 March
 </td></tr>
@@ -99,7 +99,7 @@ Trong [Eastfarthing](../E/Eastfarthing.md) tên của Afteryule, Astron và Fore
 <td align="center">5</td>
 <td><i><a href="../T/Thrimidge.md" title="Thrimidge">Thrimidge</a></i></td>
 <td><i>Thrimidge</i></td>
-<td>Tháng 5</td>
+<td>May</td>
 <td>21 April to 20 May</td>
 <td>20 April to 19 May
 </td></tr>
@@ -121,7 +121,7 @@ Trong [Eastfarthing](../E/Eastfarthing.md) tên của Afteryule, Astron và Fore
 </td></tr>
 <tr>
 <td align="center"> </td>
-<td><i><a href="../M/Mid-year&#39;s_Day.md" title="Mid-year&#39;s Day">Ngày giữa năm</a></i></td>
+<td><i><a href="../M/Mid-year&#39;s_Day.md" title="Mid-year&#39;s Day">Mid-year&#39;s Day</a></i></td>
 <td></td>
 <td>21 June</td>
 <td>20 June
@@ -130,7 +130,7 @@ Trong [Eastfarthing](../E/Eastfarthing.md) tên của Afteryule, Astron và Fore
 <td align="center"> </td>
 <td><i><a href="../O/Overlithe.md" title="Overlithe">Overlithe</a></i></td>
 <td></td>
-<td>Ngày nhuận</td>
+<td>Leap day</td>
 <td>21 June
 </td></tr>
 <tr>
@@ -157,7 +157,7 @@ Trong [Eastfarthing](../E/Eastfarthing.md) tên của Afteryule, Astron và Fore
 <td align="center">9</td>
 <td><i><a href="../H/Halimath.md" title="Halimath">Halimath</a></i></td>
 <td><i><a href="../H/Harvestmath.md" title="Harvestmath">Harvestmath</a></i></td>
-<td>tháng Chín</td>
+<td>September</td>
 <td colspan="2">22 August to 20 September
 </td></tr>
 <tr>
@@ -201,11 +201,11 @@ Ngày giữa năm và khi có mặt, Overlithe không có bài tập nào trong 
 <tbody><tr>
 <th>Day Name
 </th>
-<th>Ý nghĩa
+<th>Meaning
 </th>
 <th>Translation in <i>The Lord of the Rings</i>
 </th>
-<th>Mối quan hệ với lịch Gregory
+<th>Relationship to Gregorian calendar
 </th></tr>
 <tr>
 <td><i><a href="Sterday.md" title="Sterday">Sterday</a></i></td>
@@ -215,13 +215,13 @@ Ngày giữa năm và khi có mặt, Overlithe không có bài tập nào trong 
 </td></tr>
 <tr>
 <td><i><a href="Sunday.md" title="Sunday">Sunday</a></i></td>
-<td><a href="Sun.md" title="Sun">Mặt Trời</a></td>
+<td><a href="Sun.md" title="Sun">Sun</a></td>
 <td>Sunday</td>
 <td>Tuesday
 </td></tr>
 <tr>
 <td><i><a href="../M/Monday.md" title="Monday">Monday</a></i></td>
-<td><a href="../M/Moon.md" title="Moon">Mặt Trăng</a></td>
+<td><a href="../M/Moon.md" title="Moon">Moon</a></td>
 <td>Monday</td>
 <td>Wednesday
 </td></tr>
@@ -239,7 +239,7 @@ Ngày giữa năm và khi có mặt, Overlithe không có bài tập nào trong 
 </td></tr>
 <tr>
 <td><i><a href="../M/Mersday.md" title="Mersday">Mersday</a></i></td>
-<td><a href="../B/Belegaer.md" title="Belegaer">Biển</a></td>
+<td><a href="../B/Belegaer.md" title="Belegaer">Sea</a></td>
 <td>Thursday</td>
 <td>Saturday
 </td></tr>
@@ -274,4 +274,4 @@ Tên các tháng của Lịch Shire chủ yếu dựa trên <a class="extiw" hre
 ## Liên kết ngoài {#External_links}
 
 Trang web - <a class="external text" href="http://shire-reckoning.com/" rel="noreferrer noopener" target="_blank">The Shire-tính toán</a>, dành riêng cho việc phân tích chi tiết về Lịch Hobbit.
-- Dự án <a class="external text" href="https://psarando.github.io/shire-reckoning" rel="noreferrer noopener" target="_blank">Lịch Shire</a>, dành riêng cho việc mô phỏng và phân tích chi tiết tất cả các lịch của *The Lord of the Rings* [Phụ lục D](../A/Appendix_D.md).
+- Dự án <a class="external text" href="https://psarando.github.io/shire-reckoning" rel="noreferrer noopener" target="_blank">Shire Tính toán</a>, dành riêng cho việc mô phỏng và phân tích chi tiết tất cả các lịch của *The Lord of the Rings* [Phụ lục D](../A/Appendix_D.md).

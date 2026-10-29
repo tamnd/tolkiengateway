@@ -18,7 +18,7 @@ images:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Ron_Spencer_-_Ghosts.jpg.md"><img src="https://tolkiengateway.net/w/images/9/99/Ron_Spencer_-_Ghosts.jpg" decoding="async" loading="lazy" width="259" height="215" class="mw-file-element" data-file-width="259" data-file-height="215"/></a><figcaption><a href="../R/Ron_Spencer.md" title="Ron Spencer">Ron Spencer</a> - <i>Ghosts</i></figcaption></figure>
 
 <center><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>...đối với họ Kẻ Thù đã ban cho những chiếc nhẫn sức mạnh, và ông đã nuốt chửng họ: họ trở thành những bóng ma sống, khủng khiếp và độc ác.'
+<p>...to them the Enemy had given rings of power, and he had devoured them: living ghosts they were become, terrible and evil.&#39;
 </p>
 <p class="tg-quote-footer"><cite> <a href="../F/Faramir.md" title="Faramir">Faramir</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p></blockquote></div></center>
 
@@ -38,15 +38,15 @@ Trong [Gnomish](Gnomish.md), một trong những quan niệm ban đầu của [T
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Ma là một trong những sinh vật Undead mạnh nhất. Chúng hoàn toàn không có thực và hút điểm cấu thành từ nhân vật của người chơi.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
+<dl><dd>Ghosts are one of the most powerful Undead beings. They are altogether incorporeal, and drain constitution points from player characters.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
 <b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
 
-<dl><dd>Ma có ba loại: ma, hồn ma và xác sống.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
+<dl><dd>Ghosts come in three types: phantoms, wraiths and wights.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Những sinh vật ma quái được gọi là Bóng tối trong trò chơi và có nhiều loại bao gồm Lời Thề-breakers (tương tự như <a class="mw-redirect" href="../D/Dead_Men_of_Dunharrow.md" title="Dead Men of Dunharrow">Dead Con Người của Dunharrow</a>), linh hồn sa ngã (những hồn ma tạo hoạt hình cho <a href="../B/Barrow-wights.md" title="Barrow-wights">Barrow-wight</a>), nến Xác chết (giống như của <a href="../D/Dead_Marshes.md" title="Dead Marshes">Đầm lầy Chết</a>) và những linh hồn sông ác độc được gọi là Darkwaters.</dd></dl>
+<dl><dd>Ghostly beings are referred to as Shades in the game and come in several varieties including Oath-breakers (similar to the <a class="mw-redirect" href="../D/Dead_Men_of_Dunharrow.md" title="Dead Men of Dunharrow">Dead Men of Dunharrow</a>), fell spirits (ghosts that animate the <a href="../B/Barrow-wights.md" title="Barrow-wights">Barrow-wights</a>), Corpse-candles (like those of the <a href="../D/Dead_Marshes.md" title="Dead Marshes">Dead Marshes</a>), and evil river-spirits called Darkwaters.</dd></dl>
 
 ## Xem thêm {#See_also}
 

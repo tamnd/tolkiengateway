@@ -31,7 +31,7 @@ infobox:
     value: "Jonna Piittala; Daeron; Thalion; Emerwen; Iina; Finduilas; Von Blofeld; Bolg; Dain; Miriel; Dim"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Avathar.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/13/Avathar.png/320px-Avathar.png" decoding="async" loading="lazy" width="320" height="229" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/13/Avathar.png/480px-Avathar.png 1.5x, https://tolkiengateway.net/w/images/1/13/Avathar.png 2x" data-file-width="503" data-file-height="360"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Ban nhạc</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin nền</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nguồn gốc</th><td class="tg-infobox-data">Ojakkala, Finland</td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Kim loại đen, <a href="../T/Tolkien_metal.md" title="Tolkien metal">Tolkien kim loại</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thời gian hoạt động</th><td class="tg-infobox-data">2000–nay</td></tr><tr><th scope="row" class="tg-infobox-label">nhãn</th><td class="tg-infobox-data">Không có</td></tr><tr><th scope="row" class="tg-infobox-label">trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.facebook.com/avatharFIN/" rel="noreferrer noopener" target="_blank">Facebook page</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thành viên</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thành viên hiện tại</th><td class="tg-infobox-data">Vua phù thủy<br/>Scatha<br/>Rồng Thợ săn<br/>Anfauglir<br/>Khamûl<br/>Ar-Pharazôn</td></tr><tr><th scope="row" class="tg-infobox-label">Cựu thành viên</th><td class="tg-infobox-data">Jonna Piittala<br/>Daeron<br/>Thalion<br/>Emerwen<br/>Iina<br/>Finduilas<br/>Von Blofeld<br/>Bolg<br/>Dain<br/>Miriel<br/>Dim</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Avathar.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/13/Avathar.png/320px-Avathar.png" decoding="async" loading="lazy" width="320" height="229" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/13/Avathar.png/480px-Avathar.png 1.5x, https://tolkiengateway.net/w/images/1/13/Avathar.png 2x" data-file-width="503" data-file-height="360"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Ojakkala, Finland</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Black metal, <a href="../T/Tolkien_metal.md" title="Tolkien metal">Tolkien metal</a></td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">2000-present</td></tr><tr><th scope="row" class="tg-infobox-label">label</th><td class="tg-infobox-data">None</td></tr><tr><th scope="row" class="tg-infobox-label">website</th><td class="tg-infobox-data"><a class="external text" href="http://www.facebook.com/avatharFIN/" rel="noreferrer noopener" target="_blank">Facebook page</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Witch king<br/>Scatha<br/>Dragon Hunter<br/>Anfauglir<br/>Khamûl<br/>Ar-Pharazôn</td></tr><tr><th scope="row" class="tg-infobox-label">Former Members</th><td class="tg-infobox-data">Jonna Piittala<br/>Daeron<br/>Thalion<br/>Emerwen<br/>Iina<br/>Finduilas<br/>Von Blofeld<br/>Bolg<br/>Dain<br/>Miriel<br/>Dim</td></tr></tbody></table>
 
 **Avathar** là ban nhạc black metal Phần Lan có tác phẩm lấy cảm hứng từ sáng tác của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Họ coi ban nhạc black metal của Áo [Summoning](../S/Summoning.md) là một trong những nguồn ảnh hưởng âm nhạc chính của họ.
 
@@ -47,20 +47,20 @@ Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đ
 <tbody><tr>
 <th style="background:var(--tg-color-surface-5);">Release <br/>Date
 </th>
-<th style="background:var(--tg-color-surface-5);">Tên
+<th style="background:var(--tg-color-surface-5);">Name
 </th>
-<th style="background:var(--tg-color-surface-5);">Loại
+<th style="background:var(--tg-color-surface-5);">Type
 </th>
 <th style="background:var(--tg-color-surface-5);">Tracks
 </th>
-<th style="background:var(--tg-color-surface-5);">Chiều dài
+<th style="background:var(--tg-color-surface-5);">Length
 </th></tr>
 <tr>
 <td><a href="../_/2003.md" title="2003">2003</a>
 </td>
 <td><i>The Shadows</i>
 </td>
-<td>Bản giới thiệu
+<td>Demo
 </td>
 <td>6
 </td>
@@ -71,7 +71,7 @@ Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đ
 </td>
 <td><i><b>Shadows</b></i>
 </td>
-<td>Phim truyện dài
+<td>Full-length
 </td>
 <td>13
 </td>
@@ -82,7 +82,7 @@ Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đ
 </td>
 <td><i><b>Where Light and Shadow Collide</b></i>
 </td>
-<td>Phim truyện dài
+<td>Full-length
 </td>
 <td>9
 </td>
@@ -93,7 +93,7 @@ Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đ
 </td>
 <td><i>A Storm Coming</i>
 </td>
-<td>Bản giới thiệu
+<td>Demo
 </td>
 <td>4
 </td>
@@ -104,7 +104,7 @@ Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đ
 </td>
 <td><i>Where Wicked Winds Blow</i>
 </td>
-<td>Bản giới thiệu
+<td>Demo
 </td>
 <td>4
 </td>
@@ -126,7 +126,7 @@ Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đ
 </td>
 <td><i>To the Halls of Await</i>
 </td>
-<td>Bản giới thiệu
+<td>Demo
 </td>
 <td>4
 </td>
@@ -137,7 +137,7 @@ Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đ
 </td>
 <td><i>From the Other Side</i>
 </td>
-<td>Bản giới thiệu
+<td>Demo
 </td>
 <td>4
 </td>
@@ -148,7 +148,7 @@ Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đ
 </td>
 <td><i>For What Dwells Behind the Mist</i>
 </td>
-<td>Bản giới thiệu
+<td>Demo
 </td>
 <td>2
 </td>
@@ -159,7 +159,7 @@ Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đ
 </td>
 <td><i>Forlorn</i>
 </td>
-<td>Bản giới thiệu
+<td>Demo
 </td>
 <td>3
 </td>
@@ -170,7 +170,7 @@ Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đ
 </td>
 <td><i>Dark Paths</i>
 </td>
-<td>Bản giới thiệu
+<td>Demo
 </td>
 <td>3
 </td>
@@ -181,7 +181,7 @@ Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đ
 </td>
 <td><i><b>Bûrgulu kû-ghâra</b></i>
 </td>
-<td>Phim truyện dài
+<td>Full-length
 </td>
 <td>13
 </td>
@@ -190,7 +190,7 @@ Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đ
 
 ## Đội hình {#Line-up}
 
-<dl><dt>Thành viên hiện tại<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dt></dl>
+<dl><dt>Current members<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dt></dl>
 
 - Vua phù thủy (Harri Hyytiäinen) - bass <small>(2000-2007)</small>, vocal <small>(2000–nay)</small>
 - Scatha - tổng hợp <small>(2000–nay)</small>
@@ -199,7 +199,7 @@ Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đ
 - Khamûl - trống <small>(2013–nay)</small>
 - Ar-Pharazôn - tổng hợp <small>(2014–nay)</small>
 
-<dl><dt>Cựu thành viên<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dt></dl>
+<dl><dt>Former members<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dt></dl>
 
 - Jonna Piittala - giọng hát <small>(2003)</small>
 - Daeron - ghi-ta <small>(2005-2007)</small>, trống <small>(2007-2011)</small>

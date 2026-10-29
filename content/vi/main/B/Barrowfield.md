@@ -34,9 +34,9 @@ Tên này có nghĩa là "cánh đồng chứa mộ".<sup id="cite_ref-Nomen_3-0
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Barrowfield nằm ở hai bên con đường dẫn đến Edoras và có thể xác định được xe của tất cả các vị Vua riêng lẻ.</dd></dl>
+<dl><dd>The Barrowfield is located to the sides of the road leading to Edoras, and the barrows of all individual Kings can be identified.</dd></dl>
 
 <span></span>
 

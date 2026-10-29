@@ -16,7 +16,7 @@ images:
 
 **Bane** là một từ cổ dùng để chỉ điều gì đó gây tổn hại hoặc hủy hoại một người hoặc nhiều người. [Tolkien](../J/J.R.R._Tolkien.md) thường sử dụng thuật ngữ này trong [Trung Địa](../M/Middle-earth.md) của mình. Dưới đây là một số tiêu đề có chứa từ *bane*:
 
-- [Bain](Bain.md), một [Vua Dale](../K/King_of_Dale.md), tên được một số người dịch là "nguy hiểm".
+- [Bain](Bain.md), một [Vua của Dale](../K/King_of_Dale.md), tên được một số người dịch là "nguy hiểm".
 - [Dagnir](../D/Dagnir.md), một người đàn ông [Dorthonion](../D/Dorthonion.md), tên được dịch là "tai họa".
 - **[Tai họa của Durin](../D/Durin's_Bane.md), Balrog của [Moria](../M/Moria.md).**
 Tai ương của - [Glaurung](../G/Glaurung.md), [Túrin Turambar](../T/Túrin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
@@ -30,8 +30,8 @@ Tai ương của - **[Isildur](../I/Isildur.md), [Chiếc nhẫn duy nhất](../
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
 <p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>Trang định hướng này là danh sách các bài viết có cùng tiêu đề. Điều này phù hợp với <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Chính sách đặt tên</a> của <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>.</i>
-<span style="display:block;font-size: 85%;">Nếu <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Bane_(disambiguation)" title="Special:WhatLinksHere/:Bane (disambiguation)">liên kết nội bộ</a> giới thiệu bạn đến trang này, bạn có thể muốn thay đổi liên kết để trỏ trực tiếp đến bài viết dự định.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Bane_(disambiguation)" title="Special:WhatLinksHere/:Bane (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>
 
 <span></span>

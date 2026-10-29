@@ -15,7 +15,7 @@ images:
   - "Cannon_Hill_Park_-_Boulder.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Cannon_Hill_Park_-_Boulder.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/60/Cannon_Hill_Park_-_Boulder.jpg/300px-Cannon_Hill_Park_-_Boulder.jpg" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/60/Cannon_Hill_Park_-_Boulder.jpg/450px-Cannon_Hill_Park_-_Boulder.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/60/Cannon_Hill_Park_-_Boulder.jpg/600px-Cannon_Hill_Park_-_Boulder.jpg 2x" data-file-width="800" data-file-height="600"/></a><figcaption>Tảng đá ở Công viên Cannon Hill có thể đã truyền cảm hứng cho thiên thạch</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Cannon_Hill_Park_-_Boulder.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/60/Cannon_Hill_Park_-_Boulder.jpg/300px-Cannon_Hill_Park_-_Boulder.jpg" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/60/Cannon_Hill_Park_-_Boulder.jpg/450px-Cannon_Hill_Park_-_Boulder.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/60/Cannon_Hill_Park_-_Boulder.jpg/600px-Cannon_Hill_Park_-_Boulder.jpg 2x" data-file-width="800" data-file-height="600"/></a><figcaption>Boulder at Cannon Hill Park that could have inspired the meteorite</figcaption></figure>
 
 **Công viên Gunthorpe** là một công viên ở <a class="extiw" href="http://en.wikipedia.org/wiki/Matfield" title="wikipedia:Matfield">Matfield</a> theo *[The Notion Club Papers](../T/The_Notion_Club_Papers.md)*.
 

@@ -17,13 +17,13 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Straits_of_the_World&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Straits_of_the_World&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Eo biển Thế giới** là một eo biển vùng đất miền núi phía đông nam [Beleriand](../B/Beleriand.md) ngăn cách [Vịnh Lớn](../G/Great_Gulf.md) của [Belegaer](../B/Belegaer.md) với [Biển Nội Địa Helcar](Sea_of_Helcar.md) ở [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-Ambar_1-0" class="reference"><a href="#cite_note-Ambar-1">[1]</a></sup> Eo biển Thế giới chỉ xuất hiện trong các bài viết ban đầu<sup id="cite_ref-Ambar_1-1" class="reference"><a href="#cite_note-Ambar-1">[1]</a></sup> trước khi Tolkien hình dung ra những vùng đất rộng lớn của [Eriador](../E/Eriador.md), [Gondor](../G/Gondor.md) và [Mordor](../M/Mordor.md) nằm ở phía đông và phía nam của Beleriand.
+**Eo biển Thế giới** là một eo biển vùng đất miền núi phía đông nam [Beleriand](../B/Beleriand.md) ngăn cách [Vịnh Lớn](../G/Great_Gulf.md) của [Belegaer](../B/Belegaer.md) với [Nội địa Biển Helcar](Sea_of_Helcar.md) ở [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-Ambar_1-0" class="reference"><a href="#cite_note-Ambar-1">[1]</a></sup> Eo biển Thế giới chỉ xuất hiện trong các bài viết ban đầu<sup id="cite_ref-Ambar_1-1" class="reference"><a href="#cite_note-Ambar-1">[1]</a></sup> trước khi Tolkien hình dung ra những vùng đất rộng lớn của [Eriador](../E/Eriador.md), [Gondor](../G/Gondor.md) và [Mordor](../M/Mordor.md) nằm ở phía đông và phía nam của Beleriand.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

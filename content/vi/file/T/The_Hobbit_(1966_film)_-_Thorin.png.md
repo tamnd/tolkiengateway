@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Hobbit (1967 film) - Thorin.png"
 ---
 
-Chuyển hướng đến [Tệp:The Hobbit (phim năm 1967) - Thorin.png](<The_Hobbit_(1967_film)_-_Thorin.png.md>).
+Chuyển hướng đến [Tệp:The Hobbit (phim 1967) - Thorin.png](<The_Hobbit_(1967_film)_-_Thorin.png.md>).

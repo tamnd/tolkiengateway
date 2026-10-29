@@ -41,7 +41,7 @@ If you have any questions, feel free to ask in our <a class="mw-redirect" href="
 <div class="tg-card" style=""><div class="tg-card-content"><div class="tg-card-title">Site updates</div><div class="tg-card-body">
 <h3><span class="mw-headline" id="2024">2024</span></h3>
 <ul><li><b>29-11-2024</b> - Short URL&#39;s can now be created for any article by selecting the three dots in the corner and choosing &#34;Get shortened URL&#34;</li>
-<li><b>24-6-2024</b> - When editing an article, an automatic draft is now saved. You can close your browser and re-open it without losing your work.</li>
+<li><b>24-6-2024</b> - When editing an article, an automatic draft is  now saved. You can close your browser and re-open it without losing your work.</li>
 <li><b>9-6-2024</b> - We have upgraded to the latest version of MediaWiki, 1.41.</li>
 <li><b>3-6-2024</b> - Editors can now click a &#34;Preview&#34; button in the top right when using &#34;Edit source&#34;. This will show a preview of your changes next to the code.</li>
 <li><b>3-6-2024</b> - You may have noticed we have made some minor tweaks to our theme. We will be spending the next several months updating various templates with more design surprises in store. Stay tuned!</li></ul></div></div><div class="tg-card-footer"><a href="../U/Updates.md" title="Tolkien Gateway:Updates">More updates</a> • <a href="../T/Technical_To-do.md" title="Tolkien Gateway:Technical To-do">Technical To-do</a></div></div></div></div></div><div class="template-flexbox-item" style="--template-flexbox-item-span:1">

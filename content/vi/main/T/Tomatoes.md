@@ -15,7 +15,7 @@ images:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Và chỉ cần mang gà nguội và cà chua ra!
+<p>And just bring out the cold chicken and tomatoes!
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> to <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>, <a href="../A/An_Unexpected_Party.md" title="An Unexpected Party">An Unexpected Party</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -32,15 +32,15 @@ Cà chua đã được nhắc đến trong ấn bản đầu tiên của *[The H
 
 <b>2001: <i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i></b>:
 
-<dl><dd><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a>, <a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a> và <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Meriadoc Brandybuck</a> đều đang nấu cà chua, cùng với xúc xích và thịt xông khói bên đống lửa trại lúc <a href="../W/Weathertop.md" title="Weathertop">Weathertop</a> khi <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> thức dậy. Trong cơn hoảng loạn, Frodo giậm chân vào lửa để dập lửa trước khi <a href="../N/Nazgûl.md" title="Nazgûl">Kỵ sĩ Đen</a> nhìn thấy và Pippin phàn nàn rằng Frodo có tro dính đầy trên cà chua của mình.</dd></dl>
+<dl><dd><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a>, <a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a>, and <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Meriadoc Brandybuck</a> are all cooking tomatoes, along with sausages and bacon, over their campfire at <a href="../W/Weathertop.md" title="Weathertop">Weathertop</a> when <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> wakes up. In a panic, Frodo stamps his foot on the fire to put it out before the <a href="../N/Nazgûl.md" title="Nazgûl">Black Riders</a> see it, and Pippin complains that Frodo got ash all over his tomatoes.</dd></dl>
 
 <b>2003: <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
-<dl><dd><a href="../D/Denethor.md" title="Denethor">Denethor</a> yêu cầu <a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin</a> hát cho ông nghe trong khi ông dùng bữa. Ông ăn cà chua khi <a href="../F/Faramir.md" title="Faramir">Faramir</a> tính phí <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a>.</dd></dl>
+<dl><dd><a href="../D/Denethor.md" title="Denethor">Denethor</a> asks <a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin</a> to sing to him while he feasts. He eats tomatoes as <a href="../F/Faramir.md" title="Faramir">Faramir</a> charges on <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a>.</dd></dl>
 
 <b>2012: <i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i></b>:
 
-<dl><dd>Cà chua là một trong những thực phẩm dự trữ trong kho Bag End.</dd></dl>
+<dl><dd>Tomatoes are among the food stocked in the Bag End pantry.</dd></dl>
 
 ## Xem thêm {#See_also}
 

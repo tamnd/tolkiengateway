@@ -23,7 +23,7 @@ langlinks:
 ## Cầu nguyện {#Prayer}
 
 <dl><dd><i>Alcar i ataren ar i yondon ar i <a href="Airefëa.md" title="Airefëa">airefean</a>.</i></dd>
-<dd>“Sáng danh Đức Chúa Cha, Đức Chúa Con và Đức Thánh Linh.”</dd></dl>
+<dd>&#34;Glory [be] to the Father, and to the Son, and to the Holy Ghost.&#34;</dd></dl>
 
 ## Xem thêm {#See_also}
 

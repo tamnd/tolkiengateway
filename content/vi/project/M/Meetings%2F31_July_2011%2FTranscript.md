@@ -31,7 +31,7 @@ sort_keys:
 [2011-07-31 20:09:25] &lt;Ederchil&gt; It pretty much speaks for itself. <br/>
 [2011-07-31 20:09:35] &lt;Hyarion&gt; I think it adds too much overhead for not enough benefit.<br/>
 [2011-07-31 20:09:49] &lt;Amroth&gt; yes, I agree with that.<br/>
-[2011-07-31 20:10:08] &lt;Gamling&gt; I was once one of the board members of a small non-profit organization in the U.S. We had to file with both the U.S. government and with a state government. Cost lots of $, took lots of time, was a hassle every year to file the paperwork.<br/>
+[2011-07-31 20:10:08] &lt;Gamling&gt; I was once one of the board members of a small non-profit organization in the U.S.  We had to file with both the U.S. government and with a state government.  Cost lots of $, took lots of time, was a hassle every year to file the paperwork.<br/>
 [2011-07-31 20:11:48] &lt;KingAragorn&gt; Yeah, the proposal didn&#39;t even consider state law. Federal law alone would be quite cumbersome <br/>
 [2011-07-31 20:11:59] &lt;KingAragorn&gt; What about the simple notion of becoming organised under US law?<br/>
 [2011-07-31 20:13:13] &lt;Hyarion&gt; I&#39;d imagine there would still be more overhead than it&#39;s worth.<br/>
@@ -40,7 +40,7 @@ sort_keys:
 [2011-07-31 20:14:13] &lt;KingAragorn&gt; Gamling was your organisation tax exempt?<br/>
 [2011-07-31 20:14:16] &lt;Morgan&gt; How about LotR Fanatics Plaza?<br/>
 [2011-07-31 20:14:57] &lt;Morgan&gt; Are they an organization? They have some kind of &#34;premium&#34; membership, which you pay for, but I&#39;m not sure if they are properly &#34;organized&#34;.<br/>
-[2011-07-31 20:15:15] &lt;Gamling&gt; My organization was tax exempt. Basically anything under $25,000 per year in income would be tax exempt, but the government wants you to file to prove that each year.<br/>
+[2011-07-31 20:15:15] &lt;Gamling&gt; My organization was tax exempt.  Basically anything under $25,000 per year in income would be tax exempt, but the government wants you to file to prove that each year.<br/>
 [2011-07-31 20:15:33] &lt;KingAragorn&gt; Ah ok<br/>
 [2011-07-31 20:15:57] &lt;KingAragorn&gt; I&#39;m not sure whether LotR Fanatics Plaza is organised or not<br/>
 [2011-07-31 20:16:45] &lt;KingAragorn&gt; But why would another Tolkien community have to become organised before we consider it ourselves? Can&#39;t we seize the initiative? <br/>
@@ -74,7 +74,7 @@ sort_keys:
 [2011-07-31 20:26:16] &lt;Hyarion&gt; would we need a separate bank account for the charity?<br/>
 [2011-07-31 20:27:04] &lt;Mith&gt; That&#39;s a degree of administrative detail I didn&#39;t look into. <br/>
 [2011-07-31 20:27:59] &lt;Morgan&gt; (it&#39;s usually not a big deal to open bank accounts for charities, I&#39;ve created a couple, although they&#39;ve been for Swedish organization)<br/>
-[2011-07-31 20:28:05] &lt;Gamling&gt; My U.S. group had to have a separate bank account in the U.S. Even if we don&#39;t need one in England it would be good to have it for cleaner traceability.<br/>
+[2011-07-31 20:28:05] &lt;Gamling&gt; My U.S. group had to have a separate bank account in the U.S.  Even if we don&#39;t need one in England it would be good to have it for cleaner traceability.<br/>
 [2011-07-31 20:28:26] &lt;Morgan&gt; (*organizations)<br/>
 [2011-07-31 20:29:17] &lt;KingAragorn&gt; As Gamling and Morgan have just said we should (and can) set up a separate bank account even if its not required legally<br/>
 [2011-07-31 20:29:22] &lt;KingAragorn&gt; *it&#39;s<br/>
@@ -176,7 +176,7 @@ sort_keys:
 [2011-07-31 20:56:21] &lt;Amroth&gt; but that the change that 2 people would die is much smaller then that one person dies.<br/>
 [2011-07-31 20:56:23] &lt;Hyarion&gt; California is about to sink into the ocean...<br/>
 [2011-07-31 20:56:28] &lt;Theoden1&gt; how much longer do u have to live, dood? :D<br/>
-[2011-07-31 20:57:09] &lt;Gamling&gt; I live on the west side of the San Andreas fault. We&#39;re not sinking; we&#39;re moving north. It&#39;s a long-term solution to global warming.<br/>
+[2011-07-31 20:57:09] &lt;Gamling&gt; I live on the west side of the San Andreas fault.  We&#39;re not sinking; we&#39;re moving north.  It&#39;s a long-term solution to global warming.<br/>
 [2011-07-31 20:57:09] &lt;KingAragorn&gt; If me and Mith perish in a nuclear blast then Hyarion would still have access the server - the charity would cease to be but TG wouldn&#39;t,<br/>
 [2011-07-31 20:57:23] &lt;Theoden1&gt; spread the risk, it makes since<br/>
 [2011-07-31 20:57:37] &lt;Theoden1&gt; u mean if Scotland nooks Wales?<br/>
@@ -306,7 +306,7 @@ SUSPENSION<br/>
 [2011-07-31 21:38:43] &lt;Hyarion&gt; yup<br/>
 [2011-07-31 21:38:46] &lt;KingAragorn&gt; (to respond to Hyarion&#39;s earlier criticism) We use banks every day, there&#39;s one legal document that is made when we set up, there will be no more accounts than paying for the server, and as a charity there would be no taxes<br/>
 [2011-07-31 21:39:21] &lt;Mith&gt; To be fair, I couldn&#39;t continue paying<br/>
-[2011-07-31 21:39:47] &lt;KingAragorn&gt; And the beauty of a charity is that anyone can give money to it<br/>
+[2011-07-31 21:39:47] &lt;KingAragorn&gt; And the beauty of  a charity is that anyone can give money to it<br/>
 [2011-07-31 21:40:50] &lt;Hyarion&gt; true, I have pretty strict restritions on who can give me money. No one with 3 arms.<br/>
 [2011-07-31 21:41:15] &lt;Hyarion&gt; :p<br/>
 [2011-07-31 21:41:35] &lt;KingAragorn&gt; Nonsense, you&#39;ve repeatedly said you don&#39;t want anyone to give you money<br/>
@@ -365,7 +365,7 @@ SUSPENSION<br/>
 [2011-07-31 21:59:48] &lt;KingAragorn&gt; It feels that way<br/>
 [2011-07-31 22:00:07] &lt;Amroth&gt; I&#39;m sure that Hyarion only wants the best for TG.<br/>
 [2011-07-31 22:00:52] &lt;Gamling&gt; And I think he has a valid concern that being a charity would increase the paperwork with little corresponding benefit.<br/>
-[2011-07-31 22:02:55] &lt;Gamling&gt; If the technical issues of running TG are the same with or without charity status then the reason for being a charity is for legal or financial issues. It doesn&#39;t sound like we have any pressing problems in these areas.<br/>
+[2011-07-31 22:02:55] &lt;Gamling&gt; If the technical issues of running TG are the same with or without charity status then the reason for being a charity is for legal or financial issues.  It doesn&#39;t sound like we have any pressing problems in these areas.<br/>
 [2011-07-31 22:03:13] &lt;KingAragorn&gt; After 4 years it doesn&#39;t feel like Hyarion is guided exclusively by what is best for TG, there&#39;s certainly a personal element that he finds it hard to give other responsibility for his creation<br/>
 [2011-07-31 22:03:27] &lt;Ederchil&gt; Agree with Gamling<br/>
 [2011-07-31 22:03:40] &lt;KingAragorn&gt; For instance he refused to allow anyone other than himself to become a sysop for years<br/>
@@ -386,7 +386,7 @@ SUSPENSION<br/>
 [2011-07-31 22:13:50] &lt;KingAragorn&gt; Good night Amroth<br/>
 [2011-07-31 22:15:02] &lt;Mith&gt; Good night, Amroth.<br/>
 [2011-07-31 22:15:19] &lt;Ederchil&gt; I honestly don&#39;t know what to think.<br/>
-[2011-07-31 22:15:23] &lt;Gamling&gt; Right now, if Hyarion departs for whatever reason then TG would go away. If we become a charity and Hyarion is still the domain owner and departs how would the situation be different?<br/>
+[2011-07-31 22:15:23] &lt;Gamling&gt; Right now, if Hyarion departs for whatever reason then TG would go away.  If we become a charity and Hyarion is still the domain owner and departs how would the situation be different?<br/>
 [2011-07-31 22:15:33] &lt;Mith&gt; +1 Ederchil<br/>
 [2011-07-31 22:15:44] &lt;Hyarion&gt; if Hyarion departs, Mith still has full access to the server.<br/>
 [2011-07-31 22:15:59] &lt;Amroth&gt; Good night everybody<br/>
@@ -423,7 +423,7 @@ SUSPENSION<br/>
 [2011-07-31 22:28:41] &lt;Mith&gt; In fact, all you need is a Constitution and annual accounts (which wno&#39;t get checked)<br/>
 [2011-07-31 22:28:54] &lt;KingAragorn&gt; I&#39;ve lost all sympathy<br/>
 [2011-07-31 22:29:20] &lt;Hyarion&gt; KA, I know you don&#39;t mean this, but you&#39;re coming across as &#39;I want more power or I don&#39;t want to participate&#39;<br/>
-[2011-07-31 22:29:37] &lt;Gamling&gt; If we were to become a charity and Hyarion were still in charge of the domain and its payment then nothing&#39;s different. Is the idea to get the domain and payments transferred to the charity?<br/>
+[2011-07-31 22:29:37] &lt;Gamling&gt; If we were to become a charity and Hyarion were still in charge of the domain and its payment then nothing&#39;s different.  Is the idea to get the domain and payments transferred to the charity?<br/>
 [2011-07-31 22:29:41] &lt;Mith&gt; I get the feeling, though, that Hyarion is vetoing this, which I can understand, but this probably could&#39;ve been said before.<br/>
 [2011-07-31 22:30:17] &lt;Mith&gt; Well, if we were a charity Hyarion would not be the owner. The Charity would be the owner and Hyarion would be the nominee.<br/>
 [2011-07-31 22:30:54] |&lt;-- Morgan has left irc.tolkiengateway.net (Ping timeout)<br/>
@@ -436,7 +436,7 @@ SUSPENSION<br/>
 [2011-07-31 22:32:46] &lt;Hyarion&gt; welcome back Morgan.<br/>
 [2011-07-31 22:32:54] &lt;Morgan&gt; Thanks, lost connection!<br/>
 [2011-07-31 22:33:02] &lt;Hyarion&gt; oh I still think this meeting was informative<br/>
-[2011-07-31 22:33:33] &lt;KingAragorn&gt; I want assurances that TG will survive the unforeseeable and will last as long as the world wide web survives, the charity idea is the most sensible way forward. I don&#39;t want more &#39;power&#39;; the only &#39;power&#39; I&#39;d have would be in devoting a small amount of my time (and possibly money) in being a trustee.<br/>
+[2011-07-31 22:33:33] &lt;KingAragorn&gt; I want assurances that TG will survive the unforeseeable and will last as long as the world wide web survives, the charity idea is the most sensible way forward . I don&#39;t want more &#39;power&#39;; the only &#39;power&#39; I&#39;d have would be in devoting a small amount of my time (and possibly money) in being a trustee.<br/>
 [2011-07-31 22:33:56] &lt;KingAragorn&gt; Well, I&#39;m annoyed that you humoured us until the last moment<br/>
 [2011-07-31 22:34:13] &lt;Hyarion&gt; ...?<br/>
 [2011-07-31 22:34:29] &lt;KingAragorn&gt; &#34;...?&#34;?<br/>
@@ -462,7 +462,7 @@ SUSPENSION<br/>
 [2011-07-31 22:56:27] --&gt;| Icarus (icarus@tolkiengateway-68A07541.bb.ispone.net.au) has joined #Wiki<br/>
 [2011-07-31 22:56:30] &lt;Hyarion&gt; hi Icarus <br/>
 [2011-07-31 22:56:41] &lt;Hyarion&gt; how&#39;s your weekend going?<br/>
-[2011-07-31 22:56:42] &lt;Gamling&gt; Guys, I&#39;m not seeing any resolution here and it&#39;s time for me to go. I dislike saying &#34;let&#39;s table this discussion&#34; but if we can&#39;t get an agreement perhaps revisiting this later would be best.<br/>
+[2011-07-31 22:56:42] &lt;Gamling&gt; Guys, I&#39;m not seeing any resolution here and it&#39;s time for me to go.  I dislike saying &#34;let&#39;s table this discussion&#34; but if we can&#39;t get an agreement perhaps revisiting this later would be best.<br/>
 [2011-07-31 22:56:45] &lt;Icarus&gt; Hey Hyarion<br/>
 [2011-07-31 22:57:02] &lt;Hyarion&gt; Gamling, I agree, I think this was a very informative discussion.<br/>
 [2011-07-31 22:57:06] &lt;Icarus&gt; Hyarion: I&#39;m going to school in 7 minutes XD<br/>

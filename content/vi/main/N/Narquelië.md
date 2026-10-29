@@ -16,7 +16,7 @@ sort_keys:
   "Quenya nouns": "Narquelie"
 ---
 
-**Narquelië** là tháng thứ mười trong năm, theo [Kế toán của các vị vua](../K/Kings'_Reckoning.md) và [Quản lý](../S/Stewards'_Reckoning.md) của [Gondor](../G/Gondor.md), và là tháng thứ bảy theo [Tính toán mới](New_Reckoning.md); tiếp theo tháng [Yavannië](../Y/Yavannië.md) trong [Sự Lịch Tính của các Vua](../K/Kings'_Reckoning.md), lễ thu hoạch của [Yáviérë](../Y/Yáviérë.md) trong Sự tính toán của quản gia, [Enderi](../E/Enderi.md) trong Sự tính toán mới và trước [Hísimë](../H/Hísimë.md) trong cả 3 lịch. Narquelië trong The Kings' and Stewards' Reckoning tương ứng với [Winterfilth](../W/Winterfilth.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [22 tháng Chín](../_/22_September.md) hiện đại đến [21 tháng 10](../_/21_October.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Narquelië** là tháng thứ mười trong năm, theo [Kế toán của các vị vua](../K/Kings'_Reckoning.md) và [Quản lý](../S/Stewards'_Reckoning.md) của [Gondor](../G/Gondor.md), và là tháng thứ bảy theo [Tính toán mới](New_Reckoning.md); tiếp theo tháng [Yavannië](../Y/Yavannië.md) trong [Sự tính toán của các vị vua](../K/Kings'_Reckoning.md), lễ thu hoạch của [Yáviérë](../Y/Yáviérë.md) trong Sự tính toán của quản gia, [Enderi](../E/Enderi.md) trong Sự tính toán mới và trước [Hísimë](../H/Hísimë.md) trong cả 3 lịch. Narquelië trong The Kings' and Stewards' Reckoning tương ứng với [Winterfilth](../W/Winterfilth.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [22 tháng Chín](../_/22_September.md) hiện đại đến [21 tháng 10](../_/21_October.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Marshal_of_the_West-mark"
 content_sha256: c5b45f313edef4f95c713a10b12ccdb692a60ef5991f5cefb06bca29f8e0dd38
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Cấp bậc quân sự Rohirrim"
+short_description: "Military rank of the Rohirrim"
 categories:
   - "Mannish titles"
   - "Rohan"

@@ -19,23 +19,23 @@ categories:
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p><b>Fara Með Vikingum</b><br/>
 <br/>
-Thật tuyệt vời,<br/>
-tại mer skyldi kaupa<br/>
-được rồi, được rồi,<br/>
-xa quá! một lời cảm ơn vikingum,<br/>
-đứng lên và đứng lên,<br/>
+Þat mælti min moðir,<br/>
+at mer skyldi kaupa<br/>
+fley ok fagrar arar,<br/>
+fara! a brott með vikingum,<br/>
+standa upp i stafni,<br/>
 styra clyrum knerri,<br/>
 halda sva til hafnar,<br/>
-hoggva mann được rồi annan.<br/>
+hoggva mann ok annan.<br/>
 <br/>
-Drekkum hoặc, þo tại Ekkils<br/>
+Drekkum or, þo at Ekkils<br/>
 eykriðr beri tiðum<br/>
-sừng và hendi,<br/>
-hvert đầy đủ, khoe khoang Ulli.<br/>
+hornasund at hendi,<br/>
+hvert full, bragar Ulli.<br/>
 leifi ek vætr, þo at laufa<br/>
 leikstærir mer tæri<br/>
-hrostatjorn và sừng,<br/>
-sừng, cho đến sáng <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+hrostatjorn i horni,<br/>
+horns, til dags at morni <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 </p>
 </div>
 

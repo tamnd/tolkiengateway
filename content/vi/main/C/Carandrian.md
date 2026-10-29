@@ -23,13 +23,13 @@ infobox:
     value: "Male"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../E/Ents.md" title="Ents">Ent</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Carandrian</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../F/Fangorn_Forest.md" title="Fangorn Forest">Fangorn Forest</a><br/><a href="../I/Isengard.md" title="Isengard">Isengard</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trực thuộc</th><td class="tg-infobox-data"><a href="../Q/Quickbeam.md" title="Quickbeam">Quickbeam</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data"><a href="../E/Entish.md" title="Entish">Entish</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nam</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../E/Ents.md" title="Ents">Ent</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Carandrian</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../F/Fangorn_Forest.md" title="Fangorn Forest">Fangorn Forest</a><br/><a href="../I/Isengard.md" title="Isengard">Isengard</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../Q/Quickbeam.md" title="Quickbeam">Quickbeam</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../E/Entish.md" title="Entish">Entish</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
 **Carandrian** là một [Ent](../E/Ent.md) của dân gian [Quickbeam](../Q/Quickbeam.md), theo phiên bản nháp của chương *[Flotsam and Jetsam](../F/Flotsam_and_Jetsam.md)*.<sup id="cite_ref-War_1-0" class="reference"><a href="#cite_note-War-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Carandrian là bạn của Quickbeam, và là một trong những Ent đã tham gia [Trận Isengard](../B/Battle_of_Isengard.md); trong trận chiến, ông bị thương bởi một chiếc rìu, điều này khiến những người còn lại trong Ent vô cùng tức giận.<sup id="cite_ref-War_1-1" class="reference"><a href="#cite_note-War-1">[1]</a></sup>
+Carandrian là bạn của Quickbeam, và là một trong những Ent đã tham gia [Trận Isengard](../B/Battle_of_Isengard.md); trong trận chiến, ông ta bị thương bởi một chiếc rìu, điều này khiến những người còn lại trong Ent vô cùng tức giận.<sup id="cite_ref-War_1-1" class="reference"><a href="#cite_note-War-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

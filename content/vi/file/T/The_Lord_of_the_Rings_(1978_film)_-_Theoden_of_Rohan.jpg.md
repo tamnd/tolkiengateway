@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Gandalf](../../main/G/Gandalf.md) và [Ba Thợ Săn](../../main/T/Three_Hunters.md) nhập [Meduseld](../../main/M/Meduseld.md). Ảnh chụp màn hình từ [*The Lord of the Rings* (phim năm 1978)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
+[Gandalf](../../main/G/Gandalf.md) và [Ba Thợ Săn](../../main/T/Three_Hunters.md) nhập [Meduseld](../../main/M/Meduseld.md). Ảnh chụp màn hình từ [*The Lord of the Rings* (phim 1978)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Giấy phép {#Licensing}
 

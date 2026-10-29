@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Enchanted River"
 ---
 
-Chuyển hướng đến [Dòng sông Phép thuật](Enchanted_River.md).
+Chuyển hướng đến [Dòng sông mê hoặc](Enchanted_River.md).

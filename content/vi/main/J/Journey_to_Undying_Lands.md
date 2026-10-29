@@ -17,66 +17,66 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Vùng đất của những vị thần <br/>
-Ngôi nhà cho hình dạng con người của họ <br/>
-Bạn thấy những ngôi sao giống nhau <br/>
-Từ cõi xa xôi của họ <br/>
-con đường huyền bí bạn đi <br/>
-Để có được sự hiện diện của họ <br/>
-Một phần của thế giới phàm trần <br/>
-Sáng tạo, Bài ca vĩ đại <br/>
+<p>Land of the Gods <br/>
+Home for their human forms <br/>
+You see the same stars <br/>
+From their distant realm <br/>
+mystic path you sail <br/>
+To reach their presence <br/>
+One part of mortal world <br/>
+Creation, the Great Song <br/>
 <br/>
-Có một vùng đất ngoài biển lớn <br/>
-Nơi đọc hòa âm cuối cùng <br/>
-Đến bờ cõi xa xôi <br/>
-Đó là nơi tôi mơ ước và định mệnh của tôi <br/>
-Từ vịnh yêu tinh của Lhun <br/>
-Cuộc hành trình vĩ đại của chúng ta sẽ bắt đầu <br/>
-Phương Tây tàu của chúng tôi đang chú ý <br/>
-Đến bến cảng của đất trời xa xôi <br/>
+There&#39;s a land beyond the great sea <br/>
+The final place of read harmony <br/>
+To the shores of a far-away realm <br/>
+Those lands my dream and my destiny <br/>
+From the elven bay of Lhun <br/>
+Our great journey shall begin <br/>
+West our ships are heeding <br/>
+To the harbour of the far away land divine <br/>
 <br/>
-Trên vùng nước sâu <br/>
-Đối mặt với giông bão <br/>
-Mong Ulmo ở bên tôi <br/>
-Đến tận Quần đảo Phù phép <br/>
+Over the deep waters <br/>
+Facing the thundering winds <br/>
+May Ulmo be on my side <br/>
+All the way to the Enchanted Isles <br/>
 <br/>
-Lái những con tàu thần kỳ <br/>
-Hành trình vượt biển <br/>
-Con Đường Thẳng dọc theo Tiên tộc <br/>
-Vượt ra ngoài phạm vi thế giới <br/>
+Sailing the magical ships <br/>
+A journey over the sea <br/>
+Straight Road along the elves <br/>
+Beyond the Spheres of the world <br/>
 <br/>
-Đâu đó phía sau chân trời <br/>
-Hai cõi Vùng Đất Bất Tử <br/>
-Valinor nhà của Valar <br/>
-Eldamar miền yêu tinh <br/>
+Somewhere behind the horizon <br/>
+Two realms of Undying Lands <br/>
+Valinor home of the Valar <br/>
+Eldamar the elven domain <br/>
 <br/>
-Không sợ hãi trước biển cả vô danh <br/>
-Căng buồm tiến về phía trước <br/>
-Những con tàu trắng bằng gỗ tiên <br/>
-Đón cơn gió lành <br/>
-Tôi sẽ sớm nhìn thấy ream của mình <br/>
-Định mệnh mà tôi thực sự tin tưởng <br/>
-Vùng đất huyền diệu và kỳ ảo <br/>
-Nơi an nghỉ cuối cùng của tôi <br/>
+Without fear to the unknown sea <br/>
+Forward with full sails <br/>
+White ships of elven wood <br/>
+Catching the fair wind <br/>
+Soon I shall see my ream <br/>
+The fate I truly believed <br/>
+Land of magic and fantasy <br/>
+Place for my final rest <br/>
 <br/>
-Tạm biệt những người bạn trần thế của tôi <br/>
-Thời gian của tôi với bạn sẽ kết thúc <br/>
-Chào mừng ngôi nhà của thần <br/>
-Chia sẻ niềm vui khi tôi ra đi <br/>
+Farewell my mortal friends <br/>
+My time with you will be over <br/>
+Hail the home of gods <br/>
+Share my joy when I&#39;m gone <br/>
 <br/>
-Lái những con tàu thần kỳ <br/>
-Hành trình vượt biển <br/>
-Con Đường Thẳng dọc theo Tiên tộc <br/>
-Vượt ra ngoài phạm vi thế giới <br/>
+Sailing the magical ships <br/>
+A journey over the sea <br/>
+Straight Road along the elves <br/>
+Beyond the Sphere of the world <br/>
 <br/>
-Trên vùng nước sâu <br/>
-Đối mặt với giông bão <br/>
-Mong Ulmo ở bên tôi <br/>
-Đến tận Quần đảo Phù phép <br/>
+Over the deep waters <br/>
+Facing the thundering winds <br/>
+May Ulmo be on my side <br/>
+All the way to the Enchanted Isles <br/>
 <br/>
-Liệu tôi có bao giờ được nhìn thấy bờ biển đó không <br/>
-Vương quốc Tirion và Alqualonde <br/>
-Trái tim của các chủng tộc cao hơn <br/>
-Vương quốc của các vị thần, ngôi nhà vĩnh cửu của tôi<br/>
+Shall I ever see that coast <br/>
+Kingdoms of Tirion and Alqualonde <br/>
+Heart of the higher races <br/>
+The realm of the gods, my eternal home<br/>
 </p>
 </div>

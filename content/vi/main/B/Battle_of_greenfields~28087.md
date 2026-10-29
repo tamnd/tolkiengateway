@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of Greenfields"
 ---
 
-Chuyển hướng tới [Trận chiến tại Greenfields](Battle_of_Greenfields.md).
+Chuyển hướng tới [Trận chiến trên cánh đồng xanh](Battle_of_Greenfields.md).

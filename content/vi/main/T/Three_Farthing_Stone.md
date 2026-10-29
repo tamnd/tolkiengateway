@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Three-Farthing Stone"
 ---
 
-Chuyển hướng tới [Phiến đá Ba Khu](Three-Farthing_Stone.md).
+Chuyển hướng tới [Hòn đá ba rắm](Three-Farthing_Stone.md).

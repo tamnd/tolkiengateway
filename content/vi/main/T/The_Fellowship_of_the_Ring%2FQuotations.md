@@ -14,61 +14,61 @@ categories:
 ---
 
 <blockquote class="tg-quote noexcerpt">
-<p>Nhẫn Chúa để cai trị tất cả, Nhẫn Chúa để tìm ra chúng, Một chiếc nhẫn để mang tất cả chúng đi và trói buộc chúng trong bóng tối.
+<p>One Ring to rule them all, One Ring to find them, One ring to bring them all and in the darkness bind them.
 </p>
 <p class="tg-quote-footer"><cite>Epigraph</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Gandalf có vóc người thấp hơn hai người kia; nhưng mái tóc dài màu trắng, bộ râu rậm và đôi vai rộng khiến ông trông giống như một vị vua thông thái nào đó trong truyền thuyết xa xưa. Trên khuôn mặt già nua dưới đôi lông mày rậm như tuyết, đôi mắt của ông như những hòn than có thể bất ngờ bùng cháy.
+<p>Gandalf was shorter in stature than the other two; but his long white hair, his sweeping beard, and his broad shoulders, made him look like some wise king of ancient legend. In his aged face under great snowy brows his eyes were set like coals that could suddenly burst into fire.
 </p>
 <p class="tg-quote-footer"><cite>&#34;<a href="../M/Many_Meetings.md" title="Many Meetings">Many Meetings</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Đừng xen vào chuyện của Pháp sư, vì họ rất tinh vi và dễ nổi nóng.
+<p>Do not meddle in the affairs of Wizards, for they are subtle and quick to anger.
 </p>
-<p class="tg-quote-footer"><cite>"<a href="Three_is_Company.md" title="Three is Company">Ba là Công ty</a>"</cite></p>
+<p class="tg-quote-footer"><cite>&#34;<a href="Three_is_Company.md" title="Three is Company">Three is Company</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Đừng đến Tiên tộc để được tư vấn, vì họ sẽ nói cả không và có.
+<p>Go not to the Elves for counsel, for they will say both no and yes.
 </p>
-<p class="tg-quote-footer"><cite><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a>, <a href="Three_is_Company.md" title="Three is Company">Ba là Công ty</a></cite></p>
+<p class="tg-quote-footer"><cite><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a>, <a href="Three_is_Company.md" title="Three is Company">Three is Company</a></cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Kẻ bội tín là kẻ nói lời chia tay khi con đường tối sầm.
+<p>Faithless is he that says farewell when the road darkens.
 </p>
-<p class="tg-quote-footer"><cite><a href="../G/Gimli.md" title="Gimli">Gimli</a> đề địa chỉ <a href="../E/Elrond.md" title="Elrond">Elrond</a>, "<a class="mw-redirect" href="The_Ring_goes_South~59655.md" title="The Ring goes South">Chiếc nhẫn đi về hướng Nam</a>"</cite></p>
+<p class="tg-quote-footer"><cite><a href="../G/Gimli.md" title="Gimli">Gimli</a> addressing <a href="../E/Elrond.md" title="Elrond">Elrond</a>, &#34;<a class="mw-redirect" href="The_Ring_goes_South~59655.md" title="The Ring goes South">The Ring goes South</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Xứng đáng! Tôi dám nói là có. Nhiều người sống đáng chết và một số người chết đáng được sống. Bạn có thể đưa nó cho họ không? Vậy thì đừng quá hăng hái đưa ra cái chết trong sự phán xét. Vì ngay cả người khôn ngoan cũng không thể nhìn thấy mọi kết thúc.
+<p>Deserves it! I dare say he does. Many that live deserve death and some that die deserve life. Can you give it to them? Then do not be so eager to deal out death in judgement. For even the wise cannot see all ends.
 </p>
-<p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> trò chuyện với <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> về <a href="../G/Gollum.md" title="Gollum">Gollum</a>, "<a href="The_Shadow_of_the_Past.md" title="The Shadow of the Past"> Bóng Tối của quá khứ</a>"</cite></p>
+<p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> talking to <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> about <a href="../G/Gollum.md" title="Gollum">Gollum</a>, &#34;<a href="The_Shadow_of_the_Past.md" title="The Shadow of the Past">The Shadow of the Past</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Radagast màu nâu! Radagast Người thuần hóa chim! Radagast sự đơn giản! Radagast Đồ Khờ! Tuy nhiên, ông chỉ đủ thông minh để đóng vai tôi sắp đặt cho ông. Vì bạn đã đến, và đó là mục đích của thông điệp của tôi. Và bạn sẽ ở lại đây, Gandalf the Grey, và nghỉ ngơi sau cuộc hành trình. Vì ta là Saruman Người Thông Thái, Saruman Người Làm Nhẫn, Saruman Nhiều Màu Sắc!
+<p>Radagast the Brown! Radagast the Bird-tamer! Radagast the Simple! Radagast the Fool! Yet he had just the wit to play the part I set him. For you have come, and that was the purpose of my message. And here you shall stay, Gandalf the Grey, and rest from your journeys. For I am Saruman the Wise, Saruman the Ring-maker, Saruman of Many Colours!
 </p>
-<p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> kể lại những gì <a href="../S/Saruman.md" title="Saruman">Saruman</a> đã nói, "<a href="The_Council_of_Elrond.md" title="The Council of Elrond">Cái Hội đồng Elrond</a>"</cite></p>
+<p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> recounting what <a href="../S/Saruman.md" title="Saruman">Saruman</a> said, &#34;<a href="The_Council_of_Elrond.md" title="The Council of Elrond">The Council of Elrond</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Và người đập vỡ đồ vật để tìm xem nó là gì đã rời khỏi con đường trí tuệ.
+<p>And he who breaks a thing to find out what it is has left the path of wisdom.
 </p>
-<p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> kể lại việc nói chuyện với <a href="../S/Saruman.md" title="Saruman">Saruman</a>, "<a href="The_Council_of_Elrond.md" title="The Council of Elrond">The Hội đồng Elrond</a>"</cite></p>
+<p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> recounting speaking to <a href="../S/Saruman.md" title="Saruman">Saruman</a>, &#34;<a href="The_Council_of_Elrond.md" title="The Council of Elrond">The Council of Elrond</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Hãy tìm kiếm Thanh kiếm đã gãy: <br/> Trong Imladris nó ngự:<br/>Sẽ có những lời khuyên được đưa ra <br/>Mạnh hơn bùa chú Morgul. <br/> Sẽ có một mã thông báo <br/> Rằng Ngày tận thế đang đến gần, <br/> Vì Tai ương của Isildur sẽ thức tỉnh, <br/> Và Halfling sẽ đứng vững.
+<p>Seek for the Sword that was broken: <br/> In Imladris it dwells:<br/>There shall be counsels taken <br/>Stronger than Morgul-spells. <br/> There shall be shown a token <br/> That Doom is near at hand, <br/> For Isildur&#39;s Bane shall waken, <br/> And the Halfling forth shall stand.
 </p>
 <p class="tg-quote-footer"><cite>&#34;<a href="The_Council_of_Elrond.md" title="The Council of Elrond">The Council of Elrond</a>&#34;, The Dream of <a href="../B/Boromir.md" title="Boromir">Boromir</a></cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Lạnh cả tay, cả tim và xương, <br/> và lạnh khi ngủ dưới đá: <br/> không bao giờ thức dậy trên giường đá, <br/> không bao giờ, cho đến khi mặt trời lặn và Mặt Trăng chết. <br/> trong gió đen những ngôi sao sẽ chết, <br/> còn trên vàng đây hãy để chúng nằm, <br/> cho đến khi chúa tể bóng tối giơ tay <br/> trên biển chết và vùng đất khô héo.
+<p>Cold be hand and heart and bone, <br/> and cold be sleep under stone: <br/> never more to wake on stony bed, <br/> never, till the sun fails and Moon is dead. <br/> in the black wind stars shall die, <br/> and still on gold here let them lie, <br/> till the dark lord lifts his hand <br/> over dead sea and withered land.
 </p>
-<p class="tg-quote-footer"><cite>"<a href="../F/Fog_on_the_Barrow-downs.md" title="Fog on the Barrow-downs">Sương mù trên Barrow-downs</a>", Câu thần chú <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> vang lên ở <a href="../B/Barrow-downs.md" title="Barrow-downs">Barrow-downs</a></cite></p>
+<p class="tg-quote-footer"><cite>&#34;<a href="../F/Fog_on_the_Barrow-downs.md" title="Fog on the Barrow-downs">Fog on the Barrow-downs</a>&#34;, The incantation <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> hears at the <a href="../B/Barrow-downs.md" title="Barrow-downs">Barrow-downs</a></cite></p>
 </blockquote>

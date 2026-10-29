@@ -16,9 +16,9 @@ sort_keys:
   "Quenya nouns": "Lotesse"
 ---
 
-**Lótessë** là tên của tháng trong năm (*[asta](../A/Asta.md)*) theo sau tháng [Víressë](../V/Víressë.md) và trước tháng [Nárië](../N/Nárië.md). Đó là tháng thứ năm trong [Lịch Tính của Nhà Vua](../K/King's_Reckoning.md) và [Tính toán của Quản lý](../S/Stewards'_Reckoning.md). Sau khi giới thiệu [Tính toán mới](../N/New_Reckoning.md), năm bắt đầu với Víressë nên Lótessë trở thành tháng thứ hai.<sup id="cite_ref-app_1-0" class="reference"><a href="#cite_note-app-1">[1]</a></sup>
+**Lótessë** là tên của tháng trong năm (*[asta](../A/Asta.md)*) theo sau tháng [Víressë](../V/Víressë.md) và trước tháng [Nárië](../N/Nárië.md). Đó là tháng thứ năm trong [Vua Tính toán](../K/King's_Reckoning.md) và [Tính toán của Quản lý](../S/Stewards'_Reckoning.md). Sau khi giới thiệu [Tính toán mới](../N/New_Reckoning.md), năm bắt đầu với Víressë nên Lótessë trở thành tháng thứ hai.<sup id="cite_ref-app_1-0" class="reference"><a href="#cite_note-app-1">[1]</a></sup>
 
-*Lótessë* trong Sự Lịch Tính của các Vua (và phần lớn trong Sự tính toán của người quản lý) tương ứng với [Thrimidge](../T/Thrimidge.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [22 tháng 4](../_/22_April.md) đến [21 tháng 5](../_/21_May.md) hiện đại).
+*Lótessë* trong Sự tính toán của các vị vua (và phần lớn trong Sự tính toán của người quản lý) tương ứng với [Thrimidge](../T/Thrimidge.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [22 tháng 4](../_/22_April.md) đến [21 tháng 5](../_/21_May.md) hiện đại).
 
 ## Từ nguyên {#Etymology}
 

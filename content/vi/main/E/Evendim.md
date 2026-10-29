@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Evendim</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Evendim_(disambiguation).md" title="Evendim (disambiguation)">Evendim (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Evendim</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Evendim_(disambiguation).md" title="Evendim (disambiguation)">Evendim (disambiguation)</a></b>.</div></div>
 
 **Evendim** là tên [Hobbitish](../H/Hobbitish.md) để chỉ cảnh hoàng hôn của buổi tối được Tiên tộc gọi là *[aduial](../A/Aduial.md)* hoặc *[undómë](../U/Undómë.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

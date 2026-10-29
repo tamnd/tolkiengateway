@@ -27,7 +27,7 @@ images:
 
 ## Khóa học {#Course}
 
-<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Minas-tirith.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/99/J.R.R._Tolkien_-_Minas-tirith.jpg/180px-J.R.R._Tolkien_-_Minas-tirith.jpg" decoding="async" loading="lazy" width="180" height="206" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/99/J.R.R._Tolkien_-_Minas-tirith.jpg/270px-J.R.R._Tolkien_-_Minas-tirith.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/99/J.R.R._Tolkien_-_Minas-tirith.jpg/360px-J.R.R._Tolkien_-_Minas-tirith.jpg 2x" data-file-width="2634" data-file-height="3011"/></a><figcaption><i>Map of part of Gondor</i> bởi <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Minas-tirith.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/99/J.R.R._Tolkien_-_Minas-tirith.jpg/180px-J.R.R._Tolkien_-_Minas-tirith.jpg" decoding="async" loading="lazy" width="180" height="206" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/99/J.R.R._Tolkien_-_Minas-tirith.jpg/270px-J.R.R._Tolkien_-_Minas-tirith.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/99/J.R.R._Tolkien_-_Minas-tirith.jpg/360px-J.R.R._Tolkien_-_Minas-tirith.jpg 2x" data-file-width="2634" data-file-height="3011"/></a><figcaption><i>Map of part of Gondor</i> by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
 
 Nó đi qua [Rammas Echor](../R/Rammas_Echor.md), chạy song song với Anduin và vượt sông [Erui](../E/Erui.md) tại [Giao lộ Erui](../C/Crossings_of_Erui.md) trước khi đến [Pelargir](../P/Pelargir.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
@@ -37,9 +37,9 @@ Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), trước [Cuộc vây h�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Từ <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>, con đường đi qua <a class="mw-redirect mw-disambig" href="../H/Harlond.md" title="Harlond">Harlond</a> và tiếp tục đến <a class="mw-redirect" href="../A/Arnach.md" title="Arnach">Arnach</a>, thị trấn lớn của <a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a>. Sau khi băng qua <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a>, con đường chạy qua một ngôi làng nông nghiệp nhỏ "Glaniath" trước khi đến cổng phía đông của <a href="../P/Pelargir.md" title="Pelargir">Pelargir</a>.</dd></dl>
+<dl><dd>From <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>, the road passes through <a class="mw-redirect mw-disambig" href="../H/Harlond.md" title="Harlond">Harlond</a> and continues to <a class="mw-redirect" href="../A/Arnach.md" title="Arnach">Arnach</a>, the major town of <a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a>. After crossing into <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a>, the road runs past a small farming village of &#34;Glaniath&#34; before arriving to the east gate of <a href="../P/Pelargir.md" title="Pelargir">Pelargir</a>.</dd></dl>
 
 ## Ghi chú {#Notes}
 

@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/8._hein%C3%A4kuuta"
 ---
 
-<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=8_July/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Thêm sự kiện được tuyển chọn</a></div><div class="tg-section-divider"><span><a href="../J/July.md" title="July">July</a></span></div>
+<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=8_July/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Add curated event</a></div><div class="tg-section-divider"><span><a href="../J/July.md" title="July">July</a></span></div>
 <div class="template-month__grid">
 <div class="template-month__day"><a href="1_July.md" title="1 July">1</a></div>
 <div class="template-month__day"><a href="2_July.md" title="2 July">2</a></div>
@@ -56,7 +56,7 @@ langlinks:
 <div class="template-month__day"><a href="29_July.md" title="29 July">29</a></div>
 <div class="template-month__day"><a href="30_July.md" title="30 July">30</a></div>
 <div class="template-month__day"><a href="31_July.md" title="31 July">31</a></div>
-</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Tháng 1</a></div><div class="tg-button"><a href="../F/February.md" title="February">Tháng 2</a></div><div class="tg-button"><a href="../M/March.md" title="March">Tháng 3</a></div><div class="tg-button"><a href="../A/April.md" title="April">Tháng 4</a></div><div class="tg-button"><a href="../M/May.md" title="May">Tháng 5</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Tháng 7</a></div><div class="tg-button"><a href="../A/August.md" title="August">Tháng 8</a></div><div class="tg-button"><a href="../S/September.md" title="September">Tháng 9</a></div><div class="tg-button"><a href="../O/October.md" title="October">Tháng 10</a></div><div class="tg-button"><a href="../N/November.md" title="November">Tháng 11</a></div><div class="tg-button"><a href="../D/December.md" title="December">Tháng 12</a></div></div>
+</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
 Sự kiện xảy ra vào ngày 8 tháng 7.
@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 8 tháng 7.
 - **[1915](1915.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết bài thơ *[The Shores of Elfland](../T/The_Shores_of_Elfland.md)*.
 - **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 137e](../L/Letter_137e.md).
 - **[1963](1963.md)** - Bài viết "[Tiếng Anh và tiếng Wales](../E/English_and_Welsh.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xuất bản tại *[Angles and Britons: O'Donnell Lectures](../A/Angles_and_Britons.md)*.
-- **[1969](1969.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được chẩn đoán túi mật bị viêm hoặc bị bệnh. Tiến sĩ Denis Tolhurst cấm ông tiêu thụ chất béo (đặc biệt là bơ) và thậm chí tệ hơn là rượu.
+- **[1969](1969.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được chẩn đoán túi mật bị viêm hoặc bị bệnh. Tiến sĩ Denis Tolhurst cấm ông ta tiêu thụ chất béo (đặc biệt là bơ) và thậm chí tệ hơn là rượu.
 - **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Norman Power](../L/Letter_to_Norman_Power.md).
 - **[1999](1999.md)** - [Tolkien Sự kiện](../T/Tolkien_Thing.md) đầu tiên được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Cologne" title="wikipedia:Cologne">Cologne</a>.
 - **[2010](2010.md)** - *[Tolkien Calendar 2011](../T/Tolkien_Calendar_2011.md)* được xuất bản.

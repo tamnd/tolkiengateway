@@ -33,13 +33,13 @@ infobox:
     value: "Amon Hen 3"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 2</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data">John Martin</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">Hội Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">December <a href="../_/1972.md" title="1972">1972</a></td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">13</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../H/Henneth_Annûn_1.md" title="Henneth Annûn 1">Henneth Annûn 1</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Amon_Hen_3.md" title="Amon Hen 3">Amon Hen 3</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 2</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">John Martin</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">December <a href="../_/1972.md" title="1972">1972</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">13</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../H/Henneth_Annûn_1.md" title="Henneth Annûn 1">Henneth Annûn 1</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_3.md" title="Amon Hen 3">Amon Hen 3</a></td></tr></tbody></table>
 
 <b><i>Amon Hen</i> 2</b> là số thứ hai của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 12 [1972](../_/1972.md). Đây là số đầu tiên được xuất bản dưới tên *Amon Hen*, sau *[Henneth Annûn 1](../H/Henneth_Annûn_1.md)*.
 
 ## Nội dung {#Contents}
 
-<dl><dd><i>Lưu ý: Tất cả nội dung có lẽ được viết bởi John Martin trừ khi có quy định khác</i></dd></dl>
+<dl><dd><i>Note: All content is presumably written by John Martin unless indicated otherwise</i></dd></dl>
 
 - Chú thích biên tập
 - "*[Mallorns](<../M/Mallorn_(journal).md>)* sẽ đến"
@@ -54,7 +54,7 @@ infobox:
     - *Rocannon's World* của [Ursula K. Le Guin](../U/Ursula_K._Le_Guin.md) (được đánh giá bởi Graham England)
     - *Njal's Saga*, ấn bản Penguin Classics (được Graham England đánh giá)
     - *Grendel* của John Gardiner (được Graham England đánh giá)
-- Lưu ý về Smials (các chi nhánh địa phương của Hội Tolkien)
+- Lưu ý về Smials (các chi nhánh địa phương của Hiệp hội Tolkien)
 - Thư của [Marion Zimmer Bradley](../M/Marion_Zimmer_Bradley.md)
 - Danh sách thành viên mới và thay đổi địa chỉ
 - Thông báo bán [Tolkien bàn làm việc](../T/Tolkien's_desk.md) của Vera Chapman

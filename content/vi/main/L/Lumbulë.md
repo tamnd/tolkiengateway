@@ -24,7 +24,7 @@ Từ này dường như là một dạng mở rộng/tăng cường của từ <
 ## Ví dụ {#Examples}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p><a href="../A/Ar.md" title="Ar">ar</a> <a href="../I/Ilya.md" title="Ilya">ilyë</a> <a class="mw-redirect" href="../T/Tie.md" title="Tie">tier</a> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Undulav-&amp;action=edit&amp;redlink=1" title="Undulav- (page does not exist)">undulávë</a> <b>lumbulë</b>; ('và mọi con đường đều chìm sâu trong <b>bóng tối</b>;')
+<p><a href="../A/Ar.md" title="Ar">ar</a> <a href="../I/Ilya.md" title="Ilya">ilyë</a> <a class="mw-redirect" href="../T/Tie.md" title="Tie">tier</a> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Undulav-&amp;action=edit&amp;redlink=1" title="Undulav- (page does not exist)">undulávë</a> <b>lumbulë</b>; (&#39;and all paths are drowned deep in <b>shadow</b>;&#39;)
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../N/Namárië.md" title="Namárië">Namárië</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

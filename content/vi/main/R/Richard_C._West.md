@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "West, Richard C."
 ---
 
-**Richard C. West** (tháng 8 [1944](../_/1944.md) - [29 tháng 11](../_/29_November.md) [2020](../_/2020.md))<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là học giả [Tolkien](../J/J.R.R._Tolkien.md) được trao giải thưởng và là Thủ thư Dịch vụ Kỹ thuật và Xuất bản phẩm nhiều kỳ tại <a class="external text" href="http://www.engr.wisc.edu/services/kfw/staff/west_richard.html" rel="noreferrer noopener" target="_blank">Đại học Wisconsin-Madison</a>. Khi còn là sinh viên, ông cũng đã thành lập [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) ở đó, [Hội Tolkien Đại học Wisconsin](../U/University_of_Wisconsin_Tolkien_and_Fantasy_Society.md), tại tháng Chín [1966](../_/1966.md). Ông cũng đóng góp cho tạp chí hàng năm *[Orcrist](<../O/Orcrist_(journal).md>)*.
+**Richard C. West** (tháng 8 [1944](../_/1944.md) - [29 tháng 11](../_/29_November.md) [2020](../_/2020.md))<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là học giả [Tolkien](../J/J.R.R._Tolkien.md) được trao giải thưởng và là Thủ thư Dịch vụ Kỹ thuật và Xuất bản phẩm nhiều kỳ tại <a class="external text" href="http://www.engr.wisc.edu/services/kfw/staff/west_richard.html" rel="noreferrer noopener" target="_blank">Đại học Wisconsin-Madison</a>. Khi còn là sinh viên, ông cũng đã thành lập [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) ở đó, [Hiệp hội Tolkien Đại học Wisconsin](../U/University_of_Wisconsin_Tolkien_and_Fantasy_Society.md), tại tháng Chín [1966](../_/1966.md). Ông cũng đóng góp cho tạp chí hàng năm *[Orcrist](<../O/Orcrist_(journal).md>)*.
 
 ## Thư mục {#Bibliography}
 

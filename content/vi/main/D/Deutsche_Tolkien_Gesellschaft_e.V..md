@@ -26,7 +26,7 @@ images:
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/D/Deutsche_Tolkien_Gesellschaft.png.md"><img src="https://tolkiengateway.net/w/images/f/fe/Deutsche_Tolkien_Gesellschaft.png" decoding="async" loading="lazy" width="280" height="280" class="mw-file-element" data-file-width="280" data-file-height="280"/></a><figcaption></figcaption></figure>
 
-**Deutsche Tolkien Gesellschaft e.V.** (rút ngắn **DTG**) (tiếng Đức: "Hội Tolkien Đức (xã hội hợp nhất)") là [Tolkien xã hội](../T/Tolkien_Societies~67099.md) của Đức.
+**Deutsche Tolkien Gesellschaft e.V.** (rút ngắn **DTG**) (tiếng Đức: "Hiệp hội Tolkien Đức (xã hội hợp nhất)") là [Tolkien xã hội](../T/Tolkien_Societies~67099.md) của Đức.
 
 ## Lịch sử {#History}
 

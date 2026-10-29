@@ -12,7 +12,7 @@ categories:
   - "Palantíri"
 ---
 
-**Master-stone** là thủ lĩnh của tất cả *[palantíri](../P/Palantíri.md)*, cả ở [Aman](../A/Aman.md) và [Trung Địa](Middle-earth.md), được giữ trong [Tháp Avallónë](../T/Tower_of_Avallónë.md) trên [Hòn đảo Cô Độc](../T/Tol_Eressëa.md). Người ta nói rằng Viên đá nhìn thấy trong [Elostirion](../E/Elostirion.md) trong [Đồi Tháp](../T/Tower_Hills.md) có thể được sử dụng để nhìn lại dọc theo [Con Đường Thẳng](../S/Straight_Road.md) và nhìn thoáng qua Tháp.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Master-stone** là thủ lĩnh của tất cả *[palantíri](../P/Palantíri.md)*, cả ở [Aman](../A/Aman.md) và [Trung Địa](Middle-earth.md), được giữ trong [Tháp Avallónë](../T/Tower_of_Avallónë.md) trên [Đảo Cô Đơn](../T/Tol_Eressëa.md). Người ta nói rằng Viên đá nhìn thấy trong [Elostirion](../E/Elostirion.md) trong [Đồi Tháp](../T/Tower_Hills.md) có thể được sử dụng để nhìn lại dọc theo [Con Đường Thẳng](../S/Straight_Road.md) và nhìn thoáng qua Tháp.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Hòn đá Avallónë có nhiều tên gọi khác nhau là "'Masterstone'" hay *Master-stone*. Ngoài ra còn có một 'Viên đá chủ nhân' [Trung Địa](Middle-earth.md), *palantír* của [Osgiliath](../O/Osgiliath.md), nhưng đây là Viên đá kém hơn Viên đá chủ ở Avallónë, chỉ có sức mạnh hơn những *palantíri* khác ở [Trung Địa](Middle-earth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -42,7 +42,7 @@ Hòn đá Avallónë có nhiều tên gọi khác nhau là "'Masterstone'" hay *
 <td style="font-size: 90%;">  † <a href="Master_Stone_of_Osgiliath.md" title="Master Stone of Osgiliath">Master Stone of Osgiliath</a> <small>(<a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a>)</small> · † <a href="../I/Ithil-stone.md" title="Ithil-stone">Ithil-stone</a> <small>(<a class="mw-redirect" href="Minas_Ithil.md" title="Minas Ithil">Minas Ithil</a> - <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>)</small> · <a href="../A/Anor-stone.md" title="Anor-stone">Anor-stone</a> <small>(<a href="Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>)</small> · <a href="../O/Orthanc-stone.md" title="Orthanc-stone">Orthanc-stone</a> <small>(<a href="../O/Orthanc.md" title="Orthanc">Orthanc</a> - <a href="Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>)</small>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">Khác
+<th style="background:var(--tg-color-surface-3);" align="right">Other
 </th>
 <td style="font-size: 90%;"> <a class="mw-selflink selflink">Master-stone</a> <small>(<a class="mw-redirect" href="../T/Tower_of_Avallonë.md" title="Tower of Avallonë">Tower of Avallonë</a>)</small>
 </td></tr>

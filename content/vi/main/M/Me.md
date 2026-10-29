@@ -18,7 +18,7 @@ categories:
 ## Ví dụ {#Examples}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>i falmalinnar imbë <b>met</b>, ar hísië ('trên những làn sóng sủi bọt giữa <b>us</b>, và sương mù')
+<p>i falmalinnar imbë <b>met</b>, ar hísië (&#39;on the foaming waves between <b>us</b>, and mist&#39;)
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../N/Namárië.md" title="Namárië">Namárië</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

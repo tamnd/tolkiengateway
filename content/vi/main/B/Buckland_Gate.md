@@ -32,9 +32,9 @@ Rời [ Shire](../T/The_Shire.md) băng qua [Cầu Brandywine](Brandywine_Bridge
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Cổng Buckland nằm ngay phía đông nam của <a href="Brandywine_Bridge.md" title="Brandywine Bridge">Cầu Brandywine</a> và dẫn vào <a href="../N/Newbury.md" title="Newbury">Newbury</a> xa hơn.</dd></dl>
+<dl><dd>The Buckland Gate is just to the south-east of the <a href="Brandywine_Bridge.md" title="Brandywine Bridge">Brandywine Bridge</a> and leads into <a href="../N/Newbury.md" title="Newbury">Newbury</a> beyond.</dd></dl>
 
 <span></span>
 

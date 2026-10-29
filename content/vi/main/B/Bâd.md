@@ -17,7 +17,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>một <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> danh từ</b>. Đối với Elvish <a href="../S/Sundocarme.md" title="Sundocarme">gốc</a>, hãy xem <b><a href="BAD.md" title="BAD">BAD</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>a <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> noun</b>. For the Elvish <a href="../S/Sundocarme.md" title="Sundocarme">root</a>, see <b><a href="BAD.md" title="BAD">BAD</a></b>.</div></div>
 
 <i><b>bâd</b></i> là một danh từ [Noldorin](../N/Noldorin.md) có nghĩa là "đường mòn" hoặc "lối đi".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

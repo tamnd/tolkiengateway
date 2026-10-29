@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Việc bắt giữ [Ornendil](../../main/O/Ornendil.md). Nghệ thuật của Kent Burles, từ Anders Blixt, Mats Blomqvist, Gunnar Brolin, Sanna Fogelvik, Åke Rosenius, [Chris Seeman](../../main/C/Chris_Seeman.md), Dag Stålhandske, *[The Kin-strife](../../main/T/The_Kin-strife.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2015, 1995)
+Việc bắt giữ [Ornendil](../../main/O/Ornendil.md). Nghệ thuật của Kent Burles, từ Anders Blixt, Mats Blomqvist, Gunnar Brolin, Sanna Fogelvik, Åke Rosenius, [Chris Seeman](../../main/C/Chris_Seeman.md), Dag Stålhandske, *[The Kin-strife](../../main/T/The_Kin-strife.md)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2015, 1995)
 
 <br>
 

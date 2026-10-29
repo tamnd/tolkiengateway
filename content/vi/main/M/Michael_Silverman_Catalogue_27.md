@@ -20,7 +20,7 @@ infobox:
     value: "Dealer's catalogue"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Michael Silverman Catalogue Twenty-Seven</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">London: Michael Silverman</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/2009.md" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Danh mục đại lý</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Michael Silverman Catalogue Twenty-Seven</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">London: Michael Silverman</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2009.md" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Dealer&#39;s catalogue</td></tr></tbody></table>
 
 <i><b>Michael Silverman Catalog Twenty-Seven</b></i> là danh mục của đại lý từ <a class="external text" href="http://www.michael-silverman.com/" rel="noreferrer noopener" target="_blank">Michael Silverman Literary & History Manuscripts</a> (London).
 

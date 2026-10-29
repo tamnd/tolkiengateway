@@ -16,7 +16,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Linda</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Linda_(disambiguation).md" title="Linda (disambiguation)">Linda (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Linda</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Linda_(disambiguation).md" title="Linda (disambiguation)">Linda (disambiguation)</a></b>.</div></div>
 
 <i><b>linda</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "đẹp, đẹp".<sup id="cite_ref-Lind_1-0" class="reference"><a href="#cite_note-Lind-1">[1]</a></sup> Tính từ số nhiều là *lindë*.
 

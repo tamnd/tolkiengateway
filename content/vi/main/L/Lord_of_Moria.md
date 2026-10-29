@@ -24,7 +24,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Joona_Kujanen_-_Balin,_Lord_of_Moria.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f9/Joona_Kujanen_-_Balin%2C_Lord_of_Moria.jpg/250px-Joona_Kujanen_-_Balin%2C_Lord_of_Moria.jpg" decoding="async" loading="lazy" width="250" height="328" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f9/Joona_Kujanen_-_Balin%2C_Lord_of_Moria.jpg/375px-Joona_Kujanen_-_Balin%2C_Lord_of_Moria.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f9/Joona_Kujanen_-_Balin%2C_Lord_of_Moria.jpg/500px-Joona_Kujanen_-_Balin%2C_Lord_of_Moria.jpg 2x" data-file-width="800" data-file-height="1051"/></a><figcaption><a href="../../category/I/Images_by_Joona_Kujanen.md" title="Category:Images by Joona Kujanen">Joona Kujanen</a> - <i>Balin, Lord of Moria</i></figcaption></figure>
 
-**Chúa tể Moria** ([Sindarin](../S/Sindarin.md): <i><b>Aran Moria</b></i>) là tước hiệu của người cai trị [Moria](../M/Moria.md) chẳng hạn như [Vua của Khazad-dûm](../K/Kings_of_Khazad-dûm.md), người thường là [Vua của dân Durin](../K/Kings_of_Durin's_Folk.md).
+**Chúa tể Moria** ([Sindarin](../S/Sindarin.md): <i><b>Aran Moria</b></i>) là tước hiệu của người cai trị [Moria](../M/Moria.md) chẳng hạn như [Vua của Khazad-dûm](../K/Kings_of_Khazad-dûm.md), người thường là [Vua của Dân tộc Durin](../K/Kings_of_Durin's_Folk.md).
 
 Tiêu đề *Aran Moria*, được dịch là **Chúa tể Moria**, đề cập đến [Durin III](../D/Durin_III.md) và xuất hiện trong [Cánh cửa Durin](../D/Doors_of_Durin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

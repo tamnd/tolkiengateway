@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/The_Tolkien_Society"
 content_sha256: da9f21bbb6894c193b3d2877380560bcdbd2832f0381b1e1f4ae8babd67f2437
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Hội từ thiện và văn chương dành tặng J.R.R. Tolkien"
+short_description: "Charity and literary society dedicated to J.R.R. Tolkien"
 categories:
   - "British organizations"
   - "Tolkien Societies"
@@ -46,25 +46,25 @@ infobox:
     value: "www.tolkiensociety.org"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>tổ chức có tên Hội Tolkien</b>. Để xem danh sách các hội Tolkien, hãy xem <b><a href="Tolkien_societies.md" title="Tolkien societies">các hội Tolkien</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the organization known as The Tolkien Society</b>. For the list of Tolkien societies, see <b><a href="Tolkien_societies.md" title="Tolkien societies">Tolkien societies</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_Society_-_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9f/The_Tolkien_Society_-_logo.png/320px-The_Tolkien_Society_-_logo.png" decoding="async" loading="lazy" width="320" height="398" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9f/The_Tolkien_Society_-_logo.png/480px-The_Tolkien_Society_-_logo.png 1.5x, https://tolkiengateway.net/w/images/9/9f/The_Tolkien_Society_-_logo.png 2x" data-file-width="600" data-file-height="747"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hội Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin công ty</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thành lập</th><td class="tg-infobox-data"><a href="../_/6_November.md" title="6 November">ngày 6 tháng 11</a> <a href="../_/1969.md" title="1969">1969</a> (không chính thức)<sup id="cite_ref-Mallorn50_1-0" class="reference"><a href="#cite_note-Mallorn50-1">[1]</a></sup><br/><a href="../_/15_January.md" title="15 January">ngày 15 tháng 1</a> <a href="../_/1972.md" title="1972">1972</a> (chính thức)<br/><a href="../_/7_July.md" title="7 July">ngày 7 tháng 7</a> <a href="../_/1977.md" title="1977">1977</a> (được công nhận là tổ chức từ thiện)<sup id="cite_ref-CC_2-0" class="reference"><a href="#cite_note-CC-2">[2]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Người sáng lập</th><td class="tg-infobox-data"><a href="../V/Vera_Chapman.md" title="Vera Chapman">Vera Chapman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Anh (địa chỉ đăng ký)<br/>Toàn thế giới (thành viên)</td></tr><tr><th scope="row" class="tg-infobox-label">Loại</th><td class="tg-infobox-data">Tổ chức từ thiện giáo dục, câu lạc bộ người hâm mộ, hội học thuật</td></tr><tr><th scope="row" class="tg-infobox-label">Nhân vật chủ chốt</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (President)<br/><a href="../P/Priscilla_Tolkien.md" title="Priscilla Tolkien">Priscilla Tolkien</a> (Vice-President)<br/><a href="../S/Shaun_Gunner.md" title="Shaun Gunner">Shaun Gunner</a> (CEO)<sup id="cite_ref-CEO_3-0" class="reference"><a href="#cite_note-CEO-3">[3]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Thành viên</th><td class="tg-infobox-data">3,801<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Sản phẩm</th><td class="tg-infobox-data"><i><a href="../M/Mallorn_(journal).md" title="Mallorn (journal)">Mallorn</a></i><br/><i><a href="../A/Amon_Hen_(journal).md" title="Amon Hen (journal)">Amon Hen</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.tolkiensociety.org" rel="noreferrer noopener" target="_blank">www.tolkiensociety.org</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_Society_-_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9f/The_Tolkien_Society_-_logo.png/320px-The_Tolkien_Society_-_logo.png" decoding="async" loading="lazy" width="320" height="398" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9f/The_Tolkien_Society_-_logo.png/480px-The_Tolkien_Society_-_logo.png 1.5x, https://tolkiengateway.net/w/images/9/9f/The_Tolkien_Society_-_logo.png 2x" data-file-width="600" data-file-height="747"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Tolkien Society</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Company Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Founded</th><td class="tg-infobox-data"><a href="../_/6_November.md" title="6 November">6 November</a> <a href="../_/1969.md" title="1969">1969</a> (informal)<sup id="cite_ref-Mallorn50_1-0" class="reference"><a href="#cite_note-Mallorn50-1">[1]</a></sup><br/><a href="../_/15_January.md" title="15 January">15 January</a> <a href="../_/1972.md" title="1972">1972</a> (formal)<br/><a href="../_/7_July.md" title="7 July">7 July</a> <a href="../_/1977.md" title="1977">1977</a> (charitable status)<sup id="cite_ref-CC_2-0" class="reference"><a href="#cite_note-CC-2">[2]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Founder</th><td class="tg-infobox-data"><a href="../V/Vera_Chapman.md" title="Vera Chapman">Vera Chapman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">England (registered address)<br/>Worldwide (members)</td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Educational charity, fan club, academic society</td></tr><tr><th scope="row" class="tg-infobox-label">Key people</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (President)<br/><a href="../P/Priscilla_Tolkien.md" title="Priscilla Tolkien">Priscilla Tolkien</a> (Vice-President)<br/><a href="../S/Shaun_Gunner.md" title="Shaun Gunner">Shaun Gunner</a> (CEO)<sup id="cite_ref-CEO_3-0" class="reference"><a href="#cite_note-CEO-3">[3]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Members</th><td class="tg-infobox-data">3,801<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Products</th><td class="tg-infobox-data"><i><a href="../M/Mallorn_(journal).md" title="Mallorn (journal)">Mallorn</a></i><br/><i><a href="../A/Amon_Hen_(journal).md" title="Amon Hen (journal)">Amon Hen</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.tolkiensociety.org" rel="noreferrer noopener" target="_blank">www.tolkiensociety.org</a></td></tr></tbody></table>
 
-**Hội Tolkien** là một câu lạc bộ người hâm mộ quốc tế và tổ chức từ thiện giáo dục có trụ sở tại Vương quốc Anh, chuyên nghiên cứu và quảng bá cuộc đời và tác phẩm của tác giả kiêm học giả J.R.R. Tolkien. Được thành lập vào [1969](../_/1969.md) với sự ủng hộ của J.R.R. Tolkien, tổ chức này đã mở rộng số lượng thành viên khắp Vương quốc Anh, châu Âu và các nơi khác trên thế giới. Chủ tịch của Hội là Tolkien và Phó chủ tịch là [Priscilla Tolkien](../P/Priscilla_Tolkien.md); kể từ [2025](../_/2025.md), [Shaun Gunner](../S/Shaun_Gunner.md) giữ chức Giám đốc điều hành của Hội.
+**Hội Tolkien** là một câu lạc bộ người hâm mộ quốc tế và tổ chức từ thiện giáo dục có trụ sở tại Vương quốc Anh, chuyên nghiên cứu và quảng bá cuộc đời và tác phẩm của tác giả và học giả J.R.R. Tolkien. Được thành lập vào [1969](../_/1969.md) với sự ủng hộ của J.R.R. Tolkien, tổ chức này đã mở rộng số lượng thành viên trên khắp Vương quốc Anh, Châu Âu và thế giới. Chủ tịch là Tolkien, Phó chủ tịch là [Priscilla Tolkien](../P/Priscilla_Tolkien.md); kể từ [2025](../_/2025.md), [Shaun Gunner](../S/Shaun_Gunner.md) đã là Giám đốc điều hành của Hiệp hội.
 
 ## Lịch sử {#History}
 
-Hội Tolkien được thành lập vào năm 1969 bởi [Vera Chapman](../V/Vera_Chapman.md), một giáo viên/công chức đã nghỉ hưu, từng học tại [Oxford](../U/University_of_Oxford.md), người kinh hoàng trước việc các tác phẩm của Tolkien bị chiếm dụng bởi 'những tác phẩm xoay quanh ma túy của giới hippie',<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> nên đã quyết định thành lập một nhóm chuyên trân trọng và tìm hiểu đúng giá trị các tác phẩm của Tolkien.
+Hội Tolkien được thành lập vào năm 1969 bởi [Vera Chapman](../V/Vera_Chapman.md), một giáo viên/công chức đã nghỉ hưu có trình độ học vấn [Oxford](../U/University_of_Oxford.md), người kinh hoàng trước việc sáp nhập các tác phẩm của Tolkien bởi 'các tác phẩm thiên về ma túy của giới hippie',<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> đã quyết định thành lập một nhóm dành riêng cho việc đánh giá thực sự các tác phẩm của Tolkien.
 
-Vào [ngày 6 tháng 11](../_/6_November.md) [1969](../_/1969.md), Chapman thông báo về việc thành lập Hội Tolkien tại Vương quốc Anh trên *New Statesman*.<sup id="cite_ref-CGII_6-0" class="reference"><a href="#cite_note-CGII-6">[6]</a></sup> Ban đầu đặt trụ sở tại London, Hội họp tại căn hộ của Chapman ở Bắc London; các thành viên giữ liên lạc qua một bản tin được sao chụp có tên *[Belladonna's Broadsheet](../B/Belladonna's_Broadsheet.md)* (Chapman đã lấy tên "[Belladonna Took](../B/Belladonna_Took.md)" làm bí danh ở Trung Địa của bà), được xuất bản lần đầu vào tháng 12 năm 1969.<sup id="cite_ref-CGII_6-1" class="reference"><a href="#cite_note-CGII-6">[6]</a></sup> Cuộc họp đầu tiên của Hội diễn ra vào tháng 1 năm [1970](../_/1970.md),<sup id="cite_ref-CGII_6-2" class="reference"><a href="#cite_note-CGII-6">[6]</a></sup> và điều lệ của Hội được phê chuẩn vào [ngày 15 tháng 1](../_/15_January.md) [1972](../_/1972.md).
+Vào [ngày 6 tháng 11](../_/6_November.md) [1969](../_/1969.md), Chapman tuyên bố thành lập Hiệp hội Tolkien tại Vương quốc Anh tại *New Statesman*.<sup id="cite_ref-CGII_6-0" class="reference"><a href="#cite_note-CGII-6">[6]</a></sup> Ban đầu có trụ sở tại London, Hiệp hội sẽ họp tại căn hộ ở Bắc Luân Đôn của Chapman; họ giữ liên lạc qua một bản tin được sao chụp có tên *[Belladonna's Broadsheet](../B/Belladonna's_Broadsheet.md)* (Chapman đã lấy tên "[Belladonna Took](../B/Belladonna_Took.md)" làm bí danh Trung Địa của cô), được xuất bản lần đầu vào tháng 12 năm 1969.<sup id="cite_ref-CGII_6-1" class="reference"><a href="#cite_note-CGII-6">[6]</a></sup> Cuộc họp khai mạc của Hiệp hội được tổ chức vào tháng 1 [1970](../_/1970.md),<sup id="cite_ref-CGII_6-2" class="reference"><a href="#cite_note-CGII-6">[6]</a></sup> và điều lệ của nó đã được phê chuẩn vào [15 tháng 1](../_/15_January.md) [1972](../_/1972.md).
 
-Hội Tolkien phát triển ổn định, và Chapman sẵn lòng chuyển giao trách nhiệm phụ trách bản tin cho người khác; đồng thời một ấn phẩm có tính học thuật cao hơn, "[Mallorn](<../M/Mallorn_(journal).md>)", cũng ra đời. *Belladonna's Broadsheet* đã nhiều lần đổi tên, từng mang tên "Henneth Annun" trong một số phát hành trước khi biên tập viên lúc bấy giờ là John Martin đổi sang tên hiện nay: "[Amon Hen](<../A/Amon_Hen_(journal).md>)".
+Hội Tolkien tăng trưởng ổn định và Chapman sẵn sàng chuyển giao trách nhiệm về bản tin cho người khác trong khi một ấn phẩm mang tính học thuật hơn, "[Mallorn](<../M/Mallorn_(journal).md>)" cũng xuất hiện. *Belladonna's Broadsheet* đã trải qua một số thay đổi về danh tính, lấy tên là "Henneth Annun" cho một số báo trước khi biên tập viên lúc bấy giờ của nó, John Martin, lấy tên hiện tại là: "[Amon Hen](<../A/Amon_Hen_(journal).md>)".
 
-Hội cũng tổ chức một chuyến hành hương đến [Oxford](../O/Oxford.md), tham quan các trường và địa điểm gắn liền với cuộc đời J.R.R. Tolkien. Đoàn đã đến [Nghĩa trang Wolvercote](../W/Wolvercote_Cemetery.md), nơi đặt những vòng hoa tưởng niệm. Trong chuyến viếng thăm đầu tiên, đoàn phát hiện một bụi gai dại đã bén rễ trong lớp đất mặt trên mộ. Bụi gai này nhanh chóng bị nhổ bỏ, và Hội đề nghị mua một cây hoa hồng; [Priscilla Tolkien](../P/Priscilla_Tolkien.md) — con gái duy nhất của Tolkien — đã nhận lời. Chương trình cuối tuần kết thúc bằng chuyến thăm nhà Priscilla Tolkien.
+Hội cũng đã thực hiện một chuyến hành hương đến [Oxford](../O/Oxford.md), khám phá các trường đại học và địa điểm liên quan đến cuộc sống của J.R.R. Tolkien. Chuyến thăm đã được thực hiện tại [Nghĩa trang Wolvercote](../W/Wolvercote_Cemetery.md), nơi đặt vòng hoa tưởng nhớ. Trong lần viếng thăm đầu tiên, người ta phát hiện ra rằng một bụi gai dại đã mọc rễ trên lớp đất mặt của ngôi mộ. Việc này nhanh chóng bị nhổ bỏ, và Hiệp hội đề nghị mua một cây hoa hồng, lời đề nghị này được [Priscilla Tolkien](../P/Priscilla_Tolkien.md) - con gái duy nhất của Tolkien- chấp nhận. Sự kiện cuối tuần lên đến đỉnh điểm với chuyến thăm nhà của Priscilla Tolkien.
 
-Năm [2014](../_/2014.md), Hội đã tổ chức lễ trao **[Awards](The_Tolkien_Society_Awards.md)** thường niên lần đầu tiên.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Tại [2014](../_/2014.md), Hiệp hội đã khai mạc **[Giải thưởng](The_Tolkien_Society_Awards.md)** hàng năm.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Trong [2025](../_/2025.md), Hội được tái cơ cấu thành một <a class="external text" href="https://en.wikipedia.org/wiki/Charitable_incorporated_organisation" rel="noreferrer noopener" target="_blank">Tổ chức từ thiện hợp nhất</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>, với Shaun Gunner là giám đốc điều hành đầu tiên của Hội.<sup id="cite_ref-CEO_3-1" class="reference"><a href="#cite_note-CEO-3">[3]</a></sup> Một trong những lợi ích chính của việc thay đổi này là tổ chức từ thiện có thể ký kết hợp đồng, tuyển dụng nhân viên, sở hữu hoặc thuê tài sản dưới tên tổ chức, đồng thời giảm thiểu trách nhiệm tài chính của các ủy viên quản trị đối với các khoản nợ hoặc vụ kiện pháp lý liên quan đến tổ chức từ thiện.
+Trong [2025](../_/2025.md) Hiệp hội được tái cơ cấu thành một <a class="external text" href="https://en.wikipedia.org/wiki/Charitable_incorporated_organisation" rel="noreferrer noopener" target="_blank">Tổ chức Hợp nhất Từ thiện</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> với Shaun Gunner là Giám đốc điều hành đầu tiên của Hiệp hội.<sup id="cite_ref-CEO_3-1" class="reference"><a href="#cite_note-CEO-3">[3]</a></sup> Một trong những lợi ích chính của sự thay đổi này là khả năng tổ chức từ thiện có thể ký kết hợp đồng, tuyển dụng nhân viên, sở hữu/cho thuê tài sản dưới tên riêng của mình đồng thời giảm thiểu trách nhiệm tài chính của người được ủy thác đối với các khoản nợ hoặc hành động pháp lý của tổ chức từ thiện.
 
 ## Quan hệ với J.R.R. Tolkien {#Relations_with_J.R.R._Tolkien}
 
@@ -76,155 +76,155 @@ Vào năm 1972 <a class="extiw" href="http://en.wikipedia.org/wiki/New_Year_Hono
 <p class="tg-quote-footer"><cite>The Tolkien Society&#39;s telegram to J.R.R. Tolkien<sup id="cite_ref-Mallorn50-21_9-0" class="reference"><a href="#cite_note-Mallorn50-21-9">[9]</a></sup></cite></p>
 </blockquote>
 
-Hội cũng đã đăng một thông điệp chúc mừng trên *The Times* vào ngày [3 tháng 1](../_/3_January.md), trong mục 'BIRTHDAYS': "*TOLKIEN. Giáo sư J. R. R. Tolkien, C.B.E. Chúc mừng ông nhân sinh nhật lần thứ 80. 'Elen sila lumenn' omentielmo.' Hội Tolkien.*" Nhân dịp sinh nhật, Hội còn gửi tặng ông một hũ đựng thuốc lá bằng sứ màu xanh lá cây, có hình người thợ săn và một con nai trắng, bên trong chứa loại thuốc lá Latakia Mixture hảo hạng nhất; kèm theo đó là lời nhắn sau:
+Hội cũng đã đăng một thông điệp chúc mừng vào *The Times* vào ngày [3 tháng 1](../_/3_January.md) trong phần 'BIRTHDAYS': "*TOLKIEN. Giáo sư J. R. R. Tolkien, C.B.E. Congratulations nhân sinh nhật lần thứ 80 của ông. 'Elen sila lumenn' omentielmo.' Hội Tolkien.*" Nhân dịp sinh nhật, Hội còn gửi tặng anh một hũ thuốc lá sứ màu xanh - thiết kế hình người thợ săn và một con nai trắng - trong đó có thuốc lá Latakia Mixture loại ngon nhất; kèm theo là ghi chú sau:
 
 <blockquote class="tg-quote noexcerpt">
-<p>TỪ tất cả Hobbit, Tiên tộc, bạn hữu của Tiên tộc, Người Lùn, Ent, người Númenor, Rohirrim, v.v., v.v., v.v. thuộc HỘI TOLKIEN (ở Anh), xin gửi đến người đã tạo nên biết bao điều kỳ diệu tình yêu mến, lòng kính trọng và những lời chúc mừng nồng nhiệt. Tuy không thể sánh với lá LONGBOTTOM LEAF đích thực, chúng tôi hy vọng món quà này ít nhất cũng gợi lên đôi ba vòng khói cùng những hồi ức vui tươi.<br/>HỘI TOLKIEN
+<p>FROM all Hobbits, Elves, Elf-friends, Dwarves, Ents, Numenoreans, Rohirrim, etc. etc. etc. of the TOLKIEN SOCIETY (in Britain) with love and honour and hearty congratulations, to the creator of so much wonder. Although not to be compared with the true LONGBOTTOM LEAF, we hope that this will at least raise a few smoke-rings of happy recollection.<br/>THE TOLKIEN SOCIETY
 </p>
-<p class="tg-quote-footer"><cite>Lời nhắn của Hội Tolkien gửi J.R.R. Tolkien nhân ngày sinh nhật ông<sup id="cite_ref-Mallorn50-21_9-1" class="reference"><a href="#cite_note-Mallorn50-21-9">[9]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite>The Tolkien Society&#39;s message to J.R.R. Tolkien on his birthday<sup id="cite_ref-Mallorn50-21_9-1" class="reference"><a href="#cite_note-Mallorn50-21-9">[9]</a></sup></cite></p>
 </blockquote>
 
 [Joy Hill](../J/Joy_Hill.md), thư ký của Tolkien, đã gọi điện cho Vera Chapman vào ngày 3 tháng 1 và nói, "*Trong tất cả những lời tri ân mà ông nhận được, đây là điều mang lại niềm vui lớn nhất.*"<sup id="cite_ref-Mallorn50-21_9-2" class="reference"><a href="#cite_note-Mallorn50-21-9">[9]</a></sup> Một tháng sau, [ông viết cho bà](../L/Letter_to_Vera_Chapman_and_the_Tolkien_Society.md):
 
 <blockquote class="tg-quote noexcerpt">
-<p>Thưa bà Chapman,<br/>Tôi xin cảm ơn bà và Hội Tolkien vì những lời chúc tốt đẹp cùng món quà đầy thiện ý nhân dịp sinh nhật lần thứ 80 của tôi. Tôi vô cùng cảm kích trước tấm lòng hào phóng của bà.<br/>Thân ái,<br/>Kính thư,<br/>J.R.R. Tolkien [đã ký]
+<p>Dear Mrs. Chapman,<br/>May I thank you and the Tolkien Society for your good wishes and kind gift on my 80th birthday. I appreciated your generosity very much indeed.<br/>Best wishes,<br/>Yours sincerely,<br/>J.R.R. Tolkien [signed]
 </p>
-<p class="tg-quote-footer"><cite><a href="../L/Letter_to_Vera_Chapman_and_the_Tolkien_Society.md" title="Letter to Vera Chapman and the Tolkien Society">Thư J.R.R. Tolkien gửi Vera Chapman</a>, ngày <a href="../_/6_February.md" title="6 February">6 tháng 2</a> <a href="../_/1972.md" title="1972">1972</a><sup id="cite_ref-Mallorn50-21_9-3" class="reference"><a href="#cite_note-Mallorn50-21-9">[9]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite><a href="../L/Letter_to_Vera_Chapman_and_the_Tolkien_Society.md" title="Letter to Vera Chapman and the Tolkien Society">Letter from J.R.R. Tolkien to Vera Chapman</a>, dated <a href="../_/6_February.md" title="6 February">6 February</a> <a href="../_/1972.md" title="1972">1972</a><sup id="cite_ref-Mallorn50-21_9-3" class="reference"><a href="#cite_note-Mallorn50-21-9">[9]</a></sup></cite></p>
 </blockquote>
 
 ### Chủ tịch {#President}
 
-Vào [27 tháng 6](../_/27_June.md) [1972](../_/1972.md), Vera Chapman được [Rayner Unwin](../R/Rayner_Unwin.md) mời đến một bữa tiệc rượu sherry, nơi bà gặp chính Tolkien. Sau khi trao đổi vài lời với ông về cây [belladonna](../B/Belladonna_Took.md), bà hỏi liệu ông có sẵn lòng làm chủ tịch danh dự của Hội không; ông đáp "*Chắc chắn rồi*" rồi nói thêm, "*Nếu tôi có thể giúp đỡ Hội của bà bằng bất kỳ cách nào, tôi sẽ làm.*"<sup id="cite_ref-Mallorn50-22_10-0" class="reference"><a href="#cite_note-Mallorn50-22-10">[10]</a></sup>
+Vào [27 tháng 6](../_/27_June.md) [1972](../_/1972.md), Vera Chapman được [Rayner Unwin](../R/Rayner_Unwin.md) mời đến một bữa tiệc rượu sherry, nơi cô gặp chính Tolkien. Sau khi trao đổi vài lời với anh về cây [belladonna](../B/Belladonna_Took.md), cô hỏi liệu anh có sẵn lòng làm chủ tịch danh dự của Hiệp hội không; ông nói "*Certainly*" trước khi kết luận, "*Nếu tôi có thể giúp đỡ xã hội của bạn bằng bất kỳ cách nào, tôi sẽ làm*."<sup id="cite_ref-Mallorn50-22_10-0" class="reference"><a href="#cite_note-Mallorn50-22-10">[10]</a></sup>
 
 Sau cái chết của J.R.R. Tolkien vào ngày [2 tháng Chín](../_/2_September.md) [1973](../_/1973.md), Hội Tolkien đã đề nghị giữ chức Chủ tịch danh dự cho [Christopher Tolkien](../C/Christopher_Tolkien.md), con trai của Tolkien, nhưng Christopher từ chối và nói rằng ông nghĩ cha mình nên giữ chức chủ tịch mãi mãi. Tại <a class="extiw" href="http://en.wiktionary.org/wiki/AGM" title="wiktionary:AGM">ĐHCĐ</a> vào [16 tháng 2](../_/16_February.md) [1974](../_/1974.md) kiến ​​nghị đã được thông qua rằng J.R.R. Tolkien vẫn là Chủ tịch danh dự *in perpetuo*; ông vẫn là chủ tịch của Hiệp hội cho đến ngày nay.<sup id="cite_ref-Mallorn50-23_11-0" class="reference"><a href="#cite_note-Mallorn50-23-11">[11]</a></sup>
 
 ## Khả năng lãnh đạo {#Leadership}
 
-Hiệp hội là một tổ chức chủ yếu do tình nguyện viên điều hành, được quản lý bởi Hội đồng quản trị, trong đó Chủ tịch và Phó chủ tịch chỉ giữ các vị trí danh dự. Trước đây, Chủ tịch Hội đồng quản trị lãnh đạo Hội đồng và đại diện cho Hiệp hội cả trong nội bộ lẫn bên ngoài; tuy nhiên, kể từ [1 tháng 6](../_/1_June.md) [2025](../_/2025.md), [Shaun Gunner](../S/Shaun_Gunner.md) đã giữ chức Giám đốc điều hành của Hiệp hội để lãnh đạo tổ chức và chịu trách nhiệm trước Hội đồng quản trị.<sup id="cite_ref-CEO_3-2" class="reference"><a href="#cite_note-CEO-3">[3]</a></sup>
+Hiệp hội chủ yếu là tổ chức do tình nguyện viên điều hành, được điều hành bởi Hội đồng quản trị với Chủ tịch và Phó chủ tịch là những vị trí danh dự thuần túy. Trong lịch sử, Chủ tịch Ủy ban lãnh đạo Hội đồng và đại diện cho Hiệp hội cả trong nội bộ và bên ngoài; tuy nhiên, kể từ [1 tháng 6](../_/1_June.md) [2025](../_/2025.md), [Shaun Gunner](../S/Shaun_Gunner.md) đã giữ chức vụ Giám đốc điều hành của Hiệp hội trong việc lãnh đạo tổ chức, chịu trách nhiệm trước Hội đồng quản trị.<sup id="cite_ref-CEO_3-2" class="reference"><a href="#cite_note-CEO-3">[3]</a></sup>
 
 ### Giám đốc điều hành {#Chief_Executives}
 
 <table class="wikitable sortable">
 <tbody><tr style="background: var(--tg-color-surface-2);">
 <th></th>
-<th>Tên</th>
-<th>Bắt đầu học kỳ</th>
-<th>Kết thúc nhiệm kỳ</th>
-<th>Thời lượng
+<th>Name</th>
+<th>Start of term</th>
+<th>End of term</th>
+<th>Duration
 </th></tr>
 <tr style="font-color var(--tg-color-emphasized);">
 <td>1</td>
 <td><b><a href="../S/Shaun_Gunner.md" title="Shaun Gunner">Shaun Gunner</a></b><sup id="cite_ref-CEO_3-3" class="reference"><a href="#cite_note-CEO-3">[3]</a></sup></td>
 <td><i><b>1 June 2025</b></i></td>
-<td><i><b>hiện tại</b></i></td>
-<td><i><b>142 ngày</b></i>
+<td><i><b>present</b></i></td>
+<td><i><b>142 days</b></i>
 </td></tr></tbody></table>
 
 ### Ghế {#Chairs}
 
-Sau đây là danh sách các chủ tịch của Hội Tolkien; vào tháng 4 năm 2017, Hội đã thay thế chức danh "Chủ tịch nam" bằng "Chủ tịch". *Chữ in nghiêng* biểu thị người giữ chức chủ tịch tạm quyền được bổ nhiệm chứ không phải được bầu.
+Sau đây là danh sách ghế của Hội Tolkien; vào tháng 4 năm 2017, Hiệp hội đã thay thế chức danh "Chủ tịch" bằng "Chủ tịch". *Italic text* biểu thị quyền chủ tịch được bổ nhiệm chứ không phải được bầu.
 
 <table class="wikitable sortable">
 <tbody><tr style="background: var(--tg-color-surface-2);">
 <th></th>
-<th>Tên</th>
-<th>Bắt đầu học kỳ</th>
-<th>Kết thúc nhiệm kỳ</th>
-<th>Thời lượng
+<th>Name</th>
+<th>Start of term</th>
+<th>End of term</th>
+<th>Duration
 </th></tr>
 <tr>
 <td></td>
 <td><i><a href="../V/Vera_Chapman.md" title="Vera Chapman">Vera Chapman</a></i></td>
 <td><i>29 January 1970</i></td>
 <td><i>20 November 1970</i></td>
-<td data-sort-value=".296"><i>296 ngày</i>
+<td data-sort-value=".296"><i>296 days</i>
 </td></tr>
 <tr>
 <td>1</td>
 <td><b><a href="../K/Keith_Bridges.md" title="Keith Bridges">Keith Bridges</a></b></td>
 <td>20 November 1970<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[note 1]</a></sup></td>
 <td>17 February 1973</td>
-<td>2 năm 89 ngày
+<td>2 years, 89 days
 </td></tr>
 <tr>
 <td>2</td>
 <td><b><a href="../H/Hartley_Patterson.md" title="Hartley Patterson">Hartley Patterson</a></b></td>
 <td>18 February 1973</td>
 <td>16 February 1974</td>
-<td data-sort-value=".363">363 ngày
+<td data-sort-value=".363">363 days
 </td></tr>
 <tr>
 <td>3</td>
 <td><b><a href="../J/Jonathan_Simons.md" title="Jonathan Simons">Jonathan Simons</a></b></td>
 <td>17 February 1974</td>
 <td>28 April 1984</td>
-<td>10 năm 71 ngày
+<td>10 years, 71 days
 </td></tr>
 <tr>
 <td>4</td>
 <td><b><a href="../B/Brin_Dunsire.md" title="Brin Dunsire">Brin Dunsire</a></b></td>
 <td>29 April 1984</td>
 <td>16 April 1988</td>
-<td>3 năm 354 ngày
+<td>3 years, 354 days
 </td></tr>
 <tr>
 <td>5</td>
 <td><b><a href="../A/Alex_Lewis.md" title="Alex Lewis">Alex Lewis</a></b></td>
 <td>17 April 1988</td>
 <td>11 April 1992</td>
-<td>3 năm 360 ngày
+<td>3 years, 360 days
 </td></tr>
 <tr>
 <td>6</td>
 <td><b><a href="../A/Amanda_Campbell.md" title="Amanda Campbell">Amanda Fingleson</a></b></td>
 <td>12 April 1992</td>
 <td>20 April 1996</td>
-<td>4 năm 9 ngày
+<td>4 years, 9 days
 </td></tr>
 <tr>
 <td>7</td>
 <td><b><a href="../C/Chris_Crawshaw.md" title="Chris Crawshaw">Chris Crawshaw</a></b></td>
 <td>21 April 1996</td>
 <td>19 April 2008</td>
-<td>11 năm 364 ngày
+<td>11 years, 364 days
 </td></tr>
 <tr>
 <td>8</td>
 <td><b><a href="../M/Matthew_Vernon.md" title="Matthew Vernon">Matthew Vernon</a></b></td>
 <td>20 April 2008</td>
 <td>8 January 2009</td>
-<td data-sort-value=".264">264 ngày
+<td data-sort-value=".264">264 days
 </td></tr>
 <tr>
 <td>9</td>
 <td><b><a href="../S/Sally_Kennett.md" title="Sally Kennett">Sally Kennett</a></b></td>
 <td>8 January 2009<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[note 2]</a></sup></td>
 <td>20 April 2013</td>
-<td>4 năm 102 ngày
+<td>4 years, 102 days
 </td></tr>
 <tr>
 <td>10</td>
 <td><b><a href="../S/Shaun_Gunner.md" title="Shaun Gunner">Shaun Gunner</a></b><sup id="cite_ref-CEO_3-4" class="reference"><a href="#cite_note-CEO-3">[3]</a></sup></td>
 <td>21 April 2013</td>
 <td>31 May 2025</td>
-<td>12 năm 41 ngày
+<td>12 years, 41 days
 </td></tr>
 <tr style="font-color var(--tg-color-emphasized);">
 <td>11</td>
 <td><b><a href="../D/Daniel_Helen.md" title="Daniel Helen">Daniel Helen</a></b><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[note 3]</a></sup></td>
 <td>1 June 2025</td>
 <td>19 September 2025</td>
-<td data-sort-value=".111">111 ngày
+<td data-sort-value=".111">111 days
 </td></tr>
 <tr>
 <td>12</td>
 <td><i><b><a href="../H/Hannah_McDonald.md" title="Hannah McDonald">Hannah McDonald</a></b></i></td>
 <td><i><b>19 September 2025</b></i></td>
-<td><i><b>hiện tại</b></i></td>
-<td data-sort-value="{{#expr: 292 -264}"><i><b>31 ngày</b></i>
+<td><i><b>present</b></i></td>
+<td data-sort-value="{{#expr: 292 -264}"><i><b>31 days</b></i>
 </td></tr></tbody></table>
 
-<dl><dt>Ghi chú</dt></dl>
+<dl><dt>Notes</dt></dl>
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">Acting Chairman from 20 November 1970 to 15 January 1972.</span>
@@ -237,37 +237,37 @@ Sau đây là danh sách các chủ tịch của Hội Tolkien; vào tháng 4 n�
 
 ## Cười {#Smials}
 
-Smials là các nhóm địa phương của Hội Tolkien, được thành lập bởi các thành viên gặp gỡ tại một thị trấn, khu vực hoặc quốc gia cụ thể để chia sẻ mối quan tâm về cuộc đời và các tác phẩm của J.R.R. Tolkien. Tên gọi này bắt nguồn từ thuật ngữ [smial](../S/Smials.md) mà chính Tolkien dùng để chỉ hang hobbit.
+Smials là các nhóm địa phương của Hiệp hội Tolkien, được thành lập bởi các thành viên gặp nhau ở một thị trấn, khu vực hoặc quốc gia cụ thể để chia sẻ mối quan tâm của họ về cuộc sống và công việc của J.R.R. Tolkien. Cái tên này bắt nguồn từ thuật ngữ [smial](../S/Smials.md) của chính Tolkien để chỉ hố hobbit.
 
-Smials hoạt động tương đối độc lập và rất khác nhau về quy mô cũng như hoạt động. Nhiều nhóm tổ chức các cuộc họp thường xuyên, trong khi những nhóm khác tổ chức các nhóm đọc sách, các buổi thuyết trình, những chuyến đi bộ theo chủ đề hoặc các hoạt động kỷ niệm những dịp liên quan đến Tolkien, chẳng hạn như [Tolkien Reading Day](Tolkien_Reading_Day.md). Mặc dù được Hội Tolkien công nhận, các nhóm này do tình nguyện viên điều hành và tự xây dựng chương trình hoạt động, qua đó bổ sung cho các sự kiện của Hội ở cấp địa phương. Smials có mặt tại Vương quốc Anh và một số quốc gia khác trên thế giới; các thành viên cũng có thể thành lập nhóm mới với sự chấp thuận của Hội.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[12]</a></sup>
+Smials hoạt động bán độc lập và rất khác nhau về quy mô cũng như hoạt động. Nhiều người tổ chức các cuộc họp thường xuyên, trong khi những người khác tổ chức các nhóm đọc sách, bài giảng, các cuộc đi bộ theo chủ đề hoặc lễ kỷ niệm Tolkien các ngày kỷ niệm liên quan đến chẳng hạn như [Tolkien Ngày đọc sách](Tolkien_Reading_Day.md). Mặc dù được Hiệp hội Tolkien công nhận nhưng họ được điều hành bởi các tình nguyện viên và thiết lập các chương trình của riêng mình, mang lại sự bổ sung tại địa phương cho các sự kiện của Hiệp hội. Smials tồn tại ở Vương quốc Anh và ở một số quốc gia trên toàn thế giới và các nhóm mới có thể được thành lập bởi các thành viên với sự chấp thuận của Hiệp hội.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[12]</a></sup>
 
 ## Ấn phẩm {#Publications}
 
 - *[Belladonna's Broadsheet](../B/Belladonna's_Broadsheet.md)*, bản tin đầu tiên của Hội Tolkien.
 - *[Amon Hen](<../A/Amon_Hen_(journal).md>)* là bản tin của Hội và được xuất bản sáu lần một năm.<sup id="cite_ref-Amon_16-0" class="reference"><a href="#cite_note-Amon-16">[13]</a></sup>
-- *[Mallorn](<../M/Mallorn_(journal).md>)* là tạp chí của Hội và hiện được xuất bản mỗi năm một lần, vào mùa xuân.<sup id="cite_ref-Mallorn_17-0" class="reference"><a href="#cite_note-Mallorn-17">[14]</a></sup>
-- *[Quettar](../Q/Quettar.md)* từng là tạp chí của Hội Ngôn ngữ học thuộc Hội Tolkien.
+- *[Mallorn](<../M/Mallorn_(journal).md>)* là tạp chí của Hội và hiện được xuất bản mỗi năm một lần vào mùa Xuân.<sup id="cite_ref-Mallorn_17-0" class="reference"><a href="#cite_note-Mallorn-17">[14]</a></sup>
+- *[Quettar](../Q/Quettar.md)* là tạp chí của Hiệp hội Ngôn ngữ học Hội Tolkien.
 
 ## Sự kiện {#Events}
 
-Hội Tolkien tổ chức các sự kiện sau đây hằng năm:
+Hội Tolkien tổ chức các sự kiện sau mỗi năm:
 
 - **[Lễ chúc mừng sinh nhật](../B/Birthday_Toast.md)** được tổ chức vào [3 tháng 1](../_/3_January.md) (sinh nhật củaTolkien) hàng năm. Hiệp hội khuyến khích người hâm mộ Tolkien từ khắp nơi trên thế giới nâng ly chúc mừng Giáo sư vào lúc 9 giờ tối dù họ ở đâu.
-- **[Ngày đọc Tolkien sách](Tolkien_Reading_Day.md)**, được tổ chức hàng năm vào [25 tháng 3](../_/25_March.md), là một sự kiện quốc tế nhằm thúc đẩy việc đọc các tác phẩm của Tolkien.
-- **Đại hội thường niên và Hội nghị mùa xuân** bao gồm một cuộc họp trong đó công việc chính thức (liên quan đến việc điều hành Hội Tolkien) được thảo luận, sau đó là bữa tối bán trang trọng với diễn giả khách mời. Nó được tổ chức vào cuối tuần vào tháng 4 hàng năm.<sup id="cite_ref-AGM_18-0" class="reference"><a href="#cite_note-AGM-18">[15]</a></sup> **[Giải thưởng của Hội Tolkien](Tolkien_Society_Awards.md)** được công bố trong bữa tối của sự kiện này.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[16]</a></sup>
+- **[Tolkien Ngày đọc sách](Tolkien_Reading_Day.md)**, được tổ chức hàng năm vào [25 tháng 3](../_/25_March.md), là một sự kiện quốc tế nhằm thúc đẩy việc đọc các tác phẩm của Tolkien.
+- **Đại hội thường niên và Hội nghị mùa xuân** bao gồm một cuộc họp trong đó công việc chính thức (liên quan đến việc điều hành Hội Tolkien) được thảo luận, sau đó là bữa tối bán trang trọng với diễn giả khách mời. Nó được tổ chức vào cuối tuần vào tháng 4 hàng năm.<sup id="cite_ref-AGM_18-0" class="reference"><a href="#cite_note-AGM-18">[15]</a></sup> **[Giải thưởng của Hiệp hội Tolkien](Tolkien_Society_Awards.md)** được công bố trong bữa tối của sự kiện này.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[16]</a></sup>
 - **Hội thảo** là một sự kiện bao gồm một chương trình thảo luận về chủ đề liên quan đến Tolkien. Nó được tổ chức hầu hết vào mùa hè (khoảng tháng 6 hoặc tháng 7).<sup id="cite_ref-Seminar_20-0" class="reference"><a href="#cite_note-Seminar-20">[17]</a></sup>
 - **[Oxonmoot](../O/Oxonmoot.md)** là hội nghị được tổ chức tại một trường đại học Oxford vào cuối tuần gần nhất với [22 tháng Chín](../_/22_September.md), [Bilbo](../B/Bilbo_Baggins.md) và [Frodo](../F/Frodo_Baggins.md) sinh nhật của.<sup id="cite_ref-Oxonmoot_21-0" class="reference"><a href="#cite_note-Oxonmoot-21">[18]</a></sup>
 - **[Westmoot](../W/Westmoot.md)** là một hội nghị mới dành cho các thành viên Hoa Kỳ của Hiệp hội. Sự kiện khai mạc diễn ra tại <a class="extiw" href="http://en.wikipedia.org/wiki/Kansas_City,_Missouri" title="wikipedia:Kansas City, Missouri">Thành phố Kansas, Missouri</a> vào Thứ Sáu [ngày 9 tháng 5](../M/May_9.md) - Chủ Nhật [ngày 11 tháng 5](../M/May_11.md) [2025](../_/2025.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/National_World_War_I_Museum_and_Memorial" title="wikipedia:National World War I Museum and Memorial">Bảo tàng và Đài tưởng niệm Chiến tranh Thế giới thứ nhất Quốc gia</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[19]</a></sup>
 
-Hội Tolkien cũng tổ chức các hội nghị lớn nhằm kỷ niệm những dịp đánh dấu cột mốc liên quan đến J.R.R. Tolkien và/hoặc các tác phẩm của ông. Các sự kiện đã tổ chức trước đây:
+Hội Tolkien cũng tổ chức các hội nghị lớn để kỷ niệm ngày J.R.R. Tolkien và/hoặc các tác phẩm của ông. Các sự kiện trong quá khứ:
 
-- **[Hội nghị kỷ niệm 100 năm ngày sinh J.R.R. Tolkien](../J/J.R.R._Tolkien_Centenary_Conference.md)** được tổ chức tại Keble College (ở [Oxford](../O/Oxford.md), Anh) vào năm [1992](../_/1992.md). Hội nghị kỷ niệm 100 năm ngày sinh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Hội nghị được tổ chức phối hợp với [Hội Mythopoeic](../M/Mythopoeic_Society.md), kết hợp Oxonmoot 1992 và Mythcon 23.\<sup id="cite_ref-Centenary_23-0" class="reference">\<a href="#cite_note-Centenary-23">[20]\</a>\</sup>
-- **[Tolkien 2005: The Ring Goes Ever On](Tolkien_2005.md)** được tổ chức tại Đại học Aston (ở Birmingham, Anh) vào năm [2005](../_/2005.md). Sự kiện kỷ niệm 50 năm ngày bộ **[The Lord of the Rings](The_Lord_of_the_Rings.md)** được xuất bản đầy đủ.\<sup id="cite_ref-Tolkien2005_24-0" class="reference">\<a href="#cite_note-Tolkien2005-24">[21]\</a>\</sup>
-- **[The Return of the Ring: Celebrating Tolkien in 2012](The_Return_of_the_Ring.md)** được tổ chức tại Đại học Loughborough (ở Leicestershire, Anh) vào năm [2012](../_/2012.md). Hội nghị kỷ niệm 75 năm ngày **[The Hobbit](The_Hobbit.md)** được xuất bản.\<sup id="cite_ref-Return_25-0" class="reference">\<a href="#cite_note-Return-25">[22]\</a>\</sup>
+- **[Hội nghị trăm năm J.R.R. Tolkien](../J/J.R.R._Tolkien_Centenary_Conference.md)** được tổ chức tại trường Cao đẳng Keble (ở [Oxford](../O/Oxford.md), Anh) ở [1992](../_/1992.md). Nó kỷ niệm 100 năm ngày sinh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được tổ chức cùng với [Hiệp hội thần thoại](../M/Mythopoeic_Society.md) và là sự kết hợp giữa Oxonmoot 1992 và Mythcon 23.<sup id="cite_ref-Centenary_23-0" class="reference"><a href="#cite_note-Centenary-23">[20]</a></sup>
+- **[Tolkien 2005: The Ring Goes Ever On](Tolkien_2005.md)** được tổ chức tại Đại học Aston (ở Birmingham, Anh) vào [2005](../_/2005.md). Nó kỷ niệm 50 năm ngày xuất bản hoàn chỉnh *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.<sup id="cite_ref-Tolkien2005_24-0" class="reference"><a href="#cite_note-Tolkien2005-24">[21]</a></sup>
+- **[The Return of the Ring: Celebrating Tolkien in 2012](The_Return_of_the_Ring.md)** được tổ chức tại Đại học Loughborough (ở Leicestershire, Anh) vào năm [2012](../_/2012.md). Nó kỷ niệm 75 năm xuất bản *[The Hobbit](The_Hobbit.md)*.<sup id="cite_ref-Return_25-0" class="reference"><a href="#cite_note-Return-25">[22]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Bia và đài tưởng niệm](../P/Plaques_and_Memorials.md)
+- [Mảng và đài tưởng niệm](../P/Plaques_and_Memorials.md)
 
 ## Liên kết ngoài {#External_links}
 
@@ -331,45 +331,45 @@ Hội Tolkien cũng tổ chức các hội nghị lớn nhằm kỷ niệm nhữ
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background: var(--tg-color-surface-5);" colspan="3"><b><a class="mw-selflink selflink">Hội Tolkien</a></b>
+<th align="center" style="background: var(--tg-color-surface-5);" colspan="3"><b><a class="mw-selflink selflink">The Tolkien Society</a></b>
 </th></tr>
 <tr>
 <td align="center" style="background: var(--tg-color-surface-4); font-size: 90%;" colspan="3">President: <b><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b> · Vice-president: <b><a href="../P/Priscilla_Tolkien.md" title="Priscilla Tolkien">Priscilla Tolkien</a></b> · CEO: <b><a href="../S/Shaun_Gunner.md" title="Shaun Gunner">Shaun Gunner</a></b>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-4); padding-right: 4px;">Chủ đề
+<th align="right" style="background: var(--tg-color-surface-4); padding-right: 4px;">Topics
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a class="mw-selflink-fragment" href="#History">Lịch sử</a> (<a href="../L/Letter_to_Vera_Chapman_and_the_Tolkien_Society.md" title="Letter to Vera Chapman and the Tolkien Society">Thư gửi Vera Chapman và Hội Tolkien</a>) · Lưu trữ · <a href="The_Tolkien_Society_Awards.md" title="The Tolkien Society Awards">Giải thưởng</a> · <a href="../E/Enyalië.md" title="Enyalië">Enyalië</a> · <a href="../S/Smials.md" title="Smials">Smials</a> · Tolkien đến với Thế giới · <a class="mw-redirect" href="Tolkien_fandom.md" title="Tolkien fandom">cộng đồng người hâm mộ Tolkien</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a class="mw-selflink-fragment" href="#History">History</a> (<a href="../L/Letter_to_Vera_Chapman_and_the_Tolkien_Society.md" title="Letter to Vera Chapman and the Tolkien Society">Letter to Vera Chapman and the Tolkien Society</a>) · Archives · <a href="The_Tolkien_Society_Awards.md" title="The Tolkien Society Awards">Awards</a> · <a href="../E/Enyalië.md" title="Enyalië">Enyalië</a> · <a href="../S/Smials.md" title="Smials">Smials</a> · Tolkien to the World · <a class="mw-redirect" href="Tolkien_fandom.md" title="Tolkien fandom">Tolkien fandom</a>
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-4); padding-right: 4px;">Chairs
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../V/Vera_Chapman.md" title="Vera Chapman">Vera Chapman</a></i> (1970) · <a href="../K/Keith_Bridges.md" title="Keith Bridges">Keith Bridges</a> (1970-1973) · <a href="../H/Hartley_Patterson.md" title="Hartley Patterson">Hartley Patterson</a> (1973-1974) · <a href="../J/Jonathan_Simons.md" title="Jonathan Simons">Jonathan Simons</a> (1974-1984) · <a href="../B/Brin_Dunsire.md" title="Brin Dunsire">Brin Dunsire</a> (1984-1988) · <a href="../A/Alex_Lewis.md" title="Alex Lewis">Alex Lewis</a> (1988-1992) · <a href="../A/Amanda_Campbell.md" title="Amanda Campbell">Amanda Fingleson</a> (1992-1996) · <a href="../C/Chris_Crawshaw.md" title="Chris Crawshaw">Chris Crawshaw</a> (1996-2008) · <a href="../M/Matthew_Vernon.md" title="Matthew Vernon">Matthew Vernon</a> (2008-2009) · <a href="../S/Sally_Kennett.md" title="Sally Kennett">Sally Kennett</a> (2009-2013) · <a href="../S/Shaun_Gunner.md" title="Shaun Gunner">Shaun Gunner</a> (2013-2025) · <a href="../D/Daniel_Helen.md" title="Daniel Helen">Daniel Helen</a> (tạm quyền) · <i><b><a href="../H/Hannah_McDonald.md" title="Hannah McDonald">Hannah McDonald</a> (2025–nay)</b></i>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../V/Vera_Chapman.md" title="Vera Chapman">Vera Chapman</a></i> (1970) · <a href="../K/Keith_Bridges.md" title="Keith Bridges">Keith Bridges</a> (1970-1973) · <a href="../H/Hartley_Patterson.md" title="Hartley Patterson">Hartley Patterson</a> (1973-1974) · <a href="../J/Jonathan_Simons.md" title="Jonathan Simons">Jonathan Simons</a> (1974-1984) · <a href="../B/Brin_Dunsire.md" title="Brin Dunsire">Brin Dunsire</a> (1984-1988) · <a href="../A/Alex_Lewis.md" title="Alex Lewis">Alex Lewis</a> (1988-1992) · <a href="../A/Amanda_Campbell.md" title="Amanda Campbell">Amanda Fingleson</a> (1992-1996) · <a href="../C/Chris_Crawshaw.md" title="Chris Crawshaw">Chris Crawshaw</a> (1996-2008) · <a href="../M/Matthew_Vernon.md" title="Matthew Vernon">Matthew Vernon</a> (2008-2009) · <a href="../S/Sally_Kennett.md" title="Sally Kennett">Sally Kennett</a> (2009-2013) · <a href="../S/Shaun_Gunner.md" title="Shaun Gunner">Shaun Gunner</a> (2013-2025) · <a href="../D/Daniel_Helen.md" title="Daniel Helen">Daniel Helen</a> (interim) · <i><b><a href="../H/Hannah_McDonald.md" title="Hannah McDonald">Hannah McDonald</a> (2025-present)</b></i>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;">Sự kiện thường niên
+<th align="right" style="background: var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;">Annual Events
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../B/Birthday_Toast.md" title="Birthday Toast">Birthday Toast</a> (3 January) · <a href="Tolkien_Reading_Day.md" title="Tolkien Reading Day">Tolkien Reading Day</a> (25 March) · AGM and Springmoot (April) · <a href="../W/Westmoot.md" title="Westmoot">Westmoot</a> (May) · Seminar (July) · <a href="../O/Oxonmoot.md" title="Oxonmoot">Oxonmoot</a> (September)
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-4); padding-right: 4px;">Conferences
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><b><a href="../O/Oxonmoot.md" title="Oxonmoot">Oxonmoot</a> (thường niên, 1974–nay)</b> · <b><a href="../W/Westmoot.md" title="Westmoot">Westmoot</a> (thường niên, 2025–nay)</b> · <a href="../J/J.R.R._Tolkien_Centenary_Conference.md" title="J.R.R. Tolkien Centenary Conference">Hội nghị kỷ niệm 100 năm ngày sinh J.R.R. Tolkien</a> (1992) · <a href="Tolkien_2005.md" title="Tolkien 2005">Tolkien 2005: The Ring Goes Ever On</a> (2005) · <a href="The_Return_of_the_Ring.md" title="The Return of the Ring">Sự trở lại của Nhẫn</a> (2012) · <a href="Tolkien_2019.md" title="Tolkien 2019">Tolkien 2019</a> (2019)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><b><a href="../O/Oxonmoot.md" title="Oxonmoot">Oxonmoot</a> (annual, 1974-present)</b> · <b><a href="../W/Westmoot.md" title="Westmoot">Westmoot</a> (annual, 2025-present)</b> · <a href="../J/J.R.R._Tolkien_Centenary_Conference.md" title="J.R.R. Tolkien Centenary Conference">J.R.R. Tolkien Centenary Conference</a> (1992) · <a href="Tolkien_2005.md" title="Tolkien 2005">Tolkien 2005: The Ring Goes Ever On</a> (2005) · <a href="The_Return_of_the_Ring.md" title="The Return of the Ring">The Return of the Ring</a> (2012) · <a href="Tolkien_2019.md" title="Tolkien 2019">Tolkien 2019</a> (2019)
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-4); padding-right: 4px;" rowspan="3"><a href="../../category/P/Publications_by_the_Tolkien_Society.md" title="Category:Publications by the Tolkien Society">Ấn phẩm</a>
+<th align="right" style="background: var(--tg-color-surface-4); padding-right: 4px;" rowspan="3"><a href="../../category/P/Publications_by_the_Tolkien_Society.md" title="Category:Publications by the Tolkien Society">Publications</a>
 </th>
-<th align="right" style="background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Tạp chí học thuật
+<th align="right" style="background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Journals
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="../B/Belladonna&#39;s_Broadsheet.md" title="Belladonna&#39;s Broadsheet">Belladonna&#39;s Broadsheet</a></i> (1969-1970) · <b><i><a href="../M/Mallorn_(journal).md" title="Mallorn (journal)">Mallorn</a></i> (1970–nay)</b> · <i><a href="The_Tolkien_Society_Bulletin.md" title="The Tolkien Society Bulletin">The Tolkien Society Bulletin</a></i> (1970-1971) · <i><a href="../A/Andúril_(UK).md" title="Andúril (UK)">Andúril</a></i> (1972) · <b><i><a href="../A/Amon_Hen_(journal).md" title="Amon Hen (journal)">Amon Hen</a></i> (1972–nay)</b> · <i><a href="../Q/Quettar.md" title="Quettar">Quettar</a></i> (1980-1995)
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="../B/Belladonna&#39;s_Broadsheet.md" title="Belladonna&#39;s Broadsheet">Belladonna&#39;s Broadsheet</a></i> (1969-1970) · <b><i><a href="../M/Mallorn_(journal).md" title="Mallorn (journal)">Mallorn</a></i> (1970-present)</b> · <i><a href="The_Tolkien_Society_Bulletin.md" title="The Tolkien Society Bulletin">The Tolkien Society Bulletin</a></i> (1970-1971) · <i><a href="../A/Andúril_(UK).md" title="Andúril (UK)">Andúril</a></i> (1972) · <b><i><a href="../A/Amon_Hen_(journal).md" title="Amon Hen (journal)">Amon Hen</a></i> (1972-present)</b> · <i><a href="../Q/Quettar.md" title="Quettar">Quettar</a></i> (1980-1995)
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Sách
+<th align="right" style="background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Books
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="../A/An_Extrapolation_on_The_Silmarillion.md" title="An Extrapolation on The Silmarillion">An Extrapolation on The Silmarillion</a></i> (1975) · <i><a href="The_Trees,_the_Jewels_and_the_Rings.md" title="The Trees, the Jewels and the Rings">The Trees, the Jewels and the Rings</a></i> (1977) · <i>Tolkien in Oxford: The Tolkien Society Guide</i> (1978) · <i>The Tolkien Society Songbook</i> (1985) · <i><a href="Tolkien_and_Romanticism.md" title="Tolkien and Romanticism">Tolkien and Romanticism</a></i> (1988) · <i><a href="../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md" title="Proceedings of the J.R.R. Tolkien Centenary Conference">Proceedings of the J.R.R. Tolkien Centenary Conference</a></i> (1995) · <i>The Oxonmoot Songbook</i> (1997) · <i>The Filking Songbook</i> (2001) · <i><a href="The_Tolkien_Society_Guide_to_Oxford.md" title="The Tolkien Society Guide to Oxford">The Tolkien Society Guide to Oxford</a></i> (2005) · <i><a href="The_Ring_Goes_Ever_On%253A_Proceedings_of_the_Tolkien_2005_Conference.md" title="The Ring Goes Ever On: Proceedings of the Tolkien 2005 Conference">Proceedings of the Tolkien 2005 Conference</a></i> (2008) · <i><a href="Tolkien_2005_Souvenir_Book.md" title="Tolkien 2005 Souvenir Book">Tolkien 2005 Souvenir Book</a></i> (2009) · <i><a class="mw-redirect" href="The_Return_Of_The_Ring%253A_Proceedings_of_the_Tolkien_Society_Conference_2012~62335.md" title="The Return Of The Ring: Proceedings of the Tolkien Society Conference 2012">Proceedings of the Tolkien Society Conference 2012</a></i> (2016)
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><a href="../P/Peter_Roe_Memorial_Fund.md" title="Peter Roe Memorial Fund">Peter Roe Books</a>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><b>1.</b> <i><a href="../S/Some_Light_on_Middle-earth.md" title="Some Light on Middle-earth">Some Light on Middle-earth</a></i> (1985) · <b>2.</b> <i><a href="../L/Leaves_from_the_Tree.md" title="Leaves from the Tree">Leaves from the Tree</a></i> (1991) · <b>3.</b> <i><a href="The_First_and_Second_Ages.md" title="The First and Second Ages">The First and Second Ages</a></i> (1992) · <b>4.</b> <i><a href="Travel_and_Communication_in_Tolkien&#39;s_Worlds.md" title="Travel and Communication in Tolkien&#39;s Worlds">Travel and Communication in Tolkien&#39;s Worlds</a></i> (1996) · <b>5.</b> <i><a href="../D/Digging_Potatoes,_Growing_Trees.md" title="Digging Potatoes, Growing Trees">Digging Potatoes, Growing Trees, vol. 1</a></i> (1997) · <b>6.</b> <i><a href="../D/Digging_Potatoes,_Growing_Trees.md" title="Digging Potatoes, Growing Trees">Digging Potatoes, Growing Trees, vol. 2</a></i> (1998) · <b>7.</b> <i><a href="Tolkien,_the_Sea_and_Scandinavia.md" title="Tolkien, the Sea and Scandinavia">Tolkien, the Sea and Scandinavia</a></i> (1999) · <b>8.</b> <i><a href="The_Ways_of_Creative_Mythologies.md" title="The Ways of Creative Mythologies">The Ways of Creative Mythologies</a></i> (2000) · <b>9.</b> <i><a href="Tolkien%253A_A_Mythology_for_England%253F.md" title="Tolkien: A Mythology for England?">Tolkien: A Mythology for England?</a></i> (2000) · <b>10.</b> <i><a href="The_Best_of_Amon_Hen.md" title="The Best of Amon Hen">The Best of Amon Hen, vol. 1</a></i> (2000) · <b>11.</b> <i><a href="../D/Digging_Potatoes,_Growing_Trees.md" title="Digging Potatoes, Growing Trees">Digging Potatoes, Growing Trees, vol. 3</a></i> (2001) · <b>12.</b> <i><a href="../S/Sindarin_Lexicon.md" title="Sindarin Lexicon">Sindarin Lexicon</a></i> (2001) · <b>13.</b> <i><a href="The_Best_of_Amon_Hen.md" title="The Best of Amon Hen">The Best of Amon Hen, vol. 2</a></i> (2002) · <b>14.</b> <i><a href="Tolkien%253A_Influenced_and_Influencing.md" title="Tolkien: Influenced and Influencing">Tolkien: Influenced and Influencing</a></i> (2005) · <b>15.</b> <i><a href="../F/Freedom,_Fate_and_Choice_in_Middle-earth.md" title="Freedom, Fate and Choice in Middle-earth">Freedom, Fate and Choice in Middle-earth</a></i> (2012) · <b>16.</b> <i><a href="../J/Journeys_&amp;_Destinations.md" title="Journeys &amp; Destinations">Journeys &amp; Destinations</a></i> (2015) · <b>17.</b> <i><a href="../D/Death_and_Immortality_in_Middle-earth.md" title="Death and Immortality in Middle-earth">Death and Immortality in Middle-earth</a></i> (2017) · <b>18.</b> <i><a href="../P/Poetry_and_Song_in_the_works_of_J.R.R._Tolkien.md" title="Poetry and Song in the works of J.R.R. Tolkien">Poetry and Song in the works of J.R.R. Tolkien</a></i> (2018) · <b>19.</b> <i><a href="Tolkien_the_Pagan%253F.md" title="Tolkien the Pagan?">Tolkien the Pagan?</a></i> (2019) · <b>20.</b> <i><a href="../A/Adapting_Tolkien.md" title="Adapting Tolkien">Adapting Tolkien</a></i> (2021) · <b>21.</b> <i><a href="Twenty-first_Century_Receptions_of_Tolkien.md" title="Twenty-first Century Receptions of Tolkien">Twenty-first Century Receptions of Tolkien</a></i> (2022) · <b>22.</b> <i><a href="Tolkien_and_Diversity.md" title="Tolkien and Diversity">Tolkien and Diversity</a></i> (2023) · <b>23.</b> <i><a href="Translating_and_Illustrating_Tolkien.md" title="Translating and Illustrating Tolkien">Translating and Illustrating Tolkien</a></i> (2023) · <b>24.</b> <i><a href="Tolkien_and_the_Gothic.md" title="Tolkien and the Gothic">Tolkien and the Gothic</a></i> (2024)
+<td style="font-size: 90%; padding-left: 4px;"><b>1.</b> <i><a href="../S/Some_Light_on_Middle-earth.md" title="Some Light on Middle-earth">Some Light on Middle-earth</a></i> (1985) · <b>2.</b> <i><a href="../L/Leaves_from_the_Tree.md" title="Leaves from the Tree">Leaves from the Tree</a></i> (1991) · <b>3.</b> <i><a href="The_First_and_Second_Ages.md" title="The First and Second Ages">The First and Second Ages</a></i> (1992) · <b>4.</b> <i><a href="Travel_and_Communication_in_Tolkien&#39;s_Worlds.md" title="Travel and Communication in Tolkien&#39;s Worlds">Travel and Communication in Tolkien&#39;s Worlds</a></i> (1996) · <b>5.</b> <i><a href="../D/Digging_Potatoes,_Growing_Trees.md" title="Digging Potatoes, Growing Trees">Digging Potatoes, Growing Trees, vol. 1</a></i> (1997) · <b>6.</b> <i><a href="../D/Digging_Potatoes,_Growing_Trees.md" title="Digging Potatoes, Growing Trees">Digging Potatoes, Growing Trees, vol. 2</a></i> (1998) · <b>7.</b> <i><a href="Tolkien,_the_Sea_and_Scandinavia.md" title="Tolkien, the Sea and Scandinavia">Tolkien, the Sea and Scandinavia</a></i> (1999) · <b>8.</b> <i><a href="The_Ways_of_Creative_Mythologies.md" title="The Ways of Creative Mythologies">The Ways of Creative Mythologies</a></i> (2000) · <b>9.</b> <i><a href="Tolkien%253A_A_Mythology_for_England%253F.md" title="Tolkien: A Mythology for England?">Tolkien: A Mythology for England?</a></i> (2000) · <b>10.</b> <i><a href="The_Best_of_Amon_Hen.md" title="The Best of Amon Hen">The Best of Amon Hen, vol. 1</a></i> (2000) · <b>11.</b> <i><a href="../D/Digging_Potatoes,_Growing_Trees.md" title="Digging Potatoes, Growing Trees">Digging Potatoes, Growing Trees, vol. 3</a></i> (2001) · <b>12.</b> <i><a href="../S/Sindarin_Lexicon.md" title="Sindarin Lexicon">Sindarin Lexicon</a></i> (2001) · <b>13.</b> <i><a href="The_Best_of_Amon_Hen.md" title="The Best of Amon Hen">The Best of Amon Hen, vol. 2</a></i> (2002) · <b>14.</b> <i><a href="Tolkien%253A_Influenced_and_Influencing.md" title="Tolkien: Influenced and Influencing">Tolkien: Influenced and Influencing</a></i> (2005)· <b>15.</b> <i><a href="../F/Freedom,_Fate_and_Choice_in_Middle-earth.md" title="Freedom, Fate and Choice in Middle-earth">Freedom, Fate and Choice in Middle-earth</a></i> (2012) · <b>16.</b> <i><a href="../J/Journeys_&amp;_Destinations.md" title="Journeys &amp; Destinations">Journeys &amp; Destinations</a></i> (2015) · <b>17.</b> <i><a href="../D/Death_and_Immortality_in_Middle-earth.md" title="Death and Immortality in Middle-earth">Death and Immortality in Middle-earth</a></i> (2017) · <b>18.</b> <i><a href="../P/Poetry_and_Song_in_the_works_of_J.R.R._Tolkien.md" title="Poetry and Song in the works of J.R.R. Tolkien">Poetry and Song in the works of J.R.R. Tolkien</a></i> (2018) · <b>19.</b> <i><a href="Tolkien_the_Pagan%253F.md" title="Tolkien the Pagan?">Tolkien the Pagan?</a></i> (2019) · <b>20.</b> <i><a href="../A/Adapting_Tolkien.md" title="Adapting Tolkien">Adapting Tolkien</a></i> (2021) · <b>21.</b> <i><a href="Twenty-first_Century_Receptions_of_Tolkien.md" title="Twenty-first Century Receptions of Tolkien">Twenty-first Century Receptions of Tolkien</a></i> (2022) · <b>22.</b> <i><a href="Tolkien_and_Diversity.md" title="Tolkien and Diversity">Tolkien and Diversity</a></i> (2023) · <b>23.</b> <i><a href="Translating_and_Illustrating_Tolkien.md" title="Translating and Illustrating Tolkien">Translating and Illustrating Tolkien</a></i> (2023) · <b>24.</b> <i><a href="Tolkien_and_the_Gothic.md" title="Tolkien and the Gothic">Tolkien and the Gothic</a></i> (2024)
 </td></tr></tbody></table>

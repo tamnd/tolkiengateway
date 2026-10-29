@@ -16,7 +16,7 @@ sort_keys:
   "Mythlore": " "
 ---
 
-**Mythlore**, do [Hiệp hội Mythopoeic](Mythopoeic_Society.md) xuất bản, là một tạp chí được bình duyệt, tập trung vào các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [C.S. Lewis](../C/C.S._Lewis.md), [Charles Williams](../C/Charles_Williams.md) và các thể loại thần thoại, giả tưởng. Bắt đầu từ mùa thu [2013](../_/2013.md), **Mythlore** được xuất bản hai lần mỗi năm, vào mùa xuân và mùa thu. *Mythlore Index Plus*, công cụ lập chỉ mục cho **Mythlore**, [Tolkien Journal](../T/Tolkien_Journal.md), các kỷ yếu hội nghị đã xuất bản và những ấn phẩm khác của Hiệp hội Mythopoeic, có thể được tải xuống theo liên kết bên dưới.
+**Mythlore**, do [Hiệp hội thần thoại](Mythopoeic_Society.md) xuất bản, là một tạp chí được bình duyệt tập trung vào các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [C.S. Lewis](../C/C.S._Lewis.md), [Charles Williams](../C/Charles_Williams.md) và các thể loại thần thoại, giả tưởng. Bắt đầu từ mùa thu [2013](../_/2013.md), **Mythlore** được xuất bản hai lần một năm vào mùa xuân và mùa thu. Bạn có thể tải xuống *Mythlore Index Plus*, bao gồm **Mythlore**, [Tolkien Journal](../T/Tolkien_Journal.md), kỷ yếu hội nghị đã xuất bản và các ấn phẩm khác của Hiệp hội Thần thoại.
 
 ## Vấn đề {#Issues}
 

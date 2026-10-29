@@ -22,11 +22,11 @@ langlinks:
     url: "https://kontu.wiki/K%C3%A4skynhaltijain_lasku"
 ---
 
-**Tính toán của Người quản lý**, còn được gọi là **Lịch sửa đổi**, là hệ thống lịch được giới thiệu vào [Gondor](../G/Gondor.md) bởi [Người quản lý cầm quyền](../R/Ruling_Steward.md) đầu tiên, [Mardil Voronwë](../M/Mardil.md), vào [Kỷ Đệ Tam năm 2060](../T/Third_Age_2060.md). Nó thay thế hệ thống trước đó được gọi là [Lịch Tính của các Vua](../K/Kings'_Reckoning.md) và sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), nó được thay thế bằng [Tính toán mới](../N/New_Reckoning.md).<sup id="cite_ref-D2_1-0" class="reference"><a href="#cite_note-D2-1">[1]</a></sup>
+**Tính toán của Người quản lý**, còn được gọi là **Lịch sửa đổi**, là hệ thống lịch được giới thiệu vào [Gondor](../G/Gondor.md) bởi [Người quản lý cầm quyền](../R/Ruling_Steward.md) đầu tiên, [Mardil Voronwë](../M/Mardil.md), vào [Kỷ Đệ Tam năm 2060](../T/Third_Age_2060.md). Nó thay thế hệ thống trước đó được gọi là [Tính toán của các vị vua](../K/Kings'_Reckoning.md) và sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), nó được thay thế bằng [Tính toán mới](../N/New_Reckoning.md).<sup id="cite_ref-D2_1-0" class="reference"><a href="#cite_note-D2-1">[1]</a></sup>
 
 ## Nền {#Background}
 
-[Arnor](../A/Arnor.md) và [Gondor](../G/Gondor.md) đã sử dụng lịch [Númenórean](../N/Númenóreans.md) có tên là Cuộc Lịch Tính của các Vua. Ngay cả sau sự sụp đổ của [Númenor](../N/Númenor.md) gần cuối [Kỷ Đệ Nhị](Second_Age.md), lịch cũ vẫn được duy trì bởi [Những kẻ lưu vong từ Númenor](../E/Exiles_of_Númenor.md) trong [Trung Địa](../M/Middle-earth.md) cho đến tận [Kỷ Đệ Tam](../T/Third_Age.md). Khi thời đại của các vị vua trôi qua với [sự sụp đổ của Arnor](../B/Battle_of_Fornost.md) và sự mất mát của Vua [Eärnur](../E/Eärnur.md), Sự Lịch Tính của các Vua đã đưa ra (do đặt lại "[bổ sung thiên niên kỷ](../K/Kings'_Reckoning.md#Structure)" với số lượng mới Kỷ Đệ Tam năm) một khoảng thời gian bù đắp khoảng 2 ngày<sup id="cite_ref-RC_2-0" class="reference"><a href="#cite_note-RC-2">[2]</a></sup> không đồng bộ với <a class="extiw" href="http://en.wikipedia.org/wiki/Tropical_year" title="wikipedia:Tropical year">mặt trời năm</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
+[Arnor](../A/Arnor.md) và [Gondor](../G/Gondor.md) đã sử dụng lịch [Númenórean](../N/Númenóreans.md) có tên là Cuộc tính toán của các vị vua. Ngay cả sau sự sụp đổ của [Númenor](../N/Númenor.md) gần cuối [Kỷ Đệ Nhị](Second_Age.md), lịch cũ vẫn được duy trì bởi [Những người lưu vong của Númenor](../E/Exiles_of_Númenor.md) trong [Trung Địa](../M/Middle-earth.md) cho đến tận [Kỷ Đệ Tam](../T/Third_Age.md). Khi thời đại của các vị vua trôi qua với [sự sụp đổ của Arnor](../B/Battle_of_Fornost.md) và sự mất mát của Vua [Eärnur](../E/Eärnur.md), Sự tính toán của các vị vua đã đưa ra (do đặt lại "[bổ sung thiên niên kỷ](../K/Kings'_Reckoning.md#Structure)" với số lượng mới Kỷ Đệ Tam năm) một khoảng thời gian bù đắp khoảng 2 ngày<sup id="cite_ref-RC_2-0" class="reference"><a href="#cite_note-RC-2">[2]</a></sup> không đồng bộ với <a class="extiw" href="http://en.wikipedia.org/wiki/Tropical_year" title="wikipedia:Tropical year">mặt trời năm</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -38,17 +38,17 @@ Trong [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), lịch đã đư
 
 ## Lịch {#The_Calendar}
 
-Lịch sửa đổi bao gồm mười hai tháng, mỗi tháng có ba mươi ngày và năm ngày bổ sung không thuộc tháng nào. Các tháng được lấy từ các tháng trong Cuộc Lịch Tính của các Vua, với sự thay đổi là tháng bảy và tháng tám được rút ngắn xuống còn ba mươi ngày, và hai ngày được đặt ngoài các tháng là [tuilérë](../T/Tuilérë.md), nghĩa là Ngày mùa xuân và [yáviérë](../Y/Yáviérë.md), nghĩa là Ngày mùa thu.
+Lịch sửa đổi bao gồm mười hai tháng, mỗi tháng có ba mươi ngày và năm ngày bổ sung không thuộc tháng nào. Các tháng được lấy từ các tháng trong Cuộc tính toán của các vị vua, với sự thay đổi là tháng bảy và tháng tám được rút ngắn xuống còn ba mươi ngày, và hai ngày được đặt ngoài các tháng là [tuilérë](../T/Tuilérë.md), nghĩa là Ngày mùa xuân và [yáviérë](../Y/Yáviérë.md), nghĩa là Ngày mùa thu.
 
 <table class="TGtable">
 <tbody><tr>
-<th>Số tháng
+<th>Month number
 </th>
 <th>Quenya
 </th>
 <th>Sindarin
 </th>
-<th>Chiều dài
+<th>Length
 </th>
 <th>Relationship to the <a href="Shire_Calendar.md" title="Shire Calendar">Shire Calendar</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 2]</a></sup>
 </th></tr>
@@ -92,21 +92,21 @@ Lịch sửa đổi bao gồm mười hai tháng, mỗi tháng có ba mươi ng�
 <td><a href="../V/Víressë.md" title="Víressë">Víressë</a></td>
 <td><a class="mw-redirect" href="../G/Gwirith.md" title="Gwirith">Gwirith</a></td>
 <td>30</td>
-<td>2 <a href="../A/Astron.md" title="Astron">Astro</a> đến 1 <a href="../T/Thrimidge.md" title="Thrimidge">Thrimidge</a>
+<td>2 <a href="../A/Astron.md" title="Astron">Astron</a> through 1 <a href="../T/Thrimidge.md" title="Thrimidge">Thrimidge</a>
 </td></tr>
 <tr>
 <td>5</td>
 <td><a href="../L/Lótessë.md" title="Lótessë">Lótessë</a></td>
 <td><a href="../L/Lothron.md" title="Lothron">Lothron</a></td>
 <td>30</td>
-<td>2 <a href="../T/Thrimidge.md" title="Thrimidge">Thrimidge</a> đến 1 <a href="../F/Forelithe.md" title="Forelithe">Forelithe</a>
+<td>2 <a href="../T/Thrimidge.md" title="Thrimidge">Thrimidge</a> through 1 <a href="../F/Forelithe.md" title="Forelithe">Forelithe</a>
 </td></tr>
 <tr>
 <td>6</td>
 <td><a href="../N/Nárië.md" title="Nárië">Nárië</a></td>
 <td><a href="../N/Nórui.md" title="Nórui">Nórui</a></td>
 <td>30</td>
-<td>2 <a href="../F/Forelithe.md" title="Forelithe">Tiền tiên</a> đến <a href="../L/Lithedays.md" title="Lithedays">1 Lithe</a>
+<td>2 <a href="../F/Forelithe.md" title="Forelithe">Forelithe</a> through <a href="../L/Lithedays.md" title="Lithedays">1 Lithe</a>
 </td></tr>
 <tr>
 <td> </td>
@@ -120,21 +120,21 @@ Lịch sửa đổi bao gồm mười hai tháng, mỗi tháng có ba mươi ng�
 <td><a href="../C/Cermië.md" title="Cermië">Cermië</a></td>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cerveth&amp;action=edit&amp;redlink=1" title="Cerveth (page does not exist)">Cerveth</a></td>
 <td>30</td>
-<td><a href="../L/Lithedays.md" title="Lithedays">2 Lithe</a> đến 29 <a href="../A/Afterlithe.md" title="Afterlithe">Afterlithe</a>
+<td><a href="../L/Lithedays.md" title="Lithedays">2 Lithe</a> through 29 <a href="../A/Afterlithe.md" title="Afterlithe">Afterlithe</a>
 </td></tr>
 <tr>
 <td>8</td>
 <td><a href="../_/Úrimë.md" title="Úrimë">Úrimë</a></td>
 <td><a href="../U/Urui.md" title="Urui">Urui</a></td>
 <td>30</td>
-<td>30 <a href="../A/Afterlithe.md" title="Afterlithe">Sau trận</a> đến 29 <a href="../W/Wedmath.md" title="Wedmath">Thứ Tư</a>
+<td>30 <a href="../A/Afterlithe.md" title="Afterlithe">Afterlithe</a> through 29 <a href="../W/Wedmath.md" title="Wedmath">Wedmath</a>
 </td></tr>
 <tr>
 <td>9</td>
 <td><a href="../Y/Yavannië.md" title="Yavannië">Yavannië</a></td>
 <td><a href="../I/Ivanneth.md" title="Ivanneth">Ivanneth</a></td>
 <td>30</td>
-<td>30 <a href="../W/Wedmath.md" title="Wedmath">Thứ Tư</a> đến 29 <a href="../H/Halimath.md" title="Halimath">Halimath</a>
+<td>30 <a href="../W/Wedmath.md" title="Wedmath">Wedmath</a> through 29 <a href="../H/Halimath.md" title="Halimath">Halimath</a>
 </td></tr>
 <tr>
 <td></td>
@@ -219,4 +219,4 @@ Một số người đã đề xuất (bao gồm cả *[The Reader's Companion](
 
 ## Liên kết ngoài {#External_links}
 
-- Dự án <a class="external text" href="http://psarando.github.io/shire-reckoning" rel="noreferrer noopener" target="_blank">Lịch Shire</a>, dành riêng cho việc mô phỏng và phân tích chi tiết tất cả các lịch của *The Lord of the Rings* [Phụ lục D](../A/Appendix_D.md).
+- Dự án <a class="external text" href="http://psarando.github.io/shire-reckoning" rel="noreferrer noopener" target="_blank">Shire Tính toán</a>, dành riêng cho việc mô phỏng và phân tích chi tiết tất cả các lịch của *The Lord of the Rings* [Phụ lục D](../A/Appendix_D.md).

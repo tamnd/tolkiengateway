@@ -27,11 +27,11 @@ images:
 ## Thông cáo báo chí {#Press_Release}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Thưởng thức khung cảnh, âm thanh và sự phấn khích của cuốn tiểu thuyết giả tưởng bán chạy nhất từng được viết, trong tác phẩm sân khấu trực tiếp ngoạn mục mới mẻ này với những hiệu ứng ma thuật mới lấp lánh.
-</p><p>Bilbo Baggins, một Hobbit trầm lặng và mãn nguyện, cuộc sống của anh bị đảo lộn khi được Gandalf Phù thủy chọn tham gia cùng Thorin Oakenshield, vị vua bị lưu đày của Người Lùn, trong hành trình đòi lại vương quốc và kho báu của họ.
-</p><p>Một cuộc hành trình đáng sợ nhưng kỳ diệu - một cuộc hành trình mà họ có thể không bao giờ quay trở lại.
-</p><p>Các nhà thám hiểm chiến đấu vượt qua Dãy Núi Sương Mù, gió, mưa, mưa đá và giông bão, thoát khỏi Troll, Goblin, Sói và Nhện khổng lồ trong gang tấc. Cuối cùng Bilbo một mình phải đối mặt với người bảo vệ kho báu, con rồng đáng sợ nhất trên khắp Trung Địa – Smaug ..."
-</p><p>Vở kịch chuyển thể từ sân khấu của nhà viết kịch thiếu nhi quá cố Glyn Robbins đã trình diễn trước gần nửa triệu người trong các chuyến lưu diễn toàn quốc và mùa Giáng sinh ở Phương Tây End.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<p>Enjoy the sights, sounds and excitement of the best selling fantasy novel ever written, in this fresh spectacular live theatre production with sparkling new magical effects.
+</p><p>Bilbo Baggins, a quiet and contented Hobbit, has his life turned upside down when he is chosen by Gandalf the Sorcerer to join Thorin Oakenshield, exiled king of the Dwarves, on his quest to reclaim their kingdom and treasure.
+</p><p>A frightening but magical journey – a journey from which they may never return.
+</p><p>The adventurers battle through the Misty Mountains, wind, rain, hail and thunderstorms, narrowly escaping Trolls, Goblins, Wolves and Giant Spiders. Finally Bilbo alone must face the guardian of the treasure, the most feared dragon in all Middle Earth – Smaug ...&#34;
+</p><p>The stage adaptation by the late children&#39;s playwright Glyn Robbins has played to nearly half a million people during national tours and Christmas seasons in the West End.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </p>
 </blockquote>
 

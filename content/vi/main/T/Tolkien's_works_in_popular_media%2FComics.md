@@ -22,8 +22,8 @@ images:
   - "Captain_America_reading_Tolkien_-_Avengers_46.jpg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Tolkien%27s_works_in_popular_media/Comics&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Tolkien%27s_works_in_popular_media/Comics&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
@@ -32,7 +32,7 @@ Các tác phẩm của **[Tolkien trên các phương tiện truyền thông đ�
 
 ## Truyện tranh/phim hoạt hình đầu tiên {#Early_comics/cartoons}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/_/20_November_1954_Newsweek_cartoon.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c9/20_November_1954_Newsweek_cartoon.jpg/300px-20_November_1954_Newsweek_cartoon.jpg" decoding="async" loading="lazy" width="300" height="202" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c9/20_November_1954_Newsweek_cartoon.jpg/450px-20_November_1954_Newsweek_cartoon.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c9/20_November_1954_Newsweek_cartoon.jpg/600px-20_November_1954_Newsweek_cartoon.jpg 2x" data-file-width="1093" data-file-height="735"/></a><figcaption>Phim hoạt hình một khung trong <i>Newsweek</i> từ năm 1954</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/_/20_November_1954_Newsweek_cartoon.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c9/20_November_1954_Newsweek_cartoon.jpg/300px-20_November_1954_Newsweek_cartoon.jpg" decoding="async" loading="lazy" width="300" height="202" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c9/20_November_1954_Newsweek_cartoon.jpg/450px-20_November_1954_Newsweek_cartoon.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c9/20_November_1954_Newsweek_cartoon.jpg/600px-20_November_1954_Newsweek_cartoon.jpg 2x" data-file-width="1093" data-file-height="735"/></a><figcaption>Single frame cartoon in <i>Newsweek</i> from 1954</figcaption></figure>
 
 Hình minh họa được xuất bản đầu tiên được biết đến theo phong cách hài hước là một phim hoạt hình một khung xuất hiện trong ấn bản [29 tháng 11](../_/29_November.md) [1954](../_/1954.md) của *Newsweek* (trong đó có bài đánh giá về *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)* mới được xuất bản). Phim hoạt hình được vẽ bởi "M. Simont" (rõ ràng là <a class="extiw" href="http://en.wikipedia.org/wiki/Marc_Simont" title="wikipedia:Marc Simont">Marc Simont</a>), miêu tả [Orc](../O/Orcs.md) của [Moria](../M/Moria.md) là những sinh vật có lông với cái đầu lớn có mỏ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> [Gandalf](../G/Gandalf.md) mặc một chiếc áo choàng được trang trí bằng những gì có vẻ là biểu tượng ma thuật.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
@@ -55,7 +55,7 @@ Hình minh họa được xuất bản đầu tiên được biết đến theo 
 
 ### Truyện tranh DC {#DC_Comics}
 
-- Trong loạt phim <i><a class="extiw" href="http://en.wikipedia.org/wiki/Blue_Beetle" title="wikipedia:Blue Beetle">Blue Beetle</a></i> năm 2006, "nơi ẩn náu" của người anh hùng cùng tên được gọi là [Hobbiton](../H/Hobbiton.md). Kẻ thù nhỏ của ông, Diviner, triệu hồi Ent.
+- Trong loạt phim <i><a class="extiw" href="http://en.wikipedia.org/wiki/Blue_Beetle" title="wikipedia:Blue Beetle">Blue Beetle</a></i> năm 2006, "nơi ẩn náu" của người anh hùng cùng tên được gọi là [Hobbiton](../H/Hobbiton.md). Kẻ thù nhỏ của ông ta, Diviner, triệu hồi Ent.
 - Trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Secret_Origins" title="wikipedia:Secret Origins">Nguồn gốc bí mật</a></i> #20, Barbara Gordon đọc *[The Lord of the Rings](The_Lord_of_the_Rings.md)* trên máy bay từ Chicago đến Gotham.
 - Nhân vật phản diện <a class="extiw" href="http://en.wikipedia.org/wiki/Legion_of_Super-Heroes" title="wikipedia:Legion of Super-Heroes">Quân đoàn siêu anh hùng</a> Tseln có một con dao bạc "[Mithril](../M/Mithril.md).
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Sasha_Bordeaux" title="wikipedia:Sasha Bordeaux">Sasha Bordeaux</a> đề cập [Legolas](../L/Legolas.md) trong *Checkmate* #4
@@ -73,7 +73,7 @@ Hình minh họa được xuất bản đầu tiên được biết đến theo 
 
 ### Kỳ diệu {#Marvel}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Captain_America_reading_Tolkien_-_Avengers_46.jpg.md"><img src="https://tolkiengateway.net/w/images/1/15/Captain_America_reading_Tolkien_-_Avengers_46.jpg" decoding="async" loading="lazy" width="256" height="382" class="mw-file-element" data-file-width="256" data-file-height="382"/></a><figcaption>Captain America đọc Tolkien trong <i>Avengers</i> #46 (1967)</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Captain_America_reading_Tolkien_-_Avengers_46.jpg.md"><img src="https://tolkiengateway.net/w/images/1/15/Captain_America_reading_Tolkien_-_Avengers_46.jpg" decoding="async" loading="lazy" width="256" height="382" class="mw-file-element" data-file-width="256" data-file-height="382"/></a><figcaption>Captain America reading Tolkien in <i>Avengers</i> #46 (1967)</figcaption></figure>
 
 - Marvel có các nhân vật tên là [Sauron](../S/Sauron.md), [Numenor](../N/Númenor.md) và [Aragorn](../A/Aragorn.md) (một con ngựa có cánh). Sauron thực ra đã đặt tên mình theo tên nhân vật.
 - Spidey gọi bạn bè của mình là Hiệp hội trong <a class="extiw" href="http://en.wikipedia.org/wiki/White_Tiger_(comics)" title="wikipedia:White Tiger (comics)"><i>Bạch Hổ</i></a> #6

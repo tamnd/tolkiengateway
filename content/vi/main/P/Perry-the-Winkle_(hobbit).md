@@ -20,8 +20,8 @@ images:
   - "Pauline_Baynes_-_Perry-the-Winkle_(fat).jpeg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Perry-the-Winkle_(hobbit)&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Perry-the-Winkle_(hobbit)&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
@@ -32,7 +32,7 @@ images:
 
 **Perry-the-Winkle** là [Hobbit](../H/Hobbit.md) của [Michel Delving](../M/Michel_Delving.md), và là nhân vật chính của bài thơ hobbit *[Perry-the-Winkle](Perry-the-Winkle.md)*.
 
-Trong bài thơ, Perry là người hobbit duy nhất đối xử tử tế với [Troll Cô Độc](../L/Lonely_Troll.md), và ở anh, Quỷ lùn đã tìm thấy người bạn mà nó hằng mong muốn; Troll thường cho anh ăn và dạy anh nấu ăn giỏi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong bài thơ, Perry là người hobbit duy nhất đối xử tử tế với [Quỷ cô đơn](../L/Lonely_Troll.md), và ở anh, Quỷ lùn đã tìm thấy người bạn mà nó hằng mong muốn; Troll thường cho anh ăn và dạy anh nấu ăn giỏi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

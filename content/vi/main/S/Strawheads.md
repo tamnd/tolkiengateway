@@ -26,9 +26,9 @@ langlinks:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Cái chết cho Forgoil!  Cái chết cho bọn Đầu Rơm!  Chết đi bọn cướp phương Bắc!
+<p>Death to the Forgoil!  Death to the Strawheads!  Death to the robbers of the North!
 </p>
-<p class="tg-quote-footer"><cite>Tiếng kêu của <a href="../D/Dunlendings.md" title="Dunlendings">Dunlending</a> được báo cáo bởi <a href="../G/Gamling.md" title="Gamling">Cờ bạc</a> tại <a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a></cite></p>
+<p class="tg-quote-footer"><cite>Cry of the <a href="../D/Dunlendings.md" title="Dunlendings">Dunlendings</a> as reported by <a href="../G/Gamling.md" title="Gamling">Gamling</a> at <a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 **Strawheads** là một cái tên xúc phạm thường xuyên được những người tóc đen ở [Trung Địa](../M/Middle-earth.md) đặt cho những người có mái tóc sáng màu hơn. Nó xuất hiện nổi bật nhất trong số [Dunlendings](../D/Dunlendings.md), những người đã trao nó cho những người hàng xóm đáng ghét của họ, [Rohirrim](../R/Rohirrim.md), những người mà họ coi là đang chiếm đoạt vùng đất Dunlending. Thật vậy, phần duy nhất của ngôn ngữ [Dunlendish](../D/Dunlendish.md) còn tồn tại là từ có nghĩa 'Đầu rơm', [Bỏ qua](../F/Forgoil.md), được thấy trong trích dẫn ở trên.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>

@@ -20,7 +20,7 @@ infobox:
     value: "Levon Vokins; Eric Mackenzie Siemens"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Ban nhạc</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Khazad-Dûm</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin nền</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nguồn gốc</th><td class="tg-infobox-data">Edmonton, Canada</td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">death metal/deathcore</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thành viên</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thành viên hiện tại</th><td class="tg-infobox-data">Levon Vokins<br/>Eric Mackenzie Siemens</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Khazad-Dûm</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Edmonton, Canada</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">death metal/deathcore</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Levon Vokins<br/>Eric Mackenzie Siemens</td></tr></tbody></table>
 
 *Đừng nhầm lẫn với [Khazad-dûm](<Khazad-dûm_(British_band).md>), ban nhạc tang lễ doom/death metal của Reading.*
 

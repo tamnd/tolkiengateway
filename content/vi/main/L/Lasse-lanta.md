@@ -17,7 +17,7 @@ images:
 
 **Lasse-lanta** là [Quenya](../Q/Quenya.md) có nghĩa là "Lá rơi", là tên thay thế cho mùa [Quellë](../Q/Quellë.md) hoặc cuối mùa thu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="../N/Narbeleth.md" title="Narbeleth">Narbeleth</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../N/Narbeleth.md" title="Narbeleth">Narbeleth</a></div></div>
 
 <span></span>
 

@@ -18,8 +18,8 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Sara_Brown&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Sara_Brown&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
@@ -30,7 +30,7 @@ Cô cũng đồng tổ chức các podcast [Trải nghiệm Tolkien](../T/The_To
 
 ## Giải thưởng {#Awards}
 
-- [2023](../_/2023.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Bài viết hay nhất**, "'Tất cả những gì lấp lánh không phải là vàng': Nhẫn Quyền Năng và sự lừa dối của sự so sánh" trong [Mallorn 63](../M/Mallorn_63.md)
+- [2023](../_/2023.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Bài viết hay nhất**, "'Tất cả những gì lấp lánh không phải là vàng': Chiếc nhẫn quyền lực và sự lừa dối của sự so sánh" trong [Mallorn 63](../M/Mallorn_63.md)
 - [2024](../_/2024.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Bài viết hay nhất**, "'Câu chuyện về 'Aldarion và Erendis': Không chỉ là chuyện tình thời trung cổ' trong [Journal of Tolkien Research](../J/Journal_of_Tolkien_Research.md) tập. 18 không. 1
 
 ## Liên kết ngoài {#External_links}

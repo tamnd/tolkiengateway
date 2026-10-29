@@ -20,7 +20,7 @@ Nhiều [tài liệu chưa được xuất bản](../../index/U/Unpublished_mate
 
 ## 1959-1970 {#1959-1970}
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Ashmolean_Exhibition_Poster.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d9/Ashmolean_Exhibition_Poster.jpeg/225px-Ashmolean_Exhibition_Poster.jpeg" decoding="async" loading="lazy" width="225" height="288" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d9/Ashmolean_Exhibition_Poster.jpeg/338px-Ashmolean_Exhibition_Poster.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d9/Ashmolean_Exhibition_Poster.jpeg/450px-Ashmolean_Exhibition_Poster.jpeg 2x" data-file-width="1280" data-file-height="1641"/></a><figcaption>Áp phích quảng cáo triển lãm "Bản vẽ của Tolkien" (1976-77).</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Ashmolean_Exhibition_Poster.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d9/Ashmolean_Exhibition_Poster.jpeg/225px-Ashmolean_Exhibition_Poster.jpeg" decoding="async" loading="lazy" width="225" height="288" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d9/Ashmolean_Exhibition_Poster.jpeg/338px-Ashmolean_Exhibition_Poster.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d9/Ashmolean_Exhibition_Poster.jpeg/450px-Ashmolean_Exhibition_Poster.jpeg 2x" data-file-width="1280" data-file-height="1641"/></a><figcaption>An advertising poster of the &#34;Drawings By Tolkien&#34; exhibition (1976-77).</figcaption></figure>
 
 - [1959](../_/1959.md) — Triển lãm Đại học Kansas
 

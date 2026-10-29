@@ -17,10 +17,10 @@ images:
   - "Matěj_Čadil_-_It_is_fish!.jpg"
 ---
 
-<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_The_fish_we_couldn&#39;t_get_at_Swanwick&#39;s_(excerpt).png.md"><img src="https://tolkiengateway.net/w/images/e/ef/J.R.R._Tolkien_-_The_fish_we_couldn%27t_get_at_Swanwick%27s_%28excerpt%29.png" decoding="async" loading="lazy" width="278" height="117" class="mw-file-element" data-file-width="278" data-file-height="117"/></a><figcaption>Một con cá được minh họa bởi <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</figcaption></figure>
+<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_The_fish_we_couldn&#39;t_get_at_Swanwick&#39;s_(excerpt).png.md"><img src="https://tolkiengateway.net/w/images/e/ef/J.R.R._Tolkien_-_The_fish_we_couldn%27t_get_at_Swanwick%27s_%28excerpt%29.png" decoding="async" loading="lazy" width="278" height="117" class="mw-file-element" data-file-width="278" data-file-height="117"/></a><figcaption>A fish illustrated by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Đá và hồ bơi, <br/>rất đẹp và mát mẻ.<br/> Thật ngọt ngào!<br/>Mong muốn duy nhất của chúng tôi<br/> là câu được một con cá.<br/>Thật ngọt ngào!
+<p>The rock and pool, <br/>is nice and cool.<br/> So Juicy Sweet!<br/>Our only wish<br/> is to catch a fish.<br/>So juicy sweet!
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gollum.md" title="Gollum">Gollum</a><sup id="cite_ref-Pool_1-0" class="reference"><a href="#cite_note-Pool-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -31,7 +31,7 @@ images:
 
 Cá là nguồn thực phẩm chính ở [Númenor](../N/Númenor.md) vì nó có rất nhiều ở khắp bờ biển của hòn đảo. Ngư dân cư trú chủ yếu ở [Nindamos](../N/Nindamos.md), được xây dựng trên nền đất cứng của vùng đất đầm lầy. [Các thủy thủ](../G/Guild_of_Venturers.md) của Númenor hầu hết đều là ngư dân.<sup id="cite_ref-Descr_2-0" class="reference"><a href="#cite_note-Descr-2">[2]</a></sup>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_It_is_fish!.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1b/Mat%C4%9Bj_%C4%8Cadil_-_It_is_fish%21.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_It_is_fish%21.jpg" decoding="async" loading="lazy" width="300" height="334" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1b/Mat%C4%9Bj_%C4%8Cadil_-_It_is_fish%21.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_It_is_fish%21.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1b/Mat%C4%9Bj_%C4%8Cadil_-_It_is_fish%21.jpg/600px-Mat%C4%9Bj_%C4%8Cadil_-_It_is_fish%21.jpg 2x" data-file-width="1280" data-file-height="1423"/></a><figcaption><i>It is fish!</i> bởi <a href="../M/Matěj_Čadil.md" title="Matěj Čadil">Matěj Čadil</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_It_is_fish!.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1b/Mat%C4%9Bj_%C4%8Cadil_-_It_is_fish%21.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_It_is_fish%21.jpg" decoding="async" loading="lazy" width="300" height="334" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1b/Mat%C4%9Bj_%C4%8Cadil_-_It_is_fish%21.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_It_is_fish%21.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1b/Mat%C4%9Bj_%C4%8Cadil_-_It_is_fish%21.jpg/600px-Mat%C4%9Bj_%C4%8Cadil_-_It_is_fish%21.jpg 2x" data-file-width="1280" data-file-height="1423"/></a><figcaption><i>It is fish!</i> by <a href="../M/Matěj_Čadil.md" title="Matěj Čadil">Matěj Čadil</a></figcaption></figure>
 
 Khi [người Númenor](../N/Númenóreans.md) du hành tới [Trung Địa](../M/Middle-earth.md), họ chạm trán với [các bộ lạc nguyên thủy](../P/Pre-Númenóreans.md) ở đó. Mặc dù một số trong số họ, dọc theo cửa [Morthond](../M/Morthond.md) và [Gwathló](../G/Gwathló.md), có nghề đánh cá thô sơ, nhưng chúng đã không còn được sử dụng khi người dân ở đây chạy trốn về phía núi.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Người [Stoors](../S/Stoors.md) sống ở [Thung lũng Anduin](../V/Vales_of_Anduin.md) cũng lấy cá làm thức ăn chính. Hai người trong số họ, [Déagol](../D/Déagol.md) và [Sméagol](../S/Sméagol.md), đang câu cá thì tìm thấy [Chiếc Nhẫn Chúa](../T/The_One_Ring.md), bị thất lạc trên sông [Anduin](../A/Anduin.md).<sup id="cite_ref-Shadow_5-0" class="reference"><a href="#cite_note-Shadow-5">[5]</a></sup>
 
@@ -53,7 +53,7 @@ Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu c�
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Gollum_-_Fish.jpeg.md" title="Fish bones in The Lord of the Rings: Gollum"><img alt="Fish bones in The Lord of the Rings: Gollum" src="https://tolkiengateway.net/w/images/thumb/2/21/The_Lord_of_the_Rings_Gollum_-_Fish.jpeg/250px-The_Lord_of_the_Rings_Gollum_-_Fish.jpeg" decoding="async" loading="lazy" width="250" height="128" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/21/The_Lord_of_the_Rings_Gollum_-_Fish.jpeg/375px-The_Lord_of_the_Rings_Gollum_-_Fish.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/2/21/The_Lord_of_the_Rings_Gollum_-_Fish.jpeg/500px-The_Lord_of_the_Rings_Gollum_-_Fish.jpeg 2x" data-file-width="900" data-file-height="462"/></a></span></div>
 			<div class="gallerytext">
-<p>Xương cá ở <i><a href="../T/The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></i>
+<p>Fish bones in <i><a href="../T/The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></i>
 </p>
 			</div>
 		</li>
@@ -61,11 +61,11 @@ Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu c�
 
 <b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 
-<dl><dd>Gollum ném con cá có tên "Xiphiidae" vào <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Nó trở thành vũ khí nguy hiểm nhất của Aragorn. Xiphiidae là cá kiếm. Cá kiếm là loài cá nước mặn, nhưng ở đây vấn đề đó bị bỏ qua.</dd></dl>
+<dl><dd>Gollum throws a fish called &#34;Xiphiidae&#34; at <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> It becomes Aragorn&#39;s most dangerous weapon. Xiphiidae are swordfish. Swordfish are saltwater fish, but that matter is overlooked here.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">The Lord of the Rings Online: Bóng tối của Angmar</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">The Lord of the Rings Trực tuyến: Bóng tối của Angmar</a></i>:</b>
 
-<dl><dd>Trong cuốn thứ mười ba, "Doom of the Last-Vua", câu cá đã trở thành một "sở thích", trò tiêu khiển của người chơi.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></dd></dl>
+<dl><dd>In the thirteenth book, &#34;Doom of the Last-King&#34;, fishing became a &#34;hobby&#34;, a pastime for players.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></dd></dl>
 
 <span></span>
 

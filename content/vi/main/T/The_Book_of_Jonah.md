@@ -21,7 +21,7 @@ images:
   - "The_Book_of_Jonah.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Book_of_Jonah.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5c/The_Book_of_Jonah.jpg/225px-The_Book_of_Jonah.jpg" decoding="async" loading="lazy" width="225" height="331" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5c/The_Book_of_Jonah.jpg/338px-The_Book_of_Jonah.jpg 1.5x, https://tolkiengateway.net/w/images/5/5c/The_Book_of_Jonah.jpg 2x" data-file-width="340" data-file-height="500"/></a><figcaption>bìa dự kiến ​​của cuốn sách</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Book_of_Jonah.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5c/The_Book_of_Jonah.jpg/225px-The_Book_of_Jonah.jpg" decoding="async" loading="lazy" width="225" height="331" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5c/The_Book_of_Jonah.jpg/338px-The_Book_of_Jonah.jpg 1.5x, https://tolkiengateway.net/w/images/5/5c/The_Book_of_Jonah.jpg 2x" data-file-width="340" data-file-height="500"/></a><figcaption>planned cover of the book</figcaption></figure>
 
 <i><b>Sách Giô-na</b></i> là bản dịch [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) của <a class="extiw" href="http://en.wikipedia.org/wiki/Book_of_Jonah" title="wikipedia:Book of Jonah">Sách Cựu Ước</a>. Bản dịch của Tolkien dựa trên văn bản tiếng Pháp và không phải là bản dịch trực tiếp từ bản gốc tiếng Hebrew. Nó đã được xuất bản trong *[The Jerusalem Bible](The_Jerusalem_Bible.md)* trong [1966](../_/1966.md).
 
@@ -30,7 +30,7 @@ Tuy nhiên, văn bản đã xuất bản không đại diện cho tác phẩm g�
 ## Từ nhà xuất bản {#From_the_publisher}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Một bản trình bày mới tuyệt đẹp về một trong những câu chuyện Kinh thánh được yêu thích nhất trong bản dịch của J.R.R. Tolkien. Biên tập viên Brendan Wolfe kể câu chuyện ít được biết đến về việc Tolkien, khi đang ở đỉnh cao danh vọng với tư cách là tác giả của <i>The Lord of the Rings</i>, đã đồng ý tham gia nhóm các nhà văn và học giả Công giáo thực hiện một bản dịch Kinh thánh mới sang tiếng Anh vào đầu những năm 1960. Kết quả là cuốn Kinh thánh Jerusalem, vẫn được tôn vinh vì tiếng Anh tao nhã và vượt thời gian. Wolfe cho thấy sự cộng hưởng giữa câu chuyện Jonah và con cá voi, sự đóng góp của Tolkien cho JB và các chủ đề trong các tác phẩm khác của ông.
+<p>A beautiful new presentation of one of the best-loved Bible stories in a translation by J.R.R. Tolkien. Editor Brendan Wolfe tells the little-known story of how Tolkien, then at the height of his fame as the author of <i>The Lord of the Rings</i>, agreed to join the team of Catholic writers and scholars working on a major new translation of the Bible into English in the early 1960s. The result was the Jerusalem Bible, still celebrated for its elegant, timeless English. Wolfe shows the resonances between the story of Jonah and the whale, Tolkien&#39;s contribution to the JB, and themes in his other writings.
 </p>
 </blockquote>
 

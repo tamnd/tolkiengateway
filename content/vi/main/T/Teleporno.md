@@ -39,7 +39,7 @@ images:
 <td style="text-align:center"><b><a href="../../file/T/Telerin_-_Teleporno.mp3.md" title="File:Telerin - Teleporno.mp3">File:Telerin - Teleporno.mp3</a></b></td>
 </tr>
 <tr>
-<td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Gilgamesh" title="User:Gilgamesh">Gilgamesh</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
+<td style="font-size: small; padding-bottom: 3px; text-align:center;">By <a href="https://tolkiengateway.net/wiki/User:Gilgamesh" title="User:Gilgamesh">Gilgamesh</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Media help</a>)</td>
 </tr>
 </tbody></table>
 </div>

@@ -25,7 +25,7 @@ infobox:
     value: "4"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Rings_of_Power_Season_2_Soundtrack.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/90/Rings_of_Power_Season_2_Soundtrack.jpg/320px-Rings_of_Power_Season_2_Soundtrack.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/90/Rings_of_Power_Season_2_Soundtrack.jpg/480px-Rings_of_Power_Season_2_Soundtrack.jpg 1.5x, https://tolkiengateway.net/w/images/9/90/Rings_of_Power_Season_2_Soundtrack.jpg 2x" data-file-width="640" data-file-height="640"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Golden Leaves</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_Two%253A_Amazon_Original_Series_Soundtrack).md" title="The Lord of the Rings: The Rings of Power (Season Two: Amazon Original Series Soundtrack)">The Lord of the Rings: The Rings of Power (Season Two: Amazon Original Series Soundtrack)</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data"><a href="../B/Benjamin_Walker.md" title="Benjamin Walker">Benjamin Walker</a>, Synchron Stage Choir</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">3:18</td></tr><tr><th scope="row" class="tg-infobox-label">Số thứ tự bản nhạc</th><td class="tg-infobox-data">4</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Rings_of_Power_Season_2_Soundtrack.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/90/Rings_of_Power_Season_2_Soundtrack.jpg/320px-Rings_of_Power_Season_2_Soundtrack.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/90/Rings_of_Power_Season_2_Soundtrack.jpg/480px-Rings_of_Power_Season_2_Soundtrack.jpg 1.5x, https://tolkiengateway.net/w/images/9/90/Rings_of_Power_Season_2_Soundtrack.jpg 2x" data-file-width="640" data-file-height="640"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Golden Leaves</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_Two%253A_Amazon_Original_Series_Soundtrack).md" title="The Lord of the Rings: The Rings of Power (Season Two: Amazon Original Series Soundtrack)">The Lord of the Rings: The Rings of Power (Season Two: Amazon Original Series Soundtrack)</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a></td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data"><a href="../B/Benjamin_Walker.md" title="Benjamin Walker">Benjamin Walker</a>, Synchron Stage Choir</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">3:18</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">4</td></tr></tbody></table>
 
 <i><b>Golden Leaves</b></i> là bài hát do [Bear McCreary](../B/Bear_McCreary.md) sáng tác cho [tập đầu tiên](../E/Elven_Kings_Under_the_Sky.md) của mùa thứ hai của *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*. Bài hát có lời bài hát được hát bằng [Quenya](../Q/Quenya.md) bởi [Benjamin Walker](../B/Benjamin_Walker.md), người chơi [Gil-galad](Gil-galad.md) trong chương trình. Theo Bear McCreary, lời bài hát được sáng tác bởi [John D. Payne](../J/John_D._Payne.md), một phần lấy cảm hứng từ lời bài hát [Tolkien](../J/J.R.R._Tolkien.md) viết cho Bài hát của [Galadriel](Galadriel's_Song.md) trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>.
 
@@ -42,7 +42,7 @@ infobox:
 <i>Eldalié! Eldalié!</i><br/>
 <i>I lassi lantar celumenna.</i><br/>
 <br/>
-(dàn hợp xướng thiếu nhi :) <i>Cormar nelde aranin Eldaron</i><br/>
+(children’s choir:) <i>Cormar nelde aranin Eldaron</i><br/>
 <br/>
 <i>Eldalié and’ amárielvë</i><br/>
 <i>ambena solor.</i><br/>
@@ -69,9 +69,9 @@ Văn bản Quenya ở trên cùng với bản dịch sau đây đã được nh�
 <i>O’ Elven-kind! O’ Elven-kind!</i><br/>
 <i>Winter is coming, bare leafless day.</i><br/>
 <i>O’ Elven-kind! O’ Elven-kind!</i><br/>
-<i>Lá rơi dưới suối.</i><br/>
+<i>The leaves are falling in the stream.</i><br/>
  <br/>
-(dàn hợp xướng thiếu nhi :) <i>Three rings for the Elven kings</i><br/>
+(children&#39;s choir:) <i>Three rings for the Elven kings</i><br/>
  <br/>
 <i>Elven-kind long have we dwelt</i><br/>
 <i>upon this hither shore.</i><br/>
@@ -81,7 +81,7 @@ Văn bản Quenya ở trên cùng với bản dịch sau đây đã được nh�
 <i>O’ Elven-kind! O’ Elven-kind!</i><br/>
 <i>Winter is coming, bare leafless day.</i><br/>
 <i>O’ Elven-kind! O’ Elven-kind!</i><br/>
-<i>Lá rơi dưới suối.</i>
+<i>The leaves are falling in the stream.</i>
 </p>
 </div>
 

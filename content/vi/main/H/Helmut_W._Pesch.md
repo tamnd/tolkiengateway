@@ -32,7 +32,7 @@ infobox:
     value: "www.helmutwpesch.de"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Helmut W. Pesch</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/30_August.md" title="30 August">30 August</a>, <a href="../_/1952.md" title="1952">1952</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Tác giả, dịch giả</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.helmutwpesch.de/" rel="noreferrer noopener" target="_blank">www.helmutwpesch.de</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Helmut W. Pesch</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/30_August.md" title="30 August">30 August</a>, <a href="../_/1952.md" title="1952">1952</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author, translator</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.helmutwpesch.de/" rel="noreferrer noopener" target="_blank">www.helmutwpesch.de</a></td></tr></tbody></table>
 
 **Helmut W. Pesch** (sinh ngày [30 tháng 8](../A/August_30.md), [1952](../_/1952.md)) là một tác giả, dịch giả, biên tập viên, họa sĩ minh họa, nhà ngữ văn và học giả văn học người Đức.
 

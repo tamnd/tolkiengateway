@@ -30,13 +30,13 @@ Vào [12 tháng 6](../_/12_June.md) [1925](../_/1925.md), [J.R.R. Tolkien](../J/
 ## Phiên âm {#Transcription}
 
 <center>
-<p>[tiêu đề thư cá nhân được đóng dấu kín:]<br/>
-2 Đường Darnley,<br/>
-Phương Tây Công viên,<br/>
+<p>[blind-stamped personal letterhead:]<br/>
+2 Darnley Road,<br/>
+West Park,<br/>
 Leeds<br/>
-Ngày 12 tháng 6<br/>
+June 12<br/>
 1925<br/>
-[ba chấm tạo thành hình tam giác]<br/>
+[three dots forming a triangle]<br/>
 </p>
 </center>
 

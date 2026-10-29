@@ -25,7 +25,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Bìa của *[Aiglos Special Issue I](../../main/A/Aiglos_Special_Issue_I.md)*, ấn bản tiếng Anh đặc biệt đầu tiên của *[Aiglos (journal)](<../../main/A/Aiglos_(journal).md>)*. Ảnh bìa - *Và Orc bỏ chạy trước mặt ông* bởi ['Kasiopea'](../../main/C/Catherine_Karina_Chmiel.md)
+Bìa của *[Aiglos Special Issue I](../../main/A/Aiglos_Special_Issue_I.md)*, ấn bản tiếng Anh đặc biệt đầu tiên của *[Aiglos (journal)](<../../main/A/Aiglos_(journal).md>)*. Ảnh bìa - *Và Orc bỏ chạy trước mặt ông ta* bởi ['Kasiopea'](../../main/C/Catherine_Karina_Chmiel.md)
 
 ## Giấy phép {#Licensing}
 

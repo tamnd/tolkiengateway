@@ -36,7 +36,7 @@ infobox:
     value: "Profile"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Bruce Hopkins</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh–mất</th><td class="tg-infobox-data"><a href="../_/25_November.md" title="25 November">25 November</a> <a href="../_/1955.md" title="1955">1955</a></td></tr><tr><th scope="row" class="tg-infobox-label">Do ... thủ vai</th><td class="tg-infobox-data"><a href="../G/Gamling.md" title="Gamling">Gamling</a> in:<br/><i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i><br/><i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0394126/" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Bruce Hopkins</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/25_November.md" title="25 November">25 November</a> <a href="../_/1955.md" title="1955">1955</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../G/Gamling.md" title="Gamling">Gamling</a> in:<br/><i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i><br/><i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0394126/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
 Diễn viên New Zealand **Bruce Hopkins** (sinh năm 1955) đóng vai [Cờ bạc](../G/Gamling.md) trong [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>).
 
@@ -45,9 +45,9 @@ Vào tháng 6 [2007](../_/2007.md), anh và 14 diễn viên khác đã đệ đ�
 ## Trích dẫn {#Quotes}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tôi phải thú nhận rằng <a href="../I/Ian_McKellen.md" title="Ian McKellen">Ian</a> và <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a> có lẽ là hai người duy nhất mà tôi có xu hướng thu mình vào một dạng 'vỏ cá tính' xung quanh. Sau khi tự hỏi tại sao tôi lại như vậy, tôi đã suy luận rằng đó là vì tôi quá ngưỡng mộ họ.
+<p>I should confess <a href="../I/Ian_McKellen.md" title="Ian McKellen">Ian</a> and <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a> were probably the only two people I tended to withdraw into a form of &#39;personality shell&#39; around. Having wondered why the hell I was like that, I have deduced that it was because I was in so much in awe of them.
 </p>
-<p class="tg-quote-footer"><cite>Bruce Hopkins trên blog của ông</cite></p>
+<p class="tg-quote-footer"><cite>Bruce Hopkins on his blog</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Liên kết ngoài {#External_links}

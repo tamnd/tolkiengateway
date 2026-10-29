@@ -21,7 +21,7 @@ images:
 
 Khi [Aldarion](../T/Tar-Aldarion.md), con trai của [Tar-Meneldur](../T/Tar-Meneldur.md), hoàn thành con tàu lớn [Palarran](../P/Palarran.md) và có ý định ra khơi, cha anh đã cấm bất kỳ ai trong gia đình mang cành cây lên tàu của ông. [Erendis](../E/Erendis.md) đã thực hiện nghi thức này và vào ngày hôm đó Aldarion đã yêu bà.
 
-Tuy nhiên, sau này, khi Erendis trở thành vợ của Tar-Aldarion và xa lánh ông, cô đã từ chối mang theo cành cây để thể hiện sự không đồng tình với những chuyến đi thường xuyên của chồng tới [Trung Địa](../M/Middle-earth.md). Vì vậy, trên mũi con tàu sau này của Aldarion [Hirilondë](../H/Hirilondë.md) có hình một con đại bàng chứ không phải là Cành cây xanh trở về.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Tuy nhiên, sau này, khi Erendis trở thành vợ của Tar-Aldarion và xa lánh ông ta, cô đã từ chối mang theo cành cây để thể hiện sự không đồng tình với những chuyến đi thường xuyên của chồng tới [Trung Địa](../M/Middle-earth.md). Vì vậy, trên mũi con tàu sau này của Aldarion [Hirilondë](../H/Hirilondë.md) có hình một con đại bàng chứ không phải là Cành cây xanh trở về.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

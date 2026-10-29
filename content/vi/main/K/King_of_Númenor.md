@@ -36,21 +36,21 @@ Tất cả các vị vua của Númenor đều sử dụng tiền tố [Quenya](
 <table class="wikitable mw-collapsible">
 <tbody><tr style="background: var(--tg-color-surface-2);">
 <th><b>#</b></th>
-<th><b>Tên</b></th>
-<th><b>Triều đại</b></th>
-<th><b>Ghi chú</b>
+<th><b>Name</b></th>
+<th><b>Reign</b></th>
+<th><b>Notes</b>
 </th></tr>
 <tr>
 <td>1.</td>
 <td><a href="../E/Elros.md" title="Elros">Elros Tar-Minyatur</a></td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_32.md" title="Second Age 32">32</a> – <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_442.md" title="Second Age 442">442</a></td>
-<td>Là chúa tể của <a href="../E/Edain.md" title="Edain">Edain</a> và là người sáng lập Vương quốc <a href="../N/Númenor.md" title="Númenor">Númenor</a>.
+<td>A lord of the <a href="../E/Edain.md" title="Edain">Edain</a> and founder of the Kingdom of <a href="../N/Númenor.md" title="Númenor">Númenor</a>.
 </td></tr>
 <tr>
 <td>2.</td>
 <td><a href="../V/Vardamir.md" title="Vardamir">Vardamir</a></td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_442.md" title="Second Age 442">442</a></td>
-<td>Được biết đến nhiều hơn với cái tên <a href="../V/Vardamir.md" title="Vardamir">Vardamir Nólimon</a>. Sự cai trị của ông chỉ mang tính danh nghĩa.
+<td>Better known as <a href="../V/Vardamir.md" title="Vardamir">Vardamir Nólimon</a>. His rule was only titular.
 </td></tr>
 <tr>
 <td>3.</td>
@@ -62,13 +62,13 @@ Tất cả các vị vua của Númenor đều sử dụng tiền tố [Quenya](
 <td>4.</td>
 <td><a href="../T/Tar-Elendil.md" title="Tar-Elendil">Tar-Elendil</a></td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_590.md" title="Second Age 590">590</a> – <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_740.md" title="Second Age 740">740</a></td>
-<td>Trong triều đại của ông <a href="../N/Númenóreans.md" title="Númenóreans">người Númenor</a> lần đầu tiên ông giương buồm quay trở lại <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a>.
+<td>During his reign <a href="../N/Númenóreans.md" title="Númenóreans">Númenóreans</a> first sailed back to <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>.
 </td></tr>
 <tr>
 <td>5.</td>
 <td><a href="../T/Tar-Meneldur.md" title="Tar-Meneldur">Tar-Meneldur</a></td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_740.md" title="Second Age 740">740</a> – <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_883.md" title="Second Age 883">883</a></td>
-<td>Em trai của <a href="../S/Silmariën.md" title="Silmariën">Silmariën</a>. Thành lập những nơi trú ẩn <a href="../N/Númenóreans.md" title="Númenóreans">Númenórean</a> đầu tiên ở <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a>.
+<td>Younger brother of <a href="../S/Silmariën.md" title="Silmariën">Silmariën</a>. Established the first <a href="../N/Númenóreans.md" title="Númenóreans">Númenórean</a> havens in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>.
 </td></tr>
 <tr>
 <td>6.</td>
@@ -98,25 +98,25 @@ Tất cả các vị vua của Númenor đều sử dụng tiền tố [Quenya](
 <td>10.</td>
 <td><a href="../T/Tar-Telperiën.md" title="Tar-Telperiën">Tar-Telperiën</a></td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_1556.md" title="Second Age 1556">1556</a> – <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_1731.md" title="Second Age 1731">1731</a></td>
-<td><a class="mw-redirect" href="../R/Ruling_Queen_of_Númenor.md" title="Ruling Queen of Númenor">Nữ hoàng cầm quyền thứ 2</a>. <a href="../S/Sack_of_Eregion.md" title="Sack of Eregion">Cuộc cướp phá Eregion</a> và <a href="../W/War_of_the_Elves_and_Sauron.md" title="War of the Elves and Sauron">Cuộc chiến giữa Tiên tộc và Sauron</a> xảy ra dưới thời trị vì của bà.
+<td>2nd <a class="mw-redirect" href="../R/Ruling_Queen_of_Númenor.md" title="Ruling Queen of Númenor">Ruling Queen</a>. The <a href="../S/Sack_of_Eregion.md" title="Sack of Eregion">Sack of Eregion</a> and <a href="../W/War_of_the_Elves_and_Sauron.md" title="War of the Elves and Sauron">War of the Elves and Sauron</a> occur during her reign.
 </td></tr>
 <tr>
 <td>11.</td>
 <td><a href="../T/Tar-Minastir.md" title="Tar-Minastir">Tar-Minastir</a></td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_1731.md" title="Second Age 1731">1731</a> – <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_1869.md" title="Second Age 1869">1869</a></td>
-<td>Với <a href="../H/High_King_of_the_Noldor.md" title="High King of the Noldor">Đại Vương</a> <a href="../G/Gil-galad.md" title="Gil-galad">Gil-galad</a> đánh bại <a href="../S/Sauron.md" title="Sauron">Sauron</a> và kết thúc <a href="../W/War_of_the_Elves_and_Sauron.md" title="War of the Elves and Sauron">Cuộc chiến của Tiên tộc và Sauron</a>.
+<td>With <a href="../H/High_King_of_the_Noldor.md" title="High King of the Noldor">High King</a> <a href="../G/Gil-galad.md" title="Gil-galad">Gil-galad</a> defeats <a href="../S/Sauron.md" title="Sauron">Sauron</a> and ends the <a href="../W/War_of_the_Elves_and_Sauron.md" title="War of the Elves and Sauron">War of the Elves and Sauron</a>.
 </td></tr>
 <tr>
 <td>12.</td>
 <td><a href="../T/Tar-Ciryatan.md" title="Tar-Ciryatan">Tar-Ciryatan</a></td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_1869.md" title="Second Age 1869">1869</a> – <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_2029.md" title="Second Age 2029">2029</a></td>
-<td><a href="../N/Númenóreans.md" title="Númenóreans">người Númenor</a> bắt đầu chiếm đóng quân sự các vùng đất khác.
+<td><a href="../N/Númenóreans.md" title="Númenóreans">Númenóreans</a> begin military occupation of other lands.
 </td></tr>
 <tr>
 <td>13.</td>
 <td><a href="../T/Tar-Atanamir.md" title="Tar-Atanamir">Tar-Atanamir</a></td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_2029.md" title="Second Age 2029">2029</a> – <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_2221.md" title="Second Age 2221">2221</a></td>
-<td>Vị vua đầu tiên lên tiếng phản đối <a href="../B/Ban_of_the_Valar.md" title="Ban of the Valar">Lệnh cấm của Valar</a>.
+<td>First king to speak against the <a href="../B/Ban_of_the_Valar.md" title="Ban of the Valar">Ban of the Valar</a>.
 </td></tr>
 <tr>
 <td>14.</td>
@@ -134,13 +134,13 @@ Tất cả các vị vua của Númenor đều sử dụng tiền tố [Quenya](
 <td>16.</td>
 <td><a href="../T/Tar-Vanimeldë.md" title="Tar-Vanimeldë">Tar-Vanimeldë</a></td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_2526.md" title="Second Age 2526">2526</a> – <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_2637.md" title="Second Age 2637">2637</a></td>
-<td><a class="mw-redirect" href="../R/Ruling_Queen_of_Númenor.md" title="Ruling Queen of Númenor">Nữ hoàng cầm quyền thứ 3</a>. Không quan tâm, cô cho phép <a class="mw-redirect" href="../H/Herucalmo.md" title="Herucalmo">chồng</a> cai trị vương quốc cho mình.
+<td>3rd <a class="mw-redirect" href="../R/Ruling_Queen_of_Númenor.md" title="Ruling Queen of Númenor">Ruling Queen</a>. Disinterested, she allows her <a class="mw-redirect" href="../H/Herucalmo.md" title="Herucalmo">husband</a> to rule the kingdom for her.
 </td></tr>
 <tr>
 <td align="center">–</td>
 <td><a href="../T/Tar-Anducal.md" title="Tar-Anducal">Tar-Anducal</a></td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_2637.md" title="Second Age 2637">2637</a> – <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_2657.md" title="Second Age 2657">2657</a></td>
-<td>Tuyên bố bất hợp pháp Vương quyền của <a href="../N/Númenor.md" title="Númenor">Númenor</a>. Sau khi chết, ông bị loại khỏi Dòng Vua.
+<td>Illegally claimed Kingship of <a href="../N/Númenor.md" title="Númenor">Númenor</a>. After his death he was removed from the Line of Kings.
 </td></tr>
 <tr>
 <td>17.</td>
@@ -152,7 +152,7 @@ Tất cả các vị vua của Númenor đều sử dụng tiền tố [Quenya](
 <td>18.</td>
 <td><a class="mw-redirect" href="../A/Ar-Belzagar.md" title="Ar-Belzagar">Ar-Belzagar</a>, <a href="../T/Tar-Calmacil.md" title="Tar-Calmacil">Tar-Calmacil</a></td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_2737.md" title="Second Age 2737">2737</a> – <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_2825.md" title="Second Age 2825">2825</a></td>
-<td>Vị vua đầu tiên lấy tên <a href="../A/Adûnaic.md" title="Adûnaic">Adûnaic</a>.
+<td>First king to adopt an <a href="../A/Adûnaic.md" title="Adûnaic">Adûnaic</a> name.
 </td></tr>
 <tr>
 <td>19.</td>
@@ -164,7 +164,7 @@ Tất cả các vị vua của Númenor đều sử dụng tiền tố [Quenya](
 <td>20.</td>
 <td><a href="../A/Ar-Adûnakhôr.md" title="Ar-Adûnakhôr">Ar-Adûnakhôr</a></td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_2899.md" title="Second Age 2899">2899</a> – <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_2962.md" title="Second Age 2962">2962</a></td>
-<td>Ông cấm nói về <a href="../Q/Quenya.md" title="Quenya">Quenya</a>. <a href="../F/Falmari.md" title="Falmari">Tiên tộc</a> từ <a href="../T/Tol_Eressëa.md" title="Tol Eressëa">Tol Eressëa</a> hiện chỉ được truy cập bí mật.
+<td>He banned the speaking of <a href="../Q/Quenya.md" title="Quenya">Quenya</a>. <a href="../F/Falmari.md" title="Falmari">Elves</a> from <a href="../T/Tol_Eressëa.md" title="Tol Eressëa">Tol Eressëa</a> now only visited in secret.
 </td></tr>
 <tr>
 <td>21.</td>
@@ -182,25 +182,25 @@ Tất cả các vị vua của Númenor đều sử dụng tiền tố [Quenya](
 <td>23.</td>
 <td><a href="../A/Ar-Gimilzôr.md" title="Ar-Gimilzôr">Ar-Gimilzôr</a></td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_3102.md" title="Second Age 3102">3102</a> – <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_3177.md" title="Second Age 3177">3177</a></td>
-<td>Công khai đàn áp <a href="../F/Faithful.md" title="Faithful">Tín đồ</a>.
+<td>Openly persecuted the <a href="../F/Faithful.md" title="Faithful">Faithful</a>.
 </td></tr>
 <tr>
 <td>24.</td>
 <td><a href="../T/Tar-Palantir.md" title="Tar-Palantir">Tar-Palantir</a></td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_3177.md" title="Second Age 3177">3177</a> – <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_3255.md" title="Second Age 3255">3255</a></td>
-<td>Đã cố gắng khôi phục lại truyền thống cũ của <a href="../N/Númenor.md" title="Númenor">Númenor</a>.
+<td>Attempted to bring back the old traditions of <a href="../N/Númenor.md" title="Númenor">Númenor</a>.
 </td></tr>
 <tr>
 <td align="center">–</td>
 <td><a href="../T/Tar-Míriel.md" title="Tar-Míriel">Tar-Míriel</a></td>
 <td align="center">–</td>
-<td>Người thừa kế hợp pháp của <a class="mw-redirect" href="../S/Sceptre.md" title="Sceptre">Quyền trượng</a>. Bà sẽ là <a class="mw-redirect" href="../R/Ruling_Queen_of_Númenor.md" title="Ruling Queen of Númenor">Nữ hoàng cầm quyền</a> thứ 4.
+<td>The legitimate heiress of the <a class="mw-redirect" href="../S/Sceptre.md" title="Sceptre">Sceptre</a>. She would have been the 4th <a class="mw-redirect" href="../R/Ruling_Queen_of_Númenor.md" title="Ruling Queen of Númenor">Ruling Queen</a>.
 </td></tr>
 <tr>
 <td>25.</td>
 <td><a href="../A/Ar-Pharazôn.md" title="Ar-Pharazôn">Ar-Pharazôn</a></td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_3255.md" title="Second Age 3255">3255</a> – <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_3319.md" title="Second Age 3319">3319</a></td>
-<td>Đã chiếm đoạt <a class="mw-redirect" href="../S/Sceptre.md" title="Sceptre">Quyền trượng</a>. Đánh bại và bắt giữ <a href="../S/Sauron.md" title="Sauron">Sauron</a> kẻ sau này đã làm hư hỏng ông.<br/>Dẫn đầu hạm đội <a href="../G/Great_Armament.md" title="Great Armament">Đại Hạm đội</a> phá vỡ <a href="../B/Ban_of_the_Valar.md" title="Ban of the Valar">Lệnh cấm của Valar</a>, gây ra <a href="../D/Downfall_of_Númenor.md" title="Downfall of Númenor">Sự sụp đổ của Númenor</a>.
+<td>Usurped the <a class="mw-redirect" href="../S/Sceptre.md" title="Sceptre">Sceptre</a>. Defeated and captured <a href="../S/Sauron.md" title="Sauron">Sauron</a> who later corrupted him.<br/>Led the <a href="../G/Great_Armament.md" title="Great Armament">Great Armament</a> fleet to break the <a href="../B/Ban_of_the_Valar.md" title="Ban of the Valar">Ban of the Valar</a>, causing the <a href="../D/Downfall_of_Númenor.md" title="Downfall of Númenor">Downfall of Númenor</a>.
 </td></tr></tbody></table>
 
 ## Tên khác {#Other_names}
@@ -236,7 +236,7 @@ Thuật ngữ **Vua của người Númenor** đã được chứng thực một
 <td style="font-size: 90%;" align="center"><a href="../E/Elros.md" title="Elros">Elros Tar-Minyatur</a> <i>(<a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_32.md" title="Second Age 32">32</a> - <a href="../S/Second_Age_442.md" title="Second Age 442">442</a>)</i> · <a class="mw-redirect" href="../V/Vardamir_Nólimon.md" title="Vardamir Nólimon">Vardamir Nólimon</a>* <i>(<a href="../S/Second_Age_442.md" title="Second Age 442">442</a> - <a href="../S/Second_Age_443.md" title="Second Age 443">443</a></i>) · <a href="../T/Tar-Amandil.md" title="Tar-Amandil">Tar-Amandil</a> <i>(<a href="../S/Second_Age_443.md" title="Second Age 443">443</a> - <a href="../S/Second_Age_590.md" title="Second Age 590">590</a>)</i> · <a href="../T/Tar-Elendil.md" title="Tar-Elendil">Tar-Elendil</a> <i>(<a href="../S/Second_Age_590.md" title="Second Age 590">590</a> - <a href="../S/Second_Age_740.md" title="Second Age 740">740</a>)</i> · <a href="../T/Tar-Meneldur.md" title="Tar-Meneldur">Tar-Meneldur</a> <i>(<a href="../S/Second_Age_740.md" title="Second Age 740">740</a> - <a href="../S/Second_Age_883.md" title="Second Age 883">883</a>)</i> · <a href="../T/Tar-Aldarion.md" title="Tar-Aldarion">Tar-Aldarion</a> <i>(<a href="../S/Second_Age_883.md" title="Second Age 883">883</a> - <a href="../S/Second_Age_1075.md" title="Second Age 1075">1075</a>)</i> · <a href="../T/Tar-Ancalimë.md" title="Tar-Ancalimë">Tar-Ancalimë</a><sup>Q</sup> <i>(<a href="../S/Second_Age_1075.md" title="Second Age 1075">1075</a> - <a href="../S/Second_Age_1280.md" title="Second Age 1280">1280</a>)</i> · <a href="../T/Tar-Anárion.md" title="Tar-Anárion">Tar-Anárion</a> <i>(<a href="../S/Second_Age_1280.md" title="Second Age 1280">1280</a> - <a href="../S/Second_Age_1394.md" title="Second Age 1394">1394</a>)</i> · <a href="../T/Tar-Súrion.md" title="Tar-Súrion">Tar-Súrion</a> <i>(<a href="../S/Second_Age_1394.md" title="Second Age 1394">1394</a> - <a href="../S/Second_Age_1556.md" title="Second Age 1556">1556</a>)</i> · <a href="../T/Tar-Telperiën.md" title="Tar-Telperiën">Tar-Telperiën</a><sup>Q</sup> <i>(<a href="../S/Second_Age_1556.md" title="Second Age 1556">1556</a> - <a href="../S/Second_Age_1731.md" title="Second Age 1731">1731</a>)</i> · <a href="../T/Tar-Minastir.md" title="Tar-Minastir">Tar-Minastir</a> <i>(<a href="../S/Second_Age_1731.md" title="Second Age 1731">1731</a> - <a href="../S/Second_Age_1869.md" title="Second Age 1869">1869</a>)</i> · <a href="../T/Tar-Ciryatan.md" title="Tar-Ciryatan">Tar-Ciryatan</a> <i>(<a href="../S/Second_Age_1869.md" title="Second Age 1869">1869</a> - <a href="../S/Second_Age_2029.md" title="Second Age 2029">2029</a>)</i> · <a href="../T/Tar-Atanamir.md" title="Tar-Atanamir">Tar-Atanamir</a> <i>(<a href="../S/Second_Age_2029.md" title="Second Age 2029">2029</a> - <a href="../S/Second_Age_2221.md" title="Second Age 2221">2221</a>)</i> · <a href="../T/Tar-Ancalimon.md" title="Tar-Ancalimon">Tar-Ancalimon</a> <i>(<a href="../S/Second_Age_2221.md" title="Second Age 2221">2221</a> - <a href="../S/Second_Age_2386.md" title="Second Age 2386">2386</a>)</i> · <a href="../T/Tar-Telemmaitë.md" title="Tar-Telemmaitë">Tar-Telemmaitë</a> <i>(<a href="../S/Second_Age_2386.md" title="Second Age 2386">2386</a> - <a href="../S/Second_Age_2526.md" title="Second Age 2526">2526</a>)</i> · <a href="../T/Tar-Vanimeldë.md" title="Tar-Vanimeldë">Tar-Vanimeldë</a><sup>Q</sup> <i>(<a href="../S/Second_Age_2526.md" title="Second Age 2526">2526</a> - <a href="../S/Second_Age_2637.md" title="Second Age 2637">2637</a>)</i> · <a href="../T/Tar-Anducal.md" title="Tar-Anducal">Tar-Anducal</a><sup>†</sup> <i>(<a href="../S/Second_Age_2637.md" title="Second Age 2637">2637</a> - <a href="../S/Second_Age_2657.md" title="Second Age 2657">2657</a>)</i> · <a href="../T/Tar-Alcarin.md" title="Tar-Alcarin">Tar-Alcarin</a> <i>(<a href="../S/Second_Age_2657.md" title="Second Age 2657">2657</a> - <a href="../S/Second_Age_2737.md" title="Second Age 2737">2737</a>)</i> · <a href="../T/Tar-Calmacil.md" title="Tar-Calmacil">Tar-Calmacil</a> <i>(<a href="../S/Second_Age_2737.md" title="Second Age 2737">2737</a> - <a href="../S/Second_Age_2825.md" title="Second Age 2825">2825</a>)</i> · <a href="../T/Tar-Ardamin.md" title="Tar-Ardamin">Tar-Ardamin</a> <i>(<a href="../S/Second_Age_2825.md" title="Second Age 2825">2825</a> - <a href="../S/Second_Age_2899.md" title="Second Age 2899">2899</a>)</i> · <a href="../A/Ar-Adûnakhôr.md" title="Ar-Adûnakhôr">Ar-Adûnakhôr</a> <i>(<a href="../S/Second_Age_2899.md" title="Second Age 2899">2899</a> - <a href="../S/Second_Age_2962.md" title="Second Age 2962">2962</a>)</i> · <a href="../A/Ar-Zimrathôn.md" title="Ar-Zimrathôn">Ar-Zimrathôn</a> <i>(<a href="../S/Second_Age_2962.md" title="Second Age 2962">2962</a> - <a href="../S/Second_Age_3033.md" title="Second Age 3033">3033</a>)</i> · <a href="../A/Ar-Sakalthôr.md" title="Ar-Sakalthôr">Ar-Sakalthôr</a> <i>(<a href="../S/Second_Age_3033.md" title="Second Age 3033">3033</a> - <a href="../S/Second_Age_3102.md" title="Second Age 3102">3102</a>)</i> · <a href="../A/Ar-Gimilzôr.md" title="Ar-Gimilzôr">Ar-Gimilzôr</a> <i>(<a href="../S/Second_Age_3102.md" title="Second Age 3102">3102</a> - <a href="../S/Second_Age_3177.md" title="Second Age 3177">3177</a>)</i> · <a href="../T/Tar-Palantir.md" title="Tar-Palantir">Tar-Palantir</a> <i>(<a href="../S/Second_Age_3177.md" title="Second Age 3177">3177</a> - <a href="../S/Second_Age_3255.md" title="Second Age 3255">3255</a>)</i> · <a href="../A/Ar-Pharazôn.md" title="Ar-Pharazôn">Ar-Pharazôn</a><sup>‡</sup> <i>(<a href="../S/Second_Age_3255.md" title="Second Age 3255">3255</a> - <a href="../S/Second_Age_3319.md" title="Second Age 3319">3319</a>)</i>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-3);font-size: 90%;">* Lập tức thoái vị nhường ngôi cho con trai, dù được ghi nhận là cai trị được một năm · <sup>Q</sup> <a href="../R/Ruling_Queens_of_Númenor.md" title="Ruling Queens of Númenor">Nữ hoàng cầm quyền</a> · <sup>†</sup> Tiếm ngôi. Sau này đã đánh bật Dòng Vua · <sup>‡</sup> Tiếm đoạt ngai vàng từ người anh họ <a href="../T/Tar-Míriel.md" title="Tar-Míriel">Tar-Míriel</a>
+<td align="center" style="background:var(--tg-color-surface-3);font-size: 90%;">* Immediately abdicated in favour of his son, though was recorded as ruling for a year · <sup>Q</sup> <a href="../R/Ruling_Queens_of_Númenor.md" title="Ruling Queens of Númenor">Ruling Queens</a> · <sup>†</sup> Usurped throne. Later struck off the Line of Kings · <sup>‡</sup> Usurped throne from his cousin <a href="../T/Tar-Míriel.md" title="Tar-Míriel">Tar-Míriel</a>
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
@@ -247,47 +247,47 @@ Thuật ngữ **Vua của người Númenor** đã được chứng thực một
 <td align="center" style="background: var(--tg-color-surface-3); font-size: 90%;" colspan="3"><i>Andor · Atalantë · <a href="../E/Elenna.md" title="Elenna">Elenna</a> · Mar-nu-Falmar · Númenórë · Westernesse</i>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Các vùng
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Regions
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Andustar.md" title="Andustar">Andustar</a> · <a href="../A/Arandor.md" title="Arandor">Arandor</a> · <a href="../E/Emerië.md" title="Emerië">Emerië</a> · <a href="../F/Forostar.md" title="Forostar">Forostar</a> · <a href="../H/Hyarastorni.md" title="Hyarastorni">Hyarastorni</a> · <a href="../H/Hyarnustar.md" title="Hyarnustar">Hyarnustar</a> · <a href="../H/Hyarrostar.md" title="Hyarrostar">Hyarrostar</a> · <a href="../M/Mittalmar.md" title="Mittalmar">Mittalmar</a> · <a href="../N/Nísimaldar.md" title="Nísimaldar">Nísimaldar</a> · <a href="../O/Orrostar.md" title="Orrostar">Orrostar</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Thị trấn và thành phố
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Towns and cities
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Almaida.md" title="Almaida">Almaida</a> · <a href="../A/Andúnië.md" title="Andúnië">Andúnië</a> · <a href="../A/Armenelos.md" title="Armenelos">Armenelos</a> · <a href="../E/Eldalondë.md" title="Eldalondë">Eldalondë</a> · <a href="../M/Moriondë.md" title="Moriondë">Moriondë</a> · <a href="../N/Nindamos.md" title="Nindamos">Nindamos</a> · <a href="../O/Ondosto.md" title="Ondosto">Ondosto</a> · <a href="../R/Rómenna.md" title="Rómenna">Rómenna</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Công trình kiến trúc
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Buildings
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../C/Calmindon.md" title="Calmindon">Calmindon</a> · <a href="../E/Eämbar.md" title="Eämbar">Eämbar</a> · <a href="King&#39;s_Court.md" title="King&#39;s Court">King&#39;s Court</a> · <a href="../T/Temple.md" title="Temple">Temple</a> · <a href="../W/White_House_of_Erendis.md" title="White House of Erendis">White House of Erendis</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Đặc điểm tự nhiên
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Natural features
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../B/Bay_of_Eldanna.md" title="Bay of Eldanna">Vịnh Eldanna</a> · <a href="../B/Bay_of_Rómenna.md" title="Bay of Rómenna">Vịnh Rómenna</a> · <a href="../F/Firth_of_Rómenna.md" title="Firth of Rómenna">Firth of Rómenna</a> · <a href="../H/Hallow_of_Eru.md" title="Hallow of Eru">Hallow of Eru</a> · <a href="../M/Meneltarma.md" title="Meneltarma">Meneltarma</a> (núi) · <a href="../N/Nísinen.md" title="Nísinen">Nísinen</a> (hồ) · <a href="../N/North_Cape.md" title="North Cape">North Cape</a> · <a href="../N/Nunduinë.md" title="Nunduinë">Nunduinë</a> (sông) · <a href="../O/Oromet.md" title="Oromet">Oromet</a> (núi) · <a href="../S/Siril.md" title="Siril">Siril</a> (sông) · <a href="../S/Sorontil.md" title="Sorontil">Sorontil</a> (núi) · <a href="../T/Tarmasundar.md" title="Tarmasundar">Tarmasundar</a> (rặng núi) · <a href="../T/Tompollë.md" title="Tompollë">Tompollë</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../B/Bay_of_Eldanna.md" title="Bay of Eldanna">Bay of Eldanna</a> · <a href="../B/Bay_of_Rómenna.md" title="Bay of Rómenna">Bay of Rómenna</a> · <a href="../F/Firth_of_Rómenna.md" title="Firth of Rómenna">Firth of Rómenna</a> · <a href="../H/Hallow_of_Eru.md" title="Hallow of Eru">Hallow of Eru</a> · <a href="../M/Meneltarma.md" title="Meneltarma">Meneltarma</a> (mountain) · <a href="../N/Nísinen.md" title="Nísinen">Nísinen</a> (lake) · <a href="../N/North_Cape.md" title="North Cape">North Cape</a> · <a href="../N/Nunduinë.md" title="Nunduinë">Nunduinë</a> (river) · <a href="../O/Oromet.md" title="Oromet">Oromet</a> (mountain) · <a href="../S/Siril.md" title="Siril">Siril</a> (river) · <a href="../S/Sorontil.md" title="Sorontil">Sorontil</a> (mountain) · <a href="../T/Tarmasundar.md" title="Tarmasundar">Tarmasundar</a> (ridges) · <a href="../T/Tompollë.md" title="Tompollë">Tompollë</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Thực vật và cây cối
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Plants and trees
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../F/Fragrant_Trees.md" title="Fragrant Trees">Fragrant Trees</a> · <a href="../L/Lairelossë.md" title="Lairelossë">Lairelossë</a> · <a href="../L/Laurinquë.md" title="Laurinquë">Laurinquë</a> · <a href="../L/Lavaralda.md" title="Lavaralda">Lavaralda</a> · <a href="../N/Nessamelda.md" title="Nessamelda">Nessamelda</a> · <a href="../N/Nimloth_(tree).md" title="Nimloth (tree)">Nimloth</a> · <a href="../O/Oiolairë.md" title="Oiolairë">Oiolairë</a> · <a href="../T/Taniquelassë.md" title="Taniquelassë">Taniquelassë</a> · <a href="../V/Vardarianna.md" title="Vardarianna">Vardarianna</a> · <a href="../Y/Yavannamírë.md" title="Yavannamírë">Yavannamírë</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Gia bảo
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Heirlooms
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Aranrúth.md" title="Aranrúth">Aranrúth</a> · <a href="../B/Bow_of_Bregor.md" title="Bow of Bregor">Cung Bregor</a> · <a href="../D/Dramborleg.md" title="Dramborleg">Dramborleg</a> · <a class="mw-redirect" href="../E/Elendilmir.md" title="Elendilmir">Elendilmir</a> · <a href="../N/Narsil.md" title="Narsil">Narsil</a> · "<a href="../N/Númenórean_helmet.md" title="Númenórean helmet">Númenórean mũ bảo hiểm</a>" · <a href="../P/Palantíri.md" title="Palantíri">Palantíri</a> · <a href="../R/Ring_of_Barahir.md" title="Ring of Barahir">Nhẫn Barahir</a> · <a href="../S/Sceptre_of_Annúminas.md" title="Sceptre of Annúminas">Vương trượng Annúminas</a> · <a href="../S/Sceptre_of_Númenor.md" title="Sceptre of Númenor">Vương trượng Númenor</a> · <i><a href="../../file/J/J.R.R._Tolkien_-_Númenórean_carpet_I.jpg.md" title="File:J.R.R. Tolkien - Númenórean carpet I.jpg">Carpets</a> <a href="../../file/J/J.R.R._Tolkien_-_Númenórean_carpet_II.jpg.md" title="File:J.R.R. Tolkien - Númenórean carpet II.jpg">and</a> <a href="../../file/J/J.R.R._Tolkien_-_Númenórean_Tile.jpg.md" title="File:J.R.R. Tolkien - Númenórean Tile.jpg">tile</a></i>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Aranrúth.md" title="Aranrúth">Aranrúth</a> · <a href="../B/Bow_of_Bregor.md" title="Bow of Bregor">Bow of Bregor</a> · <a href="../D/Dramborleg.md" title="Dramborleg">Dramborleg</a> · <a class="mw-redirect" href="../E/Elendilmir.md" title="Elendilmir">Elendilmir</a> · <a href="../N/Narsil.md" title="Narsil">Narsil</a> · &#34;<a href="../N/Númenórean_helmet.md" title="Númenórean helmet">Númenórean helmet</a>&#34; · <a href="../P/Palantíri.md" title="Palantíri">Palantíri</a> · <a href="../R/Ring_of_Barahir.md" title="Ring of Barahir">Ring of Barahir</a> · <a href="../S/Sceptre_of_Annúminas.md" title="Sceptre of Annúminas">Sceptre of Annúminas</a> · <a href="../S/Sceptre_of_Númenor.md" title="Sceptre of Númenor">Sceptre of Númenor</a> · <i><a href="../../file/J/J.R.R._Tolkien_-_Númenórean_carpet_I.jpg.md" title="File:J.R.R. Tolkien - Númenórean carpet I.jpg">Carpets</a> <a href="../../file/J/J.R.R._Tolkien_-_Númenórean_carpet_II.jpg.md" title="File:J.R.R. Tolkien - Númenórean carpet II.jpg">and</a> <a href="../../file/J/J.R.R._Tolkien_-_Númenórean_Tile.jpg.md" title="File:J.R.R. Tolkien - Númenórean Tile.jpg">tile</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Khái niệm
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Concepts
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Adûnaic.md" title="Adûnaic">Adûnaic</a> · <a href="../B/Ban_of_the_Valar.md" title="Ban of the Valar">Ban of the Valar</a> · <a href="../C/Council_of_the_Sceptre.md" title="Council of the Sceptre">Council of the Sceptre</a> · <a href="../D/Downfall_of_Númenor.md" title="Downfall of Númenor">Downfall of Númenor</a> · <a href="../G/Great_Bear-dance.md" title="Great Bear-dance">Great Bear-dance</a> · <a href="King&#39;s_Heir.md" title="King&#39;s Heir">Heirship</a> · <a href="../N/Númenórean_Sindarin.md" title="Númenórean Sindarin">Númenórean Sindarin</a> · <a href="../T/Three_Prayers.md" title="Three Prayers">Three Prayers</a> <i>(<a href="../E/Eruhantalë.md" title="Eruhantalë">Eruhantalë</a> · <a href="../E/Erukyermë.md" title="Erukyermë">Erukyermë</a> · <a href="../E/Erulaitalë.md" title="Erulaitalë">Erulaitalë</a>)</i>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Nhân vật chủ chốt
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Key people
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../T/Tar-Aldarion.md" title="Tar-Aldarion">Aldarion</a> · <a href="../A/Amandil.md" title="Amandil">Amandil</a> · <a href="../A/Anárion.md" title="Anárion">Anárion</a> · <a href="../C/Captain_of_the_King&#39;s_Ships.md" title="Captain of the King&#39;s Ships">Captain of the King&#39;s Ships</a> · <a href="../E/Elendil.md" title="Elendil">Elendil</a> · <a href="../E/Elros.md" title="Elros">Elros</a> (<a href="../H/House_of_Elros.md" title="House of Elros">House of Elros</a>) · <a href="../E/Erendis.md" title="Erendis">Erendis</a> · <a href="../F/Faithful.md" title="Faithful">Faithful</a> · <a href="../G/Great_Armament.md" title="Great Armament">Great Armament</a> · <a href="../G/Guild_of_Venturers.md" title="Guild of Venturers">Guild of Venturers</a> · <a href="../G/Guild_of_Weaponsmiths.md" title="Guild of Weaponsmiths">Guild of Weaponsmiths</a> · <a href="../I/Isildur.md" title="Isildur">Isildur</a> · <a class="mw-selflink selflink">Kings</a> and <a href="../R/Ruling_Queens_of_Númenor.md" title="Ruling Queens of Númenor">Queens</a> of Númenor · <a href="King&#39;s_Archers.md" title="King&#39;s Archers">King&#39;s Archers</a> · <a href="King&#39;s_Men.md" title="King&#39;s Men">King&#39;s Men</a> · <a class="mw-redirect" href="../L/Lords_of_Andúnië.md" title="Lords of Andúnië">Lords of Andúnië</a> · <a href="../T/Tar-Meneldur.md" title="Tar-Meneldur">Meneldur</a> · <a href="../T/Tar-Míriel.md" title="Tar-Míriel">Miriel</a> · <a href="../T/Tar-Palantir.md" title="Tar-Palantir">Palantir</a> · <a href="../A/Ar-Pharazôn.md" title="Ar-Pharazôn">Pharazôn</a> · <a href="../S/Sauron.md" title="Sauron">Sauron</a> · <a href="../S/Silmariën.md" title="Silmariën">Silmariën</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Văn bản chính
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Main texts
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> ("<a href="../A/Akallabêth.md" title="Akallabêth">Akallabêth</a>") · <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> ("<a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">A Description of the Island of Númenor</a>" · "<a href="../A/Aldarion_and_Erendis%253A_The_Mariner&#39;s_Wife.md" title="Aldarion and Erendis: The Mariner&#39;s Wife">Aldarion and Erendis: The Mariner&#39;s Wife</a>" · "<a href="../T/The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">The Line of Elros: Kings of Númenor</a>") · <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> ("<a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>" · "<a href="../A/Appendix_B.md" title="Appendix B">Phụ lục B</a>") · <i><a href="../T/The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> ("Cuộc sống của người Númenor" · "Về vùng đất và quái thú của Númenor")
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> (&#34;<a href="../A/Akallabêth.md" title="Akallabêth">Akallabêth</a>&#34;) · <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> (&#34;<a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">A Description of the Island of Númenor</a>&#34; · &#34;<a href="../A/Aldarion_and_Erendis%253A_The_Mariner&#39;s_Wife.md" title="Aldarion and Erendis: The Mariner&#39;s Wife">Aldarion and Erendis: The Mariner&#39;s Wife</a>&#34; · &#34;<a href="../T/The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">The Line of Elros: Kings of Númenor</a>&#34;) · <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> (&#34;<a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>&#34; · &#34;<a href="../A/Appendix_B.md" title="Appendix B">Appendix B</a>&#34;) · <i><a href="../T/The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> (&#34;Lives of the Númenóreans&#34; · &#34;Of the land and beasts of Númenor&#34;)
 </td></tr></tbody></table>

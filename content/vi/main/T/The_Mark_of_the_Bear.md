@@ -17,38 +17,38 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Từ các giá trị Anduin <br/>
-Những người mạnh mẽ từ rừng <br/>
-Tinh thần thiên nhiên <br/>
-Một phần bản chất của họ <br/>
+<p>From the Anduin vales <br/>
+Strongmen from the woods <br/>
+Spirit of the nature <br/>
+One part of their essence <br/>
 <br/>
-Sự căm ghét lũ Orc <br/>
-Chạy trong huyết quản của họ <br/>
-Cơn giận ngày càng lớn <br/>
-Trong hình dạng con gấu <br/>
+Hate against the orcs <br/>
+Running in their veins <br/>
+The anger that grows <br/>
+In the form of the bear <br/>
 <br/>
-Sống cuộc sống của riêng mình <br/>
-Không quan tâm đến thế giới bên ngoài <br/>
-Bí mật lớn họ giấu <br/>
-Người biến hình, bộ tộc Beoning <br/>
+Living lives of their own <br/>
+Caring not the outside world <br/>
+Great secret they hide <br/>
+Shape changers, the Beoning tribe <br/>
 <br/>
-Sự căm ghét loài Orc <br/>
-Chạy trong huyết quản của họ <br/>
-Cơn giận ngày càng lớn <br/>
-Trong hình dáng chú gấu <br/>
-Hãy coi chừng móng vuốt của chúng <br/>
-Hàm răng sắc nhọn và bộ hàm chết người <br/>
-Bạn không có cơ hội <br/>
-Để chiến đấu với Beorning <br/>
+Hate against the orcs <br/>
+Running in their veins <br/>
+The anger that grows <br/>
+In the form of the bear <br/>
+Beware their claws <br/>
+Sharp teeth and deadly jaws <br/>
+You have no chance <br/>
+To fight with the Beorning <br/>
 <br/>
-Sinh vật bóng tối <br/>
-Chất độc của trái đất <br/>
-Hãy nhớ sức mạnh của bạn <br/>
-Dấu hiệu của con gấu <br/>
+Creatures of darkness <br/>
+The poison of the earth <br/>
+Remember your strength <br/>
+The mark of the bear <br/>
 <br/>
-Dấu hiệu của con gấu <br/>
-Một phần lớn tâm hồn của họ <br/>
-Hãy trân trọng cuộc sống <br/>
-con của Yavanna<br/>
+The mark of the bear <br/>
+Huge part of their soul <br/>
+Cherish the life <br/>
+Yavanna&#39;s child<br/>
 </p>
 </div>

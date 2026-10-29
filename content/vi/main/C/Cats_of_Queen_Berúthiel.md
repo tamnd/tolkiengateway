@@ -19,10 +19,10 @@ images:
   - "Steamey_-_Ten_Cats_of_Queen_Berúthiel.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Mèo</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Cat_(disambiguation).md" title="Cat (disambiguation)">Mèo (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Cats</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Cat_(disambiguation).md" title="Cat (disambiguation)">Cat (disambiguation)</a></b>.</div></div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Steamey_-_Ten_Cats_of_Queen_Berúthiel.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9f/Steamey_-_Ten_Cats_of_Queen_Ber%C3%BAthiel.jpg/300px-Steamey_-_Ten_Cats_of_Queen_Ber%C3%BAthiel.jpg" decoding="async" loading="lazy" width="300" height="441" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9f/Steamey_-_Ten_Cats_of_Queen_Ber%C3%BAthiel.jpg/450px-Steamey_-_Ten_Cats_of_Queen_Ber%C3%BAthiel.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9f/Steamey_-_Ten_Cats_of_Queen_Ber%C3%BAthiel.jpg/600px-Steamey_-_Ten_Cats_of_Queen_Ber%C3%BAthiel.jpg 2x" data-file-width="650" data-file-height="956"/></a><figcaption><i>Ten Cats of Queen Berúthiel</i> by <a href="../../category/I/Images_by_Steamey.md" title="Category:Images by Steamey">Steamey</a></figcaption></figure>
 
@@ -46,9 +46,9 @@ Trong phiên bản trước đó của chương sau này trở thành chương [
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Mặc dù những con mèo của Nữ hoàng Berúthiel không xuất hiện trực tiếp nhưng có một loại kẻ thù mà người chơi phải đối mặt được gọi là <b>Mèo gián điệp</b>. Chúng xuất hiện trong cuộc chiến với xác sống <a href="../T/Tarannon_Falastur.md" title="Tarannon Falastur">Tarannon Falastur</a> trong phiên bản Silent Street. Nếu người chơi tấn công Tarannon, những con mèo sẽ phát ra hiệu ứng "Điệp viên cảnh giác", phản ánh 50% sát thương trở lại người chơi.</dd></dl>
+<dl><dd>While the cats of Queen Berúthiel do not make direct appearances, there is a type of enemy that the player faces called <b>Spying Cats</b>. They appear during the undead <a href="../T/Tarannon_Falastur.md" title="Tarannon Falastur">Tarannon Falastur</a> fight in the Silent Street instance. Should the player attack Tarannon, the cats give off the &#34;Watchful Spies&#34; effect which reflects 50% of the damage back onto the player.</dd></dl>
 
 ## Xem thêm {#See_also}
 

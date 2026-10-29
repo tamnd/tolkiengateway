@@ -22,13 +22,13 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
-<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
+<p>We have a long way to go, and there is time ahead for thought.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Cái tên <b>Narn i Chîn Húrin</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Narn_i_Chîn_Húrin_(disambiguation).md" title="Narn i Chîn Húrin (disambiguation)">Narn i Chîn Húrin (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Narn i Chîn Húrin</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Narn_i_Chîn_Húrin_(disambiguation).md" title="Narn i Chîn Húrin (disambiguation)">Narn i Chîn Húrin (disambiguation)</a></b>.</div></div>
 
 **Narn i Chîn Húrin**, câu chuyện **Đau buồn về những đứa trẻ của Húrin**, kể về cuộc đời bi thảm của [Túrin Turambar](../T/Túrin.md) và em gái [Nienor](Nienor.md).<sup id="cite_ref-Turin_1-0" class="reference"><a href="#cite_note-Turin-1">[1]</a></sup>
 

@@ -32,7 +32,7 @@ infobox:
     value: "Male"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../N/Noldor.md" title="Noldor">Noldo</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Quennar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">Onótimo</td></tr><tr><th scope="row" class="tg-infobox-label">Chức vụ</th><td class="tg-infobox-data">Loremaster</td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../A/Aman.md" title="Aman">Aman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data"><a href="Quenya.md" title="Quenya">Quenya</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nam</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../N/Noldor.md" title="Noldor">Noldo</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Quennar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Onótimo</td></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">Loremaster</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../A/Aman.md" title="Aman">Aman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="Quenya.md" title="Quenya">Quenya</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
 **Quennar i Onótimo** là [Loremaster](../L/Lambengolmor.md) của [Aman](../A/Aman.md).
 
@@ -50,7 +50,7 @@ Quennar được biết là đã cư trú tại [Tirion](../T/Tirion.md) vào th
 
 *Onótimo* rõ ràng có nghĩa là "Người tính toán", bắt nguồn từ động từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Onot-&amp;action=edit&amp;redlink=1" title="Onot- (page does not exist)">onot-</a></i> 'đếm lên' và hậu tố đại lý nam tính *[-mo](../_/-mo.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Vì vậy, danh hiệu đầy đủ của ông dường như là "Quennar the Reckoner".
+Vì vậy, danh hiệu đầy đủ của ông ta dường như là "Quennar the Reckoner".
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

@@ -27,7 +27,7 @@ infobox:
     value: "Profile"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Anthony Daniels</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh–mất</th><td class="tg-infobox-data"><a href="../_/21_February.md" title="21 February">February 21</a>, <a href="../_/1946.md" title="1946">1946</a></td></tr><tr><th scope="row" class="tg-infobox-label">Do ... thủ vai</th><td class="tg-infobox-data"><a href="../L/Legolas.md" title="Legolas">Legolas</a> trong:<br/><a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">The Lord of the Rings (1978 film)</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="http://www.imdb.com/name/nm0000355/" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Anthony Daniels</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/21_February.md" title="21 February">February 21</a>, <a href="../_/1946.md" title="1946">1946</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../L/Legolas.md" title="Legolas">Legolas</a> in:<br/><a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">The Lord of the Rings (1978 film)</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="http://www.imdb.com/name/nm0000355/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
 **Anthony Kingsley Daniels** (1946) là một diễn viên sân khấu, đài phát thanh và màn ảnh người Anh. Sinh ra ở Salisbury, ông theo học trường kịch nghệ và kịch câm, đồng thời nhận được Giải thưởng Carlton Hobbs BBC Radio danh giá vào năm 1974. Điều này giúp ông có được một vị trí trong dàn diễn viên cốt lõi của [Công ty kịch bản kịch BBC](../B/BBC.md). Trong [1977](../_/1977.md), Daniels nhận vai <a class="external text" href="http://starwars.wikia.com/wiki/C-3PO" rel="noreferrer noopener" target="_blank">giao thức droid C-3PO</a> trong vở opera không gian *Star Wars*. Vì đây chỉ là một vai phụ và ban đầu giọng nói của anh dự định sẽ được một diễn viên khác chỉnh sửa và lồng tiếng nên anh tiếp tục làm việc cho Drama Repertory Company.
 
@@ -36,15 +36,15 @@ Khi [Ralph Bakshi](../R/Ralph_Bakshi.md) đến thu âm giọng nói cho bộ ph
 ## Trích dẫn {#Quotes}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tôi đã chơi Legolas - Thân vương của Tiên tộc và nếu thành thật mà nói thì đó là một trải nghiệm khá kỳ lạ về nhiều mặt. Toàn bộ dàn diễn viên đều ở trong cùng một trường quay nhưng tất cả chúng tôi đều phải chừa khoảng cách hai giây giữa các lời thoại, điều này tạo nên lời thoại khá cứng nhắc và đáng buồn thay, một bộ phim khá cứng nhắc.
+<p>I played Legolas - Prince of the Elves and if I am honest it was a rather odd experience in several ways. The whole cast were in the same studio but we all had to leave a two second gap between the lines which made for rather stilted dialogue and sadly, a rather stilted movie.
 </p>
-<p class="tg-quote-footer"><cite>Anthony Daniels, Trang web chính thức</cite></p>
+<p class="tg-quote-footer"><cite>Anthony Daniels, Official website</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tôi rất vui vì màn trình diễn của ông phản ánh rõ ràng nhiều sắc thái nghệ thuật đã phản ánh phong cách của tôi. Orlando rõ ràng đã học được hầu hết các kỹ năng của ông khi theo dõi tác phẩm của tôi và tôi nghĩ ông có thể có một sự nghiệp diễn viên nào đó. Quyết định thú vị của ông, trong vai Legolas, không phải là vào vai một cô gái tóc nâu như tôi mà là một cô gái tóc vàng. Tôi chưa bao giờ đóng vai một cô gái tóc vàng, kể cả trong phim hoạt hình. Bây giờ, tất nhiên, tôi chơi màu xám.
+<p>I was delighted that his performance clearly echoed many of the artistic nuances that so inflected my own. Orlando has clearly learned most of his craft from following my work and I think he may have a career as an actor of some kind. His interesting decision, in the role of Legolas, was not to play it as a brunette, as did I, but as a blond. I have never played a blond, even in a cartoon. Now, of course, I play a grey.
 </p>
-<p class="tg-quote-footer"><cite>Anthony Daniels trên phiên bản <a href="../L/Legolas.md" title="Legolas">Legolas</a> của <a href="../O/Orlando_Bloom.md" title="Orlando Bloom">Orlando Bloom</a>, Trang web chính thức</cite></p>
+<p class="tg-quote-footer"><cite>Anthony Daniels on <a href="../O/Orlando_Bloom.md" title="Orlando Bloom">Orlando Bloom</a>&#39;s version of <a href="../L/Legolas.md" title="Legolas">Legolas</a>, Official website</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Liên kết ngoài {#External_links}

@@ -62,7 +62,7 @@ sort_keys:
 [2012-08-05 20:20:43] &lt;KingAragorn&gt; I would favour putting this information into a section on the main film page<br/>
 [2012-08-05 20:21:00] &lt;Ederchil&gt; Makes sense.<br/>
 [2012-08-05 20:21:22] &lt;KingAragorn&gt; But I think that we should have a separate article for the extended editions - but these won&#39;t be format specific<br/>
-[2012-08-05 20:21:40] &lt;Morgan&gt; Yep<br/>
+[2012-08-05 20:21:40] &lt;Morgan&gt;  Yep<br/>
 [2012-08-05 20:21:44] &lt;Amroth&gt; Aye<br/>
 [2012-08-05 20:21:58] &lt;Ederchil&gt; It&#39;s just the question what they&#39;re named then?<br/>
 [2012-08-05 20:22:18] &lt;Ederchil&gt; With a VHS and possible BR release.<br/>
@@ -226,7 +226,7 @@ sort_keys:
 [2012-08-05 21:17:16] &lt;KingAragorn&gt; OK, shall we call it a day/night?<br/>
 [2012-08-05 21:17:33] &lt;Gamling&gt; Sounds good to me.<br/>
 [2012-08-05 21:17:35] &lt;Ederchil&gt; Sure.<br/>
-[2012-08-05 21:17:51] &lt;Morgan&gt; Well, the question raised by Sage, as I understood it, isn&#39;t so much about how many articles we should have; it rather with the question of where to put information in the hierarchy tree? For example, I experienced this problem when creating the recent article &#34;Dead face&#34; -- how much should I repeat from &#34;Dead Marshes&#34;? How much do I need to repeat in the (so far non-existant) article &#34;Mere of Dead Faces&#34;?<br/>
+[2012-08-05 21:17:51] &lt;Morgan&gt; Well, the question raised by Sage, as I understood it, isn&#39;t so  much about how many articles we should have; it rather with the question of where to put information in the hierarchy tree? For example, I experienced this problem when creating the recent article &#34;Dead face&#34; -- how much should I repeat from &#34;Dead Marshes&#34;? How much do I need to repeat in the (so far non-existant) article &#34;Mere of Dead Faces&#34;?<br/>
 [2012-08-05 21:17:55] &lt;Amroth&gt; Some regions of Aman (Avathar, etc.) weren&#39;t part of Valinor, were they?<br/>
 [2012-08-05 21:18:04] &lt;Morgan&gt; Oh, sorry -- yeah, I need to go soon too!<br/>
 [2012-08-05 21:18:47] &lt;KingAragorn&gt; Can of worms, Morgan<br/>

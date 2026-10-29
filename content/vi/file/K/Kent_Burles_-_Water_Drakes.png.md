@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Hình ảnh của Kent Burles miêu tả một con Water Drake ([Biển-serpent](../../main/S/Sea-serpent.md)), một *Rain-drake*, xuất hiện trong Ruth Sochard Pitt, Jeff O'Hare, [Peter C. Fenlon, Jr.](../../main/P/Pete_Fenlon.md), *[Creatures of Middle-earth (2nd edition)](<../../main/C/Creatures_of_Middle-earth_(2nd_edition).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2012, 1994) .
+Hình ảnh của Kent Burles miêu tả một con Water Drake ([Biển-serpent](../../main/S/Sea-serpent.md)), một *Rain-drake*, xuất hiện trong Ruth Sochard Pitt, Jeff O'Hare, [Peter C. Fenlon, Jr.](../../main/P/Pete_Fenlon.md), *[Creatures of Middle-earth (2nd edition)](<../../main/C/Creatures_of_Middle-earth_(2nd_edition).md>)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2012, 1994) .
 
 ## Giấy phép {#Licensing}
 

@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Klett-Cotta"
 content_sha256: e2a0aef7c64bf2b8e201a20185af67b092243be6192148ce0cb9516a8bd3dcb2
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Nhà xuất bản sách Đức"
+short_description: "German book publisher"
 categories:
   - "Pages using ISBN magic links"
   - "German businesses"

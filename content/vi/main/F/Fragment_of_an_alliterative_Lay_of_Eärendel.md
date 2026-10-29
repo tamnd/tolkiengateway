@@ -15,14 +15,14 @@ categories:
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin:15px;border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> chương
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> chapters
 </th></tr>
 <tr>
 <td>
 <ol><li><a href="../T/The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">The Lay of the Children of Húrin</a></li>
-<li><a href="../P/Poems_Early_Abandoned.md" title="Poems Early Abandoned">Những bài thơ sớm bị từ bỏ</a></li>
+<li><a href="../P/Poems_Early_Abandoned.md" title="Poems Early Abandoned">Poems Early Abandoned</a></li>
 <li><a href="../T/The_Lay_of_Leithian.md" title="The Lay of Leithian">The Lay of Leithian</a></li>
-<li><a href="../T/The_Lay_of_Leithian_Recommenced.md" title="The Lay of Leithian Recommenced">The Lay of Leithian được tiếp tục</a></li></ol>
+<li><a href="../T/The_Lay_of_Leithian_Recommenced.md" title="The Lay of Leithian Recommenced">The Lay of Leithian Recommenced</a></li></ol>
 </td></tr></tbody></table>
 
 [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã cố gắng viết một **Nội dung của Eärendel**, kết quả là chỉ có một đoạn được đưa vào chương "[Những bài thơ bị bỏ rơi sớm](../P/Poems_Early_Abandoned.md)" trong *[The Lays of Beleriand](../T/The_Lays_of_Beleriand.md)*. Nó được viết và chưa hoàn thành trong thời gian ông làm việc tại [Đại học Leeds](../U/University_of_Leeds.md), có lẽ là ở [1925](../_/1925.md). Nó không có tiêu đề và không mở rộng đủ xa để làm rõ chủ đề của nó là gì, nhưng ở cuối văn bản Tolkien được viết bằng nhiều kiểu chữ khác nhau 'Earendel', 'Earendel con trai của Fengel', 'Earendel Fengelsson'; vì vậy [Christopher Tolkien](../C/Christopher_Tolkien.md) nói rằng bài thơ này là sự khởi đầu của một *Lay of Eärendel*.<sup id="cite_ref-LB_1-0" class="reference"><a href="#cite_note-LB-1">[1]</a></sup>
@@ -34,12 +34,12 @@ Cùng với *[The Flight of the Noldoli](../T/The_Flight_of_the_Noldoli_from_Val
 ## Trích đoạn thơ {#Poem_excerpt}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Ồ! ngọn lửa và hận thù mãnh liệt<br/>
-nhấn chìm Gondolin và vinh quang của nó sụp đổ,<br/>
-những tòa tháp thon và những mái nhà cao<br/>
-đều bị hạ thấp, và những đài phun nước nhấp nhô<br/>
-không tạo ra âm nhạc nữa trên núi Gwareth,<br/>
-và những bức tường đẽo trắng của nó đang thì thầm tro bụi.
+<p>Lo! the flame of fire and fierce hatred<br/>
+engulfed Gondolin and its glory fell,<br/>
+its tapering towers and its tall rooftops<br/>
+were laid all low, and its leaping fountains<br/>
+made no music more on the mount of Gwareth,<br/>
+and its whitehewn walls were whispering ash.
 </p>
 </div>
 

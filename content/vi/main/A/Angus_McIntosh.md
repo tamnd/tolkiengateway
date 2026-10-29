@@ -25,7 +25,7 @@ sort_keys:
 McIntosh được đào tạo tại Cao đẳng Oriel Oxford và tốt nghiệp năm 1934. Ông tiếp tục lấy bằng ngữ văn so sánh tại Cao đẳng Merton và trở thành sinh viên của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). McIntosh được cho là:
 
 <blockquote class="tg-quote noexcerpt">
-<p>...một ngày nọ đã đánh bại JRR Tolkien trong môn quần vợt, nhốt ông trong phòng vì chấn thương mắt cá chân. Vì vậy, bị bỏ rơi, không có gì tốt hơn để làm, Tolkien bắt đầu phác thảo ý tưởng cho các tác phẩm The Hobbitt [sic] và The Lord of the Rings mà Angus sẽ vui vẻ nhận lỗi."
+<p>...one day to have thrashed JRR Tolkien at tennis, confining him to his rooms with an ankle injury. Thus marooned, with nothing better to do, Tolkien started sketching out ideas for The Hobbitt [sic] and The Lord of the Rings works for which Angus would cheerfully accept blame.&#34;
 </p>
 <p class="tg-quote-footer"><cite>Heinz Giegerich: <i>Angus McIntosh Obituary</i><sup id="cite_ref-Obit_1-1" class="reference"><a href="#cite_note-Obit-1">[1]</a></sup></cite></p>
 </blockquote>

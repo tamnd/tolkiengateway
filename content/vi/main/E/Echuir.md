@@ -20,9 +20,9 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<i><b>Echuir</b></i> là tên [Sindarin](../S/Sindarin.md) của **Khuấy động**, mùa [Elvish](Elves.md) diễn ra trước Mùa xuân.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong [Lịch Rivendell](../R/Reckoning_of_Rivendell.md) đây là mùa cuối cùng trong năm và ít nhiều tương ứng với 54 ngày giữa [11 tháng 2](../_/11_February.md) và [4 tháng 4](../_/4_April.md) ở [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>Echuir</b></i> là tên [Sindarin](../S/Sindarin.md) của **Khuấy động**, mùa [Elvish](Elves.md) diễn ra trước Mùa xuân.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong [Tính toán của Rivendell](../R/Reckoning_of_Rivendell.md) đây là mùa cuối cùng trong năm và ít nhiều tương ứng với 54 ngày giữa [11 tháng 2](../_/11_February.md) và [4 tháng 4](../_/4_April.md) ở [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="../C/Coirë.md" title="Coirë">Coirë</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../C/Coirë.md" title="Coirë">Coirë</a></div></div>
 
 <span></span>
 
@@ -39,20 +39,20 @@ images:
 
 <table style="text-align:center; margin: 0 auto; font-size: 90%" class="mw-collapsible mw-collapsed toccolours" align="center" width="70%">
 <tbody><tr>
-<td align="center" colspan="10" style="background: var(--tg-color-surface-5);"><b><a class="mw-redirect" href="../C/Calendar_of_Imladris.md" title="Calendar of Imladris">Lịch Imladris</a></b>
+<td align="center" colspan="10" style="background: var(--tg-color-surface-5);"><b><a class="mw-redirect" href="../C/Calendar_of_Imladris.md" title="Calendar of Imladris">Calendar of Imladris</a></b>
 </td></tr>
 <tr>
-<th align="center" style="background: var(--tg-color-surface-3);">Ý nghĩa:
+<th align="center" style="background: var(--tg-color-surface-3);">Meaning:
 </th>
-<td>“Ngày đầu tiên”</td>
+<td>&#39;First Day&#39;</td>
 <td>&#39;Spring&#39;</td>
 <td>&#39;Summer&#39;</td>
 <td>&#39;Autumn&#39;</td>
-<td>“Những ngày giữa”</td>
+<td>&#39;Middle Days&#39;</td>
 <td>&#39;Fading&#39;</td>
 <td>&#39;Winter&#39;</td>
 <td>&#39;Stirring&#39;</td>
-<td>“Ngày cuối cùng”
+<td>&#39;Last Day&#39;
 </td></tr>
 <tr>
 <th align="center" style="background: var(--tg-color-surface-3);"><a href="../Q/Quenya.md" title="Quenya">Quenya</a>:

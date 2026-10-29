@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>động từ</b>. Đối với vũ trụ, hãy xem <b><a href="Eä.md" title="Eä">Eä</a></b> và đối với nhà phát triển trò chơi, hãy xem <b><a class="mw-redirect" href="EA.md" title="EA">EA</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>verb</b>. For the universe, see <b><a href="Eä.md" title="Eä">Eä</a></b>, and for the games developer see <b><a class="mw-redirect" href="EA.md" title="EA">EA</a></b>.</div></div>
 
 **ea** là động từ [Quenya](../Q/Quenya.md) có nghĩa là "tồn tại".
 

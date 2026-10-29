@@ -18,7 +18,7 @@ sort_keys:
 
 **Úrimë** (*Urui* ở [Sindarin](../S/Sindarin.md)) là tháng thứ tám trong năm trong [Vua's Reckoning](../K/King's_Reckoning.md) và [Stewards' Reckoning](../S/Stewards'_Reckoning.md) của [Gondor](../G/Gondor.md), sau [Cermië](../C/Cermië.md) và trước [Yavannië](../Y/Yavannië.md). Trong [Tính toán mới](../N/New_Reckoning.md) đó là tháng thứ năm trong năm.
 
-*Úrimë* trong Cuộc Lịch Tính của các Vua (và phần lớn trong Cuộc tính toán của người quản gia) tương ứng với [Thứ tư](../W/Wedmath.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [ngày 24 tháng 7](24_July.md) đến [22 tháng 8](22_August.md) hiện đại).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+*Úrimë* trong Cuộc tính toán của các vị vua (và phần lớn trong Cuộc tính toán của người quản gia) tương ứng với [Thứ tư](../W/Wedmath.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [ngày 24 tháng 7](24_July.md) đến [22 tháng 8](22_August.md) hiện đại).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

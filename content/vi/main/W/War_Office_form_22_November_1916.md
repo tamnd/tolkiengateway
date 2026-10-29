@@ -16,11 +16,11 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/War_Office_form_22_November_1916.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/61/War_Office_form_22_November_1916.jpg/300px-War_Office_form_22_November_1916.jpg" decoding="async" loading="lazy" width="300" height="478" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/61/War_Office_form_22_November_1916.jpg 1.5x" data-file-width="414" data-file-height="659"/></a><figcaption></figcaption></figure>
 
-**Mẫu của Bộ Chiến tranh ngày 22 tháng 11 năm 1916** là một mẫu từ hồ sơ phục vụ của <a class="extiw" href="http://en.wikipedia.org/wiki/War_Office" title="wikipedia:War Office">Bộ Chiến tranh</a>, trong đó [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) xác nhận việc ông trở về Anh từ Pháp do sốt chiến hào (ngày [22 tháng 11](../_/22_November.md) [1916](../_/1916.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Mẫu của Văn phòng Chiến tranh ngày 22 tháng 11 năm 1916** là một mẫu từ hồ sơ phục vụ của <a class="extiw" href="http://en.wikipedia.org/wiki/War_Office" title="wikipedia:War Office">Văn phòng Chiến tranh</a>, trong đó [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) xác nhận việc ông trở về Anh từ Pháp do sốt chiến hào (ngày [22 tháng 11](../_/22_November.md) [1916](../_/1916.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Thư gửi Bộ Chiến tranh](../L/Letter_to_the_War_Office.md)
+- [Thư gửi Văn phòng Chiến tranh](../L/Letter_to_the_War_Office.md)
 
 <span></span>
 

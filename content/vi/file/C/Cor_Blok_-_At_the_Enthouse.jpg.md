@@ -29,7 +29,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-"Tại [Enthouse](../../main/W/Wellinghall.md)" của [Cor Blok](../../main/C/Cor_Blok.md).
+"Tại [the Enthouse](../../main/W/Wellinghall.md)" của [Cor Blok](../../main/C/Cor_Blok.md).
 
 ## Giấy phép {#Licensing}
 

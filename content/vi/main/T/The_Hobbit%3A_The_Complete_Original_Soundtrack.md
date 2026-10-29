@@ -17,7 +17,7 @@ images:
   - "The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/250px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg" decoding="async" loading="lazy" width="250" height="252" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/375px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/500px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg 2x" data-file-width="574" data-file-height="579"/></a><figcaption>Bìa nhạc phim. Hãy chú ý đến phiên bản màu xanh lá cây của <a href="../S/Smaug.md" title="Smaug">Smaug</a>, người có màu đỏ trong phim.</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/250px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg" decoding="async" loading="lazy" width="250" height="252" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/375px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/500px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg 2x" data-file-width="574" data-file-height="579"/></a><figcaption>Soundtrack cover. Note the green version of <a href="../S/Smaug.md" title="Smaug">Smaug</a>, who is red in the film.</figcaption></figure>
 
 **The Hobbit: Bản nhạc gốc hoàn chỉnh** là nhạc phim của [*The Hobbit* (phim năm 1977)](<The_Hobbit_(1977_film).md>), được xuất bản trên [1977](../_/1977.md) bởi Buena Vista Records (một bộ phận của [Disney](../D/Disney.md)). Nó có nhiều bài thơ gốc của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được chuyển thể bởi [Jules Bass](../J/Jules_Bass.md) và được [Maury Laws](../M/Maury_Laws.md) phổ nhạc. Kèm theo một tập sách 16 trang có hình minh họa đầy màu sắc từ bộ phim.
 
@@ -81,10 +81,10 @@ images:
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Nhạc phim chính thức</b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Official Soundtracks</b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4);" colspan="3">Phim
+<td align="center" style="background:var(--tg-color-surface-4);" colspan="3">Films
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); font-size: 90%; padding-right: 4px;">1977-1980
@@ -102,15 +102,15 @@ images:
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack">An Unexpected Journey</a></i> (<a href="The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition">Special Edition</a>) · <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack">The Desolation of Smaug</a></i> (<a href="The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack - Special Edition">Special Edition</a>) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack">The Battle of Five Armies</a></i> (<a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition">Special Edition</a>)
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); font-size: 90%; padding-right: 4px;">2022–nay
+<th align="right" style="background:var(--tg-color-surface-4); font-size: 90%; padding-right: 4px;">2022-Present
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md" title="The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)">The Rings of Power: Season One</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack).md" title="The Lord of the Rings: The War of the Rohirrim (Original Motion Picture Soundtrack)">The War of the Rohirrim</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_Two%253A_Amazon_Original_Series_Soundtrack).md" title="The Lord of the Rings: The Rings of Power (Season Two: Amazon Original Series Soundtrack)">The Rings of Power: Season Two</a></i>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4);" colspan="3">Trò chơi điện tử
+<td align="center" style="background:var(--tg-color-surface-4);" colspan="3">Video Games
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); font-size: 90%; padding-right: 4px;">2003–nay
+<th align="right" style="background:var(--tg-color-surface-4); font-size: 90%; padding-right: 4px;">2003-Present
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="The_Hobbit_Soundtrack_(2003_video_game).md" title="The Hobbit Soundtrack (2003 video game)">The Hobbit</a> · <a href="The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar_(soundtrack).md" title="The Lord of the Rings Online: Shadows of Angmar (soundtrack)">Shadows of Angmar</a> · <a href="The_Lord_of_the_Rings_Online%253A_Mines_of_Moria_(soundtrack).md" title="The Lord of the Rings Online: Mines of Moria (soundtrack)">Mines of Moria</a>
 </td></tr></tbody></table>

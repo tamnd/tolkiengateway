@@ -23,7 +23,7 @@ images:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Bilbo_Baggins.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7b/Anke_Ei%C3%9Fmann_-_Bilbo_Baggins.jpg/300px-Anke_Ei%C3%9Fmann_-_Bilbo_Baggins.jpg" decoding="async" loading="lazy" width="300" height="297" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7b/Anke_Ei%C3%9Fmann_-_Bilbo_Baggins.jpg/450px-Anke_Ei%C3%9Fmann_-_Bilbo_Baggins.jpg 1.5x, https://tolkiengateway.net/w/images/7/7b/Anke_Ei%C3%9Fmann_-_Bilbo_Baggins.jpg 2x" data-file-width="462" data-file-height="458"/></a><figcaption><i>Bilbo Baggins</i> by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Vẫn chưa đến lúc. Thậm chí đó không thể là giờ uống trà, ít nhất không phải ở những nơi tử tế có giờ uống trà.
+<p>It isn&#39;t time yet. It can&#39;t be tea-time even, leastways not in decent places where there is tea-time.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a> in <i><a href="The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../J/Journey_to_the_Cross-Roads.md" title="Journey to the Cross-Roads">Journey to the Cross-Roads</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -34,7 +34,7 @@ Là thời gian nghỉ ngơi và thư giãn, **giờ uống trà**<sup id="cite_
 
 [Bilbo Baggins](../B/Bilbo_Baggins.md) mời [Gandalf](../G/Gandalf.md) uống tách trà thì anh bất ngờ đến [Bag End](../B/Bag_End.md). Sau lời mời, Gandalf xuất hiện cùng với [Thorin và Đoàn tùy tùng](Thorin_and_Company.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Trong [một bài thơ](../P/Perry-the-Winkle.md) được viết bởi [Samwise Gamgee](../S/Samwise_Gamgee.md), [Troll Cô Độc](../L/Lonely_Troll.md) phục vụ [Perry-the-Winkle](<../P/Perry-the-Winkle_(hobbit).md>) một số "trà ngon" và hai người bạn thường xuyên gặp nhau trong các buổi trà hàng tuần.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong [một bài thơ](../P/Perry-the-Winkle.md) được viết bởi [Samwise Gamgee](../S/Samwise_Gamgee.md), [Quỷ cô đơn](../L/Lonely_Troll.md) phục vụ [Perry-the-Winkle](<../P/Perry-the-Winkle_(hobbit).md>) một số "trà ngon" và hai người bạn thường xuyên gặp nhau trong các buổi trà hàng tuần.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Tên {#Names}
 
@@ -42,9 +42,9 @@ Trong giai đoạn đầu của [huyền thoại](../L/Legendarium.md), [Tolkien
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007-: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007-: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Những người nông dân có thể trồng lá trà và các nhân vật có nghề nấu ăn có thể sản xuất nhiều loại trà (bao gồm Trà đen, Trà xanh, Trà đỏ và Trà trắng).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Trong nhiệm vụ giới thiệu "Trà việt quất ngọt", <a href="../C/Celandine_Brandybuck.md#Portrayal_in_adaptations" title="Celandine Brandybuck">Celandine Brandybuck</a> yêu cầu người chơi thu thập <a class="extiw" href="http://en.wikipedia.org/wiki/Bilberry" title="wikipedia:Bilberry">quả việt quất</a> để làm trà thuốc của mình.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
+<dl><dd>Tea leaves can be grown by farmers, and characters with the cooking craft can produce several varieties of tea (including Black, Green, Red, and White Tea).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> In the introductory quest &#34;Sweet Bilberry Tea&#34;, <a href="../C/Celandine_Brandybuck.md#Portrayal_in_adaptations" title="Celandine Brandybuck">Celandine Brandybuck</a> asks the player to collect <a class="extiw" href="http://en.wikipedia.org/wiki/Bilberry" title="wikipedia:Bilberry">bilberries</a> for her medicinal tea.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
 ## Xem thêm {#See_also}
 

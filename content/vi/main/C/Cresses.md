@@ -22,7 +22,7 @@ Loại cải xoong cụ thể gặp trong Rohan có thể là cải xoong.<sup i
 
 <b>1984-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i></b>
 
-<dl><dd><i><b>Golden Cress</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Melbis</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Malquessi</i>), còn được gọi là <i>Gold Chute</i>, là một loại thảo mộc ven sông giống dương xỉ, hầu như chỉ được tìm thấy ở Vale of <a href="../E/Erech.md" title="Erech">Erech</a> và <a href="../B/Blackroot_Vale.md" title="Blackroot Vale">Blackroot Vale</a>. Được bào chế thành thuốc mỡ, nó giúp chữa lành vết thương đang chảy máu. <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
+<dl><dd><i><b>Golden Cress</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Melbis</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Malquessi</i>), also known as <i>Gold Chute</i>, was a fernlike riverside herb, found almost exclusively in the Vale of <a href="../E/Erech.md" title="Erech">Erech</a> and <a href="../B/Blackroot_Vale.md" title="Blackroot Vale">Blackroot Vale</a>. Prepared into ointment, it helped heal bleeding wounds. <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
 <span></span>
 

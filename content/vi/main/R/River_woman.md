@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "River-woman"
 ---
 
-Chuyển hướng đến [Người đàn bà Sông](River-woman.md).
+Chuyển hướng đến [Người phụ nữ sông](River-woman.md).

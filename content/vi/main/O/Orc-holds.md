@@ -19,14 +19,14 @@ images:
   - "CdxIconReference.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Orc-holds&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Orc-holds&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
-<p>Ai đã nói với bạn và ai đã gửi cho bạn?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
+<p>Who told you, and who sent you?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
@@ -35,7 +35,7 @@ images:
 
 Mount Gundabad là thủ đô của Orc ở miền Bắc sau lần bao vây đầu tiên ở [Kỷ Đệ Nhị](../S/Second_Age.md). Các hoạt động chính của Orkish như các trận chiến trong [Cuộc chiến giữa Người Lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md) và [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> đều bắt nguồn từ nó.
 
-Các vùng lãnh thổ [Orkish](Orc.md) bao gồm [Moria](../M/Moria.md) và [Thị trấn Goblin](../G/Goblin-town.md) dưới lòng đất do [Great Goblin](../G/Great_Goblin.md) lãnh đạo.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Các vùng lãnh thổ [Orkish](Orc.md) bao gồm [Moria](../M/Moria.md) và [Thị trấn yêu tinh](../G/Goblin-town.md) dưới lòng đất do [Great Goblin](../G/Great_Goblin.md) lãnh đạo.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

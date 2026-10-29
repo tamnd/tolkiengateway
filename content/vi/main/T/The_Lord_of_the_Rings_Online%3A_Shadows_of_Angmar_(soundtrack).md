@@ -28,17 +28,17 @@ infobox:
     value: "Turbine"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Shadows_of_Angmar_(soundtrack).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4c/Shadows_of_Angmar_%28soundtrack%29.jpg/320px-Shadows_of_Angmar_%28soundtrack%29.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4c/Shadows_of_Angmar_%28soundtrack%29.jpg/480px-Shadows_of_Angmar_%28soundtrack%29.jpg 1.5x, https://tolkiengateway.net/w/images/4/4c/Shadows_of_Angmar_%28soundtrack%29.jpg 2x" data-file-width="600" data-file-height="600"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Lord of the Rings Online: Shadows of Angmar</i></span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Soundtrack by <a href="../C/Chance_Thomas.md" title="Chance Thomas">Chance Thomas</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/24_April.md" title="24 April">24 April</a>, <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">nhạc cụ</td></tr><tr><th scope="row" class="tg-infobox-label">Chiều dài</th><td class="tg-infobox-data">45:35</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr><tr><th scope="row" class="tg-infobox-label">Nhãn</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Shadows_of_Angmar_(soundtrack).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4c/Shadows_of_Angmar_%28soundtrack%29.jpg/320px-Shadows_of_Angmar_%28soundtrack%29.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4c/Shadows_of_Angmar_%28soundtrack%29.jpg/480px-Shadows_of_Angmar_%28soundtrack%29.jpg 1.5x, https://tolkiengateway.net/w/images/4/4c/Shadows_of_Angmar_%28soundtrack%29.jpg 2x" data-file-width="600" data-file-height="600"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Lord of the Rings Online: Shadows of Angmar</i></span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Soundtrack by <a href="../C/Chance_Thomas.md" title="Chance Thomas">Chance Thomas</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/24_April.md" title="24 April">24 April</a>, <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">instrumental</td></tr><tr><th scope="row" class="tg-infobox-label">Length</th><td class="tg-infobox-data">45:35</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine</a></td></tr></tbody></table>
 
-<i><b>The Lord of the Rings Online: Shadows of Angmar</b></i> là nhạc nền của *[The Lord of the Rings Online: Shadows of Angmar](The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*. Nhạc nền ban đầu được phát hành như một phần của phiên bản đặc biệt của trò chơi. Vào tháng 6 năm 2008, Turbine đã phát hành trình quản lý tải xuống trong đó người chơi sở hữu trò chơi có thể tải xuống bản mp3 của trò chơi, bao gồm tất cả các tựa game này cùng với các bản nhạc bổ sung. Phần lớn các bài hát được sáng tác bởi [Chance Thomas](../C/Chance_Thomas.md).
+<i><b>The Lord of the Rings Trực tuyến: Shadows of Angmar</b></i> là nhạc nền của *[The Lord of the Rings Online: Shadows of Angmar](The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*. Nhạc nền ban đầu được phát hành như một phần của phiên bản đặc biệt của trò chơi. Vào tháng 6 năm 2008, Turbine đã phát hành trình quản lý tải xuống trong đó người chơi sở hữu trò chơi có thể tải xuống bản mp3 của trò chơi, bao gồm tất cả các tựa game này cùng với các bản nhạc bổ sung. Phần lớn các bài hát được sáng tác bởi [Chance Thomas](../C/Chance_Thomas.md).
 
 ## Nội dung {#Contents}
 
 <table class="tracklist wikitable wikitable--stripe">
     <tbody><tr>
       <th class="tlheader" style="width: 20px; text-align: right;">#</th>
-      <th class="tlheader" style="width: 60%;">Danh hiệu</th><th style="width: 40%;">Writer(s)</th>
-      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Chiều dài</th>
+      <th class="tlheader" style="width: 60%;">Title</th><th style="width: 40%;">Writer(s)</th>
+      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Length</th>
     </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">1.</td>
@@ -190,27 +190,27 @@ infobox:
 <th align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></b>
 </th></tr>
 <tr>
-<td style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 5px;" align="right" width="150px"><b>Bản mở rộng</b>
+<td style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 5px;" align="right" width="150px"><b>Expansions</b>
 </td>
 <td style="font-size: 90%;" align="center"><i><a href="The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">Shadows of Angmar</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">Mines of Moria</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md" title="The Lord of the Rings Online: Siege of Mirkwood">Siege of Mirkwood</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">Rise of Isengard</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">Riders of Rohan</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Helm&#39;s_Deep.md" title="The Lord of the Rings Online: Helm&#39;s Deep">Helm&#39;s Deep</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Mordor.md" title="The Lord of the Rings Online: Mordor">Mordor</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Minas_Morgul.md" title="The Lord of the Rings Online: Minas Morgul">Minas Morgul</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_War_of_Three_Peaks.md" title="The Lord of the Rings Online: War of Three Peaks">War of Three Peaks</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Fate_of_Gundabad.md" title="The Lord of the Rings Online: Fate of Gundabad">Fate of Gundabad</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Before_the_Shadow.md" title="The Lord of the Rings Online: Before the Shadow">Before the Shadow</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Corsairs_of_Umbar.md" title="The Lord of the Rings Online: Corsairs of Umbar">Corsairs of Umbar</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Legacy_of_Morgoth.md" title="The Lord of the Rings Online: Legacy of Morgoth">Legacy of Morgoth</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Kingdoms_of_Harad.md" title="The Lord of the Rings Online: Kingdoms of Harad">Kingdoms of Harad</a></i>
 </td></tr>
 <tr>
-<td style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 5px;" align="right"><b>Cốt truyện</b>
+<td style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 5px;" align="right"><b>Storyline</b>
 </td>
 <td style="font-size: 90%;" align="center"><i><a href="The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md#Synopsis" title="The Lord of the Rings Online: Shadows of Angmar">Volume I: Shadows of Angmar</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md#Synopsis" title="The Lord of the Rings Online: Mines of Moria">Volume II: Mines of Moria</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md#Volume_III:_Allies_of_the_King" title="The Lord of the Rings Online: Siege of Mirkwood">Volume III: Allies of the King</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Helm&#39;s_Deep.md#Volume_IV:_The_Strength_of_Sauron" title="The Lord of the Rings Online: Helm&#39;s Deep">Volume IV: The Strength of Sauron</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Mordor.md" title="The Lord of the Rings Online: Mordor">The Black Book of Mordor</a></i>
 </td></tr>
 <tr>
-<td style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 5px;" align="right"><b>Xem thêm</b>
+<td style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 5px;" align="right"><b>See also</b>
 </td>
-<td style="font-size: 90%;" align="center"><a href="../../category/T/The_Lord_of_the_Rings_Online_characters.md" title="Category:The Lord of the Rings Online characters">Nhân vật</a> · <a href="../../category/T/The_Lord_of_the_Rings_Online_locations.md" title="Category:The Lord of the Rings Online locations">Địa điểm</a> · <a class="mw-selflink selflink"><i>Shadows of Angmar</i> nhạc phim</a> · <a href="The_Lord_of_the_Rings_Online%253A_Mines_of_Moria_(soundtrack).md" title="The Lord of the Rings Online: Mines of Moria (soundtrack)"><i>Mines of Moria</i> nhạc phim</a> · minigame "<a href="../K/King_Under_the_Mountain_(minigame).md" title="King Under the Mountain (minigame)">Vua Under the Mountain</a>"
+<td style="font-size: 90%;" align="center"><a href="../../category/T/The_Lord_of_the_Rings_Online_characters.md" title="Category:The Lord of the Rings Online characters">Characters</a> · <a href="../../category/T/The_Lord_of_the_Rings_Online_locations.md" title="Category:The Lord of the Rings Online locations">Locations</a> · <a class="mw-selflink selflink"><i>Shadows of Angmar</i> soundtrack</a> · <a href="The_Lord_of_the_Rings_Online%253A_Mines_of_Moria_(soundtrack).md" title="The Lord of the Rings Online: Mines of Moria (soundtrack)"><i>Mines of Moria</i> soundtrack</a> · &#34;<a href="../K/King_Under_the_Mountain_(minigame).md" title="King Under the Mountain (minigame)">King Under the Mountain</a>&#34; minigame
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Nhạc phim chính thức</b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Official Soundtracks</b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4);" colspan="3">Phim
+<td align="center" style="background:var(--tg-color-surface-4);" colspan="3">Films
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); font-size: 90%; padding-right: 4px;">1977-1980
@@ -228,15 +228,15 @@ infobox:
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack">An Unexpected Journey</a></i> (<a href="The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition">Special Edition</a>) · <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack">The Desolation of Smaug</a></i> (<a href="The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack - Special Edition">Special Edition</a>) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack">The Battle of Five Armies</a></i> (<a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition">Special Edition</a>)
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); font-size: 90%; padding-right: 4px;">2022–nay
+<th align="right" style="background:var(--tg-color-surface-4); font-size: 90%; padding-right: 4px;">2022-Present
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md" title="The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)">The Rings of Power: Season One</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack).md" title="The Lord of the Rings: The War of the Rohirrim (Original Motion Picture Soundtrack)">The War of the Rohirrim</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_Two%253A_Amazon_Original_Series_Soundtrack).md" title="The Lord of the Rings: The Rings of Power (Season Two: Amazon Original Series Soundtrack)">The Rings of Power: Season Two</a></i>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4);" colspan="3">Trò chơi điện tử
+<td align="center" style="background:var(--tg-color-surface-4);" colspan="3">Video Games
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); font-size: 90%; padding-right: 4px;">2003–nay
+<th align="right" style="background:var(--tg-color-surface-4); font-size: 90%; padding-right: 4px;">2003-Present
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="The_Hobbit_Soundtrack_(2003_video_game).md" title="The Hobbit Soundtrack (2003 video game)">The Hobbit</a> · <a class="mw-selflink selflink">Shadows of Angmar</a> · <a href="The_Lord_of_the_Rings_Online%253A_Mines_of_Moria_(soundtrack).md" title="The Lord of the Rings Online: Mines of Moria (soundtrack)">Mines of Moria</a>
 </td></tr></tbody></table>

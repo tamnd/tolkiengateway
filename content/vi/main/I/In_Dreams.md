@@ -19,21 +19,21 @@ Những lời này bằng tiếng Anh và làm theo ở đây.
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Khi cái lạnh của mùa Đông đến<br/>
-Đêm không sao sẽ che lấp ngày<br/>
-Dưới sự che phủ của mặt trời<br/>
-Chúng ta sẽ bước đi trong mưa đắng<br/>
+<p>When the cold of Winter comes<br/>
+Starless nights will cover day<br/>
+In the veiling of the sun<br/>
+We will walk in bitter rain<br/>
 <br/>
-Nhưng trong giấc mơ<br/>
-Tôi có thể nghe thấy tên bạn<br/>
-Và trong những giấc mơ<br/>
-Chúng ta sẽ gặp lại nhau<br/>
+But in dreams<br/>
+I can hear your name<br/>
+And in dreams<br/>
+We will meet again<br/>
 <br/>
-Khi biển và núi sụp đổ<br/>
-Và chúng ta đến, đến ngày tận thế<br/>
-Trong bóng tối tôi nghe thấy tiếng gọi<br/>
-Đang gọi tôi đó<br/>
-Tôi sẽ đến đó<br/>
-Và trở lại lần nữa
+When the seas and mountains fall<br/>
+And we come, to end of days<br/>
+In the dark I hear a call<br/>
+Calling me there<br/>
+I will go there<br/>
+And back again
 </p>
 </div>

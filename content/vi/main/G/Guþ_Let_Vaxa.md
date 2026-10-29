@@ -31,36 +31,36 @@ vildi gleðja dapran heim.<br/>
 Breiddist iðgrænn vafningsviður<br/>
 við hans boð um aldinreit.<br/>
 Höfgir klasar hengu niður,<br/>
-anhinsol và skrautið leit.<br/>
-Glumdi và lopti gleiðikliður,<br/>
+himinsol a skrautið leit.<br/>
+Glumdi i lopti gleiðikliður,<br/>
 gloðu herin rauð og heit.<br/>
-Người theo chủ nghĩa dài dòng là vafningsviður,<br/>
+Slongdist iðgrænn vafningsviður,<br/>
 við hans boð um aldinreit.<br/>
 <br/>
-Tuyệt vời, xin chào. Gullnar veigar,<br/>
+Gloðjist, sagði hann. Gullnar veigar,<br/>
 gjöra bloðið rautt og lett;<br/>
 undan þeim hið illa geigar<br/>
 ef að þeirra er notið rett.<br/>
-Angur, þreyta và illir beigar<br/>
-và một flyja một harða sprett.<br/>
-Tuyệt vời, xin chào. Gullnar veigar<br/>
-gjöra bloðið rautt và lett.<br/>
+Angur, þreyta og illir beigar<br/>
+und an flyja a harða sprett.<br/>
+Gloðjist, sagði hann. Gullnar veigar<br/>
+gjöra bloðið rautt og lett.<br/>
 <br/>
 Aldrei sagði þengill þjoða:<br/>
-bạn skalt ekki bragða vin;<br/>
+þu skalt ekki bragða vin;<br/>
 öllum vill hann ætið bjoða<br/>
-hoặc là tội lỗi nhẹ hơn.<br/>
+ör og mildur gæðin sin.<br/>
 Smana jafnt hans gafu goða<br/>
-'Goodtemplar' và fyllisvin.<br/>
+&#39;Goodtemplar&#39; og fyllisvin.<br/>
 Aldrei sagði þengill þjoða:<br/>
-bạn skalt ekki drekka vin;<br/>
+þu skalt ekki drekka vin;<br/>
 <br/>
 Enn þa blomgast iðgrænn viður,<br/>
 enn þa blikar gullin veig.<br/>
 Enn þa sendir solin niður<br/>
-anh si-ung urn aldinteig.<br/>
+si-ung bros urn aldinteig.<br/>
 Enn ma sætur söngva kliður<br/>
-gửi đến Niflheimdrunga và geig.<br/>
+senda i Niflheimdrunga og geig.<br/>
 Enn þa blomgast iðgrænn viður,<br/>
 enn þa blikar gullin veig. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 </p>

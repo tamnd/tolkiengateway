@@ -15,7 +15,7 @@ images:
   - "WindsOfChange.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/WindsOfChange.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/05/WindsOfChange.jpg/250px-WindsOfChange.jpg" decoding="async" loading="lazy" width="250" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/05/WindsOfChange.jpg/375px-WindsOfChange.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/05/WindsOfChange.jpg/500px-WindsOfChange.jpg 2x" data-file-width="600" data-file-height="600"/></a><figcaption>Bìa cuốn Những cơn gió thay đổi</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/WindsOfChange.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/05/WindsOfChange.jpg/250px-WindsOfChange.jpg" decoding="async" loading="lazy" width="250" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/05/WindsOfChange.jpg/375px-WindsOfChange.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/05/WindsOfChange.jpg/500px-WindsOfChange.jpg 2x" data-file-width="600" data-file-height="600"/></a><figcaption>Winds of Change cover</figcaption></figure>
 
 <i><b>Winds of Change</b></i> là một album của [Soundestiny](../S/Soundestiny.md) được phát hành vào năm 2010.
 

@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/25._hein%C3%A4kuuta"
 ---
 
-<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=25_July/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Thêm sự kiện được tuyển chọn</a></div><div class="tg-section-divider"><span><a href="../J/July.md" title="July">July</a></span></div>
+<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=25_July/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Add curated event</a></div><div class="tg-section-divider"><span><a href="../J/July.md" title="July">July</a></span></div>
 <div class="template-month__grid">
 <div class="template-month__day"><a href="1_July.md" title="1 July">1</a></div>
 <div class="template-month__day"><a href="2_July.md" title="2 July">2</a></div>
@@ -56,7 +56,7 @@ langlinks:
 <div class="template-month__day"><a href="29_July.md" title="29 July">29</a></div>
 <div class="template-month__day"><a href="30_July.md" title="30 July">30</a></div>
 <div class="template-month__day"><a href="31_July.md" title="31 July">31</a></div>
-</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Tháng 1</a></div><div class="tg-button"><a href="../F/February.md" title="February">Tháng 2</a></div><div class="tg-button"><a href="../M/March.md" title="March">Tháng 3</a></div><div class="tg-button"><a href="../A/April.md" title="April">Tháng 4</a></div><div class="tg-button"><a href="../M/May.md" title="May">Tháng 5</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Tháng 7</a></div><div class="tg-button"><a href="../A/August.md" title="August">Tháng 8</a></div><div class="tg-button"><a href="../S/September.md" title="September">Tháng 9</a></div><div class="tg-button"><a href="../O/October.md" title="October">Tháng 10</a></div><div class="tg-button"><a href="../N/November.md" title="November">Tháng 11</a></div><div class="tg-button"><a href="../D/December.md" title="December">Tháng 12</a></div></div>
+</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
 Sự kiện xảy ra vào ngày 25 tháng 7
@@ -64,7 +64,7 @@ Sự kiện xảy ra vào ngày 25 tháng 7
 ## Trên Trái đất {#On_Earth}
 
 - **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 29](../L/Letter_29.md).
-- **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi một [lá thư](../L/Letter_30.md) đầy giận dữ tới một nhà xuất bản ở Đức, sau khi được hỏi liệu ông có phải là <a class="extiw" href="http://en.wikipedia.org/wiki/Aryan" title="wikipedia:Aryan">Aryan</a> hay không.
+- **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi một [lá thư](../L/Letter_30.md) đầy giận dữ tới một nhà xuất bản ở Đức, sau khi được hỏi liệu ông ta có phải là <a class="extiw" href="http://en.wikipedia.org/wiki/Aryan" title="wikipedia:Aryan">Aryan</a> hay không.
 - **[1979](1979.md)** - [Bryan Cogman](../B/Bryan_Cogman.md) ra đời.
 - **[1980](1980.md)** - [Mythcon 11](../M/Mythcon_11.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Nevada,_Reno" title="wikipedia:University of Nevada, Reno">Đại học Nevada</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Reno,_Nevada" title="wikipedia:Reno, Nevada">Reno</a>.
 - **[1987](1987.md)** - [Mythcon 18](../M/Mythcon_18.md) tại [Đại học Marquette](../M/Marquette_University.md), <a class="extiw" href="http://en.wikipedia.org/wiki/Milwaukee" title="wikipedia:Milwaukee">Milwaukee</a>.

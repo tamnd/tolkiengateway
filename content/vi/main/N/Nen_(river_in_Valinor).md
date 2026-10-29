@@ -18,7 +18,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>một dòng sông trong truyền thuyết sơ khai</b>. Đối với từ Sindarin, xem <b><a href="Nen.md" title="Nen">nen</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>a river in the early legendarium</b>. For the Sindarin word, see <b><a href="Nen.md" title="Nen">nen</a></b>.</div></div>
 
 **Nen** là tên của một con sông lớn [Valinor](../V/Valinor.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) gắn liền với *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có thông tin nào khác về nó, cũng như không có con sông tương đương trong huyền thoại sau này.
 

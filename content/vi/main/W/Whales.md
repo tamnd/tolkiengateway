@@ -32,7 +32,7 @@ Trong câu chuyện *[Roverandom](../R/Roverandom.md)* xuất hiện con cá voi
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Cá voi là loài động vật được bao gồm trong Thủy thú. Các chủng tộc bao gồm cá voi lưng gù, cá voi sát thủ và Cherethrynd. Một sinh vật có liên quan là Cá voi quỷ Forochel, được bao gồm trong số các Quái vật nước.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
+<dl><dd>Whales are animals included among the Water Beasts. Races include humpback whales, killer whales, and the Cherethrynd. A related creature is the Demon whale of Forochel, which is included among the Water Monsters.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
 <span></span>
 

@@ -28,8 +28,8 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_Shibboleth_of_F%C3%ABanor&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_Shibboleth_of_F%C3%ABanor&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
@@ -40,40 +40,40 @@ images:
 </th></tr>
 <tr>
 <td>
-<ol><li><a href="The_Prologue.md" title="The Prologue">Lời mở đầu</a></li>
-<li><a href="The_Appendix_on_Languages.md" title="The Appendix on Languages">Phụ lục về ngôn ngữ</a></li>
-<li><a href="The_Family_Trees.md" title="The Family Trees">Phả hệ</a></li>
-<li><a href="The_Calendars.md" title="The Calendars">Các bộ lịch</a></li>
-<li><a href="The_History_of_the_Akallabêth.md" title="The History of the Akallabêth">Lịch sử Akallabêth</a></li>
+<ol><li><a href="The_Prologue.md" title="The Prologue">The Prologue</a></li>
+<li><a href="The_Appendix_on_Languages.md" title="The Appendix on Languages">The Appendix on Languages</a></li>
+<li><a href="The_Family_Trees.md" title="The Family Trees">The Family Trees</a></li>
+<li><a href="The_Calendars.md" title="The Calendars">The Calendars</a></li>
+<li><a href="The_History_of_the_Akallabêth.md" title="The History of the Akallabêth">The History of the Akallabêth</a></li>
 <li><a href="The_Tale_of_Years_of_the_Second_Age.md" title="The Tale of Years of the Second Age">The Tale of Years of the Second Age</a></li>
-<li><a href="The_Heirs_of_Elendil.md" title="The Heirs of Elendil">Những người thừa kế Elendil</a></li>
+<li><a href="The_Heirs_of_Elendil.md" title="The Heirs of Elendil">The Heirs of Elendil</a></li>
 <li><a href="The_Tale_of_Years_of_the_Third_Age.md" title="The Tale of Years of the Third Age">The Tale of Years of the Third Age</a></li>
-<li><a href="The_Making_of_Appendix_A.md" title="The Making of Appendix A">Quá trình biên soạn Appendix A</a></li>
+<li><a href="The_Making_of_Appendix_A.md" title="The Making of Appendix A">The Making of Appendix A</a></li>
 <li><a href="../O/Of_Dwarves_and_Men.md" title="Of Dwarves and Men">Of Dwarves and Men</a></li>
 <li><a class="mw-selflink selflink">The Shibboleth of Fëanor</a></li>
 <li><a href="The_Problem_of_Ros.md" title="The Problem of Ros">The Problem of <i>Ros</i></a></li>
-<li><a href="../L/Last_Writings.md" title="Last Writings">Những tác phẩm cuối đời</a></li>
+<li><a href="../L/Last_Writings.md" title="Last Writings">Last Writings</a></li>
 <li><a href="../D/Dangweth_Pengoloð.md" title="Dangweth Pengoloð">Dangweth Pengoloð</a></li>
-<li><a href="../O/Of_Lembas.md" title="Of Lembas">Về Lembas</a></li>
-<li><a href="The_New_Shadow.md" title="The New Shadow">Bóng Tối Mới</a></li>
+<li><a href="../O/Of_Lembas.md" title="Of Lembas">Of Lembas</a></li>
+<li><a href="The_New_Shadow.md" title="The New Shadow">The New Shadow</a></li>
 <li><a href="Tal-Elmar_(chapter).md" title="Tal-Elmar (chapter)">Tal-Elmar</a></li></ol>
 </td></tr></tbody></table>
 
 **The Shibboleth of Fëanor** là chương thứ mười một của *[The Peoples of Middle-earth](The_Peoples_of_Middle-earth.md)*. Nó chủ yếu liên quan đến bài luận tiêu đề của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), thảo luận về sự chuyển đổi từ *þ* (như trong 'thing' trong tiếng Anh) sang *s* trong phương ngữ nói '[Exilic](../N/Noldor.md)' của [Quenya](../Q/Quenya.md) và sự thay đổi âm vị này có mối liên hệ mật thiết như thế nào với hoàn cảnh lịch sử và chính trị. Tuy nhiên, bài viết này cũng bao gồm những 'chuyến tham quan' dài dòng về Tiên '[tên mẹ](../M/Mother-names.md)', nguồn gốc của [Gil-galad](../G/Gil-galad.md), sự di cư về phía tây của [Edain](../E/Edain.md) và tên của nhiều Noldor nổi bật. Ngoài ra, nội dung chính của bài luận còn có một tiếp tuyến thú vị về [Galadriel](../G/Galadriel.md).
 
-<h2><span id="The_case_of_the_Quenya_change_of_.C3.BE_.3E_s"></span><span class="mw-headline" id="The_case_of_the_Quenya_change_of_þ_&gt;_s">Trường hợp Quenya thay đổi þ &gt; s</span></h2>
+<h2><span id="The_case_of_the_Quenya_change_of_.C3.BE_.3E_s"></span><span class="mw-headline" id="The_case_of_the_Quenya_change_of_þ_&gt;_s">The case of the Quenya change of þ &gt; s</span></h2>
 
 Cơ sở của bài tiểu luận là cách sử dụng *s*'bất thường': Tolkien lý do rằng vì trong [Sindarin](../S/Sindarin.md)—tiếng bản địa của Noldor sau khi họ bị lưu đày—*þ* là phổ biến, nên sự thay đổi *þ &gt; s* hẳn đã trở nên phổ biến trước khi Noldor rời đi [Valinor](../V/Valinor.md). Và trên cơ sở sự hiện diện của *þ* trong [Vanyarin](../V/Vanyarin.md) và [Telerin](Telerin.md), cũng như việc lưu giữ nó trong văn bản Exilic Quenya thì Noldor phải nhận biết được và có khả năng tạo ra âm thanh. Do đó, ông kết luận rằng sự thay đổi *þ &gt; s* là "có ý thức và có chủ ý" và sau sự ra đời của [Míriel](../M/Míriel.md) nhưng trước sự ra đời của [Fëanor](../F/Fëanor.md).
 
-Sau khi xác định chính xác nguồn gốc của sự thay đổi, Tolkien tiếp tục thảo luận về việc phần lớn Noldor áp dụng nó và bối cảnh lịch sử mà điều này xảy ra. Ông giải thích, ban đầu, sự thay đổi này đã bị chỉ trích bởi các nhà truyền thuyết "những người đã chỉ ra rằng tác hại mà sự hợp nhất này sẽ gây ra là gây nhầm lẫn cho các thân cây và các dẫn xuất khác biệt về âm thanh và ý nghĩa của chúng vẫn chưa được xem xét đầy đủ". Đứng đầu trong số những 'kẻ phản động' này là Fëanor, người ngoài lý do học thuật còn phản đối *þ &gt; s* vì anh đã gắn bó với âm thanh *þ* do nó hiện diện trong [tên mẹ](../M/Mother-name.md) của mẹ anh là Míriel, *[Þerindë](../_/Þerindë.md)* ("Người phụ nữ kim tiêm"). Sau cái chết tự nguyện của Míriel và sự thù địch giữa Fëanor và những đứa con của [Finwë](../F/Finwë.md) bởi [Indis](../I/Indis.md), cuộc tranh luận mang tính học thuật trước đây đã trở thành chính trị hóa. Việc Fëanor và những người đi theo ông sử dụng *þ* đã trở nên cố thủ và ông thấy việc Noldor ngày càng áp dụng *s*, và đặc biệt là bây giờ bởi chính Finwë và Indis, như một sự xúc phạm có chủ ý đối với mẹ ông và một âm mưu của [Valar](../V/Valar.md) nhằm làm suy yếu ảnh hưởng của ông đối với Noldor. Bằng cách này, Fëanor đã biến *þ &gt; s* trở thành một <a class="extiw" href="http://en.wikipedia.org/wiki/shibboleth" title="wikipedia:shibboleth">shibboleth</a>chính trị; ông tự phong cho mình là 'Con trai của *Þerindë'* và nói với các con mình:
+Sau khi xác định chính xác nguồn gốc của sự thay đổi, Tolkien tiếp tục thảo luận về việc phần lớn Noldor áp dụng nó và bối cảnh lịch sử mà điều này xảy ra. Ông giải thích, ban đầu, sự thay đổi này đã bị chỉ trích bởi các nhà truyền thuyết "những người đã chỉ ra rằng tác hại mà sự hợp nhất này sẽ gây ra là gây nhầm lẫn cho các thân cây và các dẫn xuất khác biệt về âm thanh và ý nghĩa của chúng vẫn chưa được xem xét đầy đủ". Đứng đầu trong số những 'kẻ phản động' này là Fëanor, người ngoài lý do học thuật còn phản đối *þ &gt; s* vì anh đã gắn bó với âm thanh *þ* do nó hiện diện trong [tên mẹ](../M/Mother-name.md) của mẹ anh là Míriel, *[Þerindë](../_/Þerindë.md)* ("Người phụ nữ kim tiêm"). Sau cái chết tự nguyện của Míriel và sự thù địch giữa Fëanor và những đứa con của [Finwë](../F/Finwë.md) bởi [Indis](../I/Indis.md), cuộc tranh luận mang tính học thuật trước đây đã trở thành chính trị hóa. Việc Fëanor và những người đi theo ông ta sử dụng *þ* đã trở nên cố thủ và ông ta thấy việc Noldor ngày càng áp dụng *s*, và đặc biệt là bây giờ bởi chính Finwë và Indis, như một sự xúc phạm có chủ ý đối với mẹ ông ta và một âm mưu của [Valar](../V/Valar.md) nhằm làm suy yếu ảnh hưởng của ông ta đối với Noldor. Bằng cách này, Fëanor đã biến *þ &gt; s* trở thành một <a class="extiw" href="http://en.wikipedia.org/wiki/shibboleth" title="wikipedia:shibboleth">shibboleth</a>chính trị; ông tự phong cho mình là 'Con trai của *Þerindë'* và nói với các con mình:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Chúng ta nói như lẽ phải, và như chính Vua Finwë đã làm trước khi bị lạc lối. Chúng tôi là những người thừa kế chính thức của ông và là người lớn tuổi. Hãy để họ <i>sá-sí</i>, nếu họ không thể nói tốt hơn.
+<p>We speak as is right, and as King Finwë himself did before he was led astray. We are his heirs by right and the elder house. Let them <i>sá-sí</i>, if they can speak no better.
 </p>
 <p class="tg-quote-footer"><cite>Fëanor<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote>
 
-Cuối cùng, [Finarfin](../F/Finarfin.md) và ngôi nhà của ông được thảo luận như những trường hợp ngoại lệ đối với phần này. Họ sử dụng *Þ*, không phải vì lý lẽ của Fëanor, mà vì sự yêu thích và mối quan hệ họ hàng với Vanyar và Teleri, những người có phương ngữ vẫn giữ nguyên nó. Tuy nhiên, cuối cùng, con gái của Finarfin [Galadriel](../G/Galadriel.md), vì cực kỳ không thích Fëanor và việc sử dụng nó gần như phổ biến trong Noldor của [Beleriand](../B/Beleriand.md), đã ủng hộ *s* (ví dụ: trong [lời than thở](../N/Namárië.md) của bà).
+Cuối cùng, [Finarfin](../F/Finarfin.md) và ngôi nhà của ông ta được thảo luận như những trường hợp ngoại lệ đối với phần này. Họ sử dụng *Þ*, không phải vì lý lẽ của Fëanor, mà vì sự yêu thích và mối quan hệ họ hàng với Vanyar và Teleri, những người có phương ngữ vẫn giữ nguyên nó. Tuy nhiên, cuối cùng, con gái của Finarfin [Galadriel](../G/Galadriel.md), vì cực kỳ không thích Fëanor và việc sử dụng nó gần như phổ biến trong Noldor của [Beleriand](../B/Beleriand.md), đã ủng hộ *s* (ví dụ: trong [lời than thở](../N/Namárië.md) của bà).
 
 ## Giới thiệu về văn bản {#About_the_text}
 

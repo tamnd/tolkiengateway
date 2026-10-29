@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Mythcon_48"
 content_sha256: 3e4a88bce6ae1b6fb85e9e6d6a2fe2f8f71b568379f53279ed457800b987411d
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Hội nghị Hội thần thoại năm 2017"
+short_description: "2017 Mythopoeic Society conference"
 categories:
   - "Mythcon"
 hidden_categories:
@@ -26,7 +26,7 @@ infobox:
     value: "Mythcon 49"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 48</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Champaign-Urbana, Illinois</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Hội Mythopoeic</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">28 July - 31 July <a href="../_/2017.md" title="2017">2017</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Mythcon_47.md" title="Mythcon 47">Mythcon 47</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Mythcon_49.md" title="Mythcon 49">Mythcon 49</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mythcon 48</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Champaign-Urbana, Illinois</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data">28 July - 31 July <a href="../_/2017.md" title="2017">2017</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="Mythcon_47.md" title="Mythcon 47">Mythcon 47</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="Mythcon_49.md" title="Mythcon 49">Mythcon 49</a></td></tr></tbody></table>
 
 **Mythcon 48** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 48.
 

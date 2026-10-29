@@ -25,7 +25,7 @@ Vào [20 tháng 4](../_/20_April.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Thưa ông Higgins<br/><br/>Tôi rất thông cảm với dự án của ông, nhưng tôi sợ rằng tôi không thể nhận lời mời tham gia bồi thẩm đoàn của ông.<br/><br/>Cho đến nay, chưa phải là “tám mươi mốt nhưng không vội”, sự mâu thuẫn giữa nỗ lực tuyệt vọng của tôi để tiếp tục viết với áp lực công việc, cùng với những tai họa và đau buồn trong cuộc sống riêng tư đã đưa tôi đến bờ vực suy sụp. Kể từ tháng Giêng, tôi đã được chăm sóc y tế, với những yêu cầu nghiêm ngặt về chế độ ăn kiêng và giờ làm việc - mà tôi phải giới hạn vào một mục tiêu: cố gắng hoàn thành ít nhất một phần công việc còn dang dở của mình trong khi tôi còn sức khỏe và năng lượng.<br/><br/>Xin tha thứ cho sự chậm trễ trong câu trả lời này. Tôi đã đi xa Oxford và sẽ quay lại vào tuần sau.<br/><br/>Trân trọng<br/>J.R.R. Tolkien
+<p>Dear Mr. Higgins<br/><br/>I do look sympathetically on your project, but I am afraid that it is not possible for me to accept your invitation to join the jury.<br/><br/>So far from being “eighty one but not in a hurry”, the conflict of my desperate efforts to continue writing with the pressure of my affairs, and with the disasters and grief of my private life, brought me to the edge of a breakdown. Since January I have been under medical care, with strict orders as to diet, and hours of work — which I have to confine to one object: the attempt to complete at least a part of my unfinished works while I have the health and energy left.<br/><br/>Forgive the delay in this reply. I have been away from Oxford, to which I return next week.<br/><br/>Yours sincerely<br/>J.R.R. Tolkien
 </p>
 </blockquote>
 

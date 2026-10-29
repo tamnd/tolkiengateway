@@ -24,7 +24,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>họ Hobbit</b>. Đối với <a class="mw-redirect" href="../H/Horse.md" title="Horse">ngựa</a>, xem <b><a href="Lightfoot.md" title="Lightfoot">Chân nhẹ</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the Hobbit surname</b>. For the <a class="mw-redirect" href="../H/Horse.md" title="Horse">horse</a>, see <b><a href="Lightfoot.md" title="Lightfoot">Lightfoot</a></b>.</div></div>
 
 Gia đình **Lightfoot** là một gia đình [Hobbit](../H/Hobbits.md). [Nina Lightfoot](../N/Nina_Lightfoot.md) kết hôn với [Theobald Bolger](../T/Theobald_Bolger.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><span></span>
 

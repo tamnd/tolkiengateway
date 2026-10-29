@@ -15,7 +15,7 @@ categories:
 
 Vào [2 tháng 7](../_/2_July.md) [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md)** cho **Patricia Henderson**.
 
-- **Chủ đề:** Tolkien từ chối lời mời đến nói chuyện tại Cambridge với "*greatest regret*" vì ông là "*absolutely loaded up with work*". Ông nói rằng ông có "*wasted \[his\] time for years*", bỏ qua "*long long overdue philological stuff*".
+- **Chủ đề:** Tolkien từ chối lời mời đến nói chuyện tại Cambridge với "*greatest regret*" vì ông là "*absolutely loaded up with work*". Ông ta nói rằng ông ta có "*wasted \[his\] time for years*", bỏ qua "*long long overdue philological stuff*".
 - **Xuất bản:** Không có.
 
 ## Liên kết ngoài {#External_links}

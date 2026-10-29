@@ -30,7 +30,7 @@ images:
   - "Nachrichten_aus_Mittelerde.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/Nachrichten_aus_Mittelerde.jpg.md"><img src="https://tolkiengateway.net/w/images/1/11/Nachrichten_aus_Mittelerde.jpg" decoding="async" loading="lazy" width="224" height="350" class="mw-file-element" data-file-width="224" data-file-height="350"/></a><figcaption>Bìa bản dịch tiếng Đức của tác phẩm <i>Unfinished Tales of Númenor and Middle-earth</i> của Hans J. Schütz.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/Nachrichten_aus_Mittelerde.jpg.md"><img src="https://tolkiengateway.net/w/images/1/11/Nachrichten_aus_Mittelerde.jpg" decoding="async" loading="lazy" width="224" height="350" class="mw-file-element" data-file-width="224" data-file-height="350"/></a><figcaption>Cover of Hans J. Schütz’s German translation of <i>Unfinished Tales of Númenor and Middle-earth</i>.</figcaption></figure>
 
 **Hans Jürgen Schütz** ([4 tháng Chín](../_/4_September.md) [1936](../_/1936.md)- [10 tháng 7](../_/10_July.md) [2004](../_/2004.md)) là một tác giả, nhà báo và dịch giả tự do người Đức.
 

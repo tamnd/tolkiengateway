@@ -42,13 +42,13 @@ infobox:
     value: "Real-time strategy"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_Rise_to_War&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_Rise_to_War&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_Rise_to_War.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/75/The_Lord_of_the_Rings_-_Rise_to_War.png/320px-The_Lord_of_the_Rings_-_Rise_to_War.png" decoding="async" loading="lazy" width="320" height="112" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/75/The_Lord_of_the_Rings_-_Rise_to_War.png/480px-The_Lord_of_the_Rings_-_Rise_to_War.png 1.5x, https://tolkiengateway.net/w/images/7/75/The_Lord_of_the_Rings_-_Rise_to_War.png 2x" data-file-width="605" data-file-height="211"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi điện tử</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: Rise to War</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà phát triển</th><td class="tg-infobox-data"><a class="mw-redirect" href="../W/Warner_Bros._Interactive_Entertainment.md" title="Warner Bros. Interactive Entertainment">Warner Bros. Interactive Entertainment</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">NetEase, Inc</td></tr><tr><th scope="row" class="tg-infobox-label">Nền tảng</th><td class="tg-infobox-data">Microsoft Windows, Mobiles</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data"><a href="../_/23_September.md" title="23 September">23 September</a>, <a href="../_/2021.md" title="2021">2021</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Chiến thuật thời gian thực</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_Rise_to_War.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/75/The_Lord_of_the_Rings_-_Rise_to_War.png/320px-The_Lord_of_the_Rings_-_Rise_to_War.png" decoding="async" loading="lazy" width="320" height="112" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/75/The_Lord_of_the_Rings_-_Rise_to_War.png/480px-The_Lord_of_the_Rings_-_Rise_to_War.png 1.5x, https://tolkiengateway.net/w/images/7/75/The_Lord_of_the_Rings_-_Rise_to_War.png 2x" data-file-width="605" data-file-height="211"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: Rise to War</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a class="mw-redirect" href="../W/Warner_Bros._Interactive_Entertainment.md" title="Warner Bros. Interactive Entertainment">Warner Bros. Interactive Entertainment</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">NetEase, Inc</td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Microsoft Windows, Mobiles</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/23_September.md" title="23 September">23 September</a>, <a href="../_/2021.md" title="2021">2021</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Real-time strategy</td></tr></tbody></table>
 
 <i><b>The Lord of the Rings: Rise to War</b></i> là một trò chơi điện tử trên thiết bị di động, được sản xuất bởi [Warner Bros.](../W/Warner_Bros._Interactive_Entertainment.md) và NetEase, Inc. Trò chơi được phát hành trực tuyến vào [23 tháng Chín](../_/23_September.md), [2021](../_/2021.md).
 
@@ -69,7 +69,7 @@ Trò chơi cũng bao gồm nhạc của [Howard Shore](../H/Howard_Shore.md) t�
 
 <table style="margin: 0 auto; width: 100%;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Trò chơi điện tử được cấp phép lấy bối cảnh ở <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed video games set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </th></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="center"> <a href="../M/Melbourne_House.md" title="Melbourne House">Melbourne House</a>:
@@ -102,7 +102,7 @@ Trò chơi cũng bao gồm nhạc của [Howard Shore](../H/Howard_Shore.md) t�
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>) · <i><b><a href="The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">War in the North</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>) · <i><b><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>-<a href="../_/2018.md" title="2018">2018</a>) · <i><b><a href="The_Hobbit%253A_Kingdoms_of_Middle-earth.md" title="The Hobbit: Kingdoms of Middle-earth">Kingdoms of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>)· <i><b><a href="The_Hobbit%253A_Armies_of_The_Third_Age.md" title="The Hobbit: Armies of The Third Age">Armies of The Third Age</a></b></i> (<a href="../_/2013.md" title="2013">2013</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Shadow of Mordor</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Shadow of War</a></b></i> (<a href="../_/2017.md" title="2017">2017</a>) · <i><b><a class="mw-selflink selflink">Rise to War</a></b></i> (<a href="../_/2021.md" title="2021">2021</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center">Glu Games:
+<th style="background:var(--tg-color-surface-3);" align="center"> Glu Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Middle-Earth_Defense.md" title="The Lord of the Rings: Middle-Earth Defense">Middle-Earth Defense</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>)
 </td></tr>
@@ -112,7 +112,7 @@ Trò chơi cũng bao gồm nhạc của [Howard Shore](../H/Howard_Shore.md) t�
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: The Video Game</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) · <i><b><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center">Twin Sails Interactive:
+<th style="background:var(--tg-color-surface-3);" align="center"> Twin Sails Interactive:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">The Lord of the Rings: Adventure Card Game</a></b></i> (<a href="../_/2018.md" title="2018">2018</a>)
 </td></tr>
@@ -122,7 +122,7 @@ Trò chơi cũng bao gồm nhạc của [Howard Shore](../H/Howard_Shore.md) t�
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center">North Beach Games:
+<th style="background:var(--tg-color-surface-3);" align="center"> North Beach Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Return to Moria</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr></tbody></table>

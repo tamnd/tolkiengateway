@@ -27,7 +27,7 @@ Vào [30 tháng 4](../_/30_April.md) [1954](../_/1954.md), [J.R.R. Tolkien](../J
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Unwin thân mến,<br/><br/>Bạn thật tử tế khi gửi cho tôi bản sao nhận xét của Richard Hughes. Nó đã giúp ích rất nhiều trong việc xoa dịu nỗi chán nản mà tôi đã rơi vào. 1953 và 54 đặc biệt không tốt với tôi khi tạo ra đủ loại trở ngại khiến tôi không thể dành sự quan tâm đúng mức đến <i>Lord of the Rings</i>.<br/><br/>Được Hughes xem xét là một vinh dự và lợi thế, và tôi hy vọng ông sẽ giải quyết được nó.<br/><br/>Với những lời chúc tốt đẹp nhất,<br/><br/>Trân trọng<br/><br/>Ronald Tolkien.
+<p>Dear Unwin,<br/><br/>It was most kind of you to send me a copy of Richard Hughes&#39; remarks. It has done much to lighten the despondency into which I have fallen. 1953 and 54 have been specially unkind to me in providing every kind of obstacle to my giving proper attention to the <i>Lord of the Rings</i>.<br/><br/>It should be an honour and advantage to be reviewed by Hughes, and I hope he will manage it.<br/><br/>With best wishes,<br/><br/>Yours sincerely<br/><br/>Ronald Tolkien.
 </p>
 </blockquote>
 

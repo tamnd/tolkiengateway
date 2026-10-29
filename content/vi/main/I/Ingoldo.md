@@ -19,7 +19,7 @@ Nếu [Sindar hóa](../S/Sindarized.md), tên sẽ là <i><b>Angoloð</b></i> (�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các văn bản trước đó, [Tolkien](../T/Tolkien.md) coi tên này là tên mẹ của [Fingolfin](../F/Fingolfin.md), nghĩa là ông có nguồn gốc từ cả họ hàng của *Ing*ar ([Vanyar](../V/Vanyar.md)) và N*oldo*r, trong khi tên mẹ của Finarfin là *Ingalaurë*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tolkien cũng được cân nhắc đổi *Fingolfin* thành <i><b>Ingolfin</b></i>, vì vậy đây sẽ là dạng Sindar hóa của tên mẹ ông, nhưng chẳng bao lâu sau, mọi quan niệm này đã bị loại bỏ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong các văn bản trước đó, [Tolkien](../T/Tolkien.md) coi tên này là tên mẹ của [Fingolfin](../F/Fingolfin.md), nghĩa là ông ta có nguồn gốc từ cả họ hàng của *Ing*ar ([Vanyar](../V/Vanyar.md)) và N*oldo*r, trong khi tên mẹ của Finarfin là *Ingalaurë*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tolkien cũng được cân nhắc đổi *Fingolfin* thành <i><b>Ingolfin</b></i>, vì vậy đây sẽ là dạng Sindar hóa của tên mẹ ông, nhưng chẳng bao lâu sau, mọi quan niệm này đã bị loại bỏ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

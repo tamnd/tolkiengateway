@@ -24,7 +24,7 @@ Vào [20 tháng 7](../_/20_July.md) [1962](../_/1962.md), [J.R.R. Tolkien](../J/
 ## Trích đoạn {#Excerpts}
 
 <blockquote class="tg-quote noexcerpt">
-<p>[Tolkien mong muốn] <i><a href="../H/Hobbits.md" title="Hobbits">hobbit</a></i> không được dịch (như một sự bảo vệ chống lại những tưởng tượng riêng tư của người dịch ... ). Trong ngôn ngữ Latinh <i>hobbits</i> trông thật khủng khiếp, và nếu tôi được tư vấn trước đó thì tôi đã sẵn sàng đồng ý với một số hình thức nhập tịch, ví dụ: <i>hobitos</i>, kết hợp tốt hơn với <i>elfos</i> được sử dụng từ lâu, đồng thời may mắn có được hậu tố nhỏ bé Sp[anish] bình thường và gốc <i>hob-</i>, theo như tôi biết thì không có mối liên hệ nào trong tiếng Tây Ban Nha.
+<p>[Tolkien wishes] <i><a href="../H/Hobbits.md" title="Hobbits">hobbit</a></i> to remain untranslated (as a protection against the private fancies of translators ... ). In a Latin language <i>hobbits</i> looks dreadful, and if I had been earlier consulted I would have readily agreed to some naturalization of the form, e.g. <i>hobitos</i>, which consorts better with the long-adopted <i>elfos</i>, while having the good fortune to contain the normal Sp[anish] diminutive suffix, and a stem <i>hob-</i>, which as far as I know has no associations in Spanish.
 </p>
 <p class="tg-quote-footer"><cite><sup id="cite_ref-G_1-2" class="reference"><a href="#cite_note-G-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
 </blockquote>

@@ -22,13 +22,13 @@ images:
 
 **Enderi** (Số ít *enderë)* là 'ngày giữa' chung cho lịch [Tiên](Elves.md) và [Númenórean](../N/Númenórean.md) và được tính ngoài tháng.
 
-Trong [Lịch Rivendell](../R/Reckoning_of_Rivendell.md), ba *enderi* được đặt giữa các mùa của [Yávië](../Y/Yávië.md) và [Quellë](../Q/Quellë.md). Cứ mỗi năm thứ mười hai (trừ năm thứ 432), những *enderi* này lại tăng gấp đôi lên sáu.<sup id="cite_ref-D_1-0" class="reference"><a href="#cite_note-D-1">[1]</a></sup> Hệ thống lịch này khiến cho [yén](../Y/Yén.md) (144 năm của chúng ta) có thêm hơn một ngày. Để khắc phục điều này, việc nhân đôi *Enderi* đã bị bỏ qua, thêm 3 ngày thay vì sáu ngày sau 3 yén.<sup id="cite_ref-D_1-1" class="reference"><a href="#cite_note-D-1">[1]</a></sup>
+Trong [Tính toán của Rivendell](../R/Reckoning_of_Rivendell.md), ba *enderi* được đặt giữa các mùa của [Yávië](../Y/Yávië.md) và [Quellë](../Q/Quellë.md). Cứ mỗi năm thứ mười hai (trừ năm thứ 432), những *enderi* này lại tăng gấp đôi lên sáu.<sup id="cite_ref-D_1-0" class="reference"><a href="#cite_note-D-1">[1]</a></sup> Hệ thống lịch này khiến cho [yén](../Y/Yén.md) (144 năm của chúng ta) có thêm hơn một ngày. Để khắc phục điều này, việc nhân đôi *Enderi* đã bị bỏ qua, thêm 3 ngày thay vì sáu ngày sau 3 yén.<sup id="cite_ref-D_1-1" class="reference"><a href="#cite_note-D-1">[1]</a></sup>
 
-Trong [Sự Lịch Tính của các Vua](../K/Kings'_Reckoning.md) và [Sự tính toán của người quản lý](../S/Stewards'_Reckoning.md), chỉ có một *enderë*; ngày [giữa năm](../M/Mid-year's_Day.md) giữa *[astar](../A/Astar.md)* của [Nárië](../N/Nárië.md) và [Cermië](../C/Cermië.md) được gọi là *[loëndë](../L/Loëndë.md)*. Trong những năm nhuận (chia hết cho 4 nhưng không chia hết cho 100), nó được thay thế bằng hai *enderi*;<sup id="cite_ref-D_1-2" class="reference"><a href="#cite_note-D-1">[1]</a></sup> trong những năm chia hết cho 1000 loëndë được thay thế bằng ba *enderi*<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>.
+Trong [Sự tính toán của các vị vua](../K/Kings'_Reckoning.md) và [Sự tính toán của người quản lý](../S/Stewards'_Reckoning.md), chỉ có một *enderë*; ngày [giữa năm](../M/Mid-year's_Day.md) giữa *[astar](../A/Astar.md)* của [Nárië](../N/Nárië.md) và [Cermië](../C/Cermië.md) được gọi là *[loëndë](../L/Loëndë.md)*. Trong những năm nhuận (chia hết cho 4 nhưng không chia hết cho 100), nó được thay thế bằng hai *enderi*;<sup id="cite_ref-D_1-2" class="reference"><a href="#cite_note-D-1">[1]</a></sup> trong những năm chia hết cho 1000 loëndë được thay thế bằng ba *enderi*<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>.
 
 Trong [Tính toán mới](../N/New_Reckoning.md) mỗi năm có ba *enderi*, giữa [Yavannie](../Y/Yavannie.md) và [Narquelie](../N/Narquelie.md); phần giữa của ba phần được gọi là *loëndë*.<sup id="cite_ref-D_1-3" class="reference"><a href="#cite_note-D-1">[1]</a></sup>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="../L/Lithedays.md" title="Lithedays">Ngày Lithe</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../L/Lithedays.md" title="Lithedays">Lithedays</a></div></div>
 
 <span></span>
 
@@ -41,20 +41,20 @@ Trong [Tính toán mới](../N/New_Reckoning.md) mỗi năm có ba *enderi*, gi�
 
 <table style="text-align:center; margin: 0 auto; font-size: 90%" class="mw-collapsible mw-collapsed toccolours" align="center" width="70%">
 <tbody><tr>
-<td align="center" colspan="10" style="background: var(--tg-color-surface-5);"><b><a class="mw-redirect" href="../C/Calendar_of_Imladris.md" title="Calendar of Imladris">Lịch Imladris</a></b>
+<td align="center" colspan="10" style="background: var(--tg-color-surface-5);"><b><a class="mw-redirect" href="../C/Calendar_of_Imladris.md" title="Calendar of Imladris">Calendar of Imladris</a></b>
 </td></tr>
 <tr>
-<th align="center" style="background: var(--tg-color-surface-3);">Ý nghĩa:
+<th align="center" style="background: var(--tg-color-surface-3);">Meaning:
 </th>
-<td>“Ngày đầu tiên”</td>
+<td>&#39;First Day&#39;</td>
 <td>&#39;Spring&#39;</td>
 <td>&#39;Summer&#39;</td>
 <td>&#39;Autumn&#39;</td>
-<td>“Những ngày giữa”</td>
+<td>&#39;Middle Days&#39;</td>
 <td>&#39;Fading&#39;</td>
 <td>&#39;Winter&#39;</td>
 <td>&#39;Stirring&#39;</td>
-<td>“Ngày cuối cùng”
+<td>&#39;Last Day&#39;
 </td></tr>
 <tr>
 <th align="center" style="background: var(--tg-color-surface-3);"><a href="../Q/Quenya.md" title="Quenya">Quenya</a>:

@@ -20,7 +20,7 @@ infobox:
     value: "Catalogue"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Michael Silverman Catalogue Nine</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">London: Michael Silverman</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Danh mục</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Michael Silverman Catalogue Nine</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">London: Michael Silverman</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Catalogue</td></tr></tbody></table>
 
 <i><b>Michael Silverman Catalog Nine</b></i> là danh mục của nhà sách. Danh mục bao gồm các đoạn trích và ảnh chụp bức thư [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi cô Perry (xem [Thư gửi cô Perry](../L/Letter_to_Miss_Perry.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

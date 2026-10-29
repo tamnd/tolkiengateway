@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/Pharaz"
 content_sha256: e95c65438215c26875ff9e5fa648e06465b42abc6441ce3bc8c41595b287192f
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Adûnaic từ"
+short_description: "Adûnaic word"
 categories:
   - "Adûnaic words"
 hidden_categories:

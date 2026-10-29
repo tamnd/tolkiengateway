@@ -29,13 +29,13 @@ infobox:
     value: "3:17"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_Last_Ballad_of_Damrod&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...Đó là một câu chuyện dài...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_Last_Ballad_of_Damrod&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...It is a long tale...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>The Last Ballad of Damrod (Feat. Jens Kidman)</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data">&#39;<b></b></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data">Bear McCreary and J.D. Payne</td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data">Jens Kidman</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">3:17</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/2zEAc2z7WvJnKT3i1Va4LQ"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>The Last Ballad of Damrod (Feat. Jens Kidman)</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data">&#39;<b></b></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a></td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data">Bear McCreary and J.D. Payne</td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data">Jens Kidman</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">3:17</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/2zEAc2z7WvJnKT3i1Va4LQ"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="youtube" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; autoplay" modestbranding="1" allowfullscreen="true" width="288" height="80" src="//www.youtube-nocookie.com/embed/xjwsf4aopks"></iframe></span>
 <p class="mw-empty-elt"></p>
@@ -43,44 +43,44 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**The Last Ballad of Damrod (Feat. Jens Kidman)** là một bài hát death metal do Bear McCreary sáng tác cho Damrod the troll trong [The Lord of the Rings: The Rings of Power](The_Lord_of_the_Rings%253A_The_Rings_of_Power.md). Nó có sự góp mặt của Jens Kidman về giọng hát. Theo Bear McCreary, ông đã chứng kiến ​​​​cách Damrod tàn bạo như thế nào với bạn bè cũng như kẻ thù và điều đó khiến âm thanh của death metal vang vào đầu ông. Lời bài hát dựa trên những câu thơ trong *[The Stone Troll](The_Stone_Troll.md)*, một bài thơ của [Samwise Gamgee](../S/Samwise_Gamgee.md).
+**The Last Ballad of Damrod (Feat. Jens Kidman)** là một bài hát death metal do Bear McCreary sáng tác cho Damrod the troll trong [The Lord of the Rings: The Rings of Power](The_Lord_of_the_Rings%253A_The_Rings_of_Power.md). Nó có sự góp mặt của Jens Kidman về giọng hát. Theo Bear McCreary, ông ta đã chứng kiến ​​​​cách Damrod tàn bạo như thế nào với bạn bè cũng như kẻ thù và điều đó khiến âm thanh của death metal vang vào đầu ông ta. Lời bài hát dựa trên những câu thơ trong *[The Stone Troll](The_Stone_Troll.md)*, một bài thơ của [Samwise Gamgee](../S/Samwise_Gamgee.md).
 
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Trong nấm mốc ẩm ướt, Troll ngồi một mình.<br/>
-Không có bạn bè hay người thân nào được gọi là của riêng mình.<br/>
-Troll gặm da;<br/>
-Ống chân và cẳng chân thô;<br/>
-Xé thịt từ xương rồng nồng nặc.<br/>
+<p>In humid mold, Troll sits alone.<br/>
+No friend or kin to call his own.<br/>
+Troll gnaws on skins;<br/>
+Raw shanks and shins;<br/>
+Rips meat from reeking dragon bone.<br/>
 <br/>
-Với tiếng cười sâu và tiếng rên rỉ khàn khàn,<br/>
-Ông đứng dậy từ chỗ ngồi bằng đá của mình.<br/>
-Từ hang tối,<br/>
-Khát máu,<br/>
-Hãy thả mình trên những ngọn đồi để dạo chơi.<br/>
+With laughter deep and throaty groan,<br/>
+He rises from his seat of stone.<br/>
+From darkened cave,<br/>
+A bloodlust crave,<br/>
+Set loose upon the hills to roam.<br/>
 <br/>
-(Điệp khúc)<br/>
-Snap đi xương! (Chụp! Chụp!)<br/>
-Crunch đi răng! (Rắc rắc! Rắc rắc!)<br/>
-Troll nứt gai (Crack! Crack!)<br/>
-Dưới chân hắn! (Rắc rắc! Rắc rắc!)<br/>
+(Chorus)<br/>
+Snap go the bones! (Snap! Snap!)<br/>
+Crunch go the teeth! (Crunch! Crunch!)<br/>
+Troll cracking spines (Crack! Crack!)<br/>
+Beneath his feet! (Crunch! Crunch!)<br/>
 <br/>
-Bây giờ còi chiến đã thổi,<br/>
-Từ trận chiến cuối cùng ông đã được thể hiện.<br/>
-Đến hang tối,<br/>
-Một ngôi mộ không máu,<br/>
-Anh ngồi với trái tim bằng đá cứng.<br/>
+Now the battle horn has blown,<br/>
+From final fight he has been shown.<br/>
+To darkened cave,<br/>
+A bloodless grave,<br/>
+He sits with heart, of hardened stone.<br/>
 <br/>
-Trong nấm mốc ẩm ướt, Troll ngồi một mình.<br/>
-Xé thịt bốc mùi xương rồng.<br/>
-Troll gặm da;<br/>
-Ống chân và cẳng chân thô;<br/>
-Không có bạn bè hay người thân nào được gọi là của riêng mình.<br/>
+In humid mold, Troll sits alone.<br/>
+Rips meat from reeking dragon bone.<br/>
+Troll gnaws on skins;<br/>
+Raw shanks and shins;<br/>
+No friend or kin to call his own.<br/>
 <br/>
-(Điệp khúc x2)<br/>
+(Chorus x2)<br/>
 <br/>
-Troll biến kẻ thù thành thịt.
+Troll turns foe flesh to meat.
 </p>
 </div>
 

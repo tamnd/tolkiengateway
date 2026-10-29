@@ -14,37 +14,37 @@ categories:
 ---
 
 <blockquote class="tg-quote noexcerpt">
-<p>Người ta cảm thấy như thể có một cái giếng khổng lồ đằng sau họ, chứa đầy ký ức hàng thế kỷ và những suy nghĩ lâu dài, chậm rãi, kiên định; nhưng bề mặt của chúng đang lấp lánh với hiện tại: giống như mặt trời lấp lánh trên những chiếc lá bên ngoài của một cái cây rộng lớn, hay những gợn sóng của một hồ nước rất sâu.
+<p>One felt as if there was an enormous well behind them, filled up with ages of memory and long, slow, steady thinking; but their surface was sparkling with the present: like sun shimmering on the outer leaves of a vast tree, or the ripples of a very deep lake.
 </p>
-<p class="tg-quote-footer"><cite><a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> mô tả đôi mắt của <a href="Treebeard.md" title="Treebeard">Fangorn</a>, "<a href="Treebeard_(chapter).md" title="Treebeard (chapter)">Treebeard</a>"</cite></p>
+<p class="tg-quote-footer"><cite><a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> describing <a href="Treebeard.md" title="Treebeard">Fangorn</a>&#39;s eyes, &#34;<a href="Treebeard_(chapter).md" title="Treebeard (chapter)">Treebeard</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Đồi. Vâng, chính là nó. Nhưng đó là một từ vội vàng cho một thứ đã tồn tại ở đây kể từ khi phần này của thế giới được hình thành.
+<p>Hill. Yes, that was it. But it is a hasty word for a thing that has stood here ever since this part of the world was shaped.
 </p>
-<p class="tg-quote-footer"><cite><a href="Treebeard.md" title="Treebeard">Treebeard</a>, "<a href="Treebeard_(chapter).md" title="Treebeard (chapter)">Treebeard (chương)</a>"</cite></p>
+<p class="tg-quote-footer"><cite><a href="Treebeard.md" title="Treebeard">Treebeard</a>, &#34;<a href="Treebeard_(chapter).md" title="Treebeard (chapter)">Treebeard (chapter)</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Ngủ! Tôi cảm thấy cần nó, điều mà tôi chưa bao giờ nghĩ rằng bất kỳ người lùn nào cũng có thể làm được, cưỡi ngựa là một công việc mệt mỏi. Tuy nhiên, chiếc rìu của tôi đang bồn chồn trong tay tôi. Hãy cho tôi một hàng cổ orc và không gian để đu đưa và mọi mệt mỏi sẽ biến mất khỏi tôi!
+<p>Sleep! I feel the need of it, as never I thought any dwarf could, riding is tiring work. Yet my axe is restless in my hand. Give me a row of orc-necks and room to swing and all weariness will fall from me!
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gimli.md" title="Gimli">Gimli</a>, &#34;<a href="../H/Helm&#39;s_Deep_(chapter).md" title="Helm&#39;s Deep (chapter)">Helm&#39;s Deep</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Một nơi vững chắc và tuyệt vời Isengard, và nó đã đẹp từ lâu; và ở đó đã từng có những lãnh chúa vĩ đại, những người bảo vệ Gondor trên Phương Tây, và những nhà thông thái đã quan sát các vì sao. Nhưng Saruman đã dần dần định hình nó theo mục đích thay đổi của mình và làm cho nó tốt hơn, như anh nghĩ, bị lừa - vì tất cả những nghệ thuật và thủ thuật tinh vi mà anh đã từ bỏ trí tuệ trước đây của mình và những thứ mà anh trìu mến tưởng tượng là của riêng mình, đều đến từ Mordor; nên những gì ông tạo ra chẳng là gì cả, chỉ là một bản sao nhỏ, mô hình của một đứa trẻ hay lời nịnh nọt của nô lệ, của pháo đài rộng lớn, nhà tù chứa đầy kho vũ khí, lò nung quyền lực to lớn, Barad-dûr, Tòa Tháp Bóng Tối, không có đối thủ, và cười nhạo những lời xu nịnh, chờ đợi thời cơ, an toàn với niềm kiêu hãnh và sức mạnh vô biên của nó.
+<p>A strong place and wonderful was Isengard, and long it had been beautiful; and there great lords had dwelt, the wardens of Gondor upon the West, and wise men that watched the stars. But Saruman had slowly shaped it to his shifting purposes, and made it better, as he thought, being deceived - for all those arts and subtle devices for which he forsook his former wisdom, and which fondly he imagined were his own, came but from Mordor; so that what he made was naught, only a little copy, a child&#39;s model or a slave&#39;s flattery, of that vast fortress, armoury prison, furnace of great power, Barad-dûr, The Dark Tower, which suffered no rival, and laughed at flattery, biding its time, secure in its pride and its immeasurable strength.
 </p>
 <p class="tg-quote-footer"><cite>&#34;<a href="The_Road_to_Isengard.md" title="The Road to Isengard">The Road to Isengard</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>'Không phải lối này, thưa chủ nhân!' anh cầu xin. 'Có một cách khác. Ồ vâng thực sự là có. Một cách khác, đen tối hơn, khó tìm hơn, bí mật hơn. Nhưng Smeagol biết điều đó. Hãy để Smeagol cho bạn thấy!'
+<p>&#39;Not this way, master!&#39; he pleaded. &#39;There is another way. O yes indeed there is. Another way, darker, more difficult to find, more secret. But Smeagol knows it. Let Smeagol show you!&#39;
 </p>
-<p class="tg-quote-footer"><cite><a href="../G/Gollum.md" title="Gollum">Gollum</a>, "<a href="The_Black_Gate_is_Closed.md" title="The Black Gate is Closed"> Cổng Đen đã đóng</a>"</cite></p>
+<p class="tg-quote-footer"><cite><a href="../G/Gollum.md" title="Gollum">Gollum</a>, &#34;<a href="The_Black_Gate_is_Closed.md" title="The Black Gate is Closed">The Black Gate is Closed</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Lời khen của người đáng khen là trên hết mọi phần thưởng.
+<p>The praise of the praiseworthy is above all rewards.
 </p>
 <p class="tg-quote-footer"><cite><a href="../F/Faramir.md" title="Faramir">Faramir</a>, &#34;<a href="The_Window_on_the_West.md" title="The Window on the West">The Window on the West</a>&#34;</cite></p>
 </blockquote>

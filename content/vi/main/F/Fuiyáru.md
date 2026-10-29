@@ -23,7 +23,7 @@ infobox:
     value: "Courts of Mandos"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Thực vật</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Fuiyáru</span></th></tr><tr><th scope="row" class="tg-infobox-label">Phát âm</th><td class="tg-infobox-data"><i>foo-i-<b><span style="font-variant:small-caps;">yaa</span></b>-roo</i></td></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">Fuior</td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../H/Halls_of_Mandos.md" title="Halls of Mandos">Courts of Mandos</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Plant</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Fuiyáru</span></th></tr><tr><th scope="row" class="tg-infobox-label">Pronunciation</th><td class="tg-infobox-data"><i>foo-i-<b><span style="font-variant:small-caps;">yaa</span></b>-roo</i></td></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Fuior</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../H/Halls_of_Mandos.md" title="Halls of Mandos">Courts of Mandos</a></td></tr></tbody></table>
 
 **Fuiyáru** là một bóng đêm chết chóc mọc lên xung quanh [các tòa án của Mandos](../H/Halls_of_Mandos.md) trong phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Người ta nói rằng nó đặc biệt phong phú trước cửa [Fui](../N/Nienna.md).<sup id="cite_ref-PE15_1-0" class="reference"><a href="#cite_note-PE15-1">[1]</a></sup>
 

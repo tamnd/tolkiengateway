@@ -20,18 +20,18 @@ categories:
 <p><b>Rokkvisa</b><br/>
 <br/>
 Ur þeli þrað að spinna<br/>
-tôi không thể làm gì hơn được<br/>
-ví dụ như tham gia vào kann finna<br/>
-tôi sẽ không làm gì cả.<br/>
-Ví dụ ngồi i hægu sæti<br/>
+mer þykir næsta indæl vinna<br/>
+eg enga iðn kann finna<br/>
+sem öllu betur skemti mer.<br/>
+Eg sit i hægu sæti<br/>
 og sveifla rokk með kvikum fæti,<br/>
-ví dụ như tôi öll af kæti<br/>
+eg iða öll af kæti<br/>
 <br/>
 er ullarlopinn teggjast fer,<br/>
-và kvæða kver,<br/>
-một skauti skikkju minnar<br/>
-tôi cũng vậy,<br/>
-þvi verð ví dụ bratt að sinna<br/>
+og kvæða kver,<br/>
+a skauti skikkju minnar<br/>
+æ opið er,<br/>
+þvi verð eg bratt að sinna<br/>
 rokkurinn meðan suðar ser,<br/>
 rokkurinn suðar ser.
 </p>

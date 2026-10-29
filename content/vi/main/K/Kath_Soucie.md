@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Kath_Soucie"
 content_sha256: 9cef55bdcd0d8a24d2e30bbd454ca29f4896af76490cebba3c44422b4af6cd37
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Nữ diễn viên lồng tiếng người Mỹ"
+short_description: "American voice actress"
 categories:
   - "Actors and actresses"
   - "American people"

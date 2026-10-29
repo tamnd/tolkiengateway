@@ -34,15 +34,15 @@ Một năm được chia thành mười hai tháng, ngoài tháng có ba ngày. 
 
 <table class="TGtable">
 <tbody><tr>
-<th>Số tháng
+<th>Month number
 </th>
 <th>Quenya
 </th>
 <th>Sindarin
 </th>
-<th>Chiều dài
+<th>Length
 </th>
-<th>Bản dịch tiếng Anh
+<th>English translation
 </th>
 <th>Relationship to the <a href="../S/Shire_Calendar.md" title="Shire Calendar">Shire Calendar</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 </th></tr>
@@ -51,7 +51,7 @@ Một năm được chia thành mười hai tháng, ngoài tháng có ba ngày. 
 <td><a href="../Y/Yestarë.md" title="Yestarë">Yestarë</a></td>
 <td></td>
 <td>1</td>
-<td>Ngày đầu tiên</td>
+<td>First day</td>
 <td><a href="../_/2_Yule.md" title="2 Yule">2 Yule</a>
 </td></tr>
 <tr>
@@ -59,7 +59,7 @@ Một năm được chia thành mười hai tháng, ngoài tháng có ba ngày. 
 <td><a href="../N/Narvinyë.md" title="Narvinyë">Narvinyë</a></td>
 <td><a href="../N/Narwain.md" title="Narwain">Narwain</a></td>
 <td>30</td>
-<td>Mặt trời mới</td>
+<td>New sun</td>
 <td><a href="../A/Afteryule.md" title="Afteryule">Afteryule</a>
 </td></tr>
 <tr>
@@ -75,7 +75,7 @@ Một năm được chia thành mười hai tháng, ngoài tháng có ba ngày. 
 <td><a href="../S/Súlimë.md" title="Súlimë">Súlimë</a></td>
 <td><a href="../G/Gwaeron.md" title="Gwaeron">Gwaeron</a></td>
 <td>30</td>
-<td>Tháng gió/tháng gió<sup id="cite_ref-Silm_sul_3-0" class="reference"><a href="#cite_note-Silm_sul-3">[2]</a></sup></td>
+<td>Windy / wind month<sup id="cite_ref-Silm_sul_3-0" class="reference"><a href="#cite_note-Silm_sul-3">[2]</a></sup></td>
 <td><a href="../R/Rethe.md" title="Rethe">Rethe</a>
 </td></tr>
 <tr>
@@ -83,7 +83,7 @@ Một năm được chia thành mười hai tháng, ngoài tháng có ba ngày. 
 <td><a href="../V/Víressë.md" title="Víressë">Víressë</a></td>
 <td><a class="mw-redirect" href="../G/Gwirith.md" title="Gwirith">Gwirith</a></td>
 <td>30</td>
-<td>Mới/trẻ/mới chớm nở?<sup id="cite_ref-salo_4-0" class="reference"><a href="#cite_note-salo-4">[3]</a></sup></td>
+<td>New / young / budding?<sup id="cite_ref-salo_4-0" class="reference"><a href="#cite_note-salo-4">[3]</a></sup></td>
 <td><a href="../A/Astron.md" title="Astron">Astron</a>
 </td></tr>
 <tr>
@@ -91,7 +91,7 @@ Một năm được chia thành mười hai tháng, ngoài tháng có ba ngày. 
 <td><a href="../L/Lótessë.md" title="Lótessë">Lótessë</a></td>
 <td><a href="../L/Lothron.md" title="Lothron">Lothron</a></td>
 <td>30</td>
-<td>Tháng hoa</td>
+<td>Flower month</td>
 <td><a href="../T/Thrimidge.md" title="Thrimidge">Thrimidge</a>
 </td></tr>
 <tr>
@@ -100,14 +100,14 @@ Một năm được chia thành mười hai tháng, ngoài tháng có ba ngày. 
 <td><a href="../N/Nórui.md" title="Nórui">Nórui</a></td>
 <td>31</td>
 <td>Sunny<sup id="cite_ref-salo_4-1" class="reference"><a href="#cite_note-salo-4">[3]</a></sup></td>
-<td>1 <a href="../F/Forelithe.md" title="Forelithe">Tiền tiên</a> đến <a href="../L/Lithedays.md" title="Lithedays">1 Lithe</a>
+<td>1 <a href="../F/Forelithe.md" title="Forelithe">Forelithe</a> through <a href="../L/Lithedays.md" title="Lithedays">1 Lithe</a>
 </td></tr>
 <tr>
 <td> </td>
 <td><a href="../L/Loëndë.md" title="Loëndë">Loëndë</a>/<a href="../E/Enderi.md" title="Enderi">Enderi</a></td>
 <td></td>
 <td>1/2</td>
-<td>Giữa năm<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> (Ngày giữa năm)</td>
+<td>Year-middle<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> (Middle days)</td>
 <td><a href="../M/Mid-year&#39;s_Day.md" title="Mid-year&#39;s Day">Mid-year&#39;s Day</a>/<a href="../O/Overlithe.md" title="Overlithe">Overlithe</a>
 </td></tr>
 <tr>
@@ -116,7 +116,7 @@ Một năm được chia thành mười hai tháng, ngoài tháng có ba ngày. 
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cerveth&amp;action=edit&amp;redlink=1" title="Cerveth (page does not exist)">Cerveth</a></td>
 <td>31</td>
 <td>Cutting?<sup id="cite_ref-allan_29_6-0" class="reference"><a href="#cite_note-allan_29-6">[5]</a></sup></td>
-<td><a href="../L/Lithedays.md" title="Lithedays">2 Lithe</a> đến 30 <a href="../A/Afterlithe.md" title="Afterlithe">Afterlithe</a>
+<td><a href="../L/Lithedays.md" title="Lithedays">2 Lithe</a> through 30 <a href="../A/Afterlithe.md" title="Afterlithe">Afterlithe</a>
 </td></tr>
 <tr>
 <td>8</td>
@@ -131,7 +131,7 @@ Một năm được chia thành mười hai tháng, ngoài tháng có ba ngày. 
 <td><a href="../Y/Yavannië.md" title="Yavannië">Yavannië</a></td>
 <td><a href="../I/Ivanneth.md" title="Ivanneth">Ivanneth</a></td>
 <td>30</td>
-<td>Tặng trái cây</td>
+<td>Fruit giving</td>
 <td><a href="../H/Halimath.md" title="Halimath">Halimath</a>
 </td></tr>
 <tr>
@@ -155,7 +155,7 @@ Một năm được chia thành mười hai tháng, ngoài tháng có ba ngày. 
 <td><a href="../R/Ringarë.md" title="Ringarë">Ringarë</a></td>
 <td><a href="../G/Girithron.md" title="Girithron">Girithron</a></td>
 <td>30</td>
-<td>Tháng lạnh/rùng mình</td>
+<td>Cold / shivering month</td>
 <td><a href="../F/Foreyule.md" title="Foreyule">Foreyule</a>
 </td></tr>
 <tr>
@@ -163,7 +163,7 @@ Một năm được chia thành mười hai tháng, ngoài tháng có ba ngày. 
 <td><a href="../M/Mettarë.md" title="Mettarë">Mettarë</a></td>
 <td></td>
 <td>1</td>
-<td>Ngày cuối cùng</td>
+<td>Last day</td>
 <td><a href="../_/1_Yule.md" title="1 Yule">1 Yule</a>
 </td></tr></tbody></table>
 
@@ -171,7 +171,7 @@ Trong những năm nhuận, [loëndë](../L/Loëndë.md) được thay thế b�
 
 ## Các ngày trong tuần {#Days_of_the_week}
 
-Khi Cuộc Lịch Tính của các Vua lần đầu tiên được triển khai, người Númenor đã sử dụng tuần [Tiên](../E/Elven.md) sáu ngày. Tại những điểm không xác định của [Kỷ Đệ Nhị](../S/Second_Age.md), hai thay đổi đã được thực hiện; việc đầu tiên là đổi tên ngày thứ tư Aldúya thành Aldëa (Orgaladh trong Sindarin) để thay đổi sự cống hiến cho <a class="mw-redirect mw-disambig" href="../W/White_Tree.md" title="White Tree">Cây Trắng</a>, và việc thứ hai là chèn thêm một ngày, Eärenya (Oraearon), sau ngày thứ năm Menelya.<sup id="cite_ref-D2_1-4" class="reference"><a href="#cite_note-D2-1">[1]</a></sup> Do đó, tuần Númenórean cuối cùng như sau:
+Khi Cuộc tính toán của các vị vua lần đầu tiên được triển khai, người Númenor đã sử dụng tuần [Tiên](../E/Elven.md) sáu ngày. Tại những điểm không xác định của [Kỷ Đệ Nhị](../S/Second_Age.md), hai thay đổi đã được thực hiện; việc đầu tiên là đổi tên ngày thứ tư Aldúya thành Aldëa (Orgaladh trong Sindarin) để thay đổi sự cống hiến cho <a class="mw-redirect mw-disambig" href="../W/White_Tree.md" title="White Tree">Cây Trắng</a>, và việc thứ hai là chèn thêm một ngày, Eärenya (Oraearon), sau ngày thứ năm Menelya.<sup id="cite_ref-D2_1-4" class="reference"><a href="#cite_note-D2-1">[1]</a></sup> Do đó, tuần Númenórean cuối cùng như sau:
 
 <table class="TGtable">
 <tbody><tr>
@@ -184,22 +184,22 @@ Khi Cuộc Lịch Tính của các Vua lần đầu tiên được triển khai,
 <tr>
 <td><a href="../E/Elenya.md" title="Elenya">Elenya</a></td>
 <td><a class="mw-redirect" href="../O/Orgilion.md" title="Orgilion">Orgilion</a></td>
-<td><a href="../S/Stars.md" title="Stars">Diễn viên chính</a>
+<td><a href="../S/Stars.md" title="Stars">Stars</a>
 </td></tr>
 <tr>
 <td><a href="../A/Anarya.md" title="Anarya">Anarya</a></td>
 <td><a class="mw-redirect" href="../O/Oranor.md" title="Oranor">Oranor</a></td>
-<td><a href="../S/Sun.md" title="Sun">Mặt Trời</a>
+<td><a href="../S/Sun.md" title="Sun">Sun</a>
 </td></tr>
 <tr>
 <td><a href="../I/Isilya.md" title="Isilya">Isilya</a></td>
 <td><a class="mw-redirect" href="../O/Orithil.md" title="Orithil">Orithil</a></td>
-<td><a href="../M/Moon.md" title="Moon">Mặt Trăng</a>
+<td><a href="../M/Moon.md" title="Moon">Moon</a>
 </td></tr>
 <tr>
 <td><a href="../A/Aldëa.md" title="Aldëa">Aldëa</a></td>
 <td><a class="mw-redirect" href="../O/Orgaladh.md" title="Orgaladh">Orgaladh</a></td>
-<td><a class="mw-redirect mw-disambig" href="../W/White_Tree.md" title="White Tree">Cây Trắng</a>
+<td><a class="mw-redirect mw-disambig" href="../W/White_Tree.md" title="White Tree">White Tree</a>
 </td></tr>
 <tr>
 <td><a href="../M/Menelya.md" title="Menelya">Menelya</a></td>
@@ -209,7 +209,7 @@ Khi Cuộc Lịch Tính của các Vua lần đầu tiên được triển khai,
 <tr>
 <td><a href="../E/Eärenya.md" title="Eärenya">Eärenya</a></td>
 <td><a class="mw-redirect" href="../O/Oraearon.md" title="Oraearon">Oraearon</a></td>
-<td><a class="mw-redirect" href="../S/Sea.md" title="Sea">Biển</a>
+<td><a class="mw-redirect" href="../S/Sea.md" title="Sea">Sea</a>
 </td></tr>
 <tr>
 <td><a href="../V/Valanya.md" title="Valanya">Valanya</a></td>
@@ -251,4 +251,4 @@ Theo [Jim Allan](../J/Jim_Allan.md) trong *[An Introduction to Elvish](../A/An_I
 
 ## Liên kết ngoài {#External_links}
 
-- Dự án <a class="external text" href="http://psarando.github.io/shire-reckoning" rel="noreferrer noopener" target="_blank">Lịch Shire</a>, dành riêng cho việc mô phỏng và phân tích chi tiết tất cả các lịch của *The Lord of the Rings* [Phụ lục D](../A/Appendix_D.md).
+- Dự án <a class="external text" href="http://psarando.github.io/shire-reckoning" rel="noreferrer noopener" target="_blank">Shire Tính toán</a>, dành riêng cho việc mô phỏng và phân tích chi tiết tất cả các lịch của *The Lord of the Rings* [Phụ lục D](../A/Appendix_D.md).

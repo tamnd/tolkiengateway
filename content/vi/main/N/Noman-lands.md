@@ -23,7 +23,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Noman-lands.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/97/The_Lord_of_the_Rings_Online_-_Noman-lands.jpg/250px-The_Lord_of_the_Rings_Online_-_Noman-lands.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/97/The_Lord_of_the_Rings_Online_-_Noman-lands.jpg/375px-The_Lord_of_the_Rings_Online_-_Noman-lands.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/97/The_Lord_of_the_Rings_Online_-_Noman-lands.jpg/500px-The_Lord_of_the_Rings_Online_-_Noman-lands.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Noman-lands in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Vùng đất của người Noman** là một vùng hoang tàn<sup id="cite_ref-UI_1-0" class="reference"><a href="#cite_note-UI-1">[1]</a></sup> về phía đông nam của [Đầm lầy Chết](../D/Dead_Marshes.md) và phía tây bắc của [Vùng Hoang Tàn Morannon](../D/Desolation_of_the_Morannon.md).<sup id="cite_ref-Marshes_2-0" class="reference"><a href="#cite_note-Marshes-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Vùng đất của người Noman** là một vùng hoang tàn<sup id="cite_ref-UI_1-0" class="reference"><a href="#cite_note-UI-1">[1]</a></sup> về phía đông nam của [Đầm lầy Chết](../D/Dead_Marshes.md) và phía tây bắc của [Sự hoang tàn của Morannon](../D/Desolation_of_the_Morannon.md).<sup id="cite_ref-Marshes_2-0" class="reference"><a href="#cite_note-Marshes-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Phía đông nam Đầm lầy Chết có những cánh đồng hoang khô cằn với than bùn chết và những bãi bùn khô nứt rộng, theo sau là những sườn dốc nông dài cằn cỗi và tàn nhẫn.<sup id="cite_ref-Marshes_2-1" class="reference"><a href="#cite_note-Marshes-2">[2]</a></sup>
 
@@ -45,9 +45,9 @@ Hammond và Scull cho rằng cái tên này bắt nguồn từ *no man's land*, 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Vùng đất Noman là một khu vực thuộc vùng "Waste", nằm ở phía đông <a href="../D/Dead_Marshes.md" title="Dead Marshes">Đầm lầy Chết</a> và phía tây <a href="../D/Dagorlad.md" title="Dagorlad">Dagorlad</a>.</dd></dl>
+<dl><dd>The Noman-lands is an area in &#34;the Wastes&#34; region, located east of the <a href="../D/Dead_Marshes.md" title="Dead Marshes">Dead Marshes</a> and west of <a href="../D/Dagorlad.md" title="Dagorlad">Dagorlad</a>.</dd></dl>
 
 ## Ghi chú {#Notes}
 

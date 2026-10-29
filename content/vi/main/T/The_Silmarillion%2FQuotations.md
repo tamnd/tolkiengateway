@@ -14,31 +14,31 @@ categories:
 ---
 
 <blockquote class="tg-quote noexcerpt">
-<p>...không có chủ đề nào có thể được chơi mà không có nguồn gốc sâu xa nhất trong tôi, cũng như không có bất kỳ chủ đề nào có thể thay đổi âm nhạc trong sự bất chấp của tôi. Vì người cố gắng làm điều này sẽ chứng tỏ mình là công cụ của tôi trong việc nghĩ ra những điều tuyệt vời hơn, điều mà bản thân ông cũng không thể tưởng tượng được.
+<p>...no theme may be played that hath not its uttermost source in me, nor can any alter the music in my despite. For he that attempteth this shall prove but mine instrument in the devising of things more wonderful, which he himself hath not imagined.
 </p>
 <p class="tg-quote-footer"><cite><a href="../I/Ilúvatar.md" title="Ilúvatar">Ilúvatar</a> in <i><a href="../A/Ainulindalë.md" title="Ainulindalë">Ainulindalë</a></i></cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>...vì nếu nguồn nước mọc lên dưới ánh mặt trời có niềm vui thì các nguồn của nó nằm trong những giếng đau buồn không thể dò được dưới nền móng của <a href="../A/Arda.md" title="Arda">Trái đất</a>.
+<p>...for if joyful is the fountain that rises in the sun, its springs are in the wells of sorrow unfathomed at the foundations of the <a href="../A/Arda.md" title="Arda">Earth</a>.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>, &#34;<a href="../O/Of_the_Beginning_of_Days.md" title="Of the Beginning of Days">Of the Beginning of Days</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Nhưng bình minh thì ngắn ngủi và ngày trọn vẹn thường trái ngược với lời hứa của nó.
+<p>But the dawn is brief and the day full often belies its promise.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>, &#34;<a href="../O/Of_Men.md" title="Of Men">Of Men</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>'...Như vậy, ngay cả khi Eru đã nói với chúng ta, vẻ đẹp chưa từng được hình thành trước đây sẽ được đưa vào Eä, và cái ác vẫn sẽ là điều tốt.' Nhưng Mandos nói: 'Nhưng vẫn ác độc...'
+<p>&#39;...Thus even as Eru spoke to us shall beauty not before conceived be brought into Eä, and evil yet be good to have been.&#39; But Mandos said: &#39;And yet remain evil...&#39;
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>, &#34;<a href="../O/Of_the_Sun_and_Moon_and_the_Hiding_of_Valinor.md" title="Of the Sun and Moon and the Hiding of Valinor">Of the Sun and Moon and the Hiding of Valinor</a>&#34;</cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Nếu nó đã chuyển từ nơi cao đẹp sang bóng tối và hoang tàn thì đó đã là số phận của <a href="../A/Arda.md" title="Arda">Arda</a> Marred; và nếu có bất kỳ thay đổi nào xảy ra và Marring được sửa đổi, <a href="../M/Manwë.md" title="Manwë">Manwë</a> và <a href="../V/Varda.md" title="Varda">Varda</a> có thể biết; nhưng họ đã không tiết lộ điều đó và nó cũng không được công bố trong ngày diệt vong của Mandos.
+<p>If it has passed from the high and the beautiful to darkness and ruin, that was of old the fate of <a href="../A/Arda.md" title="Arda">Arda</a> Marred; and if any change shall come and the Marring be amended, <a href="../M/Manwë.md" title="Manwë">Manwë</a> and <a href="../V/Varda.md" title="Varda">Varda</a> may know; but they have not revealed it, and it is not declared in the dooms of Mandos.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>, &#34;<a href="../O/Of_the_Voyage_of_Eärendil_and_the_War_of_Wrath.md" title="Of the Voyage of Eärendil and the War of Wrath">Of the Voyage of Eärendil and the War of Wrath</a>&#34;</cite></p>
 </blockquote>

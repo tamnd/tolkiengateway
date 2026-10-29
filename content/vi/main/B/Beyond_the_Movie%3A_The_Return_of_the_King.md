@@ -17,12 +17,12 @@ categories:
 ## Bìa sau {#Back_cover}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Người bạn đồng hành tối thượng của bom tấn Hollywood! Hãy tham gia National Geographic để có hành trình khám phá hấp dẫn về thế giới thực tương đồng với các sự kiện và nhân vật được đưa vào cuộc sống trong The Lord of the Rings: The Return of the King.
+<p>The Ultimate Companion to the Hollywood blockbuster! Join National Geographic for a compelling exploration of the real-world parallels to the events and characters brought to life in The Lord of the Rings: The Return of the King.
 </p>
-<ul><li>Khám phá di sản của những "anh hùng bất đắc dĩ" trong lịch sử và sự giống nhau đến kinh ngạc của họ với Aragorn.</li>
-<li>So sánh vai trò của những "cố vấn khôn ngoan" như Gandalf và tình bạn bền chặt như Frodo và Sam với những người bạn đồng cấp trong lịch sử của họ.</li>
-<li>Những thước phim ly kỳ minh họa cách các sự kiện thay đổi lịch sử được phản ánh trong câu chuyện về lòng dũng cảm và tình bạn thân thiết chiến thắng những khó khăn bất khả thi.</li></ul>
-<p>Những hiểu biết sâu sắc từ các nhà sử học hàng đầu, các chuyên gia lĩnh vực và các thành viên của nhóm làm phim khiến đây trở thành một phần bổ sung bắt buộc phải có cho mọi bộ sưu tập Chúa tể của những chiếc nhẫn!
+<ul><li>Discover the legacy of history&#39;s &#34;reluctant heroes&#34; and their striking resemblance to Aragorn.</li>
+<li>Compare the roles of &#34;wise counselors&#34; like Gandalf, and powerful friendships like that of Frodo and Sam, to their historic counterparts.</li>
+<li>Thrilling film footage illustrates how history-changing events are reflected in the film&#39;s story of courage and camaraderie triumphing over impossible odds.</li></ul>
+<p>Insights from leading historians, field experts and members of the filmmaking team make this a must-have addition to every Lord of the Rings collection!
 </p>
 </blockquote>
 

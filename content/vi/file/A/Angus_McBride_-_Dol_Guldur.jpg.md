@@ -32,7 +32,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-*Dol Guldur* của [Angus McBride](../../main/A/Angus_McBride.md), ảnh bìa cho David Woolpy, *[Dol Guldur](<../../main/D/Dol_Guldur_(book).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2014, 1995) .
+*Dol Guldur* của [Angus McBride](../../main/A/Angus_McBride.md), ảnh bìa cho David Woolpy, *[Dol Guldur](<../../main/D/Dol_Guldur_(book).md>)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2014, 1995) .
 
 ## Giấy phép {#Licensing}
 

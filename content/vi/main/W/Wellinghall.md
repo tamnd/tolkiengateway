@@ -38,7 +38,7 @@ Wellinghall được biết đến nhiều nhất là nơi [Merry](../M/Meriadoc
 
 ## Từ nguyên {#Etymology}
 
-bản dịch của [Treebeard](../T/Treebeard.md)(sang [Ngôn ngữ Chung](Westron.md)) một phần tên nơi ở của ông. Nó có nghĩa là "sảnh (dưới hoặc phía sau) dòng chảy ra của lò xo Entwash".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+bản dịch của [Treebeard](../T/Treebeard.md)(sang [Ngôn ngữ Chung](Westron.md)) một phần tên nơi ở của ông ta. Nó có nghĩa là "sảnh (dưới hoặc phía sau) dòng chảy ra của lò xo Entwash".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -55,7 +55,7 @@ bản dịch của [Treebeard](../T/Treebeard.md)(sang [Ngôn ngữ Chung](Westr
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/Angus_McBride_-_Wellinghall.jpg.md" title="Middle-earth Collectible Card Game"><img alt="Middle-earth Collectible Card Game" src="https://tolkiengateway.net/w/images/thumb/9/96/Angus_McBride_-_Wellinghall.jpg/175px-Angus_McBride_-_Wellinghall.jpg" decoding="async" loading="lazy" width="175" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/96/Angus_McBride_-_Wellinghall.jpg/263px-Angus_McBride_-_Wellinghall.jpg 1.5x, https://tolkiengateway.net/w/images/9/96/Angus_McBride_-_Wellinghall.jpg 2x" data-file-width="285" data-file-height="244"/></a></span></div>
 			<div class="gallerytext">
-<p><i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm Trung Địa</a></i>
+<p><i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a></i>
 </p>
 			</div>
 		</li>
@@ -70,15 +70,15 @@ bản dịch của [Treebeard](../T/Treebeard.md)(sang [Ngôn ngữ Chung](Westr
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Wellinghall là ngôi nhà mà Treebeard thường xuyên đón những vị khách không phải người Ent. Cung cấp sơ đồ chi tiết và địa hình của Wellinghall.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
+<dl><dd>Wellinghall is the house to which Treebeard most often brings non-Entish visitors. A detailed layout and topography of Wellinghall is provided.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
 <b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
-<dl><dd>Tại địa điểm Wellinghall, những người chơi độc ác sẽ phải đối mặt với sự tấn công của Thực vật thức tỉnh.</dd></dl>
+<dl><dd>At the site Wellinghall, evil players will face attacks by Awakened Plants.</dd></dl>
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
 
-<dl><dd>Lần đầu tiên được ghé thăm trong đoạn hồi tưởng do <a class="mw-redirect" href="../M/Merry.md" title="Merry">Merry</a> và <a class="mw-redirect" href="../P/Pippin.md" title="Pippin">Pippin</a> thuật lại, Wellinghall trống rỗng trong thời điểm hiện tại sau khi Treebeard chuyển đến <a href="../I/Isengard.md" title="Isengard">Isengard</a>.</dd></dl>
+<dl><dd>First visited in a flashback narrated by <a class="mw-redirect" href="../M/Merry.md" title="Merry">Merry</a> and <a class="mw-redirect" href="../P/Pippin.md" title="Pippin">Pippin</a>, Wellinghall sits empty during the present day after Treebeard had gone to <a href="../I/Isengard.md" title="Isengard">Isengard</a>.</dd></dl>
 
 <span></span>
 

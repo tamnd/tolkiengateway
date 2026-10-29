@@ -19,48 +19,48 @@ categories:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Trollshaws <br/>
-Đường ngắn tới phương Đông <br/>
+Short way to the East <br/>
 Trollshaws <br/>
-Vùng đất của quái thú <br/>
-Bạn có thể trốn trên những ngọn đồi <br/>
-Trốn vào rừng <br/>
-Chúng tôi đã ngửi thấy cảm giác hồi hộp của bạn rồi <br/>
-Bạn có thể cầu nguyện, bạn có thể chạy <br/>
-Đối với chúng tôi điều đó thú vị hơn, chúng tôi sẽ nghiền nát bạn <br/>
-Và cướp hàng của bạn <br/>
+The land of the beast <br/>
+You may hide on the hills <br/>
+Lurk into the woods <br/>
+We have already smelt your thrills <br/>
+You can pray, you can run <br/>
+For us it&#39;s more fun, we will crush you <br/>
+And steal your goods <br/>
 <br/>
-Rừng phía Bắc <br/>
-Bởi Đại Lộ phía Đông <br/>
-Nơi ẩn náu của những kẻ vũ phu <br/>
-Ngôi mộ dành cho kẻ ngốc <br/>
+Woods in the North <br/>
+By the Great East Road <br/>
+Hideout for the brutes <br/>
+Grave for the fools <br/>
 <br/>
 Trollshaws <br/>
-Đường ngắn tới phương Đông <br/>
+Short way to the East <br/>
 Trollshaws <br/>
-Vùng đất của quái thú <br/>
-Kiểm lâm thiếu thận trọng sẽ gặp nguy hiểm <br/>
-Người khôn ngoan hơn đã chọn con đường khác <br/>
-Nhà thám hiểm, anh hùng hay kẻ lừa đảo vô tâm <br/>
-Hãy thử giết tôi và họ sẽ cho bạn vàng <br/>
+The land of the beast <br/>
+Imprudent ranger will be in danger <br/>
+Wiser one chose another road <br/>
+Mindless adventurer, hero or rogue <br/>
+Try to slain me and they&#39;ll give you gold <br/>
 <br/>
-Họ sẽ xé nát đôi tai Tiên của bạn <br/>
-Người Lùn đầu được cắt theo râu <br/>
-Kẻ liều lĩnh sẽ chạy như điên <br/>
-Ăn thiếu Hobbit cũng <br/>
+They will tear your Elven ears <br/>
+Dwarven heads cut with their beard <br/>
+Daring men shall run like hell <br/>
+Deficient Hobbits eaten as well <br/>
 <br/>
-Lâu đài của Arnor <br/>
-Hoang tàn vì chiến tranh <br/>
-Di tích cổ <br/>
-Kẻ nói dối vì những lời càu nhàu <br/>
+Castles of Arnor <br/>
+Deserted by wars <br/>
+The ancient ruins <br/>
+Liar for the grunts <br/>
 <br/>
-Họ sẽ xé nát đôi tai Tiên của bạn <br/>
-Người Lùn đầu được cắt theo râu <br/>
-Kẻ liều lĩnh sẽ chạy như điên <br/>
-Ngu ngốc Hobbit cũng ăn theo <br/>
+They will tear your Elven ears <br/>
+Dwarven heads cut with their beard <br/>
+Daring men shall run like hell <br/>
+Foolish Hobbits eaten as well <br/>
 <br/>
-Goliath của Sauron <br/>
-Kẻ lang thang trong đêm <br/>
-Cư dân của Trollshaws <br/>
-Sát thủ hiệp sĩ
+Goliaths of Sauron <br/>
+Vagabonds of the night <br/>
+Denizens of Trollshaws <br/>
+Slayers of knights
 </p>
 </div>

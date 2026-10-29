@@ -26,7 +26,7 @@ Tên *Falassë Númëa* có trong [Qenya](../Q/Qenya.md), nghĩa là "Lướt s�
 
 ## Xem thêm {#See_also}
 
-- [Quần đảo Chạng vạng](../T/Twilit_Isles.md)
+- [Quần đảo Hoàng hôn](../T/Twilit_Isles.md)
 
 <span></span>
 

@@ -31,11 +31,11 @@ images:
 
 **Bản dịch từ Elvish** là tác phẩm được [Bilbo Baggins](../B/Bilbo_Baggins.md) viết giữa [T.A.](Third_Age.md) [3003](Third_Age_3003.md) và [3018](Third_Age_3018.md), trong thời gian anh ở [Rivendell](../R/Rivendell.md), sử dụng cả hai nguồn văn bản tìm thấy ở đó và phỏng vấn [Eldar anh đã gặp ở đó](../E/Elves_of_Rivendell.md).
 
-Tác phẩm "có kỹ năng và học hỏi tuyệt vời" này chứa đầy ba tập bìa da đỏ và liên quan đến [Những Thời Cổ xưa](../E/Elder_Days.md).<sup id="cite_ref-records_1-0" class="reference"><a href="#cite_note-records-1">[1]</a></sup> Có thể nó bao gồm những tác phẩm như *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)*, *[Ainulindalë](<../A/Ainulindalë_(Rúmil's_work).md>)*và *[Valaquenta](../V/Valaquenta.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tác phẩm "có kỹ năng và học hỏi tuyệt vời" này chứa đầy ba tập bìa da đỏ và liên quan đến [Những ngày của người cao tuổi](../E/Elder_Days.md).<sup id="cite_ref-records_1-0" class="reference"><a href="#cite_note-records-1">[1]</a></sup> Có thể nó bao gồm những tác phẩm như *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)*, *[Ainulindalë](<../A/Ainulindalë_(Rúmil's_work).md>)*và *[Valaquenta](../V/Valaquenta.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Bilbo tặng các tập cho [Frodo Baggins](../F/Frodo_Baggins.md) như một món quà chia tay. Những điều này sau đó được đính kèm vào [nhật ký của ông](There_and_Back_Again.md), và lời kể của [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), và (được đính kèm với tập thứ năm sau đó) tạo thành [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md).
 
-Vì Frodo ít sử dụng chúng và hầu hết các bản sao của Sách Đỏ chủ yếu liên quan đến tập đầu tiên nên *Translations* đã bị lược bỏ trong các phiên bản khác. Chúng chỉ được lưu giữ trong [Sách Thain](Thain's_Book.md) và bản sao của nó được tạo bởi [Findegil](../F/Findegil.md) trong [Gondor](../G/Gondor.md).<sup id="cite_ref-records_1-1" class="reference"><a href="#cite_note-records-1">[1]</a></sup>
+Vì Frodo ít sử dụng chúng và hầu hết các bản sao của Sách Đỏ chủ yếu liên quan đến tập đầu tiên nên *Translations* đã bị lược bỏ trong các phiên bản khác. Chúng chỉ được lưu giữ trong [Thain Sách](Thain's_Book.md) và bản sao của nó được tạo bởi [Findegil](../F/Findegil.md) trong [Gondor](../G/Gondor.md).<sup id="cite_ref-records_1-1" class="reference"><a href="#cite_note-records-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

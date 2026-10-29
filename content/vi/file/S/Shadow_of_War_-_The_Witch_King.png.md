@@ -26,7 +26,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-[Vua Phù thủy](../../main/W/Witch_King.md) như được mô tả trong *[Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md)*.
+[Phù thủy Vua](../../main/W/Witch_King.md) như được mô tả trong *[Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md)*.
 
 ## Giấy phép {#Licensing}
 

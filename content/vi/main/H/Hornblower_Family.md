@@ -19,7 +19,7 @@ Từ thời Tobold, và có lẽ trước đó, Người thổi kèn là một t
 
 ## Từ nguyên {#Etymology}
 
-Ý nghĩa của họ cũ này là nghề nghiệp; có lẽ một trong những tổ tiên của Tobold, hoặc chính ông, thực sự đã thổi một loại tù và nào đó.<sup id="cite_ref-N_5-0" class="reference"><a href="#cite_note-N-5">[5]</a></sup> Có lẽ cái tên này là một sự ám chỉ đầy xảo quyệt đến việc hút thuốc lào.
+Ý nghĩa của họ cũ này là nghề nghiệp; có lẽ một trong những tổ tiên của Tobold, hoặc chính ông ta, thực sự đã thổi một loại tù và nào đó.<sup id="cite_ref-N_5-0" class="reference"><a href="#cite_note-N-5">[5]</a></sup> Có lẽ cái tên này là một sự ám chỉ đầy xảo quyệt đến việc hút thuốc lào.
 
 ## Cảm hứng {#Inspiration}
 

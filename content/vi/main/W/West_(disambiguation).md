@@ -15,7 +15,7 @@ images:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Vì vậy, chúng tôi luôn làm như vậy, chúng tôi hướng tới Númenor đã từng và xa hơn nữa là Elvenhome, cũng như những gì vượt ra ngoài Elvenhome và sẽ mãi mãi như vậy.
+<p>So we always do, we look towards Númenor that was, and beyond to Elvenhome that is, and to that which is beyond Elvenhome and will ever be.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Standing_Silence.md" title="Standing Silence">Standing Silence</a> in <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_Window_on_the_West.md" title="The Window on the West">The Window on the West</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -45,7 +45,7 @@ Theo một nghĩa trừu tượng, "the Phương Tây" được vinh danh là ng
 
 ### Tiêu đề {#Titles}
 
-- [Các Thống lĩnh Phương Tây](../C/Captains_of_the_West.md), người chỉ huy chính trong [Cuộc chiến Nhẫn](War_of_the_Ring.md).
+- [Các thuyền trưởng của Phương Tây](../C/Captains_of_the_West.md), người chỉ huy chính trong [Cuộc chiến Nhẫn](War_of_the_Ring.md).
 - Ngọn lửa của Phương Tây, bản dịch của [Andúril](../A/Andúril.md).
 - [Vua phương Tây](../K/King_of_the_West.md), [Elessar](../A/Aragorn.md)
 - [Lãnh chúa của Phương Tây](../V/Valar.md), [Valar](../V/Valar.md).
@@ -72,6 +72,6 @@ Theo một nghĩa trừu tượng, "the Phương Tây" được vinh danh là ng
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
 <p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>Trang định hướng này là danh sách các bài viết có cùng tiêu đề. Điều này phù hợp với <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Chính sách đặt tên</a> của <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>.</i>
-<span style="display:block;font-size: 85%;">Nếu <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:West_(disambiguation)" title="Special:WhatLinksHere/:West (disambiguation)">liên kết nội bộ</a> giới thiệu bạn đến trang này, bạn có thể muốn thay đổi liên kết để trỏ trực tiếp đến bài viết dự định.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:West_(disambiguation)" title="Special:WhatLinksHere/:West (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

@@ -18,10 +18,10 @@ categories:
 ## Bài thơ {#The_poem}
 
 <div class="poem">
-<p><i>Này! Hiện nay! Đến đây nào! Bạn lang thang ở đâu?</i><br/>
-<i>Trên, dưới, gần hay xa, đây, kia hay đằng kia?</i><br/>
-<i><a href="../S/Sharp-ears.md" title="Sharp-ears">Tai nhọn</a>, <a href="../W/Wise-nose.md" title="Wise-nose">Mũi khôn</a>, <a href="../S/Swish-tail.md" title="Swish-tail">Đuôi ngoằn ngoèo</a> và <a href="../B/Bumpkin.md" title="Bumpkin">Bí ngô</a>,</i><br/>
-<i><a href="../W/White-socks.md" title="White-socks">Tất trắng</a> chàng trai bé nhỏ của tôi và <a href="../F/Fatty_Lumpkin.md" title="Fatty Lumpkin">Bướu Lumpkin</a>!</i>
+<p><i>Hey! now! Come hoy now! Whither do you wander?</i><br/>
+<i>Up, down, near or far, here, there or yonder?</i><br/>
+<i><a href="../S/Sharp-ears.md" title="Sharp-ears">Sharp-ears</a>, <a href="../W/Wise-nose.md" title="Wise-nose">Wise-nose</a>, <a href="../S/Swish-tail.md" title="Swish-tail">Swish-tail</a> and <a href="../B/Bumpkin.md" title="Bumpkin">Bumpkin</a>,</i><br/>
+<i><a href="../W/White-socks.md" title="White-socks">White-socks</a> my little lad, and old <a href="../F/Fatty_Lumpkin.md" title="Fatty Lumpkin">Fatty Lumpkin</a>!</i>
 </p>
 </div>
 

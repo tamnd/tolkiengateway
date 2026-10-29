@@ -28,7 +28,7 @@ Dorothy đã gửi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) một lá thư hỏi
 
 Trong một lá thư đề ngày [14 tháng 10](../_/14_October.md) [1968](../_/1968.md) Dorothy đã đề cập đến lá thư của Tolkien và cụm từ Elvish gửi cho cô Dawson, người mà họ đã chia sẻ tình yêu dành cho công việc của Tolkien. Trong thư, cô chép từ đầu tiên là *Meriu*.
 
-Vào [ngày 1 tháng 4](../_/1_April.md) [1999](../_/1999.md), con trai của Dawson, Michael đã gửi thư đến <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Mailing_List&amp;action=edit&amp;redlink=1" title="Tolkien Mailing List (page does not exist)">Tolkien Danh sách gửi thư</a> để hỏi danh tính người bạn của mẹ ông. Ông hỏi liệu một bức thư như vậy của Tolkien đã được đăng trên "*[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*" của [Humphrey Carpenter](../H/Humphrey_Carpenter.md) chưa để ông có thể xác định và truy tìm Dorothy đó. Không ai có thể giúp Michael Dawson xác định được Dorothy, vì bức thư chưa bao giờ được công bố.
+Vào [ngày 1 tháng 4](../_/1_April.md) [1999](../_/1999.md), con trai của Dawson, Michael đã gửi thư đến <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Mailing_List&amp;action=edit&amp;redlink=1" title="Tolkien Mailing List (page does not exist)">Tolkien Danh sách gửi thư</a> để hỏi danh tính người bạn của mẹ ông. Ông ta hỏi liệu một bức thư như vậy của Tolkien đã được đăng trên "*[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*" của [Humphrey Carpenter](../H/Humphrey_Carpenter.md) chưa để ông ta có thể xác định và truy tìm Dorothy đó. Không ai có thể giúp Michael Dawson xác định được Dorothy, vì bức thư chưa bao giờ được công bố.
 
 ### Ý nghĩa và tính xác thực {#Significance_and_authenticity}
 

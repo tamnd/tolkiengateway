@@ -17,8 +17,8 @@ images:
   - "Frédéric_Bennett_-_Telperion_Goes_to_Sleep,_Laurelin_Awakes.jpg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
-<p>Ai đã nói với bạn và ai đã gửi cho bạn?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
+<p>Who told you, and who sent you?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>

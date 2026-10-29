@@ -24,14 +24,14 @@ images:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Stewed_Rabbit.jpg.md"><img src="https://tolkiengateway.net/w/images/5/55/John_Howe_-_Stewed_Rabbit.jpg" decoding="async" loading="lazy" width="197" height="405" class="mw-file-element" data-file-width="197" data-file-height="405"/></a><figcaption><i>Stewed Rabbit</i> by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Ông có nhớ con thỏ đó không, ông Frodo?
+<p>Do you remember that bit of rabbit, Mr. Frodo?
 </p>
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../S/Sam_Gamgee.md" title="Sam Gamgee">Sam Gamgee</a> in <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../M/Mount_Doom_(chapter).md" title="Mount Doom (chapter)">Mount Doom</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 **Thỏ** là loài động vật có tai dài, có lông, còn được gọi là '<a class="extiw" href="http://en.wiktionary.org/wiki/coney" title="wiktionary:coney">coneys</a>'.
 
-Trong [T.A.](../T/Third_Age.md) [2747](../T/Third_Age_2747.md), trò chơi [Golf](../G/Golf.md) được phát minh trong [Trận chiến trên những cánh đồng xanh](../B/Battle_of_the_Green_Fields.md) khi [Bandobras Took](../B/Bandobras_Took.md) cắt đầu [Goblin](../O/Orcs.md) Vua [Golfimbul](../G/Golfimbul.md) và đầu của ông bay trong không khí và rơi xuống một cái hố thỏ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau khi giải cứu [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) [Đại Bàng](../E/Eagles.md) mang thỏ đi ăn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Vào ngày [7 tháng 3](../_/7_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) ở phía bắc [Ithilien](../I/Ithilien.md), [Samwise Gamgee](../S/Samwise_Gamgee.md) yêu cầu [Gollum](../G/Gollum.md) mang cho ông một ít thức ăn. Gollum mang cho ông hai con thỏ nhỏ Sam tiến hành nấu, trước sự không hài lòng tột độ của Gollum.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [T.A.](../T/Third_Age.md) [2747](../T/Third_Age_2747.md), trò chơi [Golf](../G/Golf.md) được phát minh trong [Trận chiến trên những cánh đồng xanh](../B/Battle_of_the_Green_Fields.md) khi [Bandobras Took](../B/Bandobras_Took.md) cắt đầu [Goblin](../O/Orcs.md) Vua [Golfimbul](../G/Golfimbul.md) và đầu của ông ta bay trong không khí và rơi xuống một cái hố thỏ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau khi giải cứu [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) [Đại Bàng](../E/Eagles.md) mang thỏ đi ăn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Vào ngày [7 tháng 3](../_/7_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) ở phía bắc [Ithilien](../I/Ithilien.md), [Samwise Gamgee](../S/Samwise_Gamgee.md) yêu cầu [Gollum](../G/Gollum.md) mang cho ông ta một ít thức ăn. Gollum mang cho ông ta hai con thỏ nhỏ Sam tiến hành nấu, trước sự không hài lòng tột độ của Gollum.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -60,11 +60,11 @@ Trong một bản thảo ngôn ngữ từ những năm 1930, xuất hiện [Quen
 
 <b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
-<dl><dd>Khi họ cắm trại ở <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>, <a href="../G/Gollum.md" title="Gollum">Gollum</a> mang theo <a class="mw-redirect" href="../F/Frodo.md" title="Frodo">Frodo</a> và <a class="mw-redirect" href="../S/Sam.md" title="Sam">Sam</a> một cặp thỏ mới bắt được. Sam kinh hoàng trước đề nghị của Gollum rằng họ nên ăn sống những con thỏ và trả lời "Chỉ có một cách để ăn một cặp coneys..." Sam sau đó được nhìn thấy đang làm món thỏ hầm trong nồi nấu của ông. Gollum than vãn về điều này, khóc lóc rằng việc nấu chúng làm con thỏ tươi đã bị hủy hoại.</dd></dl>
+<dl><dd>While they camp in <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>, <a href="../G/Gollum.md" title="Gollum">Gollum</a> brings <a class="mw-redirect" href="../F/Frodo.md" title="Frodo">Frodo</a> and <a class="mw-redirect" href="../S/Sam.md" title="Sam">Sam</a> a pair of freshly caught rabbits. Sam is appalled at Gollum&#39;s suggestion that they eat the rabbits raw and replies &#34;There&#39;s only one way to eat a brace of coneys...&#34; Sam is then seen making rabbit stew in his cooking pot. Gollum wails at this, crying that by cooking them the fresh rabbit has been ruined.</dd></dl>
 
 <b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>:</b>
 
-<dl><dd><a href="Radagast.md" title="Radagast">Radagast</a> lái một chiếc xe trượt tuyết do những con thỏ lớn kéo, được gọi là "<a href="Rhosgobel.md" title="Rhosgobel">Rhosgobel</a> Rabbits".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
+<dl><dd><a href="Radagast.md" title="Radagast">Radagast</a> drives a sled pulled by large rabbits, referred to as &#34;<a href="Rhosgobel.md" title="Rhosgobel">Rhosgobel</a> Rabbits&#34;.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
 <span></span>
 

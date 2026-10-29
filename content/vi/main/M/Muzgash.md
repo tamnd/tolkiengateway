@@ -31,7 +31,7 @@ infobox:
     value: "Images of Muzgash"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Muzgash.jpg.md"><img src="https://tolkiengateway.net/w/images/c/cb/John_Howe_-_Muzgash.jpg" decoding="async" loading="lazy" width="244" height="352" class="mw-file-element" data-file-width="244" data-file-height="352"/></a><figcaption><i>Muzgash</i> by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../O/Orcs.md" title="Orcs">Orc</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Muzgash</span></th></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Muzgash.md" title="Category:Images of Muzgash">Images of Muzgash</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Muzgash.jpg.md"><img src="https://tolkiengateway.net/w/images/c/cb/John_Howe_-_Muzgash.jpg" decoding="async" loading="lazy" width="244" height="352" class="mw-file-element" data-file-width="244" data-file-height="352"/></a><figcaption><i>Muzgash</i> by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../O/Orcs.md" title="Orcs">Orc</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Muzgash</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Muzgash.md" title="Category:Images of Muzgash">Images of Muzgash</a></td></tr></tbody></table>
 
 **Muzgash** was an [orc](../O/Orcs.md) serving in the garrison of the [Tower of Cirith Ungol](../T/Tower_of_Cirith_Ungol.md), under the command of [Shagrat](../S/Shagrat.md). He was caught up in fighting with [Gorbag](../G/Gorbag.md)'s [Morgul](Minas_Morgul.md)-[orcs](../O/Orcs.md) in the Tower; with [Lagduf](../L/Lagduf.md), he attempted to escape, but was shot as he ran through the gate.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -39,7 +39,7 @@ infobox:
 
 <b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i></b>
 
-<dl><dd>Mặc dù không xác định được danh tính nhưng bộ ba Uruk-hai đã chạm trán với Samwise Gamgee trên cầu thang của tòa tháp sau trận chiến. Vì chỉ có một Uruk (<a class="mw-redirect" href="../S/Snaga_(Orc_of_Mordor)~50564.md" title="Snaga (Orc of Mordor)">Snaga</a>) được Sam chạm trán trên cầu thang trong tiểu thuyết nên có khả năng hai người còn lại là <a href="../L/Lagduf.md" title="Lagduf">Lagduf</a> và Muzgash.</dd></dl>
+<dl><dd>Though unidentified, a trio of Uruk-hai are encountered by Samwise Gamgee on the stairs of the tower after the battle. Since only one Uruk (<a class="mw-redirect" href="../S/Snaga_(Orc_of_Mordor)~50564.md" title="Snaga (Orc of Mordor)">Snaga</a>) was encountered by Sam on the stairs in the novel, it is likely that the other two are meant to be <a href="../L/Lagduf.md" title="Lagduf">Lagduf</a> and Muzgash.</dd></dl>
 
 <span></span>
 

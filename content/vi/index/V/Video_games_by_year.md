@@ -171,12 +171,12 @@ Danh mục [trò chơi điện tử](../../category/V/Video_games.md) dựa trê
 
 - <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md" title="The Lord of the Rings: The Return of the King (video game)">The Lord of the Rings: The Return of the King</a></b></i>
 - <i><b><a href="../../main/T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)">The Hobbit</a></b></i>
-- <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: War of the Ring</a></b></i>
+- <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: Cuộc chiến Nhẫn</a></b></i>
 
 ### 2004 {#2004}
 
 - <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Third_Age.md" title="The Lord of the Rings: The Third Age">The Lord of the Rings: Kỷ Đệ Tam</a></b></i>
-- <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></b></i>
+- <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></b></i>
 
 ### 2005 {#2005}
 
@@ -185,25 +185,25 @@ Danh mục [trò chơi điện tử](../../category/V/Video_games.md) dựa trê
 
 ### 2006 {#2006}
 
-- <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></b></i>
-- <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Lord of the Rings: The Battle for Middle-earth II: Sự trỗi dậy của Vua Phù thủy</a></b></i>
+- <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></b></i>
+- <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Lord of the Rings: Trận chiến vì Trung Địa II: Sự trỗi dậy của Vua Phù thủy</a></b></i>
 
 ### 2007 {#2007}
 
-- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">The Lord of the Rings Online: Bóng tối của Angmar</a></b></i>
+- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">The Lord of the Rings Trực tuyến: Bóng tối của Angmar</a></b></i>
 
 ### 2008 {#2008}
 
 - <i><b><a href="../../main/K/King_Under_the_Mountain_(minigame).md" title="King Under the Mountain (minigame)">Vua Dưới Núi</a></b></i>
-- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Online: Mỏ Moria</a></b></i>
+- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Trực tuyến: Mỏ Moria</a></b></i>
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Swig_and_Toss&amp;action=edit&amp;redlink=1" title="Swig and Toss (page does not exist)">Vuốt và quăng</a></i>
 
 ### 2009 {#2009}
 
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Eleventy-Seven_Morsels&amp;action=edit&amp;redlink=1" title="Eleventy-Seven Morsels (page does not exist)">Mười một bảy miếng</a></i>
-- <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Conquest</a></b></i>
+- <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a></b></i>
 - *[Midden-aarde MUD](../../main/M/Midden-aarde_MUD.md)* (chỉ phiên bản không chính thức)
-- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md" title="The Lord of the Rings Online: Siege of Mirkwood">The Lord of the Rings Online: Cuộc vây hãm Mirkwood</a></b></i>
+- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md" title="The Lord of the Rings Online: Siege of Mirkwood">The Lord of the Rings Trực tuyến: Cuộc vây hãm Mirkwood</a></b></i>
 
 ### 2010 {#2010}
 
@@ -214,19 +214,19 @@ Danh mục [trò chơi điện tử](../../category/V/Video_games.md) dựa trê
 ### 2011 {#2011}
 
 - <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></b></i>
-- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">The Lord of the Rings Online: Sự trỗi dậy của Isengard</a></b></i>
+- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">The Lord of the Rings Trực tuyến: Sự trỗi dậy của Isengard</a></b></i>
 
 ### 2012 {#2012}
 
-- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Online: Các tay đua của Rohan</a></b></i>
+- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Trực tuyến: Các tay đua của Rohan</a></b></i>
 - <i><b><a href="../../main/G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Người giám hộ của Trung Địa</a></b></i>
 - <i><b><a href="../../main/T/The_Hobbit%253A_Kingdoms_of_Middle-earth.md" title="The Hobbit: Kingdoms of Middle-earth">The Hobbit: Vương quốc của Trung Địa</a></b></i>
 - <i><b><a href="../../main/L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: Trò chơi điện tử</a></b></i>
-- <i><b><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_Dwarf_Combat_Training&amp;action=edit&amp;redlink=1" title="The Hobbit: Dwarf Combat Training (page does not exist)">The Hobbit: Người Lùn Huấn luyện chiến đấu</a></b></i>
+- <i><b><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_Dwarf_Combat_Training&amp;action=edit&amp;redlink=1" title="The Hobbit: Dwarf Combat Training (page does not exist)">The Hobbit: Người lùn Huấn luyện chiến đấu</a></b></i>
 
 ### 2013 {#2013}
 
-- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Helm&#39;s_Deep.md" title="The Lord of the Rings Online: Helm&#39;s Deep">The Lord of the Rings Online: Helm's Deep</a></b></i>
+- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Helm&#39;s_Deep.md" title="The Lord of the Rings Online: Helm&#39;s Deep">The Lord of the Rings Trực tuyến: Helm's Deep</a></b></i>
 - <i><b><a href="../../main/T/The_Hobbit%253A_Armies_of_The_Third_Age.md" title="The Hobbit: Armies of The Third Age">The Hobbit: Đội quân của Kỷ Đệ Tam</a></b></i>
 - <i><b><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_An_Unexpected_Journey_-_A_Journey_through_Middle-earth&amp;action=edit&amp;redlink=1" title="The Hobbit: An Unexpected Journey - A Journey through Middle-earth (page does not exist)">The Hobbit: An Unexpected Journey - Hành trình xuyên qua Trung Địa</a></b></i>
 - <i><b><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_The_Desolation_of_Smaug_%E2%80%93_Barrel_Escape&amp;action=edit&amp;redlink=1" title="The Hobbit: The Desolation of Smaug – Barrel Escape (page does not exist)">The Hobbit: The Desolation of Smaug – Thoát thùng</a></b></i>
@@ -244,26 +244,26 @@ Danh mục [trò chơi điện tử](../../category/V/Video_games.md) dựa trê
 ### 2017 {#2017}
 
 - <i><b><a href="../../main/M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Trung Địa: Bóng Tối của Chiến tranh</a></b></i>
-- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Mordor.md" title="The Lord of the Rings Online: Mordor">The Lord of the Rings Online: Mordor</a></b></i>
+- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Mordor.md" title="The Lord of the Rings Online: Mordor">The Lord of the Rings Trực tuyến: Mordor</a></b></i>
 
 ### 2019 {#2019}
 
 - <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">The Lord of the Rings: Trò chơi thẻ bài phiêu lưu </a></b></i>
 - <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_Journeys_in_Middle-earth.md" title="The Lord of the Rings: Journeys in Middle-earth">The Lord of the Rings: Hành trình trong Trung Địa</a></b></i>
-- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Minas_Morgul.md" title="The Lord of the Rings Online: Minas Morgul">The Lord of the Rings Online: Minas Morgul</a></b></i>
+- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Minas_Morgul.md" title="The Lord of the Rings Online: Minas Morgul">The Lord of the Rings Trực tuyến: Minas Morgul</a></b></i>
 
 ### 2020 {#2020}
 
-- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_War_of_Three_Peaks.md" title="The Lord of the Rings Online: War of Three Peaks">The Lord of the Rings Online: Cuộc chiến ba đỉnh</a></b></i>
+- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_War_of_Three_Peaks.md" title="The Lord of the Rings Online: War of Three Peaks">The Lord of the Rings Trực tuyến: Cuộc chiến ba đỉnh</a></b></i>
 
 ### 2021 {#2021}
 
 - <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_Rise_to_War.md" title="The Lord of the Rings: Rise to War">The Lord of the Rings: Nổi dậy chiến tranh</a></b></i>
-- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Fate_of_Gundabad.md" title="The Lord of the Rings Online: Fate of Gundabad">The Lord of the Rings Online: Số phận của Gundabad</a></b></i>
+- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Fate_of_Gundabad.md" title="The Lord of the Rings Online: Fate of Gundabad">The Lord of the Rings Trực tuyến: Số phận của Gundabad</a></b></i>
 
 ### 2022 {#2022}
 
-- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Before_the_Shadow.md" title="The Lord of the Rings Online: Before the Shadow">The Lord of the Rings Online: Trước Bóng Tối</a></b></i>
+- <i><b><a href="../../main/T/The_Lord_of_the_Rings_Online%253A_Before_the_Shadow.md" title="The Lord of the Rings Online: Before the Shadow">The Lord of the Rings Trực tuyến: Trước Bóng Tối</a></b></i>
 
 ### 2023 {#2023}
 

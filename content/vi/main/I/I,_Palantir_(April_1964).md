@@ -23,7 +23,7 @@ infobox:
     value: "Magazine"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>I, Palantir</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data">Ted Johnstone and Bruce Pelz</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Los Angeles: The Fellowship of the Ring</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">April <a href="../_/1964.md" title="1964">1964</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Tạp chí</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>I, Palantir</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Ted Johnstone and Bruce Pelz</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Los Angeles: The Fellowship of the Ring</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">April <a href="../_/1964.md" title="1964">1964</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Magazine</td></tr></tbody></table>
 
 <b><i>I, Palantir</i> (tháng 4 năm 1964), số 3</b> là một số của tạp chí fanzine *[I-Palantir](I-Palantir.md)*.
 

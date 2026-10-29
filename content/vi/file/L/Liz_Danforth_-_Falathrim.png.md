@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Minh họa của [Liz Danforth](../../main/L/Liz_Danforth.md) xuất hiện trong Jason Beresford, Anders Blixt, Mats Blomqvist, Gunnar Brolin, Jeff Hatch, Tim Innes, Åke Rosenius, Martin Rundkvist, Erik, Rågvik, [Chris Seeman](../../main/C/Chris_Seeman.md), Magnus Seter, *[Southern Gondor: The Land](../../main/S/Southern_Gondor%253A_The_Land.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2021, 1996).
+Minh họa của [Liz Danforth](../../main/L/Liz_Danforth.md) xuất hiện trong Jason Beresford, Anders Blixt, Mats Blomqvist, Gunnar Brolin, Jeff Hatch, Tim Innes, Åke Rosenius, Martin Rundkvist, Erik, Rågvik, [Chris Seeman](../../main/C/Chris_Seeman.md), Magnus Seter, *[Southern Gondor: The Land](../../main/S/Southern_Gondor%253A_The_Land.md)* ([Vương miện Sắt Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2021, 1996).
 
 ## Giấy phép {#Licensing}
 

@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Lord_of_Emyn_Arnen"
 content_sha256: 81beb7b546aeb501893dc1ed1a8041021fea1d78c78b652ac8a497db5a914a09
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Tiêu đề được trao cho Faramir"
+short_description: "Title given to Faramir"
 categories:
   - "Sourceless"
   - "Articles needing citation"
@@ -24,13 +24,13 @@ images:
   - "CdxIconReference.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
-<p>Ai đã nói với bạn và ai đã gửi cho bạn?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
+<p>Who told you, and who sent you?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-**Lãnh chúa Emyn Arnen** là chức danh được ban cho [Faramir](../F/Faramir.md), phán quyết cuối cùng [Quản lý của Gondor](../S/Steward_of_Gondor.md), bởi [Vua Aragorn Elessar](../A/Aragorn_Elessar.md) sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md). Lãnh chúa bao gồm các ngọn đồi của [Emyn Arnen](../E/Emyn_Arnen.md), nằm trong [South Ithilien](../S/South_Ithilien.md) và đóng vai trò là trụ sở của [Thân vương Ithilien](../P/Prince_of_Ithilien.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>. Danh hiệu này tôn vinh di sản của Faramir với tư cách là hậu duệ của [Gia tộc Húrin](../H/House_of_Húrin.md) và vai trò mới của anh là [Người quản lý vùng đất phía đông của Gondor](../S/Steward_of_Gondor.md) trong [Kỷ Đệ Tứ](../F/Fourth_Age.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+**Lãnh chúa Emyn Arnen** là chức danh được ban cho [Faramir](../F/Faramir.md), phán quyết cuối cùng [Quản lý của Gondor](../S/Steward_of_Gondor.md), bởi [Vua Aragorn Elessar](../A/Aragorn_Elessar.md) sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md). Lãnh chúa bao gồm các ngọn đồi của [Emyn Arnen](../E/Emyn_Arnen.md), nằm trong [South Ithilien](../S/South_Ithilien.md) và đóng vai trò là trụ sở của [Thân vương của Ithilien](../P/Prince_of_Ithilien.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>. Danh hiệu này tôn vinh di sản của Faramir với tư cách là hậu duệ của [Gia tộc Húrin](../H/House_of_Húrin.md) và vai trò mới của anh là [Người quản lý vùng đất phía đông của Gondor](../S/Steward_of_Gondor.md) trong [Kỷ Đệ Tứ](../F/Fourth_Age.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 ## Lịch sử {#History}
 

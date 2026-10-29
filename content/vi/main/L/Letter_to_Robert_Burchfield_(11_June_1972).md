@@ -28,7 +28,7 @@ Vào [11 tháng 6](../_/11_June.md) [1972](../_/1972.md), [J.R.R. Tolkien](../J/
 ## Trích đoạn {#Excerpts}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Burchfield thân mến<br/><br/>Khi dỡ sách của tôi ra khỏi bờ<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> tôi đã phát hiện ra cuốn sách này thuộc về bạn. Bạn đã cho tôi mượn nó lâu rồi - nhưng vì tôi đang nằm viện vào thời điểm nhận phần thưởng từ Oxford<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 2]</a></sup> nên tôi không có tội khi chuyển nó cho Poole, mặc dù có tội (với nhiều lý do hơn) vì đã không trả lại nó sau này. Hãy tha thứ cho tôi.<br/><br/>Của bạn...<br/><br/>J.R.R. Tolkien
+<p>My dear Burchfield<br/><br/>In unpacking my books from shore<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> I discovered this book which belongs to you. You lent it me a long while ago - but as I was in hospital at the time of my reward from Oxford<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 2]</a></sup> I was not guilty of removing it to Poole, though guilty (with more excuse) for not returning it later. Forgive me.<br/><br/>Yours...<br/><br/>J.R.R. Tolkien
 </p>
 </blockquote>
 

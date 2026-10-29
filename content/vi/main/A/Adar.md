@@ -16,7 +16,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>adar</b> đề cập đến nhiều ký tự, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Adar_(disambiguation).md" title="Adar (disambiguation)">Adar (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>adar</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Adar_(disambiguation).md" title="Adar (disambiguation)">Adar (disambiguation)</a></b>.</div></div>
 
 <i><b>adar</b></i> là [Sindarin](../S/Sindarin.md) dành cho "cha".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

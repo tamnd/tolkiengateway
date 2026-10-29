@@ -340,7 +340,7 @@ sort_keys:
 [2012-02-05 21:25:22] &lt;AmrothMobile&gt; +1<br/>
 [2012-02-05 21:25:42] &lt;KingAragorn&gt; ==First edition==?<br/>
 [2012-02-05 21:25:43] &lt;KingAragorn&gt; +1<br/>
-[2012-02-05 21:25:50] &lt;Morgan&gt; Or perhaps rather a link to Category:Characters in The Hobbit<br/>
+[2012-02-05 21:25:50] &lt;Morgan&gt; Or  perhaps rather a link to Category:Characters in The Hobbit<br/>
 [2012-02-05 21:25:51] &lt;KingAragorn&gt; Or ===First edition=== under plot?&gt;<br/>
 [2012-02-05 21:26:02] &lt;KingAragorn&gt; What?<br/>
 [2012-02-05 21:26:06] &lt;AmrothMobile&gt; +1<br/>

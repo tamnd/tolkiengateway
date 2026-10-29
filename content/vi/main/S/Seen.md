@@ -13,9 +13,9 @@ categories:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Và ở đây, trong Rivendell vẫn còn một số kẻ thù chính của ông: những kẻ Tiên-khôn ngoan, những chúa tể của Eldar từ bên kia những vùng biển xa xôi nhất. Họ không sợ Nazgûl, vì những người đã cư trú trong Cõi Phúc lành sống cùng một lúc ở cả hai thế giới, và họ có sức mạnh to lớn để chống lại cả Người hữu hình và Người vô hình.
+<p>And here in Rivendell there live still some of his chief foes: the Elven-wise, lords of the Eldar from beyond the furthest seas. They do not fear the Ringwraiths, for those who have dwelt in the Blessed Realm live at once in both worlds, and against both the Seen and the Unseen they have great power.
 </p>
-<p class="tg-quote-footer"><cite><a href="../M/Many_Meetings.md" title="Many Meetings">Nhiều cuộc hội ngộ</a></cite></p>
+<p class="tg-quote-footer"><cite><a href="../M/Many_Meetings.md" title="Many Meetings">Many Meetings</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 Tất cả mọi thứ trong [Arda](../A/Arda.md) đều rơi vào cõi Nhìn thấy hoặc [Không nhìn thấy](../U/Unseen.md).

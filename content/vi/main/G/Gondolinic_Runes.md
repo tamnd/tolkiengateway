@@ -14,7 +14,7 @@ images:
   - "CdxIconBold-f.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/b/b4/CdxIconBold-f.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này hiển thị một trong các <a href="../../category/W/Writing_systems.md" title="Category:Writing systems">hệ thống chữ viết</a> của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>. Để xem tối ưu, hãy cài đặt phông chữ sau: <b><a class="external text" href="http://www.tolkiendil.com/telechargements/polices/angerthas_et_runes#gondolin" rel="noreferrer noopener" target="_blank">Gondolinic Runes</a> của <a href="../R/Ronald_Kyrmse.md" title="Ronald Kyrmse">Ronald Kyrmse</a></b>.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/b/b4/CdxIconBold-f.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article displays one of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="../../category/W/Writing_systems.md" title="Category:Writing systems">writing systems</a>. For optimal viewing, install the following font: <b><a class="external text" href="http://www.tolkiendil.com/telechargements/polices/angerthas_et_runes#gondolin" rel="noreferrer noopener" target="_blank">Gondolinic Runes</a> by <a href="../R/Ronald_Kyrmse.md" title="Ronald Kyrmse">Ronald Kyrmse</a></b>.
 </div></div>
 
 **Chữ Runes Gondolinic** là một hệ thống chữ viết được sử dụng trong [Gondolin](Gondolin.md). Chúng được tạo ra bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) giữa [1920](../_/1920.md)-[1925](../_/1925.md), khi ông đang nghĩ ra hệ thống chữ viết đầu tiên cho Elvish [ngôn ngữ](../L/Languages.md) của mình. Chúng là hệ thống chữ rune đầu tiên do ông phát minh và là một trong số ít bảng chữ cái có chữ thường.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Giống như [Chữ Gnomic](Gnomic_Letters.md), hệ thống chữ viết đầu tiên này chưa bao giờ được sử dụng.
@@ -29,9 +29,9 @@ Hình ảnh thoáng qua duy nhất về những chữ rune này được sử d�
 </td>
 <td>t
 </td>
-<td><em style="font-family: Gondolin; font-style: normal;">tr.</em>
+<td><em style="font-family: Gondolin; font-style: normal;">p</em>
 </td>
-<td>tr.
+<td>p
 </td>
 <td><em style="font-family: Gondolin; font-style: normal;">c</em>
 </td>
@@ -128,7 +128,7 @@ Hình ảnh thoáng qua duy nhất về những chữ rune này được sử d�
 </td>
 <td><em style="font-family: Gondolin; font-style: normal;">R</em>
 </td>
-<td>ồ
+<td>rh
 </td>
 <td><em style="font-family: Gondolin; font-style: normal;">L</em>
 </td>
@@ -167,7 +167,7 @@ Hình ảnh thoáng qua duy nhất về những chữ rune này được sử d�
 </td>
 <td><em style="font-family: Gondolin; font-style: normal;">H</em>
 </td>
-<td>ồ
+<td>hw
 </td>
 <td><em style="font-family: Gondolin; font-style: normal;">X</em>
 </td>
@@ -255,11 +255,11 @@ Hình ảnh thoáng qua duy nhất về những chữ rune này được sử d�
 </td>
 <td><em style="font-family: Gondolin; font-style: normal;">Ö</em>
 </td>
-<td>dài œ<sup id="cite_ref-d_6-0" class="reference"><a href="#cite_note-d-6">[note 3]</a></sup>
+<td>long œ<sup id="cite_ref-d_6-0" class="reference"><a href="#cite_note-d-6">[note 3]</a></sup>
 </td>
 <td><em style="font-family: Gondolin; font-style: normal;">UU</em>
 </td>
-<td>dài y<sup id="cite_ref-d_6-1" class="reference"><a href="#cite_note-d-6">[note 3]</a></sup>
+<td>long y<sup id="cite_ref-d_6-1" class="reference"><a href="#cite_note-d-6">[note 3]</a></sup>
 </td></tr>
 </tbody></table>
 
@@ -304,50 +304,50 @@ Nếu chúng ta chấp nhận các giá trị của các chữ rune ở trên, c
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="Gondolin.md" title="Gondolin">Vương quốc Gondolin</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="Gondolin.md" title="Gondolin">Realm of Gondolin</a></b>
 </th></tr>
 <tr>
 <td align="center" style="background: var(--tg-color-surface-4); font-size: 90%;" colspan="3"><i>Ondolindë</i> · Hidden City · City of Seven Names
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Địa điểm bên ngoài
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Outside locations
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a class="mw-redirect" href="../A/Amon_Gwared.md" title="Amon Gwared">Amon Gwared</a> · <a href="../A/Anghabar.md" title="Anghabar">Anghabar</a> · <a href="../E/Echoriad.md" title="Echoriad">Echoriad</a> (<a href="../C/Crissaegrim.md" title="Crissaegrim">Crissaegrim</a> · <a href="../E/Eithel_Nínui.md" title="Eithel Nínui">Eithel Nínui</a> · <a href="../F/Fingolfin&#39;s_Cairn.md" title="Fingolfin&#39;s Cairn">Fingolfin's cairn</a>) · <a href="../S/Seven_Gates_of_Gondolin.md" title="Seven Gates of Gondolin">Bảy Cánh Cổng của Gondolin</a> (<a href="Gate_of_Wood.md" title="Gate of Wood">Cổng Gỗ</a> · <a href="Gate_of_Stone.md" title="Gate of Stone">Cổng đá</a> · <a href="Gate_of_Bronze.md" title="Gate of Bronze">Cổng đồng</a> · <a href="Gate_of_Writhen_Iron.md" title="Gate of Writhen Iron">Cổng sắt rèn</a> · <a href="Gate_of_Silver.md" title="Gate of Silver">Cổng bạc</a> · <a href="Gate_of_Gold.md" title="Gate of Gold">Cổng vàng</a> · <a href="Gate_of_Steel.md" title="Gate of Steel">Cổng thép</a>) · <a href="../O/Orfalch_Echor.md" title="Orfalch Echor">Orfalch Echor</a> · <a href="../T/Tumladen.md" title="Tumladen">Tumladen</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a class="mw-redirect" href="../A/Amon_Gwared.md" title="Amon Gwared">Amon Gwared</a> · <a href="../A/Anghabar.md" title="Anghabar">Anghabar</a> · <a href="../E/Echoriad.md" title="Echoriad">Echoriad</a> (<a href="../C/Crissaegrim.md" title="Crissaegrim">Crissaegrim</a> · <a href="../E/Eithel_Nínui.md" title="Eithel Nínui">Eithel Nínui</a> · <a href="../F/Fingolfin&#39;s_Cairn.md" title="Fingolfin&#39;s Cairn">Fingolfin&#39;s cairn</a>) · <a href="../S/Seven_Gates_of_Gondolin.md" title="Seven Gates of Gondolin">Seven Gates of Gondolin</a> (<a href="Gate_of_Wood.md" title="Gate of Wood">Gate of Wood</a> · <a href="Gate_of_Stone.md" title="Gate of Stone">Gate of Stone</a> · <a href="Gate_of_Bronze.md" title="Gate of Bronze">Gate of Bronze</a> · <a href="Gate_of_Writhen_Iron.md" title="Gate of Writhen Iron">Gate of Writhen Iron</a> · <a href="Gate_of_Silver.md" title="Gate of Silver">Gate of Silver</a> · <a href="Gate_of_Gold.md" title="Gate of Gold">Gate of Gold</a> · <a href="Gate_of_Steel.md" title="Gate of Steel">Gate of Steel</a>) · <a href="../O/Orfalch_Echor.md" title="Orfalch Echor">Orfalch Echor</a> · <a href="../T/Tumladen.md" title="Tumladen">Tumladen</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Địa điểm bên trong
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Inside locations
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Alley_of_Roses.md" title="Alley of Roses">Ngõ Hoa hồng</a> · <a href="../A/Arch_of_Inwë.md" title="Arch of Inwë">Vòm Inwë</a> · <a href="../C/Caragdûr.md" title="Caragdûr">Caragdûr</a> · <a href="../F/Fountains_of_the_South.md" title="Fountains of the South">Đài phun nước phía Nam</a> · <a href="Gar_Ainion.md" title="Gar Ainion">Gar Ainion</a> · <a href="Great_Market.md" title="Great Market">Chợ lớn</a> · <a href="../L/Lesser_Market.md" title="Lesser Market">Chợ nhỏ hơn</a> · <a href="../I/Idril&#39;s_secret_way.md" title="Idril&#39;s secret way">Idril con đường bí mật</a> · <a href="../S/Square_of_the_Palace.md" title="Square of the Palace">Nơi của Đài phun nước</a> · <a href="../P/Place_of_the_Well.md" title="Place of the Well">Nơi Giếng</a> · <a href="../R/Road_of_Arches.md" title="Road of Arches">Con đường Vòm</a> · <a href="../R/Road_of_Pomps.md" title="Road of Pomps">Con đường Pomps</a> · <a href="../T/Tower_of_the_King.md" title="Tower of the King">Tháp Vua</a> · <a href="../W/Way_of_Running_Waters.md" title="Way of Running Waters">Con đường Nước Chảy</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Alley_of_Roses.md" title="Alley of Roses">Alley of Roses</a> · <a href="../A/Arch_of_Inwë.md" title="Arch of Inwë">Arch of Inwë</a> · <a href="../C/Caragdûr.md" title="Caragdûr">Caragdûr</a> · <a href="../F/Fountains_of_the_South.md" title="Fountains of the South">Fountains of the South</a> · <a href="Gar_Ainion.md" title="Gar Ainion">Gar Ainion</a> · <a href="Great_Market.md" title="Great Market">Great Market</a> · <a href="../L/Lesser_Market.md" title="Lesser Market">Lesser Market</a> · <a href="../I/Idril&#39;s_secret_way.md" title="Idril&#39;s secret way">Idril&#39;s secret way</a> · <a href="../S/Square_of_the_Palace.md" title="Square of the Palace">Place of the Fountain</a> · <a href="../P/Place_of_the_Well.md" title="Place of the Well">Place of the Well</a> · <a href="../R/Road_of_Arches.md" title="Road of Arches">Road of Arches</a> · <a href="../R/Road_of_Pomps.md" title="Road of Pomps">Road of Pomps</a> · <a href="../T/Tower_of_the_King.md" title="Tower of the King">Tower of the King</a> · <a href="../W/Way_of_Running_Waters.md" title="Way of Running Waters">Way of Running Waters</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Đồ vật
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Objects
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Anguirel.md" title="Anguirel">Anguirel</a> · <a class="mw-redirect" href="../A/Axe_of_Tuor.md" title="Axe of Tuor">Axe of Tuor</a> · <a href="../C/Crown_of_the_Hidden_Kingdom.md" title="Crown of the Hidden Kingdom">Crown of the Hidden Kingdom</a> · <a href="../E/Elfstone.md" title="Elfstone">Elfstone</a> · <a href="Glamdring.md" title="Glamdring">Glamdring</a> · <a href="Glingal_and_Belthil.md" title="Glingal and Belthil">Glingal and Belthil</a> · <a href="../O/Orcrist.md" title="Orcrist">Orcrist</a> · <a href="../S/Sting.md" title="Sting">Sting</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../T/Twelve_houses_of_the_Gondothlim.md" title="Twelve houses of the Gondothlim">Các gia tộc</a>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../T/Twelve_houses_of_the_Gondothlim.md" title="Twelve houses of the Gondothlim">Houses</a>
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../H/House_of_the_King.md" title="House of the King">House of the King</a> · <a href="../H/House_of_the_Wing.md" title="House of the Wing">House of the Wing</a> · <a href="../H/House_of_the_Mole.md" title="House of the Mole">House of the Mole</a> · <a href="../H/House_of_the_Swallow.md" title="House of the Swallow">House of the Swallow</a> · <a href="../H/House_of_the_Heavenly_Arch.md" title="House of the Heavenly Arch">House of the Heavenly Arch</a> · <a href="../H/House_of_the_Pillar.md" title="House of the Pillar">House of the Pillar</a> · <a href="../H/House_of_the_Tower_of_Snow.md" title="House of the Tower of Snow">House of the Tower of Snow</a> · <a href="../H/House_of_the_Tree.md" title="House of the Tree">House of the Tree</a> · <a href="../H/House_of_the_Golden_Flower.md" title="House of the Golden Flower">House of the Golden Flower</a> · <a href="../H/House_of_the_Fountain.md" title="House of the Fountain">House of the Fountain</a> · <a href="../H/House_of_the_Harp.md" title="House of the Harp">House of the Harp</a> · <a href="../H/House_of_the_Hammer_of_Wrath.md" title="House of the Hammer of Wrath">House of the Hammer of Wrath</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;"><a href="Gondolindrim.md" title="Gondolindrim">Nhân vật</a>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;"><a href="Gondolindrim.md" title="Gondolindrim">People</a>
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Aranwë.md" title="Aranwë">Aranwë</a> · <a href="../A/Aredhel.md" title="Aredhel">Aredhel</a> · <a href="../D/Dark_Guard.md" title="Dark Guard">Dark Guard</a> · <a href="../D/Duilin_(elf_of_Gondolin).md" title="Duilin (elf of Gondolin)">Duilin</a> · <a href="../E/Eärendil.md" title="Eärendil">Eärendil</a> · <a href="../E/Ecthelion.md" title="Ecthelion">Ecthelion</a> · <a href="../E/Egalmoth.md" title="Egalmoth">Egalmoth</a> · <a href="../E/Elemmakil.md" title="Elemmakil">Elemmakil</a> · <a href="../E/Elenwë.md" title="Elenwë">Elenwë</a> · <a href="../E/Enerdhil.md" title="Enerdhil">Enerdhil</a> · <a href="../E/Eöl.md" title="Eöl">Eöl</a> · <a class="mw-redirect" href="../L/Lothlim.md" title="Lothlim">Exiles of Gondolin</a> · <a href="Galdor_(elf_of_Gondolin).md" title="Galdor (elf of Gondolin)">Galdor</a> · <a href="Glorfindel.md" title="Glorfindel">Glorfindel</a> · <a href="../H/Huor.md" title="Huor">Huor</a> · <a href="../H/Húrin.md" title="Húrin">Húrin</a> · <a href="../H/Hendor.md" title="Hendor">Hendor</a> · <a href="../I/Idril.md" title="Idril">Idril</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Iron_Guards&amp;action=edit&amp;redlink=1" title="Iron Guards (page does not exist)">Iron Guards</a> · <a href="../L/Legolas_(elf_of_Gondolin).md" title="Legolas (elf of Gondolin)">Legolas</a> · <a href="../M/Maeglin.md" title="Maeglin">Maeglin</a> · <a href="../M/Meleth_(nurse).md" title="Meleth (nurse)">Meleth</a> · <a href="../P/Pengolodh.md" title="Pengolodh">Pengolodh</a> · <a href="../P/Penlod.md" title="Penlod">Penlod</a> · <a href="../R/Rog.md" title="Rog">Rog</a> · <a href="../S/Salgant.md" title="Salgant">Salgant</a> · <a href="../T/Tuor.md" title="Tuor">Tuor</a> · <a href="../T/Turgon.md" title="Turgon">Turgon</a> · <a href="../U/Ulmo.md" title="Ulmo">Ulmo</a> · <a href="../V/Voronwë.md" title="Voronwë">Voronwë</a> · <a href="../W/Warden_of_the_Great_Gate.md" title="Warden of the Great Gate">Warden of the Great Gate</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Sự kiện
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Events
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../F/Fall_of_Gondolin.md" title="Fall of Gondolin">Sự sụp đổ của Gondolin</a> · <a href="Gates_of_Summer.md" title="Gates of Summer">Cánh cổng mùa hè</a> · <a href="../N/Nirnaeth_Arnoediad.md" title="Nirnaeth Arnoediad">Nirnaeth Arnoediad</a> · <a href="../U/Ulmo&#39;s_warning.md" title="Ulmo&#39;s warning">Ulmo lời cảnh báo</a> · <a class="mw-redirect" href="../W/Wanderings_of_Húrin.md" title="Wanderings of Húrin">Những chuyến lang thang của Húrin</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../F/Fall_of_Gondolin.md" title="Fall of Gondolin">Fall of Gondolin</a> · <a href="Gates_of_Summer.md" title="Gates of Summer">Gates of Summer</a> · <a href="../N/Nirnaeth_Arnoediad.md" title="Nirnaeth Arnoediad">Nirnaeth Arnoediad</a> · <a href="../U/Ulmo&#39;s_warning.md" title="Ulmo&#39;s warning">Ulmo&#39;s warning</a> · <a class="mw-redirect" href="../W/Wanderings_of_Húrin.md" title="Wanderings of Húrin">Wanderings of Húrin</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Văn bản chính
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Main texts
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../T/The_Book_of_Lost_Tales.md" title="The Book of Lost Tales">Lost Tale</a> của <a href="../T/The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a> (<a href="../_/1916.md" title="1916">1916</a>-<a href="../_/1920.md" title="1920">20</a>) · <a href="../T/The_Lay_of_the_Fall_of_Gondolin.md" title="The Lay of the Fall of Gondolin">Sự nằm của Sự sụp đổ của Gondolin</a> (c. 1920) · <a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Của Tuor và Việc Ngài Đến với Gondolin</a> (<a href="../_/1950.md" title="1950">1950</a>) · <a href="../O/Of_Tuor_and_the_Fall_of_Gondolin.md" title="Of Tuor and the Fall of Gondolin">Của Tuor và Sự sụp đổ của Gondolin</a> (<a href="../_/1977.md" title="1977">1977</a>) · <i><a href="../T/The_Fall_of_Gondolin.md" title="The Fall of Gondolin">The Fall of Gondolin</a></i> (<a href="../_/2018.md" title="2018">2018</a>)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../T/The_Book_of_Lost_Tales.md" title="The Book of Lost Tales">Lost Tale</a> of <a href="../T/The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a> (<a href="../_/1916.md" title="1916">1916</a>-<a href="../_/1920.md" title="1920">20</a>) · <a href="../T/The_Lay_of_the_Fall_of_Gondolin.md" title="The Lay of the Fall of Gondolin">The Lay of the Fall of Gondolin</a> (c. 1920) · <a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Of Tuor and his Coming to Gondolin</a> (<a href="../_/1950.md" title="1950">1950</a>) · <a href="../O/Of_Tuor_and_the_Fall_of_Gondolin.md" title="Of Tuor and the Fall of Gondolin">Of Tuor and the Fall of Gondolin</a> (<a href="../_/1977.md" title="1977">1977</a>) · <i><a href="../T/The_Fall_of_Gondolin.md" title="The Fall of Gondolin">The Fall of Gondolin</a></i> (<a href="../_/2018.md" title="2018">2018</a>)
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5);" colspan="2"><a href="../L/Languages.md" title="Languages">Ngôn ngữ</a> và chữ viết trong tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a>
+<th align="center" style="background:var(--tg-color-surface-5);" colspan="2"><a href="../L/Languages.md" title="Languages">Languages</a> and scripts in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a>&#39;s works
 </th></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../E/Elvish.md" title="Elvish">Elvish</a>
@@ -355,7 +355,7 @@ Nếu chúng ta chấp nhận các giá trị của các chữ rune ở trên, c
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/Angerthas.md" title="Angerthas">Angerthas</a> (<a href="../A/Angerthas_Daeron.md" title="Angerthas Daeron">Angerthas Daeron</a>) · <a href="../A/Avarin.md" title="Avarin">Avarin</a> (<a class="mw-redirect" href="../E/East_Avarin.md" title="East Avarin">East</a> · <a class="mw-redirect" href="../N/North_Avarin.md" title="North Avarin">North</a> · <a class="mw-redirect" href="../W/West_Avarin.md" title="West Avarin">West</a>) · <a href="../C/Cirth.md" title="Cirth">Cirth</a> (<a href="../C/Certhas_Daeron.md" title="Certhas Daeron">Certhas Daeron</a>) · <a href="../C/Common_Eldarin.md" title="Common Eldarin">Common Eldarin</a> · <a href="../M/Mátengwië.md" title="Mátengwië">Mátengwië</a> · <a href="../M/Moon-letters.md" title="Moon-letters">Moon-letters</a> · <a class="mw-redirect" href="../N/Nandorin.md" title="Nandorin">Nandorin</a> · <a href="../P/Primitive_Quendian.md" title="Primitive Quendian">Primitive Quendian</a> · <a href="../Q/Quenya.md" title="Quenya">Quenya</a> (<a href="../E/Exilic_Quenya.md" title="Exilic Quenya">Exilic</a> · <a href="../V/Valinorean_Quenya.md" title="Valinorean Quenya">Valinorean</a> · <a class="mw-redirect" href="../V/Vanyarin_Quenya.md" title="Vanyarin Quenya">Vanyarin</a>) · <a href="../S/Sarati.md" title="Sarati">Sarati</a> · <a href="../S/Silvan_Elvish.md" title="Silvan Elvish">Silvan Elvish</a> · <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> (<a href="../D/Doriathrin.md" title="Doriathrin">Doriathrin</a> · <a href="../F/Falathrin.md" title="Falathrin">Falathrin</a> · <a href="../N/Númenórean_Sindarin.md" title="Númenórean Sindarin">Númenórean</a> · <a href="../N/North_Sindarin.md" title="North Sindarin">Mithrimin</a> · <a href="../O/Old_Sindarin.md" title="Old Sindarin">Old</a>) · <a href="../T/Telerin.md" title="Telerin">Telerin</a> (<a href="../C/Common_Telerin.md" title="Common Telerin">Common</a>) · <a href="../T/Tengwar.md" title="Tengwar">Tengwar</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../M/Mannish.md" title="Mannish">Thuộc về Con Người</a>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../M/Mannish.md" title="Mannish">Mannish</a>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/Adûnaic.md" title="Adûnaic">Adûnaic</a> · <a href="../D/Drúadan_language.md" title="Drúadan language">Drúadan</a> · <a href="../D/Dunlendish.md" title="Dunlendish">Dunlendish</a> · <a href="../H/Halethian.md" title="Halethian">Halethian</a> · <a href="../N/Northern_Mannish.md" title="Northern Mannish">Northern Mannish</a> (<a href="../L/Language_of_Dale.md" title="Language of Dale">Language of Dale</a> · <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a>) · <a href="../P/Pre-Númenórean.md" title="Pre-Númenórean">Pre-Númenórean</a> · <a href="../T/Taliska.md" title="Taliska">Taliska</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Skirditaila&amp;action=edit&amp;redlink=1" title="Skirditaila (page does not exist)">Taliskan skirditaila</a> · <a href="../W/Westron.md" title="Westron">Westron</a> (<a href="../B/Bucklandish.md" title="Bucklandish">Bucklandish</a> · <a href="../H/Hobbitish.md" title="Hobbitish">Hobbitish</a>)
 </td></tr>
@@ -365,25 +365,25 @@ Nếu chúng ta chấp nhận các giá trị của các chữ rune ở trên, c
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/Angerthas.md" title="Angerthas">Angerthas</a> (<a href="../A/Angerthas_Erebor.md" title="Angerthas Erebor">Erebor</a> · <a href="../A/Angerthas_Moria.md" title="Angerthas Moria">Moria</a>) · <a href="../A/Aulëan.md" title="Aulëan">Aulëan</a> · <a href="../I/Iglishmêk.md" title="Iglishmêk">Iglishmêk</a> · <a href="../K/Khuzdul.md" title="Khuzdul">Khuzdul</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Khác
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Other
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../B/Black_Speech.md" title="Black Speech">Black Speech</a> · <a href="../M/Melkian.md" title="Melkian">Melkian</a> · <a href="../E/Entish.md" title="Entish">Old Entish</a> · <a href="../O/Orkish.md" title="Orkish">Orkish</a> · <a href="../V/Valarin.md" title="Valarin">Valarin</a> · <a href="../W/Wolf-language.md" title="Wolf-language">Wolf-language</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Huyền sử thời kỳ đầu
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Earlier legendarium
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="Gnomish.md" title="Gnomish">Gnomish</a> · <a href="Gnomic_Letters.md" title="Gnomic Letters">Chữ Gnomic</a> · <a class="mw-selflink selflink">Rune Gondolinic</a> · <a href="../I/Ilkorin.md" title="Ilkorin">Ilkorin</a> · <a href="../K/Keladian.md" title="Keladian">Keladian</a> · <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> (<a href="../F/Fëanorian_dialect.md" title="Fëanorian dialect">Phương ngữ Fëanorian</a> · <a href="../K/Kornoldorin.md" title="Kornoldorin">Kornoldorin</a>) · <a href="../O/Oromëan.md" title="Oromëan">Oromëan</a> · <a href="../Q/Qenya.md" title="Qenya">Qenya</a> · <a href="../V/Valmaric_script.md" title="Valmaric script">Chữ Valmaric</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="Gnomish.md" title="Gnomish">Gnomish</a> · <a href="Gnomic_Letters.md" title="Gnomic Letters">Gnomic Letters</a> · <a class="mw-selflink selflink">Gondolinic Runes</a> · <a href="../I/Ilkorin.md" title="Ilkorin">Ilkorin</a> · <a href="../K/Keladian.md" title="Keladian">Keladian</a> · <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> (<a href="../F/Fëanorian_dialect.md" title="Fëanorian dialect">Fëanorian dialect</a> · <a href="../K/Kornoldorin.md" title="Kornoldorin">Kornoldorin</a>) · <a href="../O/Oromëan.md" title="Oromëan">Oromëan</a> · <a href="../Q/Qenya.md" title="Qenya">Qenya</a> · <a href="../V/Valmaric_script.md" title="Valmaric script">Valmaric script</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Ngoài huyền sử
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Outside the legendarium
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/Animalic.md" title="Animalic">Animalic</a> · <a href="../A/Arktik.md" title="Arktik">Arktik</a> · <a href="Gautisk.md" title="Gautisk">Gautisk</a> · <a href="Goblin_Alphabet.md" title="Goblin Alphabet">Goblin Alphabet</a> · <a href="../M/Mágol.md" title="Mágol">Mágol</a> · <a href="../N/Naffarin.md" title="Naffarin">Naffarin</a> · <a href="../N/New_English_Alphabet.md" title="New English Alphabet">New English Alphabet</a> · <a href="../N/Nevbosh.md" title="Nevbosh">Nevbosh</a> · <a href="../P/Privata_Kodo_Skauta.md" title="Privata Kodo Skauta">Privata Kodo Skauta</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Thế giới thực
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Real-world
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../C/Celtic.md" title="Celtic">Celtic</a> · <a href="../M/Modern_English.md" title="Modern English">Tiếng Anh</a> (<a href="../O/Old_English.md" title="Old English">Cổ</a> · <a href="../M/Middle_English.md" title="Middle English">Trung</a> · <a href="../A/AB_language.md" title="AB language">AB</a>) · <a href="../F/Finnish.md" title="Finnish">Tiếng Phần Lan</a> · <a href="../N/North_Germanic_languages.md" title="North Germanic languages">Tiếng Đức</a> · <a href="Gothic.md" title="Gothic">Tiếng Gothic</a> · <a href="../H/Hebrew.md" title="Hebrew">tiếng Hebrew</a> · <a href="../L/Latin.md" title="Latin">Tiếng Latinh</a> · <a href="../R/Runes.md" title="Runes">Bảng chữ cái runic</a> · <a href="../W/Welsh.md" title="Welsh">tiếng Wales</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../C/Celtic.md" title="Celtic">Celtic</a> · <a href="../M/Modern_English.md" title="Modern English">English</a> (<a href="../O/Old_English.md" title="Old English">Old</a> · <a href="../M/Middle_English.md" title="Middle English">Middle</a> · <a href="../A/AB_language.md" title="AB language">AB</a>) · <a href="../F/Finnish.md" title="Finnish">Finnish</a> · <a href="../N/North_Germanic_languages.md" title="North Germanic languages">Germanic</a> · <a href="Gothic.md" title="Gothic">Gothic</a> · <a href="../H/Hebrew.md" title="Hebrew">Hebrew</a> · <a href="../L/Latin.md" title="Latin">Latin</a> · <a href="../R/Runes.md" title="Runes">Runic alphabet</a> · <a href="../W/Welsh.md" title="Welsh">Welsh</a>
 </td></tr>
 <tr>
-<td align="center" style="background: var(--tg-color-surface-3); font-size: 90%;" colspan="2"><i><a href="../A/Alphabet_of_Fëanor%253A_Numenian,_or_Westron,_Mode.md" title="Alphabet of Fëanor: Numenian, or Westron, Mode">Alphabet of Fëanor: Numenian, or Westron, Mode</a></i> · "<a href="../A/A_Secret_Vice.md" title="A Secret Vice">Một phó tướng bí mật</a>" (<i><a class="mw-redirect" href="../A/A_Secret_Vice_(book).md" title="A Secret Vice (book)">book</a></i>) · "<a href="../T/The_Lhammas.md" title="The Lhammas">The Lhammas</a>" · "<a href="../T/The_Tree_of_Tongues.md" title="The Tree of Tongues">Cây lưỡi</a>" · <a href="../S/Sub-creation.md" title="Sub-creation">Sáng tạo phụ</a>
+<td align="center" style="background: var(--tg-color-surface-3); font-size: 90%;" colspan="2"><i><a href="../A/Alphabet_of_Fëanor%253A_Numenian,_or_Westron,_Mode.md" title="Alphabet of Fëanor: Numenian, or Westron, Mode">Alphabet of Fëanor: Numenian, or Westron, Mode</a></i> · &#34;<a href="../A/A_Secret_Vice.md" title="A Secret Vice">A Secret Vice</a>&#34; (<i><a class="mw-redirect" href="../A/A_Secret_Vice_(book).md" title="A Secret Vice (book)">book</a></i>) · &#34;<a href="../T/The_Lhammas.md" title="The Lhammas">The Lhammas</a>&#34; · &#34;<a href="../T/The_Tree_of_Tongues.md" title="The Tree of Tongues">The Tree of Tongues</a>&#34; · <a href="../S/Sub-creation.md" title="Sub-creation">Sub-creation</a>
 </td></tr></tbody></table>

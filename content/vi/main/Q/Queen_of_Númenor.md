@@ -16,7 +16,7 @@ sort_keys:
   "Númenor": "Queen of Numenor"
 ---
 
-**Nữ hoàng Númenor** là danh hiệu của vợ/chồng của bất kỳ [Vua nào của Númenor](../K/King_of_Númenor.md), hoặc ba [Nữ hoàng cai trị của Númenor](../R/Ruling_Queens_of_Númenor.md).
+**Nữ hoàng của Númenor** là danh hiệu của vợ/chồng của bất kỳ [Vua nào của Númenor](../K/King_of_Númenor.md), hoặc ba [Nữ hoàng cai trị của Númenor](../R/Ruling_Queens_of_Númenor.md).
 
 <table rules="all" align="center" style="border:1px solid darkgrey; border-collapse:collapse" cellpadding="3" cellspacing="0">
 <tbody><tr>
@@ -25,11 +25,11 @@ sort_keys:
 <tr>
 <td bgcolor="lightgrey"> 
 </td>
-<td bgcolor="lightgrey" style="text-align: center;"><b>Tên</b>
+<td bgcolor="lightgrey" style="text-align: center;"><b>Name</b>
 </td>
-<td bgcolor="lightgrey" style="text-align: center;"><b>Triều đại</b>
+<td bgcolor="lightgrey" style="text-align: center;"><b>Reign</b>
 </td>
-<td style="background:lightgrey; text-align:center"><b>Ghi chú</b>
+<td style="background:lightgrey; text-align:center"><b>Notes</b>
 </td></tr>
 <tr>
 <td>5
@@ -45,7 +45,7 @@ sort_keys:
 </td>
 <td><a href="../E/Erendis.md" title="Erendis">Erendis</a>
 </td>
-<td>Không rõ
+<td>Unknown
 </td>
 <td>Wife of <a href="../T/Tar-Aldarion.md" title="Tar-Aldarion">Tar-Aldarion</a>.
 </td></tr>
@@ -81,7 +81,7 @@ sort_keys:
 </td>
 <td><a href="../I/Inzilbêth.md" title="Inzilbêth">Inzilbêth</a>
 </td>
-<td>Không rõ
+<td>Unknown
 </td>
 <td>Wife of <a href="../A/Ar-Gimilzôr.md" title="Ar-Gimilzôr">Ar-Gimilzôr</a>.
 </td></tr>
@@ -92,5 +92,5 @@ sort_keys:
 </td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_3255.md" title="Second Age 3255">3255</a> - <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_3319.md" title="Second Age 3319">3319</a>
 </td>
-<td>Lẽ ra phải là Nữ hoàng thống trị của Númenor nhưng <a href="../A/Ar-Pharazôn.md" title="Ar-Pharazôn">Ar-Pharazôn</a> đã lấy cô làm vợ bất đắc dĩ và chiếm lấy<br/><a href="../S/Sceptre_of_Númenor.md" title="Sceptre of Númenor">Vương trượng Númenor</a> cho riêng mình.
+<td>Should have been Ruling Queen of Númenor but <a href="../A/Ar-Pharazôn.md" title="Ar-Pharazôn">Ar-Pharazôn</a> took her as his unwilling wife and seized the<br/><a href="../S/Sceptre_of_Númenor.md" title="Sceptre of Númenor">Sceptre of Númenor</a> for himself.
 </td></tr></tbody></table>

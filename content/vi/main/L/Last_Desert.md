@@ -18,7 +18,7 @@ categories:
 
 ## Lịch sử {#History}
 
-Sa mạc cuối cùng chỉ được đề cập trong *[The Hobbit](../T/The_Hobbit.md)*. Khi [Bilbo Baggins](../B/Bilbo_Baggins.md) khăng khăng với [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) rằng ông phù hợp để trở thành tên trộm trong nhiệm vụ của họ, ông nói rằng ông sẵn sàng đi đến "phương Đông của phương Đông", theo ông, đó là địa điểm của một khu vực được gọi là "Sa mạc cuối cùng" nơi [Sâu sói](../W/Were-worms.md) hoang dã sinh sống.<sup id="cite_ref-Hobbit_1-1" class="reference"><a href="#cite_note-Hobbit-1">[1]</a></sup> Tuy nhiên, đây là lần duy nhất đề cập đến Sa mạc cuối cùng và Were-worms, và [Hobbit](../H/Hobbits.md) (người hiếm khi rời khỏi [ Shire](../T/The_Shire.md)) có một nền văn hóa dân gian phong phú, nên sự tồn tại của Sa mạc cuối cùng còn gây tranh cãi.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>who?</i></a>]</sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sa mạc cuối cùng chỉ được đề cập trong *[The Hobbit](../T/The_Hobbit.md)*. Khi [Bilbo Baggins](../B/Bilbo_Baggins.md) khăng khăng với [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) rằng ông ta phù hợp để trở thành tên trộm trong nhiệm vụ của họ, ông ta nói rằng ông ta sẵn sàng đi đến "phương Đông của phương Đông", theo ông ta, đó là địa điểm của một khu vực được gọi là "Sa mạc cuối cùng" nơi [Sâu sói](../W/Were-worms.md) hoang dã sinh sống.<sup id="cite_ref-Hobbit_1-1" class="reference"><a href="#cite_note-Hobbit-1">[1]</a></sup> Tuy nhiên, đây là lần duy nhất đề cập đến Sa mạc cuối cùng và Were-worms, và [Hobbit](../H/Hobbits.md) (người hiếm khi rời khỏi [ Shire](../T/The_Shire.md)) có một nền văn hóa dân gian phong phú, nên sự tồn tại của Sa mạc cuối cùng còn gây tranh cãi.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>who?</i></a>]</sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
@@ -30,12 +30,12 @@ Mặc dù Sa mạc Cuối cùng chỉ được đề cập trong *The Hobbit*, n
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/L/Locations.md" title="Category:Locations">địa điểm</a> huyền thoại ở <a href="../A/Arda.md" title="Arda">Arda</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Legendary <a href="../../category/L/Locations.md" title="Category:Locations">locations</a> in <a href="../A/Arda.md" title="Arda">Arda</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/I/Islands.md" title="Category:Islands">Islands</a>:
 </th>
-<td style="font-size: 90%;"> <a href="../H/Hallow_of_Eru.md" title="Hallow of Eru">Hòn đảo Meneltarma</a>
+<td style="font-size: 90%;"> <a href="../H/Hallow_of_Eru.md" title="Hallow of Eru">Isle of Meneltarma</a>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/M/Mountains.md" title="Category:Mountains">Mountains</a> and <a href="../../category/H/Hills.md" title="Category:Hills">Hills</a>:
@@ -53,7 +53,7 @@ Mặc dù Sa mạc Cuối cùng chỉ được đề cập trong *The Hobbit*, n
 <td style="font-size: 90%;"> <a href="../D/Derrilyn.md" title="Derrilyn">Derrilyn</a>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">Khác:
+<th style="background:var(--tg-color-surface-3);" align="right">Other:
 </th>
 <td style="font-size: 90%;"> <a href="../C/Caves_of_the_Forgotten.md" title="Caves of the Forgotten">Caves of the Forgotten</a> · <a class="mw-redirect" href="../G/Gorbelgod.md" title="Gorbelgod">Gorbelgod</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tong&amp;action=edit&amp;redlink=1" title="Tong (page does not exist)">Tong</a>
 </td></tr>

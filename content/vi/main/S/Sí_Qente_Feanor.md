@@ -15,37 +15,37 @@ categories:
 **Sí Qente Feanor** là một đoạn của [*Parma Eldalamberon* 15](../P/Parma_Eldalamberon_15.md). Đoạn văn 13 dòng này gồm hai câu do nhân vật [Fëanor](../F/Fëanor.md) thốt ra trong [Qenya](../Q/Qenya.md) và phần giải thích ngắn gọn về tình tiết.
 
 <blockquote class="tg-quote noexcerpt">
-<p>'néri ur natsi hoài niệm thêm
-ar váro naltur và ómi karmar<br/>
-– ulqe núsimar' –<br/>
+<p>&#39;néri ur natsi nostalen máre
+ar váro naltur an ómi karmar<br/>
+– ulqe núsimar&#39; –<br/>
 sí qente Feanor n·istaléra<br/>
-varúse qentier itvo san i<br/>
-malto ísier i nosta – 'Qarda<br/>
+varúse qentier nóvo san i<br/>
+malto ísier i nosta – &#39;Qarda<br/>
 qentien no máre nar i hondor<br/>
-nerinwe ar ómu nalto úsiére<br/>
+nérinwe ar ómu nalto úsiére<br/>
 i limbelu tuktalla nai mára<br/>
 nalto fustúme ma Melkon i<br/>
-var limbilto var túkielto<br/>
-– và tôi úmavaisor<br/>
-listanelto ở otso qarda.'
+var limpilto var túkielto<br/>
+– en i úmavaisor<br/>
+listanelto in otso qarda.&#39;
 </p>
 </blockquote>
 
 Bản dịch được đưa ra như sau:
 
 <blockquote class="tg-quote noexcerpt">
-<p>'bản chất đàn ông không phải là loài tốt<br/>
-mà đúng hơn là họ làm mọi việc<br/>
-- có khuynh hướng xấu xa'<br/>
-bây giờ Feanor thông thái đã nói<br/>
-theo cách khác với những gì đã được nói trước đó bởi<br/>
-sự ra đời này được biết đến từ ai - 'Ít<br/>
-tốt hơn, tôi đã nói, là trái tim<br/>
-của những người này và mặc dù họ đã trốn thoát<br/>
-tìm kiếm lâu có thể tốt<br/>
-Melko người<br/>có thể ngửi thấy chúng
-họ bị ràng buộc hoặc đã tìm kiếm<br/>
-- trên ngai vàng của hận thù<br/>
-họ đã ban phước cho cái ác lớn.'
+<p>&#39;men are not beings good by nature<br/>
+but rather they are to all deeds<br/>
+- evil inclined&#39;<br/>
+now said Feanor the wise<br/>
+in other manner than was said before by those<br/>
+from whom this birth was known - &#39;Less<br/>
+than good, I said, are the hearts<br/>
+of these men and although their having escaped<br/>
+the long search may be good<br/>
+they can be smelled out by Melko whom<br/>
+they are bound to or have looked for<br/>
+- there on the throne of hate<br/>
+they blessed the great evil.&#39;
 </p>
 </blockquote>

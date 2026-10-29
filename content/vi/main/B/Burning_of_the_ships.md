@@ -11,4 +11,4 @@ redirect_target: "Of the Flight of the Noldor"
 redirect_fragment: ":~:text=Upon arriving in Middle-earth,perilous journey across the Helcaraxë."
 ---
 
-Chuyển hướng đến [Cuộc Di Tản của người Noldor](../O/Of_the_Flight_of_the_Noldor.md#:~:text=Upon_arriving_in_Middle-earth,perilous_journey_across_the_Helcaraxë.).
+Chuyển hướng đến [Chuyến bay của Noldor](../O/Of_the_Flight_of_the_Noldor.md#:~:text=Upon_arriving_in_Middle-earth,perilous_journey_across_the_Helcaraxë.).

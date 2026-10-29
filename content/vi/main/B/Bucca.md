@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bucca of the Marish"
 ---
 
-Chuyển hướng tới [Bucca xứ Marish](Bucca_of_the_Marish.md).
+Chuyển hướng tới [Bucca của Marish](Bucca_of_the_Marish.md).

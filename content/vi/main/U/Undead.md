@@ -17,8 +17,8 @@ images:
   - "Gail_McIntosh_-_Peril_Returned.jpg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Undead&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Undead&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
@@ -26,7 +26,7 @@ images:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Gail_McIntosh_-_Peril_Returned.jpg.md"><img src="https://tolkiengateway.net/w/images/1/11/Gail_McIntosh_-_Peril_Returned.jpg" decoding="async" loading="lazy" width="295" height="250" class="mw-file-element" data-file-width="295" data-file-height="250"/></a><figcaption><a href="../G/Gail_McIntosh.md" title="Gail McIntosh">Gail McIntosh</a> - <i>Peril Returned</i></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Đối với xác sống sống hoặc bóng tối, tôi sẽ đánh bạn nếu bạn chạm vào ông.
+<p>For living or dark undead, I will smite you, if you touch him.
 </p>
 <p class="tg-quote-footer"><cite><a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> to the <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -54,11 +54,11 @@ Xác sống được biết đến với nhiều cái tên:
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Undead là một lớp quái vật, bao gồm Ma, Bộ xương, Ghoul và nhiều loài khác.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
+<dl><dd>The Undead is a class of monsters, which includes Ghosts, Skeletons, Ghouls, and many others.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd><a class="external text" href="http://lorebook.lotro.com/wiki/Category:The_Dead" rel="noreferrer noopener" target="_blank">Người chết</a> là một loại sinh vật, bao gồm xác sống, linh hồn, bộ xương và nhiều sinh vật khác. Một danh mục liên quan là <a class="external text" href="http://lorebook.lotro.com/wiki/Category:Unseen" rel="noreferrer noopener" target="_blank">The Unseen</a>, bao gồm Nazgûl và các hình bóng liên quan. Một trường hợp xác sống không phải Ác ma tồn tại trong hồn ma của <a href="../A/Arvedui.md" title="Arvedui">Arvedui</a> ở <a href="../F/Forochel.md" title="Forochel">Forochel</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
+<dl><dd><a class="external text" href="http://lorebook.lotro.com/wiki/Category:The_Dead" rel="noreferrer noopener" target="_blank">The Dead</a> is a category of creatures, which includes wights, spirits, skeletons, and many others. A related category is <a class="external text" href="http://lorebook.lotro.com/wiki/Category:Unseen" rel="noreferrer noopener" target="_blank">The Unseen</a>, which includes the Nazgûl and related shadowy figures. One case of a non-Evil undead exists in the ghost of <a href="../A/Arvedui.md" title="Arvedui">Arvedui</a> in <a href="../F/Forochel.md" title="Forochel">Forochel</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
 ## Xem thêm {#See_also}
 

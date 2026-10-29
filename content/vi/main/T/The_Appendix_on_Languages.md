@@ -20,22 +20,22 @@ sort_keys:
 </th></tr>
 <tr>
 <td>
-<ol><li><a href="The_Prologue.md" title="The Prologue">Lời mở đầu</a></li>
-<li><a class="mw-selflink selflink">Phụ lục về ngôn ngữ</a></li>
-<li><a href="The_Family_Trees.md" title="The Family Trees">Phả hệ</a></li>
-<li><a href="The_Calendars.md" title="The Calendars">Các bộ lịch</a></li>
-<li><a href="The_History_of_the_Akallabêth.md" title="The History of the Akallabêth">Lịch sử Akallabêth</a></li>
+<ol><li><a href="The_Prologue.md" title="The Prologue">The Prologue</a></li>
+<li><a class="mw-selflink selflink">The Appendix on Languages</a></li>
+<li><a href="The_Family_Trees.md" title="The Family Trees">The Family Trees</a></li>
+<li><a href="The_Calendars.md" title="The Calendars">The Calendars</a></li>
+<li><a href="The_History_of_the_Akallabêth.md" title="The History of the Akallabêth">The History of the Akallabêth</a></li>
 <li><a href="The_Tale_of_Years_of_the_Second_Age.md" title="The Tale of Years of the Second Age">The Tale of Years of the Second Age</a></li>
-<li><a href="The_Heirs_of_Elendil.md" title="The Heirs of Elendil">Những người thừa kế Elendil</a></li>
+<li><a href="The_Heirs_of_Elendil.md" title="The Heirs of Elendil">The Heirs of Elendil</a></li>
 <li><a href="The_Tale_of_Years_of_the_Third_Age.md" title="The Tale of Years of the Third Age">The Tale of Years of the Third Age</a></li>
-<li><a href="The_Making_of_Appendix_A.md" title="The Making of Appendix A">Quá trình biên soạn Appendix A</a></li>
+<li><a href="The_Making_of_Appendix_A.md" title="The Making of Appendix A">The Making of Appendix A</a></li>
 <li><a href="../O/Of_Dwarves_and_Men.md" title="Of Dwarves and Men">Of Dwarves and Men</a></li>
 <li><a href="The_Shibboleth_of_Fëanor.md" title="The Shibboleth of Fëanor">The Shibboleth of Fëanor</a></li>
 <li><a href="The_Problem_of_Ros.md" title="The Problem of Ros">The Problem of <i>Ros</i></a></li>
-<li><a href="../L/Last_Writings.md" title="Last Writings">Những tác phẩm cuối đời</a></li>
+<li><a href="../L/Last_Writings.md" title="Last Writings">Last Writings</a></li>
 <li><a href="../D/Dangweth_Pengoloð.md" title="Dangweth Pengoloð">Dangweth Pengoloð</a></li>
-<li><a href="../O/Of_Lembas.md" title="Of Lembas">Về Lembas</a></li>
-<li><a href="The_New_Shadow.md" title="The New Shadow">Bóng Tối Mới</a></li>
+<li><a href="../O/Of_Lembas.md" title="Of Lembas">Of Lembas</a></li>
+<li><a href="The_New_Shadow.md" title="The New Shadow">The New Shadow</a></li>
 <li><a href="Tal-Elmar_(chapter).md" title="Tal-Elmar (chapter)">Tal-Elmar</a></li></ol>
 </td></tr></tbody></table>
 
@@ -45,7 +45,7 @@ sort_keys:
 
 Ban đầu tài liệu này được đưa vào Lời mở đầu; vì Đoạn mở đầu lúc đầu được gọi là Lời nói đầu nên [Christopher Tolkien](../C/Christopher_Tolkien.md) được gắn nhãn phiên bản đầu tiên là F\*.<sup id="cite_ref-Languages_1-0" class="reference"><a href="#cite_note-Languages-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:24</sup> Các phiên bản tiếp theo của tài liệu này được đưa vào phần phụ lục nên Christopher gắn nhãn các phiên bản này là F1 đến F4, với tiểu mục "Về bản dịch" được gắn nhãn A.
 
-F\* ban đầu là thông tin mở đầu sẽ theo sau "Chuyển tiếp: Liên quan đến Hobbit" ban đầu. Văn bản bắt đầu bằng việc nói rằng câu chuyện được viết dành cho những ai quan tâm đến [Hobbit](../H/Hobbits.md), đặc biệt là những người bạn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Inklings](../I/Inklings.md). Sau đó, công việc sẽ chuyển sang thảo luận về ngôn ngữ của Hobbit, Ngôn ngữ Chung và chuyển sang các ngôn ngữ của [Tiên tộc](../E/Elves.md), [Con Người](../M/Men.md), [Orc](../O/Orcs.md) và [Người Lùn](../D/Dwarves.md). Christopher tin rằng cha anh có ý định viết lời tựa cống hiến nhưng lại bị cuốn vào việc viết về ngôn ngữ một cách "vô tình". Nhận thấy kết quả là sự kết hợp không đạt yêu cầu, Tolkien đặt văn bản này sang một bên. Sau này ông sẽ sử dụng các phần tử của nó trong Phụ lục F và *Foreword* cho Ấn bản đầu tiên của *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*. Christopher bao gồm một phần Lời nói đầu của Ấn bản đầu tiên để cho thấy cách sử dụng tài liệu của F\*.<sup id="cite_ref-Languages_1-1" class="reference"><a href="#cite_note-Languages-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:19–28</sup>
+F\* ban đầu là thông tin mở đầu sẽ theo sau "Chuyển tiếp: Liên quan đến Hobbit" ban đầu. Văn bản bắt đầu bằng việc nói rằng câu chuyện được viết dành cho những ai quan tâm đến [Hobbit](../H/Hobbits.md), đặc biệt là những người bạn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Inklings](../I/Inklings.md). Sau đó, công việc sẽ chuyển sang thảo luận về ngôn ngữ của Hobbit, Ngôn ngữ Chung và chuyển sang các ngôn ngữ của [Tiên tộc](../E/Elves.md), [Con Người](../M/Men.md), [Orc](../O/Orcs.md) và [Người Lùn](../D/Dwarves.md). Christopher tin rằng cha anh có ý định viết lời tựa cống hiến nhưng lại bị cuốn vào việc viết về ngôn ngữ một cách "vô tình". Nhận thấy kết quả là sự kết hợp không đạt yêu cầu, Tolkien đặt văn bản này sang một bên. Sau này ông sẽ sử dụng các phần tử của nó trong Phụ lục F và *Foreword* cho Phiên bản đầu tiên của *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*. Christopher bao gồm một phần Lời nói đầu của Phiên bản Đầu tiên để cho thấy cách sử dụng tài liệu của F\*.<sup id="cite_ref-Languages_1-1" class="reference"><a href="#cite_note-Languages-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:19–28</sup>
 
 F1, tựa đề "Ghi chú về ngôn ngữ ở cuối Kỷ Đệ Tam", là một bản thảo thô có nhiều sửa đổi. F2, có tiêu đề "Các ngôn ngữ ở cuối Kỷ Đệ Tam", bám sát F1 nhưng có những thay đổi nhỏ khiến Christopher chỉ bao gồm những thay đổi sau. Tuy nhiên, F2 lại được độc giả rất quan tâm vì nó chứa nhiều thông tin mà sau này đã bị loại khỏi phiên bản cuối cùng của Phụ lục F<sup id="cite_ref-Languages_1-2" class="reference"><a href="#cite_note-Languages-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:28–29</sup> (phiên bản đã xuất bản chỉ dài khoảng 1/3 so với F2).<sup id="cite_ref-Languages_1-3" class="reference"><a href="#cite_note-Languages-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:73</sup> Văn bản của F2 được in kèm theo ghi chú và bình luận của Christopher. Một số điểm quan tâm bao gồm:
 

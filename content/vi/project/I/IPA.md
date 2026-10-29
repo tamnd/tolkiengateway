@@ -60,7 +60,7 @@ sort_keys:
 <tr>
 <td><b>Ê, ê</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[eː]</span></td>
-<td><b>ê</b> is how <b>ai</b> are pronounced together. There is (properly) no short <b>e</b>.  The name <i><a href="../../main/Z/Zimraphel.md" title="Zimraphel">Zimraphel</a></i> may be an exception, though it may also actually be <i>Zimraphêl</i>.
+<td><b>ê</b> is how <b>ai</b> are pronounced together.  There is (properly) no short <b>e</b>.  The name <i><a href="../../main/Z/Zimraphel.md" title="Zimraphel">Zimraphel</a></i> may be an exception, though it may also actually be <i>Zimraphêl</i>.
 </td></tr>
 <tr>
 <td><b>G, g</b></td>
@@ -133,7 +133,7 @@ sort_keys:
 <tr>
 <td><b>Ô, ô</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[oː]</span></td>
-<td><b>ô</b> is how <b>au</b> are pronounced together. There is no short <b>o</b>.
+<td><b>ô</b> is how <b>au</b> are pronounced together.  There is no short <b>o</b>.
 </td></tr>
 <tr>
 <td><b>P, p</b></td>
@@ -689,7 +689,7 @@ Lưu ý rằng không có **p** hoặc **ph** trong Khuzdul.
 <tr>
 <td><b>z</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[z]</span></td>
-<td>Only the <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> retain this phoneme. Among the <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> it becomes <b>r</b>, and they pronounce <b>z</b> as <b>s</b> when reading Vanyarin texts.
+<td>Only the <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> retain this phoneme.  Among the <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> it becomes <b>r</b>, and they pronounce <b>z</b> as <b>s</b> when reading Vanyarin texts.
 </td></tr>
 <tr>
 <th colspan="3">Medial Consonant Clusters
@@ -910,7 +910,7 @@ Lưu ý rằng không có **p** hoặc **ph** trong Khuzdul.
 <tr>
 <td><b>rs</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[rs]</span></td>
-<td>Not normally known to exist in Quenya. Occurs in <i><a href="../../main/N/Narsil.md" title="Narsil">Narsil</a></i>, which is a contraction of <i><a href="../../main/S/Sun.md" title="Sun">Anar</a>-<a href="../../main/M/Moon.md#Other_names" title="Moon">Isil</a></i>.
+<td>Not normally known to exist in Quenya.  Occurs in <i><a href="../../main/N/Narsil.md" title="Narsil">Narsil</a></i>, which is a contraction of <i><a href="../../main/S/Sun.md" title="Sun">Anar</a>-<a href="../../main/M/Moon.md#Other_names" title="Moon">Isil</a></i>.
 </td></tr>
 <tr>
 <td><b>rt</b></td>
@@ -993,12 +993,12 @@ Lưu ý rằng không có **p** hoặc **ph** trong Khuzdul.
 <tr>
 <td><b>zw</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[zw]</span></td>
-<td>Only the <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> retain this phoneme. Among the <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> it becomes <b>rw</b>, and they pronounce <b>zw</b> as <b>sw</b> when reading Vanyarin texts.
+<td>Only the <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> retain this phoneme.  Among the <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> it becomes <b>rw</b>, and they pronounce <b>zw</b> as <b>sw</b> when reading Vanyarin texts.
 </td></tr>
 <tr>
 <td><b>zy</b></td>
 <td></td>
-<td>Only the <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> retain this phoneme, but their pronunciation of it is not entirely certain. Among the <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> it becomes <b>ry</b>, and they pronounce <b>zy</b> as <b>sy</b> when reading Vanyarin texts.
+<td>Only the <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> retain this phoneme, but their pronunciation of it is not entirely certain.  Among the <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> it becomes <b>ry</b>, and they pronounce <b>zy</b> as <b>sy</b> when reading Vanyarin texts.
 </td></tr>
 <tr>
 <td><b>þw, thw</b></td>
@@ -1077,7 +1077,7 @@ Lưu ý rằng không có **p** hoặc **ph** trong Khuzdul.
 <tr>
 <td><b>Ae, ae</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[a͡ɛ]</span></td>
-<td>Diphthong. This is similar in sound to <b>ai</b>, but is distinguished by ending with a more open vowel.
+<td>Diphthong.  This is similar in sound to <b>ai</b>, but is distinguished by ending with a more open vowel.
 </td></tr>
 <tr>
 <td><b>Ai, ai</b></td>
@@ -1151,7 +1151,7 @@ Lưu ý rằng không có **p** hoặc **ph** trong Khuzdul.
 <tr>
 <td><b>I, i</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[i, j]</span></td>
-<td>Short vowel. Pronounced <span title="Pronunciation in IPA" class="IPA">[j]</span> when unstressed neighboring another vowel (where practical—in names like <i><a href="../../main/G/Galadriel.md" title="Galadriel">Galadriel</a></i> it might not be).  Pronounced <span title="Pronunciation in IPA" class="IPA">[i]</span> elsewhere.
+<td>Short vowel.  Pronounced <span title="Pronunciation in IPA" class="IPA">[j]</span> when unstressed neighboring another vowel (where practical—in names like <i><a href="../../main/G/Galadriel.md" title="Galadriel">Galadriel</a></i> it might not be).  Pronounced <span title="Pronunciation in IPA" class="IPA">[i]</span> elsewhere.
 </td></tr>
 <tr>
 <td><b>Í, í</b></td>
@@ -1227,7 +1227,7 @@ Lưu ý rằng không có **p** hoặc **ph** trong Khuzdul.
 <tr>
 <td><b>Oe, oe</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[ɔ͡ɛ, ø~ɛ]</span></td>
-<td>Confusingly, this represents two sounds in <a href="../../main/F/First_Age.md" title="First Age">First Age</a> Sindarin.  <span title="Pronunciation in IPA" class="IPA">[oe]</span> is a diphthong, and <span title="Pronunciation in IPA" class="IPA">[ø]</span> is a single vowel. The latter later becomes pronounced and written like <b>e</b>.  Perhaps the most famous word known to be spelled with <b>oe</b> as <span title="Pronunciation in IPA" class="IPA">[ø]</span> is <i><a href="../../main/N/Nirnaeth_Arnoediad.md" title="Nirnaeth Arnoediad">Nirnaeth Arnoediad</a></i>.
+<td>Confusingly, this represents two sounds in <a href="../../main/F/First_Age.md" title="First Age">First Age</a> Sindarin.  <span title="Pronunciation in IPA" class="IPA">[oe]</span> is a diphthong, and <span title="Pronunciation in IPA" class="IPA">[ø]</span> is a single vowel.  The latter later becomes pronounced and written like <b>e</b>.  Perhaps the most famous word known to be spelled with <b>oe</b> as <span title="Pronunciation in IPA" class="IPA">[ø]</span> is <i><a href="../../main/N/Nirnaeth_Arnoediad.md" title="Nirnaeth Arnoediad">Nirnaeth Arnoediad</a></i>.
 </td></tr>
 <tr>
 <td><b>P, p</b></td>
@@ -1236,7 +1236,7 @@ Lưu ý rằng không có **p** hoặc **ph** trong Khuzdul.
 <tr>
 <td><b>Ph, ph</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[fː, f]</span></td>
-<td>Normally pronounced <span title="Pronunciation in IPA" class="IPA">[fː]</span>, but is <span title="Pronunciation in IPA" class="IPA">[f]</span> at the end of a word. In some circumstances, <i>ph</i> is actually the consonant cluster <i>p-h</i>, pronounced as two separate letters.
+<td>Normally pronounced <span title="Pronunciation in IPA" class="IPA">[fː]</span>, but is <span title="Pronunciation in IPA" class="IPA">[f]</span> at the end of a word.  In some circumstances, <i>ph</i> is actually the consonant cluster <i>p-h</i>, pronounced as two separate letters.
 </td></tr>
 <tr>
 <td><b>R, r</b></td>
@@ -1300,7 +1300,7 @@ Lưu ý rằng không có **p** hoặc **ph** trong Khuzdul.
 <tr>
 <td><b>Y, y</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[y~i]</span></td>
-<td>Short vowel. The traditional pronunciation is <span title="Pronunciation in IPA" class="IPA">[y]</span>.  By the <a href="../../main/T/Third_Age.md" title="Third Age">Third Age</a>, all varieties of <span title="Pronunciation in IPA" class="IPA">[y]</span> become pronounced <span title="Pronunciation in IPA" class="IPA">[i]</span> instead.
+<td>Short vowel.  The traditional pronunciation is <span title="Pronunciation in IPA" class="IPA">[y]</span>.  By the <a href="../../main/T/Third_Age.md" title="Third Age">Third Age</a>, all varieties of <span title="Pronunciation in IPA" class="IPA">[y]</span> become pronounced <span title="Pronunciation in IPA" class="IPA">[i]</span> instead.
 </td></tr>
 <tr>
 <td><b>Ý, ý</b></td>

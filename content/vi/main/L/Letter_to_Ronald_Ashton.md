@@ -28,14 +28,14 @@ Vào [12 tháng 3](../_/12_March.md) [1927](../_/1927.md), [J.R.R. Tolkien](../J
 \[Trang đầu tiên (một phần):\]
 
 <blockquote class="tg-quote noexcerpt">
-<p>Không ai trong chúng tôi từng ảo tưởng rằng Oxford = Thiên đường: chúng tôi biết quá rõ điều đó. Tất nhiên, vẫn còn sót lại những dấu tích của nền văn minh ở Oxford, một nền văn minh [sic] mà vì lý do lịch sử đã không đến được phương Bắc trước khi bị chủ nghĩa man rợ mới tràn ngập - nhưng nó vẫn là một phần của nước Anh hiện đại (và là trung tâm của ngành công nghiệp ô tô: sự điên rồ tuyệt vời đó).
+<p>Neither of us were ever under the delusion that Oxford = Paradise: we know it too well. There are still lingering vestiges of civilisation in Oxford of course, a civilization [sic] that for historical reasons did not reach the North before it was overwhelmed by the new barbarism - but it is still part of modern England (and a centre of the motor industry: that fantastic lunacy).
 </p>
 </blockquote>
 
 \[Trang thứ hai:\]
 
 <blockquote class="tg-quote noexcerpt">
-<p>Về phần mình, tôi thấy có nhiều điều khiến tôi tiếc nuối Leeds rất nhiều. Tôi rất nghi ngờ liệu tôi có nên xé xác bản thân nếu tôi là một người đàn ông độc thân và có thể bỏ qua những khác biệt nhỏ về tiền lương hay không. Trường học tiếng Anh ở đây là một bãi chiến trường và có chút yên bình cũng như ít ý nghĩa trong đó.<br/>Tôi hy vọng khi bạn đã giải quyết được điều kỳ lạ bất hạnh của mình trong Ed. Phòng - sản phẩm tuyệt vời của khoa học giả nửa vời - rằng bạn sẽ có được một công việc ở mức chấp nhận được. Dù sao thì trình độ của bạn cũng đủ tốt. Tôi hy vọng bạn [?tốt] và [?khởi sắc]. Xin hãy nhớ đến tôi một cách tử tế ??? ??? Ông Ashton.<br/><br/>[?Trân trọng]<br/><br/>JRR Tolkien
+<p>As for myself I find much that makes me regret Leeds very much. I doubt very much whether I should ever have torn myself away if I had been a single man, and able to disregard small differences in salary. The English School here is a battle-ground and there is small peace and little sense in it.<br/>I hope when you have dreed your unhappy weird in the Ed. Dept. — glorious product of half-baked pseudo-science — that you will get a job of a tolerable sort. Your qualifications are good enough anyhow. I hope you are [?well] and [?flourishing]. Please remember me kindly ??? ??? Mr. Ashton.<br/><br/>[?Sincerely]<br/><br/>JRR Tolkien
 </p>
 </blockquote>
 

@@ -20,26 +20,26 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Ainulindalë</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Ainulindalë_(disambiguation).md" title="Ainulindalë (disambiguation)">Ainulindalë (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Ainulindalë</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Ainulindalë_(disambiguation).md" title="Ainulindalë (disambiguation)">Ainulindalë (disambiguation)</a></b>.</div></div>
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin:15px;border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> chương
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> chapters
 </th></tr>
 <tr>
 <td>
-<dl><dd><b>Phần Một</b></dd></dl>
-<ol><li><a href="../T/The_Early_History_of_the_Legend.md" title="The Early History of the Legend">Lịch sử ban đầu của truyền thuyết</a></li>
+<dl><dd><b>Part One</b></dd></dl>
+<ol><li><a href="../T/The_Early_History_of_the_Legend.md" title="The Early History of the Legend">The Early History of the Legend</a></li>
 <li><a href="../T/The_Fall_of_Númenor_(chapter).md" title="The Fall of Númenor (chapter)">The Fall of Númenor</a></li>
 <li><a href="../T/The_Lost_Road.md" title="The Lost Road">The Lost Road</a></li></ol>
 <dl><dd><b>Part Two</b><i></i></dd></dl>
-<ol><li><a href="../T/The_Texts_and_Their_Relations.md" title="The Texts and Their Relations">Các văn bản và mối liên hệ giữa chúng</a></li>
+<ol><li><a href="../T/The_Texts_and_Their_Relations.md" title="The Texts and Their Relations">The Texts and Their Relations</a></li>
 <li><a href="../T/The_Later_Annals_of_Valinor.md" title="The Later Annals of Valinor">The Later Annals of Valinor</a></li>
-<li><a href="../T/The_Later_Annals_of_Beleriand.md" title="The Later Annals of Beleriand">Biên niên sử muộn của Beleriand</a></li>
+<li><a href="../T/The_Later_Annals_of_Beleriand.md" title="The Later Annals of Beleriand">The Later Annals of Beleriand</a></li>
 <li><a class="mw-selflink selflink">Ainulindalë</a></li>
 <li><a href="../T/The_Lhammas.md" title="The Lhammas">The Lhammas</a></li>
 <li><a href="../Q/Quenta_Silmarillion_(Lost_Road).md" title="Quenta Silmarillion (Lost Road)">Quenta Silmarillion</a></li></ol>
-<dl><dd><b>Phần Ba</b>
+<dl><dd><b>Part Three</b>
 <dl><dd><a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a></dd></dl></dd></dl>
 </td></tr></tbody></table>
 
@@ -47,7 +47,7 @@ images:
 
 ## Tóm tắt {#Synopsis}
 
-<dl><dd><i>Xem tóm tắt trong "<a href="../T/The_Music_of_the_Ainur.md#The_Music_of_the_Ainur" title="The Music of the Ainur">The Âm nhạc của các Ainur</a>"</i></dd></dl>
+<dl><dd><i>See synopsis given in &#34;<a href="../T/The_Music_of_the_Ainur.md#The_Music_of_the_Ainur" title="The Music of the Ainur">The Music of the Ainur</a>&#34;</i></dd></dl>
 
 Sự khác biệt về tường thuật với phiên bản trước chỉ giới hạn ở khuôn khổ. Bây giờ Rúmil của [Tol Eressëa](../T/Tol_Eressëa.md) là [Rúmil](<../R/Rúmil_(elf_of_Tirion).md>) của [Tûn](../T/Tûn.md) và [Eriol](../E/Eriol.md) được đặt tên theo tên [tiếng Anh](../O/Old_English.md) *[Ælfwine](../_/Ælfwine.md)* của ông. Rúmil vẫn là người kể lại câu chuyện cho Eriol nhưng nó được viết ra như một tác phẩm đàng hoàng.
 
@@ -57,7 +57,7 @@ Văn bản này trực tiếp tiếp nối huyền thoại vũ trụ học đư�
 
 Trong phiên bản này, Tolkien đã thực hiện hai bản thảo, trong đó [Christopher Tolkien](../C/Christopher_Tolkien.md) đặt tên *Ainulindalë* A và *Ainulindalë* B. The đầu tiên là cực kỳ thô sơ, đầy những thay đổi tại thời điểm sáng tác liên quan đến việc loại bỏ bối cảnh Lost Tales. Điều này chỉ có tiêu đề *The Music of the Ainur* được thêm vào sau. *Ainulindalë* B có lẽ được làm ngay sau phần trước, là một bản thảo đẹp mắt chỉ với một vài thay đổi mang tính cứng nhắc trong câu chuyện. Nó bao gồm [Elvish](../E/Elvish.md) tiêu đề *Ainulindalë* và quyền tác giả của [Rúmil](<../R/Rúmil_(elf_of_Tirion).md>), liên kết nó với "Tài liệu Gnomes" như *[The Ambarkanta](../T/The_Ambarkanta.md)* và *[The Lhammas](../T/The_Lhammas.md)*.<sup id="cite_ref-Ainulindale_1-1" class="reference"><a href="#cite_note-Ainulindale-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:154–5</sup>
 
-Dù mỗi câu đều được viết lại nhưng điểm khác biệt đáng chú ý duy nhất với *[Ainulindalë](Ainulindalë.md)* của *[The Silmarillion](../T/The_Silmarillion.md)* vẫn là thiếu vắng [Khải tượng của Ilúvatar](../V/Vision_of_Ilúvatar.md) và [từ ngữ sáng tạo](../E/Eä.md).<sup id="cite_ref-Ainulindale_1-2" class="reference"><a href="#cite_note-Ainulindale-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:166</sup>
+Dù mỗi câu đều được viết lại nhưng điểm khác biệt đáng chú ý duy nhất với *[Ainulindalë](Ainulindalë.md)* của *[The Silmarillion](../T/The_Silmarillion.md)* vẫn là thiếu vắng [Tầm nhìn của Ilúvatar](../V/Vision_of_Ilúvatar.md) và [từ ngữ sáng tạo](../E/Eä.md).<sup id="cite_ref-Ainulindale_1-2" class="reference"><a href="#cite_note-Ainulindale-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:166</sup>
 
 Nhiều năm sau, Tolkien viết một phiên bản mới bằng [1946](../_/1946.md), trong đó chỉ còn lại một trang bị rách.
 

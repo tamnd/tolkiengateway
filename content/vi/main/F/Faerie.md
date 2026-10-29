@@ -20,7 +20,7 @@ images:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>...đến Faerie trong Phương Tây. Ở đó, Ánh sáng-Tiên tộc, Sâu-Tiên tộc và Biển-Tiên tộc đã đến và sống qua nhiều thời đại, ngày càng công bằng hơn, khôn ngoan hơn và hiểu biết hơn, đồng thời phát minh ra phép thuật và thủ công xảo quyệt của mình trong việc tạo ra những thứ đẹp đẽ và kỳ diệu, trước khi một số quay trở lại Thế giới Rộng lớn.
+<p>...to Faerie in the West. There the Light-elves and the Deep-elves and the Sea-elves went and lived for ages, and grew fairer and wiser and more learned, and invented their magic and their cunning craft in the making of beautiful and marvellous things, before some came back into the Wide World.
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="Flies_and_Spiders.md" title="Flies and Spiders">Flies and Spiders</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -36,9 +36,9 @@ Bài thơ [Bilbo Baggins](../B/Bilbo_Baggins.md)' *[Errantry](../E/Errantry.md)*
 Ý tưởng về Faërie thực sự gói gọn một khái niệm sâu sắc hơn nhiều được Tolkien khám phá trong bài giảng và bài tiểu luận *[On Fairy-Stories](../O/On_Fairy-Stories.md)* của mình, trong đó nó đại diện cho một lĩnh vực bên lề trải nghiệm của con người, nơi sinh sống của những sinh vật kỳ ảo.
 
 <blockquote class="tg-quote noexcerpt">
-<p>- Thần tiên. Có thể là thuật ngữ quan trọng nhất trong từ vựng quan trọng của Tolkien, với rất nhiều từ ám chỉ phức tạp. Ông dùng nó để chỉ Thế giới khác ngoài năm giác quan - một thực tại song song tiếp tuyến về thời gian và không gian với thế giới bình thường; ông ấy dùng nó để chỉ việc thực hành bùa mê hoặc phép thuật, đặc biệt là thông qua việc sử dụng từ ngữ, chẳng hạn như bùa chú hoặc bùa chú; và ông dùng nó để ám chỉ trạng thái tinh thần hoặc tâm lý bị thay đổi do việc thực hành như vậy mang lại. Tolkien cố tình sử dụng cách viết biến thể thay cho từ "nàng tiên" thông thường hơn, để tạo khoảng cách cho bản thân và người đọc khỏi ý nghĩa thanh nhã và xinh đẹp của cách viết đó. Theo thời gian, ông đã thử nghiệm nhiều cách viết khác nhau nhưng luôn cổ xưa, bao gồm cả Thần tiên và Thần tiên, nhưng vẫn luôn trung thành với cùng một nhóm ý nghĩa.
+<p>- Faërie. Possibly the single most important term in Tolkien&#39;s critical lexicon, with a complex of referents. He used it to mean the Otherworld beyond the five senses - a parallel reality tangential in time and space to the ordinary world; he used it to mean the practice of enchantment or magic, especially through the use of words, for example spells or charms; and he used it to mean the altered mental or psychological state brought about by such practise. Tolkien deliberately employed the variant spelling in place of the more conventional &#34;fairy&#34;, to distance himself and his reader from that spelling&#39;s connotations of daintiness and prettiness. Over the course of time, he experimented with various but always archaic spellings, including Faery and Fayery, but remained ever faithful to the same set of meanings.
 </p>
-<p class="tg-quote-footer"><cite>"<a class="mw-redirect" href="../O/On_Fairy-stories~23735.md" title="On Fairy-stories">Về truyện cổ tích</a>, Bình luận của biên tập viên" trong <a href="../T/Tolkien_On_Fairy-stories~23734.md" title="Tolkien On Fairy-stories">Tolkien Về truyện cổ tích</a> Bản mở rộng, có bình luận và ghi chú
+<p class="tg-quote-footer"><cite>&#34;<a class="mw-redirect" href="../O/On_Fairy-stories~23735.md" title="On Fairy-stories">On Fairy-stories</a>, Editor&#39;s Commentary&#34; in <a href="../T/Tolkien_On_Fairy-stories~23734.md" title="Tolkien On Fairy-stories">Tolkien On Fairy-stories</a> Expanded edition, with commentary and notes
 </cite></p>
 </blockquote>
 

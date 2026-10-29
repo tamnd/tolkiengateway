@@ -21,8 +21,8 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=%C3%93sanw%C3%AB&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
-<p>...còn nhiều điều khác có thể được kể.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=%C3%93sanw%C3%AB&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<p>...there is much else that may be told.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
@@ -39,19 +39,19 @@ Khả năng giao tiếp có thể được tăng cường thông qua nhiều ph�
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>Khi <a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Đoàn Hộ Nhẫn</a> đến <a href="../C/Caras_Galadhon.md" title="Caras Galadhon">Caras Galadhon</a>, <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> nói chuyện bằng thần giao cách cảm với họ về số phận của <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> và đặc biệt chào <a class="mw-redirect" href="../F/Frodo.md" title="Frodo">Frodo</a>. Bà lại nói chuyện với người sau theo cách tương tự về <a class="mw-redirect" href="../O/One_Ring.md" title="One Ring">Nhẫn Chúa</a> sau khi ông nhìn vào <a href="../M/Mirror_of_Galadriel.md" title="Mirror of Galadriel">Gương của Galadriel</a>.</dd></dl>
+<dl><dd>When the <a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Fellowship of the Ring</a> arrives in <a href="../C/Caras_Galadhon.md" title="Caras Galadhon">Caras Galadhon</a>, <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> telepathically talks to them about the fate of <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> and specifically greets <a class="mw-redirect" href="../F/Frodo.md" title="Frodo">Frodo</a>. She talks to the latter again in the same way about the <a class="mw-redirect" href="../O/One_Ring.md" title="One Ring">One Ring</a> after he looked into the <a href="../M/Mirror_of_Galadriel.md" title="Mirror of Galadriel">Mirror of Galadriel</a>.</dd></dl>
 
 <b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
-<dl><dd>Trước khi <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Trận Hornburg</a> bắt đầu, Galadriel và <a href="../E/Elrond.md" title="Elrond">Elrond</a> đã liên lạc đường dài về mối nguy hiểm đang chờ đợi <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> và những người khác ở đó, đồng thời cử một đội quân Tiên tộc đến chiến đấu với họ.</dd></dl>
+<dl><dd>Before the beginning of the <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Battle of the Hornburg</a>, Galadriel and <a href="../E/Elrond.md" title="Elrond">Elrond</a> have a long-distance communication about the danger awaiting <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> and the others there, and send a troop of Elves to fight with them.</dd></dl>
 
 <b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
-<dl><dd>Khi <a class="mw-redirect" href="../P/Pippin.md" title="Pippin">Pippin</a> nhìn vào palantír của Isengard, ông có thể ngăn chặn tâm trí của mình đối với Sauron và ngăn chặn bất kỳ thông tin nào về Nhẫn Chúa tiếp cận ông.</dd></dl>
+<dl><dd>When <a class="mw-redirect" href="../P/Pippin.md" title="Pippin">Pippin</a> looks into the palantír of Isengard, he is able to close off his mind to Sauron and prevent any information about the One Ring from reaching him.</dd></dl>
 
 <b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
-<dl><dd>Trong cuộc họp, <a href="../W/White_Council.md" title="White Council">Bạch Hội Đồng</a> tại <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a> Galadriel chào <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> bằng thần giao cách cảm và họ tiếp tục liên lạc trong khi <a href="../S/Saruman.md" title="Saruman">Saruman</a> đang nói chuyện.</dd></dl>
+<dl><dd>During the meeting of the <a href="../W/White_Council.md" title="White Council">White Council</a> at <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a> Galadriel greets <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> telepathically, and they continue to communicate while <a href="../S/Saruman.md" title="Saruman">Saruman</a> is talking.</dd></dl>
 
 ## Xem thêm {#See_also}
 

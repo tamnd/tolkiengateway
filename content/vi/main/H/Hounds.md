@@ -30,11 +30,11 @@ Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu c�
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Chó Săn thường được nhắc đến nhiều nhất là "<i>the fierce wolfhound  (S. &#39;huadraug&#39;)</i>", được sử dụng bởi Con Người hoặc Hobbit và đôi khi được tìm thấy trong tự nhiên. Vào thời xa xưa, Chó săn được các quý tộc Con Người sử dụng để săn chiến binh và người sói của Morgoth.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
+<dl><dd>The Hound most often refers to &#34;<i>the fierce wolfhound  (S. &#39;huadraug&#39;)</i>&#34;, used by Men or Hobbits, and sometimes found in the wild. In the Elder Days, the Hounds were used by noble Men to hunt Morgoth&#39;s wargs and werewolves.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
 <b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
-<dl><dd>"Wild Chó săn", miêu tả việc tấn công một con Orc, là một Phe Tài nguyên. "Chó săn of Sauron" là một Sự kiện Tài nguyên, có thể được đấu với các công ty anh hùng. Và "Chó săn cao quý" là Resource Ally, có thể chơi được bởi các công ty Hero.</dd></dl>
+<dl><dd>&#34;Wild Hounds&#34;, portrayed attacking an orc, is a Resource Faction. &#34;Hounds of Sauron&#34; is a Resource Event, which can be played against hero companies. And the &#34;Noble Hound&#34; is Resource Ally, playable by Hero companies.</dd></dl>
 
 ## Xem thêm {#See_also}
 

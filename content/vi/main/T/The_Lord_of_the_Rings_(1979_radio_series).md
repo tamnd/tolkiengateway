@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Lord of the Rings</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Lord of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
 
 **The Lord of the Rings** là bản chuyển thể [1979](../_/1979.md) radio của [Bernard Mayes](../B/Bernard_Mayes.md), do <a class="extiw" href="http://en.wikipedia.org/wiki/The_Mind%27s_Eye_(publisher)" title="wikipedia:The Mind&#39;s Eye (publisher)">The Mind's Eye</a>sản xuất.
 
@@ -54,8 +54,8 @@ Quá trình sản xuất bị lu mờ bởi [BBC](<The_Lord_of_the_Rings_(1981_r
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Diễn viên</th>
-<th>Vai trò
+<th>Actor</th>
+<th>Role
 </th></tr>
 <tr>
 <td><a href="../J/James_Arrington.md" title="James Arrington">James Arrington</a></td>
@@ -79,7 +79,7 @@ Quá trình sản xuất bị lu mờ bởi [BBC](<The_Lord_of_the_Rings_(1981_r
 </td></tr>
 <tr>
 <td>Carl Hague</td>
-<td><a href="../E/Elrond.md" title="Elrond">Elrond</a>, <a href="../B/Beregond.md" title="Beregond">Beregond</a>, Giọng nói bổ sung
+<td><a href="../E/Elrond.md" title="Elrond">Elrond</a>, <a href="../B/Beregond.md" title="Beregond">Beregond</a>, Additional voices
 </td></tr>
 <tr>
 <td>Karen Hurley</td>

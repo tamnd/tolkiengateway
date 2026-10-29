@@ -26,7 +26,7 @@ infobox:
     value: "Disneyland / Vista"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Return_of_the_King_-_A_Story_of_the_Hobbits.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cf/The_Return_of_the_King_-_A_Story_of_the_Hobbits.jpg/320px-The_Return_of_the_King_-_A_Story_of_the_Hobbits.jpg" decoding="async" loading="lazy" width="320" height="323" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cf/The_Return_of_the_King_-_A_Story_of_the_Hobbits.jpg/480px-The_Return_of_the_King_-_A_Story_of_the_Hobbits.jpg 1.5x, https://tolkiengateway.net/w/images/c/cf/The_Return_of_the_King_-_A_Story_of_the_Hobbits.jpg 2x" data-file-width="597" data-file-height="603"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Return of the King: A Story of the Hobbits</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">LP / CD by Various</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">1980 (LP) / ? (CD)</td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Soundtrack</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr><tr><th scope="row" class="tg-infobox-label">Nhãn</th><td class="tg-infobox-data"><a class="mw-redirect" href="../D/Disney.md" title="Disney">Disneyland</a> / Vista</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Return_of_the_King_-_A_Story_of_the_Hobbits.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cf/The_Return_of_the_King_-_A_Story_of_the_Hobbits.jpg/320px-The_Return_of_the_King_-_A_Story_of_the_Hobbits.jpg" decoding="async" loading="lazy" width="320" height="323" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cf/The_Return_of_the_King_-_A_Story_of_the_Hobbits.jpg/480px-The_Return_of_the_King_-_A_Story_of_the_Hobbits.jpg 1.5x, https://tolkiengateway.net/w/images/c/cf/The_Return_of_the_King_-_A_Story_of_the_Hobbits.jpg 2x" data-file-width="597" data-file-height="603"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Return of the King: A Story of the Hobbits</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">LP / CD by Various</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">1980 (LP) / ? (CD)</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Soundtrack</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data"><a class="mw-redirect" href="../D/Disney.md" title="Disney">Disneyland</a> / Vista</td></tr></tbody></table>
 
 **The Return of the King: A Story of the Hobbit** là nhạc phim của [The Return of the King (phim năm 1980)](<The_Return_of_the_King_(1980_film).md>), được phát hành tại [1980](../_/1980.md) bởi [Disneyland](../D/Disney.md) / Vista. Ban đầu được sản xuất trên đĩa vinyl, phiên bản đĩa compact (CD) tiếp theo đã được phát hành.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -64,10 +64,10 @@ Tháng ba của - <a class="new" href="https://tolkiengateway.net/w/index.php?ti
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Nhạc phim chính thức</b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Official Soundtracks</b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4);" colspan="3">Phim
+<td align="center" style="background:var(--tg-color-surface-4);" colspan="3">Films
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); font-size: 90%; padding-right: 4px;">1977-1980
@@ -85,15 +85,15 @@ Tháng ba của - <a class="new" href="https://tolkiengateway.net/w/index.php?ti
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack">An Unexpected Journey</a></i> (<a href="The_Hobbit%253A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition">Special Edition</a>) · <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack">The Desolation of Smaug</a></i> (<a href="The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack - Special Edition">Special Edition</a>) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack">The Battle of Five Armies</a></i> (<a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md" title="The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition">Special Edition</a>)
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); font-size: 90%; padding-right: 4px;">2022–nay
+<th align="right" style="background:var(--tg-color-surface-4); font-size: 90%; padding-right: 4px;">2022-Present
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md" title="The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)">The Rings of Power: Season One</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack).md" title="The Lord of the Rings: The War of the Rohirrim (Original Motion Picture Soundtrack)">The War of the Rohirrim</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_Two%253A_Amazon_Original_Series_Soundtrack).md" title="The Lord of the Rings: The Rings of Power (Season Two: Amazon Original Series Soundtrack)">The Rings of Power: Season Two</a></i>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4);" colspan="3">Trò chơi điện tử
+<td align="center" style="background:var(--tg-color-surface-4);" colspan="3">Video Games
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); font-size: 90%; padding-right: 4px;">2003–nay
+<th align="right" style="background:var(--tg-color-surface-4); font-size: 90%; padding-right: 4px;">2003-Present
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="The_Hobbit_Soundtrack_(2003_video_game).md" title="The Hobbit Soundtrack (2003 video game)">The Hobbit</a> · <a href="The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar_(soundtrack).md" title="The Lord of the Rings Online: Shadows of Angmar (soundtrack)">Shadows of Angmar</a> · <a href="The_Lord_of_the_Rings_Online%253A_Mines_of_Moria_(soundtrack).md" title="The Lord of the Rings Online: Mines of Moria (soundtrack)">Mines of Moria</a>
 </td></tr></tbody></table>

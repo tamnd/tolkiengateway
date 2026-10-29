@@ -25,7 +25,7 @@ infobox:
     value: "La Feuille de la Compagnie 2"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>La Feuille de la Compagnie, vol.1</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data"><a href="../M/Michaël_Devaux.md" title="Michaël Devaux">Michaël Devaux</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người đóng góp</th><td class="tg-infobox-data">Michaël Devaux, Cédric Fockeu, Sébastien Mallet &amp; Didier Willis</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">L&#39;Œil du Sphinx</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">2001</td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="La_Feuille_de_la_Compagnie_2.md" title="La Feuille de la Compagnie 2"><i>La Feuille de la Compagnie</i> 2</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>La Feuille de la Compagnie, vol.1</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../M/Michaël_Devaux.md" title="Michaël Devaux">Michaël Devaux</a></td></tr><tr><th scope="row" class="tg-infobox-label">Contributors</th><td class="tg-infobox-data">Michaël Devaux, Cédric Fockeu, Sébastien Mallet &amp; Didier Willis</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">L&#39;Œil du Sphinx</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">2001</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="La_Feuille_de_la_Compagnie_2.md" title="La Feuille de la Compagnie 2"><i>La Feuille de la Compagnie</i> 2</a></td></tr></tbody></table>
 
 <i><b>La Feuille de la Compagnie</b></i>, **tập 1**, <i><b>Cahier d'études tolkieniennes</b></i> là số của tạp chí Pháp *La Feuille de la Compagnie*.
 
@@ -78,12 +78,12 @@ infobox:
 <th align="center" style="background:var(--tg-color-surface-5)" colspan="2">La Feuille de la Compagnie
 </th></tr>
 <tr>
-<th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;">Số phát hành
+<th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;">Issues
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a class="mw-selflink selflink">1</a> · <a href="La_Feuille_de_la_Compagnie_2.md" title="La Feuille de la Compagnie 2">2</a> · <a href="La_Feuille_de_la_Compagnie_3.md" title="La Feuille de la Compagnie 3">3</a>
 </td></tr>
 <tr>
-<th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;">Họ hàng
+<th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;">Relatives
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../M/Michaël_Devaux.md" title="Michaël Devaux">Michaël Devaux</a>, <a href="L&#39;association_La_Compagnie_de_la_Comté.md" title="L&#39;association La Compagnie de la Comté">L'association La Compagnie de la Comté</a> (không còn tồn tại)
+<td style="font-size: 90%; padding-left: 4px;"><a href="../M/Michaël_Devaux.md" title="Michaël Devaux">Michaël Devaux</a>, <a href="L&#39;association_La_Compagnie_de_la_Comté.md" title="L&#39;association La Compagnie de la Comté">L&#39;association La Compagnie de la Comté</a> (defunct)
 </td></tr></tbody></table>

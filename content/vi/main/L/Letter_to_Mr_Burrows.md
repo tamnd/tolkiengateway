@@ -27,7 +27,7 @@ Vào [1 tháng 8](../_/1_August.md) [1969](../_/1969.md), [J.R.R. Tolkien](../J/
 ## Nội dung {#Contents}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Kính gửi ông Burrows,<br/><br/>Cảm ơn ông vì &amp; lá thư cảm kích. Tôi trả lại bìa 'Hobbit' đã ký của bạn.<br/><br/>Bạn chưa tìm ra địa chỉ của tôi: Tôi đã rời đi Oxford một năm trước. Bây giờ tôi đang sống trong trạng thái 'nghỉ hưu' - với nỗ lực duy trì thời gian không bị gián đoạn. Tất cả các bức thư sẽ được chuyển tiếp từ địa chỉ <s>trên</s> bên dưới. Tôi đã không khỏe trong suốt tháng 7 và điều này cộng thêm việc chuyển tiếp bởi P.Office hẳn là lý do cho sự chậm trễ của tôi. Lời chúc tốt đẹp nhất. Trân trọng<br/><br/>J.R.R. Tolkien
+<p>Dear Mr Burrows,<br/><br/>Thank you for kind &amp; appreciative letter. I return your &#39;Hobbit&#39; cover signed.<br/><br/>You have not discovered my address: I left Oxford a year ago. I now live in &#39;retirement&#39; —in an endeavour to preserve some time free from interruptions. All letters will be forwarded from the <s>above</s> below address. I have been unwell during July and this added to the forwarding by the P.Office must be my excuse for delay. Best wishes. Yours sincerely<br/><br/>J.R.R. Tolkien
 </p>
 </blockquote>
 

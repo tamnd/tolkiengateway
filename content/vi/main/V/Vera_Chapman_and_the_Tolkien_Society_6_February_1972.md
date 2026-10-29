@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Vera Chapman and the Tolkien Society"
 ---
 
-Chuyển hướng đến [Thư gửi Vera Chapman và Hội Tolkien](../L/Letter_to_Vera_Chapman_and_the_Tolkien_Society.md).
+Chuyển hướng đến [Thư gửi Vera Chapman và Hiệp hội Tolkien](../L/Letter_to_Vera_Chapman_and_the_Tolkien_Society.md).

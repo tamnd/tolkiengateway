@@ -16,7 +16,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
 **In the Willow-meads of Tasarinan** là bài hát được hát bởi [Treebeard](../T/Treebeard.md) vào [29 tháng 2](../_/29_February.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> khi anh sải bước qua [Rừng Fangorn](../F/Fangorn_Forest.md), đưa [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) về nhà [Wellinghall](../W/Wellinghall.md) ở chân núi [Methedras](../M/Methedras.md). Treebeard đã kể cho các hobbit về "những ngày rộng rãi" vào [Kỷ Đệ Nhất](../F/First_Age.md) khi khu rừng còn rộng lớn hơn nhiều và sau một lúc im lặng, ông bắt đầu hát bài hát này khi đi bộ.
@@ -24,24 +24,24 @@ images:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic;margin-left:20px;" class="poem">
-<p>Trên cánh đồng liễu của <a href="../N/Nan-tathren.md" title="Nan-tathren">Tasarinan</a> tôi bước đi trong mùa xuân.<br/>
-À! cảnh và mùi của Mùa xuân ở Nan-tasarion!<br/>
-Và tôi đã nói điều đó là tốt.<br/>
-Tôi lang thang vào mùa hè trong rừng du <a href="../O/Ossiriand.md" title="Ossiriand">Ossiriand</a>.<br/>
-À! ánh sáng và âm nhạc mùa hè bên Bảy dòng sông Ossir!<br/>
-Và tôi nghĩ đó là điều tốt nhất.<br/>
-Đến những cây sồi <a href="../F/Forest_of_Neldoreth.md" title="Forest of Neldoreth">Neldoreth</a> tôi đến vào mùa Thu.<br/>
-À! màu vàng, màu đỏ và tiếng lá thở dài vào mùa thu ở Taur-na-neldor!<br/>
-Nó còn hơn cả mong muốn của tôi.<br/>
-Đến những cây thông trên cao nguyên <a href="../D/Dorthonion.md" title="Dorthonion">Dorthonion</a> tôi đã leo vào mùa Đông.<br/>
-À! gió và màu trắng và những cành đen của Mùa đông trên <a href="../O/Orod-na-Thôn.md" title="Orod-na-Thôn">Orod-na-Thôn</a>!<br/>
-Giọng hát của tôi cất lên và hát trên bầu trời.<br/>
-Và bây giờ tất cả những vùng đất đó đều nằm dưới làn sóng,<br/>
-Và tôi bước vào <a class="mw-redirect" href="../A/Ambaróna.md" title="Ambaróna">Ambarona</a>, ở <a class="mw-redirect" href="../T/Tauremorna.md" title="Tauremorna">Tauremorna</a>, ở <a class="mw-redirect" href="../A/Aldalómë.md" title="Aldalómë">Aldalómë</a>,<br/>
-Trên mảnh đất của tôi, trên đất nước Fangorn,<br/>
-Nơi rễ dài<br/>
-Và năm tháng dày hơn lá<br/>
-Ở Tauremornalómë.
+<p>In the willow-meads of <a href="../N/Nan-tathren.md" title="Nan-tathren">Tasarinan</a> I walked in the Spring.<br/>
+Ah! the sight and the smell of the Spring in Nan-tasarion!<br/>
+And I said that was good.<br/>
+I wandered in Summer in the elm-woods of <a href="../O/Ossiriand.md" title="Ossiriand">Ossiriand</a>.<br/>
+Ah! the light and the music in the Summer by the Seven Rivers of Ossir!<br/>
+And I thought that was best.<br/>
+To the beeches of <a href="../F/Forest_of_Neldoreth.md" title="Forest of Neldoreth">Neldoreth</a> I came in the Autumn.<br/>
+Ah! the gold and the red and the sighing of leaves in the Autumn in Taur-na-neldor!<br/>
+It was more than my desire.<br/>
+To the pine-trees upon the highland of <a href="../D/Dorthonion.md" title="Dorthonion">Dorthonion</a> I climbed in the Winter.<br/>
+Ah! the wind and the whiteness and the black branches of Winter upon <a href="../O/Orod-na-Thôn.md" title="Orod-na-Thôn">Orod-na-Thôn</a>!<br/>
+My voice went up and sang in the sky.<br/>
+And now all those lands lie under the wave,<br/>
+And I walk in <a class="mw-redirect" href="../A/Ambaróna.md" title="Ambaróna">Ambarona</a>, in <a class="mw-redirect" href="../T/Tauremorna.md" title="Tauremorna">Tauremorna</a>, in <a class="mw-redirect" href="../A/Aldalómë.md" title="Aldalómë">Aldalómë</a>,<br/>
+In my own land, in the country of Fangorn,<br/>
+Where the roots are long,<br/>
+And the years lie thicker than the leaves<br/>
+In Tauremornalómë.
 </p>
 </div>
 

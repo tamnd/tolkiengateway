@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Lothlórien</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Lothlórien_(disambiguation).md" title="Lothlórien (disambiguation)">Lothlórien (định hướng)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Lothlórien</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Lothlórien_(disambiguation).md" title="Lothlórien (disambiguation)">Lothlórien (disambiguation)</a></b>.</div></div>
 
 **Lothlórien** là một sáng tác nhạc cụ của [Enya](../E/Enya.md). Nó xuất hiện dưới dạng ca khúc thứ chín trong album thứ ba của cô *Shepherd Moons* ([1991](../_/1991.md)) và bản thân nó không được phát hành dưới dạng đĩa đơn. Nó cũng có thể được tìm thấy trên đĩa 2 của bộ ba CD *A Box of Dreams*.
 

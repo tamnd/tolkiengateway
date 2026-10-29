@@ -18,7 +18,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>pass trong Mordor</b>. Để tìm dirk của Nargil trong <i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i>, hãy xem <b><a href="../W/Whetting_spell.md" title="Whetting spell">Thần chú đánh bóng</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the pass in Mordor</b>. For the dirk of Nargil in <i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i>, see <b><a href="../W/Whetting_spell.md" title="Whetting spell">Whetting spell</a></b>.</div></div>
 
 **Đèo Nargil** là đường đèo vượt qua [Ephel Dúath](../E/Ephel_Dúath.md) giữa [Near Harad](Near_Harad.md) và [Nurn](Nurn.md) ở phía nam [Mordor](../M/Mordor.md).<sup id="cite_ref-NargilPass_1-0" class="reference"><a href="#cite_note-NargilPass-1">[1]</a></sup>
 
